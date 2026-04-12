@@ -1,8 +1,8 @@
 from pathlib import Path
 import time
-import re
 import requests
 import pandas as pd
+import config
 
 
 """

@@ -1,0 +1,1137 @@
+A
+
+                                DISCOURSE
+
+                                  ON THE
+
+                           _Theory of Gunnery_.
+
+                                    A
+
+                                DISCOURSE
+
+                                  ON THE
+
+                           _Theory of Gunnery_.
+
+                             DELIVERED AT THE
+
+                Anniversary Meeting of the ROYAL SOCIETY,
+
+                            November 30, 1778.
+
+                       By Sir JOHN PRINGLE Baronet.
+
+                        PUBLISHED BY THEIR ORDER.
+
+                              [Illustration]
+
+                                 LONDON:
+
+                      PRINTED FOR THE ROYAL SOCIETY.
+
+                               MDCCLXXVIII.
+
+[Illustration]
+
+    GENTLEMEN,
+
+Among the several experiments communicated to the society, during the
+
+course of the preceding year, none seeming so much to engage your
+
+attention, as those contained in the Paper, intituled, _The force of
+
+fired gun-powder, and the initial velocity of cannon-balls, determined
+
+by experiments_: with much pleasure therefore I acquaint you, that, on
+
+account of the pre-eminence of that communication, your Council have
+
+judged the author, Mr. CHARLES HUTTON, worthy of the honour of the annual
+
+medal, instituted on the bequest of Sir GODFREY COPLEY Baronet, for
+
+raising a laudable emulation among men of genius, in making experimental
+
+inquiries. But, as on former occasions, so now, your Council, waving
+
+their privilege of determining the choice, have acted only as a select
+
+number deputed by you, to prepare matters for your final decision. I
+
+come then, on their part, briefly to lay before you the state of the
+
+_Theory of Gunnery_, from its rise to the time when its true foundation
+
+was laid, in order to evince how conducive those experiments may be
+
+to the improvement of an art of public concern, as well as to the
+
+advancement of _natural knowledge_, the great object of your institution.
+
+And if, upon a review of the subject, you shall entertain no less
+
+favourable an opinion of Mr. HUTTON’s performance, than what your Council
+
+have done, it is their earnest request that you would enhance the value
+
+of this prize, by authorizing your President to present it to our
+
+ingenious brother in your name.
+
+Artillery (in the large acceptation of the term) took place long before
+
+the invention of gun-powder. We trace the art to the remotest antiquity,
+
+since the Sacred Records acquaint us, that one of the kings of Judah,
+
+eight hundred years before the Christian æra, erected on the towers and
+
+bulwarks of Jerusalem engines of war, the contrivance of ingenious men,
+
+for shooting arrows and great stones for the defence of that city[1].
+
+Such machines were afterwards known to the Greeks and Romans by the
+
+names of _balista_, _catapulta_ and others, which had amazing powers,
+
+and were not less terrible in their effects than the cannon and mortars
+
+of the moderns. It appears that the _balista_ was contrived to shower
+
+volleys of darts and arrows of a very large size upon the enemy, whilst
+
+the _catapulta_ or _onagra_ (as it was otherwise called) was fitted
+
+not only for that purpose, but for discharging stones of an enormous
+
+weight; I might say _rocks_, since some of them are reported to have
+
+weighed several hundred pounds. Batteries composed of numerous pieces of
+
+that kind of artillery, nothing could withstand. Yet, if we are rightly
+
+informed, their sole principle of motion consisted in the spring of a
+
+strongly-twisted cordage, made of animal substances singularly tough and
+
+elastic. These warlike instruments continued, not only during the time
+
+of the Roman empire, but to the 12th and 13th centuries, as we find from
+
+history; nor indeed is it probable that they were totally laid aside,
+
+till gun-powder and the modern ordnance, attaining a good degree of
+
+perfection, superseded their use. The very intelligent commentator of
+
+POLYBIUS[2] is of opinion, that the military art rather lost than gained
+
+by the exchange of the _catapulta_ for the mortar: but however that
+
+point may be determined in speculation, it is not likely that the ancient
+
+_tormenta militaria_ will ever be revived; but that all nations will keep
+
+to the art of gunnery and study how to improve it; that is, they will
+
+adhere to a system of artillery, wherein the moving power depends on the
+
+expansive force of gun-powder, or of some other substance of a similar
+
+nature.
+
+Upon the first application of this principle to the purposes of war,
+
+nothing perhaps was less thought of than to assist so empirical a
+
+practice by scientific rules; for, however aiding in these matters the
+
+ancient mechanicians might have been, who, like ARCHIMEDES, had invented
+
+or perfected some of the _balistic_ machines, no praise seemed now due
+
+to the mathematicians for either the discovery or improvement of the new
+
+artillery. In fact, we find the practice of the art had subsisted about
+
+200 years, before any geometer considered it as one that admitted a
+
+theory, or at least such a theory as was grounded on geometry.
+
+It seems but just to trace and commemorate the inventors of the ingenious
+
+arts which furnish matter for discourses on these occasions; and not
+
+only the main inventors, but even those who first turned their thoughts
+
+upon the subject: for, though such men may not have produced any thing
+
+perfect, yet they may have suggested ideas to others of a less inventive,
+
+but of a more executive genius, and who, unprovided with those hints,
+
+would never have made any notable discovery. I must therefore observe,
+
+that the _Italians_ were the first who emerged out of those thick clouds
+
+of ignorance and barbarism which had so long overspread this quarter of
+
+the world. They profited by the unhappy fate of Constantinople; for by
+
+liberally receiving the learned emigrants on that distressful occasion,
+
+they were largely repaid by their arts and sciences, and still more
+
+abundantly by their language, whereby they were enabled to read and to
+
+translate those ancient manuscripts, which the Greeks had saved out of
+
+the wreck of their country. The art of printing, which was established
+
+soon after, was the means of quickly disseminating those treasures of
+
+knowledge, and concurred with the fall of the eastern empire to form an
+
+epoch for the advancement of learning, unparalleled in the annals of
+
+letters.
+
+The end of the 15th century, and the whole of the 16th, were chiefly
+
+employed by the Italians in the study and in the translation of the
+
+old Greek authors. The geometry of the ancient Greeks, as well as the
+
+arithmetic in numbers and species of the Arabians, were cultivated;
+
+but both remained, as it were, sciences by themselves, unassisting to,
+
+or at best but weak and reluctant auxiliaries to the philosophy of the
+
+schools: and indeed how could the abstracted doctrines of numbers and
+
+quantities be strained to co-operate with a system, in which neither
+
+the laws of motion, nor any but the superficial, and often delusive
+
+properties of matter, were to be met with? The genius of the Greeks, all
+
+acute and brilliant as it was, had never been properly directed to the
+
+interpretation of nature, and was indeed unfit (as Lord Bacon pronounced)
+
+for a study that made so slow and painful a progress, by re-iterated and
+
+varied experiments and observations. It was no wonder then, if the _mixed
+
+mathematics_, as they are called, descended to the moderns in a state
+
+no-wise corresponding to the elegance and certainty of those parts of the
+
+science which were elementary and pure; and that those mixed parts should
+
+have been found defective and erroneous, in proportion (if I may so
+
+express myself) to the physical considerations that were to be taken into
+
+the inquiry. The imperfection of the ancients, with regard to natural
+
+philosophy, was not perceived at that time; nay, at the period we are
+
+treating of, the learned were firmly persuaded of the contrary, and that
+
+all that was wanting to be known concerning the laws of nature, and the
+
+properties of matter, was to be taken either directly, or by deduction,
+
+from the physics of ARISTOTLE. It was not till the 17th century was
+
+somewhat advanced, that men of science began to listen to Lord BACON and
+
+GALILEO, the great founders of the experimental and the true philosophy.
+
+Mean while, in the beginning of the 16th century, unqualified as the
+
+Italians then were for entering upon physico-mathematical inquiries[3],
+
+they nevertheless made the attempt, and in particular took the theory
+
+of projectiles into consideration. Some imagined that a body impelled
+
+with violence, such as a ball discharged from a cannon, moved in a right
+
+line till the force was spent, and that then it fell in another right
+
+line perpendicularly to the earth. Upon this principle, absurd as it
+
+was, we find one of the earliest authors grounding his whole theory
+
+of gunnery[4]; whilst others, dissenting from his hypothesis, admitted
+
+only the straight line, in which the ball moved for some time after
+
+coming out of the piece, and that other straight line in which it fell
+
+to the ground; but asserted that these two were connected by a curve
+
+line, and that this curve was the segment of a circle. NICOLAS TARTAGLIA
+
+of Brescia, a mathematician of the first rank in those days, and still
+
+celebrated for his improvements in algebra, hath been supposed to be the
+
+author of this doctrine, no less erroneous than the former, and for which
+
+two of his books have been quoted[5]. Those I have never seen; but from
+
+another of his works, professedly written on this subject, and translated
+
+into English under the title of _Colloquies concerning the art of
+
+shooting in great and small pieces of artillery_[6], him I find, contrary
+
+to the opinion of his contemporaries, maintaining that no part of the
+
+track of a cannon-ball is in a right line, though the curvature in the
+
+first part of its flight be so small, that it needeth not to be attended
+
+to. But TARTAGLIA is far from supposing, that the line in question hath
+
+any relation to a _parabola_, or to any regular curve. It would seem
+
+then, that if this mathematician had at first been so far mistaken, as
+
+to fancy that some part of the course of a projectile was in a straight
+
+line, he had afterwards changed his opinion, and was perhaps singular in
+
+what he finally embraced.
+
+From numerous instances one would imagine, that in those days, so far
+
+were men of science from making experiments themselves, that they even
+
+shut their eyes against what chance would have presented to their sight.
+
+For, whoever had minded the roving shot of an arrow, the flight of a
+
+stone from a sling, or had attended to a stream of water issuing from the
+
+spout of a cistern, might have been convinced, that the path of every
+
+projectile was in a continued curve, whatever little he otherwise knew
+
+concerning the properties of that one.
+
+But had the observation of the philosophers gone so far, they had
+
+still been at a distance from the truth. They might have perceived a
+
+likeness between the track of those bodies in motion and a parabola,
+
+and concluded, from analogy, that all projectiles delineated that curve
+
+in the air; but they could never have realized their conjectures by
+
+mathematical demonstration, without previously knowing the law of
+
+_acceleration_ in falling bodies: a discovery reserved for the next
+
+century, and for GALILEO[7], one of the greatest ornaments of it.
+
+It was he who first investigated the effects of _gravity_ on falling
+
+bodies, and upon that foundation demonstrated, that all projectiles
+
+would move in a parabola in a non-resisting medium. And as he made
+
+little account of the resistance of the air, whose properties were then
+
+imperfectly known, he proved that a ball shot horizontally would, in its
+
+flight, describe half a parabola; and when the piece had an elevation
+
+above the horizon, the ball would describe a whole parabola, supposing it
+
+to fall on the plane of the battery. By the same method of reasoning he
+
+shewed, that whatever the ranges of the projected body, or the elevations
+
+of the piece were, the ball would still trace that curve line, of a
+
+greater or lesser amplitude, by the time it descended to the level of the
+
+place from whence it came.
+
+Thus far went GALILEO, confining his projections to the horizontal plane
+
+of the battery; but TORRICELLI his disciple soon after carried the
+
+theory farther, by tracing the shot to its fall, whether that place was
+
+above or below the plane; and still found, by geometrical deductions,
+
+that it flew in a parabola of a larger or a smaller amplitude, according
+
+to the angle of elevation of the piece, and the strength of the powder.
+
+Various and numerous had been the disputes in Italy about the laws of
+
+motion in general, and especially about those of projectiles, from the
+
+time the mathematicians had begun the inquiry, till the publication of
+
+the dialogues of GALILEO on that subject (a space of upwards of a hundred
+
+years) but from that period, so evident did his demonstrations appear,
+
+that all contest ceased, and every man of science was convinced, that
+
+all projectiles moved in the track which he had discovered. For, as to
+
+the resistance of the air, which he had not passed unnoticed (as GALILEO
+
+himself had been the first, at least of the moderns, who started the
+
+notion of the weight of the air and the pressure of the atmosphere) yet
+
+so thin and so yielding did they esteem that fluid to be, that they were
+
+assured it could occasion no sensible, at least no material, deviation
+
+from that curve. As they had the principle from GALILEO, so they believed
+
+themselves warranted by that respectable author, not to fear from that
+
+cause any objection, which he himself had suggested, but had removed.
+
+_Among these projectiles_ (says he) _which we make use of, if they are of
+
+a heavy matter and a round form; nay if they are of a lighter matter, and
+
+have a cylindrical form, such as arrows shot from bows, their track or
+
+path will not sensibly decline from the curve of a parabola_[8].
+
+Here then was the theory of gunnery laid, in appearance, on the most
+
+solid foundation. And thus far the Italians having proceeded, they seemed
+
+to have taken leave, and to commit the subject to other nations, whose
+
+greater power, or greater ambition, was more likely to make them avail
+
+themselves of the perfection of a military art, than their instructors.
+
+We had reason therefore to expect, that a neighbouring state, intent upon
+
+the advancement of the arts and sciences in general, would not fail to
+
+give particular attention to those that should appear most subservient
+
+to its grandeur. Accordingly we find, that our sister-society of that
+
+kingdom had not been many years established, when an ingenious member of
+
+that illustrious Body, not questioning the soundness of the Galilean
+
+principle in regard to projectiles, in the year 1677, proposed to the
+
+academy, as a problem for the improvement of artillery, how to direct
+
+a piece (suppose a mortar) so as to make the shot fall where one had a
+
+mind; or in the common expression, _to hit a mark_, the strength of the
+
+powder being given[9]. This thought met with general approbation, and so
+
+far were the academy from raising any difficulty about the obstruction
+
+which the air might occasion to a body moving with so much velocity
+
+in it, that we do not find the making experiments on that head was
+
+considered by them as an essential step to the solution; but that their
+
+principal geometers straightway set about solving the problem as it had
+
+been announced to them, some following one method, some another, and all
+
+upon the supposition of a projectile moving in the line of a parabola.
+
+But M. BLONDEL, who had been the proposer, and who more particularly had
+
+studied the question, composed a large volume on the subject, which he
+
+published a few years after[10], under the title of _L’Art de jetter les
+
+Bombes_; a performance much celebrated at the time, and that continued in
+
+no small request long after, as containing, besides his own, the labours
+
+of several other members of that society of the most distinguished
+
+merit. So many, and such hands concurring in framing this work, it was
+
+no wonder that the learned throughout Europe were confirmed by it in
+
+the Galilean theory; and the more as M. BLONDEL had obviated the only
+
+objection they supposed could be made to it, the _resistance of the air_,
+
+which he had taken care expressly to mention, and so to combat as to
+
+persuade the reader, that the retardation arising from that cause was so
+
+inconsiderable as to be of no account in the practice.
+
+This illusion about the small or non-resistance of the air to bodies
+
+rapidly moving in it, was so prevalent at the end of the last century,
+
+and in the beginning of the present, that in the history of the Royal
+
+Academy for the year 1707, we find their worthy and most accomplished
+
+secretary, after taking notice of the joint labours of so many able
+
+mathematicians concerned in BLONDEL’s publication, venturing to say, _it
+
+did not appear that any thing was then wanting for the practice of the
+
+art_ [of Gunnery] _except perhaps perfecting the instruments for pointing
+
+a cannon or mortar ... but that geometry had done its part, so to speak,
+
+with regard to practice_. &c.[11]
+
+But far be it from our intention to relate the imperfections of others,
+
+in order to raise ourselves by the comparison. Candour requires of us not
+
+only to acknowledge, that in this country, as to the point in question,
+
+we did not surpass our neighbours; but ingenuously to own that, on the
+
+contrary, we were perhaps more liable to exception. For, some years
+
+before BLONDEL’s work appeared[12], a treatise was published by one of
+
+our own artillerists, ANDERSON (a person of eminence in his profession)
+
+intituled _The genuine use and effects of the gun_, in which the author
+
+strenuously supports the Galilean theory; nor do we learn he was ever
+
+contradicted among us, although he undertook to answer all those who
+
+should make objections to it. Nay, when he had an opportunity afterwards
+
+of making experiments on the ranges of bombs, and by those trials was
+
+assured that their flight was not in a parabola; yet so far was he from
+
+ascribing the deviation from that figure to the resistance of the air,
+
+that he had recourse to an hypothesis, repugnant to all the laws of
+
+motion, to salve appearances, and to reconcile those experiments with his
+
+former doctrine[13].
+
+And did not Dr. HALLEY, so long the ornament of this society, communicate
+
+in the year 1686 a Paper, which he calls _A discourse concerning
+
+gravity_, in which, treating of the motion of projectiles, he says, that
+
+being aware of the deflexion from the parabolic curve that might be
+
+occasioned by the resistance of the air, he had made some experiments,
+
+even with cannon-balls, to estimate the force of that resistance; yet
+
+conclude, _That in large shot of metal, whose weight many thousand times
+
+surpassed that of air, and whose force is very great, in proportion to
+
+the surface wherewith they press thereupon, this opposition was not
+
+discernible_. And again, _Though in small and light shot, the opposition
+
+of the air ought and must be accounted for; yet in shooting great and
+
+weighty bombs, there need be very tittle allowance made; and so these
+
+rules_ [those, to wit, grounded on the principle of GALILEO] _may be put
+
+in practice to all intents and purposes, as if this impediment_ [the
+
+resistance of the air] _were absolutely removed_[14]. Such conclusions,
+
+which we now find to be erroneous, were the less to be expected from so
+
+eminent a person, as they argued too much haste to finish a theory, that
+
+was to be made subservient to present use.
+
+It might indeed have been expected, that men of science applying
+
+themselves to this study, would have been sooner awakened to the
+
+consideration of the great opposition of the air, by the _Principia_ of
+
+NEWTON, published a little after this Paper of HALLEY’s[15]. For in that
+
+excellent work the illustrious author had demonstrated, that the curve
+
+described by a projectile, in a strongly resisting medium, differed much
+
+from a parabola, and that the resistance of the air was great enough to
+
+make the difference between the curve of projection of heavy bodies and a
+
+parabola far from being insensible, and therefore too considerable to be
+
+neglected.
+
+Have we not then less to plead for not attending to the _Principia_ of
+
+NEWTON in this article[16], than the mathematicians of other nations,
+
+who, as M. de FONTENELLE observes[17], partly from the difficulty
+
+of understanding that concise and profound work, and partly from a
+
+misapprehension of its tendency (which they fancied was to revive the
+
+exploded doctrine of _occult qualities_) were late in becoming acquainted
+
+with it? But it is not so easy to account for their inattention to
+
+HUYGENS, a known and even then a much esteemed author, and who indeed
+
+was second to NEWTON alone in science and in genius. For he in the year
+
+1690 had published a treatise on _Gravity_, written in a popular manner,
+
+wherein he gave an account of some experiments he had made at Paris, and
+
+in the academy, by which, as well as by mathematical investigations,
+
+he was convinced of the truth of NEWTON’s conclusions, in regard to
+
+the great opposition of the air to bodies moving swiftly in it; and,
+
+by consequence, believed that the track of all projectiles was very
+
+different from the line of a parabola[18].
+
+But excepting NEWTON and HUYGENS, the learned seemed universally to
+
+acquiesce in the justness and sufficiency of the principles of gunnery
+
+invented by GALILEO, enlarged by TORRICELLI, confirmed and reduced to
+
+system by ANDERSON, BLONDEL, HALLEY and others; and so far were the
+
+theorists, in that branch of science, from suspecting any defect or
+
+fallacy in these principles, that they seemed rather to reproach the
+
+practical artillerists, for not profiting more by the instructions which
+
+they had so liberally imparted to them. Nor do we find that an apology
+
+was made for the empirical exercise of the art, by any author of note
+
+in that line, earlier than the sixteenth year of this century, when M.
+
+de RESSONS, a French officer of artillery, distinguished by the number
+
+of sieges at which he had served, by his high military rank, and by his
+
+abilities in his profession; when he, I say, thus qualified to bear
+
+testimony, presented a _memoire_ to the Royal Academy (of which he was
+
+a member) importing, that _although it was agreed that theory joined to
+
+practice did constitute the perfection of every art, yet experience had
+
+taught him, that theory was of very little service in the use of mortars.
+
+That the work of M. BLONDEL had justly enough described the several
+
+parabolic lines, according to the different degrees of the elevation of
+
+the piece; but that practice had convinced him there was no theory in the
+
+effects of gun-powder: for that having endeavoured, with the greatest
+
+precision, to point a mortar agreeably to those calculations, he had
+
+never been able to establish any solid foundation upon them[19]._
+
+Thus, after the theory of gunnery had exercised the genius of the
+
+learned for nearly two hundred years, and for almost fourscore of that
+
+time had rested on fundamentals which had never been contested, it was
+
+pronounced at once to be almost intirely useless, and that by one of
+
+the most competent judges. Now, whether it were owing to the deference
+
+due to the authority of that experienced artillerist, or to some other
+
+cause, I shall not determine, but observe, that it appears not from the
+
+history of the academy, that the sentiments of M. de RESSONS were at this
+
+time controverted, or any reason offered afterwards for the failure of
+
+the theory of projectiles when applied to use. Nor can I pass unnoticed
+
+the pause that ensued before any further attempts were made to improve
+
+the theory of the art, either upon the old principles or upon new ones,
+
+except by such authors as seemed ignorant of this transaction, and who of
+
+course were not sufficiently apprized of the inefficacy of the properties
+
+of the parabola for directing practice. Or by those who were employed in
+
+speculatively investigating the nature of the curve traced by a ball in
+
+the air; a curve which began at last to be considered as one deviating
+
+much from the line of a parabola. Or, finally, by such as, having taken
+
+notice that NEWTON’s ideas had not been duly attended to, endeavoured
+
+to avail themselves of them, and of some experiments that had been made
+
+by others, for proving the great opposition of the air to bodies of
+
+swift motion; but without ascertaining the degree of that resistance, or
+
+enriching the art by any practical rules[20].
+
+Such was the unhinged state of this part of the mixed mathematics,
+
+when within our memory Mr. BENJAMIN ROBINS took cognizance of it: nor
+
+could the subject have fallen into abler hands, endowed as he was by
+
+nature with a superior genius and unwearied application. Mr. ROBINS was
+
+deeply versed in geometry and the doctrine of numbers; but he knew the
+
+limits as well as the powers of both, and how insufficient they were for
+
+establishing any theory where matter was concerned, without preparing
+
+the way, by finding out the physical properties of that _matter_, by
+
+many and varied experiments and attentive observation. Those who had
+
+hitherto treated of the foundation of gunnery, by being too forward in
+
+the application of their mathematics, had in a manner hurt the credit
+
+of that admirable science. They ought to have seen the necessity of
+
+minutely examining every circumstance which could affect the course of
+
+a projectile, besides that of gravity. Mr. ROBINS perceived the error
+
+of his predecessors in that inquiry, and corrected it. Persuaded as he
+
+was from sir ISAAC NEWTON’s _Principia_ of the great resistance of the
+
+air to bodies moving in it, and also of the uncertainty of the force
+
+of gun-powder, and of the variations in the flight of shot, occasioned
+
+by the unavoidable varieties in the make of it, and in the make of the
+
+pieces of artillery which discharged it; apprized, I say, of so many
+
+causes of aberration, he justly concluded, that the foundation here was
+
+at least as much an affair of physics as of geometry, and that if the art
+
+of throwing bombs had not been advanced by theory, it was not because
+
+the art admitted of none, but because the theory which had hitherto been
+
+devised had been both defective and erroneous. He suspected that most of
+
+the writers on gunnery had been deceived, in supposing the resistance
+
+of the air to be inconsiderable, and thence asserting the track of all
+
+shot to be nearly in the curve of a parabola, by which means it came to
+
+pass that all their determinations, about the flight of projectiles of
+
+violent motion, had declined considerably from the truth. But in order
+
+to clear this point from every doubt, he found it necessary to ascertain
+
+the force of gun-powder, and by that step to estimate the velocity of
+
+the shot impelled by its explosion. That being done, he proceeded to
+
+measure the quickness of a musket-bullet, shot out of a given barrel,
+
+with a given quantity of powder; and to confirm the truth of his
+
+conclusions, he contrived a machine, by which the velocity of a bullet
+
+might be diminished in any given _ratio_, by being made to strike on a
+
+large body of a weight justly proportioned to it; whereby the swiftest
+
+motions, which otherwise would escape our examination, were to be exactly
+
+determined by these slower motions that had a given relation to them. The
+
+machine was a large wooden pendulum, which swung freely, but in so slow
+
+a manner, that its vibrations could easily be counted, whatever was the
+
+celerity of the bullet discharged against it. The thought was simple,
+
+ingenious, and incontestably his own.
+
+He next inquired into the resistance made by the air to projectiles of
+
+rapid motion, and which he discovered to be much greater than had been
+
+supposed by any writer on the subject; and indeed so great, that it
+
+was manifest the curve described by any shot was very different from a
+
+parabola, and consequently that all the applications of the properties
+
+of that conic section to gunnery were so erroneous as to be totally
+
+useless. For by means of this pendulum, placed at different distances
+
+from the mouth of the piece, he clearly demonstrated how much a bullet,
+
+flying with a given velocity, would gradually lose of that motion by the
+
+opposition of the air: therein furnishing to the learned a signal and
+
+instructive instance of the fallacy of the most specious theories, that
+
+do not proceed hand in hand with experiments.
+
+I should too much exceed the just bounds of a discourse of this kind,
+
+were I to enter more minutely into the system founded by Mr. ROBINS,
+
+confirmed and improved, as I find, by the labours of several of the
+
+learned in foreign parts of great celebrity[21]. I shall only add,
+
+that his performance well deserves the title he gives it of _The new
+
+principles of gunnery_, since the author may more properly be said to
+
+have invented a new science than to have added to an old one. And I
+
+believe I may venture to say, that no physico-mathematical disquisition
+
+hath done more honour to this country, or to the age, than the writings
+
+of Mr. ROBINS on this subject, which have been published, partly by this
+
+Society, partly by himself, and partly since his death (in the collection
+
+of his whole mathematical tracts) by his learned friend.
+
+But though our worthy brother will ever be celebrated for being the
+
+inventor of the true principles of gunnery, yet it would be too
+
+flattering to his memory, to say he had carried the theory of this art
+
+to perfection. He himself was far from entertaining so high an opinion
+
+of his labours; nay he expressly declared, that he left some material
+
+points to be inquired into at more leisure (which other occupations
+
+and his immature death deprived him of) and he much regretted that he
+
+wanted conveniency and opportunities for making experiments on balls of
+
+a greater weight, than what he had used for ascertaining the initial
+
+velocity of them.
+
+Much therefore are we indebted to Mr. HUTTON, who, treading in the
+
+footsteps of the deceased, hath resumed and prosecuted this last
+
+_desideratum_, and hath shewn himself not unequal to so difficult an
+
+enterprize.
+
+Mr. ROBINS, for determining the initial velocity of shot, arising from
+
+different quantities of powder, made use of balls of about an ounce
+
+weight; whereas Mr. HUTTON, for the same purpose, hath employed those of
+
+different weights, from one pound to nearly three; or, in other words,
+
+Mr. ROBINS made trial with musket-shot only, Mr. HUTTON with cannon-balls
+
+from 20 to about 50 times heavier. This was a considerable step gained
+
+in a disquisition of that part of the science, in which the resistance
+
+of the air and other circumstances were not concerned; and where neither
+
+analogy alone, nor mathematical deductions alone, nor the two combined,
+
+were sufficient for establishing principles applicable to the motion of
+
+cannon-balls, without making a new series of experiments: and with what
+
+labour and judgment these have been performed, you understood by the
+
+account which Mr. HUTTON gave of them in his Paper.
+
+But should it now be inquired, what advantages may be derived from Mr.
+
+HUTTON’s experiments, for the advancement of the art of gunnery, and of
+
+philosophy in general? I would reply, that as to the former it may be
+
+sufficient to observe, that though the improvements be only such as can
+
+be deduced from the force of fired gun-powder; yet they are in a higher,
+
+more certain, and in a more general manner, than what resulted from the
+
+labours of Mr. ROBINS; who indeed led the way, but who made, as it were
+
+in miniature, those experiments which Mr. HUTTON hath executed at large,
+
+and which ROBINS himself wished to have made, as well as others who have
+
+considered the subject since his time. Now these experiments, though made
+
+by Mr. HUTTON with cannon-balls of a small size, may nevertheless form
+
+just conclusions when applied to cannon-shot of the largest size. And
+
+such conclusions inform us of the real force of powder when fired, either
+
+in a cannon or a mortar, impelling a ball or bomb of a given weight;
+
+that is, they discover with what velocity a given quantity of powder
+
+drives those projectiles in a second, or in any other assigned portion
+
+of time. They also shew the law of variation in the velocity arising
+
+from different quantities of powder, with the same weight of metal,
+
+and likewise that law which takes place upon using balls of different
+
+weights. Further, they point out the advantage obtained by diminishing
+
+the windage in cannon, and teach us how we may increase the weight of
+
+the shot in the same piece, by making it of a cylindrical form, instead
+
+of a spherical: by this device, a smaller ship may be enabled to do the
+
+execution of a larger one. And experiments of the same kind will also
+
+determine the just length of cannon for shooting farthest with the same
+
+charge of powder.
+
+Lastly, it is from these experiments, or from others that may be made
+
+after the like manner, we are instructed how to answer every question
+
+relative to military projectiles, except such as depend on the resistance
+
+of the air to bodies moving swiftly in it. This indeed is a consideration
+
+which leaves room for greater improvement in the art, and for conferring
+
+fresh honours on those, who, like Mr. HUTTON, shall have opportunities
+
+and abilities for continuing and perfecting this very curious and useful
+
+inquiry.
+
+As to the advantages accruing to philosophy from the labours both of
+
+Mr. ROBINS and Mr. HUTTON, speak they not for themselves? The sciences
+
+of motion and pneumatics are promoted by them; and of what avail their
+
+perfection would be for the farther interpretation of nature, you need
+
+not be informed. In fine, we have here before us, in these experiments,
+
+the surest test of our advancement in true knowledge, which is, the
+
+improvement of a liberal art, and the enlargement of the powers of man
+
+over the works of creation.
+
+Some however may think, that the objects of this society are the arts of
+
+peace alone, not those of war, and that considering how numerous and how
+
+keen the instruments of death already are, it would better become us to
+
+discourage than to countenance their farther improvement. These naturally
+
+will be the first thoughts of the best disposed minds. But when upon
+
+a closer examination we find, that since the invention of arms of the
+
+quickest execution, neither battles nor sieges have been more frequent
+
+nor more destructive, indeed apparently otherwise; may we not thence
+
+infer, that such means as have been employed to sharpen the sword, have
+
+tended more to diminish than to increase the number of its victims, by
+
+shortening contests and making them more decisive. I shall not however
+
+insist on maintaining so great a paradox; but only surmise, that
+
+whatever State would adopt the Utopian maxims, and proscribe the study of
+
+arms, would soon, I fear, become a prey to those who best knew how to use
+
+them. For yet, alas! far seem we to be removed from those promised times,
+
+_when nation shall not lift up sword against nation, neither shall they
+
+learn war any more_!
+
+       *       *       *       *       *
+
+_Here ended the President’s Discourse: after which he turned to Mr.
+
+HUTTON, and said_,
+
+You have heard, Sir, the account I have given of the rise and progress
+
+of the _theory of gunnery_, and of your improvement of it; a recital,
+
+which by no means would have done either you or the subject justice, had
+
+it been addressed to any other audience than to the present. But as my
+
+intention was only briefly to recall to the memory of these gentlemen
+
+what they knew of this subject, antecedently to your Paper, and to remind
+
+them of the result of your experiments, I flatter myself I have said
+
+what was sufficient on the occasion; being now authorized by them to
+
+deliver into your hand this medal, as the perpetual memorial of their
+
+approbation. And let me add, Sir, that they make you this present with
+
+the more cordial affection, as by your other ingenious and valuable
+
+communications they are assured, not only of your talents, but of your
+
+zeal, for promoting the interests and honour of their Institution.
+
+[Illustration]
+
+FOOTNOTES
+
+[1] 2 Chron. xxvi. 15.
+
+[2] M. FOLARD.
+
+[3] The chief exception that occurs to this general remark, is the rapid
+
+progress which in that age COPERNICUS made in astronomy; who was not
+
+indeed an Italian, but was supposed to have profited by his early travels
+
+into Italy, which he enlightened afterwards by his admirable discoveries.
+
+[4] See MONTUCLA, Hist. des Mathem. vol. I. p. 623.
+
+[5] Those were _La Nuova Scientia_, and _Quesiti ed Inventioni diverse_.
+
+[6] Published at London, A. 1588.
+
+[7] He was born in the year 1564; but few if any of his works were
+
+published till after the year 1600, and his dialogues on motion not
+
+before 1638.
+
+[8] See his 4th Dialogue on Motion.
+
+[9] See Hist. de l’Academ. Roy. des Sciences, A. 1707.
+
+[10] In the year 1683, see Hist. de l’Acad. R. des Sci. A. 1707.
+
+[11] Hist. de l’Acad. R. des Sc. A. 1707, under the article _Mechanique_.
+
+[12] Viz. in 1674.
+
+[13] See his treatise _To hit a Mark_, published in 1690.
+
+[14] Philos. Trans. No. 179, p. 20.
+
+[15] In the year 1687.
+
+[16] NEWTON, Princip. Mathem. lib. ii. sect. 7.
+
+[17] Eloge de NEWTON.
+
+[18] Discours de la Cause de la Pesanteur. Leide, 1690.
+
+[19] Mem. de l’Acad. R. des Sc. A. 1716.
+
+[20] DAN. BERNOULLI, Comment. Acad. Petropol. T. 2. & 3.
+
+[21] It is also much to the honour of Mr. ROBINS, that his writings on
+
+this subject have been translated into foreign languages by men that were
+
+the best judges of their merit. I need only name MM. EULER, and LE ROY.
+
+ERRATA.
+
+    Page 4. l. 5. _for_ this _read_ the
+
+        16.    9. _for_ combate _read_ combat
+
+        20.   17. _for_ tract _read_ track
+
+        26.   last line of the note, _for_ M. M. _read_ MM.
+
+Transcriber’s Note: The errata have been corrected.
+
+***

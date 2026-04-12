@@ -1,0 +1,649 @@
+Produced by Chris Curnow, Joseph R. Hauser, Joseph Cooper
+
+and the Online Distributed Proofreading Team at
+
+https://www.pgdp.net
+
+UNIVERSITY OF KANSAS PUBLICATIONS MUSEUM OF NATURAL HISTORY
+
+Volume 18, No. 1, pp. 1-10 September 24, 1968
+
+The Genera of Phyllomedusine Frogs (Anura: Hylidae)
+
+BY
+
+WILLIAM E. DUELLMAN
+
+UNIVERSITY OF KANSAS LAWRENCE 1968
+
+UNIVERSITY OF KANSAS PUBLICATIONS, MUSEUM OF NATURAL HISTORY
+
+Editors of this number: Frank B. Cross, Philip S. Humphrey, J. Knox
+
+Jones, Jr.
+
+Volume 18, No. 1, pp. 1-10 Published September 24, 1968
+
+UNIVERSITY OF KANSAS Lawrence, Kansas
+
+PRINTED BY ROBERT R. (BOB) SANDERS, STATE PRINTER TOPEKA, KANSAS 1968
+
+32-3687
+
+The Genera of Phyllomedusine Frogs (Anura: Hylidae)
+
+BY
+
+WILLIAM E. DUELLMAN
+
+One of the most distinctive phyletic lines among the diverse Neotropical
+
+hylid frogs is composed of a group of 40 species placed in the genus
+
+_Phyllomedusa_ (Funkhouser, 1957) or in two or three different genera
+
+(Goin, 1961; Lutz, 1966). These species differ from all other
+
+Neotropical hylids by possessing a vertical, instead of horizontal,
+
+pupil. The only other hylids having a vertical pupil belong to the
+
+Papuan genus _Nyctimystes_. Goin (1961) erroneously stated that
+
+_Nyctimantis_ and _Triprion_ have vertical pupils.
+
+Although limited information is available on the cytotaxonomy of hylids,
+
+the data show that phyllomedusine species have _n_=13 (2_n_=26)
+
+chromosomes. _Acris_ has _n_=11 (2_n_=22) (Cole, 1966). Members of the
+
+_Hyla leucophyllata_, _microcephala_, and _parviceps_ groups have _n_=15
+
+(2_n_=30), _Gastrotheca ceratophrys_ has a haploid number of 14, the
+
+Papuan hylid genus _Nyctimystes_ and all but one of the Australo-Papuan
+
+_Hyla_ for which the numbers are known have a haploid number of 13, and
+
+all other New World hylids studied have _n_=12 (2_n_=24) (Duellman and
+
+Cole, 1965; Duellman, 1967).
+
+Cei (1963) and Cei and Erspamer (1966) noted that phyllomedusine frogs
+
+differ notably from other Neotropical hylids on the basis of the amines
+
+and polypeptides in the skin. All species of phyllomedusines deposit
+
+their eggs in a gelatinous mass on leaves or branches above water.
+
+Although this type of egg deposition is characteristic of some
+
+rhacophorines and apparently all centrolenids, it is known among hylids
+
+only in the phyllomedusines and in two species of _Hyla_.
+
+The distinctive combination of morphological, physiological,
+
+chromosomal, and behavioral characteristics is strongly suggestive that
+
+these frogs represent an early phyletic divergence within the Hylidae.
+
+Günther (1859) proposed the familial name Phyllomedusidae for
+
+_Phyllomedusa bicolor_ (Boddaert). I suggest the recognition of the
+
+group as a subfamily. The following classification of the
+
+phyllomedusines is based on my own knowledge of the Middle American and
+
+some South American species and on evidence from the literature on those
+
+South American species with which I am not personally familiar.
+
+Subfamily Phyllomedusinae Günther, 1859
+
+     Phyllomedusidae Günther 1859 [Type genus, _Phyllomedusa_ Wagler,
+
+     1830].
+
+_Definition._--Moderately small to large hylids having vertical pupils,
+
+_n_=13 (2_n_=26) chromosomes, skin containing large amounts of
+
+powerful bradykinin-like and physalaemin-like polypeptides, eggs
+
+suspended from vegetation above water, and tadpoles have a ventral
+
+spiracle sinistral to midline.
+
+_Range._--Low and moderate elevations in South and Middle America,
+
+including Trinidad, from northern Argentina and northwestern Ecuador to
+
+Veracruz and southern Sonora, México.
+
+_Content._--Three genera, one of which probably is composite.
+
+Genus =Agalychnis= Cope, 1864.
+
+_Agalychnis_ Cope, 1864 [Type species, _Hyla moreletii_ Duméril, 1853,
+
+by subsequent designation].
+
+_Definition._--Fingers and toes at least half webbed; terminal discs
+
+large; first toe shorter than second and not opposable to others; skin
+
+smooth, lacking osteoderms; parotoid glands, if present, poorly
+
+developed and diffuse; palpebral membrane reticulate (except in _A.
+
+calcarifer_); iris red or yellow; skull shallow, depth less than 40 per
+
+cent of length; nasals large; frontoparietal fontanelle large;
+
+quadratojugals reduced; prevomerine teeth present.
+
+_Range._--Central Veracruz and northern Oaxaca, México, southeastward
+
+through Central America to northwestern Ecuador; one species disjunct in
+
+Amazonian Ecuador.
+
+_Content._--Eight species [synonyms in brackets]: _annae_ (Duellman,
+
+1963); _calcarifer_ Boulenger, 1902; _callidryas_ (Cope, 1862)
+
+[_helenae_ Cope, 1885; _callidryas taylori_ (Funkhouser, 1957)];
+
+_craspedopus_ (Funkhouser, 1957); _litodryas_ (Duellman and Trueb,
+
+1967); _moreleti_ (Duméril, 1853) [_holochroa_ (Salvin, 1861)];
+
+_saltator_ Taylor, 1955; _spurrelli_ Boulenger, 1913.
+
+_Remarks._--Savage and Heyer (1967) provided evidence that _A.
+
+callidryas taylori_ (Funkhouser) and _A. helenae_ Cope were junior
+
+synonyms of _A. callidryas_ (Cope).
+
+Genus =Pachymedusa=, new genus
+
+Type species, _Agalychnis dacnicolor_ Cope, 1864.
+
+_Definition._--Fingers and toes having basal webs and lateral fringes;
+
+terminal discs large; first toe shorter than second and not opposable to
+
+others; skin smooth or shagreened, lacking osteoderms; paratoid glands
+
+present, diffuse; palpebral membrane reticulate; iris golden yellow with
+
+black reticulations; skull deep, depth more than 50 per cent of length;
+
+nasals large; frontoparietal fontanelle moderately large; quadratojugal
+
+robust; prevomerine teeth present.
+
+_Range._--Pacific slopes and lowlands from southern Sonora to the
+
+Isthmus of Tehuantepec, México.
+
+_Content._--Monotypic: _dacnicolor_ Cope, 1864 [_alcorni_ Taylor, 1952].
+
+_Remarks._--The generic name is derived from the Greek _pachy_ meaning
+
+thick and the Greek _Medousa_ (Latin, _Medusa_) in reference to
+
+_Phyllomedusa_; the sense implied is the heavy body of _Pachymedusa
+
+dacnicolor_.
+
+Genus =Phyllomedusa= Wagler, 1830
+
+_Phyllomedusa_ Wagler, 1830 [Type species, _Rana bicolor_ Boddaert,
+
+1772].
+
+_Pithecopus_ Cope, 1866 [Type species, _Phyllomedusa azurea_ Cope, 1862
+
+(=_Phyllomedusa hypochondrialis_ Daudin, 1803), by original
+
+designation].
+
+_Hylomantis_ Peters, 1872 [Type species _Hylomantis aspera_ Peters,
+
+1872, by monotypy].
+
+_Phrynomedusa_ Miranda-Ribeiro, 1923 [Type species, _Phrynomedusa
+
+fimbriata_ Miranda-Ribeiro, 1923, by subsequent designation].
+
+_Bradymedusa_ Miranda-Ribeiro, 1926 [Type species, _Bradymedusa
+
+moschada_ Miranda-Ribeiro, 1926 (=_Phyllomedusa rohdei_ Mertens, 1926)
+
+by subsequent designation].
+
+_Definition._--Fingers and toes having greatly reduced webbing or
+
+lacking webs; terminal discs small; first toe shorter than, equal to, or
+
+longer than second, opposable or not; skin smooth or rugose having
+
+osteoderms or not; parotoid glands present, in most species, usually
+
+distinct and elevated; palpebral membrane not reticulate; iris uniformly
+
+silvery white to orange-bronze with black reticulations; skull moderate
+
+to deep, depth more than 38 per cent of length; nasals moderately small;
+
+frontoparietal fontanelle present, variable in size; quadratojugal
+
+reduced in some species; prevomerine teeth present or absent.
+
+_Range._--Low and moderate elevations in South America east of the Andes
+
+from the Caribbean (including Trinidad) to northern Argentina; Costa
+
+Rica and Panamá in Central America.
+
+_Content._--Thirty-one species [synonyms in brackets]: _aspera_ (Peters,
+
+1872); _ayeaye_ (B. Lutz, 1966); _bahiana_ A. Lutz, 1925; _bicolor_
+
+(Boddaert, 1772) [_scleroderma_ Cope, 1868]; _blombergi_ Funkhouser,
+
+1957; _boliviana_ Boulenger, 1902; _buckleyi_ Boulenger, 1882;
+
+_burmeisteri burmeisteri_ Boulenger, 1882; _burmeisteri distincta_ B.
+
+Lutz, 1950; _centralis_ Bokermann, 1965; _cochranae_ Bokermann, 1966;
+
+_coelestis_ (Cope, 1874); _edentula_ Andersson, 1945; _feltoni_ Shreve,
+
+1935; _fimbriata_ (Miranda-Ribeiro, 1923) [_appendiculata_ A. Lutz,
+
+1925]; _guttata_ A. Lutz, 1925; _hypochondrialis_ (Daudin, 1803)
+
+[_azurea_ Cope, 1862; _megacephala_ (Miranda-Ribeiro, 1926)]; _iheringi_
+
+Boulenger, 1885; _lemur_ Boulenger, 1882; _loris_ Boulenger, 1912;
+
+_medinae_ Funkhouser, 1962; _nicefori_ Barbour, 1926; _orcesi_
+
+Funkhouser, 1957; _pailona_ Shreve, 1959; _perlata_ Boulenger, 1882;
+
+_rohdei_ Mertens, 1926 [_moschada_ (Miranda-Ribeiro, 1926)]; _sauvagei_
+
+Boulenger, 1882 [_rickettsii_ Günther, 1897]; _tarsius_ (Cope, 1868);
+
+_tomopterna_ (Cope, 1868) [_palliata_ Peters, 1872]; _trinitatis_
+
+Mertens, 1926, _vaillanti_ Boulenger, 1882, _venusta_ Duellmann and
+
+Trueb, 1967.
+
+_Remarks._--_Phyllomedusa_ includes 1) a series of large species
+
+(_bicolor-burmeisteri_) showing progressive specialization of the feet;
+
+2) a series of small species having grasping feet (_ayeaye_,
+
+_centralis_, _cochranae_, _guttata_, _hypochondrialis_, and _rohdei_);
+
+3) a series of small, relatively unspecialized species (_lemur_,
+
+_loris_, and _medinae_); and 4) several other species of questionable
+
+affinities. Lutz (1966) resurrected Cope's (1866) _Pithecopus_ for 12
+
+species (_ayeaye_, _boliviana_, _burmeisteri_, _coelestis_,
+
+_hypochondrialis_, _nicefori_, _rohdei_, _sauvagei_, _tarsius_,
+
+_tomopterna_, _trinitatis_, and _vaillanti_). Adequate material is not
+
+available for detailed study of all South American species;
+
+consequently, a firm classification cannot be established at this time.
+
+Nevertheless, it is obvious that Lutz's arrangement is unnatural. If
+
+subsequent investigations show, as seems likely, that the small
+
+specialized phyllomedusines are a natural phyletic unit, the generic
+
+name _Pithecopus_ is available. However, species such as _boliviana_,
+
+_burmeisteri_, _nicefori_, and _trinitatis_ do not belong in
+
+_Pithecopus_. As noted by Funkhouser (1962), the small, relatively
+
+unspecialized species (_lemur_, _loris_, and _medinae_) form a natural
+
+group; possibly this group should be accorded generic recognition. Until
+
+more evidence on the interspecific relationships is acquired, the
+
+maintenance of the current classification is desirable.
+
+DISCUSSION
+
+Noble (1931) considered the species of _Phyllomedusa_ having opposable
+
+digits, reduced terminal discs, and no webbing to be advanced and such
+
+species as _Agalychnis moreleti_, _calcarifer_, and _spurrelli_ to be
+
+primitive. Funkhouser (1957) followed Noble's suggestion and attempted
+
+to explain the evolution of the species of _Phyllomedusa_ (_sensu lato_)
+
+by assuming that they evolved from an advanced _Hyla_-like ancestor.
+
+Therefore, she placed those species having large, fully webbed hands and
+
+feet near the base of her phylogenetic scheme and hypothesized that
+
+evolutionary sequences involved stages of reduction and eventual loss of
+
+webbing, followed by the development of grasping toes. Such an
+
+evolutionary history is highly unlikely. The _Agalychnis_ phyletic line
+
+has one kind of specialization for an arboreal existence. It is contrary
+
+to evolutionary theory that a specialized group would evolve into a
+
+generalized form and then evolve new kinds of specializations to meet
+
+the needs imposed by the same environmental conditions affecting the
+
+earlier specialized group. A more reasonable hypothesis is that the
+
+evolution of opposable digits took place in a phyletic line that had as
+
+its ancestral stock a frog with generalized hands and feet. If this
+
+assumption is correct, _Phyllomedusa_ and _Agalychnis_ represent
+
+different phyletic lines; each exhibits divergent modes of adaptation
+
+for arboreal habits, whereas _Pachymedusa_ probably remains relatively
+
+little changed from the basic phyllomedusine stock.
+
+On the basis of modern distribution and areas of diversification alone
+
+(no fossils are known), it is evident that _Phyllomedusa_ underwent its
+
+adaptive radiation in South America, _Agalychnis_ evolved in Central
+
+America, and _Pachymedusa_ ended up in western México. If we follow the
+
+Matthewsian concepts of the American herpetofauna outlined by Dunn
+
+(1931) and modified by Schmidt (1943) and Stuart (1950), _Pachymedusa_
+
+represents a "hanging-relict" of a group that moved southward. According
+
+to Savage's (1966) interpretation of the origins and history of the
+
+American herpetofauna, _Agalychnis_ and _Pachymedusa_ are members of the
+
+Mesoamerican fauna, and _Phyllomedusa_ is part of the Neotropical fauna.
+
+Perhaps the phyllomedusines arose in South America; from there a
+
+primitive stock spread northward and survived as _Pachymedusa_ in
+
+México, whereas the stock in Central America and South America evolved
+
+into _Agalychnis_ and _Phyllomedusa_, respectively.
+
+Evidently the primitive phyllomedusines evolved the habit of arboreal
+
+egg deposition and a walking gait; the latter is best developed in the
+
+small, highly specialized species of _Phyllomedusa_ (Lutz, 1966).
+
+Probably the other divergent arboreal adaptations resulted from
+
+environmental stresses and competition. The generalized _Pachymedusa_
+
+inhabits relatively dry areas characterized by low forest. Throughout
+
+its range it coexists with no more than five other arboreal hylids. The
+
+species of _Agalychnis_ live in rain forests and humid montane forests.
+
+In any given area one species of _Agalychnis_ occurs sympatrically with
+
+no more than a dozen other arboreal hylids. With few exceptions the
+
+species of _Agalychnis_ are more arboreal in their habits than are other
+
+hylids. The species of _Phyllomedusa_ live in the same kinds of habitats
+
+as do those of _Agalychnis_, but throughout the ranges of most of the
+
+species of _Phyllomedusa_ the diversity of arboreal hylids is much
+
+greater than in Central America. In the upper Amazon Basin as many as 35
+
+hylids occur sympatrically. Many groups of _Hyla_ in this area (for
+
+example, the _Hyla boans_ and _Hyla marmorata_ groups) are equally as
+
+arboreal in their habits as are the species of _Agalychnis_ in Central
+
+America. Conceivably, competition within this array of tree frogs
+
+resulted in selection for modification of the extremities, thereby
+
+bringing about a different mode of climbing in _Phyllomedusa_. The
+
+walking gait already present in phyllomedusines provided a source for
+
+further modification, which resulted in the development of opposable
+
+digits and the associated lemuroid manner of climbing.
+
+The known life histories of most species of _Phyllomedusa_, all species
+
+of _Agalychnis_, and that of _Pachymedusa_ are similar.
+
+Characteristically the tadpoles are generalized pelagic types that
+
+develop in ponds, but at least some of the small specialized
+
+_Phyllomedusa_ in southeastern Brazil have stream-adapted tadpoles with
+
+funnel-shaped mouths (Cochran, 1955; Bokermann, 1966). Knowledge of the
+
+life histories of the other species of _Phyllomedusa_ should aid in the
+
+interpretation of the phylogenetic relationships of the several groups
+
+of frogs now assigned to that genus.
+
+ACKNOWLEDGMENTS
+
+I am grateful to Linda Trueb who provided the osteological data
+
+included, and who helped me in formulating some of the ideas expressed
+
+in the discussion. This paper is a result of investigations on hylid
+
+frogs supported by the National Science Foundation (NSF-GB-5818).
+
+LITERATURE CITED
+
+BOKERMANN, W. C. A
+
+     1966. A new _Phyllomedusa_ from southeastern Brazil. Herpetologica,
+
+           22:293-297.
+
+CEI, J. M
+
+     1963. Some precipitin tests and preliminary remarks on the
+
+           systematic relationships of four South American families of
+
+           frogs. Bull. Serological Mus., 30:4-6.
+
+CEI, J. M. and V. ERSPAMER
+
+     1966. Biochemical taxonomy of South American amphibians by means of
+
+           skin amines and polypeptides. Copeia, no. 1:74-8.
+
+COCHRAN, D. M
+
+     1955. Frogs of southeastern Brazil. Bull. U. S. Natl. Mus., 206;
+
+           xvi + 423 pp.
+
+COLE, C. J
+
+     1966. The chromosomes of _Acris crepitans blanchardi_ Harper
+
+           (Anura: Hylidae). Copeia, no. 3:578-580.
+
+COPE, E. D
+
+     1864. Contributions to the herpetology of tropical America. Proc.
+
+           Acad. Nat. Sci. Philadelphia, 16:166-181. 1866. On the
+
+           structures and distribution of the genera of arciferous
+
+           Anura. Jour. Acad. Nat. Sci. Philadelphia, ser. 2, 6:67-112.
+
+DUELLMAN, W. E
+
+     1967. Additional studies on chromosomes of anuran amphibians. Syst.
+
+           Zool., 16:38-43.
+
+DUELLMAN, W. E. and C. J. COLE
+
+     1965. Studies of chromosomes of some anuran amphibians (Hylidae and
+
+           Centrolenidae). Syst. Zool., 14:139-143.
+
+DUMÉRIL, A. H
+
+     1853. Memoire sur les batraciens anoures de la famille des
+
+           hylaeformes ou rainettes comprenant la description d'un genre
+
+           nouveau et de onze espèces nouvelles. Ann. Sci. Nat., ser. 3,
+
+           19:135-179.
+
+DUNN, E. R
+
+     1931. The herpetological fauna of the Americas. Copeia, no.
+
+           3:106-119.
+
+FUNKHOUSER, A
+
+     1957. A review of the Neotropical tree-frogs of the genus
+
+           _Phyllomedusa_. Occas. Papers Nat. Hist. Mus., Stanford
+
+           Univ., 5:1-90. 1962. A new _Phyllomedusa_ from Venezuela.
+
+           Copeia, no. 3:588-590.
+
+GOIN, C. J
+
+     1961. Synopsis of the genera of hylid frogs. Ann. Carnegie Mus.,
+
+           36:5-18.
+
+GÜNTHER, A. C. L. G.
+
+     "1858" [1859], Catalogue of die Batrachia Salientia in the
+
+           collection of the British Museum. Taylor and Francis, London,
+
+           xvi + 160 pp., 12 pls.
+
+LUTZ, B
+
+     1966. _Pithecopus ayeaye_, a new Brazilian hylid with vertical
+
+           pupils and grasping feet. Copeia, no. 2:236-240.
+
+MIRANDA-RIBEIRO, A. DE
+
+     1923. As Phyllomedusas do Museu Paulista. Bol. Mus. Nac, Rio de
+
+           Janeiro, 1:3-6. 1926. Notas para servirem ao estudo dos
+
+           gymnobatrachios (Anura) brasileiros. Arch Mus. Nac., Rio de
+
+           Janeiro, 27:1-227, pls. 1-22.
+
+NOBLE, G. K
+
+     1931. The biology of the Amphibia. McGraw-Hill, New York, 577 pp.
+
+PETERS, W. C. H
+
+     1872. Über eine, zwei neue Gattungen enthaltende, Sammlung von
+
+           Batrachiern des Hrn. Dr. O. Wucherer aus Bahia, so wie
+
+           übereinige neue oder weniger bekannte Saurier. Monatsb. Akad.
+
+           Wiss. Berlin, 1872:768-776.
+
+SAVAGE, J. M
+
+     1966. The origins and history of the Central American herpetofauna.
+
+           Copeia, no. 4:719-766.
+
+SAVAGE, J. M. and W. R. HEYER
+
+     1967. Variation and distribution in the tree-frog genus
+
+           _Phyllomedusa_ in Costa Rica, Central America. Beitr.
+
+           Neotrop. Fauna, 5:111-131.
+
+SCHMIDT, K. P
+
+     1943. Corollary and commentary for "Climate and Evolution." Amer.
+
+           Midl. Nat., 30:241-253.
+
+STUART, L. C
+
+     1950. A geographic study of the herpetofauna of Alta Verapaz,
+
+           Guatemala. Contr. Lab. Vert. Biol., Univ. Michigan, 45:1-77,
+
+           pls. 1-9.
+
+WAGLER, J. G
+
+     1830. Näturliches System der Amphibien, mit vorangehender
+
+           Classification der Saügethiere und Vögel. München,
+
+           vi + 354 pp., 9 pls.
+
+_Transmitted April 18, 1968._
+
+***

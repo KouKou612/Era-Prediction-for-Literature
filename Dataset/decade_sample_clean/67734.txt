@@ -1,0 +1,4905 @@
+MEDICAL AND SURGICAL LANDMARKS
+
+_By the same Author._
+
+MANUAL OF DISSECTION OF THE HUMAN BODY.
+
+With numerous Illustrations.
+
+HUMAN OSTEOLOGY.
+
+Comprising a Description of the Bones with Delineations of the
+
+Attachments of the Muscles. _Sixth Edition in the press._
+
+  LANDMARKS
+
+  MEDICAL AND SURGICAL
+
+  BY
+
+  LUTHER HOLDEN
+
+  EX-PRESIDENT, MEMBER OF COUNCIL, AND MEMBER OF THE COURT OF EXAMINERS
+
+  OF THE ROYAL COLLEGE OF SURGEONS OF ENGLAND: CONSULTING SURGEON
+
+  TO SAINT BARTHOLOMEW’S AND THE FOUNDLING HOSPITALS
+
+  _assisted by_
+
+  JAMES SHUTER, M.A.CAMB., F.R.C.S.
+
+  ASSISTANT SURGEON TO THE ROYAL FREE HOSPITAL: LATE DEMONSTRATOR
+
+  OF PHYSIOLOGY, AND LATE ASSISTANT DEMONSTRATOR OF
+
+  ANATOMY, AT SAINT BARTHOLOMEW’S HOSPITAL
+
+  _THIRD EDITION_
+
+  [Illustration]
+
+  LONDON
+
+  J. & A. CHURCHILL, NEW BURLINGTON STREET
+
+  1881
+
+  [_All rights reserved_]
+
+  TO
+
+  THE STUDENTS
+
+  PAST AND PRESENT
+
+  OF
+
+  SAINT BARTHOLOMEW’S HOSPITAL
+
+  THESE ‘LANDMARKS’ ARE
+
+  Dedicated
+
+  BY THEIR SINCERE FRIEND
+
+  THE AUTHOR
+
+PREFACE TO THE THIRD EDITION.
+
+In the present Edition the author adheres to his decision not to
+
+introduce Diagrams. Additional experience more than ever convinces
+
+him that they would frustrate his original object, which is to teach
+
+Students the habit of making the eye and the hand work together, and to
+
+educate the ‘touch’ upon the normal living body.
+
+Without such practical training, how can we reasonably expect to form a
+
+correct diagnosis when called upon to examine an injury or to detect a
+
+disease? In truth, the work is intended only for those who are desirous
+
+of acquiring the habit recommended.
+
+ LONDON: _May, 1881_.
+
+PREFACE TO THE FIRST EDITION.
+
+These ‘Landmarks’ have already appeared in Saint Bartholomew’s Hospital
+
+Reports. They are now republished, with some additions, in the hope
+
+that they may be useful to others besides those for whom they were
+
+originally intended.
+
+My object has been to collect into a compact form the leading landmarks
+
+which help practical surgeons in their daily work. Those relating to
+
+the chest and abdomen have been ascertained, with as much precision as
+
+natural variations permit, by needles introduced in various directions.
+
+I have to express my acknowledgments to Mr. WALSHAM and to Dr. GODSON
+
+for their contributions.
+
+ 65 GOWER STREET: _March 1876_.
+
+  CONTENTS.
+
+                         PAGE
+
+  THE HEAD                  3
+
+  THE FACE                  6
+
+  THE NECK                 14
+
+  THE CHEST                19
+
+  THE BACK                 25
+
+  THE ABDOMEN              29
+
+  THE PERINEUM             40
+
+  THE THIGH                43
+
+  THE BUTTOCKS             48
+
+  THE KNEE                 49
+
+  THE LEG AND ANKLE        52
+
+  THE FOOT                 56
+
+  THE ARM                  59
+
+  THE FOREARM AND WRIST    64
+
+  THE HAND                 67
+
+  PALPATION BY THE RECTUM  70
+
+  EXAMINATION PER VAGINAM  72
+
+‘CHIRURGUS MENTE PRIUS ET OCULIS AGAT QUAM MANU ARMATA.’
+
+LANDMARKS MEDICAL AND SURGICAL.
+
+1. In clinical teaching, we often have occasion to point out, on
+
+the surface of the living body, what may be called ‘medical and
+
+surgical landmarks.’ By ‘landmarks’ we mean surface-marks, such as
+
+lines, eminences, depressions, which are guides to, or indications
+
+of, deeper-seated parts. This practice is not only most useful but
+
+absolutely necessary; because many, even advanced students of anatomy,
+
+are not so ready as they ought to be in their recognition of parts
+
+when covered by skin. Students who may be familiar enough with bones,
+
+muscles, blood-vessels, or viscera in the dissected subject, are often
+
+sadly at fault when they come to put this knowledge into practice in
+
+the living.
+
+For instance, ask a student to put his finger on the exact place where
+
+he would feel for the head of the radius, the coracoid process of
+
+the scapula, the tubercle of the scaphoid bone in the foot; ask him
+
+to compress effectually one of the main arteries; to chalk the line
+
+of its course; to map on the chest the position of the heart and the
+
+several valves at its base; to trace along the walls of the chest the
+
+outline of the lungs and pleura; to point out the bony prominences
+
+about the joints, and their relative position in the different motions
+
+of the joints; test him about the muscles and tendons which can be
+
+seen or felt as they stand out in relief or remain in repose; let him
+
+introduce his finger into the several orifices of the body, and say
+
+what parts are accessible to the touch:--questions such as these, even
+
+a good anatomist, unaccustomed to deal with the living subject, might
+
+possibly find himself at a loss to answer.
+
+2. =Object in view.=--Our main object, therefore, is to induce in
+
+students the habit of looking at the living body with anatomical eyes,
+
+and with eyes too at their fingers’ ends. The value of this habit
+
+cannot be too highly estimated. Is it not of the utmost importance
+
+to an operating surgeon that he should have in his mind’s eye the
+
+various structures of the body as they lie grouped, connected, and
+
+working together? Should he not try at least to see them with the same
+
+clearness and accuracy as if they were perfectly transparent?
+
+Moreover, the habit of examining the living body with ‘anatomical eyes’
+
+and ‘surgical fingers’ teaches the eye and the hand to act together,
+
+and trains that delicate sense of touch which every surgeon should
+
+possess.
+
+This habit is within easy reach of any one who has carefully dissected
+
+for himself, and learned what to feel for. Plates will not give him
+
+this knowledge. Let a student examine his own body with a skeleton
+
+before him. Better still that two should work thus together, each
+
+serving as a model to the other.
+
+Teachers of anatomy should follow the example of Sir C. Bell, who was
+
+in the habit of introducing, from time to time, a powerful muscular
+
+fellow to his class, ‘in order to show how much of the structure of
+
+the body, such as the articulations and the muscles, might be learned
+
+without actual dissection.’[A][1]
+
+At the same time, it is only fair to say that ‘landmarks’ cannot always
+
+be defined with precision. A considerable latitude must be allowed for
+
+natural variations in different persons. In some, their anatomy stands
+
+out beautifully clear; in others, it is masked by obesity. Selecting,
+
+therefore, for study a moderately lean person, let us begin with the
+
+head.
+
+[A] The references throughout are to Notes at the end of the book.
+
+_THE HEAD._
+
+3. =Scalp: its density.=--The great toughness of the scalp, more
+
+especially at the back of the head, is owing to its intimate connection
+
+with the cranial aponeurosis, the scalp vessels and hair bulbs
+
+intervening. This density often obscures the diagnosis of tumours on
+
+the cranium. A tumour growing upon the head may be either above or
+
+below the aponeurosis of the scalp. If below, it will have a firm
+
+resisting feel, being bound down by the aponeurosis. Nevertheless
+
+its firmness and resistance may depend not simply on its confinement
+
+beneath the aponeurosis, but on its having its origin within the
+
+skull. Look with suspicion, then, on every tumour on the head that
+
+will not readily permit you to move it about, so as to be sure of its
+
+connections prior to an attempt at extirpation.
+
+The scalp moves freely over the pericranium, to which it is very
+
+loosely connected by areolar tissue. When suppuration takes place in
+
+this tissue free incisions through the dense scalp must be made to let
+
+the pus out.
+
+4. =Arteries of scalp.=--The supra-orbital artery can be felt beating
+
+just above the supra-orbital notch, and traced for some way up the
+
+forehead; the temporal (anterior branch) ascends tortuously about one
+
+inch and a quarter behind the external angular process of the frontal
+
+bone; the occipital can be felt near the middle of a line drawn from
+
+the occipital protuberance to the mastoid process; the posterior
+
+auricular, near the apex of the mastoid process. All these arteries can
+
+be effectually compressed against the subjacent bone.
+
+5. =Skull-cap.=--The skull-cap is rarely quite symmetrical. This want
+
+of symmetry is often obvious. It may occur in men highly gifted, as
+
+in the celebrated French anatomist Bichat. As to shape and relative
+
+dimensions, no two heads are exactly alike, any more than are two
+
+faces. It is beside my present purpose to go into the question of
+
+craniology more than to say that, although the cranium does not exactly
+
+follow the brain in all its eminences and depressions so as to be like
+
+a cast of its surface, yet it certainly indicates the dimensions of
+
+the great cerebral masses. The prominence of the frontal and parietal
+
+‘eminences’ and of the occipital region may be taken as a general
+
+indication of the development of the corresponding lobes of the brain.
+
+To ascertain the relative proportions of these three regions, let a
+
+thread be passed from one meatus auditorius to the other, across the
+
+frontal, parietal and occipital eminences respectively.
+
+=Frontal sinuses.=--The ‘frontal sinuses’ formed by the separation of
+
+the two tables of the skull vary much in size in different persons
+
+and at different periods of life. This fact has an important bearing
+
+on wounds in the forehead and on trephining in this situation. These
+
+‘bumps’ do not exist in children, because the tables of the skull do
+
+not begin to separate before puberty. From an examination of many
+
+skulls in the Hunterian Museum, I find that the absence of the ‘bumps,’
+
+even in middle age, does not necessarily imply the absence of the
+
+sinuses, since they may be formed by a retrocession of the inner wall
+
+of the skull. In old persons, as a rule, when the sinuses enlarge, it
+
+is by the encroachment of the inner table on the brain case. The inner
+
+wall of the skull here follows the shrinking brain. It is, therefore,
+
+important to bear in mind that an adult, and more especially an elderly
+
+person, may have a large frontal sinus without any external indication
+
+of it.
+
+Neither does a very prominent bump necessarily imply the existence of
+
+a large sinus, or indeed of even a small one. The ‘bump’ may be a mere
+
+heaping up of bone, a degradation, as in some Australian skulls.
+
+=Mastoid process.=--The mastoid process, which can be felt behind the
+
+ear, contains air-cells, to which the above observations may also be
+
+applied.
+
+=Occipital protuberance.=--The occipital protuberance, and the superior
+
+curved line, can be distinctly felt at the back of the head. The
+
+protuberance is always the thickest part of the skull-cap, and more
+
+prominent in some than in others.
+
+The posterior inferior angle of the parietal bone, grooved by the
+
+lateral sinus, is on a level with the zygoma, and a trifle more than
+
+one inch behind the front border of the mastoid process.
+
+=Lines of cerebral sinuses.=--A line drawn over the head from the root
+
+of the nose to the occipital protuberance corresponds with the superior
+
+longitudinal sinus. Another line drawn from the occipital protuberance
+
+to the front border of the mastoid process corresponds with a part of
+
+the lateral sinus.
+
+=Middle meningeal artery.=--The trunk of the middle meningeal artery
+
+runs along the front lower corner of the parietal bone, about one inch
+
+and a half behind, and half an inch above, the external angular process
+
+of the frontal.
+
+A straight line drawn from the front of one mastoid process to the
+
+other would pass through the middle of the condyles of the occiput,
+
+showing how nearly the skull is balanced on the top of the spine in the
+
+erect posture.
+
+6. =Thickness of skull-cap.=--The average thickness of the cap of
+
+an adult skull is about ⅕ of an inch. The thickest part is at the
+
+occipital protuberance, where it is often ¾ of an inch or more,
+
+even in an otherwise thin skull. The thinnest part is at the temple,
+
+where it may be almost as thin as parchment. Everyone in the habit of
+
+making post-mortem examinations knows how much the skull-cap differs
+
+in thickness in different persons and in different parts of the same
+
+skull. In old persons it is often in some parts not thicker than a
+
+shilling, owing to absorption of the diploë. Another point of interest
+
+is that the inner plane of the cap is not always parallel with the
+
+outer. Hence, in applying the trephine this is not a bad rule--‘Think
+
+that you are operating on the thinnest skull ever seen, and thinner in
+
+one half of the circle than the other.’
+
+7. =Levels of the brain.=--The level of the anterior lobes in front
+
+corresponds with a straight line drawn across the forehead, just above
+
+the eyebrows. The lower level of the anterior and middle lobes of
+
+the cerebrum corresponds with a line drawn from the external angular
+
+process of the frontal bone to the upper part of the meatus auditorius.
+
+Another line drawn from the meatus to the occipital protuberance
+
+corresponds with the lower level of the posterior lobe. The lower level
+
+of the cerebellum cannot be defined by external examination. It depends
+
+upon the extent to which the occipital fossæ bulge into the nape of the
+
+neck; and this bulge varies in different skulls.
+
+_THE FACE._
+
+8. The approaches to the organs of the senses, their ever-varying
+
+expression, their numerous muscles, and their rich profusion of vessels
+
+and nerves, give the face great anatomical importance, which has a
+
+most valuable bearing, not only on the practice of surgery, but on the
+
+physiognomy of health, and in the diagnosis of disease.
+
+9. =Foramina for branches of fifth nerve.=--As a surgeon may be called
+
+upon to divide any one of the three chief branches of the fifth nerve
+
+upon the face, he looks with interest to the precise situations where
+
+they leave their bony foramina with their corresponding arteries. The
+
+supraorbital notch or foramen can be felt about the junction of the
+
+inner with the middle third of the supraorbital margin. From this point
+
+a perpendicular line drawn with a slight inclination outwards, so as to
+
+cross the interval between the two bicuspid teeth in both jaws, passes
+
+over the infraorbital and the mental foramina. The direction of these
+
+two lower foramina looks towards the angle of the nose.
+
+10. =Pulley for superior oblique muscle.=--By pressing the thumb
+
+beneath the internal angular process of the frontal bone, the
+
+cartilaginous pulley for the tendon of the superior oblique muscle can
+
+be distinctly felt. We should be careful not to interfere with this
+
+pulley in any operation about the orbit.
+
+11. =Lower jaw.=--The working of the condyle of the jaw vertically and
+
+from side to side can be distinctly felt in front of the ear. When the
+
+mouth is opened wide, the condyle advances out of the glenoid cavity
+
+on to the eminentia articularis, and returns into its socket when the
+
+mouth is shut. The muscle which causes this advance is the external
+
+pterygoid; and it gives the jaw a greater freedom of grinding motion.
+
+The posterior margin of the ramus of the lower jaw corresponds with
+
+a line drawn from the condyle to the angle. In opening abscesses in
+
+the parotid region, the knife should not be introduced behind this
+
+line for fear of wounding the external carotid artery. Punctures to
+
+any depth may be safely made in front of it. They are often necessary
+
+where inflammation of the parotid gland ensues after eruptive fevers,
+
+and runs on to suppuration. The swelling, tension, and pain are most
+
+distressing. Owing to the fibrous framework of the gland, the matter
+
+is not circumscribed, but diffused. One puncture is not enough. Three
+
+or more may be requisite. The blade of the knife should be held
+
+horizontally, so as to be less likely to injure the branches of the
+
+facial nerve. We are not to be disappointed if no matter flows. The
+
+punctures give relief, and matter will probably exude the next day.
+
+12. =Parotid duct.=--A line drawn from the bottom of the lobe of the
+
+ear to midway between the nose and the mouth gives the course of the
+
+parotid duct. Opposite the second upper molar, the duct opens by a
+
+papilla into the mouth. The branch of the facial nerve which supplies
+
+the buccinator runs with the duct.
+
+13. =Temporal and facial arteries.=--The pulsation of the trunk of
+
+the temporal artery can be felt, between the root of the zygoma and
+
+the ear. This should be well known to and used by chloroformists. It
+
+is also a convenient pulse to feel in a sleeping patient. The facial
+
+artery can be distinctly felt as it passes over the body of the jaw at
+
+the anterior edge of the masseter; again near the corner of the mouth
+
+close to the mucous membrane: and, lastly, by the side of the ala nasi,
+
+up to the inner side of the tendo oculi. By holding the lips between
+
+the finger and thumb the coronary arteries are felt under the mucous
+
+membrane. The facial vein does not accompany the tortuous artery, but
+
+runs a straight course from the inner angle of the eye to the front
+
+border of the masseter, just behind the artery.
+
+14. =Eyelids and eyes.=--The opening between the eyelids varies in size
+
+in different persons; hence more of the eyeball is seen in some than
+
+in others, and the eye appears larger. Although human eyes do vary a
+
+little in size, yet the actual difference is by no means so great as
+
+is generally supposed. The size of the fissure has much to do with the
+
+apparent size of the eye. Contrast the narrow fissure of the Chinese
+
+and Mongolian races, and the apparent smallness of their eyes with
+
+those of Europeans. As a rule the external angle of the lid is higher
+
+than the internal. When not exaggerated, it gives the face an arch and
+
+pleasing expression.
+
+Evert the lids to see the Meibomian glands; observe their perpendicular
+
+arrangement, in the substance of the tarsal cartilages.
+
+The free borders of the lids are not bevelled, as described by J. L.
+
+Petit and most anatomists, ‘so as to form with the globe of the closed
+
+eye a triangular canal for the flow of the tears.’ On the contrary, it
+
+is easily seen that the lid margins, when closed, come into accurate
+
+contact. Their plane is not exactly horizontal, but slightly inclined
+
+upwards.
+
+Every time the eye is shut, the ball turns upwards and inwards, so that
+
+the cornea is completely covered by the upper lid. This may be well
+
+seen by raising the lid of a sleeping infant; also in cases of low
+
+fever when the lid is not completely closed. This up-turning of the eye
+
+obviously clears the cornea, and protects it from the light.
+
+A careful examination of the motion of the lower lid in the act of
+
+shutting the eye proves that it is a double motion. The lid is not only
+
+slightly raised, but drawn inwards about ¹⁄₁₂ of an inch. This second
+
+movement sweeps any particles of dust as well as moisture towards the
+
+inner canthus.
+
+15. =Puncta lachrymalia.=--The puncta lachrymalia are distinctly
+
+visible at the inner angles of the lids. The lower punctum is larger
+
+and a little more external than the upper, so that they are not exactly
+
+opposite. The direction, too, of the puncta deserves notice. Their open
+
+mouths look a little backwards, ready to imbibe the tears. When their
+
+proper bearing is lost, as in facial paralysis or by a cicatrix near
+
+the lid, the tears overflow the cheek. The length of the lachrymal
+
+canals is from three to four lines. The lower is a little shorter and
+
+wider than the upper. As each makes a little angle in its course, about
+
+a line from its orifice, the lid should be drawn outwards to straighten
+
+the canal when we introduce a probe.
+
+16. =Lachrymal sac.=--To find the lachrymal sac, draw outwards the
+
+eyelids to tighten the tendo oculi, which crosses the sac a little
+
+above its middle. A knife introduced just below the tendon close to
+
+the edge of the orbit would enter the sac. The angular artery and vein
+
+would be on the inner side of the incision. A probe directed in a line
+
+with the inner edge of the orbit, _i.e._ downwards, outwards, and
+
+backwards, would pass down the nasal duct, and appear in the inferior
+
+meatus of the nose.
+
+The tendo oculi serves many purposes besides giving attachment to the
+
+cartilages and muscles of the lids. One purpose is said to be to pump
+
+the tears into the lachrymal sac. Place a finger on the tendon, and
+
+feel that it tightens every time the lids are closed. The tendon, being
+
+intimately connected to the sac, draws, as it tightens, the sac wall
+
+outwards and forwards, and in this way it may pump along the lachrymal
+
+canals any fluid collected at the angle of the eye.
+
+17. =Nasal duct.=--The nasal duct is from six to eight lines long, and
+
+narrowest in the middle of its course. Its termination in the inferior
+
+meatus lies under the inferior spongy bone, about a quarter of an inch
+
+behind the bony edge of the nostril. The appearance of the orifice in
+
+the dry bone conveys no idea of its size and shape in life; for it is
+
+diminished by a valve-like fold of mucous membrane, so that it becomes,
+
+in most cases, a mere slit, not exceeding a line in diameter.
+
+The facility with which instruments can be introduced into the nasal
+
+opening of the duct depends upon its position as well as its size. This
+
+position varies in different instances. Sometimes it opens directly
+
+into the roof of the inferior meatus, in which case the hole is large
+
+and round, so that tears readily run into the nose. In other instances
+
+the opening is situated on the outer wall of the meatus, and is then
+
+always such a narrow fissure as to be hardly discernible. The practical
+
+conclusion then is, that a probe can be easily introduced when the
+
+opening is in the roof of the meatus, but not without difficulty
+
+and laceration of the mucous membrane when on the outer wall. This
+
+difficulty indeed may be increased by the narrowness of the meatus,
+
+arising from an unusual curvature of the spongy bone.
+
+18. =Nose and nasal cavities.=--The line where the cartilages of
+
+the nose are attached to the nasal and superior maxillary bones can
+
+be traced with precision. The close connection of the skin to the
+
+cartilages admits of no stretching; hence the acute pain felt in
+
+erysipelas and boils on the nose. The external aperture of the nose is
+
+always placed a little lower than the floor of the nostril, so that the
+
+nose must be pulled up before we can inspect its cavities.
+
+Looking into the nostrils, we find that the left is, in the majority
+
+of cases, narrower than the right, owing to an inclination of the
+
+septum towards the left. A communication sometimes exists between
+
+them, through a hole in the septum, as in the case of the celebrated
+
+anatomist Hildebrandt. By stretching open the anterior nares we
+
+can get a view of the end of the inferior spongy bone. The middle
+
+spongy bone cannot be seen: its attachment to the ethmoid is high up,
+
+nearly opposite the tendo oculi. The cavities are so much narrowed
+
+transversely by the spongy bones, that in the extraction of polypi it
+
+is better to dilate the blades of the forceps perpendicularly, and near
+
+the septum.
+
+19. =Mouth.=--What can be seen and felt through the mouth? The upper
+
+surface of the tongue, ‘_speculum primarum viarum_,’ is a study in
+
+itself. We notice, on its under surface, a median furrow, on each side
+
+of which stands out the ranine vein, lying upon the prominent fibres
+
+of the lingualis. In the middle line of the floor of the mouth is the
+
+‘frenum linguæ,’ with the orifice of the duct of the submaxillary
+
+gland on each side of it. The gland itself can be detected immediately
+
+beneath the mucous membrane by feeling further back near the angle of
+
+the jaw, at the same time pressing the gland upwards from below.
+
+The long ridge of mucous membrane on each side of the floor contains
+
+the sublingual glands.
+
+We can feel the attachment of the ‘genio-hyo-glossi’ behind the
+
+symphysis of the jaw. The division of this attachment would enable a
+
+surgeon to draw the tongue more freely out of the mouth in any attempt
+
+to remove carcinoma extending far back into its root.
+
+There is great difference in the shape of the hard palate; this
+
+difference depends upon the depth of the alveolar processes. In some it
+
+forms a broad arch; in others it is narrow, and rises almost to a point
+
+like a Gothic arch, and materially impairs the tone of the voice.
+
+=Throat.=--To examine the throat well, the nose should be held so as
+
+to compel breathing through the mouth. Thus the soft palate will be
+
+raised, the palatine arches widened, and the tonsils and the back of
+
+the pharynx fairly exposed. Pressing the tongue downwards, provided it
+
+be done very gently, is also of advantage. Rude treatment the tongue
+
+at once resists. The forefinger can be passed into the throat, beyond
+
+the epiglottis, as low as the bottom of the cricoid cartilage, and thus
+
+search the pharynx down to the top of the œsophagus, and the hyoid
+
+space (on each side) where foreign bodies are so apt to lodge. The
+
+greater cornu of the hyoid bone can be felt as a distinct projection
+
+on either side. In introducing a tube into the œsophagus the finger
+
+should keep the instrument well against the back of the pharynx so as
+
+to prevent its slipping into the larynx.
+
+Pass the finger between the teeth and the cheek and feel the anterior
+
+border of the coronoid process of the jaw. On the inner side of this
+
+process, between it and the tuberosity of the upper jaw, is a recess,
+
+where a deeply-seated temporal abscess might burst, or might be
+
+opened. Behind the last molar on the inner side of the upper jaw we
+
+can distinctly feel the hamular process of the sphenoid bone; also the
+
+lower part of the pterygoid fossa, and the internal pterygoid plate.
+
+Behind, and on the outer side of the last molar, can be felt part of
+
+the back of the antrum and of the lower part of the external pterygoid
+
+plate.
+
+On the roof of the mouth we can feel the pulsation of the posterior
+
+palatine artery. Hæmorrhage from this vessel can be arrested by
+
+plugging the orifice of the canal, which lies (not far from the
+
+surface) on the inner side of the last molar, about 1/3 of an inch in
+
+front of the hamular process.
+
+When the mouth is wide open, the pterygo-maxillary ligament forms a
+
+prominent fold readily seen and felt beneath the mucous membrane,
+
+behind the last molar teeth. A little below the attachment of this
+
+ligament to the lower jaw we can easily feel the gustatory nerve, as it
+
+runs close to the bone below the last molar tooth. The exact position
+
+of the nerve can be ascertained in one’s own person by the acute pain
+
+on pressure. A division of the nerve, easily effected by a small
+
+incision, gives much temporary relief in cases of advanced carcinoma of
+
+the tongue.
+
+To feed a patient in spasmodic closure of the jaw, it is well to know
+
+that there is behind the last molar teeth a space sufficient for the
+
+passage of a small tube into the mouth.
+
+=Antrum.=--Lift up the upper lip and examine the front wall of the
+
+antrum. The proper place in which to tap it is above the second
+
+bicuspid tooth, about one inch above the margin of the gum.
+
+20. =Posterior nares.=--A surgeon’s finger should be familiar with the
+
+feel of the posterior nares, and of all that is within reach behind the
+
+soft palate. This is important in relation to the attachment of polypi,
+
+to plugging the nostrils, and to the proper size of the plug. In the
+
+examination of this part of the back of the throat it is necessary to
+
+throw the head well back, because, in this position, nearly all the
+
+pharynx in front of the basilar process comes down below the level of
+
+the hard palate, and can be seen as well as felt. But when the skull
+
+is horizontal, _i.e._ at a right angle with the spine, the hard palate
+
+is on a level with the margin of the foramen magnum, and the parts
+
+covering the basilar process are concealed from view.
+
+The head then being well back, introduce the forefinger behind the
+
+soft palate, and turn it up towards the base of the skull. You feel
+
+the strong grip of the superior constrictor. Hooking the finger well
+
+forwards, you can feel the contour of the posterior nares. Their size
+
+depends upon the anterior, but rarely exceeds a small inch in the
+
+vertical diameter, and a small half-inch in the transverse. The plug
+
+for the posterior nares should not be larger than this. Their plane
+
+is not perpendicular, but slopes a little forwards. You can feel the
+
+septum formed by the vomer, and also the posterior end of the inferior
+
+spongy bone in each nostril.
+
+21. =Tonsils.=--Before taking leave of the throat, look well at the
+
+position of the tonsils between the anterior and posterior half arches
+
+of the palate. In a healthy state they should not project beyond the
+
+level of these arches. In all operations upon the tonsils, we should
+
+remember the close proximity of the internal carotid artery to their
+
+outer side. Nothing intervenes but the pharyngeal aponeurosis, and the
+
+superior constrictor of the pharynx. Hence the rule in operating on the
+
+tonsils, always to keep the point of the knife inwards.
+
+In troublesome hæmorrhage from the tonsils, after an incision or
+
+removal, it is well to know that they are accessible to pressure if
+
+necessary by means of a padded stick, or even a finger.
+
+22. =Features.=--A word or two on the lines of the face as indicative
+
+of expression. Everyone pays unconscious homage to the study of
+
+physiognomy when, scanning the features of a stranger, he draws
+
+conclusions concerning his intelligence, disposition, and character.
+
+Without discussing how much physiognomy is really worth, there can
+
+be no doubt that it is a mistake to place it in the same category as
+
+phrenology, since the latter lacks that sound basis of physiology which
+
+no one can deny to the former.
+
+A person fond of observing cannot fail to have arrived at the
+
+conclusion that a man’s daily calling moulds his features. Place a
+
+soldier, a sailor, a compositor, and a clergyman side by side, and who
+
+will not immediately detect a marked difference in their physiognomies?
+
+The muscles of the features are generally described as arising from the
+
+bony fabric of the face, and as inserted into the nose, the corners of
+
+the mouth, and the lips. But this description gives a very inadequate
+
+idea of their true insertion. They drop fibres into the skin all along
+
+their course, so that there is hardly a point of the face which has not
+
+its little fibre to move it. The habitual recurrence of good or evil
+
+thoughts, the indulgence in particular modes of life, call into play
+
+corresponding sets of muscles which, by producing folds and wrinkles,
+
+give a permanent cast to the features, and speak a language which all
+
+can understand, and which rarely misleads. Schiller puts this well when
+
+he says that ‘it is an admirable proof of infinite wisdom that what is
+
+noble and benevolent beautifies the human countenance; what is base and
+
+hateful imprints upon it a revolting expression.’
+
+_THE NECK._
+
+23. =Subcutaneous veins.=--Notice first the direction of the
+
+subcutaneous veins. The chief subcutaneous vein is the external
+
+jugular. Its course corresponds with a line drawn from the angle of the
+
+jaw to the middle of the clavicle, where it joins the subclavian. It
+
+is made more prominent by putting the sterno-mastoid into action, or
+
+by gentle pressure on the lower end of the vein. It is exceptionally
+
+joined by a branch which runs over the clavicle, and is termed
+
+‘jugulo-cephalic.’ The anterior jugular generally runs along the front
+
+border of the sterno-mastoid.
+
+24. =Parts in central line. Os-hyoides.=--Immediately below and nearly
+
+on a level with the lower jaw we feel the body of the os-hyoides, and
+
+can trace backwards on each side the whole length of the cornua. They
+
+might easily be broken by the grasp of a garotter. Below the body
+
+of the os-hyoides is the gap above the thyroid cartilage. This gap
+
+corresponds with the anterior thyro-hyoid ligament and the apex of the
+
+epiglottis; so that in cases of cut throat in this situation, nearly
+
+the whole of the epiglottis lies above the wound.
+
+=Thyroid cartilage.=--The projection and depth of the notch in the
+
+thyroid cartilage, or ‘pomum Adami,’ varies in different persons.
+
+Between the notch and the hyoid bone there is a large bursa, which
+
+facilitates the play of the cartilage beneath the bone in deglutition.
+
+The notch does not appear till puberty, and is throughout life much
+
+less distinct in the female than the male. The finger can trace the
+
+upper borders and cornua of the thyroid cartilage: its lower cornua can
+
+be felt by the side of the cricoid.
+
+On each side of the thyroid cartilage we can recognise the lateral
+
+lobes of the thyroid gland. On the upper and front part of the gland we
+
+can distinctly feel the pulsation of the superior thyroid artery. This
+
+pulsation, coupled with the fact that the gland rises and falls with
+
+the larynx in deglutition, gives the best means of distinguishing a
+
+bronchocele from other tumours resembling it.
+
+Below the angle of the thyroid cartilage we feel the interval between
+
+it and the cricoid, which is occupied by the cricothyroid membrane.
+
+In laryngotomy we cut through this membrane transversely close to the
+
+upper edge of the cricoid cartilage, in order that the incision may be
+
+as far as possible from the attachment of the vocal cords.
+
+25. =Cricoid cartilage.=--The projection of the cricoid cartilage is a
+
+point of great interest to the surgeon, because it is his chief guide
+
+in opening the air-passages, and can always be felt even in infants,
+
+however young or fat. It corresponds to the interval between the
+
+fifth and sixth cervical vertebræ. The commencement of the œsophagus
+
+lies behind it: here, therefore, a foreign substance too large to be
+
+swallowed would probably lodge, and might be felt externally.
+
+Again, a transverse line drawn from the cricoid cartilage horizontally
+
+across the neck would pass over the spot where the omo-hyoid crosses
+
+the common carotid. Just above this spot is the most convenient place
+
+for tying the artery.
+
+26. Those who have not directed their attention to the subject are
+
+hardly aware what a little distance there is between the cricoid
+
+cartilage and the upper part of the sternum. In a person of the average
+
+height sitting with the neck in an easy position, the distance is
+
+barely one inch and a half. When the neck is well stretched, about
+
+three-quarters of an inch more is gained. Thus, we have (generally) not
+
+more than seven or eight rings of the trachea above the sternum. None
+
+of these rings can be felt externally. The second, third, and fourth
+
+are covered by the isthmus of the thyroid gland. The trachea, it should
+
+be remembered, recedes from the surface more and more as it descends,
+
+so that, just above the sternum in a short fat-necked adult, the front
+
+of the trachea would be quite one inch and a half from the skin.
+
+27. =Trachea.=--In the dead subject nothing is more easy than to open
+
+the trachea: in the living, this operation may be attended with the
+
+greatest difficulties. In urgent dyspnœa you must expect to find the
+
+patient with his head bent forward, and the chin dropped, so as to
+
+relax as much as possible the parts. On raising his head, a paroxysm
+
+of dyspnœa is almost sure to come on, threatening instant suffocation.
+
+The elevator and depressor muscles draw the trachea and larynx up and
+
+down with a rapidity and a force which may bring the cricoid cartilage
+
+within half an inch of the sternum. The great thyroid veins which
+
+descend in front of the trachea are sure to be distended. There may
+
+be a middle thyroid artery. In children the lobes of the thymus may
+
+extend up in front of the trachea, and the left vena innominata may
+
+cross it unusually high. Thus the air-tube may be covered by important
+
+parts which ought not to be cut. Considering all these possible
+
+complications, the least difficult and the best mode of proceeding
+
+is to open the trachea just below the cricoid cartilage; and if more
+
+room be requisite, to pull down the isthmus of the thyroid gland, or
+
+in children to divide the cricoid itself. It is important that all the
+
+incisions be made strictly in the middle line, the ‘line of safety.’
+
+28. =Sterno-mastoid muscle.=--The sterno-mastoid muscle is the great
+
+surgical landmark of the neck. It stands out in bold relief when the
+
+head turns towards the opposite shoulder. Its inner border overlaps
+
+the common carotid, which can be easily compressed for a short time
+
+against the spine about the level of the cricoid cartilage. The
+
+artery extends (generally) as high as the upper border of the thyroid
+
+cartilage and corresponds with a line drawn from the sterno-clavicular
+
+joint to midway between the angle of the jaw and the mastoid process.
+
+Between the sternal origins of the sterno-mastoid is the fossa above
+
+the sternum, more or less perceptible in different necks. As it heaves
+
+and sinks alternately, especially in distressed breathing, it was
+
+called by the old anatomists ‘fonticulus gutturis.’ In beautiful necks,
+
+as seen in the ‘Venus,’ it is filled up by fat.
+
+Notice the interval between the sternal and clavicular origins of the
+
+sterno-mastoid. A knife introduced a very little way into this interval
+
+would wound, slanting inwards, the common carotid, slanting outwards,
+
+the internal jugular vein. These facts are of importance in performing
+
+the subcutaneous section of the tendon of this muscle.
+
+29. =Sterno-clavicular joint.=--Many important parts lie behind
+
+the sterno-clavicular joint. There is the commencement of the vena
+
+innominata; behind this comes the common carotid on the left side, and
+
+the division of the arteria innominata on the right. Deeper still, the
+
+apex of the lung rises into the neck.
+
+In a child the arteria innominata often lies in front of the trachea
+
+and divides a little higher than the joint: a point to be remembered in
+
+tracheotomy (27).
+
+30. =Apex of lung in the neck.=--The extent to which the apex of the
+
+lung rises into the neck is greater than is generally supposed. Many
+
+observations in reference to this point lead to the conclusion that
+
+the lung rises behind the sterno-mastoid, on an average, one inch and
+
+a half above the clavicle; in persons with long necks, as much as two
+
+inches. The apex of the lung and pleura is covered by the clavicular
+
+origin of the sterno-mastoid, the sterno-thyroid, and a part of the
+
+scalenus anticus. It is also crossed by the subclavian vessels in
+
+the first part of their course. As this cervical portion of lung is
+
+peculiarly liable to tubercular disease, it should always be carefully
+
+examined. Its condition may be ascertained by percussion near the
+
+sternal end of the clavicle.
+
+31. =Supra-clavicular fossa.=--The hollow above the clavicle, between
+
+the sterno-mastoid and the trapezius, is very manifest in emaciation
+
+and old age. Notice the termination here of the external jugular vein.
+
+In some necks only a small depression is visible, particularly when
+
+the trapezius has a broad insertion into the clavicle, and comes well
+
+forwards, so that its front border gives a graceful contour to the base
+
+of the neck.
+
+32. =Subclavian artery.=--In the supra-clavicular fossa, near the outer
+
+border of the sterno-mastoid, and about one inch above the clavicle, we
+
+feel the pulsation of the subclavian artery. Here the artery lies upon
+
+the first rib, and can be effectually compressed. A little pressure is
+
+sufficient. But the pressure must be made in the right direction, or
+
+the artery will be pressed off the rib instead of against it. The plane
+
+of the rib is such that the pressure, to be effectual, must be made in
+
+a direction downwards and a little inwards. It is best to stand behind
+
+the shoulder and make the pressure with one thumb.
+
+It is worth remembering that the outer border of the sterno-mastoid
+
+corresponds pretty nearly with the outer edge of the scalenus anticus,
+
+which is the surgical guide to the subclavian artery.
+
+By pressing deeply at the upper part of the supra-clavicular fossa, the
+
+transverse process of the seventh cervical vertebra can be distinctly
+
+felt.
+
+In long and thin necks, a thin cord is perceptible, running nearly
+
+parallel with and just above the clavicle. It is the posterior belly of
+
+the omo-hyoideus. See it rising and falling in breathing, and making
+
+tense during inspiration that part of the cervical fascia which lies
+
+over the cervical portion of the lung. Thus it may be said to be in all
+
+respects a muscle of inspiration, co-operating with the sterno-mastoid
+
+and scaleni. In the language of transcendental anatomy, we may say that
+
+the central tendon of the omo-hyoid represents a rudimentary cervical
+
+rib. Its posterior belly is analogous to a serration of the serratus
+
+magnus; its anterior belly to a sterno-hyoid.
+
+_THE CHEST._
+
+33. As a rule, the right half of the chest is slightly larger than the
+
+left. Of ninety-two persons of the male sex and good constitutions,
+
+seventy-one had the right side the larger; eleven the left; ten had
+
+both sides equal. The maximum of difference in favour of the right was
+
+one inch and a quarter. The measurements were made on a plane with the
+
+nipple.
+
+34. =Peculiarities in the female.=--The chest of the female differs
+
+from that of the male in the following points:--Its general capacity is
+
+less; the sternum is shorter; the upper opening is larger in proportion
+
+to the lower; the upper ribs are more movable, and therefore permit a
+
+greater enlargement of the chest at its upper part, in adaptation to
+
+the requirements of pregnancy.
+
+35. The top of the sternum is on a level with the second dorsal
+
+vertebra; and the available space between the top of the sternum and
+
+the spine is hardly more than two inches.[2]
+
+36. =Parts behind first bone of sternum.=--There is little or no lung
+
+behind the first bone of the sternum, the space being occupied by the
+
+trachea and large vessels as follows:--
+
+The left vena innominata crosses the sternum just below the upper
+
+border. Next come the great primary branches of the arch of the aorta.
+
+Deeper still is the trachea dividing into its two bronchi opposite the
+
+junction of the first and second bones of the sternum. Deepest of all
+
+is the œsophagus.
+
+About one inch from the upper border of the sternum is the highest part
+
+of the arch of the aorta, which lies on the bifurcation of the trachea.
+
+37. The course of the arteria innominata corresponds with a line drawn
+
+from the middle of the junction of the first with the second bone of
+
+the sternum, to the right sterno-clavicular joint. When the artery
+
+rises higher than usual into the neck, its pulsation can be felt in the
+
+fossa above the sternum.
+
+38. =Rules for counting the ribs.=--In fat persons it is often
+
+difficult to count the ribs; hence the following rules may be useful:--
+
+_a._ The finger passed down from the top of the sternum soon comes to a
+
+transverse projection, slight, but always to be felt, at the junction
+
+of the first with the second bone of the sternum. This corresponds with
+
+the level of the cartilage of the second rib.
+
+_b._ The nipple of the male is placed, in the great majority of cases,
+
+between the fourth and the fifth ribs, about three-quarters of an inch
+
+external to their cartilages.
+
+_c._ The lower external border of the pectoralis major corresponds with
+
+the direction of the fifth rib.
+
+_d._ A line drawn horizontally from the nipple round the chest cuts the
+
+sixth intercostal space midway between the sternum and the spine. This
+
+is a useful rule in tapping the chest.
+
+_e._ When the arm is raised, the highest visible digitation of the
+
+serratus magnus corresponds with the sixth rib. The digitations below
+
+this correspond respectively with the seventh and eighth ribs.
+
+_f._ The scapula lies on the ribs from the second to the seventh,
+
+inclusive.
+
+_g._ The eleventh and twelfth ribs can be felt even in corpulent
+
+persons, outside the erector spinæ, sloping downwards.
+
+_h._ One should remember the fact that the sternal end of each rib
+
+lies on a lower level than its corresponding vertebra. For instance, a
+
+line drawn horizontally backwards from the middle of the third costal
+
+cartilage at its junction with the sternum, to the spine, would touch
+
+the body, not of the third dorsal vertebra, but of the sixth. Again,
+
+the end of the sternum would be on about the level of the tenth dorsal
+
+vertebra. Much latitude must be allowed here for variation in the
+
+length of the sternum, especially in women.
+
+39. =Interval below clavicle.=--Immediately below the clavicle we
+
+recognise the triangular interval between the pectoralis major and
+
+the deltoid. This space varies in different cases, depending on the
+
+distance between the muscles. It is important as a guide to the
+
+coracoid process and the axillary artery. In a case of injury to the
+
+shoulder, to ascertain whether the coracoid process is broken, carry
+
+the arm outwards, to put the deltoid and pectoral muscles on the
+
+stretch, and make manifest the space between their opposite borders.
+
+Pressing the thumb into the space we can feel the inner side of the
+
+coracoid process, the apex being under the fibres of the deltoid; thus
+
+it is easy to ascertain whether it be broken. Moreover, this space
+
+corresponds with the line of the axillary artery; here its pulsation
+
+can be distinctly felt, and here it can be compressed (but not easily,
+
+or for long) against the second rib.
+
+40. =Internal mammary artery.=--The line of the internal mammary artery
+
+runs perpendicularly behind the cartilages of the ribs, about half
+
+an inch from the sternum. The perforating branch through the second
+
+intercostal space is generally the largest.
+
+41. =Outline of heart on chest-wall.=--To have a general idea of the
+
+form and position of the heart, map its outline on the wall of the
+
+chest, as follows:--
+
+_a._ To define the base draw a transverse line across the sternum
+
+corresponding with the upper borders of the third costal cartilages:
+
+continue the line half an inch to the right of the sternum and one inch
+
+to the left.
+
+_b._ To find the apex, mark a point about two inches below the left
+
+nipple, and one inch to its sternal side. This point will be between
+
+the fifth and sixth ribs.
+
+_c._ To find the lower border (which lies on the central tendon of
+
+the diaphragm), draw a line, slightly curved downwards, from the apex
+
+across the bottom of the sternum (not the ensiform cartilage) as far as
+
+its right edge.
+
+_d._ To define the right border (formed by the right auricle), continue
+
+the last line upwards with an outward curve, so as to join the right
+
+end of the base.
+
+_e._ To define the left border (formed by the left ventricle), draw a
+
+line curving to the left, but not including the nipple, from the left
+
+end of the base to the apex.
+
+Such an outline (seen in the cut, page 22, with the angles rounded
+
+off) shows that the apex of the heart points downwards and towards the
+
+left, the base a little upwards and towards the right; that the greater
+
+part of it lies in the left half of the chest, and that the only part
+
+which lies to the right of the sternum is the right auricle. A needle
+
+introduced in the third, the fourth, or the fifth right intercostal
+
+space close to the sternum would penetrate the lung and the right
+
+auricle.
+
+A needle passed through the second intercostal space, close to the
+
+right side of the sternum, would, after passing through the lung, enter
+
+the pericardium and the most prominent part of the bulge of the aorta.
+
+A needle passed through the first intercostal space, close to the right
+
+side of the sternum, would pass through the lung and enter the superior
+
+vena cava above the pericardium.
+
+[Illustration: OUTLINE OF THE HEART, ITS VALVES, AND THE LUNGS.]
+
+42. The best definition of that part of the præcordial region which is
+
+less resonant on percussion, was given by Dr. Latham years ago in his
+
+‘Clinical Lectures.’ ‘Make a circle of two inches in diameter round a
+
+point midway between the nipple and the end of the sternum. This circle
+
+will define, sufficiently for all practical purposes, that part of the
+
+heart which lies immediately behind the wall of the chest, and is not
+
+covered by lung or pleura.’
+
+=Apex of the heart.=--The apex of the heart pulsates between the fifth
+
+and sixth ribs, two inches below the nipple, and one inch to its
+
+sternal side. The place and extent, however, of the heart’s impulse,
+
+vary a little with the position of the body. Of this anyone may
+
+convince himself by leaning forwards, backwards, on this side and on
+
+that, feeling, at the same time, the heart. Inspiration and expiration
+
+also alter the position of the heart. In a deep inspiration it may
+
+descend half an inch, and can be felt beating at the pit of the stomach.
+
+43. =Valves of the heart.=--The aortic valves lie behind the third
+
+intercostal space, close to the left side of the sternum.
+
+The pulmonary valves lie in front of the aortic behind the junction of
+
+the third costal cartilage, on the left side, with the sternum.
+
+The tricuspid valves lie behind the middle of the sternum, about the
+
+level of the fourth costal cartilage.
+
+The mitral valves (the deepest of all) lie behind the third intercostal
+
+space, about one inch to the left of the sternum.
+
+Thus these valves are so situated that the mouth of an ordinary sized
+
+stethoscope will cover a portion of them all, if placed over the
+
+sternal end of the third intercostal space, on the left side. All are
+
+covered by a thin layer of lung; therefore we hear their action better
+
+when the breathing is for a moment suspended.
+
+44. =Outline of the lungs.=--Now let us trace on the chest the outline
+
+of the lungs, with as much precision as their expansion and contraction
+
+in breathing permit. (See the cut.)
+
+45. The apex of each lung rises into the neck behind the sternal end of
+
+the clavicle and sterno-mastoid muscle as much as an inch and a half:
+
+in females rather higher than in males (30). From the sternal ends of
+
+the clavicles the lungs converge, so that their thin edges almost meet
+
+in the mesial line on a level with the second costal cartilage. Thus
+
+there is little or no lung behind the first bone of the sternum. From
+
+the level of the second costal cartilage to the level of the fourth,
+
+the margins of the lungs run parallel, or nearly so, close behind the
+
+middle of the sternum: consequently their thin edges overlap the great
+
+vessels and valves at the base of the heart.
+
+Below the level of the fourth costal cartilage the margins of the
+
+lungs diverge, but not in an equal degree. The margin of the right
+
+corresponds with the direction of the cartilage of the sixth rib:
+
+the margin of the left, being notched for the heart, runs behind the
+
+cartilage of the fourth. A line drawn perpendicularly from the nipple
+
+would find the lung margin about the lowest part of the sixth rib.
+
+Laterally, _i.e._ in the axillary line, the lung margin comes down as
+
+low as the eighth rib: posteriorly, _i.e._ in the dorsal or scapular
+
+line, it descends as low as the tenth.
+
+It should be remembered that, in a deep inspiration, the lung margins
+
+descend about one inch and a half.
+
+In children the lungs are separated in front by the thymus gland.
+
+Allowance should be made for this. About the approach of puberty the
+
+thymus disappears.
+
+46. =Anterior mediastinum.=--The direction of the anterior mediastinum
+
+is not straight down the middle of the sternum, but slants a little to
+
+the left, owing to the position of the heart. The right pleural sac
+
+generally encroaches a little upon the left, behind the middle of the
+
+sternum. A needle introduced through the middle of the sternum opposite
+
+the third or the fourth rib would go through the right pleura.
+
+47. =Reflection of pleura.=--The reflection of the pleura from the wall
+
+of the chest on to the diaphragm corresponds with a sloping line drawn
+
+from the bottom of the sternum over the cartilages of the ribs down to
+
+the lower border of the last rib.
+
+Since the pleura lines the inside of the last rib, a musket ball or
+
+other foreign body, loose in the pleural sac, and rolling on the
+
+diaphragm, might fall to the lowest part of the sac, which would be
+
+between the eleventh and twelfth ribs. The ball might be extracted
+
+here. The chest might also be tapped here, but not with a trochar,
+
+since a trochar would penetrate both layers of pleura, and go through
+
+the diaphragm into the abdomen.
+
+The operation should be done cautiously, by an incision beginning about
+
+two inches from the spine, on the outer border of the ‘erector spinæ,’
+
+on a level between the spines of the eleventh and twelfth dorsal
+
+vertebræ. The intercostal artery will not be injured if the opening be
+
+made below the middle of the space, which is very wide.[3]
+
+_THE BACK._
+
+48. =Median furrow.=--In a muscular man, a furrow, caused by the
+
+prominence of the erector spinæ on each side, runs down the middle of
+
+the back. The lower end of the furrow corresponds with the interval
+
+between the spine of the last lumbar and that of the first sacral
+
+vertebra.
+
+49. =Spines of vertebræ.=--A little friction with the fingers down the
+
+backbone will cause the spines of the vertebræ to be tipped with red,
+
+so that they can be easily counted, and any deviation from the straight
+
+line detected. Still it is worth remembering that the spine of the
+
+third dorsal is on a level with the commencement of the spine of the
+
+scapula--that the spine of the seventh dorsal is on a level with the
+
+inferior angle of the scapula--that the spine of the last dorsal is on
+
+a level with the head of the last rib.
+
+=Division of the trachea.=--The division of the trachea is opposite the
+
+spine of the third, in some cases the fourth, dorsal vertebra. In front
+
+this division is on the level of the junction of the first with the
+
+second bone of the sternum.
+
+The root of the spine of the scapula is marked by a slight dimple
+
+in the skin. This is on a level with the third intercostal space. A
+
+stethoscope placed on the inner side of this dimple would cover the
+
+bronchus, more especially the right, since it is nearer to the chest
+
+wall.
+
+Make a man lean forwards, with his arms folded across the chest; this
+
+will make prominent the spines of the vertebræ. The lower border of the
+
+trapezius will guide you to the spine of the twelfth dorsal vertebra.
+
+50. The place where the kidney is most accessible to pressure is below
+
+the last rib, on the outer edge of the erector spinæ.
+
+51. The highest part of the ilium is about the level of the fourth
+
+lumbar spine. The best incision for opening the descending colon is
+
+in a slightly sloping line beginning at the outer edge of the erector
+
+spinæ, midway between the crest of the ilium and the last rib, and
+
+continued across the flank for three inches or more, according to the
+
+amount of subcutaneous fat.
+
+52. In the pit of the neck we can feel the trapezius and the ligamentum
+
+nuchæ. By pressing deeply we detect the forked and prominent spine of
+
+the second cervical vertebra.
+
+53. The spines of the third, fourth, and fifth cervical vertebræ recede
+
+from the surface to permit free extension of the neck, and cannot often
+
+be felt. But the spines of the sixth and seventh (v. prominens) stand
+
+out well.
+
+54. Notice that most of the spines of the dorsal vertebræ, owing to
+
+their obliquity, do not tally with the heads of their corresponding
+
+ribs. Thus, the spine of the second dorsal corresponds with the head
+
+of the third rib; the spine of the third dorsal with the head of the
+
+fourth rib, and so on till we come to the eleventh and twelfth dorsal
+
+vertebræ, which do tally with their corresponding ribs. All this,
+
+however, is best seen in the skeleton.
+
+55. The spines of the vertebræ may be useful as landmarks indicative
+
+of the levels of important organs. I have therefore arranged them in a
+
+tabular form, thus:--
+
+TABULAR PLAN OF PARTS OPPOSITE THE SPINES OF THE VERTEBRÆ.
+
+           { 5th. Cricoid cartilage. Œsophagus begins.
+
+ CERVICAL. { 7th. Apex of lung: higher in the female than in the
+
+           {       male. (30)
+
+           { 1st.
+
+           { 2nd.
+
+           { 3rd. Aorta reaches spine. Apex of lower lobe of lung.
+
+           {       Angle of bifurcation of trachea. (49)
+
+           { 4th. Aortic arch ends. Upper level of heart.
+
+           { 5th.
+
+           { 6th.
+
+ DORSAL.   { 7th.
+
+           { 8th. Lower level of heart. Central tendon of diaphragm.
+
+           { 9th. Œsophagus and vena cava through diaphragm. Upper edge
+
+                    of spleen.
+
+           { 10th. Lower edge of lung. Liver comes to surface
+
+                    posteriorly. Cardiac orifice of stomach.
+
+           { 11th. Lower border of spleen. Renal capsule.
+
+           { 12th. Lowest part of pleura. Aorta through diaphragm.
+
+                   Pylorus.
+
+           { 1st. Renal arteries. Pelvis of kidney. (83)
+
+           { 2nd. Termination of spinal cord. Pancreas. Duodenum just
+
+                   below. Receptaculum chyli.
+
+ LUMBAR.   { 3rd. Umbilicus. Lower border of kidney.
+
+           { 4th. Division of aorta. (65) Highest part of ilium.
+
+           { 5th.
+
+56. =Origins of the spinal nerves.=--It is useful to know opposite what
+
+vertebræ the spinal nerves in the different regions arise from the
+
+spinal cord. They arise as follows:--
+
+The origins of the eight cervical nerves correspond to the interval
+
+between the occiput and the sixth cervical spine.
+
+The origins of the first six dorsal nerves correspond to the interval
+
+between the sixth cervical and the fourth dorsal spines.
+
+The origins of the six lower dorsal nerves correspond to the interval
+
+between the fourth and the eleventh dorsal spines.
+
+The origins of the five lumbar nerves correspond to the interval
+
+between the eleventh and twelfth dorsal spines.
+
+The origins of the five sacral nerves correspond to the spines of the
+
+last dorsal and the first lumbar vertebræ.
+
+57. =Movements of the spine.=--The movements of which the spine
+
+is capable are threefold: 1. Flexion and extension; 2. Lateral
+
+inclination; 3. Torsion. Flexion and extension are freest between the
+
+third and the sixth cervical vertebræ, between the eleventh dorsal
+
+and the second lumbar, and between the last lumbar and the sacrum.
+
+This is well marked in severe cases of opisthotonos, where the body is
+
+supported on the back of the head and heels.[4]
+
+Still better may it be observed when a mountebank bends backwards, and
+
+touches the ground with his head.
+
+The lateral movement is freest in the neck and the loins.
+
+The movement of torsion or rotation round its own axis may be proved by
+
+the following experiment:--Seated upright, with the back and shoulders
+
+well applied against the back of a chair, we can turn the head and neck
+
+as far as 70°. Leaning forwards so as to let the dorsal and lumbar
+
+vertebræ come into play, we can turn 30° more.
+
+58. =Position and motions of scapula.=--There are a few points worthy
+
+of observation about the scapula. It covers the ribs from the second to
+
+the seventh inclusive. We can feel its superior angle covered by the
+
+trapezius. The inferior angle is covered by the latissimus dorsi, which
+
+keeps it well applied against the ribs in the strong and athletic; but
+
+in weak and consumptive persons the lower angles of the scapulæ project
+
+like wings--hence the term ‘scapulæ alatæ.’
+
+A line drawn horizontally from the spine of the sixth dorsal vertebra
+
+over the inferior angle of the scapula gives the upper border of the
+
+latissimus dorsi. Another line drawn from the root of the spine of the
+
+scapula to the spine of the last dorsal vertebra gives the lower border
+
+of the trapezius, which stands a little in relief.
+
+59. The sliding movement of the scapula on the chest can be properly
+
+understood only on the living subject. It can move not only upwards
+
+and downwards as in shrugging the shoulders--backwards and forwards
+
+as in throwing back the shoulders--but it has a rotatory movement
+
+round a movable centre. This rotation is seen while the arm is being
+
+raised from the horizontal to the vertical position, and is effected
+
+by the co-operation of the trapezius with the serratus magnus. The
+
+glenoid cavity is thus made to look upwards, the inferior angle slides
+
+forwards, and is well held under the latissimus dorsi.
+
+60. For the medical examination of the back, the patient should sit
+
+with the arms hanging between his thighs, to lower the scapulæ as much
+
+as possible. In this position the spine of the scapula corresponds
+
+(nearly) with the fissure between the upper and lower lobes of the
+
+lung; the apex of the lower lobe being about the level of the third rib.
+
+_THE ABDOMEN._
+
+The student is assumed to be familiar with the conventional lines
+
+dividing the abdomen into regions.
+
+61. =Abdominal lines.=--The linea alba, or central line of the abdomen,
+
+marks the union of the aponeuroses of the abdominal muscles. It runs
+
+from the apex of the ensiform cartilage to the symphysis pubis. As this
+
+line is the thinnest and least vascular part of the abdominal wall, we
+
+make our incision along it in ovariotomy, and in the high operation
+
+of lithotomy; in it, we tap the abdomen in ascites, and the distended
+
+bladder in retention of urine.
+
+The so-called ‘linea semilunaris,’ at the outer border of the sheath of
+
+the rectus, corresponds with a line, drawn slightly curved (with the
+
+concavity towards the linea alba), from the lowest part of the seventh
+
+rib to the spine of the pubes. This line would be in an adult about
+
+three inches from the umbilicus; but in an abdomen distended by dropsy
+
+or other cause, the distance is increased in proportion.
+
+It is important to know the position of the ‘lineæ transversæ,’ or
+
+tendinous intersections across the rectus abdominis. There are rarely
+
+any below the umbilicus, and generally three above it. The first is
+
+about the level of the umbilicus. The second is about four inches
+
+higher--that is, about the level of the lowest part of the tenth rib.
+
+These are the principal lines, and they divide the upper part of each
+
+rectus into two nearly quadrilateral portions, an upper and a lower:
+
+of these, those on the right side are a trifle larger than on the
+
+left. We see these muscular squares pretty plainly in some athletic
+
+subjects. Much more frequently we see them, too much exaggerated, on
+
+canvas and in marble. Artists are apt to exaggerate them, and make the
+
+front of the belly too much like a chess-board. It is lucky for them
+
+that all the world do not see with anatomical eyes.
+
+A familiarity with the shape and position of these divisions of the
+
+rectus is of importance, lest we should, in ignorance, make a mistake
+
+in our diagnosis. A spasmodic contraction of one of these divisions,
+
+particularly the upper, or a collection of matter within its sheath,
+
+has been frequently mistaken for deep-seated abdominal disease.
+
+In the erect position, the anterior superior spines of the ilia are a
+
+little below the level of the promontory of the sacrum. The bifurcation
+
+of the aorta is on about the level of the highest part of the crest of
+
+the ilium.
+
+62. =Umbilicus.=--The umbilicus is not midway between the ensiform
+
+cartilage and the pubes, but rather nearer to the pubes. In all cases
+
+it is situated above the centre of a man’s height. It is a vulgar error
+
+to say that when a man lies with legs and arms outstretched, and a
+
+circle is drawn round him, the umbilicus lies in the centre of it. This
+
+central point is in most persons just above the pubes.
+
+In very corpulent persons two deep transverse furrows run across the
+
+abdomen. One runs across the navel and completely conceals it. The
+
+other is lower down, just above the fat of the pubes. In tapping
+
+the bladder above the pubes in such a case, the trochar should be
+
+introduced where this line intersects the linea alba.
+
+Although the position of the umbilicus varies a little in different
+
+persons, as the abdomen is unusually protuberant or the reverse, still,
+
+as a general rule, it is placed about the level of the body of the
+
+third lumbar vertebra. Now, since the aorta divides a little below the
+
+middle of the fourth lumbar, it follows that the best place to apply
+
+pressure on this great vessel is one inch below the umbilicus, and
+
+slightly to the left of it (65). That the aorta can, under favourable
+
+circumstances, be compressed under chloroform sufficiently to cure
+
+an aneurysm below it, is proved by recorded cases, and by none more
+
+effectually than by a case related in the second volume of the ‘Reports
+
+of St. Bartholomew’s Hospital.’
+
+It may be asked, why not apply pressure on the aorta above the
+
+umbilicus? The answer is, that the aorta above the umbilicus is farther
+
+from the surface, and is, moreover, covered by important structures
+
+upon which pressure would be dangerous.
+
+63. =Parts behind linea alba.=--Let us next consider what viscera lie
+
+immediately behind the linea alba. For two or three fingers’ breadth
+
+below the ensiform cartilage there is the left lobe of the liver,
+
+which here crosses the middle line. Below the edge of the liver comes
+
+the stomach, more or less in contact with the linea alba, according
+
+to its degree of distension. In extreme distension the stomach
+
+pushes everything out of the way, and occupies all the room between
+
+the liver and the umbilicus. When empty and contracted, it retreats
+
+behind the liver, and lies flat in front of the pancreas at the back
+
+of the abdomen; thus giving rise to the hollow termed the ‘pit of
+
+the stomach.’ But as the stomach distends, it makes a considerable
+
+fulness where there was a pit. The middle of the transverse colon lies
+
+above the umbilicus, occupying space (vertically two or three inches)
+
+according to its distension. Behind and below the umbilicus, supposing
+
+the bladder contracted, are the small intestines, covered by the great
+
+omentum.
+
+64. =Peritoneum.=--The peritoneum is in contact with the linea alba
+
+all the way down to the pubes, when the bladder is empty. But when
+
+the bladder distends, it raises the peritoneum from the middle
+
+line above the pubes; so that with a bladder distended half-way up
+
+to the umbilicus, there is a space of nearly two inches above the
+
+symphysis where the bladder may be tapped without risk of injury to
+
+the peritoneum. For the same reason, we have space sufficient for the
+
+successful performance of the high operation for stone. This fact in
+
+anatomy must have been well understood by Jean de Dot, the smith at
+
+Amsterdam, who, in the seventeenth century, cut himself in the linea
+
+alba above the pubes, and took out of his bladder a stone as large as
+
+a hen’s egg. The stone, the knife, and the portrait of the operator,
+
+may be seen to this day in the museum at Leyden.
+
+65. =Division of Aorta.=--The aorta generally divides at a point one
+
+inch and a half below the umbilicus. A more reliable guide to this
+
+division than the umbilicus, is a point (a very little to the left) of
+
+the middle line about the level of the highest part of the crest of the
+
+ilium. A line drawn with a slight curve outwards from this point to the
+
+groin, where the pulsation of the common femoral can be distinctly felt
+
+(rather nearer to the pubes than the ilium), gives the direction of the
+
+common iliac and external iliac arteries. About the first two inches of
+
+this line belong to the common iliac, the remainder to the external.
+
+Slight pressure readily detects the pulsation of the external iliac
+
+above ‘Poupart’s ligament.’
+
+As a rule, the length of the common iliac is about two inches, but it
+
+should be remembered there are frequent deviations. It may be between
+
+three-quarters of an inch and three inches and a half long. These
+
+varieties may arise either from a high division of the aorta, or a low
+
+division of the common iliac, or both. It is impossible to ascertain
+
+during life what is its length in a given instance, for there is no
+
+necessary relation between its length and the height of the stature.
+
+It is often short in tall men, and _vice versâ_. Anatomists generally
+
+describe the right as a trifle longer than the left; but their average
+
+length is pretty nearly the same.
+
+66. Mr. Abernethy, who in the year 1796 first put a ligature round
+
+the external iliac, made his incision in the line of the artery. But
+
+the easiest and safest way to reach the vessel is by an incision
+
+(recommended in the first instance by Sir Astley Cooper, and now
+
+generally adopted), beginning just on the inner side of the artery, a
+
+little above Poupart’s ligament, and continued upwards and outwards
+
+a little beyond the spine of the ilium. The same incision extended
+
+farther in the same direction would reach the common iliac.
+
+67. =Bony prominences.=--The anterior superior spine of the ilium, the
+
+spine of the pubes, and the line of Poupart’s ligament, are landmarks
+
+with which every surgeon should be thoroughly familiar.
+
+68. =Spine of ilium.=--The spine of the ilium is the spot from which we
+
+measure the length of the lower extremity. It is a valuable landmark in
+
+determining the nature of injuries to the pelvis and the hip. The thumb
+
+easily feels the spine, even in fat persons. Its position with regard
+
+to the trochanter major should be carefully examined. The best way to
+
+do this is to place the thumbs firmly on the opposite spines, and to
+
+grasp the trochanters with the fingers. Any abnormal position on one
+
+side is thus easily ascertained with the sound side as a guide.
+
+69. =Spine of pubes.=--The spine of the pubes is the best guide to the
+
+external abdominal ring. It cannot easily be felt by placing the finger
+
+directly over it, since it is generally covered by fat. To feel it
+
+distinctly, we should push up the skin of the scrotum and get beneath
+
+the subcutaneous fat. If there be any difficulty in finding it, abduct
+
+the thigh, and the tense tendon of the adductor longus will lead up to
+
+it.
+
+The position of the spine of the pubes is appealed to as a means of
+
+diagnosis in doubt between inguinal and femoral hernia. The spine lies
+
+on the outer side of the neck of an inguinal hernia, on the inner side
+
+of the neck of a femoral.
+
+The spine of the pubes is nearly on the same horizontal line as the
+
+upper part of the trochanter major. In this line, about one full
+
+inch external to the spine, is the femoral ring. Here is the seat of
+
+stricture in a femoral hernia.
+
+70. =Poupart’s ligament, or crural arch.=--The line of Poupart’s
+
+ligament (crural arch) is in most persons indicated by a slight
+
+crescent-like furrow along the skin. It corresponds with a line drawn
+
+not straight, but with a gentle curve downwards from the spine of
+
+the ilium to the spine of the pubes. With the help of the preceding
+
+landmarks it is easy to find the exact position of the external and
+
+internal abdominal rings, and the direction of the inguinal canal.
+
+71. =Abdominal rings.=--The external abdominal ring is situated
+
+immediately above the spine of the pubes. It is an oval opening with
+
+the long axis directed obliquely downwards and inwards. Though its size
+
+varies a little in different persons, yet as a rule it will admit the
+
+end of the little finger, so that we can tell by examination whether
+
+it be free or otherwise. To ascertain this, the best way is to push up
+
+the thin skin of the scrotum before the finger; then, by tracking the
+
+spermatic cord, the finger readily glides over the crest of the pubes
+
+and feels the sharp margins of the ring.
+
+The position of the internal ring is about midway between the spine of
+
+the ilium and the symphysis of the pubes, and about two-thirds of an
+
+inch above Poupart’s ligament.
+
+72. =Inguinal canal.=--The position of the external and internal
+
+abdominal rings being ascertained, it is plain that the direction of
+
+the inguinal canal must be obliquely downwards and inwards, and that
+
+its length in a well-formed adult male is from one and a half to two
+
+inches, according as we include the openings or not. In very young
+
+children the canal is much shorter and less oblique, the inner ring
+
+being behind the outer. With the growth of the pelvis in its transverse
+
+direction, the anterior spines of the ilia become farther apart, and
+
+thus draw the internal ring more and more away from (_i.e._ to the
+
+outer side of) the external.
+
+73. =Spermatic cord.=--The spermatic cord can be felt as it emerges
+
+through the external ring, and its course can be tracked into the
+
+scrotum. The vas deferens can be distinctly felt at the back of the
+
+cord, and separated from its other component parts.
+
+74. =Epigastric artery.=--The direction of the deep epigastric artery
+
+corresponds with a line drawn from the inner border of the internal
+
+ring up the middle of the rectus muscle, towards the chest.
+
+In thin persons the absorbent glands which lie along Poupart’s ligament
+
+can be distinctly felt. They are usually oval, with their long axes
+
+parallel to the line of the ligament.
+
+75. =Abdominal viscera.=--Now let us see how far we can make out
+
+externally the position and size of the abdominal viscera.
+
+To make this examination with anything like success, it is desirable to
+
+relax the abdominal muscles. The man should be on his back, the head,
+
+shoulders and thorax being well raised, to relax the recti muscles; and
+
+the thighs bent on the abdomen, to relax the several fasciæ attached to
+
+the crural arch. To induce complete relaxation, where a very careful
+
+examination is desired, chloroform should be given.
+
+In manipulating the abdomen we should not use the tips of the fingers.
+
+This is sure to excite the contraction of the muscles. The flat hand
+
+should be gently pressed upon it, and with an undulating movement.
+
+76. It is well to bear in mind that the central tendon of the diaphragm
+
+is about the level of the lower end of the sternum at its junction with
+
+the seventh costal cartilage; that the right half of the diaphragm
+
+rises to about the level of the fifth rib--that is, about an inch below
+
+the nipple; that the left half does not rise quite so high. In tranquil
+
+breathing the diaphragm descends about half an inch.
+
+The position of the abdominal viscera varies, to a certain extent,
+
+in different persons. In some of them, especially the stomach, their
+
+position varies in the same person at different times.
+
+Let us take, first, the largest of the abdominal viscera--the liver.
+
+77. =Liver.=--The liver lies under the right hypochondrium, and passes
+
+across the middle line over the stomach into the left hypochondrium,
+
+generally speaking, as far as the left mammary line. The extent to
+
+which it can be felt below the edges of the ribs depends upon whether
+
+it is enlarged or not, as well as upon its texture, and also upon the
+
+amount of flatus in the stomach and intestines. As a rule, in health
+
+its lower thin border projects about half an inch below the costal
+
+cartilages, and can be felt moving up and down with the action of the
+
+diaphragm; but it requires an educated hand to feel it. An uneducated
+
+hand would miss it altogether. That part of it, however, which crosses
+
+the middle line below the ensiform cartilage is much more accessible
+
+to the feel; here it lies immediately behind the linea alba, and in
+
+front of the stomach, nearly half-way down to the umbilicus. Here,
+
+therefore, is the best place to feel whether the liver be enlarged or
+
+pushed down lower than it ought to be. If it be much enlarged and much
+
+lower, even the most untutored hand could detect its edge.
+
+Even if the edge of the liver be felt very much lower than is normal
+
+below the ribs, it does not necessarily follow that the liver is
+
+enlarged, since it may be pressed down by other causes--for instance,
+
+the habit of wearing tight stays.
+
+To what height does the liver ascend? This can only be ascertained by
+
+careful percussion of the chest-wall. The highest part of its convexity
+
+on the right side is about one inch below the nipple, or nearly on a
+
+level with the external and inferior angle of the pectoralis major.
+
+Posteriorly the liver comes to the surface below the base of the right
+
+lung, about the level of the tenth dorsal spine.
+
+Roughly speaking, the upper border of the liver corresponds with the
+
+level of the tendinous centre of the diaphragm; that is, the level of
+
+the lower end of the sternum. Thus a needle thrust into the right side,
+
+between the sixth and seventh ribs, would traverse the lung, and then
+
+go through the diaphragm into the liver.
+
+78. =Gall bladder.=--The gall bladder, or rather the fundus of it, is
+
+situated, but cannot be felt, just below the edge of the liver about
+
+the ninth costal cartilage, outside the edge of the right rectus muscle.
+
+79. =Stomach.=--The stomach varies in size more than any organ in
+
+the body. When empty and contracted (63) it lies at the back of the
+
+abdomen, overlapped by the left lobe of the liver, and in front of the
+
+pancreas. When very full, it turns on its axis and swells up towards
+
+the front, coming close behind the wall of the abdomen, occupying
+
+most of the left hypochondrium and epigastrium, displacing the other
+
+contiguous organs, pushing in every direction, and often interfering
+
+with the action of the heart and left lung. Hence the palpitation and
+
+distressing heart-symptoms in indigestion and flatulence.
+
+The cardiac orifice of the stomach lies to the left of the middle
+
+line, just below the level of the junction of the seventh costal
+
+cartilage with the sternum.
+
+80. =Pylorus.=--The pylorus lies under the liver, on the right side,
+
+near the end of the cartilage of the eighth rib; but it cannot be felt
+
+unless occasionally when enlarged and hardened by disease.
+
+81. =Spleen.=--The spleen, if healthy, cannot be felt, so completely is
+
+it sheltered by the ribs. It lies on the left side, connected to the
+
+great end of the stomach, beneath the ninth, tenth, and eleventh ribs,
+
+between the axillary lines--lines drawn vertically downwards from the
+
+anterior and posterior margins of the axilla. Its upper edge is on a
+
+level with the spine of the ninth dorsal vertebra, its lower with the
+
+spine of the eleventh.
+
+Its position and size, therefore, in health can only be ascertained,
+
+and not very accurately, by the extent of dulness on percussion.
+
+The greatest amount of dulness would be over the tenth and eleventh
+
+ribs; above this the thin edge of the lung would intervene between
+
+the spleen and the abdominal wall. If, therefore, the spleen can be
+
+distinctly felt below the ribs, it must be enlarged. In proportion to
+
+its enlargement, so can its lower rounded border be detected below the
+
+tenth and eleventh ribs, especially when forced downwards by a deep
+
+inspiration.[5]
+
+82. =Pancreas.=--The pancreas lies transversely behind the stomach,
+
+and crosses the aorta and the spine about the junction of the
+
+first and second lumbar vertebræ. The proper place to feel for it,
+
+therefore, would be in the linea alba about two or three inches above
+
+the umbilicus. Is it perceptible to the touch?--only under very deep
+
+pressure, and very favourable circumstances, such as an emaciated and
+
+empty abdomen. It is worth remembering that it may be felt under such
+
+conditions. The pancreas of normal size, in thin persons, has been
+
+mistaken for disease--disease of the transverse arch of the colon, or
+
+aneurysm of the abdominal aorta.
+
+83. =Kidney.=--The kidney lies at the back of the abdomen, on the
+
+quadratus lumborum and psoas muscles, opposite the two lower dorsal and
+
+two upper lumbar spines. The right, owing to the size of the liver,
+
+is a trifle--say, three-quarters of an inch--lower than the left. The
+
+pelvis of the kidney is on about the level of the spine of the first
+
+lumbar vertebra: the upper border is on about the level of the space
+
+between the eleventh and twelfth dorsal spines; the lower border comes
+
+as low as the third lumbar spine. During a deep inspiration both
+
+kidneys are depressed by the diaphragm nearly half an inch.
+
+Can we feel the normal kidney? The only place where it is accessible to
+
+pressure is just below the last rib, on the outer edge of the ‘erector
+
+spinæ.’ I say accessible to pressure, for I have never succeeded in
+
+satisfying myself that I have distinctly felt its rounded lower border
+
+in the living subject, nor even in the dead, with the advantage of
+
+flaccid abdominal walls and the opportunity of making hard pressure
+
+with both hands, placed simultaneously, one in front of the abdomen,
+
+the other on the back. For these reasons, although we can easily
+
+ascertain its degree of tenderness, we cannot actually feel it unless
+
+it be considerably enlarged.
+
+We must be on our guard not to mistake for the kidney an enlarged liver
+
+or spleen, or an accumulation of fæces in the lumbar part of the colon.
+
+84. =Large intestine.=--Let us now trace the large intestine and see
+
+where it is accessible to pressure. The ‘cæcum,’ or ‘caput coli,’ and
+
+the ileo-cæcal valve lie in the right iliac fossa. The ascending colon
+
+runs up the right lumbar region over the right kidney. The transverse
+
+colon crosses the abdomen two or three inches above the umbilicus. The
+
+descending colon lies in the left lumbar region in front of the left
+
+kidney. The sigmoid flexure occupies the left iliac fossa.
+
+Throughout this tortuous course, except at the hepatic and splenic
+
+flexures, the colon is accessible to pressure, and we could, under
+
+favourable circumstances, detect hardened fæces in it. In a case which
+
+occurred in St. Bartholomew’s Hospital, a collection of fæces in the
+
+transverse colon formed a distinct tumour in the abdomen. All the
+
+symptoms yielded to large and repeated injections of olive oil. In
+
+another case an accumulation of fæcal matter in the sigmoid flexure
+
+during life was mistaken for a malignant disease.
+
+85. =Colotomy.=--The operation of opening the colon (colotomy) may be
+
+done in the right or left loin, below the kidney, in that part of the
+
+colon not covered by peritoneum.
+
+The landmarks of the operation are:--(1) The last rib, of which feel
+
+the sloping edge; (2) the crest of the ilium; (3) the outer border of
+
+the ‘erector spinæ.’ The incision should be about three inches long,
+
+midway between the rib and the ilium. It should begin at the outer
+
+border of the ‘erector spinæ,’ and should slope downwards and outwards
+
+in the direction of the rib. The edge of the ‘quadratus lumborum,’
+
+which is the guide to the colon, is about one inch external to the edge
+
+of the ‘erector spinæ,’ or three full inches from the lumbar spines.
+
+The line of the gut is vertical, and runs for a good two inches between
+
+the lower border of the kidney and the iliac crest on the left side;
+
+rather less on the right.
+
+=Small intestines.=--All the room below the umbilicus is occupied
+
+by the small intestines. The coils of the jejunum lie nearer to the
+
+umbilicus (one reason of the great fatality of umbilical herniæ). Those
+
+of the ilium are lower down.
+
+On the right side, a little below the ninth rib, the colon lies close
+
+to the gall bladder, and is, after death, sometimes tinged with bile.
+
+Posteriorly, this part of the colon is in contact with the kidney and
+
+duodenum.
+
+86. =Bladder.=--When the bladder distends, it gradually rises out of
+
+the pelvis into the abdomen, pushes the small intestines out of the
+
+way, and forms a swelling above the pubes, reaching in some instances
+
+up to the navel. The outline of this swelling is perceptible to the
+
+hand as well as to percussion. More than this, fluctuation can be
+
+felt through the distended bladder by tapping on it in front with the
+
+fingers of one hand, while the forefinger of the other passed up the
+
+rectum feels the bottom of the ‘trigone.’
+
+_THE PERINEUM._
+
+The body is supposed to be placed in the usual position for lithotomy.
+
+87. =Bony framework.=--We can readily feel the osseous and ligamentous
+
+boundaries of the perineum; namely, the rami of the pubes and ischia,
+
+the tuberosities of the ischia, the great sacro-ischiatic ligaments,
+
+and the apex of the coccyx. This framework forms a lozenge-shaped
+
+space. If we draw an imaginary line across it from the front of one
+
+tuber ischii to the other, we divide this space into an anterior and
+
+a posterior triangle. The anterior is nearly equilateral, and, in a
+
+well-formed pelvis, its sides are from three to three and a half inches
+
+long. It is called the urethral triangle. The posterior, containing the
+
+greater part of the anus and the ischio-rectal fossa on each side, is
+
+called the anal triangle.
+
+88. =Raphé.=--A slight central ridge of skin, called the ‘raphé,’
+
+runs from the anus up the perineum, scrotum, and penis. This ‘raphé,’
+
+or middle line of the perineum, is the ‘line of safety’ in making
+
+incisions to let out matter or effused urine, or to divide a stricture.
+
+89. =Central point of perineum.=--It is very important to know that
+
+a point of the raphé about midway between the scrotum (where it
+
+joins the perineum) and the centre of the anus, corresponds with the
+
+so-called ‘central tendon’ where the perineal muscles meet. The bulb
+
+of the urethra lies above this point, and never, at any age, comes
+
+lower down. The artery of the bulb, too, never runs below this level.
+
+Therefore the incision in lithotomy should never commence above it.
+
+A knife introduced at this point, and pushed backwards with a very
+
+slight inclination upwards, would enter the membranous part of the
+
+urethra just in front of the prostate gland; pushed still farther it
+
+would enter the neck of the bladder. This point, then, is a very good
+
+landmark to the urethra in lithotomy, or, indeed, in any operations on
+
+the perineum.
+
+The incision in the lateral operation of lithotomy, beginning below
+
+the point indicated, should be carried downwards and outwards between
+
+the anus and the tuberosity of the ischium, a little nearer to the
+
+tuberosity than the anus. The lower end of the incision should reach a
+
+point just below the anus.
+
+90. =Triangular ligament.=--In a thin perineum, we can feel the lower
+
+border of the deep perineal fascia or the ‘so-called’ triangular
+
+ligament of the urethra. The urethra passes through it about one inch
+
+below the lower part of the symphysis pubis, and about three-quarters
+
+of an inch higher than the central tendon of the perineum. It is
+
+important to bear in mind these landmarks in introducing a catheter.
+
+If the catheter be depressed too soon, its passage will be resisted by
+
+the triangular ligament; if too late, it will be likely to make a false
+
+passage by running through the bulb.
+
+91. =Anus.=--One of the most important landmarks which guide a
+
+surgeon in his operations about the anus, is a white line[6] at the
+
+junction of the skin and mucous membrane. It is easily recognised and
+
+is of especial interest, because it marks with great precision the
+
+linear interval between the external and internal sphincter muscles.
+
+From this line the internal sphincter extends upwards, beneath the
+
+mucous membrane, for about an inch, becoming gradually more and more
+
+attenuated.
+
+The wrinkled appearance of the anus is caused by the contraction of the
+
+external sphincter. At the bottom of these cutaneous folds, especially
+
+towards the coccyx, we look for ‘fissure of the anus.’
+
+92. =Landmarks in the rectum.=--Many valuable landmarks may be felt
+
+by introducing the finger into the rectum, with a catheter at the
+
+same time in the urethra. The principal of these landmarks are the
+
+following:--
+
+_a._ The finger can feel the extent and powerful grasp of the internal
+
+sphincter for about one inch up the bowel. (91)
+
+_b._ =Urethra.=--Through the front wall of the bowel it can most
+
+distinctly feel the track of the membranous part of the urethra,
+
+exactly in the middle line. This is very important, because you can
+
+ascertain with precision whether the catheter has deviated from the
+
+proper track.
+
+_c._ =Prostate gland.=--About an inch and a half or two inches from
+
+the anus, the finger comes upon the prostate gland. The gland lies in
+
+close contact with the bowel, and can be detected by its shape and hard
+
+feel. The finger, moved from side to side, can examine the size of its
+
+lateral lobes, their consistence and sensibility.
+
+_d._ The finger, introduced still farther, can reach beyond the
+
+prostate, as far as the apex of the trigone of the bladder. More than
+
+this, it can feel the angle between the ‘ductus communes ejaculatorii,’
+
+which forms the apex of the trigone. This is the precise spot where
+
+the distended bladder should be punctured through the rectum. The more
+
+distended the bladder, the easier can this spot be felt. Fluctuation
+
+is at once detected by a gentle tap on the bladder above the pubes
+
+(86). The trochar must be thrust in the direction of the axis of the
+
+distended bladder; that is, roughly speaking, in a line drawn from the
+
+anus through the pelvis to the umbilicus.
+
+_e._ The fold of peritoneum, called the recto-vesical pouch, is about
+
+four inches from the anus, therefore it is not within reach of the
+
+finger; and we run no risk of wounding it in tapping the bladder if the
+
+trochar be introduced near the angle of the trigone.
+
+_f._ The finger can feel one of the ridges or folds of mucous membrane
+
+which are situated at the lower part of the rectum. This fold projects
+
+from the side, and sometimes from the upper part of the rectum, near
+
+the prostate. When thickened or ulcerated, this fold occasions great
+
+pain in defæcation; and great relief is afforded by its division.
+
+_g._ Lastly, the finger can examine the condition of the spaces filled
+
+with fat on either side of the rectum, called the ischio-rectal fossæ,
+
+with a view to ascertain the existence of deep-seated collections of
+
+matter, or the internal communications of fistulæ.
+
+=Introduction of catheters.=--In the introduction of catheters the
+
+following are good rules. Keep the point of the instrument well
+
+applied against the upper surface of the urethra;--depress the handle
+
+at the right moment (90);--keep the umbilicus in view;--in cases of
+
+difficulty feel the urethra through the rectum, to ascertain whether
+
+the instrument be in the right direction. Attention to these rules
+
+diminishes the risk of making a false passage, an injury which under
+
+great delicacy in manipulation ought never to happen.
+
+=Urethra in the child.=--In children the membranous part of the
+
+urethra is, relatively speaking, very long, owing to the smallness of
+
+the prostate. It is also more sharply curved, because the bladder in
+
+children is more in the abdomen than in the pelvis. It is, moreover,
+
+composed of thin and delicate walls. The greatest gentleness,
+
+therefore, should be used in passing a catheter; else the instrument
+
+is likely to pass through the coats and make a false passage. Hence
+
+the advantage of being able to ascertain through the rectum whether
+
+the instrument be in the right track and moving freely in the bladder,
+
+which can also be easily felt in children.
+
+_THE THIGH._
+
+93. =Poupart’s ligament, or crural arch.=--Mark the anterior superior
+
+spine of the ilium, the spine of the pubes, and define the line of
+
+‘Poupart’s ligament’ which extends between them. This line is one of
+
+our guides in the diagnosis of inguinal and femoral herniæ. If the bulk
+
+of the tumour be above the line, the hernia is probably inguinal; if
+
+below it, femoral. The line is not a straight one drawn from the spine
+
+of the ilium to the spine of the pubes, but slightly curved, with the
+
+convexity downwards, owing to its close connection with the fascia lata
+
+of the thigh. In many persons it can be distinctly felt; in nearly all
+
+its precise course is indicated by a slight furrow in the skin.
+
+For the points about the spine of the pubes, refer to paragraph 69.
+
+94. =Furrow at the bend of the thigh.=--When the thigh is even slightly
+
+bent, there appears a second furrow in the skin below that at the
+
+crural arch. This second furrow begins at the angle between the
+
+scrotum and the thigh, passes outwards, and is gradually lost between
+
+the top of the trochanter and the anterior superior spine of the ilium.
+
+It runs right across the front of the capsule of the hip-joint. For
+
+this reason it is a valuable landmark in amputation at the hip-joint.
+
+The point of the knife should be introduced externally where the furrow
+
+begins, should run precisely along the line of it, and come out where
+
+it ends; so that the capsule of the joint may be opened with the first
+
+thrust. In suspected disease of the hip pressure made in this line,
+
+just below the spine of the ilium, will tell us if the joint be tender.
+
+Effusion into the joint obliterates all trace of the furrow, and makes
+
+a fulness when contrasted with the opposite groin.
+
+95. =Saphenous opening.=--In most persons there is a natural depression
+
+over the saphenous opening in the fascia lata, where the saphena vein
+
+joins the femoral. The position of this opening is just below the inner
+
+third of Poupart’s ligament, and about an inch and a half external
+
+to the spine of the pubes. This is the place where the swelling of
+
+a femoral hernia first appears: therefore it ought to be carefully
+
+examined in cases of doubt.
+
+96. =Femoral ring.=--The position of the femoral ring, through which
+
+the hernia escapes from the abdomen, is on a deeper plane, about half
+
+an inch higher than the saphenous opening, and immediately under
+
+Poupart’s ligament. As the plane of the ring is vertical in the supine
+
+position of the body, the way in which we should try to reduce a
+
+femoral hernia is by pressure, applied first in a downward direction,
+
+afterwards in an upward. The intestine protruded has to pass back under
+
+a sharp edge of fascia, namely, the upper horn of the saphenous opening
+
+(known as Hey’s ligament). At the same time we bend the thigh, to relax
+
+the fascia as much as possible.
+
+A good way to find the seat of the femoral ring with precision is the
+
+following:--Feel for the pulsation of the femoral artery on the pubes;
+
+allow half an inch (on the inner side) for the femoral vein; then comes
+
+the femoral ring.
+
+In performing the operation for the relief of the stricture in femoral
+
+hernia the incision through the skin should be about an inch and a half
+
+external to the spine of the pubes. Its direction should be vertical,
+
+and its middle should be just over the femoral ring.
+
+97. =Lymphatic glands in the groin.=--The cluster of inguinal and
+
+femoral lymphatic glands can sometimes be felt in thin persons. The
+
+inguinal lie for the most part along the line of Poupart’s ligament:
+
+they receive the absorbents from the wall of the abdomen, the urethra,
+
+the penis, the scrotum, and the anus. The femoral glands lie chiefly
+
+over the saphenous opening and along the outer side of the saphena
+
+vein: they receive the absorbents of the lower extremity; they receive
+
+some also from the scrotum--of which we have practical evidence in
+
+cases of chimney-sweepers’ cancer.
+
+98. =Trochanter major.=--The trochanter major is a most valuable
+
+landmark, to which we are continually appealing in injuries and
+
+diseases of the lower extremity. There is a natural depression over the
+
+hip (in fat persons) where it lies very near the surface, and can be
+
+plainly felt, especially when the thigh is rotated. Nothing intervenes
+
+between the bone and the skin except the strong fascia of the gluteus
+
+maximus and the great bursa underneath it.
+
+The top of the trochanter lies pretty nearly on a level with the spine
+
+of the pubes, and is about three-fourths of an inch lower than the top
+
+of the head of the femur. A careful examination of the bearing of the
+
+great trochanter to the other bony prominences of the pelvis, and a
+
+comparison of its relative position with that of the opposite side, are
+
+the best guides in the diagnosis of injuries about the hip, and the
+
+position of the head of the femur.
+
+99. =Nélaton’s line.=--‘If in the normal state you examine the
+
+relations of the great trochanter to the other bony prominences of the
+
+pelvis, you will find that the top of the trochanter corresponds to a
+
+line drawn from the anterior superior spine of the ilium to the most
+
+prominent part of the tuberosity of the ischium. This line also runs
+
+through the centre of the acetabulum. The extent of displacement in
+
+dislocation or fracture is marked by the projection of the trochanter
+
+behind and above this line.’[7]
+
+‘Nélaton’s line,’ as it is termed, theoretically holds good. But in
+
+stout persons it is not always easy to feel these bony points so as
+
+to draw the line with precision. A surgeon must, after all, in many
+
+cases trust to measurement by his eyes and his flat hands--his best
+
+guides. Thus, let the thumbs be placed firmly on the spines of the
+
+ilia, while the fingers grasp the trochanters on each side. Having the
+
+sound side as a standard of comparison, the hand will easily detect
+
+any displacement on the injured side. Hippocrates bids us compare the
+
+sound parts with the parts affected (in fractures) and observe the
+
+inequalities.
+
+The top of the great trochanter is the guide in an operation recently
+
+introduced by Mr. Adams, namely, the ‘subcutaneous section of the neck
+
+of the femur.’ ‘The puncture should be made one inch above and nearly
+
+one inch in front of the top of the trochanter. The neck of the bone
+
+is to be sawn through at right angles to its axis, the saw working
+
+parallel to Poupart’s ligament, and about one inch below it.’
+
+=Spine of the ilium.=--The anterior superior spine of the ilium is the
+
+point from which we measure the length of the lower limb. By looking
+
+at the spines of opposite sides we can detect any slant in the pelvis.
+
+By pressure on both spines simultaneously we examine if there be a
+
+fracture of the pelvis, or disease at the sacro-iliac joint.
+
+100. ‘In reducing a dislocation of the hip by manipulation it is
+
+important to bear in mind that, in every position, the head of the
+
+femur faces nearly in the direction of the inner aspect of its internal
+
+condyle.’[8]
+
+101. =Compression of femoral artery.=--About a point midway between
+
+the spine of the ilium and the symphysis pubis, the femoral artery
+
+can be felt beating, and effectually compressed, against the pubes.
+
+How should the pressure be applied when the patient lies on the back?
+
+In accordance with the slope of the bone--that is, with a slight
+
+inclination upwards. A want of attention to this point is the reason
+
+why so many fail when they undertake to command the circulation
+
+through the femoral artery in an amputation, or to cure an aneurysm by
+
+digital compression.
+
+If the Italian tourniquet be used, we should be careful to adjust
+
+the counter-pad well under the tuberosity of the ischium. If digital
+
+pressure be used, it is easy to command the femoral by slight pressure
+
+of the thumb, provided the fingers have a firm hold on the great
+
+trochanter.
+
+102. =Sartorius.=--The sartorius is the great fleshy landmark of the
+
+thigh, as the biceps is of the arm, and the sterno-cleido-mastoideus of
+
+the neck. Its direction and borders may easily be traced by asking the
+
+patient to raise his leg, a movement which puts the muscle in action.
+
+The same action defines the boundaries of the triangle (of Scarpa)
+
+formed by Poupart’s ligament, the adductor longus and sartorius.
+
+=Line of femoral artery.=--To define the course of the femoral artery,
+
+draw a line from midway between the anterior superior spine of the
+
+ilium and the symphysis pubis to the (spur-like) tubercle for the
+
+adductor magnus on the inner side of the knee. The femoral artery lies
+
+under the upper 2/3 of this line.
+
+The sartorius begins to cross the artery, as a rule, from three to
+
+four inches below Poupart’s ligament. The point at which the profunda
+
+artery arises is about one and a half or two inches below the ligament.
+
+Therefore the incision for tying the femoral in Scarpa’s triangle
+
+should commence about a hand’s breadth below Poupart’s ligament, and be
+
+continued for three inches in the line of the artery.
+
+To command the femoral in Scarpa’s triangle, the pad of the tourniquet
+
+should be placed at the apex, and the direction of the pressure should
+
+be, not backwards, but outwards, so that the artery may be compressed
+
+against the femur.
+
+In the middle third of the thigh the femoral artery lies in Hunter’s
+
+canal, overlapped by the sartorius. About the commencement of the lower
+
+third the artery leaves the canal through the oval opening in the
+
+adductor magnus, and, under the name of popliteal, enters the popliteal
+
+space. The line for finding the artery in Hunter’s canal has been
+
+already traced (102). The incision to reach the artery in this part of
+
+its course would fall in with the outer border of the sartorius.
+
+To command the femoral artery in Hunter’s canal, the pressure should be
+
+directed outwardly, so as to press the vessel against the bone.
+
+_THE BUTTOCKS._
+
+103. =Buttocks.--Bony landmarks.=--The bony landmarks of the buttocks
+
+which can be distinctly felt are: 1, the posterior superior spines of
+
+the ilia; 2, the spines of the sacral vertebræ; 3, the two tubercles of
+
+the last sacral vertebra; 4, the apex of the coccyx in the deep groove
+
+leading to the anus; 5, the tuberosities of the ischia on each side of
+
+the anus.
+
+The posterior spines of the ilia are about the level of the second
+
+sacral spine, and correspond with the middle of the sacro-iliac
+
+symphysis.
+
+The third sacral spine marks the lowest level to which the membranes of
+
+the cord and the cerebro-spinal fluid descend in the spinal canal.
+
+The tuberosities of the ischia, in the erect position, are covered by
+
+the gluteus maximus. In the sitting position they support the weight of
+
+the body, and are only covered by a thick pad of coarse fat. Between
+
+this pad and the bones there is a bursa, which becomes occasionally
+
+enlarged and inflamed in coachmen.
+
+The prominence of the nates is one of the characteristics of man in
+
+connection with his erect attitude. ‘Les fesses n’appartiennent qu’à
+
+l’espèce humaine.’ They are formed of an accumulation of fat over the
+
+great muscle of the buttock (gluteus maximus). From their appearance
+
+we may gather some indication of the state of the constitution. They
+
+are firm and globose in the vigorous; loose and flaccid in the infirm.
+
+Wasting and flattening of one, compared with the other, is an early
+
+symptom of disease in the hip.
+
+104. =Fold of the buttock.=--The deep furrow, termed ‘the fold of
+
+the buttock,’ which separates the nates from the back of the thigh,
+
+corresponds with the lower border of the gluteus maximus. Its altered
+
+direction in disease of the hip is very characteristic. This is the
+
+best place to feel for the great ischiatic nerve. We find it by
+
+pressing deeply between the trochanter and the tuber ischii, rather
+
+nearer to the latter. When we sit upright, the nerve is not liable to
+
+pressure; but it becomes numbed when we sit long sideways.
+
+105. =Gluteal artery.=--To find at what point the gluteal artery comes
+
+out of the pelvis, draw a line from the posterior superior spine of the
+
+ilium to the top of the trochanter major, rotated inwards. The junction
+
+of the inner with the middle third of this line lies over the artery as
+
+it emerges from the upper border of the great ischiatic notch.
+
+The point of exit of the ischiatic artery from the pelvis is about half
+
+an inch lower than that of the gluteal.
+
+106. =Pudic artery.=--The pudic artery crosses the spine of the
+
+ischium. To find it, draw a line from the outer side of the tuber
+
+ischii to the posterior superior spine of the ilium. The junction of
+
+the lower with the middle third gives the position of the artery. The
+
+ischiatic artery lies close to it, but nearer the middle line.
+
+Looking at the course of these arteries it appears that when we sit
+
+on hard seats the pressure is sustained by the bones; when we recline
+
+on soft seats the pressure is sustained more by the soft parts, and
+
+reaches the arteries; hence the tendency of modern modes of reposing
+
+to drive the blood into the interior of the pelvis and favour the
+
+production of piles and uterine disorders. A celebrated French
+
+accoucheur used to say that the fashion of high waists, tight lacing,
+
+and easy chairs brought him many thousands a year.
+
+_THE KNEE._
+
+107. =Bony points.=--The patella; the tuberosities of the two condyles;
+
+the tubercle of the tibia for the attachment of the ligamentum patellæ;
+
+another (the lateral) tubercle, on the outer side of the head of the
+
+tibia; and the head of the fibula are the chief bony landmarks of the
+
+knee.
+
+Observe that the head of the fibula lies at the outer and back part of
+
+the tibia, and that it is pretty nearly on a level with the tubercle
+
+for the attachment of the ligamentum patellæ.
+
+We can also feel the adductor tubercle or spur-like projection of bone
+
+above the internal condyle which gives attachment to the tendon of the
+
+adductor magnus. This spur-like projection corresponds with the level
+
+of the epiphysis of the lower end of the femur, and also with the level
+
+of the highest part of the trochlea for the patella: facts worth notice
+
+in performing excision of the knee.
+
+‘In reducing a dislocation of the hip, it is important to bear in mind
+
+that the inner aspect of the internal condyle in every position of the
+
+limb faces nearly in the direction of the head of the femur.’ (100)
+
+The tubercle on the outer side of the head of the tibia gives
+
+attachment to the broad and strong aponeurosis (tendon of the tensor
+
+fasciæ), which, acting like a brace for the support of the pelvis,
+
+is well seen in emaciated persons down the outer side of the thigh.
+
+This tubercle indicates the level to which the condyles of the femur
+
+descend, and the lower level of the synovial membrane.
+
+The patella, in extension of the knee, is nearly all above the
+
+condyles; in flexion, it lies in the inter-condyloid fossa (more on the
+
+external condyle), and thus protects the joint in kneeling. Its inner
+
+border is thicker and more prominent than the outer, which slopes down
+
+towards its condyle.
+
+108. =Ligamentum patellæ.=--The line of the ligamentum patellæ is
+
+vertical. Hence any deviation from this line, one way or the other,
+
+indicates more or less dislocation of the tibia. There is a pellet of
+
+fat under the ligament, which answers a ‘packing’ purpose--sinking in
+
+when the knee is bent; rising when the knee is extended, and bulging
+
+on either side of the tendon, almost enough to give the feel of
+
+fluctuation.
+
+In a well-formed leg the ligamentum patellæ, the tubercle of the
+
+tibia, and the middle of the ankle should be in the same straight line.
+
+A useful point in the adjustment of fractures.
+
+Behind the upper half of the ligamentum patellæ is the synovial
+
+membrane of the knee-joint; behind the lower half is a synovial bursa
+
+and a pad of fat. It is well to remember this in cases of injury to the
+
+ligamentum patellæ.
+
+109. =Patellar bursa.=--The patellar or housemaids’ bursa is situated
+
+not only over the patella, but over the upper part of the ligament.
+
+This is plain enough when the bursa becomes enlarged. There is another
+
+subcutaneous bursa over the insertion of the ligament into the tubercle
+
+of the tibia. This is quite independent of the deep bursa between the
+
+tendon and the bone.
+
+110. =Synovial membrane of knee.=--The synovial membrane of the knee,
+
+when the joint is extended, rises like a cul-de-sac above the upper
+
+border of the patella about two inches. It ascends, too, a little
+
+higher under the vastus internus than the vastus externus--a fact
+
+very manifest when the joint is distended. When the knee is bent
+
+this cul-de-sac is drawn down--hence the rule of bending the knee in
+
+operations near the lower end of the femur.
+
+The lower level of the synovial membrane of the knee is just above the
+
+level of the upper part of the head of the fibula. The tibio-fibular
+
+synovial membrane is, with rare exceptions, independent of that of the
+
+knee.
+
+111. =Popliteal tendons.=--The tendons forming the boundaries of the
+
+popliteal space can be distinctly felt when the muscles which bend the
+
+knee are acting. On the outer side, we have the biceps running down
+
+to the head of the fibula. On the inner side we feel three tendons,
+
+disposed as follows:--nearest to the middle of the popliteal space
+
+is the semitendinosus, very salient and traceable high up the thigh;
+
+next comes the thick round tendon of the semimembranosus; still more
+
+internally is the gracilis. The sartorius, which forms a graceful
+
+muscular prominence on the inner side of the knee, does not become
+
+tendinous until it gets below it.
+
+112. =Popliteal bursa.=--The precise position of the bursa in the
+
+popliteal space, which sometimes enlarges to the size of a hen’s
+
+egg, is between the tendon of the inner head of the gastrocnemius and
+
+the tendon of the semimembranosus, just where they rub one against
+
+the other. The bursa is from one and a half to two inches long. When
+
+enlarged, it makes a swelling on the inner side of the popliteal space,
+
+which bulges and becomes tense when the knee is extended, and _vice
+
+versâ_. I examined 150 bodies with a view to ascertain how often this
+
+bursa communicates with the synovial membrane of the knee. There was
+
+a communication about once in five instances. This should make us
+
+cautious in interfering too roughly with the bursa when enlarged.
+
+113. =Popliteal artery.=--The popliteal artery can be felt beating
+
+and can be compressed against the back of the femur, close to which
+
+it lies. But pressure, sufficient to stop the blood, should be firm,
+
+and should be made against the bone nearer to the inner than the outer
+
+hamstrings. The line of the artery corresponds with the middle of the
+
+ham. It lies under cover of the fleshy belly of the semimembranosus,
+
+and the outer border of this muscle is the guide to it. An incision
+
+down the middle of the ham would fall in with the vessel just above the
+
+condyles.
+
+114. =Peroneal nerve.=--The peroneal nerve runs parallel with and close
+
+to the inner border of the tendon of the biceps. It can be felt in thin
+
+persons. There is a risk of dividing it in tenotomy of the biceps,
+
+unless the knife be carefully introduced from within outwards. Below
+
+the knee the nerve can be felt close to the fibula just below the head,
+
+and when pressed upon in this situation causes a sensation to run down
+
+its branches to the foot.
+
+_THE LEG AND ANKLE._
+
+115. =Bony points.=--The tubercle of the tibia (for the attachment of
+
+the ligamentum patellæ), the sharp front edge called the shin, and the
+
+broad flat subcutaneous surface of the bone can be felt all the way
+
+down. The inner edge can be felt too, but not so plainly. The lower
+
+third is the narrowest part of the bone and the most frequent seat of
+
+fracture.
+
+The head of the fibula is a good landmark on the outer side of the leg,
+
+about one inch below the top of the tibia and nearly on a level with
+
+the tubercle. Observe that it is placed well back, and that it forms no
+
+part of the knee-joint, and takes no share in supporting the weight.
+
+The shaft of the fibula arches backwards, the reverse of the shaft of
+
+the tibia. The fact of the bones not being on the same plane should be
+
+remembered in flap amputations. The shaft of the fibula is so buried
+
+amongst the muscles, that the only part to be distinctly felt is the
+
+lower fourth. Here there is a flat triangular subcutaneous surface,
+
+between the peroneus tertius in front, and the two peronei (longus and
+
+brevis) behind. Here is the most frequent seat of fracture.
+
+116. =Malleoli.=--The shape and relative position of the malleoli
+
+should be carefully studied, as the great landmarks of the ankle. The
+
+inner malleolus does not descend so low as the outer, and advances more
+
+to the front: at the same time, owing to its greater antero-posterior
+
+depth, it is on the same plane as the outer behind. The lower border of
+
+the inner malleolus is somewhat rounded, and the slight notch in it for
+
+the attachment of the lateral ligament can be felt. The outer malleolus
+
+descends lower than the inner, thus effectually locking the joint on
+
+the outer side. Its shape is not unlike the head of a serpent. Viewed
+
+in profile, it lies just in the middle of the joint.
+
+In Syme’s amputation of the foot at the ankle, the line of the incision
+
+should run from the apex of the outer malleolus, under the sole to the
+
+centre of the inner.
+
+In a well-formed leg, the inner edge of the patella, the inner ankle,
+
+and the inner side of the great toe, should be in the same vertical
+
+plane. Look to these landmarks in adjusting a fracture or dislocation,
+
+keeping at the same time an eye upon the conformation of the opposite
+
+limb.
+
+There are several strong tendons to be seen and felt about the ankle.
+
+117. =Tendo Achillis.=--Behind is the tendo Achillis. It forms a high
+
+relief, with a shallow gutter on each side of it. The narrowest part
+
+of the tendon, where it should be divided in tenotomy, is about the
+
+level of the inner ankle; below this it expands again to be attached to
+
+the lower and back part of the os calcis. Seen in profile, the tendon
+
+is not straight,but slightly concave--being drawn in by an aponeurosis
+
+which forms a sort of girdle round it. This girdle proceeds from
+
+the posterior ligament of the ankle; and, though most of its fibres
+
+encircle the tendon, some of them adhere to and draw in its sides. All
+
+this disappears when the tendon is laid bare by dissection.
+
+118. =Tendons behind inner ankle.=--Above and behind the malleolus
+
+internus we can feel the broad flat tendon of the tibialis posticus and
+
+upon it that of the flexor longus digitorum. The tendon of the tibialis
+
+posticus lies nearest to the bone and comes well up in relief in
+
+adduction of the foot. It lies close to, and parallel with, the inner
+
+edge of the tibia, so that this edge is the best guide to it. Therefore
+
+in tenotomy the knife should be introduced first perpendicularly
+
+between the tendon and the bone, and then turned at right angles to cut
+
+the tendon. The tendon has a separate sheath and synovial membrane,
+
+which commences about one inch and a half above the apex of the
+
+malleolus, and is continued to its insertion into the tubercle of the
+
+scaphoid bone. The proper place, then, for division of the tendon, is
+
+about two inches above the end of the malleolus.
+
+In a young and fat child, where the inner edge of the tibia cannot be
+
+distinctly felt, the best guide to the tendon is a point midway between
+
+the front and the back of the ankle. An incision in front of this
+
+point might injure the internal saphena vein; behind this point, the
+
+posterior tibial artery.
+
+119. =Tendons behind outer ankle.=--Behind the malleolus externus we
+
+feel the two peroneal (long and short) tendons. They lie close to the
+
+edge of the fibula, the short one nearer to the bone. In dividing these
+
+tendons, the knife should be introduced perpendicularly to the surface,
+
+and about two inches above the apex of the ankle, so as to be above the
+
+synovial sheaths of the tendons.
+
+=Tendons in front of ankle.=--Over the front of the ankle, when
+
+the muscles are in action, we can see and feel, beginning on the
+
+inner side, the tendons of the tibialis anticus, the extensor longus
+
+pollicis, the extensor longus digitorum, and the peroneus tertius. They
+
+start up like cords when the foot is raised, and are kept in their
+
+proper relative position by strong pulleys formed by the anterior
+
+annular ligament. Of these pulleys the strongest is that of the
+
+extensor communis digitorum. When the ankle is sprained, the pain and
+
+swelling arise from a stretching of these pulleys and effusion into
+
+their synovial sheaths. A laceration of one of the pulleys and escape
+
+of the tendon is extremely rare.
+
+The place for the division of the tendon of the tibialis anticus, so as
+
+to divide it below its synovial sheath, is about one inch before its
+
+insertion into the cuneiform bone. The knife should be introduced on
+
+the outer side, so as to avoid the dorsal artery of the foot.
+
+Now trace the lines of the arteries, and the landmarks near which they
+
+divide.
+
+120. =Popliteal artery.=--About one inch and a quarter below the head
+
+of the fibula, or say one inch below the tubercle of the tibia, the
+
+popliteal artery divides into the anterior and posterior tibial. The
+
+peroneal comes off from the posterior tibial about three inches below
+
+the head of the fibula.
+
+Consequently we may lay down, as a general rule, that, in amputations
+
+one inch below the head of the fibula, only one main artery, the
+
+popliteal, is divided. In amputations two inches below the head of
+
+the fibula, two main arteries, the anterior and posterior tibial,
+
+are divided. In amputations three inches below the head, three main
+
+arteries, the two tibials and the peroneal, are divided.
+
+121. =Anterior tibial artery.=--The anterior tibial artery comes in
+
+front of the interosseous membrane, one inch and a quarter below the
+
+head of the fibula, and here lies close to this bone. Its subsequent
+
+course is defined by a line drawn from the front of the head of the
+
+fibula to the middle of the front of the ankle. This line corresponds
+
+pretty nearly with the outer border of the tibialis anticus all
+
+the way down. If this muscle be put in action, its outer border
+
+(the intermuscular line) is plainly seen, and the incision for the
+
+ligature of the artery in any part of its course may be defined with
+
+the greatest precision. The artery can be felt beating and can be
+
+compressed where it crosses the front of the tibia and ankle.
+
+122. =Posterior tibial artery.=--The posterior tibial commences about
+
+one inch and a quarter below the head of the fibula. Its subsequent
+
+course corresponds with a line drawn from the middle of the upper part
+
+of the calf to the hollow behind the inner ankle, where it can be felt
+
+beating distinctly about half an inch behind the edge of the tibia. A
+
+vertical incision down the middle of the calf would reach the artery
+
+under cover of the gastrocnemius and soleus. A vertical incision along
+
+the middle third of the leg, about half an inch from the inner edge of
+
+the tibia, would enable the operator to reach the artery sideways, by
+
+detaching from the bone the tibial origin of the soleus.
+
+123. =Saphena veins.=--The subcutaneous veins on the dorsum of the foot
+
+form an arch convex towards the toes (as on the back of the hand),
+
+from which issue the two main subcutaneous trunks of the lower limb,
+
+the internal and external saphena veins. The internal saphena vein can
+
+be always plainly seen over the front of the inner ankle. Its further
+
+course up the inner side of the leg, knee, and thigh to its termination
+
+in the femoral is not in all persons manifest.
+
+The external saphena vein runs behind the outer ankle and up the middle
+
+of the calf to empty itself (generally) into the popliteal vein.
+
+_THE FOOT._
+
+What are the bony landmarks which guide us in the surgery of the foot?
+
+124. =Points of bone.=--Along the inner side of the foot, beginning
+
+from behind, we can feel--1, the tuberosity of the os calcis; 2, the
+
+projection of the internal malleolus; 3, the projection of the os
+
+calcis, termed ‘sustentaculum tali,’ about one full inch below the
+
+malleolus; 4, about one inch in front of the malleolus internus, and a
+
+little lower, is the tubercle of the scaphoid bone; the gap between
+
+it and the sustentaculum tali being filled by the calcaneo-scaphoid
+
+ligament and the tendon of the tibialis posticus, in which there
+
+is often a sesamoid bone; 5, the internal cuneiform bone; 6, the
+
+projection of the first metatarsal bone; 7, the sesamoid bones of the
+
+great toe.
+
+Along the outer side of the foot we can feel--1, the external
+
+tuberosity of the os calcis; 2, the external malleolus; 3, the peroneal
+
+tubercle of the os calcis, one inch below the malleolus, with the long
+
+peroneal tendon below it, and the short one above it; 4, the projection
+
+of the base of the fifth metatarsal bone.
+
+125. =Lines of joints.=--In fat persons the following rules for finding
+
+the joints may be of service as regards the surgery of the foot:--
+
+The level of the ankle joint lies about half an inch above the end of
+
+the inner malleolus. This is worth remembering in performing ‘Syme’s’
+
+amputation.
+
+The tubercle of the scaphoid bone is the best guide to the
+
+astragalo-scaphoid joint which lies immediately behind it; and the
+
+plane of this joint is in the same line as that of the calcaneo-cuboid.
+
+Thus a line drawn transversely over the dorsum of the foot, behind
+
+the tubercle of the scaphoid, would strike both the joints opened in
+
+‘Chopart’s’ operation.
+
+Place your thumb on the tubercle of the scaphoid, and measure about one
+
+inch and a half in front: here you find the joint between the internal
+
+cuneiform bone and the metatarsal bone of the great toe. This point is
+
+useful in Lisfranc’s operation, which consists in the removal of the
+
+metatarsal bones.
+
+The line of the calcaneo-cuboid joint lies midway between the external
+
+malleolus and the (tarsal) end of the metatarsal bone of the little toe.
+
+The projection of the fifth metatarsal bone is the guide to the joint
+
+between it and the cuboid.
+
+Notice that the line of the joints between the metatarsal bones and the
+
+first phalanges lies a full inch farther back than the interdigital
+
+folds of the skin. This is a point to be remembered in amputating the
+
+toes.
+
+126. =Dorsal artery.=--The line of the dorsal artery of the foot is
+
+from the middle of the ankle to the interval between the first and
+
+second metatarsal bones. The artery can be felt beating over the bones
+
+along the outer side of the extensor longus pollicis, which is the best
+
+guide to it.
+
+127. =Bursa.=--The synovial sheath of the extensor longus pollicis
+
+extends from the front of the ankle, over the instep (apex of the
+
+internal cuneiform bone) as far as the metatarsal bone of the great
+
+toe. There is generally a bursa over the instep, above, or it may be,
+
+below, the tendon.
+
+There is often a large irregular bursa between the tendons of the
+
+extensor longus digitorum, and the projecting end of the astragalus,
+
+over which the tendons play. There is much friction here. It is well to
+
+be aware that this bursa sometimes communicates with the joint of the
+
+head of the astragalus.
+
+128. =Plantar arteries.=--The course of the external plantar artery
+
+corresponds with a line drawn from the hollow behind the inner ankle
+
+obliquely across the sole nearly to the base of the fifth metatarsal
+
+bone; from thence the artery turns transversely across the foot, lying
+
+(deeply) near the bases of the metatarsal bones, till it inosculates
+
+with the dorsal artery of the foot in the first interosseous space.
+
+The course of the internal plantar corresponds with a line drawn from
+
+the inner side of the os calcis to the middle of the great toe.
+
+129. =Plantar fascia.=--To divide the plantar fascia subcutaneously,
+
+the best place is about one inch in front of its attachment to the
+
+os calcis. This is the narrowest part of it. The knife should be
+
+introduced on the inner side; and the incision will be behind the
+
+plantar artery.
+
+The subcutaneous section of the tendon of the abductor pollicis should
+
+be made about one inch before its insertion.
+
+_THE ARM._
+
+130. =Clavicle.=--The line of the clavicle and the projection of the
+
+joint at either end of it can always be felt, even in the fattest
+
+persons. Its direction is not perfectly horizontal, but slightly
+
+inclined downwards, when the arm hangs quietly by the side. When the
+
+body lies flat on the back, the shoulder not only falls back, but rises
+
+a little, the weight of the limb being taken off. Hence the modern
+
+practice of treating fractures of the clavicle (in the early stage) by
+
+the supine position.
+
+On the front surface of the clavicle, not far from its acromial end,
+
+there is in many persons of mature age a spine-like projection of bone.
+
+So far as I know, it has not been described. A gentleman, himself a
+
+surgeon, showed me an instance in his own person. He suspected it was
+
+an exostosis.
+
+As a rule the acromio-clavicular joint forms an even plane. But there
+
+is sometimes a knob of bone at the acromial end of the clavicle; or it
+
+may be only a thickening of the fibro-cartilage, sometimes existing
+
+in the joint. In either case this relief might be mistaken for a
+
+dislocation, or even for a fracture. A reference to the other shoulder
+
+might settle the question.
+
+131. =Bony points of the shoulder.=--We can distinctly feel the spine
+
+of the scapula and the acromion, more especially at the angle where
+
+they join behind the shoulder. This angle is the best place from which
+
+to measure in taking the comparative length of the arms.
+
+In some shoulders, though very rarely, there is an abnormal symphysis
+
+between the spine of the scapula and the acromion. There may indeed
+
+be two symphyses and two acromial bones, the acromion having two
+
+centres of ossification. These abnormal symphyses might be mistaken for
+
+fractures, until we have examined the opposite shoulder, which is sure
+
+to present a similar conformation.[9]
+
+=Tuberosities.=--Projecting beyond the acromion (the arm hanging
+
+by the side), we can feel, through the fibres of the deltoid, the
+
+upper part of the humerus. It distinctly moves under the hand when
+
+the arm is rotated. It is not the head of the bone which is felt, but
+
+the tuberosities, the greater externally, the lesser in front. These
+
+tuberosities form the convexity of the shoulder. When the arm is
+
+raised, this convexity disappears; there is a slight depression in its
+
+place. The head of the bone can be felt by pressing the fingers high up
+
+in the axilla.
+
+The absence of this prominence formed by the upper part of the humerus
+
+under the deltoid, and the presence of a prominence low in the hollow
+
+of the axilla, or in front, below the coracoid process, or behind, on
+
+the back of the scapula, bespeak dislocation of the head of the bone.
+
+In examining obscure injuries about the shoulder, it is worth
+
+remembering that, in the normal relation of the bones, and in every
+
+position, the great tuberosity faces in the direction of the external
+
+condyle. The head of the bone faces very much in the direction of the
+
+internal condyle.
+
+It is worth remembering also that the upper epiphysis of the humerus
+
+includes the tuberosities; and that it does not unite by bone to the
+
+shaft, till about the 20th year.
+
+By making deep pressure in front of the shoulder, when the arm is
+
+pendent and supine, we can feel the bicipital groove. It looks directly
+
+forwards, and runs in a line drawn vertically downwards through the
+
+middle of the biceps to its tendon at the elbow. We should be aware of
+
+this, lest it be mistaken for a fracture.
+
+132. =Coraco-acromial ligament.=--Under the anterior fibres of the
+
+deltoid, we can distinctly feel the position and extent of the
+
+coraco-acromial ligament. A knife, passed vertically through the middle
+
+of it, goes at once into the shoulder joint and strikes the bicipital
+
+groove with the tendon, a point to be remembered in excision.
+
+In persons of an athletic build the triangular form and beautiful
+
+structure of the deltoid become conspicuous when the muscle is in
+
+action. The depression on the outer side of the arm, indicating its
+
+insertion, is the place selected for issues or setons.
+
+The arm being held up by an assistant, the anterior and posterior
+
+borders of the relaxed deltoid admit of being raised so that in
+
+amputation at the shoulder the knife can be introduced beneath the
+
+muscle to make the flap.
+
+133. =Axilla.=--The anterior border of the axilla, formed by the
+
+pectoralis major, follows the line of the fifth rib. In counting the
+
+ribs, or in tapping the chest, it is worth remembering that the highest
+
+visible digitation of the serratus magnus is attached to the sixth rib.
+
+The angle of the digitation is directed forwards, and corresponds to
+
+the upper edge of the rib. The second visible digitation corresponds
+
+to the seventh rib; the interval between these digitations, therefore,
+
+corresponds to the sixth intercostal space--a convenient place for
+
+tapping the chest. (38)
+
+In the normal state no glands can be felt in the axilla.
+
+134. =Axillary artery.=--When the arm is raised to a right angle with
+
+the body, and the head of the humerus thereby depressed, the axillary
+
+artery is plainly felt beating, and can be perfectly compressed on the
+
+inner side of the coraco-brachialis. This muscle stands out in relief
+
+along the humeral side of the axilla, and is the best guide to the
+
+artery. A line drawn along its inner border--that is, down the middle
+
+of the axilla--corresponds with the course of the artery.
+
+The depth and form of the axilla alter in different positions of the
+
+arm. In the arm raised and abducted the axilla becomes nearly flat;
+
+hence this position is always adopted in operations.
+
+In opening abscesses in the axilla, the incision should be made midway
+
+between the borders, and the point of the knife introduced from above
+
+downwards.
+
+135. =Brachial artery.=--When the arm is extended and supinated, a line
+
+drawn from the deepest part of the middle of the axilla down the inner
+
+side of the biceps to the middle of the bend of the elbow, corresponds
+
+with the course of the brachial artery. The artery can be felt and
+
+compressed all the way down; but nowhere so effectually as midway,
+
+where it lies on the tendon of the coraco-brachialis close to the
+
+inner side of the humerus. The only direction to apply the pressure
+
+effectually is outwards and a little backwards, else the artery will
+
+slip off the bone.
+
+The musculo-spiral nerve and superior profunda artery wind round
+
+the back of the humerus about its middle, and come to the front of
+
+the external condyloid ridge. Thus, for full three inches above the
+
+condyles, there is nothing to interfere with operations on the back of
+
+the bone, which is here broad and flat.
+
+136. =Bend of elbow.=--At the bend of the elbow, the tendon of the
+
+biceps can be plainly felt, as well as the pulsation of the brachial
+
+artery close to its inner side, before dividing into the radial and
+
+ulnar.
+
+=Cutaneous veins.=--The bend of the elbow in young children and in
+
+persons with fat and round arms, presents a semicircular fold of which
+
+the curve embraces the lower part of the biceps; but in muscular
+
+persons we see the distinct boundaries of the triangular space, formed
+
+by the pronator teres on the inner side, and the supinator longus on
+
+the outer. Here can be traced, standing out in strong relief under
+
+the thin white skin, the superficial veins, which, in days gone by,
+
+when bloodletting was the fashion, were of such great importance.
+
+Their arrangement, although subject to variety, is very much like the
+
+branches of the letter M, the middle of the M being at the middle
+
+of the elbow. Of these branches the median basilic, which runs over
+
+the tendon of the biceps, is the largest and most conspicuous, and
+
+is generally selected for venesection; it crosses the course of the
+
+brachial artery, nothing intervening but the semilunar aponeurosis from
+
+the tendon of the biceps.
+
+137. =Landmarks of elbow.=--It is of great importance to be familiar
+
+with the relative positions of the various bony prominences about the
+
+elbow. We can always feel the internal and external condyles. The
+
+internal is the more prominent of the two, and a trifle higher.
+
+=Olecranon.=--We can always feel the olecranon. This is somewhat nearer
+
+to the inner than to the outer condyle. Between the olecranon and the
+
+internal condyle is a deep depression in which lies the ulnar nerve
+
+(vulgarly called the ‘funny bone’).
+
+On the outer side of the olecranon, just below the external condyle,
+
+is a pit in the skin, constant even in fat persons (when the elbow is
+
+extended). This pit is considered one of the beauties of the elbow in a
+
+graceful arm; it is seen in a child as a pretty little dimple. To the
+
+surgeon it is most interesting, as in this valley behind the supinator
+
+longus and the radial extensors of the wrist he can distinctly feel the
+
+head of the radius rolling in pronation and supination of the forearm.
+
+It is, therefore, one of the most important landmarks of the elbow,
+
+since it enables us to say whether the head of the radius is in its
+
+right place, and whether it rotates with the shaft.
+
+Can the tubercle of the radius be felt? Yes, but only on the back of
+
+the forearm in extreme pronation. Its projection is then distinctly
+
+perceptible just below the head of the bone.
+
+=Relations of olecranon and condyles.=--To examine the relative
+
+positions of the olecranon and condyles in the different motions of
+
+the elbow joint, place the thumb on one condyle, the tip of the middle
+
+finger on the other, and the tip of the forefinger on the olecranon. In
+
+extension, the highest point of the olecranon is never above the line
+
+of the condyles; indeed, it is just in this line. With the elbow at
+
+right angles the point of the olecranon is vertically below the line
+
+of the condyles. In extreme flexion the point of the olecranon lies in
+
+front of the line of the condyles.
+
+All these relative positions would be altered in a dislocation of the
+
+ulna, but not (necessarily) in a fracture of the lower end of the
+
+humerus.
+
+Sometimes, though rarely, we meet with a hook-like projection of bone
+
+above the internal condyle. It is called a ‘supra-condyloid’ process;
+
+it can be felt through the skin, with its concavity downwards, and is
+
+a rudiment of the bony canal which, in many mammalia, transmits the
+
+median nerve and ulnar artery. A third origin of the pronator teres is
+
+always attached to it; this origin covers the brachial artery.[10]
+
+=Bursæ.=--The subcutaneous bursa over the olecranon, if distended,
+
+would be as large as a walnut. A second bursa sometimes exists a little
+
+lower down upon the ulna. There is also a small subcutaneous bursa
+
+over each of the condyles.
+
+The vertical extent of the elbow joint is limited, above by a line
+
+drawn from one condyle to the other; below, by a line corresponding to
+
+the lowest part of the head of the radius.
+
+138. =Interosseous arteries.=--About one inch below the head of the
+
+radius, the ulnar artery gives off the common interosseous; and this
+
+divides, about half an inch lower, into the anterior and posterior
+
+interosseous. Thus, in amputating the forearm, say two inches below the
+
+head of the radius, four arteries at least would require ligature.
+
+By flexion of the elbow to the utmost, the circulation through the
+
+brachial artery can be arrested; but the position is painful, and can
+
+be tolerated only for a short time.
+
+=Lymphatic gland.=--There is a small lymphatic gland just above the
+
+inner condyle, in front of the intermuscular septum. It is the first to
+
+take alarm in poisoned wounds of the hand.
+
+_THE FOREARM AND WRIST._
+
+139. =Ulna.=--The edge of the ulna can be felt subcutaneous from the
+
+olecranon to the styloid process (in supination). Any irregularity
+
+could be easily detected. The styloid process of the ulna does not
+
+descend so low as the styloid process of the radius, or it would
+
+impede the free abduction of the hand. Its apex is on a level with
+
+the radio-carpal joint. The head of the ulna is plainly felt and seen
+
+projecting at the back of the wrist, especially in pronation of the
+
+forearm. It then lies between the tendons of the extensor carpi ulnaris
+
+and extensor minimi digiti. There is often a subcutaneous bursa over it.
+
+140. =Radius.=--The upper half of the shaft of the radius is so covered
+
+by muscles that we cannot feel it; the lower half is more accessible to
+
+the touch, especially just above and just below the part where it is
+
+crossed by the extensors of the thumb. Its styloid process is readily
+
+felt, and made all the more manifest by being covered by the first
+
+two extensor tendons of the thumb. It descends lower, and lies more
+
+to the front than the corresponding process of the ulna. The relative
+
+positions of these styloid processes can be best examined by placing
+
+the thumb on one and the forefinger on the other.
+
+Feel for the little bony pulley on the back of the radius near the
+
+wrist, which keeps in place the third extensor tendon of the thumb.
+
+This and the bone just above it is the place which we examine for a
+
+suspected fracture (termed Colles’s) near the lower end of the radius.
+
+141. =Carpus.=--Below the styloid process of the radius, just on the
+
+inner side of the extensors of the thumb, we feel the tubercle of the
+
+scaphoid bone. Between the styloid process and the tubercle is the
+
+level of the radio-carpal joint. A little lower we feel the trapezium.
+
+Just below the ulna on the palm of the hand we feel the pisiform bone;
+
+and on the inner side of this, the cuneiform.
+
+There are several transverse furrows on the palmar aspect of the
+
+wrist. The lowest of these, which is slightly convex downwards,
+
+corresponds with the upper edge of the anterior annular ligament and
+
+the intercarpal joint. The line of the radio-carpal joint, as already
+
+stated, is on a level with the apex of the styloid process of the ulna.
+
+In forcible flexion of the wrist, the tendon of the flexor carpi
+
+radialis and that of the palmaris longus come up in relief. On the
+
+outer side of the first-named tendon we feel the pulse, the radial
+
+artery here lying close to the radius.
+
+The tendon of the palmaris longus runs near the middle of the wrist,
+
+and close to its inner border runs the median nerve. In letting out
+
+deep-seated matter near the wrist, the incision should be made close to
+
+and parallel with the inner edge of the radial flexor tendon, so as to
+
+avoid injury to the median nerve.
+
+We can feel the tendon of the flexor carpi ulnaris for some distance
+
+above the wrist. It overlies the ulnar artery, and somewhat masks its
+
+pulsation.
+
+142. =Pulse.=--The ‘pulse at the wrist’ is felt just outside the
+
+tendon of the flexor carpi radialis. In feeling the pulse it should
+
+be remembered that, in some cases, the superficialis volæ arises
+
+higher and is larger than usual. In such cases it runs by the side of
+
+the radial artery, and gives additional volume to the pulse. The old
+
+writers call it ‘pulsus duplex.’ When in doubt, therefore, it is well
+
+to feel the pulse in each wrist.
+
+143. =Great carpal bursa.=--The great synovial sheath under the annular
+
+ligament common to the flexor tendons of the fingers and the long
+
+flexor of the thumb, extends, upwards, about an inch and a half above
+
+the edge of the ligament, and, downwards, as low as the middle of
+
+the palm. This general synovial sheath communicates with the special
+
+sheaths of the thumb and the little finger; not with that of the index,
+
+middle, and ring fingers.
+
+144. ‘=Tabatière anatomique.=’--On the outer side of the wrist we can
+
+distinctly see and feel, when in action, the three extensor tendons of
+
+the thumb. Between the second and third there is deep depression, at
+
+the root of the thumb, which the French humorously call the ‘tabatière
+
+anatomique.’ In this depression we can make out--1, the relief of the
+
+superficial radial vein; 2, the radial artery, in its passage to the
+
+back of the hand; 3, the upper end of the metacarpal bone of the thumb.
+
+145. =Tendons on back of wrist.=--The relative positions of the several
+
+extensor tendons of the wrist and fingers, as they play in their
+
+grooves over the back of the radius and ulna, can all be distinctly
+
+traced when the several muscles are put in action. The length of their
+
+synovial sheaths should be remembered. They vary from one inch and a
+
+half to two inches and a half. The longest of all are those of the
+
+extensors of the thumb. When these sheaths are inflamed and swollen,
+
+the motion of the tendons becomes painful and gives rise to a feeling
+
+of crepitus, called ‘tenalgia crepitans’ by some writers. It is said to
+
+be met with sometimes in pianists.
+
+146. =Lines of arteries.=--The course of the radial artery corresponds
+
+with a line drawn from the outer border of the tendon of the biceps at
+
+the bend of the elbow down the front of the forearm to the front of
+
+the styloid process of the radius. In the upper third of its course the
+
+artery is overlapped by the supinator longus. To make allowance for
+
+this, the incision for the ligature of the artery in this situation
+
+should be made, not precisely in the line of its course, but rather
+
+nearer the middle of the forearm.
+
+The line of the ulnar artery runs from the middle of the bend of the
+
+elbow (slightly curving inwards) to the outer side of the pisiform
+
+bone. The radial and ulnar arteries can, in most cases, be effectually
+
+commanded by pressure well applied at the wrist, in wounds of the
+
+palmar arch.
+
+Before we make incisions along the forearm, it is always desirable
+
+to ascertain whether the ulnar artery, which usually runs under the
+
+superficial muscles, may not run abnormally over them; in which case
+
+its pulsations can be felt all down the forearm.
+
+_THE HAND._
+
+147. It is beside the purpose here to examine the question whether the
+
+hand can tell more than the arm, the leg, or any other part of the
+
+body, about the physical constitution of its owner, and to what use
+
+it has been put. Those who are interested in this subject should read
+
+a very elaborate treatise by Carus,[11] ‘On the Reason and Meaning of
+
+the Different Forms of the Hand.’ Still less would I indulge curiosity
+
+by inquiring whether the professors of chiromancy, relying on the text
+
+‘erit signum in manu tua et quasi monumentum ante oculos tuos,’ can
+
+advance any reasonable pretensions for their assertion that they can
+
+read in the furrows of the palm the future destiny of its master.
+
+148. =Furrow in palm.=--The only furrow in the palm useful as a
+
+surgical landmark is that which runs transversely across its lower
+
+third, and is well seen when the fingers are slightly bent. This
+
+transverse furrow corresponds pretty nearly with the metacarpal joints
+
+of the fingers, with the upper limit of the synovial sheaths of the
+
+flexor tendons of the fingers (that of the little finger excepted
+
+(143)); also with the splitting of the palmar fascia into its four
+
+slips. The transverse metacarpal ligament lies in the same line with
+
+it. Again, a little below this furrow, the digital arteries bifurcate
+
+to run along the opposite sides of the fingers.
+
+149. =Interdigital folds.=--By pressing upon the interdigital folds
+
+of skin, we can feel the transverse ligament of the fingers, which
+
+prevents their too wide separation. The skin of these folds is much
+
+thinner on the dorsal than the palmar aspect; hence deep-seated
+
+abscesses in the palm very frequently burst on the back of the hand.
+
+150. =Digital furrows.=--Concerning the transverse furrows on the
+
+palmar surface of the fingers, notice that the first furrows, close to
+
+the palm, do not correspond with the metacarpal joints. The second and
+
+third furrows do correspond with their respective joints.
+
+The slight depression observable between the ball of the thumb and
+
+that of the little finger corresponds with the middle of the anterior
+
+annular ligament.
+
+151. =Palmar arterial arches.=--In opening abscesses in the palm, it
+
+is important to bear in mind the position of the large arterial arches
+
+which lie beneath the palmar fascia. The line of the superficial palmar
+
+arch crosses the palm about the junction of the upper with the lower
+
+two-thirds--that is, in the line of the thumb separated widely from
+
+the fingers. From this, the digital arteries run straight between the
+
+shafts of the metacarpal bones towards the clefts of the fingers.
+
+Incisions, therefore, to let out pus beneath the palmar fascia may
+
+safely be made in the lower two-thirds of the palm, provided they run
+
+in the direction of the middle line of the fingers. The deep palmar
+
+arch lies half an inch nearer the wrist than the superficial.
+
+152. =Digital arteries.=--As the digital arteries run along the sides
+
+of the fingers, the incision to open a thecal abscess should be made
+
+strictly in the middle line. It should be made not over but between the
+
+joints, since the sheath is strongest and thickest over the shafts of
+
+the phalanges, and therefore more likely to produce strangulation of
+
+the enclosed tendons.
+
+153. =Metacarpal joint of thumb.=--The joint of the metacarpal bone
+
+of the thumb with the trapezium can be distinctly felt by tracing the
+
+dorsal surface of the bone upwards till we come to the prominence which
+
+indicates the joint at the bottom of the ‘tabatière anatomique’ (144).
+
+Supposing, however, there be much swelling, the knife introduced at the
+
+angle between the first and second metacarpal bones readily finds the
+
+joint if the blade be directed outwards.
+
+154. =Sesamoid bones.=--The sesamoid bones of the thumb can be
+
+distinctly felt. Just above them--that is, nearer to the wrist--lies
+
+the joint between the metacarpal bone and the first phalanx. We should
+
+remember the position of these bones in amputation at this joint.
+
+_Mutatis mutandis_ the same observations apply to the sesamoid bones of
+
+the great toe.
+
+The extensor tendon of the last joint of the thumb crosses the apex
+
+of the first interosseous space. Under the tendon, and in the angle
+
+between the bones, we feel the radial artery just before it sinks into
+
+the palm.
+
+155. =Subcutaneous veins.=--The veins on the back of the hand, and
+
+their arrangement in the form of arches which receive the digital
+
+veins, is sufficiently obvious. The number and arrangement of the
+
+arches may vary, but in all hands it is interesting to notice that
+
+the veins from the fingers run up between the knuckles and are out of
+
+harm’s way.
+
+156. =Interosseous arteries.=--Since the dorsal interosseous arteries,
+
+like the palmar, run along the interosseous spaces, incisions to let
+
+out pus should always be made along the lines of the metacarpal bones.
+
+157. =Digital bursæ.=--Small subcutaneous bursæ are sometimes developed
+
+over the knuckles and the backs of the joints of the fingers. They
+
+often become enlarged and unseemly in persons of a rheumatic or gouty
+
+tendency.
+
+158. =Knuckles and digital joints.=--The three rows of projections
+
+called ‘the knuckles’ are formed by the proximal bones of the several
+
+joints: thus the first row is formed by the ends of the metacarpals;
+
+the second by the ends of the first phalanges, and so forth. In
+
+amputations of the fingers it is well to remember that in all cases the
+
+line of the joints is a little in advance of the knuckles, that is,
+
+nearer the end of the fingers.
+
+Long and graceful fingers, coupled with thickness and breadth of the
+
+sentient pulp at their ends, and too great arching of the nails, have
+
+been regarded, ever since the days of Hippocrates, as not unlikely
+
+indications of a tendency to pulmonary disease.
+
+_PALPATION BY THE RECTUM._
+
+The following report is from Mr. Walsham, of St. Bartholomew’s
+
+Hospital, who, having a small hand (somewhat less than seven and a half
+
+inches round), has had opportunities of introducing it up the rectum,
+
+in the living subject, for the purpose of diagnosis:--
+
+‘It is possible to introduce the hand (if small) into the rectum; in
+
+many cases into the sigmoid flexure, and in rare instances into the
+
+descending colon.
+
+‘Once beyond the sphincter, the hand enters a capacious sac, and the
+
+following important parts can be felt through its walls:--
+
+‘Through the anterior wall the hand first recognises the prostate,
+
+which feels like a moderately large chestnut. Immediately behind the
+
+prostate, the vesiculæ seminales may be distinguished as two softish
+
+masses situated one on either side of the middle line. Internal to
+
+them, the whipcord-like feel of the vasa deferentia can be readily
+
+traced over the bladder to the sides of the pelvis.
+
+‘The bladder is easily recognised, when moderately distended, as a
+
+soft fluctuating tumour behind the prostate; when empty it cannot be
+
+distinguished from the intestines, which then descend between the
+
+rectum and the pubes. The arch of the pubes can well be defined when
+
+the bladder is empty.
+
+‘Through the posterior wall of the bowel the coccyx and sacrum can be
+
+felt, the curve of the sacrum being readily followed by the hand.
+
+‘The projecting spine of the ischium on each side of the pelvis is a
+
+valuable landmark. From this point the outlines of the greater and
+
+lesser sacro-ischiatic foramina can be traced by the fingers; and any
+
+new growth, encroaching on the pelvic cavity through these apertures,
+
+could be easily detected.
+
+‘If the hand be now pushed farther up the gut, the promontory of
+
+the sacrum is reached; the pulsation of the iliac vessels becomes
+
+manifest, and the course of the external iliac can be traced along the
+
+brim of the pelvis to the crural arch, the loose attachments of the
+
+rectum permitting very free movement in this direction. The internal
+
+iliac artery can also be followed to the upper part of the great
+
+sacro-ischiatic foramen.
+
+‘By semi-rotatory movement, and alternately flexing and extending the
+
+fingers, the hand can gradually be insinuated into the commencement of
+
+the sigmoid flexure. In the sigmoid flexure the fingers can explore the
+
+whole of the lower part of the abdomen, the loose attachment of this
+
+portion of the gut permitting the hand to travel freely over the iliac
+
+and hypogastric regions.
+
+‘The parts that can here be felt are the bifurcation of the aorta, the
+
+division of the common iliac arteries, the iliac fossa, and the crest
+
+of the ilium.
+
+‘In the female, the uterus in the middle line, and the ovaries on
+
+either side, can be readily distinguished.
+
+‘In the introduction of the hand into the rectum, in a patient under
+
+chloroform, the dilatation of the sphincter ani should be very gradual:
+
+first two fingers, then four, and finally the thumb should be passed.
+
+It is necessary to use considerable force, and unless care be taken,
+
+not only the integumentary edge of the anus, but the sphincter itself,
+
+may be lacerated. The introduction is facilitated by the application of
+
+the other hand upon the abdomen.
+
+‘When the dilatation has been gradual and the hand not too large, no
+
+incontinence of fæces and no very considerable amount of pain has
+
+resulted.
+
+‘We have been informed on reliable authority that permanent
+
+incontinence of fæces has occasionally followed these examinations.’
+
+Lastly, we think it right to insist upon the important fact that, in
+
+some subjects, even a small hand cannot be passed up the rectum beyond
+
+the reflection of the peritoneum over the second part of the gut. In
+
+such instances the peritoneum offers a resistance like a tight garter,
+
+and prevents the farther advance of the hand without great risk of
+
+laceration of the parts.[12]
+
+_EXAMINATION PER VAGINAM._
+
+For this report I am indebted to Dr. Godson, of St. Bartholomew’s
+
+Hospital:--
+
+‘The finger introduced into the vagina comes upon the carunculæ
+
+myrtiformes, which are vascular membranous processes independent of the
+
+hymen, variable in number, size, and form. It also feels the transverse
+
+ridges known as “rugæ.”
+
+‘Along the anterior wall of the vagina the finger readily detects the
+
+track of the urethra, which feels like a prominent cord and forms an
+
+excellent guide to the orifice of the meatus urinarius in passing a
+
+catheter. The orifice is indicated by a slight semicircular prominence,
+
+situated about one-third of an inch above the orifice of the vagina.
+
+Behind the urethra the finger comes upon the posterior wall of the
+
+bladder. But the bladder is not perceptible, as such, to the touch
+
+unless distended. With a catheter previously introduced it is much more
+
+readily explored.
+
+‘The septum between the vagina and the rectum is so thin that, should
+
+the rectum contain fæcal matter, its presence becomes at once apparent
+
+to the finger.
+
+‘The cervix uteri is felt protruding from the roof of the vagina in
+
+a direction downwards and backwards--that is, in a line from the
+
+umbilicus to the coccyx. The os uteri is felt, small and round, in the
+
+centre of the cervix. The posterior lip feels a little lower than the
+
+anterior. The cul-de-sac formed by the vagina in front and behind the
+
+cervix should be perfectly elastic to the touch, and not communicate
+
+the sensation of a resisting body. Any resistance here bespeaks an
+
+abnormal condition.
+
+‘The bony landmarks within reach of a finger, or perhaps two, in a
+
+woman who has not borne a child, are the symphysis pubis, the rami
+
+of the pubes and ischia. The coccyx and part of the hollow of the
+
+sacrum may also be felt, but not without exerting much pressure on the
+
+posterior wall of the vagina, which gives considerable pain. If the
+
+promontory of the sacrum can be felt, it is a sign that the conjugate
+
+diameter of the pelvis is abnormal.
+
+‘The finger in the rectum can detect almost everything which has been
+
+mentioned in connection with the vagina. The shape and direction of
+
+the cervix uteri are almost as perceptible, and the posterior wall of
+
+the uterus can be examined. The peritoneal fold termed recto-vaginal
+
+(Douglas’s space) can also be well explored, and anything abnormal
+
+detected in this direction--a point of great importance in the
+
+diagnosis of diseases and displacements of the uterus.
+
+‘The ovary in its normal state and position cannot be detected by
+
+the touch even with the hand firmly pressed on the hypogastrium. If
+
+a movable body be felt through the vaginal roof on one side of the
+
+cervix, if this body be exquisitely tender and recede at once from the
+
+finger, it is an ovary in a state of prolapse.
+
+‘The fundus of a healthy unimpregnated uterus never rises above the
+
+level of the brim of the pelvis, and cannot therefore be felt by
+
+pressing the hand on the hypogastrium.
+
+‘The direction of the uterus is subject to changes which cannot be
+
+looked upon as abnormal. The fundus may be thrown backwards by a
+
+distended bladder, or forwards by a distended rectum. The axis of its
+
+cavity is not a straight but a curved line; and uterine sounds should
+
+be shaped to suit it.’
+
+NOTES.
+
+[1] Some pertinent remarks on this subject have been made by Mr. C.
+
+Heath in a pamphlet ‘On Anatomy in relation to Physic.’
+
+[2] In several adult normal skeletons measured in the Hunterian
+
+Museum, the average diameters of the upper opening of the chest
+
+were--antero-posterior, about 2¼ inches; transverse, about
+
+4½ inches. In the skeleton of O’Brien, the Irish giant, the
+
+antero-posterior diameter measures 4 inches, the transverse 6¼.
+
+[3] Special experiments upon this subject were made many years ago by
+
+the late Professor Quekett in the work-rooms of the College of Surgeons.
+
+[4] See a beautiful illustration of this in Sir C. Bell’s ‘Anatomy of
+
+Expression,’ p. 160.
+
+[5] See some good observations on the position of the enlarged spleen,
+
+by Sir W. Jenner, ‘Brit. Med. Journ.,’ Jan. 16, 1869.
+
+[6] ‘Lectures on Rest and Pain,’ by John Hilton, F.R.S. London, 1863.
+
+p. 280.
+
+[7] Nélaton, ‘Pathologie chirurgicale,’ t. iv. p. 441. 1848.
+
+[8] Bigelow, ‘Mechanism of Dislocation and Fracture of the Hip.’
+
+Philadelphia, 1869.
+
+[9] See Pruge on ‘Ossa Acromialia’ (‘Zeitschrift für rationelle
+
+Medizin’), 3. Reihe, Bd. vii. 1859.
+
+[10] See on this subject a monograph, ‘Canalis Supra-Condyloideus
+
+Humeri.’ By W. Grüber. Petersburg, 1856.
+
+[11] ‘Ueber Grund und Bedeutung der verschiedenen Formen der Hand.’
+
+Stuttgart, 1846.
+
+[12] For further information on this subject, see a paper by Mr.
+
+Walsham, in St. Bartholomew’s Hospital Reports, vol. xii.
+
+_Spottiswoode & Co., Printers, New-street Square, London._
+
+Transcriber’s Notes
+
+A few obvious errors in punctuation have been fixed.
+
+The reference in section 153 to tabatière anatomique in section 140 has
+
+been corrected to 144.
+
+***

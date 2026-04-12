@@ -1,0 +1,4653 @@
+Transcriber's Note.
+
+Apparent typographical errors have been corrected. The use of hyphens has
+
+been rationalised.
+
+Italics are indicated by _underscores_. Small capitals have been replaced
+
+by full capitals.
+
+Square brackets, which indicate sidenotes and footnotes, are also present
+
+in the text.
+
+There are several words in Anglo-Saxon script. These are indicated by
+
+=equal signs=. The individual characters have been replaced by their
+
+modern equivalents: "wynn" by "w", and so on.
+
+ THE
+
+ OFFICE
+
+ OF
+
+ BAILIFF
+
+ OF A
+
+ LIBERTY.
+
+ BY JOSEPH RITSON, Esq.
+
+ BARRISTER AT LAW,
+
+ LATE HIGH BAILIFF OF THE SAVOY.
+
+Ballivus cujuscunque manerii esse debet in verbo verax, et in opere
+
+diligens ac fidelis, ac pro discreto appruatore cognitus, plegiatus, &
+
+electus, qui de communioribus legibus pro tanto officio sufficienter se
+
+cognoscat, et quòd sit ita justus, quòd ob vindictam vel cupiditatem non
+
+quærat versus tenentes domini, vel aliquos sibi subditos, occasiones
+
+injustas, per quas destrui debent, seu graviter amerciari. FLETA. _l. 2.
+
+c. 73._
+
+ LONDON:
+
+ PRINTED BY A. STRAHAN,
+
+ LAW-PRINTER TO THE KINGS MOST EXCELLENT MAJESTY;
+
+ FOR J. BUTTERWORTH, LAW-BOOKSELLER,
+
+ FLEET-STREET.
+
+ 1811.
+
+ADVERTISEMENT.
+
+The little work now offered to the public was originally compiled by Mr.
+
+Ritson about the same period as similar treatises, on _The Office of
+
+Constable_, and _The Jurisdiction of the Court-Leet_, published in his
+
+lifetime. The author's attachment to the subject, it is believed, induced
+
+him to defer the publication of the present digest, in the hope of
+
+increasing its value by ampler information or more diligent research; and
+
+this object appears to have been sufficiently pursued, during the latter
+
+years of the author's life, to answer his wishes, as the work was left by
+
+him in every respect ready for the press.
+
+The editor feels it due to the memory of his much honored and lamented
+
+uncle to add, that the recent publications to which Mr. Ritson's name,
+
+from interested motives, has been, very unwarrantably, affixed, are not
+
+intitled to any credit.
+
+ JOSEPH FRANK.
+
+ Stockton-upon-Tees,
+
+ 1st February 1811.
+
+PREFACE.
+
+The subject of the following digest is not, as may be hastily imagined, a
+
+matter of mere curiosity or antiquarian research. The officer of whom it
+
+treats exercises his function in many parts of the kingdom, in its
+
+fullest extent, at this day; though the attention requisite in certain
+
+branches of his duty may in some places, no doubt, have induced him to
+
+neglect them.
+
+The want of such a compilation as the present must have been more or less
+
+felt by every one who has acted in the execution of this office; and
+
+indeed it ought to seem much more extraordinary (considering the
+
+multitude of similar publications on other subjects) that it should not
+
+have been attempted long ago, than that it appears at present.
+
+Little can, and less need be said in favour of a work which has no
+
+obligations either to genius or to judgement: some labour, however, has
+
+undoubtedly been exerted in the compilation, which, should it have the
+
+good fortune to prove so far serviceable to those whom it most concerns,
+
+as to render the discharge of an ancient and honorable office an object
+
+of less difficulty or hazard, the 'compiler' will not have reason to
+
+regret.
+
+CONTENTS.
+
+                                                                     Page
+
+ INTRODUCTION                                                          xi
+
+ BOOK  I. Of a franchise or liberty                                     1
+
+ Chap. I. Of franchises in general                                      1
+
+ ---- II. Of the liberty of _Retorna Brevium_, or return
+
+             of writs                                                   3
+
+ BOOK   II. Of the bailiff of a franchise or liberty                   16
+
+ Chap.   I. Of his quality                                             16
+
+ ----   II. Of his creation or appointment, and interest
+
+               in his office                                           17
+
+ ----  III. Of his qualification                                       18
+
+ ----   IV. Of his power and capacity; i. e. what he may
+
+               or may not do or be                                     20
+
+ ----    V. Of his duty, i. e. what he must or shall do
+
+               or not do                                               26
+
+ ----   VI. Of his indemnity and protection                            54
+
+ ----  VII. Of his responsibility and punishment                       59
+
+ ---- VIII. Of his fees                                                68
+
+ ----   IX. Pleadings                                                  71
+
+ APPENDIX                                                              76
+
+INTRODUCTION.
+
+Bailiff (_Baillif_, or _Baillie_ French; _Ballivus_, Latin; from
+
+_balliare_ to deliver, intrust, or commit,) is the name given by the
+
+Normans to those ministers of the law whom the Saxons called =gerefa=,
+
+_greve_ or _reve_[1]: an appellation which, however corruptly, we still
+
+retain in the word _sheriff_, (=scyre-gerefa=, or _shire-reve_,) and by
+
+which the bailiff of a manor is in many parts of the kingdom known to
+
+this day. The sheriff himself did not, it is true, long continue to enjoy
+
+the title of bailiff, which gave place to the more honorable one of
+
+_vicecomes_ or _viscount_ (_qui fungitur vice comitis_,) by which name
+
+alone he was constantly stiled in all judicial proceedings, till the
+
+progressive ascendency of the English tongue restored to him his ancient
+
+and original appellation. His county, however, is still called his
+
+_bailiwick_[2], he is often mentioned in _Magna Charta_ and ancient
+
+statutes along with _alii ballivi_, and is himself frequently included
+
+under that title[3]. Between this officer and the bailiff of a hundred,
+
+manor or liberty, such a perfect resemblance appears to have subsisted,
+
+in all respects, that there cannot be a doubt that both were the produce,
+
+if not of the same hand, at least, of the same system. The division of
+
+the kingdom into counties, hundreds and tithings, is well known to be
+
+owing to the wise policy of the great Ælfred[4]; each county, hundred or
+
+tithing is agreed to have been subjected to an officer known by the
+
+common name of the =gerefa=; he who presided over the county at large
+
+being usually, by way of distinction, called the =heh= or =scyre-gerefa=
+
+and sometimes the =scyr=-man, as the others were stiled the =hundred= and
+
+=tything-gerefa= or the hundreder, and tithingman[5]. We are but
+
+imperfectly acquainted with the duty of this officer till after the
+
+conquest. It is said, indeed, that the sheriff, in the time of the
+
+Saxons, was not the minister of the King, but the officer of the
+
+=Ealderman= or =Eorl=[6]. And what this alderman or earl was to the
+
+county, the lord or thain was, no doubt, to his manor or liberty, and
+
+what the sheriff was to the former, the inferior =gerefa= or bailiff was
+
+to the latter. Certain it is that not only the several courts of which we
+
+shall have occasion to speak, but what we now call manors or liberties,
+
+existed from a very early period, nor was it possible for the Norman
+
+Kings to enlarge, in favour of their own countrymen, the amazing powers
+
+which almost every petty Saxon thain or lord exercised in his
+
+jurisdiction, either from the nature of the constitution and ordinary
+
+course of law, or the liberal grants of the Saxon monarchs: powers which
+
+the Norman jurists never found themselves able to express in a different
+
+language[7].
+
+The sheriff was originally elected by the freeholders or suitors of the
+
+great Court Baron of the county, commonly called the County Court; the
+
+bailiff by the freeholders of the hundred or manor, suitors to the Court
+
+Baron of each division[8]: and when the right of election in the former
+
+case was wrested from the people by the Norman tyrants[9], the same right
+
+in the latter case was usurped by the lord of the hundred or manor. The
+
+sheriff presided as judge in the folkmote or leet of the county, the
+
+bailiff in that of the hundred or manor. The former sat as principal
+
+executive officer of the County Court; the bailiff, of the Court Baron;
+
+the freeholders or suitors being the judges in each to this day: and
+
+though both seem to have been anciently considered as the Kings courts,
+
+yet offences were in one alledged to be _contra pacem ballivi_, and in
+
+the other _contra pacem vicecomitis_[10]. The fines and amerciaments
+
+imposed in these courts were levied, and the process of the court
+
+executed by the sheriff and bailiff in the same manner; each having his
+
+serjeants or inferior officers to assist him: and in the proceedings of
+
+the above courts, or others nearly similar, and held by or before the
+
+same persons, was comprehended the whole system, as well of the civil as
+
+of the criminal law of that age, not only before the institution of
+
+judges itinerant, but (in many cases at least) long after. The revenue of
+
+the crown was collected and accounted for by the sheriff and bailiff
+
+within their respective jurisdictions: And as each of them governed the
+
+tenants in peace, so he led them forth to war when necessity
+
+required[11]. Each of them had likewise his proper _aid_ or _scot_, which
+
+he assessed upon the landholders within his bailiwick, who frequently
+
+complained of it as an intolerable grievance, and as such it was at
+
+length abolished. The Kings writ is thought not to have run as it now
+
+does till about the institution of the Eyre or Iter of the Justices by K.
+
+_H. 2_.[12] How his commands were signified before this invention does
+
+not clearly appear[13]; but certainly after it took place, the execution
+
+of the writ (though necessarily directed to the sheriff) was as much the
+
+duty of the bailiff within the franchise, as of the sheriff without; nor
+
+could the latter, without a special authority, interfere in the most
+
+trivial matter which belonged to the other. In short, whatever the
+
+sheriff did or could do in the county at large the bailiff could do and
+
+did within his franchise, whether hundred[14] or manor. Such was the
+
+ancient constitution, and such in a great measure will appear from the
+
+following sheets to be the law at this day.
+
+ [1] From =gerefen= _tollere_, _rapere_, _exigere_. _Exactor Regis (sc.
+
+ mulctarum & jurium suorum). Ideo scil. quod mulctas regias et
+
+ delinquentium facultates, in fiscum raperent, exigerent, deportarent._
+
+ Spelman, _voce_ REVE.
+
+ [2] See _Co. Lit. 168, b._ Whenever the sheriff in any judicial
+
+ proceedings speaks or is spoken to of his county, the law in fact has
+
+ regularly no other name for it; _in comitatu meo_ or _tuo_ for instance
+
+ has (frequently at least) a very different meaning.
+
+ [3] _2 Inst. 19._ Blount, _voce_ Bailiff. And see _Fortescue on
+
+ Monarchy_, 124. _Sed quia_ vicecomes ... _fuit_ ... magnus domini Regis
+
+ ballivus. _M. Paris._ 801. The governors of the city of London were
+
+ originally called portreves, then bailiffs, then sheriffs, and at last
+
+ mayors. _Stows Survey_, by Strype. _B. v. c. 6._
+
+ [4] _Ingulphus (apud scriptores post Bedam)._ 870. _Gul. Malmesburiensis
+
+ de Gestis Regum. Ibi._ 44. Camdens _Britannia. clxvii._ _Seldeni
+
+ Analecta, Opera, ii._ 922. Notes upon Draytons Polyolbion. Song xi.
+
+ (Works. iv. 1839.) Shires, however, it is certain there were before this
+
+ time. See Bradys Hist. of Eng. i. 84. 116. and Sir J. Spelmans Life of
+
+ Ælfred. 110.
+
+ [5] The _præpositus villæ_, or bailiff of a manor, was also called the
+
+ =tungerefa= or Tungreve. _Vide_ Spelman, _voce_ Grafio.
+
+ [6] Hickes. Dis. Epis. 49.
+
+ [7] Infangtheof, outfangtheof, thol, theam, soc, sac, blodwite,
+
+ fythewite, flyhtewite, fledwite, ferdwite, hengewite, leirwite,
+
+ childwite, wardwite, grithbrech, hamsocn, forstall, ordel, oreste,
+
+ flemenefrith, miskennyng, burgbruch, &c. &c.
+
+ [8] Kennet, Par. Ant. Glos. v. _præpositus_. Another title common to
+
+ sheriff, bailiff, and reve.
+
+ [9] This privilege was restored to the people by the _Articuli super
+
+ Chartas_; _28 E. 1. c. 8._ but resumed in the following reign, and has
+
+ ever since continued in the crown. _9 E 2. st. 2. Jenk._ 229. They enjoy
+
+ the right of electing the coroner still; chiefly, it is supposed,
+
+ because it has not been thought worth taking from them.
+
+ [10] _Fleta. l. 2. c. 53._ § 1. The _steward_ has been in possession of
+
+ this branch of the bailiffs office for many centuries. When this
+
+ transfer took place would be scarcely possible to discover. It should
+
+ seem, however, to have been gradual, and might possibly have its rise
+
+ from the _Senescallus_, the =Styweard= or _major-domo_ being sometimes
+
+ more conversant in forensic matters than the bailiff, whose office
+
+ chiefly concerned the management of the lords demesne and other
+
+ out-of-door concerns. The _Mirror_ (written in the time of _E. 2._)
+
+ constantly speaks of the bailiff as judge of the court leet; see also
+
+ Ken. _Par. Ant._ p. 319. And thus Finch, speaking of the County Court
+
+ and Court Baron, says "the suitors are the judges and the _bailiff_ and
+
+ sheriff are but ministers." _Law._ 248. And hence, perhaps, it has been
+
+ held that both offices might be enjoyed by one and the same person.
+
+ _Cro. Jac._ 178. (cites _29 H. 8._) And it should seem from Bracton that
+
+ writs were indifferently directed to either the steward, or the bailiff,
+
+ _ballivo vel senescallo_. _l. 5. c. 32._
+
+ About the time that this separation took place, the lowest branches of
+
+ the bailiffs office were transfered to an inferior minister, named a
+
+ _reve_, of whom we read at large in _Fleta. l. 2. c. 76._ But possibly
+
+ this was only the case in extensive manors and demesnes, where a single
+
+ person was found unequal to the discharge of the united functions of
+
+ _steward_, _bailiff_, and _reve_.
+
+ [11] Lambards _Perambulation of Kent._ p. 484.
+
+ [12] _V._ Prynne, Animad. on 4 Inst. p. 150. _Hickes. Dis. Ep._ p. 8.
+
+ 48. See however in Madox, His. Ex. p. 100. an instance of justices
+
+ itinerant in the time of K. Stephen. Writs unknown to the Saxons.
+
+ _Hickes. u. s._ p. 8.
+
+ [13] A collection of all the writs and charters that can be met with of
+
+ the first three or four Norman kings would be a useful, curious, and
+
+ interesting work.
+
+ [14] Most hundreds have, by statute or otherwise, been united to the
+
+ body of the county and power of the sheriff. But many of them, having
+
+ been granted in fee, still exist as independent franchises.
+
+ THE
+
+ OFFICE
+
+ OF
+
+ BAILIFF OF A LIBERTY.
+
+BOOK I.
+
+Of a FRANCHISE or LIBERTY[15].
+
+CHAPTER I.
+
+OF FRANCHISES IN GENERAL.
+
+[Sidenote: Royal privilege.]
+
+[Sidenote: Forfeiture.]
+
+A franchise is a royal privilege in the hands of a subject; and is
+
+forfeited by misusing it. _Finch_, 164.
+
+[Sidenote: Record.]
+
+If a franchise be of record in any court of the King it is sufficient.
+
+_27 H. 6. 9._
+
+[Sidenote: _Quo warranto._]
+
+Allowance of franchises in _Quo warranto_ or in Eyre shall conclude the
+
+King, for this is the suit of the King to try franchise; _contra_ of
+
+allowance in the Common Bench or other court. _10 H. 7. 13._ _Br.
+
+Fraunches & Liberties_, 40.
+
+[Sidenote: General statute.]
+
+Franchise bound by general statute, _tam_ within _quam_ without the
+
+franchise. _19 H. 6. 1._
+
+Franchise or other special liberty or privilege shall not be defeated by
+
+general statute. _19 H. 6. 64._[16]
+
+[Sidenote: Prisons.]
+
+Albeit divers lords of liberties have custody of the prisons and some in
+
+fee, yet the prison itself is the Kings _pro bono publico_; and therefore
+
+it is to be repaired at the common charge; for no subject can have the
+
+prison itself. _2 Inst._ 589.
+
+None can claim a prison as a franchise, unless they have also a
+
+jail-delivery of felony, which the dean and chapter of Westminster hath
+
+not, and therefore ought to send a calendar of 'prisoners' to Newgate, or
+
+return the _Habeas Corpus_ to _B. R._ with a claim of their franchise. _1
+
+Salk._ 343.
+
+[Sidenote: _Magna Charta._]
+
+By _Mag. Char._ c. 38., are saved to all archbishops, &c. earls, barons,
+
+and all others, all liberties and free customs which they had enjoyed
+
+before.
+
+In the preamble to many of the old statutes it is stipulated that all the
+
+lords spiritual and temporal, and the other lieges of the King having
+
+liberties and franchises, shall have and enjoy all their liberties and
+
+franchises which they have of the grant of the Kings progenitors and of
+
+his own grant and confirmation. This is the constant preface to the
+
+petition rolls to which the King always answers "_Le Roy le voet_." _Rot.
+
+Parl._ _passim_. And that all persons and corporations may fully enjoy
+
+their liberties, [and] franchises, [was] one prime cause of calling
+
+parliaments, and so declared, and the conservation of them one chief
+
+petition of the commons when violated. _Abridgement of the Records_[17].
+
+_Table_, _voce_ Liberties.
+
+ [15] Note, that these words are in this work used in two different
+
+ senses, but both equally common: viz. 1. for the privilege itself, as
+
+ the franchise or liberty of _Retorna Brevium_: 2. for the manor or
+
+ territory in or over which that privilege is exercised, as the Liberty
+
+ or Franchise of the Savoy. There will seldom, if ever, be any confusion
+
+ or obscurity on this account.
+
+ [16] Vide _Co. Lit._ 115. and the case of the King against Pugh.
+
+ _Douglas_ 179.
+
+ [17] Published by Prynne under the name of Sir Robert Cotton, but said
+
+ to have been actually compiled by William Bowyer, keeper of the records
+
+ in the Tower in the time of Queen Elizabeth.
+
+CHAPTER II.
+
+OF THE LIBERTY OF _Retorna Brevium_, OR RETURN OF WRITS.
+
+[Sidenote: Roll of Liberties.]
+
+[Sidenote: _Non omittas._]
+
+By _W. 2. c. 39._ The treasurer of the exchequer shall deliver in a roll
+
+all the liberties in all shires that have return of writs. And if the
+
+sheriff answer that he hath made return to the bailiffs of any other
+
+liberty than is contained in the said roll, the sheriff shall be
+
+forthwith punished as a disheritor of the King and his crown[18]. And if
+
+peradventure he answer that he hath returned the writ to the bailiffs of
+
+some liberty that indeed hath return who hath done nothing therein[19],
+
+the sheriff shall be commanded that he shall not omit by reason of the
+
+aforesaid liberty, but that the Kings precept shall be executed; and that
+
+he make known to the bailiffs to whom he returned the writ that they be
+
+at a day contained in the writ to answer why they have not made execution
+
+of the Kings precept. And if they come at the day and acquit themselves
+
+that return of the writ was not made to them, the sheriff shall be
+
+forthwith condemned to the lord of the same liberty, and likewise the
+
+party grieved by the delay in restitution of damages. And if the bailiffs
+
+come not at the day, or come and do not acquit themselves in manner
+
+aforesaid, in every judicial writ, so long as the plea endureth, the
+
+sheriff shall be commanded that he omit not because of the liberty, &c.
+
+That the statute, in this respect, was little more than a declaration of
+
+the common law, appears from _Bracton. l. 5. c. 32._
+
+[Sidenote: Indenture.]
+
+By _12 E. 2. c. 5._ Of returns which shall be made to sheriffs by
+
+bailiffs of such franchises as have full return of the Kings writs, an
+
+indenture shall be made between the bailiff of the franchise by his
+
+proper name, and the sheriff by his proper name. And if any sheriff
+
+change the return so delivered to him by indenture, and thereof be
+
+convicted at the suit of the lord of the franchise, of whom he shall have
+
+received such return, if the lord shall have sustained any damage, or his
+
+franchise be imblemished, and at the suit of the party who shall have
+
+sustained damage by that occasion, he shall be punished on behalf of the
+
+King for his false return, and render to the lord and to the party double
+
+damages.
+
+[Sidenote: Prescription.]
+
+Return of writs may be claimed by prescription as appertaining to a
+
+manor. But more especially may it be claimed as appertaining to an
+
+honour. _Hardres._ 423.
+
+[Sidenote: Escheat,]
+
+Where a man hath _Retorna Brevium_, which liberty comes to the hands of
+
+the King by escheat _vel aliter_, this unity in the King shall not
+
+extinguish the liberty. _Keilwey._ 72.[20]
+
+[Sidenote: A dangerous liberty!]
+
+This liberty of Retorna Brevium (saith C. B. Hale) is a dangerous liberty
+
+for him that hath it; for he is to be responsible for all the defaults of
+
+his bailiffs, as escapes, &c. And if the bailiff do not account for the
+
+collection of the Kings revenue he is responsible for it; 'tis a feather
+
+in his cap, but a thorn in his foot. _2 Vent._ 406.
+
+[Sidenote: Sheriff.]
+
+This liberty though it carries an exemption, yet it doth not exclude, but
+
+that the sheriff may execute writs within it. But then it is a wrong for
+
+which the lord of the liberty may have his action: but in some cases the
+
+sheriff may lawfully do it, as in the case of the King. A _non omittas_,
+
+_&c._ in case of execution of a writ of waste, whereto he is particularly
+
+empowered by the statute, and sometimes where the thing is divided[21].
+
+(By Hale C. B.) _2 Vent._ 406.
+
+[Sidenote: Warrant.]
+
+If an action be brought in a county, and the place where, _&c._ is the
+
+franchise of another who hath return and execution of writs within the
+
+said franchise, yet the writ shall issue to the sheriff, and he ought to
+
+make over a warrant to the bailiff of the franchise to execute the same
+
+writ; and the writ shall not be directed to the bailiff, &c. for he is
+
+not officer to the court. And moreover it shall be intended that all
+
+vills in the county are within the power of the sheriff till the contrary
+
+be made appear by return of the sheriff. _35 H. 6. 42._
+
+To the sheriff the writ must be directed, though it be for a thing done
+
+in a franchise, and he shall send to a [_l._ the] bailiff of the
+
+franchise who shall serve it as a servant to the sheriff[22], and the
+
+sheriff return it _Finch._ 238.
+
+[Sidenote: Service by sheriff.]
+
+And though the sheriff serve an execution in a franchise, yet it is good.
+
+And the lord of the franchise is driven to his action upon the case
+
+against the sheriff, for the sheriff is immediate officer. _Id._ _Ib._
+
+Where the sheriff makes execution in franchise it is good, for he is
+
+immediate officer to the court; otherwise where bailiff makes execution
+
+in the guildable; and the lord of the franchise in the first case shall
+
+have his remedy for infringing the franchise. _11 H. 4. Br. Execution._
+
+32.
+
+[Sidenote: The King party.]
+
+If the sheriff without _Non Omittas_ serve process within liberty or
+
+franchise that hath return of writs it is good. _11 H. 4. 9._ _20 H. 7.
+
+7._ But the lord of the franchise shall have action upon the case against
+
+him. _Fitz. Nat. bre._ 95.[23] But if the King be party the lord hath no
+
+remedy, for the writ for the King is always _Non Omittas_ in law. _41
+
+lib. Ass._ 17. _Cromp. J. P._ 164.[24]
+
+Where the King is party the _venire facias_ shall make mention of _non
+
+omittas_; for where the King is party the sheriff shall not write to the
+
+bailiff of the franchise, but serve the process himself. _41 Ass._ p. 17.
+
+_Br. Fraunches & Liberties_, 18.
+
+The King hath no other minister than the sheriff, and where the King is a
+
+party no franchise shall be allowed. _Fitz. Chal._ 129.
+
+Where the King is party as against felon or otherwise in action, the
+
+franchise shall not take place, but the sheriff ought to enter the
+
+franchise and serve the process, unless this clause _licet fuerimus pars_
+
+be in the charter, in which case it seems otherwise. _38 Ass._ p. 19.
+
+_Br. Fraunches & Liberties_, 31.
+
+If the King grant _returna omnium brevium_, yet he shall not have return
+
+of the summons of the exchequer. _22 Ass._ p. 49. _Br. Patentes_, 32.
+
+[Sidenote: Arrest by sheriff.]
+
+_Per Glynn_ Ch. J. Mich. 1658; if one be arrested by the sheriff of the
+
+county within a liberty, without a _non omittas_, yet the arrest is good;
+
+for the sheriff is sheriff of the whole county, but the bailiff of the
+
+liberty may have his action against the sheriff for entering his
+
+liberty[25]; but upon a _quo minus_, a sheriff may enter any liberty, and
+
+execute it _impune_. _R. S. L._ 116. _cites_ _Pract. Reg._ 72. _Viner,
+
+Franchises_, (_B._) 6.
+
+[Sidenote: _Non omittas_, _Capias utlagatum_, _Quo minus_.]
+
+The sheriff, upon a _non omittas_, _capias utlagatum_, or _quo minus_,
+
+may enter and make an arrest in any franchise. _L. P. R._ 635. _Viner,
+
+Franchises_, (_B._) 6.
+
+[Sidenote: _Non omittas._]
+
+In the county of Suffolk are two liberties, one of St. Edmund Bury, and
+
+the other of St. Ethelred of Ely: suppose a _capias_ comes at the suit of
+
+_A._ to the sheriff of Suffolk, to arrest the body of _B._ the sheriff
+
+makes a mandate to the bailiff of the liberty of St. Ethelred, who makes
+
+no answer; in that case the plaintiff shall have a writ of _non omittas_,
+
+and by force thereof he may arrest the defendant within the liberty of
+
+Bury, although no default was in him [_sci._ in the bailiff of that
+
+liberty.] _5 Rep._ 92.
+
+But this is to be understood of the process of the Kings Bench; for
+
+Common Pleas recites the _capias_, the sheriffs return, that he has made
+
+his mandate to the bailiff, who has given no answer, and then gives the
+
+sheriff power to enter the liberty; but in the Kings Bench, on the
+
+sheriffs return on the _Latitat_, the authority is general, _non omittas
+
+propter aliquam libertatem_, which gives the sheriff power to enter not
+
+only that liberty, but all the liberties within the county: And this
+
+seems to be grounded on the words of the _latitat_, (viz.) _latitat_ and
+
+_discurrit_, so that the defendant is supposed to skulk and run from one
+
+place to another; and therefore the _non omittas_ was made general, that
+
+he might not run from one liberty to another. _Gilb. Hist. C. P._ 24.[26]
+
+[Sidenote: Justice of peace.]
+
+A warrant of a justice of peace to arrest for felony may be executed in a
+
+franchise within the county, for it is the Kings suit, in which a _non
+
+omittas_ is virtually included. _2 Hale P. C._ 116.[27]
+
+[Sidenote: Process.]
+
+By _5 G. 2. c. 2._ § 3., in particular franchises and jurisdictions the
+
+proper officer there shall execute such process [i. e. where cause of
+
+action in superior court is under 10l. in inferior court under 40 s.]
+
+[made perpetual by 21 G. II. c. 3.][28]
+
+[Sidenote: Sheriffs deputy.]
+
+By _13 G. 2. c. 18._ § 6., for the better and more speedy execution of
+
+process within particular franchises or liberties, the sheriff of every
+
+shire, being no city or town made a shire, within which there is any
+
+franchise or liberty, the lord or proprietor whereof is of right intitled
+
+to the return of writs within such franchise or liberty, shall (if
+
+required by any such lord or proprietor) within one month next after such
+
+request made to him for that purpose, nominate and appoint one or more
+
+sufficient deputy or deputies, at the proper costs and charge of such
+
+lord or proprietor, to be resident at some convenient town or place in or
+
+near such franchise or liberty, to be for that purpose appointed by the
+
+lord high chancellor of Great Britain, and the chief justices of his
+
+Majestys courts of Kings Bench and Common Pleas for the time being, or
+
+any one of them, who is and are hereby authorized and impowered to
+
+appoint such convenient town or place as to him or them shall seem meet,
+
+and to settle and direct what costs and charges shall be paid therefore
+
+by such lord or proprietor; and such deputy or deputies shall reside at
+
+such town or place so to be appointed as aforesaid, and shall have
+
+authority in the sheriffs name, and is and are respectively authorized
+
+and impowered to receive and open all such writs and process (the
+
+execution or return whereof doth of right belong to the lord or
+
+proprietor of any such franchise or liberty) and thereupon in the name,
+
+and under the seal of the sheriff, to make and issue out such warrant or
+
+warrants to such lord or proprietor, as by law is requisite, for the due
+
+execution of such writs or process; and every such deputy or deputies is
+
+and are hereby required, upon tender of any such writ or process, to
+
+receive and open the same, and to issue out such warrant thereon, without
+
+delay, in such manner and form as the sheriff himself may or ought to do,
+
+without taking any further or other fee than what is now due and
+
+accustomed for such warrant; upon pain that every such sheriff or deputy
+
+respectively, who shall be guilty of any wilful neglect or default in the
+
+premises shall be liable to be punished for the same, as for a contempt
+
+of one of his Majestys said Courts of Chancery, Kings Bench, or Common
+
+Pleas (as the case shall require), and shall likewise make satisfaction
+
+to the party or parties that shall receive damage thereby.
+
+[Sidenote: _Ca._ and _non om._]
+
+_Note._ It is now usual to take out the _capias_ and _non omittas_
+
+together, without staying for the sheriffs return[29]. _Gilb. Hist. C.
+
+P._ 26.
+
+_Note_, If any of your defendants live within a liberty where the sheriff
+
+may not enter, you must get the sheriff to direct his warrant on your
+
+writ to the bailiff of such liberty, who may execute it; but if the
+
+bailiff of such liberty do not execute it, then you must at the return of
+
+your writ, get the sheriff to return a _mandavi ballivo_ thereon, and
+
+thereupon you make out a writ called a _non omittas_, directed to the
+
+sheriff, and upon that writ the sheriffs officers may, upon the sheriffs
+
+warrant made out thereon, enter and execute the warrant within such
+
+liberty. _1 Instructor Clericalis._ 44.
+
+And _Note_, The usual practice in such case is if the defendant dwells in
+
+the country, to send down a _non omittas_ with the _latitat_ for
+
+dispatch. _Ib._
+
+SCAC. E. 1725.
+
+_L. Digby_ v. _Meech_ et al.
+
+Bill to establish plaintiffs right to the manor, &c. of Sherborn
+
+Castleton in the county of Dorset, to Greenwax fines, &c., and also
+
+poundage fees on executions and _Retorna Brevium_, &c. by virtue of a
+
+grant 14 Jac. 1. The bill was brought against three succeeding sheriffs
+
+of the county, and Templeman, who had been the undersheriff for three or
+
+four years, and as to him to have an account of what poundage fees, &c.
+
+he had received within the liberty: the title set forth by plaintiff was,
+
+that King James I. granted to Sir John Digby (after earl of Bristol),
+
+from him they descended to George, from him to John earl of Bristol, _and
+
+on his death vested in plaintiff_.
+
+It was objected at the hearing that here was not a sufficient title set
+
+forth, it not appearing how the premises vested in plaintiff, whether by
+
+descent, settlement, or how.
+
+And _per tot' cur'_ the bill ought to be dismissed for that reason; the
+
+bill being to establish a right, as well as for an account; and upon this
+
+the cause went off, but plaintiff had liberty to amend his bill.
+
+_Hanbury_, 195.
+
+ [18] In the Kings Bench the sheriff returned _Mand' ballivo' Libertatis
+
+ de D._ and it was said that he hath not such a franchise, and if it be
+
+ inrolled in the chancery that A. hath _retorna brevium_, yet if it be
+
+ not inrolled in the exchequer, as the statute of _W. 2. c. 39._ and if
+
+ the sheriff return other liberty he shall be punished as a disinheritor
+
+ of the Crown by such statute, and the justices may send _certiorari_ out
+
+ of chancery to the treasurer, that he bring the roll of liberties in his
+
+ hand, and shew it to the justices. _11 E. 4. 4._ _Br. Retorne de
+
+ briefe._ 98.
+
+ This Roll of Liberties is supposed to be lost; at least the clerks of
+
+ the _Treasurers Remembrancers office_, on inquiry there, could give no
+
+ account of it; any more than the bag-bearer of the _Kings_ could of the
+
+ "little booke," mentioned by Powell to be in the _Kings Remembrancers
+
+ office_, "intituled, _Liber de Ball. pro Angl._ of all the bailiwicks
+
+ throughout England," which he calls "an ancient booke, made _Anno_ 1180."
+
+ _Per Curiam_, where the bailiff makes insufficient return, the sheriff
+
+ may return _quod nullum dedit responsum_, for an insufficient return is
+
+ as no return; and in _præcipe_ against two, the bailiff returns the one
+
+ summoned and the other not, this is no answer, and if the sheriff return
+
+ this, he shall be amerceo, but by _Vavisour_ if the bailiff make dubious
+
+ return and the sheriff return it over he shall not be amerced, _quære_.
+
+ _5 H. 7. 27._ _Br. Retorne de briefe._ 89.
+
+ In _Præcipe quod reddat_, to the grand capias the sheriff returned _quod
+
+ mandavi ballivo, libertatis_, who returns that he hath taken the land
+
+ into the hands of the King, and says nothing that he hath summoned the
+
+ tenant. _Martin_, another summons with _non omittas_ shall be awarded,
+
+ and the sheriff shall not be amerced, for the bailiff hath not served
+
+ the writ; for as much as he had in commandment to do two things, and he
+
+ has done but one; and so it is as if he had said nothing either of one
+
+ or the other. _Babb_, a _non omittas_ shall not be awarded but where the
+
+ bailiff hath not given any return, but here he hath given a return which
+
+ is not sufficient, and for this he shall be amerced. _T. 4 H. 6.
+
+ [25.]_ _Fitz. Amercement._ 1.
+
+ In trespass the sheriff returned the _Capias quod mandavit Ballivo
+
+ Libertatis, qui sic respondit quod cepit corpus_; but the bailiff does
+
+ not bring in the body; but the defendant would have answered by
+
+ attorney, and was not received. And the plaintiff prayed _Sicut alias_
+
+ to the sheriff, and _non omittas_. And for that the writ was served he
+
+ could have nothing but a writ to the sheriff to distrain the bailiff to
+
+ send the body, &c. _27 E. 3. 7._
+
+ [19] This _nihil_ is to be understood, not only where nothing at all is
+
+ done, but also where the bailiff of the liberty maketh an insufficient
+
+ return, for that is _nihil_ in law, and therefore a _non omittas_, &c.
+
+ _2 Inst._ 452.
+
+ [20] (1.) The King may have liberties by the suppression of abbeys (_32
+
+ H. 8._) or by other means. And a liberty shall not be intended to be
+
+ extinct, unless it be so shewn, but shall be said to be still in _esse_.
+
+ _Cro. Jac._ 242.
+
+ When the King grants any privileges, liberties, franchises, &c. which
+
+ were privileges, liberties, or franchises in his own hands as parcel of
+
+ the flowers of his crown, as _bona et catalla felonum fugitivorum
+
+ utlagatorum_ &c. _bona et catalla waviata, extrahur; deodanda, wreccum
+
+ maris_, &c. within such possessions, there if they come again to the
+
+ King, they are merged in the crown, and he has them again in _Jure
+
+ Coronæ_; and if the wreck, or goods waifed, estrays, &c. were appendant
+
+ before to possessions, now the appendancy is extinct, and the King is
+
+ seised of them in _Jure Coronæ_. But when a privilege, liberty,
+
+ franchise or jurisdiction was at the beginning erected and created by
+
+ the King, and was not any such flower before in the garland of the
+
+ crown, there, by the accession of them again to the crown they are not
+
+ extinct nor the appendancy of them severed from the possessions; as if a
+
+ fair, market, hundred, leet, park, warren, _et similia_, are appendants
+
+ to manors, or in gross, and afterwards they come back to the King, they
+
+ remain as they were before, in _esse_, not merged in the crown, for they
+
+ were at first created and newly erected by the King, and were not in
+
+ _esse_ before, and time and usage have made them appendant. _9 Rep. 25,
+
+ h._
+
+ [21] Writ issued to the sheriff to enquire of waste, who returned _quod
+
+ mandavi ballivo libertatis qui mihi nullum dedit responsum_, and for
+
+ this he was amerced, and _sicut alias_ awarded, because by the writ he
+
+ is judge and hath power to enter the franchise. _T. 11 H. 4. (81.)_
+
+ _Fitz. Retourne del vicount._ 53. But
+
+ Note, that sometimes the sheriff is judge, as in redisseisin, waste, and
+
+ admeasurement, and the process shall be served by the baily as is said.
+
+ _Diversite des Courts._ _Court Baron._
+
+ _Ejectione Custodiæ_ [under _W. 2. c. 35._], at the distress with
+
+ proclamation the sheriff returned _mandavi ballivo libertatis_, &c.; and
+
+ by _Thirning_ and _Markham_, the sheriff shall be amerced, for the
+
+ proclamation is to be made by the sheriff by the statute. Therefore
+
+ because the distress with proclamation is a thing entire, he ought to
+
+ have entered the franchise and served the whole writ himself: and
+
+ _Rikhill_ and _Tirwit e contra_ and that he did well, as in a _præcipe
+
+ quod reddat_ of land, part in guildable, and part in franchise, the
+
+ sheriff shall make precept for parcel, and shall serve the rest himself.
+
+ _2 H. 4. 1._ _Br. Ejectione Custodie._ 1.
+
+ If a distress with a proclamation be granted, and the defendant hath
+
+ nothing but within a franchise, the sheriff shall make proclamations in
+
+ the county, and the baily of the liberty shall distrain him. _2 Inst._
+
+ 442.
+
+ Where the issue is of land part gildable and part in franchise, the
+
+ panel shall be returned part by the sheriff and part by the bailiff of
+
+ the franchise, and they may join [in the return]; and the distress
+
+ [shall be] by the sheriff only if the bailiff be slack. _19 H. 6. 48_,
+
+ _67_. _Br. Retorne de briefe._ 50.
+
+ If assise be brought of tenements in two franchises the sheriff shall
+
+ write to each bailiff, and both shall serve. _Abr. Ass._ 92, _b._
+
+ Assise was brought of tenements in two vills, one vill was within the
+
+ franchise and the other in gildable, and the bailiff of franchise made
+
+ the panel, and for this it was challenged; for those of a franchise
+
+ cannot have the view by commandment of bailiff of land out of the
+
+ franchise, &c. And so the court thought. _H. 18. E. 3._ _quære_, how
+
+ the writ shall be served? It seems that the writ shall abate, and that
+
+ he shall be put to several writs, and namely where he may sever the
+
+ thing, &c. for otherwise it will follow that the bailiff of the
+
+ franchise shall never serve a writ, for a man may always put in the
+
+ writ, part of the land gildable, &c. _quære_. _Abr. Ass._ 93.
+
+ [22] He is not servant to the sheriff, nor is any way subject to him
+
+ (having as good authority in his office, and being as ancient an officer
+
+ as himself).
+
+ Upon an issue the sheriff returned to the _Venire Facias_, and to the
+
+ distress, as to 4 jurors he returned the writ served, and as to the
+
+ remainder he returned _mandavi ballivo de B. qui nullum_, &c. Fortescue
+
+ prayed that the sheriff should be amerced, for no writ may be returned
+
+ by two ministers _s._ part by the sheriff and part by the bailiff.
+
+ Newton, _e contra_. And afterwards, by advice of all the justices, the
+
+ sheriff was amerced. _H 19 H. 6._ _Abr. Ass._ 144. 145.
+
+ It was assigned for error that in assize it appeared by the return of
+
+ the sheriff, that he had found pledges before himself, and the bailiff
+
+ of the franchise, to whom the return belonged, served all the rest of
+
+ the writ; and the return adjudged good. _21 H. 7. 14._
+
+ [23] _H._ 49 _E._ 3. _B. R. Rot._ 4. _Linc._ proces _per_ attachement
+
+ _per billam versus vicecomitem_ directed _al coroner_ for the disturbing
+
+ a lord of a liberty. L. C. J. Hales Discourse concerning the Courts of
+
+ K. B. and C. P. (Hargraves Tracts, vol. i. p. 363.)
+
+ [24] In the _Auctarium Additamentorum_ to Watts's edition of Matthew
+
+ Paris is a warrant from the sheriff of Essex and Hertford to the
+
+ bailiffs of the liberty of St. Albans, reciting a writ to the sheriff to
+
+ summon the knights and freeholders of the said counties, &c. to be
+
+ before the Kings commissioner with an express _non omittas_ in case of
+
+ the default of the bailiffs of liberties; which proves that the writ for
+
+ the King was not at that time (37 H. 3.) a _non omittas_ of itself.
+
+ [25] It seems that the sheriff ought to take notice of such a liberty at
+
+ his peril, without the party shewing his grant to him but merely upon
+
+ his saying that he hath one, because it is a matter of record. _1 Roll
+
+ R._ 119. _Town of Derby_ v. _Foxley_.
+
+ [26] Rule to shew cause why a writ of _non omittas capias ad
+
+ respondendum_, should not be quashed, discharged. The objection to the
+
+ writ was, that it recited a mandate to have been issued forth by the
+
+ sheriff to the bailiff of a liberty without naming what liberty, but
+
+ leaving a blank for the same. The court held the objection to be valid,
+
+ and that the proper way to take advantage of the defect is by motion;
+
+ but it appearing that bail was put in to this writ before a judge, the
+
+ objection now comes too late. _Barnes._ 416.
+
+ [27] Where the sheriff serves the process once of a thing local or
+
+ permanent, as in _Præcipe_ of land and such like, he cannot after return
+
+ _mandavi ballivo_; but _e contra_ of a thing transitory which may
+
+ remove. _5 H. 7. 27._ _Br. Ret. de briefe._ 89.
+
+ Thus in _Alias Summons_ in Dower the sheriff can't return _mandavi
+
+ ballivo_, for he ought to have made this return upon the first writ,
+
+ that so the court might have awarded a _non omittas_; but if it relates
+
+ to matters transitory, then the sheriff may return _mandavi ballivo_ on
+
+ the issuing of the second process, as on an _alias capias_, for the body
+
+ might be in the liberty on the issuing of the second process, though it
+
+ was in the guildable in the first; and therefore the return of the first
+
+ process does not conclude him from returning the liberty to the second
+
+ process. _Gilb. Hist. C. P._ 26.
+
+ [28] _Urlin_ moved to stay proceedings, the process being served within
+
+ the franchise of Bury St. Edmonds, and not by the proper officer,
+
+ contrary to the late act of parliament. _Per Cur'_: The act only
+
+ preserves and saves the jurisdiction of particular liberties. The person
+
+ injured must bring his action, the court cannot stay proceedings.
+
+ _Barns._ 404.
+
+ [29] How far such a practice is consistent with the rights of the lord
+
+ of the liberty or with the law of the land (and particularly with the
+
+ act just above recited) is submitted to those whose duty it is to
+
+ support both.
+
+ In Yorkshire it is usual for the sheriff to direct the warrant as well
+
+ to the bailiff of the liberty as to one or more of his own bailiffs, who
+
+ may take defendant if found _extra libertatem_. This method is
+
+ unobjectionable, it prevents delay and answers all the purposes of a
+
+ _non omittas_.
+
+BOOK II.
+
+Of the BAILIFF of a FRANCHISE or LIBERTY.
+
+CHAPTER I.
+
+OF HIS QUALITY.
+
+The bailiff of a franchise or liberty is he who in a free place, or
+
+portion of a county, taken away from the power of the sheriff, executes
+
+the business of the sheriff. _Spelman._
+
+[Sidenote: Minister to the King.]
+
+The bailiff of the franchise is not minister to the sheriff but to the
+
+King. _8 E. 4. 17._
+
+[Sidenote: Officer _per se_.]
+
+The bailiff of a franchise is an officer by himself, and hath not to do
+
+with the sheriff. _21 H. 7. 23._
+
+The bailiff of a liberty is not servant to the sheriff, for the sheriff
+
+cannot make other return but according to that which the bailiff of the
+
+liberty certifies him. _Keilwey_, 89.
+
+[Sidenote: Kings bailiff.]
+
+The Kings bailiff of his manor is immediate officer to the King. _33 H.
+
+6. 29._
+
+The bailiff of a liberty is such an officer as the court will take notice
+
+of. _Pasch. 24 Car. B. R. Q. S. P. R._ 122.
+
+CHAPTER II.
+
+OF HIS CREATION OR APPOINTMENT, AND INTEREST IN HIS OFFICE
+
+[Sidenote: Parol, patent or inheritance.]
+
+One may be bailiff by a simple grant [i. e. by parol] or patent or
+
+inheritance. _H. 33 H. 6. [3.]_ _Fitz. Monstrauns de faitz, &c._ 93.
+
+[Sidenote: Bailiff of the King.]
+
+A man may be bailiff of the King without patent or writing. _7 H. 7. 10._
+
+_Br. Bailie. 46 & v. 2 & 9._
+
+A man may be made bailiff to the King by naked matter of fact as well as
+
+to a common person. _Keilwey_, 174, b.
+
+If the King make one his bailiff of his manor, to which manor waif, stray
+
+and leet are appendant, by patent, in this case the bailiff shall have
+
+the waif, stray and leet, because he occupies in right of the King, and
+
+he shall account to the King; and therefore this is an advantage of the
+
+King, for which reason the bailiff shall have all. _8 H. 7. 3._
+
+[Sidenote: Corporation.]
+
+Corporation having return of writs may make bailiff (to execute them)
+
+without writing, by parol. _Moor_, 552.
+
+[Sidenote: Bailiff for life.]
+
+But a man may not make bailiff or steward for life, or in fee, without
+
+deed. _21 H. 7. 36._
+
+[Sidenote: Discharge by purchaser.]
+
+Bailiff of a manor[30] for life, with fee or other profits for the
+
+execution of his office, cannot be discharged by a purchaser of the manor
+
+(_contra_ if no fee or profit). _Cro. Eliz._ 859.
+
+ [30] Whatever is said of the bailiff of a manor is in general applicable
+
+ to the bailiff of a liberty, every liberty being likewise a manor;
+
+ though every manor be not a liberty.
+
+CHAPTER III.
+
+OF HIS QUALIFICATION.
+
+[Sidenote: Sufficient land.]
+
+By _4 E. 3. c. 9._, no sheriff, bailiff of hundred, wapentake, or
+
+franchise, shall be henceforth if they have not land sufficient in the
+
+places where they are ministers whereof to answer the King and his
+
+people, in case any man will complain against them. Re-enacted by _5 E.
+
+3. c. 4._
+
+[Sidenote: Oaths.]
+
+By _27 Eliz. c. 12._ § 2., all persons that shall be admitted to or take
+
+upon them the executing of the office of an undersheriff, before he
+
+intermeddle with the use or exercise of the said office, shall receive
+
+and take a corporal oath upon the Holy Evangelists, before the justices
+
+of assise, or one of them, of the same circuit wherein that county is
+
+whereof he shall be undersheriff, or before the _Custos Rotulorum_, or
+
+two justices of the peace whereof one to be of the _quorum_ of the said
+
+county, for and concerning the supremacy, in such manner and form as that
+
+oath is expressed and declared in one act of parliament made and ordained
+
+in the first year of the reign of our Sovereign Lady the Queen's
+
+Majesty[31], together with which oath he shall in like sort, before the
+
+same person or persons, receive and take another corporal oath as
+
+followeth, (that is to say) I _A. B._ shall not use or exercise the
+
+office of undersheriff corruptly during the time that I shall remain
+
+therein, neither shall or will accept, receive or take, by any colour,
+
+means or device whatsoever, or consent to the taking any manner of fee or
+
+reward of any person or persons for the impanelling or returning of any
+
+inquest, jury or _tales_, in any court of record for the Queen, or
+
+betwixt party and party, above two shillings or the value thereof, or
+
+such fees as are allowed and appointed for the same by the laws and
+
+statutes of this realm, but will, according to my power, truly and
+
+indifferently, with convenient speed, impanel all jurors, and return all
+
+such writ or writs touching the same as shall appertain to be done by my
+
+duty or office, during the time that I shall remain in the said office.
+
+So help me God.
+
+By § 4., every bailiff of franchises, deputy and clerk of every sheriff
+
+and undersheriff, and every other person and persons which shall have
+
+authority, or take upon him to impanel or return any inquest, jury or
+
+_tales_, or to intermeddle with execution of process in any court of
+
+record, shall before he or they intermeddle with any further execution
+
+thereof, receive and take the oaths aforesaid corporally before the
+
+person or persons appointed by this act to minister the same, or before
+
+the head officer of the place (if it be a town corporate), changing only
+
+the words (the office of the undersheriff) contained in the oath
+
+expressed in this act, to such words as are convenient for the
+
+deputation, office, or place in which the party which taketh the oath is
+
+to be exercised in: and if any the said persons limited to take the oath
+
+aforesaid, do take upon him to impanel or return any inquest, jury or
+
+_tales_, or to intermeddle with the execution of process not having
+
+before taken the oaths aforesaid, every [such] person shall lose and
+
+forfeit the sum of forty pounds of current English money, the one moiety
+
+to be to the use of our Sovereign Lady the Queen, the other to him or
+
+them that will sue for the same.
+
+ [31] By _1 W. and M. stat. 1. c. 8._, the oath of supremacy is taken
+
+ away, and certain other oaths substituted in lieu thereof.
+
+CHAPTER IV.
+
+OF HIS POWER AND CAPACITY; _i. e._ WHAT HE MAY OR MAY NOT DO OR BE.
+
+[Sidenote: Steward.]
+
+A bailiff may be steward of the same manor; for they may well stand both
+
+together. (_29 H. 8._ in _Bro._) _Cro. Jac._ 178.
+
+[Sidenote: Deputy.]
+
+Bailiff of a liberty may well have a deputy. _Cro. Jac._ 242.[32]
+
+[Sidenote: Lease of land.]
+
+Bailiff of lord may lease the land, and good, at will, for he is
+
+accountable, and debt lies for the lord. _2 E. 4. 4._ _Br. Bailie_, 32.
+
+_Lease_, 34.
+
+[Sidenote: Rent.]
+
+But if he reserve no rent the lease is void. _1 Roll. Rep._ 258.
+
+[Sidenote: Lease of piscary.]
+
+Bailiff of a manor may lease the piscary for years. _3 H. 4 12b._ _1 Roll
+
+Abr._ 339.
+
+[Sidenote: Lease of manor.]
+
+Bailiff cannot make lease of the manor, nor of parcel of the manor,
+
+without especial command for that purpose. _M. 8 E. 4. 13._ _Fitz.
+
+Bayllyff._ 3. _Br. Bailie_, 41.
+
+[Sidenote: Lease of land.]
+
+A bailiff cannot by any usage make lease of the land of his master [for]
+
+an estate of freehold. _19 Ass._ 9. _1 Roll. Abr._ 339.
+
+[Sidenote: Payments.]
+
+Bailiff of a manor may pay rents issuing out of the manor, and shall have
+
+allowance, but _e contra_ where he pays debts of the lord due by contract
+
+or obligation, for this is out of his power. _4 H. 7. 14._ _Br. Bailie._
+
+27.
+
+[Sidenote: Cutting trees, &c.]
+
+Bailiff may justify cutting the great trees for repair of a house, or the
+
+covering of it as it was before, but not with more costly covering, and
+
+the same law is of amending pale, hedge, or such like, without command of
+
+his lord; but he cannot cover with tile what was before thatch, nor make
+
+new house, nor make pale where hedge was before, unless by special
+
+commandment of his master. _12 H. 7. 25._ _Br. Baillie_, 42. & _vide
+
+plenius Trespas._ 288.
+
+[Sidenote: Licence to walk over ground.]
+
+A bailiff may give licence to another to walk over the ground, for this
+
+is a trespass to the possession only, and the bailiff hath the
+
+disposition of the profits of the possession. (_dub._) _1 Roll. Abr._ 339.
+
+[Sidenote: Damage feasant.]
+
+A bailiff of a manor may himself or command another to take beasts
+
+_damage feasant_ on the land, for he hath the care of all things within
+
+the manor. _1 Roll. Abr._ 339.
+
+[Sidenote: General acts.]
+
+He may do any thing for his masters benefit, but not to his prejudice
+
+without his assent. _Cro. Jac._ 178.
+
+And therefore he cannot give seisin of rent, nor exchange the lords land.
+
+(_41 E. 3. 26_) _Cro. Jac._ 178.
+
+[Sidenote: Distress for amerciament.]
+
+Bailiff without special warrant from the steward cannot distrain for
+
+amerciament in a leet. _Moore_, 607. 574.
+
+_Popham_ said, that defendant as bailiff of the manor cannot distrain for
+
+amerciament by reason of his office without an especial warrant from the
+
+steward or lord, no more than a sheriff may levy amerciaments of _B. R._
+
+without warrant. But _Gawdy_, _e contra_, that he may distrain for lawful
+
+amerciaments by reason of the office. _Cro. Eliz._ 698.
+
+Bailiff cannot distrain _ex officio_ for amerciaments. _Cro. Eliz._ 748.
+
+Bailiff cannot distrain for amerciament by command of the lord of the
+
+manor, nor otherwise than by virtue of a precept directed to him by the
+
+steward of the court. _Carth._ 75.[33]
+
+[Sidenote: Arrest.]
+
+Bailiff of a franchise which hath _Retorna Brevium_ cannot arrest a man
+
+without warrant to him made by the sheriff upon the writ in his hands.
+
+_Keilwey_, 86 _b._[34]
+
+[Sidenote: Delivery of prisoner.]
+
+Bailiff of a liberty may deliver his prisoner to the sheriff without more
+
+circumstance; as he may be discharged by his parol from keeping him any
+
+longer. _Cro. Car._ 447.[35]
+
+[Sidenote: Process.]
+
+Bailiff of a franchise cannot execute a process within his franchise, but
+
+by the precept of the sheriff. _29 E. 3. 42._ _Coron._ 462. _2 Hale P.
+
+C._ 68.[36]
+
+[Sidenote: Writ of inquiry.]
+
+Case, judgement by _nil dicit_, writ of inquiry of damages to the sheriff
+
+of Norfolk, who returns a _mandavi ballivo_, and sets down an inquisition
+
+before bailiff and 40l. damages. Upon writ of error, agreed by all the
+
+judges that the return was insufficient, for it was apparently untrue,
+
+and against law, because the warrant was directed to the sheriff himself
+
+to be executed in any part of the shire, and no venue contained in this
+
+inquest of office, as there is in other writs which intitles the bailiffs
+
+of liberties. But yet the court would not reverse the judgement, because
+
+there were divers of the like both in the K. B. and C. P. especially in
+
+Suffolk and Norfolk in later times. _Hobart._ 83.
+
+[Sidenote: _Elegit._]
+
+Bailiff of a liberty may make an inquisition and extent upon an _Elegit_
+
+by warrant from the sheriff, and shall deliver the moiety, and not the
+
+jury. _Cro. Car._ 319.
+
+[Sidenote: Bail-bond.]
+
+Bailiff of a franchise [under _23 H. 6. c. 9._] has power to take a bail
+
+bond, and must take it to himself, and by the name of his office.
+
+_Comyns._ 380.
+
+Bailiff of a franchise may take bond in sheriffs name. _3 Keble_, 71.
+
+117. 125.
+
+[Sidenote: Waiver of franchise.]
+
+Baily of hundred[37] may waive his franchise and arrest as sheriffs
+
+baily[38]. _3 Keble_, 71.
+
+[Sidenote: Capias against two.]
+
+Capias or distress against two, sheriff may serve as to one and bailiff
+
+as to the other. _31 H. 6. 13._
+
+Where process issues, and the sheriff or bailiff is plaintiff, yet he may
+
+serve the process; and the sheriff is not bound to take conusance if the
+
+bailiff be plaintiff or not, for it may be another of the same name. _36
+
+H. 6. 1._ _Br. Retorne de Briefe._ 65.[39]
+
+By _2 E. 3. c. 3._ Lords of franchises, and their bailiffs in the same,
+
+shall have power to execute this act; which prohibits all men, except the
+
+Kings servants in his presence, and his ministers in executing his
+
+precepts, &c. from coming before the Kings justices, or other the Kings
+
+ministers doing their office, with force and arms, or bringing force in
+
+affray of the peace, or going or riding armed by night or by day in
+
+fairs, markets, or in the presence of the justices or other ministers, or
+
+in any part elsewhere, upon pain to forfeit their armour to the King, and
+
+their bodies to prison to the Kings pleasure.
+
+[Sidenote: Attorney.]
+
+By _4 H. 4. c. 19._, no steward, bailiff or minister of lords of
+
+franchises which have return of writ shall be attorney in any plea within
+
+the franchise or bailiwick whereof he is such officer or minister.
+
+ [32] And such deputy it should seem ought to be made by writing (_9
+
+ Rep._ 51, b.). Though it is said _21 H. 7. 37._ that the sheriff or a
+
+ steward may make deputy without deed.
+
+ [33] It is an old rule of the duchy court that the bailiffs of the
+
+ liberties of the duchy may distrain for fines and amerciaments for the
+
+ King, and keep the same fifteen days, and if the party distrained refuse
+
+ to pay his fine or amerciament, then the bailiff may sell the same,
+
+ unless the party distrained will enter into bond to pay the said fine or
+
+ amerciament at a day prefixed in the duchy court, or else shew good
+
+ cause; but in this case there is no replevy to be granted against the
+
+ King. And all this it seemeth the bailiff shall do _ex officio_. The
+
+ fines and amerciaments within the liberties of the duchy are, however,
+
+ usually levyed by writ of _levari facias & capias_ out of the duchy
+
+ court. And,
+
+ By Keble, precept to bailiff by nude parol is as effectual in court
+
+ _Baron_ as by writing, because the trial shall be all _per pais_ and not
+
+ by the record: for all is but matter _in fait_. _Quod fuit concessum._
+
+ _16 H. 7. 14._
+
+ [34] _Per_ Levinz serjeant. In fact the sheriffs make no warrants to the
+
+ bailiffs of liberties, but they only send the writ to them; and they
+
+ execute it upon some general warrant, which they have from the sheriffs
+
+ to execute all writs according to the agreement between the sheriffs and
+
+ bailiffs. But (_per curiam_) this general warrant serves for a warrant
+
+ to every particular case, for there must be a warrant in writing,
+
+ because a command by parol to the bailiff of a liberty is not
+
+ sufficient, _1 L. Ray._ 190. _Hammon_ v. _Jermyn_.
+
+ _N. B._ This assertion of the learned serjeant, though founded it is
+
+ possible on some instance within his knowledge, can never be understood
+
+ as true with respect to general practice.
+
+ [35] Bailiff of a liberty arrested the party, and delivered him to the
+
+ sheriffs deputy, from whom he was rescued, and judgement for the
+
+ plaintiff. _Burgh_ v. _Appleton, Sheriff of Essex_, cited _Cro. Jac._ 242.
+
+ See the Pleadings _Declarations in the Upper Bench_, 50. See also c. vi,
+
+ (pl. 1.) c. ix (fo. 50.)
+
+ But in _Boothman_ v. _Earl of Surry_, _T. 27 G. 3. B. R._ Defendant
+
+ being bailiff of the liberty of Hallamshire, in the county of York took
+
+ his prisoner to York jail and there delivered him into the custody of
+
+ the sheriff, and upon action of debt brought against him for an escape,
+
+ judgement for the plaintiff. _N. B._ Neither of the cases in Croke was
+
+ cited by defendants council.
+
+ [36] In the _Register_ are divers examples of original writs directed to
+
+ bailiffs of liberties: as for instance; writs of right patent, writs _de
+
+ warrantia diei_, writs of trespass, writs of _supersedens_, writs _de
+
+ cartis reddendis_, writs _de attornato pro custode_, writs _de attornato
+
+ pro secta facienda_, writs _de statuto_: The duchy court constantly
+
+ issues writs of _levari facias_ to bailiffs of the duchy liberties; in
+
+ all these cases the bailiff is immediate officer to the court, and hath
+
+ nothing to do with the sheriff, contrary to the argument in _Skin._ 413,
+
+ and _vide_ _F. N. B._ _passim_.
+
+ [37] This must be understood of a hundred in fee with _retorna brevium_
+
+ in the hands of a private person, of which there are several instances;
+
+ every other bailiff of hundred being a mere servant to the sheriff. And
+
+ note, that, where a man is _bailiff of fee_ in a county (_i. e._ a
+
+ bailiff itinerant, who hath the execution only of writs within the
+
+ county or hundred in fee) the sheriff shall not write to him as to
+
+ _bailiff of franchise_, and for his act _non omittas_ shall not issue,
+
+ nor shall he make mention of him in his return. _27 Ass._ p. 65. _Br.
+
+ Retorne de briefe_, 69.
+
+ [38] The sheriff of a county made a warrant _ballivis suis_ to arrest
+
+ the body of such a man, and the bailiffs of the liberty return a
+
+ rescous; and exception was taken to it, because the warrant was
+
+ _ballivis suis_, and the return was made by those who were not his
+
+ bailiffs; and it was adjudged good, for the liberty might be within his
+
+ bailiwick, and so are all the precedents. _March._ 25.
+
+ [39] But the defendant himself shall never take advantage of a liberty,
+
+ as if the bailiff of a liberty be defendant in any action, and process
+
+ of _Cap'_ or _Feri Fiac'_ comes to the sheriff against him, the sheriff
+
+ shall execute the process against him; for a liberty is always for the
+
+ benefit of a stranger to the action. _5 Rep._ 92.
+
+CHAPTER V.
+
+OF HIS DUTY _i. e._ WHAT HE MUST OR SHALL DO OR NOT DO.
+
+[Sidenote: Return of precept.]
+
+Baily of a liberty must return his precept [to the sheriff]. _2 Keble_,
+
+838.
+
+Where the sheriff returned capias _quod mandavi ballivo de D. qui
+
+respondit quod cepit corpus, &c._ and hath not the body at the day, the
+
+bailiff is bound to bring in the body, and not the sheriff, by _Hill_;
+
+but by _Hank_ he ought to deliver it to the sheriff, and he to bring it
+
+in as officer immediate, as upon _fieri facias_ the sheriff commands the
+
+bailiff to levy the money, he delivers it to the sheriff, so that the
+
+sheriff may have it at the day: _contra_ _Thirn_, and agreed with _Hill_.
+
+_11 H. 4. 48_ _Br. Retorne de Briefe_, 35[40].
+
+[Sidenote: Bail.]
+
+By _W. 1. (3 E. 1.) c. 15._, such as be indicted of larceny, by inquests
+
+taken before sheriffs or bailiffs by their office, or of light suspicion,
+
+or for petty larceny which amounteth not above the value of 12d. if they
+
+be not guilty of other larceny before that time, or guilty of the receit
+
+of felons or of commandment or of force, or of aid of felony done, or
+
+guilty of some other trespass for which a man ought not to lose life or
+
+member, and a man appealed by the prover after the death of the prover,
+
+if they be not known common thieves, shall be let out by sufficient
+
+surety, whereof the sheriff will be answerable. And if sheriffs or others
+
+let go upon surety any that is not replevisable, if he be sheriff,
+
+constable, or other bailiff of fee, and who hath keeping of prisons, and
+
+thereof be attainted, he shall lose his fee and bailiwick for ever. And
+
+if undersheriff, &c. do it contrary to the will of his lord, he shall be
+
+imprisoned three years, and be fined at the Kings pleasure. And if any
+
+withhold prisoners replevisable after the prisoner hath offered
+
+sufficient surety he shall be in the grievous mercy of the King; and if
+
+he take reward for delivering him he shall render double to the prisoner,
+
+and moreover shall be in the grievous mercy of the King.
+
+By _23 H. 6. c. 9._ Sheriffs, undersheriffs, bailiffs of franchises, &c.
+
+shall let out of prison all manner of persons by them arrested or being
+
+in their custody by force of any writ, bill or warrant in any action
+
+personal, or by cause of indictment of trespass, upon reasonable sureties
+
+of sufficient persons, having sufficient within the counties where such
+
+persons be so let to bail or mainprise, to keep their days in such place
+
+as the said writs, bills or warrants shall require: Such person or
+
+persons which shall be in their ward by condemnation, execution, capias
+
+_utlagat'_ or _excommunicatum_, surety of the peace, and all such persons
+
+which shall be committed to ward by special commandment of any justice,
+
+and vagabonds refusing to serve according to the form of the statute of
+
+labourers, only except. And that no sheriff, nor any of the officers or
+
+ministers aforesaid shall take or cause to be taken, or make any
+
+obligation for any cause aforesaid, or by colour of their office, but
+
+only to themselves, of any person, nor for any person which shall be in
+
+their ward by the course of the law, but by the name of their office, and
+
+upon condition written, that the said prisoners shall appear at the day
+
+contained in the said writ, bill or warrant, and in such places as the
+
+said writ, bill or warrant shall require. And if any of the said
+
+sheriffs, or other officers or ministers aforesaid, take any obligation
+
+in other form by colour of their offices, that it shall be void; and that
+
+he shall take no more for the making of any such obligation but 4d.
+
+(penalty, treble damages to the party grieved and 40l. half to the King
+
+and half to the party suing.) And justices of assises, of the bench and
+
+of the peace, to enquire, hear and determine, &c.
+
+By _13 C. 2. st. 2. c. 2._ § 2., no person or persons who shall happen to
+
+be arrested by any sheriff, undersheriff, coroner, steward, or bailiff of
+
+any franchise or liberty, &c. by force or colour of any writ, bill or
+
+process issuing out of his majestys courts of the Kings Bench and Common
+
+Pleas, or either of them, in which said writ, bill or process, the
+
+certainty and true cause of action is not expressed particularly, and for
+
+which the defendant or defendants in such writ, bill or process named, is
+
+and are bailable by the statute in that behalf made in the three and
+
+twentieth year of the reign of the late King Henry the Sixth, shall be
+
+forced or compelled to give security, or to enter into bond with
+
+sureties, for the appearances of such person or persons so arrested, at
+
+the day and place in the said writ, bill or process specifyed or
+
+contained in any penalty or sum or sums of money exceeding the sum of
+
+forty pounds to be conditioned for such appearances; and all sheriffs and
+
+other officers and ministers aforesaid, shall let to bail and deliver out
+
+of prison, and from their and every of their custodies respectively, all
+
+and every person and persons whatsoever, by them or any of them arrested
+
+upon any such writ, bill or process wherein the certainty and true cause
+
+of action is not particularly expressed, upon security in the sum of
+
+forty pounds and no more, given for appearance of such person or persons
+
+so arrested unto the said sheriff or officer aforesaid, according to the
+
+said statute in the said three and twentieth year of the reign of the
+
+said late King Henry the Sixth in that behalf made and provided.
+
+[Sidenote: Treatment of person arrested.]
+
+By _32 G. 2. c. 28._ § 1., no sheriff, undersheriff, bailiff, serjeant at
+
+mace, or other officer or minister whatsoever, shall convey or carry, or
+
+cause to be conveyed or carried any person or persons by him or them
+
+arrested, or being in his or their custody by virtue or colour of any
+
+action, writ, process or attachment to any tavern, alehouse or other
+
+public victualling or drinking house, or to the private house of any such
+
+officer or minister, or of any tenant or relation of his, without the
+
+free and voluntary consent of the person or persons so arrested or in
+
+custody; nor charge any such person or persons with any sum of money for
+
+any wine, beer, ale, victuals, tobacco or any other liquor or things
+
+whatsoever, save what he, she or they shall call for, of his, her or
+
+their own free accord; nor shall cause or procure him, her or them to
+
+call or pay for any such liquor or things, except what he, she or they
+
+shall particularly and freely ask for; nor shall demand, take or receive,
+
+or cause to be demanded, taken or received directly or indirectly, any
+
+other or greater sum or sums of money than is or shall be by law allowed
+
+to be taken or demanded for any arrest or taking, or for detaining or
+
+waiting till the person or persons so arrested or in custody shall have
+
+given an appearance or bail, as the case shall require, or agreed with
+
+the person or persons at whose suit or prosecution he, she or they shall
+
+be taken or arrested, or until he, she or they shall be sent to the
+
+proper gaol belonging to the county, riding, division, city, town or
+
+place where such arrest or taking shall be; nor shall exact or take any
+
+reward, gratuity or money for keeping the person or persons so arrested
+
+or in custody out of the gaol or prison; nor shall carry any such person
+
+to any gaol or prison within four and twenty hours from the time of such
+
+arrest, unless such person or persons so arrested shall refuse to be
+
+carried to some safe and convenient dwelling-house of his, her or their
+
+own nomination or appointment within a city, borough, corporation or
+
+market-town, in case such person or persons shall be there arrested; or
+
+within three miles from the place where such arrest shall be made, if the
+
+same shall be not the house of the person arrested, and be within the
+
+county, riding, division or liberty in which the person under arrest was
+
+arrested; and then and in any such case, it shall be lawful to and for
+
+any such sheriff or other officer or minister to convey or carry the
+
+person or persons so arrested and refusing to be carried to such safe and
+
+convenient dwelling-house as aforesaid, to such gaol or prison as he, she
+
+or they may be sent to by virtue of the action, writ or process against
+
+him, her or them.
+
+[Sidenote: Expences of persons arrested.]
+
+By § 2., no sheriff, undersheriff, bailiff, serjeant at mace, or other
+
+officer or person, shall at any time or times hereafter take or receive
+
+any other or greater sum or sums for one or more nights lodging, or for a
+
+days diet, or other expences of any person or persons under arrest, on
+
+any writ, action, attachment, or process other than what shall be allowed
+
+as reasonable in such cases by some order or orders made by the justices
+
+of the peace at some general or quarter-sessions which shall be held for
+
+the county, riding, division, city, town or place where such arrest or
+
+taking shall be.
+
+[Sidenote: Printed copy of clauses.]
+
+By § 3., every sheriff, undersheriff, and bailiff of any liberty, &c.
+
+shall deliver a printed copy of the several clauses contained in this act
+
+relating to bailiffs, serjeants and other officers and persons who shall
+
+be employed under them respectively to execute any writ, process or
+
+attachment, or who shall arrest any person on any action which shall be
+
+entered or otherwise within their respective sheriffwicks or
+
+jurisdictions, to every such bailiff, serjeant, officer, and other
+
+person, and shall make it part of the condition of every security or bond
+
+which shall be given or made to any such sheriff or undersheriff, or
+
+bailiff of any liberty, by any bailiff, serjeant at mace, or other
+
+officer or person who shall be employed or intrusted to execute any such
+
+writ or process as aforesaid under him, them or any of them, that every
+
+such bailiff, serjeant at mace, or officer and other person respectively,
+
+shall and will shew and deliver a copy of the said clauses to every
+
+person he shall arrest by virtue of any process, action, writ or
+
+attachment, or under any warrant made out thereon, and carry or go with
+
+to any public or other house where any liquor shall be sold, and also
+
+shall and will permit every such person who shall be so arrested, or any
+
+friend of him or her to read over the same clauses, before any liquor,
+
+meat or victuals shall be at any such public or other house called for or
+
+brought to any such person who shall be so under arrest there; and in
+
+case any bailiff, serjeant at mace, or other officer or person shall in
+
+any respect offend in the premises, every such offence besides the breach
+
+of the condition of every such security bond, shall be accounted and
+
+deemed a misdemeanor in the execution of the process or action on which
+
+any such person was arrested, and shall be punishable as such by virtue
+
+of this act.
+
+[Sidenote: Privilege of persons arrested in sending for necessaries.]
+
+By § 4., every sheriff, undersheriff, bailiff of any liberty, gaoler and
+
+keeper of any prison or gaol, and other person and persons, to whose
+
+custody or keeping any one shall be arrested, taken, committed or charged
+
+in execution, by virtue of any writ, process, or action, or attachment,
+
+shall permit and suffer every such person and persons, during his, her
+
+and their respective continuance under arrest or in custody or in
+
+execution for any debt, damages, costs or contempt, at his, her and their
+
+free will and pleasure, to send for or have brought to him, her or them,
+
+at seasonable times in the day-time, any beer, ale, victuals or other
+
+necessary food, from what place he, she or they shall think fit, or can
+
+have the same; and also to have and use such bedding, linen or other
+
+necessary things, as he, she or they shall have occasion for and think
+
+fit, or shall be supplied with during his, her or their continuance under
+
+any such arrest or commitment, without purloining or detaining the same,
+
+or any part thereof, or inforcing or requiring him, her or them to pay
+
+for the having or using thereof, or putting any manner of restraint or
+
+difficulty upon him, her or them, in the using thereof, or relating
+
+thereto; and no such prisoner or prisoners shall pay any thing in respect
+
+thereof to any such sheriff, undersheriff, bailiff of any liberty,
+
+gaoler, keeper, or other person as aforesaid.
+
+[Sidenote: Certificate of felons.]
+
+By _3 H. 7. c. 3._ every sheriff, bailiff of franchise, and every other
+
+person having authority or power of keeping of gaol or of prisoners for
+
+felony, shall certify the names of every such prisoner in their keeping,
+
+and of every prisoner to them committed, &c. at the next general
+
+gaol-delivery in every county or franchise where any such gaol or gaols
+
+have been or shall be, there to be kalendered before the justices of the
+
+deliverance of the same gaol, upon pain to forfeit for every default an
+
+hundred shillings.
+
+[Sidenote: Felons goods.]
+
+By _1 R. 3. c. 3._ no sheriff, &c. nor bailiff of franchise shall take or
+
+seize the goods of any person arrested or imprisoned for suspicion of
+
+felony before that the same person be convicted or attainted of such
+
+felony according to law, or else the same goods otherwise lawfully
+
+forfeited; upon pain to forfeit double the value of the goods so taken,
+
+to him that is so hurt in that behalf.
+
+[Sidenote: Return of jurors.]
+
+By _W. 2. (13 E. 1.) c. 38._ In one assise no more shall be summoned than
+
+four and twenty; and old men, above three score and ten years, being
+
+continually sick, or being diseased at the time of the summons, or not
+
+dwelling in that county, shall not be put in juries or petty assises. Nor
+
+shall any be put in assises or juries though they ought to be taken in
+
+their own county who have less tenement than to the value of twenty
+
+shillings by the year. And if such assises and juries ought to be taken
+
+out of the county, none shall be put in them who hath less tenement than
+
+to the value of forty shillings by the year, those except who are
+
+witnesses in charters or other writings whose presence is necessary, so
+
+long as they are able to travel. Nor ought this statute to be extended to
+
+great assises in which sometimes it behoveth to put knights not resident
+
+in the county by reason of the scarcity of knights, so long as they have
+
+tenement in the county.
+
+By _21 E. 1. st. 1._ no sheriff, _&c._ stewards or bailiffs of liberties
+
+shall put in any recognisances of juries, inquests, assises, and
+
+attaints, out of their proper counties to be made, any of their
+
+bailiwicks,[41] unless he have lands or tenements to the value of a
+
+hundred shillings by the year at least.
+
+By the _Articuli super chartas_, _28 E. 1. c. 9._ no sheriff nor bailiff
+
+shall put in inquests nor in juries more people or others, or in other
+
+manner than is ordained by statute and shall put in such inquests and
+
+juries the most near, most sufficient and least suspicious.
+
+By _42 E. 3. c. 11._ as to the return or answer of bailiffs of franchises
+
+they shall make their answer to the sheriffs six days before their
+
+session upon the pain of 20l. And in all manner of panels arrayed by
+
+sheriffs, or bailiffs within franchise, shall be put the most sufficient
+
+and worthy of faith and not suspected who have the best knowledge of the
+
+truth and [are] the most near.
+
+By _11 H. 4. c. 9._ no indictment shall be made but by inquest of the
+
+Kings lawful liege people returned by the sheriffs or bailiffs of
+
+franchises, without any denomination to the said sheriffs or bailiffs of
+
+franchises before made by any person of the names which by him should be
+
+impanelled, except it be by the officers of the said sheriffs or bailiffs
+
+sworn and known to make the same.[42]
+
+By _2 H. 5. st. 1. c. 8._ bailiffs of franchises shall cause to be
+
+impanelled sufficient persons [who have lands, _&c._ to the 'value' of
+
+10l. a year, to inquire of riots before the Kings commissioners] upon
+
+pain to lose to the King 40l. in case such sufficient persons may be
+
+found within the same franchises.
+
+By _2 H. 5. st. 2. c. 3._ no person shall be admitted to pass in any
+
+inquest upon trial of the death of a man, nor in any inquest betwixt
+
+party and party in plea real nor in plea personal, whereof the debt or
+
+the damage declared amounts to 40 marks, if the same person have not
+
+lands or tenements of the yearly value of 40s. above the reprises thereof.
+
+By _6 H. 6. c. 2._ bailiffs of franchises shall make their returns or
+
+answer to the sheriffs in special assizes [_i. e._ as to panels between
+
+demandant and tenant] eight days before the session, upon pain of 40l.
+
+By _8 H. 6. c. 9._ when the justices or justice [of the peace] make
+
+enquiries [of forcible entries], they shall make their warrants and
+
+precepts to the sheriff of the county, commanding him on the Kings behalf
+
+to cause to come before them sufficient and indifferent persons dwelling
+
+about the lands entered, to enquire of such entries, of whom every one
+
+who shall be impanelled to enquire in this behalf shall have land or
+
+tenement of the annual value of 40s. at least above reprises. And that
+
+the sheriff return issues upon every of them at the day of the first
+
+precept returnable 20s. and at the second day 40s. and at the third time
+
+100s. and at every day after double. And if any sheriff or bailiff within
+
+a franchise having return of the Kings writ be slack and make not
+
+execution duly of the said precepts to him directed to make such
+
+enquiries, he shall forfeit to the King 20l. for every default and
+
+moreover shall make fine and ransom to the King.
+
+By _15 H. 6. c. 5._ no sheriff, bailiff of franchise, or coroner in
+
+actions or writs of attaint of plea of land of the yearly value of 40s.
+
+or more, or action of detinue of deeds concerning lands or tenements of
+
+like value or more, or personal, whereof the judgement of the recovery
+
+shall extend to the sum of 40l. shall return or impanel in any
+
+inquisition or inquest, any persons but such as be inhabiting within his
+
+bailiwick, which have estate of fee simple, fee tail or freehold in lands
+
+and tenements of the yearly value of 20l. or more, nor shall return in
+
+the Kings court less issues in the said action of attaint than 40s. at
+
+the first writ of distress, and 100s. at the second writ of distress, and
+
+the double of every other writ of distress against the persons impaneled
+
+and returned to be sworn in the same actions (upon pain of 10l. to the
+
+King and 10l. to the plaintiffs. Remedy if there be not sufficient men in
+
+the franchise who have lands of the yearly value of 20l.)
+
+By _23 H. 6. c. 9._ sheriffs, undersheriffs, bailiffs of franchises, nor
+
+any other bailiff, shall return upon any writ or precept to them directed
+
+for returning any inquests or any panels thereupon to be made, any
+
+bailiffs, officers, or servants to any of the officers aforesaid, in any
+
+panel by them to be made; nor shall take any thing by colour of his
+
+office for the making of any return or panel, and for the copy of any
+
+panel but 4d.
+
+By _27 Eliz. c. 6._ § 1. in all cases where any jurors to be returned for
+
+trial of any issue joined in any of the Queens courts of Kings Bench,
+
+Common Pleas and the Exchequer, or before justices of assise ought to
+
+have estate of freehold in lands, &c. of the clear yearly value of 40s.
+
+the jurors shall every of them have estate of freehold in lands, _&c._ to
+
+the clear yearly value of 4l. at the least, (penalty on sheriff, _&c._
+
+for returning that cannot dispend so much, 20l.)
+
+By § 2. upon every first writ of _habeas corpora_ or _distringas_ with a
+
+_nisi prius_ delivered of record to the sheriff or other minister or
+
+ministers to whom the making of the return shall appertain, [such
+
+sheriff, _&c._] shall return in issues upon every person impanelled and
+
+returned upon any such writ at the least 10s. and at the second writ 20s.
+
+at the least, and at the third writ 30s. and upon every writ further
+
+double the issues last afore specified, until a full jury be sworn, or
+
+the process otherwise determined, upon pain of 5l.
+
+By _27 Eliz. c. 7._ no bailiff of any liberty, nor any his or their
+
+deputy or deputies, shall of himself return any juror, or deliver to the
+
+sheriff, his undersheriff, deputy or deputies, the names of any persons
+
+to be returned upon any panel or jury, without the true addition
+
+certified under his or their hands to the sheriff, of the place of
+
+dwelling or abode of every person so to be returned at the time of the
+
+said return, or within one year next before the said return, or some
+
+other addition by which the party returned may be known.
+
+By _4 & 5 W. & M. c. 24._ § 15. all jurors (other than strangers upon
+
+trials _per medietatem linguæ_) who are to be returned for trials of
+
+issues joined in any of the courts of Kings Bench, Common Pleas, or
+
+Exchequer, or before justices of assize, or _nisi prius_, _oyer and
+
+terminer_, gaol delivery, or general quarter-sessions of the peace in any
+
+county of the realm, shall have in their own names, or in trust for them
+
+within the same county, ten pounds by the year at least above reprizes,
+
+of freehold or copyhold lands or tenements, or of lands and tenements of
+
+ancient demesne, or in rents, in feesimple, feetail, or for the life of
+
+themselves or some other person; and that upon every writ of _venire
+
+facias_ the sheriff, coroner, and other ministers, unto whom the making
+
+of the panel shall appertain, shall not return in any such panel any
+
+person unless he then have 10l. by the year at least as aforesaid, in the
+
+same county where the issue is to be tried; upon pain to forfeit for
+
+every person, &c. the sum of 5l.
+
+By § 16. no sheriff or bailiff of any liberty or franchise, or any of
+
+their ministers, shall return any such person or persons as aforesaid, to
+
+have been summoned by them, unless such person and persons shall have
+
+been duly summoned, by the space of six days at least before the day on
+
+which they ought to make their appearance; nor shall directly or
+
+indirectly take money or other reward to excuse the appearance, of any
+
+juror, by any of them to be summoned or returned, upon pain to forfeit
+
+for every such offence the sum of 10l. [Continued by _7 & 8 W. 3. c. 32._
+
+_9 G. 1. c. 8._ § 2. EXP.]
+
+By _7 & 8 W. 3. c. 32._ § 4. all constables, tything-men and headboroughs
+
+of towns in each county, or their deputies, shall yearly at the general
+
+quarter-sessions of the peace to be holden for each county, riding or
+
+division, in the week after the feast of St. Michael the arch-angel, upon
+
+the first day of the said sessions, or upon the first day that the said
+
+sessions shall be held by adjournment at any other particular division or
+
+place, return and give a true list in writing of the names and places of
+
+abode of all persons within the respective places for which they serve,
+
+qualifyed to serve upon juries, with their titles and additions, between
+
+the age of one and twenty and the age of 70 years, to the justices of the
+
+peace in open court; which said justices, or any two of them, at the said
+
+sessions, shall cause to be delivered a duplicate of the aforesaid
+
+returned list, by the clerks of the peace of every county or riding, to
+
+the sheriffs or their deputies, on or before the first day of January
+
+next following, and cause the said lists to be fairly entered into a
+
+book, by the clerk of the peace, to be by him provided and kept for that
+
+purpose, amongst the records of the said court of sessions; and no
+
+sheriff shall impanel or return any person or persons to try any of the
+
+issues joined in any of the courts [of K. B. C. P. or E.] or to be or
+
+serve in any jury at the assizes, sessions of _Oyer_ and _Terminer_, gaol
+
+delivery, or sessions of the peace that shall not be named or mentioned
+
+in the said list.
+
+By § 5. every summons of any person qualifyed to any of the aforesaid
+
+services shall be made by the sheriff, his officer or lawful deputy, six
+
+days before at the least, shewing to every person so summoned the warrant
+
+under the seal of the office wherein they are nominated and appointed to
+
+serve; and in case any juror so to be summoned be absent from the usual
+
+place of his habitation at the time of such summons, notice of such
+
+summons shall be given by leaving a note in writing, under the hand of
+
+such officer, containing the contents thereof, at the dwelling-house of
+
+such juror, with some person there inhabiting the same[43]. [Made
+
+perpetual by _6 G. 2. c. 37._]
+
+By _4 Ann. c. 16._ § 6. every _Venire facias_ for the trial of any issue
+
+in any action or suit in any of her Majestys courts of record at
+
+Westminster shall be awarded of the body of the proper county where such
+
+issue is triable. But
+
+By § 7. nothing in this act contained shall extend to any writ,
+
+declaration or suit of appeal of felony or murder, or to any indictment
+
+or presentment of treason, felony or murder or other matter, or to any
+
+process upon any of them or to any writ, bill, action or information upon
+
+any penal statute.[44]
+
+[Sidenote: View.]
+
+By § 8. in any actions brought in any of her Majestys courts of record at
+
+Westminster, where it shall appear to the court that it will be proper
+
+and necessary that the jurors who are to try the issues in any such
+
+actions, should have the view of the messuages, lands or place in
+
+question, in order to their better understanding the evidence that will
+
+be given upon the trials of such issues, in every such case the
+
+respective courts in which such actions shall be depending, may order
+
+special writs of _Distringas_ or _Habeas corpora_ to issue, by which the
+
+sheriff or such other officer to whom the said writs shall be directed,
+
+shall be commanded to have six out of the first twelve of the jurors
+
+named in such writs, or some greater number of them, at the place in
+
+question some convenient time before the trial, who then and there shall
+
+have the matters in question shewn to them by two persons in the said
+
+writs named to be appointed by the court; and the said sheriff or other
+
+officer who is to execute the said writs shall by a special Retorn upon
+
+the same, certify that the view hath been had according to the command of
+
+the said writs.[45]
+
+By _3 G. 2. c. 25._ § 2. duplicates of the lists [made according to _7 &
+
+8 W. 3. c. 32._ _3 & 4 Ann. c. 18._ and this act] when delivered in at
+
+the quarter sessions of the peace, and entered in 'the' book to be kept
+
+by the clerk of the peace for that purpose, shall, during the continuance
+
+of such quarter-sessions, or within ten days after, be delivered or
+
+transmitted by the clerk of the peace to the sheriff of each county, or
+
+his undersheriff, in order for his returning of juries out of the said
+
+lists; and such sheriff or undersheriff shall immediately take care that
+
+the names of the persons contained in such duplicates shall be faithfully
+
+entered alphabetically, with their additions and places of abode, in some
+
+book or books to be kept by him or them for that purpose.
+
+By § 4. no persons shall be returned as jurors to serve on trials at any
+
+assizes or _nisi prius_, or at the great sessions, or at the sessions for
+
+the counties palatine, who have served within the space of one year
+
+before in the county of Rutland, or four years in the county of York, or
+
+of two years before in any other county, not being a county of a city or
+
+town[46].
+
+By § 5. the sheriff, undersheriff, or other officer to whom the return of
+
+juries shall belong, shall from time to time enter or register in a book
+
+to be kept for that purpose, the names of such persons as shall be
+
+summoned, and shall serve as jurors on trials at any assizes or _nisi
+
+prius_; or in the said courts of great sessions or sessions for the
+
+counties palatine, together with their additions and places of abode
+
+alphabetically, and also the times of their services; and every person so
+
+summoned, and attending or serving as aforesaid, shall (upon application
+
+by him made to such sheriff, undersheriff or other officer) have a
+
+certificate testifying such his attendance or service done, which
+
+certificate the said sheriff, _&c._ is to give without fee or reward; and
+
+the said book shall be transmitted by such sheriff, _&c._ to his
+
+successor from time to time.
+
+By § 6. no sheriff, undersheriff, bailiff or other officer or person
+
+whatsoever shall directly or indirectly take or receive any money or
+
+other reward to excuse any person from serving or being summoned to serve
+
+on juries; and no bailiff or other officer appointed by any sheriff or
+
+undersheriff to summon juries, shall summon any person to serve thereon
+
+other than such whose name is specifyed in a mandate signed by such
+
+sheriff or undersheriff, and directed to such bailiff or other officer.
+
+By § 8. every sheriff or other officer to whom the return of the _Venire
+
+facias juratores_, or other process for the trial of causes before
+
+justices of assize or _nisi prius_ in any county in England shall belong,
+
+shall, upon his return of every such writ of _Venire facias_ (unless in
+
+causes to be tried at bar, or in case where a special jury shall be
+
+struck by order or rule of court) annex a panel to the said writ,
+
+containing the christian [names] and surnames, additions and places of
+
+abode of a competent number of jurors named in such lists as qualified to
+
+serve on juries, the names of the same persons to be inserted in the
+
+panel annexed to every _venire facias_, for the trial of all issues at
+
+the same assizes in each county; which number of jurors shall not be less
+
+than 48 in any county, nor more than 72, without direction of the judges
+
+appointed to go the circuit and sit as judges of assize or _nisi prius_
+
+in such county, or one of them.
+
+By § 18. any person or persons having an estate in possession in land, in
+
+their own right, of the yearly value of 20l. or upwards, over and above
+
+the reserved rent payable thereout, such lands being held by lease or
+
+leases for the absolute term of 500 years or more, or for 99 years or any
+
+other term determinable on one or more life or lives, the names of such
+
+persons shall be inserted in the respective lists as aforesaid, in order
+
+to their being inserted in the freeholders book[47].
+
+By § 20. the sheriffs or other officers to whom the returning of juries
+
+doth or shall belong, for any county, city or place, shall not impanel or
+
+return any person or persons to serve on any jury for the trial of any
+
+capital offence, who at the time of such return would not be qualifyed in
+
+such county, city or place, to serve as jurors in civil causes for that
+
+purpose. [Made perpetual by _6 G. 2. c. 37._ § 1.]
+
+[Sidenote: Distress.]
+
+By _51 H. 3. st. 4._ (_De Districtione Scaccarii_) When a sheriff or
+
+other the Kings bailiff doth take the beasts of another for the Kings
+
+debt, or any other cause, they to whom the beasts belong may feed them
+
+without disturbance so long as they be impounded, without giving any
+
+thing for their keeping. And the beasts, nor no other distress taken for
+
+the Kings debt, nor for any other cause be given, nor sold within fifteen
+
+days after the taking. And if any bring the tally of a payment made in
+
+the exchequer the distress shall cease. And if he bring the tally of any
+
+sheriff or bailiff of payment made to him of the thing demanded, and will
+
+find pledges to be at the exchequer at the next account, to do what shall
+
+be right, then the distress shall cease. But no man of religion nor other
+
+shall be distrained by his beasts that gain his land nor by his sheep,
+
+for the Kings debt or the debt of another, nor for any other cause, by
+
+the Kings bailiff nor by any other man, but until they can find another
+
+distress or other chattels sufficient whereof they may levy the debt or
+
+that is sufficient for the demand, except impounding of beasts when a man
+
+finds them doing damage according to the law and usage of the land. And
+
+that the distresses be reasonable after the amount of the debt or demand
+
+according to reason and not outrageous. Howbeit all sheriffs and bailiffs
+
+who have received the Kings debts of the summons of the exchequer, and
+
+have not acquitted the debtors thereof at their next account, shall be
+
+punished according to the statutes lately made.
+
+[Sidenote: Replevin.]
+
+By _Stat. de Marleberge_ _52 H. 3. c. 21._[48] if the beasts of any man
+
+be taken and wrongfully withholden, the sheriff after complaint made to
+
+him thereof, may deliver them without let or gainsaying of him that took
+
+the said beasts, if they were taken out of liberties. And if they were
+
+taken within liberties and the bailiffs of the liberty will not deliver
+
+them, then the sheriff for default of those bailiffs shall cause them to
+
+be delivered.
+
+By _W. 1. c. 17._ if any take the beasts of others and cause them to be
+
+driven to a castle or fortress[49], and there within the close of such
+
+castle or fortress detain them against gage and pledge, after the beasts
+
+shall be solemnly demanded by the sheriff or by the Kings bailiff, at the
+
+suit of the plaintiff, the sheriff or bailiff taking with him the power
+
+of his county or of his bailiwick[50] shall assay to make the replevin of
+
+the beasts from him that took them or from his lord, or from others of
+
+the men of his lord whatsoever they be, found in the place where the
+
+beasts were chased; and if any deforce him of the deliverance of the
+
+beasts, or that no man be found for the lord, or for him that took them,
+
+to answer and make the deliverance after the lord or taker shall be
+
+admonished thereof by the sheriff or bailiff, if he be in the country or
+
+near or there whereas he may be conveniently warned by the taker or any
+
+other of his, to make deliverance, if he were out of the country when the
+
+taking was, and did not cause the beasts to be delivered incontinent,
+
+that the King for the trespass and despite shall cause the said castle or
+
+fortress to be beaten down without recovery; and it is to wit, that where
+
+the sheriff ought to return the Kings writ to the bailiff of the lord of
+
+the castle or fortress or other to whom the return belongeth, if the
+
+bailiff of the franchise will not make deliverance after that the sheriff
+
+hath made his return unto him, then shall the sheriff do his office
+
+without further delay as is aforesaid and upon the aforesaid pain; and in
+
+like manner, deliverance shall be made by attachment of plaint made
+
+without writ, and upon the same pain.
+
+[Sidenote: Hue and cry.]
+
+By _W. 1. c. 9._ all generally are to be ready and appareled at the
+
+commandment and summons of sheriffs, and at the cry of the country to
+
+pursue and arrest felons, when need shall be, as well within franchises
+
+as without. And if default be found in the lord of the franchise, the
+
+King shall take the franchise to himself; and if the default be in the
+
+bailiff he shall be imprisoned one year, and after be grievously fined,
+
+and if he hath not whereof to be fined he shall be imprisoned two years:
+
+And if sheriffs, coroners, or other bailiffs, within franchise or
+
+without, conceal or consent or procure to conceal the felonies done in
+
+their bailiwicks, or that they will not attach or arrest the misdoers
+
+where they can, _&c._ and be attainted thereof, they shall be imprisoned
+
+for one year and after be grievously fined, and if they have not whereof
+
+to be fined, shall be imprisoned for three years.
+
+By _Stat. de Wynton_ _13 E. 1. st. 2. c. 6._ sheriffs and bailiffs within
+
+franchises and without, higher or lower, and that have any bailiwick or
+
+forestry in fee or otherwise are to take good heed that they follow the
+
+cry with the country, and that they have horses and armour to do it.
+
+If bailiffs of liberties have come at the hue levyed according to this
+
+statute is one of the articles of inquiry thereupon. _34 E. 1. st. 2._
+
+[Sidenote: Names to returns.]
+
+By _12 E. 2. c. 5._ sheriffs and other bailiffs who receive the Kings
+
+writs returnable in his court shall put their proper names with their
+
+returns, so that the court may know of whom they took such returns if
+
+need be.
+
+[Sidenote: Roberdesmen, &c.]
+
+By _5 E. 3. c. 14._ if any man have suspicion of evil of roberdesmen,
+
+wastours and drawlatches, be it by night or day, they shall be
+
+incontinently arrested by the constables of the towns. And if they be
+
+arrested within franchises, they shall be delivered to the bailiffs of
+
+the franchises, and kept in prison till the coming of the justices
+
+assigned to deliver the gaols. And in the mean time the bailiffs of the
+
+franchises shall inquire of such arrests and at the coming of the
+
+justices return their inquests before them and that which they have
+
+found, and the causes of taking, with the bodies, and the justices shall
+
+proceed to the deliverance of those arrested according to the law. And in
+
+case bailiffs of franchises have not enquired of such arrests they shall
+
+be amerced.
+
+[Sidenote: Decayed bridges.]
+
+By _22 H. 8. c. 5._ § 5. the justices of peace of the shire, city or town
+
+corporate, within which any decayed bridges, or any part thereof, shall
+
+happen to be, shall have power to enquire, hear and determine all
+
+annoyances being within the limits of their commissions or authorities,
+
+and if the annoyance be presented, then to make process into every shire
+
+against such as owen to make or amend any such bridges. And all sheriffs
+
+and bailiffs of liberties and franchises shall truly serve and execute
+
+such process as shall come to their hands from the said justices of peace
+
+afore whom any presentment shall be had for any such annoyance, according
+
+to the tenour and effect of the said process to them directed, without
+
+favour, affection or corruption, upon pain to make such fine as shall be
+
+set upon them, or any of them, by the discretion of the said justices.
+
+[Sidenote: Attendance on the justices.]
+
+All lords that have franchises, or their bailiffs, shall attend upon the
+
+justices of assise and gaol delivery, upon pain of forfeiture of their
+
+franchises. _20 E. 4. 6._ _Br. Forfeiture de terres_, _&c._ 115.
+
+By _27 H. 8. c. 24._ § 7. all stewards, bailiffs, and other ministers of
+
+any liberties or franchises which in times past have used or ought to
+
+attend upon the justices of assise, justices of gaol delivery, and
+
+justices of the peace at large in any county, shall be attendant to the
+
+justices of assise, justices of gaol delivery, and justices of peace of
+
+the same shires wherein such liberties and franchises be, and make due
+
+execution of all process to them to be directed, for ministration of
+
+justice within such liberties or franchises; and all such bailiffs or
+
+their deputies or deputy shall give their attendance and assistance upon
+
+the sheriff, together with the sheriff's bailiffs at all courts of
+
+gaol-delivery from time to time, for execution of prisoners according to
+
+justice.
+
+[Sidenote: Inquiry at sessions.]
+
+It was an article of inquiry at the sessions if the bailiffs of liberties
+
+and franchises had duly executed their office, which consists in three
+
+points _viz._ In due execution of the precepts to them sent, and in due
+
+returns to be made to the sheriff of those precepts, and that they took
+
+nothing for doing their office, except the fees to them assigned and due
+
+by course of law. _Fitz. Iust. P. fol. 28._ (_Crompton._ 49.)
+
+And this inquiry was by virtue of _20 E. 3. c. 6._ whereby it is
+
+ordained, that the justices assigned to take assises shall have
+
+commissions sufficient to inquire in their sessions of sheriffs,
+
+escheators, bailiffs of franchises, and their under-ministers, &c. and of
+
+the gifts, rewards, and other profits, which the said ministers do take
+
+of the people to execute their office, and that which pertaineth to their
+
+office, and for making the array of panels, putting in the same suspect
+
+jurors and of evil fame, &c. and to punish all them which thereof shall
+
+be found guilty according as law and reason requireth, as well at the
+
+Kings suit as at the partys.
+
+[Sidenote: Account.]
+
+By _stat. de Scac._ _51 H. 3. st. 5._ § 1. all sheriffs, fermors,
+
+bailiffs of franchises, and other who ought to come to the profer in the
+
+exchequer the morrow of St. Michael and the morrow of the clause of
+
+Easter, to pay their farms, rents and issues which belong to the King,
+
+shall come at the aforesaid terms, and there bring in full the aforesaid
+
+farms, rents and issues, and pay them into the exchequer. And if any fail
+
+to pay fully what he ought to pay as before is said, his body to remain
+
+without departing till he have paid or made agreement. And he who shall
+
+not come at the aforesaid terms shall be amerced according to the usages
+
+of the exchequer. And at the same terms the sheriffs and bailiffs shall
+
+bring their monies, and shall pay into the exchequer what they have
+
+received at the summons of the exchequer and the other debts of the King,
+
+and of all the things aforesaid, shall be ready and prepared to make
+
+account.
+
+By § 2. all the bailiffs of franchises who ought to levy the debts of the
+
+King, and shall be answerable to the sheriffs at their commandment
+
+according to the estreats of the summons of the exchequer, shall come and
+
+answer sufficiently. And those who shall not, their bodies shall remain
+
+in custody of the sheriffs; and the sheriffs, for their defaults, shall
+
+send to levy the debts by their own bailiffs wherever they can, as they
+
+have used to do in time passed. And if the bailiffs do not come to answer
+
+at the day, the sheriffs shall let them know, the sheriffs shall enter
+
+into the franchise, and cause the debts to be levyed by their own
+
+bailiffs.
+
+By § 7. when a sheriff or bailiff hath begun to account, no other shall
+
+be received to account until the first that is appointed hath fully
+
+accounted, and that the sum be received.
+
+By § 9. about the feast of St. Margaret before the Exchequer be closed,
+
+they shall every year narrowly search and see if a sheriff or other
+
+bailiff who ought to have accounted that year have not. And if he be a
+
+sheriff, _&c._ And if he be another bailiff he shall be summoned or
+
+distrained that he come at a certain day to account, so that no account
+
+be suffered to sleep.
+
+[Sidenote: Estreats.]
+
+By _42 E. 3. c. 9._ estreats shall not be doubled by the sheriffs, but
+
+the copy of the estreats wherein they touch the franchises of lords shall
+
+be delivered to the bailiffs of the franchises under the seal of the
+
+sheriff, and the same bailiffs shall yield their account in the Exchequer
+
+by the same copies and no other.
+
+[Sidenote: Bailiffs of the Savoy, and Borough of Southwark.]
+
+By _8 & 9 W. 3. c. 27._ § 15. it shall and may be lawful for any person
+
+or persons, who have or hath any debt or debts, sum or sums of money due
+
+or owing to him from any person or persons who shall be and reside within
+
+the White-Friers, Savoy, Salisbury Court, Ram Alley, Mitre Court, Fullers
+
+Rents, Baldwins Gardens, Montague Close, or the Minories, Mint, Clink, or
+
+Deadmans Place, upon legal process taken out against such person or
+
+persons, to demand and require the sheriffs of London and Middlesex, HEAD
+
+BAILIFF OF THE LIBERTY OF THE DUCHY OF LANCASTER, or high sheriff of the
+
+county of Surrey, or BAILIFF OF THE LIBERTY OF THE BOROUGH OF SOUTHWARK
+
+for the time being (as the case shall require, if the plaintiff think it
+
+requisite) or their respective deputy or deputies, officer or officers,
+
+to take and they are thereby enabled respectively to take the _posse
+
+comitatus_ or such other power as to them shall seem requisite, and enter
+
+the said pretended privileged places, and to arrest, and in case of
+
+resistance or refusal to open the doors, to break open any door or doors
+
+to arrest such person or persons upon any mesne or other process, extent
+
+or execution, or to seize the goods of any such person or persons upon
+
+any execution or extent. (Penalty on the officer, for neglect or refusal
+
+to execute process, 100l. and on those who resist him 50l. each,
+
+commitment to gaol, and, on conviction, imprisonment and pillory, and for
+
+rescuing a prisoner 500l. and, on nonpayment within one month after
+
+judgement, transportation, and on inhabitants concealing any guilty of
+
+rescous, transportation, unless they pay the whole debt and costs.)
+
+ [40] See before, p. 23. In Yorkshire, when bailiff of the liberty has no
+
+ prison of his own, the usage is for him to bring the body to the
+
+ sheriff, who makes out an ordinary commitment to the county jail.
+
+ [41] _De ballivis suis_; the printed translation reads "any of their
+
+ _bailiffs_;" but this is only one out of numberless instances of its
+
+ gross and shameful inaccuracy.
+
+ [42] This act extends to inquests before coroners. _Cro. Car._ 134.
+
+ [43] By § 9. The inhabitants of Westminster are exempted from serving in
+
+ any jury at the sessions before the justices of the peace for the county
+
+ of Middlesex.
+
+ [44] This proviso, with respect to actions or informations upon penal
+
+ statutes, is taken away by _24 G. 2. c. 18._ § 3.
+
+ [45] By _3 & 4 Ann. c. 18._ §§ 3, 4, particular directions are given
+
+ relative to the return of jurors within the county of _York_. See also
+
+ _1 Ann. st. 2. c. 13._ § 3. and _7 & 8 W. 3. c. 32._ §§ 7, 8.
+
+ [46] By _4 G. 2. c. 7._ § 1. this clause not to extend to the county of
+
+ _Middlesex_. And by § 2. no person shall be returned to serve as a juror
+
+ at any session of _nisi prius_ in the said county, who has been returned
+
+ at any such session, in the two terms or vacations immediately preceding.
+
+ [47] By _4 G. 2. c. 7._ all leaseholders in the county of _Middlesex_,
+
+ upon leases where the improved value shall amount to 50l. or upward _per
+
+ annum_, over and above all ground rents or other reservations, shall be
+
+ liable and obliged to serve upon juries.
+
+ [48] That this statute was made in a parliamentary council at
+
+ _Westminster_, in the _forty-third_ year of this King, and not at
+
+ _Marleberge_, in the _fifty-second_, is proved by Mr. Prynne in his
+
+ _Animadversions_ on _4 Inst._ p. 190.
+
+ [49] And so it is if he that distrain chase the distress into any other
+
+ house, park or other place of strength. _2 Inst._ 193.
+
+ [50] _Note_, every man is bound by the common law to assist not only the
+
+ sheriff in his office for the execution of the Kings writs, but also his
+
+ baily that hath the sheriffs warrant, &c. and if they do it not, being
+
+ required they shall be fined and imprisoned. _2 Inst._ 195.
+
+CHAPTER VI.
+
+OF HIS INDEMNITY AND PROTECTION.
+
+[Sidenote: Arrest, and non-return of writ.]
+
+If the sheriff command the bailiff of the franchise, who arrests the
+
+defendant and sends him to the sheriff, if the sheriff return no writ,
+
+the bailiff shall not be charged, for the arrest of the bailiff of the
+
+franchise was lawful, and it shall be against reason that the non-return
+
+of the sheriff should prejudice him. _8 E. 4. 17._ And see also _21 H. 7.
+
+22._ _Keilwey_ 87. 89.
+
+[Sidenote: Mandate.]
+
+If the sheriff write to a bailiff of franchise in such form, _Ballivo
+
+libertatis, &c. salutem, mandatum Domini regis recepi in hæc verba_, and
+
+rehearse how the King commands by writ to take the body of such a one,
+
+where no writ comes to the sheriff, this is a good excuse to the bailiff
+
+of the franchise, and the party shall have his remedy against the
+
+sheriff. _Dalton. Sheriff._ 112.[51]
+
+[Sidenote: Old bailiff and new bailiff.]
+
+If upon a _fieri facias_ against an administrator, the sheriff makes a
+
+warrant to the bailiff of a franchise to execute it, and afterward the
+
+bailiff is removed, and another bailiff elected, and afterward the old
+
+bailiff returns in his own name to the sheriff that the administrator had
+
+not any goods _preterquam_, &c. which is false, and afterward the sheriff
+
+makes the return accordingly to the court, yet no action for this false
+
+return lies against the old bailiff, for the return ought to be made in
+
+the name of the new bailiff, and so the sheriff has accepted a return as
+
+of a mere stranger, which is void; and he ought to take conusance of the
+
+right ministers of the law, and therefore the old bailiff for this false
+
+return is not punishable, but the sheriff. _1 Roll. Abr._ 99.
+
+[Sidenote: False return of sheriff.]
+
+Upon writ to the sheriff he first made warrant to bailiff of liberty, and
+
+after to his own bailiff, who arrested the party and suffered him to
+
+escape; and then sheriff returned _mandavi ballivo_; upon affidavit of
+
+fact sheriff was ordered to attend. And agreed action lay against sheriff
+
+for false return as _non est invent._ _&c._ and his amerciaments were
+
+estreated. _12 Mod._ 311.
+
+Action upon the case is maintainable against the sheriff for making the
+
+return of a bailiff who was not bailiff at the time of the return, and
+
+who had not executed the writ. _Moore_, 432.
+
+Rule for the bailiff of the [liberty of the] duchy of Lancaster to return
+
+the sheriffs mandate on a _fi. fa._ discharged, the warrant having been
+
+directed to officers of plaintiffs nomination, and not to the officers of
+
+the bailiff of the [liberty of the] duchy. _Barnes_, 416.
+
+[Sidenote: Escape from gaoler of liberty.]
+
+An attachment of contempt issued forth against defendant, for not
+
+bringing Waldrons body into court, pursuant to a peremptory rule; and
+
+defendant having been examined upon interrogatories, it was referred to
+
+the prothonotary (as usual) to examine whether he had cleared himself of
+
+the contempt, or not. The prothonotary reported the matter specially; and
+
+the fact appeared to the court to be, that Waldron being confined in the
+
+Gatehouse prison, Westminster, for a criminal matter, was, by leave of a
+
+judge, charged there with a bailable action, in the following manner: A
+
+_capias ad respondendum_ was directed to the sheriff of Middlesex, who
+
+made a _mandate_ to the high bailiff of Westminster, and defendant was
+
+charged in custody therewith, and afterwards escaped from the keeper of
+
+the Gatehouse, which is the prison for the liberty of Westminster, to
+
+which prison the high bailiff is obliged to carry his prisoners within 24
+
+hours after arrest. The high bailiff being called upon for a return of
+
+the _mandate_, returned _cepi corpus_, and that Waldron remained in the
+
+custody of the keeper of the Gatehouse. Both the chief bailiff and the
+
+keeper of the Gatehouse are appointed by, and hold their places under,
+
+the dean and chapter of Westminster, and both give security to the dean
+
+and chapter; but the keeper gives no security to the high bailiff. The
+
+Court were of opinion, that the high bailiff had cleared himself of the
+
+contempt, and ordered the attachment to be discharged. The high bailiff
+
+did every thing in his power to secure the prisoner, and ought not to be
+
+criminally punished. _Respondeat superior_ extends to civil matters only.
+
+The prosecutor may bring his action for the escape. _Barnes_, 34.
+
+[Sidenote: Escape.]
+
+If prisoner taken by a bailiff of a franchise escapes from the bailiff,
+
+the sheriff shall not have action upon the case against him, because he
+
+is not chargeable _ouster_, but the bailiff is only chargeable. _1 Roll.
+
+Abr._ 98.
+
+J. S. was taken in execution by _Ca. Sa._ by the bailiffs of a liberty in
+
+Suffolk, by warrant of the sheriff of the county. The bailiffs before the
+
+return of the _Ca. Sa._ brought him to Westminster in the county of
+
+Middlesex, and from thence, at the plaintiffs request, carried him to
+
+Lambeth in Surrey, where he remained under their custody till the day of
+
+the return of the writ, when they delivered him to the Kings Bench
+
+according to the writ; this, by the advice of all the justices, was
+
+adjudged no escape; for they thought that in whatever county in the way
+
+or out of the way to Westminster, the sheriff detains or brings the
+
+prisoner, if it be before the return of the writ it is no escape.
+
+_Moore_, 299. _Burton_ [_Boyton_] v. _Andrews_. _3 Rep._ 43. _S. C._
+
+If a bailiff of a manor pays the relief of his master to the lord to whom
+
+it is due, he shall be allowed this upon his account, though he had no
+
+warrant from his master so to do, because this is a casual thing of
+
+common course. (_Contra_, of a thing that is not casual of common
+
+course.) _41 E. 3. Account. 33._
+
+[Sidenote: Rescous.]
+
+If the Kings bailiff distrain for rent and rescous is made, the bailiff
+
+shall have the writ of rescous and not the King. _F. N. B._ 101.
+
+If the sheriff send unto the bailiff of the liberty to levy fines and
+
+amercements for the King, and the bailiff distrain, and rescous is made,
+
+the lord of the liberty shall have a writ of rescous, for the rescous,
+
+the battery, and assault, and loss of service, all in one. _F. N. B._ 101.
+
+If a man sue forth execution, and hath _capias_ directed to the sheriff
+
+to arrest the party, and the sheriff make his warrant to the baily of the
+
+Kings liberty to arrest him, and he doth arrest him, and others rescue
+
+him from the bailiff, he who sued forth the execution shall have the writ
+
+of rescous; but yet it seems reasonable that the bailiff shall have a
+
+writ of rescous in such case, for some say he shall be chargeable, &c.
+
+_F. N. B._ 101.
+
+A warrant was from the sheriff to the bailiff of the 'liberty' of
+
+Pomfret, who executed it, and rescue was made, and the bailiff brought
+
+the action against the rescuers to recover damages: and it was held that
+
+the bailiff may have this action in his own name, to recover damages for
+
+this. _Clay._ 149. _Foster_ v. _Legerd_. (_Viner, Rescous. A._ 3.)
+
+[Sidenote: Inquest by the sheriff.]
+
+If bailiff of franchise return certain names to the sheriff, and the
+
+sheriff return other names, though the inquest returned by the sheriff
+
+shall be taken, yet bailiff shall have action against him. _30 Ass. p._
+
+5. _Br. Retorne de briefe_. 73.
+
+[Sidenote: Return by _7 & 8 W. 3. c. 32._ § 6.]
+
+By _7 & 8 W. 3. c. 32._ § 6. the return to the justices [directed by this
+
+act] shall be a good excuse and bar in law for the sheriff, for such
+
+summons and returns [as thereby directed]: and if any action or
+
+information shall be brought or prosecuted against any sheriff for such
+
+return, the said sheriff may plead the general issue, and give this act
+
+in evidence; and if the plaintiff be nonsuited, discontinue his action,
+
+or if a verdict be given for the defendant, or a _noli prosequi_ be
+
+entered in any information, or a verdict pass for the defendant
+
+thereupon, the plaintiff or informer shall pay treble costs, to be
+
+awarded by the court in which such action or information was prosecuted,
+
+and levyed by usual process. _Note_, that although the word _sheriff_ be
+
+alone made use of in this clause, yet it seemeth that the bailiff of the
+
+franchise shall in such case be intitled to the full benefit thereof.
+
+ [51] This case is printed by Mr. Dalton as an extract in French, and he
+
+ refers to _10 H. 6. 37._ But there is no such folio in that year. Mr.
+
+ Dalton has certainly the appearance of having been a very industrious
+
+ man, but the most gross inaccuracy is perhaps the least of his faults.
+
+ He is therefore to be read and quoted (if at all) with great caution.
+
+ And it might not be amiss if the same caution were extended to Master
+
+ Kitchin, who deserves the title of an authority little better than Mr.
+
+ Dalton.
+
+CHAPTER VII.
+
+OF HIS RESPONSIBILITY AND PUNISHMENT
+
+[Sidenote: Omission of name in return.]
+
+By _12 E. 2. c. 5._ if any sheriff or other bailiff in his returns leave
+
+out his name he shall be grievously amerced to the Kings use.
+
+[Sidenote: False returns.]
+
+By _1 E. 3. st. 1. c. 5._ against the false return of bailiffs of
+
+franchises, which have full return of writs, a man shall have averment,
+
+and recover as well against them as against the Kings sheriff, as well of
+
+too little issues returned as in other cases, so that it fall not in
+
+prejudice of the lords in imblemishment of their franchises. And all the
+
+punishment [shall] fall only upon the bailiffs by punishment of their
+
+bodies if they have not whereof to answer.
+
+An action is maintainable against bailiff of a franchise who makes false
+
+return, and not against the sheriff. _Moore_, 432.
+
+If the bailiff of a franchise makes a false return to the sheriff, and
+
+the sheriff returns it to the court accordingly, an action upon the case
+
+lyes against the bailiff, and not against the sheriff, for no default is
+
+in him. _1 Roll. Abr._ 98. For the sheriff ought to accept the return of
+
+the bailiff if it be sufficient in law, and not to examine the truth of
+
+it. _1 Roll. Abr._ 99.
+
+[Sidenote: Writ _ad distringendum ballivum_.]
+
+_Debt_, the sheriff returned _Capias, Quod mandavi ballivo, &c. qui
+
+respondit quod cepit corpus_, and the person does not come, and the
+
+sheriff was amerced [Q. _For what reason?_] and writ awarded _ad
+
+distringendum ballivum ad habendum corpus, &c._ _47 E. 3. 25._ _Br.
+
+Retorne de briefe._ 24. But yet
+
+[In] _Replevin_ [where] the sheriff returned the _Capias, Quod mandavi
+
+ballivo, qui mihi respondit quod haberet corpus ejus hic ad hunc diem_,
+
+and the body did not come, _non omittas_ was awarded, and not _distringas
+
+ballivum ad habendum corpus_. _38 E. 3. 1._ _Br. Retorne de briefe._ 44.
+
+_Case_; for that upon a Capias directed to him against J. S. he _made a
+
+warrant to a bailiff of a franchise to arrest_ the said J. S. which was
+
+done accordingly, and yet the sheriff returned _non est inventus_.
+
+Resolved _per tot. cur._ that the action well lay; and Anderson said,
+
+that if the sheriff had returned that he had sent to the bailiff of the
+
+liberty, who had given this answer, that he had arrested the body, it had
+
+been good, and the sheriff had been discharged, and the process should
+
+have issued against the bailiff of the liberty to bring in the body.
+
+_Cro. Eliz._ 729.
+
+[Sidenote: Bailiff plaintiff, hath not the body at the day.]
+
+Where sheriff returned _quod mandavi ballivo, &c._ who is plaintiff, if
+
+the bailiff returns _quod cepit corpus_ of the defendant, and hath him
+
+not at the day, &c. the bailiff shall be amerced, and not the sheriff;
+
+and the sheriff is not bound to take conusance if the bailiff be
+
+plaintiff or not, for it may be another of the same name. _36 H. 6. 1._
+
+_Br. Retorne de briefe._ 65.
+
+[Sidenote: False return for extortion.]
+
+_Capias_, the sheriff returned _mandavi ballivo, & quod ipse cepit
+
+corpus, sed illud hic habere non potest quia languidus est, &c._ And
+
+defendants wife came and said that he is not sick but detained by the
+
+bailiff for extortion, and prayed remedy. Whereupon a writ issued to the
+
+bailiff to return the body, and to appear; and upon examination it was
+
+found that the party was not sick, whereupon the bailiff was committed to
+
+the Fleet to make fine, and the writ against the bailiff was _subpoena_
+
+40l. to appear and bring the body, &c. _11 H. 6. 42._ _Br. Retorne de
+
+briefe._ 123.
+
+[Sidenote: Escape.]
+
+If a writ of execution comes to the sheriff, and he makes mandate to the
+
+bailiff of franchise, who takes him, and after suffers him to escape,
+
+action lyes against the bailiff of the franchise, and not against the
+
+sheriff. _5 E. 4. 1 b. 2._ _Brook, Escape_ 40. _1 Roll. Abr._ 99. _Noy._
+
+27. _Buller. N. P._ 69.
+
+If a man be in prison for execution in a county or in a liberty, the
+
+gaoler cannot bring him out of the county or liberty, unless in special
+
+case; and if he does it the prisoner may have action of false judgment,
+
+unless he has special authority, as by privy seal to be at Westminster,
+
+or the like. _30 H. 6. 6._ _Br. Escape_, _pl._ 44.
+
+If a warrant out of a _Fieri facias_ to levy a debt at the suit of J. S.
+
+be directed to an under-bailiff of a liberty, and he by force thereof
+
+levys the debt, and afterwards conceals the writ, nor makes any
+
+certificate thereof, an action upon the case lyes against the
+
+under-bailiff, because he has made a personal tort. _1 Roll. Abr._ 94.
+
+[Sidenote: Non-return of the warrant.]
+
+If the bailiff of the franchise arrest the party, and do not return the
+
+warrant to the sheriff, action of false imprisonment lyes against him for
+
+the party. _Keilwey_, 86, _b._[52]
+
+Eyres sued a writ out of _C. B._ _versus_ Smith, directed to the sheriff
+
+of York, who sent a warrant to Simpson, the bailiff of the liberty of
+
+Pomfret, who did not return the writ [warrant]: upon which he was amerced
+
+50l. (_viz._ time after time) and that was estreated into the exchequer:
+
+afterwards Eyres and Smith agreed, and upon producing a certificate from
+
+the attorney for the plaintiff that the debt was satisfied, these
+
+amerciaments were discharged upon motion to the barons. _Note_, There
+
+ought to be a constat of the estreats, and, as the clerks said, the court
+
+uses not to discharge the amerciaments, but 'allows' you to compound
+
+them. _1 Salk._ 54.
+
+Rule made for an attachment of contempt against the bailiff of the
+
+liberty of Holderness, in the county of York, for not returning a
+
+_mandate_ made by the sheriff, on an attachment of privilege, pursuant to
+
+a peremptory rule to return the same within six days notice, without any
+
+return of a _mandavi ballivo_, antecedent to the said peremptory rule; on
+
+an affidavit of service of that rule, and an affidavit of searching the
+
+sheriff's office, after the expiration of the six days, and that the
+
+_mandate_ was not returned; all the officers present reporting this to be
+
+the practice. _Barnes_, 35.
+
+Though by agreement between a bailiff of a franchise and his deputy, the
+
+deputy is restrained to serve process beyond such a sum, yet if he serves
+
+process of a greater sum without other warrant, and after levies the
+
+money, the bailiff shall be chargeable. _Litt._ 33. _Viner, Actions
+
+[Case. Disceit.] F. c. 5._
+
+[Sidenote: Escape of felon.]
+
+If the bailiff of a franchise that hath a gaol, hath the custody of a
+
+felon, he is chargeable for his escape, and not the sheriff or his
+
+gaoler. _1 Hale P. C._ 595.
+
+[Sidenote: King to have fines on bailiff.]
+
+[Sidenote: Amerciaments for insufficient returns.]
+
+By _27 H. 8. c. 24._ § 9. the King, his heirs and successors, shall have
+
+all manner of fines, issues, amerciaments and forfeitures that shall be
+
+lost, forfeit or assessed by or upon any stewards, bailiffs or other
+
+ministers or officers of any franchises or liberties, for non-execution,
+
+mis-execution or insufficient returns of such writs, warrants, precepts
+
+or other process, which to them or to their deputies shall be directed,
+
+or for any contempt or other misdemeanor whatsoever it be, concerning
+
+their offices, in and for the due execution or administration of justice.
+
+And the amerciaments for insufficient returns of writs or other process
+
+made by stewards or bailiffs of liberties or franchises, having returns
+
+of writs and execution of the same, shall be put and set upon the heads
+
+of such stewards or bailiffs, and not upon the sheriffs[53].
+
+[Sidenote: Acts against sheriffs extended to bailiffs.]
+
+By § 14. every statute and act theretofore made and being in force
+
+against sheriffs, their undersheriffs, bailiffs or other ministers, for
+
+making or returning of panels or juries, or for due execution or serving
+
+of any writs or other process, or for taking of fees, or for reformation
+
+of extortions, or for any other thing or things concerning their offices,
+
+and all pains and penalties contained in every such statute shall be
+
+extended to all stewards, bailiffs and other ministers and officers of
+
+liberties and franchises having returns of writs and executions thereof,
+
+in like manner, form and condition as they extend to the sheriffs, their
+
+undersheriffs, bailiffs or other ministers. (But by § 15. this article
+
+not to be prejudicial to any steward, bailiffs of franchises or to their
+
+deputies or clerks for exercising and occupying their offices above one
+
+year.)
+
+[Sidenote: Returning persons not summoned.]
+
+By _27 Eliz. c. 6._ § 3. if any sheriff, undersheriff, bailiff or other
+
+minister do return any person or persons to be summoned to appear in any
+
+jury, wherein he shall for default of his appearance lose or forfeit any
+
+issues, where in truth such person shall not be lawfully summoned, the
+
+same sheriff, &c. shall forfeit, lose and pay unto the said person or
+
+persons so returned double the value of the issues by such juror or
+
+jurors lost or forfeited for his [or their] default of appearance.
+
+[Sidenote: Taking money, _&c._ for not returning jurors.]
+
+By § 4. if any sheriff, &c. or any bailiff of franchise, shall receive,
+
+take, or have by himself or by any other, any sum of money, reward or any
+
+other profit, directly or indirectly, or do take any promise, make any
+
+agreement, or assent to have any sum of money, reward or other profit,
+
+directly or indirectly, of any person or persons, for the sparing, not
+
+warning, or not returning of any person to be sworn as juror, for the
+
+trial of any issue joined or to be joined in any of the Queens Majestys
+
+courts [of K. B. C. P. or E.], or before any justices, every sheriff,
+
+_&c._ or bailiff of franchise so offending, to forfeit for every such
+
+offence the sum of 5l. (half to the Queen, and half to the person suing.)
+
+[Sidenote: Offences against _27 Eliz. c. 12._]
+
+By _27 Eliz. c. 12._ § 5. if any undersheriff or other person mentioned
+
+in this act, shall do or commit any act or acts contrary to the oaths
+
+aforesaid, or either of them (See B. II. C. 3.) or contrary to the true
+
+intent and meaning of this act, every such person so offending shall
+
+forfeit and lose for every such offence, to the party or parties grieved,
+
+his or their treble damages.
+
+[Sidenote: Summoning persons contrary to _7 & 8 W. 3. c. 32._]
+
+By _7 & 8 W. 3. c. 32._ § 6. if the sheriff, his deputy or deputies,
+
+bailiff or bailiffs, shall summon and return any freeholder or
+
+copyholder, to 'try any issues joined in any of the courts [of K. B. C.
+
+P. or E.] or to be or serve on any jury at the assizes, sessions of
+
+_oyer_ and _terminer_, gaol delivery or sessions of the peace', otherwise
+
+than as 'directed by this act,' (See B. II. C. 5.) or in any ways neglect
+
+his or their duty or duties in the service or services of them required
+
+by this act, or excuse any person or persons for favour or reward, or
+
+allow of any writ of _non ponendis in assizis & juratis_, or other writ,
+
+to excuse or exempt any person or persons from the service of any jury or
+
+juries, under the age of 70 years, such sheriff, deputy or bailiff shall
+
+for every transgression forfeit the sum of 20l. to be recovered by the
+
+party or parties grieved or injured, or whom else will sue for the same.
+
+[Sidenote: Summoning persons contrary to _3 G. 2. c. 25._ § 3.]
+
+By _3 G. 2. c. 25._ § 3. in case any sheriff, undersheriff, bailiff or
+
+other officer to whom the return of juries shall belong, shall summon and
+
+return any person or persons to serve on any jury in any cause to be
+
+tryed before the justices of assize or _nisi prius_ or judges of the
+
+great sessions, or the judge or judges of the sessions for the counties
+
+palatine, whose name is not inserted in the duplicates delivered or
+
+transmitted to him or them by the clerk of the peace, if any such
+
+duplicate shall be delivered or transmitted, any judge or justice of
+
+assize or _nisi prius_ or judge or judges of the said great sessions, or
+
+the judge or judges of the sessions for the said counties palatine, shall
+
+and may, upon examination in a summary way, set such fine or fines upon
+
+such sheriff, _&c._ for every such person so summoned and returned as
+
+aforesaid as the said judge or justice of assize, _nisi prius_, _&c._
+
+shall think meet not exceeding 10l. and not less than 40s.
+
+[Sidenote: Wilful transgression contrary to _3 G. 2. c. 25._ § 4.]
+
+By § 4. if any sheriff shall wilfully transgress [in returning any
+
+persons as jurors to serve on trials at any assizes or _nisi prius_, or
+
+at the great sessions, or at the sessions for the counties palatine who
+
+have served within the space of one year before in the county of Rutland,
+
+or four years in the county of York, or of two years before in any other
+
+county, not being a county of a city or town,] any judge or justice of
+
+assize, or _nisi prius_, _&c._ may and is required, on examination and
+
+proof of such offence, in a summary way, to set a fine or fines upon
+
+every such offender as he shall think meet, not exceeding 5l. for any one
+
+offence.
+
+[Sidenote: Wilful transgression contrary to _3 G. 2. c. 25._ § 6.]
+
+By § 6. if any sheriff, undersheriff, bailiff or other officer shall
+
+wilfully transgress [in taking or receiving any money or other reward to
+
+excuse any person from serving or being summoned to serve on juries; or
+
+any bailiff or other officer appointed by any sheriff or undersheriff to
+
+summon juries, in summoning any person to serve thereon other than such
+
+whose name is specifyed in a mandate signed by such sheriff or
+
+undersheriff, and directed to such bailiff or other officer], any judge
+
+or justice of assize, _nisi prius_, _&c._ may and is required, on
+
+examination and proof of such offence, in a summary way, to set a fine or
+
+fines upon any person or persons so offending as he shall think meet, not
+
+exceeding 10l. according to the nature of the offence.
+
+[Sidenote: Offences against _32 G. 2. c. 28._]
+
+By _32 G. 2. c. 28._ § 12. every sheriff, undersheriff, bailiff of any
+
+liberty, bailiff, serjeant at mace, gaoler and other officer and person
+
+as aforesaid, who shall in anywise offend against this act (see before C.
+
+5.) shall, for every such offence (over and above such penalties and
+
+punishments as he or they shall be liable unto by the laws now in force)
+
+forfeit and pay to the party thereby aggrieved the sum of 50l. to be
+
+recovered with treble costs of suit, by action of debt, bill, plaint or
+
+information, in any of his Majestys courts of record at Westminster.
+
+[Sidenote: Account.]
+
+By _Stat. de Marleberge_ (_52 H. 3. c. 23._) if bailiffs which ought to
+
+make account to their lords do withdraw themselves and have no lands nor
+
+tenements whereby they may be distrained, they shall be attached by their
+
+bodies, so that the sheriff in whose bailiwick they be found shall cause
+
+them to come to make their account.
+
+[Sidenote: Wreck and stray, &c.]
+
+Account lies of wreck and stray though the bailiff does not seize it; for
+
+he shall account of all that he received and might have received. _Br.
+
+Accompt._ _pl._ 94. (_cites_ _10 H. 7. 6._)
+
+So of toll, and of the profits of a common pound. _Ibid._
+
+ [52] If execution be directed to a sheriff to arrest any man or to make
+
+ execution within a liberty, and the sheriff directs his warrant to a
+
+ [_l._ the] bailiff of the liberty for to make execution of the process,
+
+ 'who' makes it, and after is a fugitive, and not able to answer for
+
+ that, the lord of the franchise shall answer for that, and shall be
+
+ liable to answer for his bailiff by all the justices. _2 Brownlow._ 50.
+
+ [53] Before this statute, when the return which the bailiff of the
+
+ franchise made to the sheriff was not sufficient, the court has refused
+
+ to amerce the bailiff, because he was not minister to the court.
+
+ _T. 20 E. 3._ _Fitz. Retourne del vicount._ 113.
+
+CHAPTER VIII.
+
+OF HIS FEES.
+
+[Sidenote: Arrest.]
+
+By _23 H. 6. c. 9._ sheriffs, undersheriffs, bailiffs of franchises, nor
+
+any other bailiff, by occasion or under colour of their office, shall
+
+take any other thing of any person by them to be arrested or attached for
+
+the omitting of any arrest or attachment, for fine, fee, suit of prison,
+
+mainprise, letting to bail, or shewing any ease or favour to any such
+
+person, for their reward or profit, but such as follow, _viz._ For the
+
+sheriff, 20d.; the bailiff which maketh the arrest or attachment, 4d.;
+
+and the gaoler, if the prisoner be committed to his ward, 4d.; nor for
+
+the making of any return or panel, and for the copy of any panel, but 4d.
+
+(Penalty treble damages and 40l.)
+
+[Sidenote: Extent or execution.]
+
+By _29 Eliz. c. 4._ it shall not be lawful to or for any sheriff,
+
+undersheriff, bailiff of franchises or liberties, nor for any of their
+
+officers, ministers, servants, bailiffs or deputies, by reason or colour
+
+of their office or offices, to have, receive or take of any person or
+
+persons whatsoever directly or indirectly for the serving and executing
+
+of any extent or execution, upon the body, lands, goods or chattels of
+
+any person or persons whatsoever, more or other consideration or
+
+recompence than 12d. for every 20s. where the sum exceedeth not 100l. and
+
+6d. for every 20s. being over and above the said sum of 100l. that he or
+
+they shall so levy or extend, and deliver in execution, or take the body
+
+in execution for, by virtue and force of any such extent or execution,
+
+upon pain to lose and forfeit to the party grieved his treble damages,
+
+and to forfeit the sum of 40l. (half to the Queen and half to the
+
+informer or plaintiff.)
+
+The bailie of the franchise on _29 Eliz. cap. 4._ takes all execution
+
+fees. _3 Keble_. 71.
+
+[Sidenote: _Habere facias possessionem aut seisinam._]
+
+By _3 G. 1. c. 15._ § 16. it shall not be lawful for any sheriff, _&c._
+
+or for the bailiff of any franchise or liberty, by reason or colour of
+
+their office or offices, or by reason or colour of their executing of any
+
+writ or writs of _habere facias possessionem aut seisinam_, to demand,
+
+ask, or receive any other or greater consideration, fee, gratuity or
+
+reward, than is hereafter mentioned (which shall be lawful to be demanded
+
+and taken); that is to say, the sum of 12d. for every 20s. of the yearly
+
+value of any manor, messuage, lands, tenements and hereditaments, whereof
+
+possession or seisin shall be by them or any of them given, where the
+
+whole exceedeth not the yearly value of 100l. and the sum of 6d. only for
+
+every 20s. _per annum_, over and above the said yearly value of 100l.
+
+(Penalty 200l.)
+
+[Sidenote: Extent and _liberate_, &c.]
+
+By _8 G. 1. c. 25._ § 5. no sheriff to take for the extent and _liberate_
+
+& _habere facias possessionem_ or _seisinam_ on the real estate, by
+
+virtue of such extent, any more than the above fees. (Same penalty.)
+
+[Sidenote: Process, under 10l. &c.]
+
+By _5 G. 2. c. 2._ § 2. no attorney, bailiff or other person, shall have,
+
+take, charge, or demand more than 5s. for the making and serving a copy
+
+of such process issuing out of any superior court [where cause of action
+
+is under 10l.], or more than 1s. for the making and serving a copy of
+
+such process, issuing out of any inferior court [where cause of action is
+
+under 40s.]
+
+[Sidenote: English notice.]
+
+By § 3. no fee or reward shall be taken for the English notice by this
+
+act required to be written upon every copy of process [where cause of
+
+action in superior court is under 10l. in inferior court under 40s.] to
+
+be served upon any defendant.[54]
+
+ [54] This notice is to the effect following, _viz._ _A. B. You are
+
+ served with this process, to the intent that you may by your attorney
+
+ appear in his Majestys court of ---- at the return thereof, being the
+
+ ---- day of ---- in order to your defence in this action._
+
+CHAPTER IX.
+
+PLEADINGS.
+
+[Sidenote: Creation.]
+
+One may be bailiff by a simple grant (_i. e._ by parol) or patent or
+
+inheritance, and therefore no need to shew how. _H. 33. H. 6. [3.]_
+
+_Fitz. Monstrauns de faitz, &c._ 93. and _Br. Bailie_. 2.
+
+[Sidenote: Patent.]
+
+[Sidenote: Duchy.]
+
+[Sidenote: Aid of the King.]
+
+Where a man justifies distress as the Kings bailiff of his manor, for
+
+rent or services arrear, and prays aid of the King, he shall have it
+
+without shewing patent how he is made bailiff, for he claims to the use
+
+of the King; but where he claims to his own use by the King, there he
+
+ought to shew patent; and it was held by the serjeants, that if a man
+
+justify as bailiff of the King by reason of his manor which he hath by
+
+reason of the duchy of Lancaster, that the defendant shall not have aid
+
+of the King before issue joined. _15 H. 7. 17._ _Br. Ayde del roy_, 51.
+
+[Sidenote: Corporation.]
+
+Bailiffs of a corporation (in avowry for beasts taken _damage feasant_)
+
+need not shew how the corporation was incorporated, nor say by their
+
+precept, nor need precept be in writing for such a matter as this. _3
+
+Lev._ 107.
+
+[Sidenote: Distress.]
+
+Bailiff who distrains ought to shew in what right he distrains. _7 H. 4.
+
+28._ _Br. Distresse_, 78.
+
+[Sidenote: Distress for amerciament.]
+
+To bailiff justifying distress for amerciament, it sufficeth to take
+
+conusance of the presentment and no more and _non refert_ as to him,
+
+whether it be true or not. _41 Ed. 3. 27._ _24 Ed. 3. 26._ _Cro. Eliz._
+
+748.
+
+Bailiff justifying distress for amerciament, in trespass ought to set out
+
+some estreat of the court or warrant from the steward, and justify under
+
+that. _1 Salk._ 108.
+
+Bailiff justifying distress for amerciament in leet in trespass may plead
+
+_presentatum fuit_ without averring the fact, for _non refert_ as to him
+
+whether the offence was done or not since there was a presentment: a
+
+difference between replevin and trespass; in the first the bailiff is an
+
+actor, and is to recover, which shall be upon the merits; in trespass he
+
+is only to excuse the wrong. _1 Salk. 107._ _3 Salk. 52._
+
+[Sidenote: Exchequer.]
+
+If a man be amerced in the Kings leet, and upon process out of the
+
+exchequer the bailiff distrains him for the amercement, and he brings
+
+trespass, he ought to bring this action of trespass in the office of
+
+pleas of the exchequer, for the bailiff levyed it as officer of this
+
+court. _1 Roll. Abr._ 539. and _vide_ _Lane_, 55.
+
+[Sidenote: Averment.]
+
+If bailiff do any thing which touches his bailiwick, as payment of rents
+
+and such like, which are due in right of the manor, it is reasonable that
+
+he should have the averment, but of a thing which doth not touch his
+
+bailiwick it is not reasonable that he should have the averment without
+
+warrantry. _42 E. 3. 6._ _Br. Accompt._ 26.
+
+Where bailiff of franchise [under _23 H. 6. c. 9._] takes bailbond, to
+
+himself, by the name of his office, sufficient in pleading to shew
+
+generally that he is such a person as had authority to take bail.
+
+_Comyns_, 380.
+
+Debt upon bond by the plaintiff who was chief bailiff of the liberty of
+
+Pontefract in Yorkshire, but he did not declare as _capital' ballivus_,
+
+but yet by the whole court it was held good; for otherwise the defendant
+
+might have craved _oyer_, and have [had] it entered _in hæc verba_, and
+
+then have pleaded the statute of _23 H. 6._ that it was taken _colore
+
+officii_, but now it shall be intended good upon the demurrer to the
+
+declaration. And _Ellis, J._ said, that so it was lately resolved in this
+
+court in the case of one Conquest. And judgement was given for the
+
+plaintiff. _2 Mod._ 36.
+
+[Sidenote: Inferior court.]
+
+Bailiff of an inferior court the process whereof he executes, must shew
+
+the jurisdiction of that court in pleadings. _1 Keble_, 53.
+
+[Sidenote: Trial.]
+
+Cary bailiff of Westminster _v._ Buckhurst for entering his liberty and
+
+executing a _fi. fa._ Demurrer that it doth not appear how plaintiff was
+
+seized of the office. Judgement for plaintiff, inquiry of damages to 49l.
+
+Affirmed in error. Upon a trial the right must have been proved if the
+
+defendant had taken issue, and no inconvenience in this form of
+
+declaring. _1 Show_, 17. _Comb._ 31. _S. C._
+
+[Sidenote: Tort.]
+
+Where a bailiff is charged directly with a tort, it ought to be shewn
+
+that he is bailiff of a liberty, who has _Returna Brevium_. _Comyns_, 379.
+
+[Sidenote: Declaration v. bailiff.]
+
+Declaration against bailiff of Westminster, because plaintiff doth not
+
+say of what liberty he is bailiff, and whether he hath execution and
+
+return, bad; because otherwise no colour to charge him, and therefore
+
+ought to be specially shewn. _Cro. Car._ 330.
+
+[Sidenote: Pernor.]
+
+[Sidenote: Quo warranto.]
+
+Against a _pernor_ the plaintiff need not shew how he claims the
+
+privilege of return of writs; but in a _quo warranto_ where the defendant
+
+must make a title he ought to shew it. _Hardres_, 423.
+
+[Sidenote: Return of the writ.]
+
+Bailiff of a liberty in justification need not shew the return of the
+
+writ. _Cro. Car._ 447.
+
+[Sidenote: Sheriffs return.]
+
+_Debt_, to the _capias_ the sheriff returned _non est inventus_, the
+
+plaintiff shewed that the sheriff made a precept to the bailiff of the
+
+franchise to take the body, who took him and delivered him to the
+
+sheriff, which he would aver, _&c._ _Tota curia_, you shall not have this
+
+averment against the return of the sheriff. Nor in any case, but too
+
+little issues by the statute. _H. 2 H. 4. 14._ _Fitz. Averment_, 17.
+
+In case against a bailiff for the false return of _nulla bona_ upon a
+
+_fieri facias_, the question was upon the evidence at the trial, whether
+
+the bailiff of a liberty shall be concluded in point of evidence by the
+
+return of the sheriff? and _per curiam_, he is concluded; and if the
+
+sheriff makes any other return than that which the bailiff makes to him,
+
+he may have his action against the sheriff; and it was said that Holt,
+
+chief justice, was of this opinion. See _36 Hen. 6. 40 [1.]_ _L. Raym._
+
+184.
+
+[Sidenote: Mandate.]
+
+Upon a demurrer, Powel said that the plea was naught, because it sets
+
+forth a mandate to the bailiff of the liberty, and did not shew that it
+
+was under the hand and seal of the sheriff. _2 Vent._ 193. But see _1
+
+Ventris_, 46. that on motion to quash a return of a rescous, because it
+
+was _mandavi ballivis_, who took him _virtute warr' præd'_, and it was
+
+said, _mandavi_ did not imply that it was in writing, the exception was
+
+disallowed by the court.[55]
+
+[Sidenote: County.]
+
+Where any thing is shewed to be done within a liberty or a franchise,
+
+there it is not necessary to shew within what county that liberty or
+
+franchise doth lie. _Trin. 23. Car. B. R._ For the franchise hath no
+
+relation to the county. _S. P. R._ 404.
+
+ [55] And quære whether mandate be ever pleaded to be under the _hand_ of
+
+ the sheriff.
+
+ _Nota_, that _mandavi_ does not mean, and of course should not be
+
+ translated, _I have commanded_, but _I have sent to_. The sheriff cannot
+
+ _command_ the bailiff of the franchise, having no sort of authority over
+
+ him in any case whatever.
+
+APPENDIX.
+
+No. I.
+
+CAPIAS BILL.
+
+_Middlesex._ The sheriff is commanded that he take _A. B._ if he may be
+
+found in his bailiwick, and him safely keep, so that he may have his body
+
+before the lord the King, on Wednesday next after fifteen days from the
+
+day of Easter, to answer _C. D._ gentleman, of a plea of trespass; and
+
+also to a bill of the said _C._ against the aforesaid _A._ for one
+
+hundred pounds of debt, according to the custom of the court of the said
+
+lord the King, before the King himself to be exhibited, and that he have
+
+there then this precept.
+
+No. II.
+
+WARRANT TO THE BAILIFF OF THE LIBERTY.
+
+To the bailiff of the liberty [of the Lord the King] [of his duchy of
+
+_L._] of _E._
+
+_Middlesex._ By virtue of the Kings writ issued out of his Majestys Court
+
+of Kings Bench at Westminster, to me directed, I command you that you
+
+take _A. B._ if he may be found in your liberty and him safely keep, so
+
+that you may have his body before the lord the King, on Wednesday next
+
+after fifteen days from the day of Easter, to answer _C. D._ gentleman of
+
+a plea of trespass; and also to a bill of the said _C._ against the
+
+aforesaid _A._ for one hundred pounds of debt, according to the custom of
+
+the court of the said lord the King, before the King himself to be
+
+exhibited. Dated the ---- day of ---- 17--.
+
+_R._ (the attorneys name.)
+
+Oath for 59l. and upwards.
+
+Before you arrest the defendant, beware he is not an ambassador or
+
+servant to an ambassador, or in some other way priviledged or protected.
+
+Precept signed ---- inst.
+
+ _F. G._ } Sheriff.
+
+ _H. I._ }
+
+No. III.
+
+BAILIFFS WARRANT TO HIS UNDER-BAILIFFS.
+
+_J. K._ esquire, bailiff of the liberty of [the lord the King] of _E._ in
+
+the county of Middlesex, to _L. M. N. O._ and _John Doe_, my deputies,
+
+greeting. By virtue of a precept in writing, under the seal of the
+
+sheriff of the said county, to me directed, I command you and every of
+
+you jointly and severally, that you, some or one of you take _A. B._ if
+
+he shall be found in my bailiwick, and him safely keep, so that I may
+
+have his body before the lord the King, on Wednesday next after fifteen
+
+days from the day of Easter, to answer _C. D._ gentleman of a plea of
+
+trespass; and also to a bill of the said _C._ against the aforesaid _A._
+
+for one hundred pounds of debt, according, &c. to be exhibited. Dated the
+
+---- day of ---- 17--.
+
+_R._
+
+By the same bailiff.
+
+Before you arrest, &c. (_as above_.)
+
+Oath for 59l. and upwards.
+
+Precept signed ---- inst.
+
+No. IV.
+
+CHIEF BAILIFFS RETURN.
+
+To _F. G._ and _H. I._ esquires, sheriff of the county of Middlesex.
+
+_J. H._ esquire, bailiff of the liberty [of the lord the King] of _E._ in
+
+the said county, doth hereby certify and return, that by virtue of a
+
+warrant in writing under the seal of the said sheriff to him the said
+
+bailiff directed, he hath taken the body of _A. B._ which he is ready to
+
+have before the lord the King, (_&c._ _as in the warrant_) as by the said
+
+warrant he is commanded. (_Or thus_: that _A. B._ whom, _&c._ _See the
+
+indenture post._)
+
+By the same bailiff.
+
+No. V.
+
+Form of an indenture of return between the bailiff of a liberty and the
+
+sheriff, according to the statute of York[56].
+
+This indenture made, &c. between _J. K._ esquire, bailiff of the liberty
+
+of the lord the King of _E._ in the county of _M._ of the one part, and
+
+_F. G._ and _H. I._ esquires, sheriff of the said county, of the other
+
+part, witnesseth, that the said bailiff hath certified and returned unto
+
+the said sheriff, that by virtue of a certain warrant in writing under
+
+the seal of the said sheriff to him the said bailiff directed, he the
+
+said bailiff hath taken the body of _G. H._ gentleman, which he will have
+
+ready before the lord the King at Westminster, at the day therein
+
+contained. _Or thus_: which he hath delivered to the said sheriff. _Or
+
+thus_: that _G. H._ gentleman, whom the said bailiff was lately, by a
+
+certain warrant in writing, under the seal of the said sheriff, to him
+
+the said bailiff directed, commanded by the said sheriff to arrest, is
+
+not found in his bailiwick. (_And so of other returns_). In witness, _&c._
+
+No. VI.
+
+SHERIFFS RETURN.
+
+By virtue of this writ to me directed, I have commanded _J. K._ esquire,
+
+bailiff of the liberty [of the lord the King] of _E._ in the county of
+
+Middlesex, who hath the full return of all writs, and the execution
+
+thereof within the liberty aforesaid, and to whom the execution of this
+
+writ doth wholly belong to be done, for that no execution in any other
+
+place in my bailiwick out of the said liberty could be made, which said
+
+bailiff answereth that he hath taken the body of the within named _A. B._
+
+which he hath ready at the time and place within mentioned. _Or thus_:
+
+that the within named _A. B._ is not found in his bailiwick. _Or thus_:
+
+who hath given me no answer.
+
+No. VII.
+
+NON OMITTAS.
+
+George the third, by the grace of God, of Great Britain, France and
+
+Ireland, King, defender of the faith, and so forth. To the sheriff of
+
+Middlesex, greeting: We command you that you omit not by reason of any
+
+liberty of your county, but that you take _A. B._ if he may be found in
+
+your bailiwick, and him safely keep, so that you may have his body before
+
+us on ---- next after five weeks of Easter, to answer _C. D._ gentleman,
+
+of a plea of trespass and also to a bill of the said _C._ against the
+
+aforesaid _A._ for one hundred pounds of debt, according to the custom of
+
+our court, before us to be exhibited, and have you then there this writ.
+
+Witness, Lloyd Lord Kenyon at Westminster, the ---- day of ---- in the
+
+29th year of our reign.
+
+ [56] The 'compiler' not finding an example of this indenture in any
+
+ book, has been tempted to frame something resembling what he conceives
+
+ it has been. It is, however, more for curiosity than use, as the bailiff
+
+ seems completely deprived of the benefit of the statute by the modern
+
+ stamp acts. The effect may nevertheless be attained by a simple
+
+ memorandum as follows: BE IT REMEMBERED, that _J. K._ esquire, bailiff
+
+ _&c._ hath certifyed and returned unto _F. G._ and _H. I._ sheriff,
+
+ _&c._ that by virtue, _&c._ Witness the hands of the said bailiff and
+
+ sheriff, the ---- day of ---- 1790.
+
+FINIS.
+
+ Printed by A. Strahan, Law Printer to His Majesty,
+
+ Printers-Street, London.
+
+***

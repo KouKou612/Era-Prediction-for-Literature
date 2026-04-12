@@ -1,0 +1,859 @@
+Produced by Thorsten Kontowski, Paul Clark and the Online
+
+Distributed Proofreading Team at http://www.pgdp.net (This
+
+file was produced from images generously made available
+
+by The Internet Archive/American Libraries.)
+
+[
+
+  Transcriber's Note:
+
+  Every effort has been made to replicate this text as faithfully as
+
+  possible, including inconsistencies in spelling and hyphenation. Some
+
+  corrections of spelling and punctuation have been made. They are
+
+  listed at the end of the text.
+
+  Italic text has been marked with _underscores_.
+
+  Bold text has been marked with =equals signs=.
+
+  Text marked ^{thus} was superscripted.
+
+]
+
+[Illustration]
+
+ THE SUN
+
+ changes its position in space, therefore
+
+ it cannot be regarded as being
+
+ "in a condition of rest."
+
+ _Si concedimus, eos, qui corpora in mundi
+
+ spatio moveri eademque non moveri
+
+ posse dicunt, insulsa loqui, praesumere
+
+ non licet hominem astronomum talem
+
+ sententiam elocuturum utque eam demonstraret
+
+ operam daturum esse._
+
+ By
+
+ August Tischner.
+
+ Leipzig,
+
+ Gustav Fock.
+
+ 1883.
+
+ Dedicated
+
+ to all friends of Rational Astronomy.
+
+[Illustration: _Nicolaus Copernicus._
+
+_Terrae motor, solis stator._]
+
+     The system of Copernicus is the only possible system; it is the
+
+     eternal base of all astronomical progress, with this system the
+
+     science of Astronomy stands and falls, and without it we must give
+
+     up all explication as well as every scientifically founded
+
+     predication. Hence it is clear that an astronomer of the present
+
+     day cannot enter upon any other system, even by way of trial.
+
+            Dr. _J. H. Maedler_. Popul. Astr. 1861. p.p. 48. 54. 62.
+
+     _An army of philosophers will not suffice to change the nature of
+
+     an error and to convert it into truth. Ebn-Roshd (Averrhoes),
+
+     Arabian philosopher of the XII^{th} century._
+
+Astronomical science, at the present day insists upon the system of
+
+Copernicus, which, as is well known, is based upon the theory _of a
+
+fixed sun_, and remains convinced of the incontrovertible truth and
+
+importance of this system, even after it has become an incontestable
+
+fact, that the sun changes its position; endeavouring to explain away
+
+this discrepancy by the sophism, that the sun may be considered as _in a
+
+condition of rest_. But the smallest movement of the sun overthrows the
+
+entire fabric of Copernicus. Unless we take into account the
+
+observations, made for the last 3000 years, respecting the movement of
+
+the sun in space, it is impossible to comprehend the solar system and
+
+its movements. Theory must take notice of the phenomena of the sun's own
+
+movement and dare not cloak it under imaginary causes; for so long as
+
+the motion of the sun is ignored, it is impossible to know thoroughly
+
+the motion of the earth which follows it, and if the motion of the earth
+
+be not known, it is also impossible to know the motion of the other
+
+heavenly bodies, belonging to the solar system, as seen from the earth.
+
+In a word, the astronomical theory, as it is now generally accepted and
+
+believed to be the only and doubtless true, is wholly untenable,
+
+requiring _a total and essential_ reformation; astronomical authors
+
+cling to J. H. Maedler's assertion, that every body will understand the
+
+impossibility for an astronomer of our time to enter upon any other
+
+system even by way of trial.
+
+If this theory be converted into a _dogma_, stagnation must commence and
+
+all progress becomes impossible. In the history of science and its
+
+advance, we find that there have been at all times new theories
+
+propounded, which had often to be changed later on, or even set aside by
+
+others diametrically opposite. The principal circumstance which renders
+
+the system of Copernicus impossible, is that the orbits of the planets
+
+_are considered as closed curves around the sun_. This view has
+
+frequently been attacked; but it is maintained by astronomers, as it is
+
+requisite for the elucidation of the system. Still it is evident that if
+
+the centre of attraction moves forward the bodies attracted by it
+
+_cannot move around it_.
+
+Let us examine the system of Copernicus. Ptolemaeus first introduced his
+
+system among the ancients. The earth was the fixed centre of the world
+
+and around it moved the moon, the sun, the planets and the stars. This
+
+system lasted for XV centuries.
+
+The Ptolemaic system was modified by Copernicus, and the system of
+
+Copernicus was simply the inversion of the Ptolemaic. The sun took the
+
+place of the earth. In the centre was a fixed point (earth or sun),
+
+around which the planets moved in larger or smaller orbits.
+
+The main feature of both systems is that one of the heavenly bodies is
+
+_stationary, in order that the others may travel round it_.
+
+Copernicus makes the sun _to be motionless_, and the scientific world
+
+bows before his authority. Then we have the recurrent curves, _closed
+
+orbits_ (or ellipses) with their axes and their _invariable plains_; for
+
+the planets _move round the centre of the fixed sun_.
+
+Whilst however learned men were striving with feverish ardour to confirm
+
+the system of Copernicus; whilst they were endeavouring to demonstrate
+
+in every possible way and by various means clearly, _that the sun is
+
+immoveable_: there came the discovery _that the sun moves_.
+
+The astronomers of the past century proved that the sun not only has the
+
+apparent motion, which every one sees; but that it also has a motion
+
+proper to itself. Herschel commenced defining the course and direction
+
+of it, and now-a-days no one doubts the truth of this fact, it being the
+
+general opinion that not only the sun moves itself, but that nothing at
+
+all in the world is in a state of rest. Astronomers, however, are of
+
+opinion that this discovery is of _no consequence whatever as regards
+
+the system of Copernicus, which is still considered by them to be the
+
+most correct of all and the only possible one_. For more than a century
+
+there has not been found a single astronomer or scientific man, to whom
+
+it has occurred _that the motion proper to the sun, might have, in some
+
+way or another, an influence on the present state of theoretical
+
+science_. They all seem to regard _this fact_ as an accident, involving
+
+no consequences and quite incapable of distracting them from their
+
+labours, which they continue to work in the same manner as is indicated
+
+in the system of Copernicus.
+
+If an advancing motion is admitted to be the motion proper to the sun,
+
+_the orbits traversed by the planets cannot be closed_.
+
+But the question may be asked: is it true that science contradicts
+
+itself in this way? We reply: Yes! astronomical _observation has
+
+overtaken theoretical or explicative science_. _Theory has stood
+
+still._
+
+In order to set their minds at rest, learned men explain what they wish
+
+to explain, and just as heavenly phenomena were accounted for according
+
+the systems of Ptolemaeus, of Copernicus and of Tycho de Brahe, so too
+
+there will be no lack of good reasons to account for the motion proper
+
+to the sun; only history will tell us that the astronomers of the last
+
+but one decennium of the XIX^{th} century have taught by writing and
+
+speaking in their schools, that the sun is at the same time moving and
+
+not moving.
+
+A science which cannot make any use of this immense discovery, nor
+
+deduce any application from it, does not possess any vital power; it is
+
+a dead science, it is strangled by those whose duty is to keep it alive,
+
+to lead it onwards to perfection.
+
+Astronomers assert "_that the sun conducts its system with himself in
+
+mundane space_," but in the same breath they add: "_with reference
+
+however to the planets it may be regarded as in a state of rest_."
+
+Hence astronomers have discovered _a motion which is at rest_.
+
+If the sun is _not fixed_, the system of Copernicus falls to ground.
+
+Either the sun moves, or does not; a moving sun in a condition of rest,
+
+_is an impossibility_.
+
+If the sun moves, there is _no fixed centre_, there are _no closed or
+
+recurrent curves and no plains of orbits_. If these must be obtained at
+
+any price, the sun must be definitively fixed, it cannot be permitted
+
+_to move onwards and yet at the same time not to move_.
+
+The fact that the sun moves, cannot now be altered and cannot be any
+
+longer ignored; and if mathematicians and astronomers do notwithstanding
+
+assert, that the sun may with reference to its own planetary system be
+
+regarded as fixed, or in a condition of rest, in that the system moves
+
+as a whole without any change taking place in the relative position of
+
+the planets to each other, or in their relation to the sun; in fact
+
+without any alteration taking place in the _configuration_ of the
+
+system--we reply, this is one of those meaningless phrases, which should
+
+find no place in a scientific discussion. _A body which is in motion
+
+cannot be in any way regarded as being motionless_, it would be just as
+
+reasonable to say that a locomotive, dragging a train of carriages full
+
+of passengers, could with reference to the latter be regarded as
+
+motionless.
+
+The actual meaning of such an assertion is that the planets are attached
+
+to the sun in such a manner, that they can neither approach to, nor
+
+recede from it, but must follow it whithersoever it goes.
+
+We may in thought pursue a train of hypotheses and suppositions, but
+
+they do not thereby acquire reality; still, in a normal condition of the
+
+human intellect, it is impossible to conceive that any thing can exist
+
+and not exist at the same time.
+
+From this confusion of ideas, it might seem as if theoretical astronomy
+
+had got into an untenable position which is irreconcilable with science
+
+and ought therefore to endeavour to enter upon a better state, as soon
+
+as possible. _Theory ought therefore, either to have accepted as a fact,
+
+the motion proper to the sun with all its inevitable consequences, or
+
+else, to have denied this motion altogether._ But the astronomers ignore
+
+this alternative, they have decided, once for all and irrevocably _that
+
+the sun moves and that at the same time it shall be motionless_. In this
+
+manner science loses its reputation and all learnedly technical
+
+expressions and formulas are not sufficient to cover the weak part. _The
+
+sun cannot be rendered motionless_, and if astronomers and men of
+
+science of the present day continue to ignore this fact, they need not
+
+be surprised at the inevitable consequences of their own acts.
+
+The system of Copernicus presupposes the _fixity of the sun_, as a
+
+"conditio sine qua non." The most abstruse investigations into the
+
+"celestial mechanism" could not be made without this axiom be granted.
+
+The mathematician must have a fixed point, a fixed central point of
+
+action for his coordinates, he wants fixed invariable plains and closed
+
+curves, a radius vector describing plains, he wants axes and poles for
+
+the orbits, in order that they may describe certain figures in the
+
+heaven, and that the plains of the orbits may move,--one of the other.
+
+Naturally astronomers and men of science have never asked themselves the
+
+question, _how a heavenly body could be fixed in space_.
+
+When an astronomer asserts that the Copernician system is the only
+
+possible, he believes that it is impossible for the sun to have any
+
+motion of its own; when he at the same time asserts that all astronomy
+
+stands or falls with this system, he believes that no astronomical
+
+knowledge existed before the discovery of the Copernician system, and
+
+with the fall of the system all astronomical knowledge will cease to
+
+exist; he believes moreover true astronomy to be _that_, which men of
+
+science have imagined to be the truth regarding the heaven and the
+
+causes of the phenomena we see.
+
+If astronomers had merely presented their ideas and opinions to the
+
+world as such, and no more, no one could raise any objection; but they
+
+lay down their opinions in words and on paper as a _positive science_,
+
+they give their view as _incontroversible truths_, and _this fact_
+
+alters the situation, for we cannot admit that science is a mere barge
+
+to be taken in tow by the imagination.
+
+The fundamental axiom of astronomical theory, such as the Copernician
+
+system, Kepler's and Newton's laws, _are not derived from a knowledge of
+
+fact_, they are the opinions, views, ideas and suppositions of
+
+individuals, which have been adapted to the heaven, and as they were
+
+generally accepted, the question was never raised whether the opinions
+
+of an organic creature--however intelligent it might be--are really and
+
+truly that which we term penetrating behind the veil of nature and
+
+compelling it to yield up its secrets. The fact of no other ideas being
+
+at hand which seemed to be better, sufficed to transform these opinions
+
+into rules and to cause them to be accepted as the only admissible and
+
+correct truths.
+
+The opinions set forth by Copernicus, Kepler and Newton are designed by
+
+astronomers of the present day under the collective title of the
+
+Copernician system, and they believe that these three dogmas, systems
+
+and laws, distinct as they are from each other, proceed consequentially
+
+one from the other, that they mutually supplement each the other, and
+
+thus form a harmonious whole. That not one of these things rests upon
+
+actual observation or even probable and perceptible facts, and finally,
+
+that none of them can be observed or verified, but that they are all
+
+three creations of the imagination, must be clearly evident to any one
+
+who occupies himself at all with the study of nature and more especially
+
+with the study of the heavenly phenomena.
+
+When we say that astronomy is an earthly science, we mean to imply that
+
+the heaven and the phenomena there apparent cannot be studied otherwise
+
+than as seen from the earth. Therefore astronomy is not a heavenly
+
+science, it consists solely of such ideas as we are able to form, that
+
+which we see on the heaven.
+
+It is not astronomy that is grand, compared with the vast objects with
+
+which it deals it dwindles to insignificance, and we may say that to
+
+speak of it as being a science of the "heavenly mechanism," nay more of
+
+the "laws of the universe," is sheer nonsense. The _universe_ must be
+
+for us a mere term, which does not convey any tangible idea to our
+
+minds.
+
+As only a very small portion of the heavenly space and its contents is
+
+visible to our eyes, astronomy--whatever may be the magnifying power
+
+placed at its disposal--must be confined within the limits of our vision
+
+and can therefore be no more than a small fragment.
+
+In the positive sense of the word, astronomy is more especially a
+
+science of _observation_, which is its _only_, but real and successful
+
+power. It may be said that astronomy has raised observation to a
+
+science, and its immense importance becomes more and more prominent as
+
+the explicative science loses in value; which is the more easily
+
+accounted for by the fact that observation will finally bring about the
+
+overthrow of all untenable theories.
+
+We see the heaven as we fly along, the earth whirls us with itself
+
+through space, hence astronomy cannot make any drawing room experiment,
+
+it cannot reproduce any of the heavenly phenomena, it can do nothing but
+
+_observe_. If therefore the science of astronomy be more especially an
+
+observative science, that which it does not and cannot observe, must be
+
+for it as good as not existent. But astronomy may, in addition, be
+
+designated _the science of observation of the apparent things_, things
+
+as they seem to be, for it is unable to see or regard the heavenly
+
+phenomena otherwise than they present themselves to it. _Astronomy is
+
+not permitted to observe realities._
+
+If therefore _observation is itself a science_, it must necessarily _be
+
+the basis of theory_; observation may be set aside--which is what is
+
+actually done--in this way we may plod on, we may term our labour what
+
+we please; but whatever is produced in this way is not astronomy.
+
+But that glorious science whose sublime object is alone able to unfetter
+
+the mind of poor humanity--Astronomy--has a future before it. Any such
+
+as feel themselves called upon to study _seriously_ the phenomena of
+
+nature, may set about the task. _The sun is a sure guide._
+
+The great mass of astronomical observations are almost exclusively of
+
+European origin, those which in later times have been made in other
+
+parts of the earth, are of a special character--they refer for the most
+
+part to the stars and are not numerous enough to furnish any general
+
+view, but here the question is of establishing a universal astronomy
+
+available for the whole earth, which, founded on the actual type of the
+
+phenomena, will become the result of science.
+
+With respect to astronomical knowledge and its dissemination, the
+
+discovery and proving of this type of the phenomena is of the greatest
+
+importance, they must be found out not by calculation, but _by actual
+
+observation_. When discovered, a large number of important and still
+
+undecided problems will be advanced towards solution.
+
+It may be asked: how and where shall we however find this _original
+
+type_? and the earth itself supplies the answer by means of
+
+its--=Equator=. No observer, placed either north or south the equator,
+
+can see the two poles of the heaven at once, he cannot see the _whole
+
+heavenly sphere_; at the equator the entire splendour of the firmament
+
+passes before his eyes during the space of--12 hours.
+
+The _equator of the earth_ is always turned towards the sun, and it thus
+
+indicates the direction taken by our planet; therefore we must be able
+
+to find this type _at the equator_. Either it is there, or it is nowhere
+
+else, and it is indispensably necessary that astronomical observations
+
+made elsewhere should be repeated at the equator thus as it were
+
+confirmed.
+
+The erection of small, simple and detached observations along the line
+
+of the earth's equator, at certain distances from each other, and the
+
+subdivision of the work amongst the various observers, according the
+
+objects, would be of incalculable consequence, and would in the course
+
+of a few years shed more light upon astronomical knowledge than all that
+
+has hitherto been done at hap-hazard and without any plan. An
+
+international scientific society could take the matter in hand.
+
+Instruments of the most excellent kind are to be had in plenty, and
+
+there is no lack of young and intelligent men. Moreover, ever since 1874
+
+there has been established at Quito, the "Observatorio de Collegio
+
+Nacional," the director of which Mr. G. B. Menton might superintend the
+
+preliminary operations until such time as the work could be prosecuted
+
+with greater resources and according to a well considered plan. Such men
+
+as _Lick_, _Bischoffsheim_, _Remeis_ _etc._, who are willing to make
+
+sufficient sacrifices in order to establish this glorious science upon
+
+more solid foundations, which do not rest on an imaginary and untenable
+
+theory, _but on actual observation_, will surely be found. Success
+
+cannot be doubtful. Would not the Americans, who appreciate every
+
+thing on a grand scale and are not afraid of any expense in their
+
+undertakings, do all in their power to further and promote this splendid
+
+work?[1]
+
+If--as is well known--matters are not as they are assumed to be, to what
+
+purpose have been and are these laborious works prosecuted and the
+
+undying works written? If the imaginary is preferred to reality, we set
+
+up an imaginary science, without knowing anything about the heaven, and
+
+the science thus set up will become the plaything of fancy.
+
+If they inquire, why theory denies reality--_the motion of the sun_--we
+
+shall find that it is because it prefers the imaginary. _The sun in
+
+motion_ destroys the found illusions of the astronomers, this they will
+
+not submit to, their _untenable theory_ must continue to be looked upon
+
+as unadulteratest truth, and the consequence is that the manifestations
+
+of the grand and sublime Nature are put down as lies.
+
+This idea _of a fixed sun_ has taken such a firm hold of men's minds
+
+that there is no force in nature capable of exercising sufficient power
+
+to eradicate it, the sun may move as it pleases, and whilst the whither
+
+and rapidity of its motion are diligently studied, men's minds are
+
+occupied _with its fixity_, and these "investigations and inquiries" are
+
+prosecuted without any consequences being therefrom deduced. Directly a
+
+theory or a law is to be set up, the sun is at once _very firmly fixed_
+
+on--=ether=. Astronomical writers consider that they have done quite
+
+enough, when they have accorded honorable mention to the motion of the
+
+sun, _but their deductions, conclusions, theories, proofs and laws are
+
+all based on the immobility of the sun, according the system of
+
+Copernicus_.
+
+The idea _that the motion of the sun_ does not necessitate any
+
+alteration in the system of Copernicus leads us to the utmost absurdity.
+
+If the earth is to move in the _invariable plain of its recurrent and
+
+closed ellipse_, it stands to reason, it cannot follow the sun, and the
+
+"circulation around the centre" at once falls to the ground.
+
+It is a very remarkable fact, that the astronomers of the by-gone
+
+century could, and those of the present century can believe, such as
+
+Copernicus, Kepler and Newton, had they been aware of the motion of the
+
+sun, would have set up the same system, the same laws and theories, _as
+
+they based exclusively on the theory of its being immoveable_. This fact
+
+is one of which we are right to be ashamed.
+
+The astronomers hug themselves, with great complacency, with the
+
+idea--which gradually becomes a delicious certainly--that they have
+
+mapped out the heaven very well, and that any change in the arrangement
+
+is a thing not to be thought of. If therefore any one of their fellows
+
+should get up--which has sometimes occurred--and say: "it is high time
+
+that we should clear up the science and subject this untenable theory to
+
+a strict examination and test," the immense majority of facultists and
+
+authorities proclaim unanimously "=non possumus=," which is after all
+
+but a lingual verification of the first law of the nature[2].
+
+       *       *       *       *       *
+
+Why is it that the astronomers of the present day are unwilling to take
+
+into consideration and to study the consequences arising from the motion
+
+proper to the sun, with reference to its own system?
+
+Why is it that they are unwilling to recognise or rather to grasp
+
+properly and to explain the apperceivable phenomena, which the motion
+
+proper to the sun, as seen from the surface of the earth, must produce
+
+on the apparently hollow sphere of the heaven?
+
+     Monter d'une echoppe a un palais, c'est rare et beau; monter de
+
+     l'erreur a la verite, c'est plus rare et c'est plus beau.
+
+                                                _Victor Hugo._
+
+     Il arrive frequemment que la croyance universelle d'un siecle,
+
+     croyance dont il n'etait donne a personne de s'affranchir a moins
+
+     d'un effort extraordinaire de genie et de courage, devient pour un
+
+     autre siecle une absurdite si palpable qu'on n'a plus qu'a
+
+     s'etonner qu'elle ait pu jamais prevaloir.
+
+                                                _N. Tschernychewsky._
+
+Litterature.
+
+  1. =Sta, sol, ne moveare.= _August Tischner._ Leipzig 1881-1882.
+
+     Gustav Fock.
+
+  2. =Groesse, Entfernung und Masse der Sonne.= _August Tischner._
+
+     Leipzig 1882. Gustav Fock.
+
+  3. =Die Sonne und die Astronomie.= _K. Nagy._ Leipzig 1866. F. A.
+
+     Brockhaus.
+
+  4. =Memoire sur le systeme solaire et sur l'explication des phenomenes
+
+     celestes.= _Charles Nagy._ Paris 1862. Leibner.
+
+  5. =Consideration sur les cometes, elements de Cometologie.= _Charles
+
+     Nagy._ Paris 1862. Leibner.
+
+  6. =Systeme solaire d'apres la marche reelle du Soleil.= _E. G.
+
+     Fahrner._ Paris 2^{me} ed. 1869.
+
+  7. =Das wahre Sonnensystem.= Bewegung und Bahnen der Gestirne nach
+
+     einer neuen Auffassung ueber dieselben im Himmelsraume, und zwar
+
+     welche nicht in Ellipsen statt hat. _James Hermann Milberg._
+
+     Muenchen 1862.
+
+  8. =Die wahre Gestalt der Planeten- und Kometenbahnen.= _Friedrick
+
+     Carl Gustav Stieber._ Dresden 1864.
+
+  9. =Die Sonne bewegt sich.= Folgerungen aus dieser Lehre in Bezug auf
+
+     die Fixsterne und Planeten. _C. R.(ohrbach)._ Berlin 1852.
+
+ 10. =Ueber Veranschaulichungsmittel fuer mathematische Geographie.=
+
+     Erlaeuternde Beigabe zu neu construirten Veranschaulichungsapparaten
+
+     fuer Volksschulen und hoehere Unterrichtsanstalten. _F. A.
+
+     Pueschmann_, Seminaroberlehrer, Grimma.
+
+ 11. =Der Himmels-Mechanik gaenzliche Reform auf Grund der inductiven
+
+     Logik= mit der strengberechtigten philosophischen und mathematischen
+
+     Nachweisung. _V. P. Kluk-Kluczycky._ 1880.
+
+  G. KREYSING, LEIPZIG.
+
+[Illustration]
+
+FOOTNOTES:
+
+[1] Moreover, other, smaller detached observatories, might be erected on
+
+the east and west coasts of America and Africa, on the islands of
+
+Sumatra, Borneo, Celebes and Gilolo, on one of the islands of Gilbert's
+
+archipelago and upon one of the Gallopagos islands, if it be considered
+
+worth the effort to acquire some real knowledge as to the movement in
+
+space of the leader of our planetary system and the bodies pertaining to
+
+it.
+
+[2] Inertia is the most simple and most natural (sic) law of nature
+
+which can be imagined. Laplace I p. 4.
+
+[
+
+  The following is a list of changes made to the original.
+
+  The first line is the original line, the second the changed one.
+
+  Copernicus makes the sun _to be motienless_,
+
+  Copernicus makes the sun _to be motionless_,
+
+  mauner as is indicated in the system of
+
+  manner as is indicated in the system of
+
+  ideas being at hand which seemed be to better,
+
+  ideas being at hand which seemed to be better,
+
+  power. If may be said that astronomy has
+
+  power. It may be said that astronomy has
+
+  upon to sludy _seriously_ the phenomena of
+
+  upon to study _seriously_ the phenomena of
+
+  for the whole earth, which, founded of the
+
+  for the whole earth, which, founded on the
+
+  and the subdivision of the work amangst the
+
+  and the subdivision of the work amongst the
+
+  If the imaginary is prefered to reality, we
+
+  If the imaginary is preferred to reality, we
+
+  Celebes and Gilolo, on one of the islands ol Gilbert's
+
+  Celebes and Gilolo, on one of the islands of Gilbert's
+
+  or rather to graph propery and to explain
+
+  or rather to grasp properly and to explain
+
+]
+
+***

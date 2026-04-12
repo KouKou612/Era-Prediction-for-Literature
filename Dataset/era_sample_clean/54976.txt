@@ -1,0 +1,2619 @@
+THE MOLECULAR TACTICS OF
+
+  A CRYSTAL
+
+  _LORD KELVIN_
+
+  London
+
+  HENRY FROWDE
+
+  OXFORD UNIVERSITY PRESS WAREHOUSE
+
+  AMEN CORNER, E.C.
+
+[Illustration]
+
+  New York
+
+  MACMILLAN & CO., 66 FIFTH AVENUE
+
+  THE
+
+  MOLECULAR TACTICS OF
+
+  A CRYSTAL
+
+  BY
+
+  LORD KELVIN, P.R.S.
+
+  PROFESSOR OF NATURAL PHILOSOPHY IN THE UNIVERSITY OF GLASGOW
+
+  AND FELLOW OF PETERHOUSE, CAMBRIDGE
+
+  _Being the Second ROBERT BOYLE LECTURE, delivered before
+
+  the Oxford University Junior Scientific Club
+
+  on Tuesday, May 16, 1893_
+
+  WITH TWENTY ILLUSTRATIONS
+
+  Oxford
+
+  AT THE CLARENDON PRESS
+
+  1894
+
+  Oxford
+
+  PRINTED AT THE CLARENDON PRESS
+
+  BY HORACE HART, PRINTER TO THE UNIVERSITY
+
+ON THE MOLECULAR TACTICS OF A CRYSTAL
+
+By LORD KELVIN, P.R.S.
+
+§ 1. My subject this evening is not the physical properties of
+
+crystals, not even their dynamics; it is merely the geometry of the
+
+structure--the arrangement of the molecules in the constitution of a
+
+crystal. Every crystal is a homogeneous assemblage of small bodies
+
+or molecules. The converse proposition is scarcely true, unless in
+
+a very extended sense of the term crystal (§ 20 below). I can best
+
+explain a homogeneous assemblage of molecules by asking you to think
+
+of a homogeneous assemblage of people. To be homogeneous every person
+
+of the assemblage must be equal and similar to every other: they must
+
+be seated in rows or standing in rows in a perfectly similar manner.
+
+Each person, except those on the borders of the assemblage, must have
+
+a neighbour on one side and an equi-distant neighbour on the other: a
+
+neighbour on the left front and an equi-distant neighbour behind on the
+
+right, a neighbour on the right front and an equi-distant neighbour
+
+behind on the left. His two neighbours in front and his two neighbours
+
+behind are members of two rows equal and similar to the rows consisting
+
+of himself and his right-hand and left-hand neighbours, and their
+
+neighbours’ neighbours indefinitely to right and left. In particular
+
+cases the nearest of the front and rear neighbours may be right in
+
+front and right in rear; but we must not confine our attention to the
+
+rectangularly grouped assemblages thus constituted. Now let there be
+
+equal and similar assemblages on floors above and below that which
+
+we have been considering, and let there be any indefinitely great
+
+number of floors at equal distances from one another above and below.
+
+Think of any one person on any intermediate floor and of his nearest
+
+neighbours on the floors above and below. These three persons must be
+
+exactly in one line; this, in virtue of the homogeneousness of the
+
+assemblages on the three floors, will secure that every person on the
+
+intermediate floor is exactly in line with his nearest neighbours above
+
+and below. The same condition of alignment must be fulfilled by every
+
+three consecutive floors, and we thus have a homogeneous assemblage of
+
+people in three dimensions of space. In particular cases every person’s
+
+nearest neighbour in the floor above may be vertically over him, but
+
+we must not confine our attention to assemblages thus rectangularly
+
+grouped in vertical lines.
+
+§ 2. Consider now any particular person _C_ (Fig. 1) on any
+
+intermediate floor, _D_ and _D′_ his nearest neighbours, _E_ and _E′_
+
+his next nearest neighbours all on his own floor. His next next nearest
+
+neighbours on that floor will be in the positions _F_ and _F′_ in the
+
+diagram. Thus we see that each person _C_ is surrounded by six persons,
+
+_DD′_, _EE′_ and _FF′_, being his nearest, his next nearest, and his
+
+next next nearest neighbours on his own floor. Excluding for simplicity
+
+the special cases of rectangular grouping, we see that the angles of
+
+the six equal and similar triangles _CDE_, _CEF_, &c., are all acute:
+
+and because the six triangles are equal and similar we see that the
+
+three pairs of mutually remote sides of the hexagon _DEFD′E′F′_ are
+
+equal and parallel.
+
+[Illustration: FIG. 1]
+
+§ 3. Let now _A_, _A′_, _A″_, &c., denote places of persons of the
+
+homogeneous assemblage on the floor immediately above, and _B_, _B′_,
+
+_B″_, &c. on the floor immediately below, the floor of _C_. In the
+
+diagram let _a_, _a′_, _a″_ be points in which the floor of _CDE_ is
+
+cut by perpendiculars to it through _A_, _A′_, _A″_ of the floor above,
+
+and _b_, _b′_, _b″_ by perpendiculars from _B_, _B′_, _B″_ of the floor
+
+below. Of all the perpendiculars from the floors immediately above
+
+and below, just two, one from each, cut the area of the parallelogram
+
+_CDEF_: and they cut it in points similarly situated in respect to
+
+the oppositely oriented triangles into which it is divided by either
+
+of its diagonals. Hence if _a_ lies in the triangle _CDE_, the other
+
+five triangles of the hexagon must be cut in the corresponding points,
+
+as shown in the diagram. Thus, if we think only of the floor of _C_
+
+and of the floor immediately above it, we have points _A_, _A′_, _A″_
+
+vertically above _a_, _a′_, _a″_. Imagine now a triangular pyramid,
+
+or tetrahedron, standing on the base _CDE_ and having _A_ for vertex:
+
+we see that each of its sides _ACD_, _ADE_, _AEC_, is an acute angled
+
+triangle, because, as we have already seen, _CDE_ is an acute angled
+
+triangle, and because the shortest of the three distances, _CA_, _DA_,
+
+_EA_, is (§ 2) greater than _CE_ (though it may be either greater than
+
+or less than _DE_). Hence the tetrahedron _CDEA_ has all its angles
+
+acute; not only the angles of its triangular faces, but the six angles
+
+between the planes of its four faces. This important theorem regarding
+
+homogeneous assemblages was given by Bravais, to whom we owe the whole
+
+doctrine of homogeneous assemblages in its most perfect simplicity and
+
+complete generality. Similarly we see that we have equal and similar
+
+tetrahedrons on the bases _D′CF_, _E′F′C_; and three other tetrahedrons
+
+below the floor of _C_, having the oppositely oriented triangles
+
+_CD′E′_, &c. for their bases and _B_, _B′_, _B″_ for their vertices.
+
+These three tetrahedrons are equal and heterochirally[1] similar to the
+
+first three. The consideration of these acute angled tetrahedrons, is
+
+of fundamental importance in respect to the engineering of an elastic
+
+solid, or crystal, according to Boscovich. So also is the consideration
+
+of the cluster of thirteen points _C_ and the six neighbours
+
+_DEFD′E′F′_ in the plane of the diagram, and the three neighbours
+
+_AA′A″_ on the floor above, and _BB′B″_ on the floor below.
+
+§ 4. The case in which each of the four faces of each of the
+
+tetrahedrons of § 3 is an equilateral triangle is particularly
+
+interesting. An assemblage fulfilling this condition may conveniently
+
+be called an ‘equilateral homogeneous assemblage,’ or, for brevity, an
+
+‘equilateral assemblage.’ In an equilateral assemblage _C_’s twelve
+
+neighbours are all equi-distant from it. I hold in my hand a cluster of
+
+thirteen little black balls, made up by taking one of them and placing
+
+the twelve others in contact with it (and therefore packed in the
+
+closest possible order), and fixing them all together by fish-glue.
+
+You see it looks, in size, colour, and shape, quite like a mulberry.
+
+The accompanying diagram shows a stereoscopic view of a similar cluster
+
+of balls painted white for the photograph.
+
+[Illustration: FIG. 2.]
+
+§ 5. By adding ball after ball to such a cluster of thirteen, and
+
+always taking care to place each additional ball in some position in
+
+which it is properly in line with others, so as to make the whole
+
+assemblage homogeneous, we can exercise ourselves in a very interesting
+
+manner in the building up of any possible form of crystal of the class
+
+called ‘cubic’ by some writers and ‘octahedral’ by others. You see
+
+before you several examples. I advise any of you who wish to study
+
+crystallography to contract with a wood-turner, or a maker of beads for
+
+furniture tassels or for rosaries, for a thousand wooden balls of about
+
+half an inch diameter each. Holes through them will do no harm and may
+
+even be useful; but make sure that the balls are as nearly equal to one
+
+another, and each as nearly spherical, as possible.
+
+[Illustration: FIG. 3.]
+
+§ 6. You see here before you a large model which I have made to
+
+illustrate a homogeneous assemblage of points, on a plan first given,
+
+I believe, by Mr. William Barlow (_Nature_, December 20 and 27, 1883).
+
+The roof of the model is a lattice-frame (Fig. 3) consisting of two
+
+sets of eight parallel wooden bars crossing one another, and kept
+
+together by pins through the middles of the crossings. As you see, I
+
+can alter it to make parallelograms of all degrees of obliquity till
+
+the bars touch, and again you see I can make them all squares.
+
+§ 7. The joint pivots are (for cheapness of construction) of copper
+
+wire, each bent to make a hook below the lattice frame. On these
+
+sixty-four hooks are hung sixty-four fine cords, firmly stretched by
+
+little lead weights. Each of these cords (Fig. 4) bears eight short
+
+perforated wooden cylinders, which may be slipped up and down to any
+
+desired position[2]. They are at present actually placed at distances
+
+consecutively each equal to the distance from joint to joint of the
+
+lattice frame.
+
+[Illustration: FIG. 4.]
+
+§ 8. The roof of the model is hung by four cords, nearly vertical, of
+
+independently variable lengths, passing over hooks from fixed points
+
+above, and kept stretched by weights, each equal to one quarter of
+
+the weight of roof and pendants. You see now by altering the angles
+
+of the lattice work and placing it horizontal or in any inclined
+
+plane, as I am allowed to do readily by the manner in which it is
+
+hung, I have three independent variables, by varying which I can show
+
+you all varieties of homogeneous assemblages, in which three of the
+
+neighbours of every point are at equal distances from it. You see
+
+here, for example, we have the equilateral assemblage. I have adjusted
+
+the lattice roof to the proper angle, and its plane to the proper
+
+inclination to the vertical, to make a wholly equilateral assemblage
+
+of the little cylinders of wood on the vertical cords, a case, as
+
+we have seen, of special importance. If I vary also the distances
+
+between the little pieces of wood on the cords; and the distances
+
+between the joints of the lattice work (variations easily understood,
+
+though not conveniently producible in one model without more of
+
+mechanical construction than would be worth making), I have three
+
+other independent variables. By properly varying these six independent
+
+variables, three angles and three lengths, we may give any assigned
+
+value to each edge of one of the fundamental tetrahedrons of § 3.
+
+§ 9. Our assemblage of people would not be homogeneous unless its
+
+members were all equal and similar and in precisely similar attitudes,
+
+and were all looking the same way. You understand what a number of
+
+people seated or standing on a floor or plain and looking the same way
+
+means. But the expression ‘looking’ is not conveniently applicable to
+
+things that have no eyes, and we want a more comprehensive mode of
+
+expression. We have it in the words ‘orientation,’ ‘oriented,’ and
+
+(verb) ‘to orient,’ suggested by an extension of the idea involved in
+
+the word ‘orientation,’ first used to signify positions relatively
+
+to east and west of ancient Greek and Egyptian temples and Christian
+
+churches. But for the orientation of a house or temple we have only
+
+one angle, and that angle is called ‘azimuth’ (the name given to an
+
+angle in a horizontal plane). For orientation in three dimensions of
+
+space we must extend our ideas and consider position with reference to
+
+east and west and up and down. A man lying on his side with his head
+
+to the north and looking east, would not be similarly oriented to a
+
+man standing upright and looking east. To provide for the complete
+
+specification of how a body is oriented in space we must have in the
+
+body a plane of reference, and a line of reference in this plane,
+
+belonging to the body and moving with it. We must also have a fixed
+
+plane and a fixed line of reference in it, relatively to which the
+
+orientation of the moveable body is to be specified; as, for example,
+
+a horizontal plane and the east and west horizontal line in it. The
+
+position of a body is completely specified when the angle between the
+
+plane of reference belonging to it, and the fixed plane is given; and
+
+when the angles between the line of intersection of the two planes and
+
+the lines of reference in them are also given. Thus we see that three
+
+angles are necessary and sufficient to specify the orientation of a
+
+moveable body, and we see how the specification is conveniently given
+
+in terms of three angles.
+
+§ 10. To illustrate this take a book lying on the table before you with
+
+its side next the title-page up, and its back to the north. I now lift
+
+the east edge (the top of the book), keeping the bottom edge north and
+
+south on the table till the book is inclined, let us say, 20° to the
+
+table. Next, without altering this angle of 20°, between the side of
+
+the book and the table, I turn the book round a vertical axis, through
+
+45° till the bottom edge lies north-east and south-west. Lastly,
+
+keeping the book in the plane to which it has been thus brought, I turn
+
+it round in this plane through 35°. These three angles of 20°, 45°,
+
+and 35°, specify, with reference to the horizontal plane of the table
+
+and the east and west line in it, the orientation of the book in the
+
+position to which you have seen me bring it, and in which I hold it
+
+before you.
+
+§ 11. In Figs. 5 and 6 you see two assemblages, each of twelve equal
+
+and similar molecules in a plane. Fig. 5, in which the molecules are
+
+all same-ways oriented, is one homogeneous assemblage of twenty-four
+
+molecules. Fig. 6, in which in one set of rows the molecules are
+
+alternately oriented two different ways, may either be regarded as
+
+two homogeneous assemblages, each of twelve single molecules; or one
+
+homogeneous assemblage of twelve pairs of those single molecules.
+
+[Illustration: FIG. 5.]
+
+§ 12. I must now call your attention to a purely geometrical
+
+question[3] of vital interest with respect to homogeneous assemblages
+
+in general, and particularly the homogeneous assemblage of molecules
+
+constituting a crystal:--_what can we take as ‘the’ boundary or ‘a’
+
+boundary enclosing each molecule with whatever portion of space around
+
+it we are at liberty to choose for_ _it, and separating it from
+
+neighbours and their portions of space given to them in homogeneous
+
+fairness?_
+
+[Illustration: FIG. 6.]
+
+§ 13. If we had only mathematical points to consider we should be at
+
+liberty to choose the simple obvious partitioning by three sets of
+
+parallel planes. Even this may be done in an infinite number of ways,
+
+thus:--Beginning with any point _P_ of the assemblage, choose any other
+
+three points _A_, _B_, _C_, far or near, provided only that they are
+
+not in one plane with _P_, and that there is no other point of the
+
+assemblage in the lines _PA_, _PB_, _PC_, or within the volume of the
+
+parallelepiped of which these lines are conterminous edges, or within
+
+the areas of any of the faces of this parallelepiped. There will be
+
+points of the assemblage at each of the corners of this parallelepiped
+
+and at all the corners of the parallelepipeds equal and similar to
+
+it which we find by drawing sets of equi-distant planes parallel to
+
+its three pairs of faces. (A diagram is unnecessary.) Every point of
+
+the assemblage is thus at the intersection of three planes, which is
+
+also the point of meeting of eight neighbouring parallelepipeds. Shift
+
+now any one of the points of the assemblage to a position within the
+
+volume of any one of the eight parallelepipeds, and give equal parallel
+
+motions to all the other points of the assemblage. Thus we have every
+
+point in a parallelepipedal cell of its own, and all the points of the
+
+assemblage are similarly placed in their cells, which are themselves
+
+equal and similar.
+
+§ 14. But now if, instead of a single point for each member of the
+
+assemblage, we have a group of points, or a globe or cube or other
+
+geometrical figure, or an individual of a homogeneous assemblage of
+
+equal, similar, similarly dressed, and similarly oriented ladies,
+
+sitting in rows, or a homogeneous assemblage of trees closely planted
+
+in regular geometrical order on a plane with equal and similar
+
+distributions of molecules, and parallel planes above and below,
+
+we may find that the best conditioned plane-faced parallelepipedal
+
+partitioning which we can choose would cut off portions properly
+
+belonging to one molecule of the assemblage and give them to the cells
+
+of neighbours. To find a cell enclosing all that belongs to each
+
+individual, for example, every part of each lady’s dress, however
+
+complexly it may be folded among portions of the equal and similar
+
+dresses of neighbours; or, every twig, leaf, and rootlet of each one
+
+of the homogeneous assemblage of trees; we must alter the boundary by
+
+give-and-take across the plane faces of the primitive parallelepipedal
+
+cells, so that each cell shall enclose all that belongs to one
+
+molecule, and therefore (because of the homogeneousness of the
+
+partitioning) nothing belonging to any other molecule. The geometrical
+
+problem thus presented, wonderfully complex as it may be in cases
+
+such as some of those which I have suggested, is easily performed for
+
+any possible case if we begin with any particular parallelepipedal
+
+partitioning determined for corresponding points of the assemblage
+
+as explained in § 13, for any homogeneous assemblage of single
+
+points. We may prescribe to ourselves that the corners are to remain
+
+unchanged, but if so they must to begin with either in interfaces of
+
+contact between the individual molecules, or in vacant space among
+
+the molecules. If this condition is fulfilled for one corner it is
+
+fulfilled for all, as the corners are essentially corresponding points
+
+relatively to the assemblage.
+
+§ 15. Begin now with any one of the twelve straight lines between
+
+corners which constitute the twelve edges of the parallelepiped, and
+
+alter it arbitrarily to any curved or crooked line between the same
+
+pair of corners, subject only to the conditions (1) that it does not
+
+penetrate the substance of any member of the assemblage, and (2) that
+
+it is not cut by equal and similar parallel curves[4] between other
+
+pairs of corners.
+
+[Illustration: FIG. 7.]
+
+Considering now the three fours of parallel edges of the
+
+parallelepiped, let the straight lines of one set of four be altered to
+
+equal and similar parallel curves in the manner which I have described;
+
+and proceed by the same rule for the other two sets of four edges. We
+
+thus have three fours of parallel curved edges instead of the three
+
+fours of parallel straight edges of our primitive parallelepiped with
+
+corners (each a point of intersection of three edges) unchanged.
+
+Take now the quadrilateral of four curves substituted for the four
+
+straight edges of one face of the parallelepiped. We may call this
+
+quadrilateral a curvilineal parallelogram, because it is a circuit
+
+composed of two pairs of equal parallel curves. Draw now a curved
+
+surface (an infinitely thin sheet of perfectly extensible india-rubber
+
+if you please to think of it so) bordered by the four edges of our
+
+curvilineal parallelogram, and so shaped as not to cut any of the
+
+substance of any molecule of the assemblage. Do the same thing with
+
+an exactly similar and parallel sheet relatively to the opposite face
+
+of the parallelepiped; and again the same for each of the two other
+
+pairs of parallel faces. We thus have a curved-faced parallelepiped
+
+enclosing the whole of one molecule and no part of any other; and by
+
+similar procedure we find a similar boundary for every other molecule
+
+of the assemblage. Each wall of each of these cells is common to two
+
+neighbouring molecules, and there is no vacant space anywhere between
+
+them or at corners. Fig. 7 illustrates this kind of partitioning by
+
+showing a plane section parallel to one pair of plane faces of the
+
+primitive parallelepiped, for an ideal case. The plane diagram is in
+
+fact a realization of the two-dimensional problem of partitioning the
+
+pine pattern of a Persian carpet by parallelograms about as nearly
+
+rectilinear as we can make them. In the diagram faint straight lines
+
+are drawn to show the primitive parallelogrammatic partitioning.
+
+It will be seen that of all the crossings (marked with dots in the
+
+diagram) every one is similarly situated to every other in respect to
+
+the homogeneously repeated pattern figures: _A_, _B_, _C_, _D_ are four
+
+of them at the corners of one cell.
+
+§ 16. Confining our attention for a short time to the homogeneous
+
+division of a plane, remark that the division into parallelograms
+
+by two sets of crossing parallels is singular in this respect--each
+
+cell is contiguous with three neighbours at every corner. Any
+
+shifting, large or small, of the parallelograms by relative sliding
+
+in one direction or another violates this condition, brings us to
+
+a configuration like that of the faces of regularly hewn stones in
+
+ordinary bonded masonry, and gives a partitioning which fulfils the
+
+condition that at each corner each cell has only two neighbours. Each
+
+cell is now virtually a hexagon, as will be seen by the letters _A_,
+
+_B_, _C_, _D_, _E_, _F_ in the diagram Fig. 8. _A_ and _D_ are to be
+
+reckoned as corners, each with an interior angle of 180°. In this
+
+diagram the continuous heavy lines and the continuous faint lines
+
+crossing them show a primitive parallelogrammatic partition by two sets
+
+of continuous parallel intersecting lines. The interrupted crossing
+
+lines (heavy) show, for the same homogeneous distribution of single
+
+points or molecules, the virtually hexagonal partitioning which we get
+
+by shifting the boundary from each portion of one of the light lines to
+
+the heavy line next it between the same continuous parallels.
+
+[Illustration: FIG. 8.]
+
+Fig. 8 bis represents a further modification of the boundary by
+
+which the 180° angles _A_, _D_, become angles of less than 180°. The
+
+continuous parallel lines (light) and the short light portions of the
+
+crossing lines show the configuration according to Fig. 8, from which
+
+this diagram is derived.
+
+§ 17. In these diagrams (Figs. 8 and 8 bis) the object enclosed
+
+is small enough to be enclosable by a primitive parallelogrammatic
+
+partitioning of two sets of continuous crossing parallel straight
+
+lines, and by the partitioning of ‘bonded’ parallelograms both
+
+represented in Fig. 8, and by the derived hexagonal partitioning
+
+represented in Fig. 8 bis, with faint lines showing the primitive and
+
+the secondary parallelograms. In Fig. 7 the objects enclosed were
+
+too large to be enclosable by any rectilinear parallelogrammatic
+
+or hexagonal partitioning. The two sets of parallel faint lines in
+
+Fig. 7 show a primitive parallelogrammatic partitioning and the
+
+corresponding pairs of parallel curves intersecting at the corners of
+
+these parallelograms, of which _A_,_B_,_C_,_D_ is a specimen, show a
+
+corresponding partitioning by curvilineal parallelograms. Fig. 9 shows
+
+for the same homogeneous distribution of objects a better conditioned
+
+partitioning, by hexagons in each of which one pair of parallel
+
+edges is curved. The sets of intersecting parallel straight lines in
+
+Fig. 9 show the same primitive parallelogrammatic partitioning as
+
+in Fig. 7, and the same slightly shifted to suit points chosen for
+
+well-conditionedness of hexagonal partitioning.
+
+[Illustration: FIG. 8 bis.]
+
+[Illustration: FIG. 9.]
+
+§ 18. For the division of continuous three-dimensional space[5] into
+
+equal, similar, and similarly oriented cells, quite a corresponding
+
+transformation from partitioning by three sets of continuous mutually
+
+intersecting parallel planes to any possible mode of homogeneous
+
+partitioning, may be investigated by working out the three-dimensional
+
+analogue of §§ 16-17. Thus we find that the most general possible
+
+homogeneous partitioning of space with plane interfaces between the
+
+cells gives us fourteen walls to each cell, of which six are three
+
+pairs of equal and parallel parallelograms, and the other eight are
+
+four pairs of equal and parallel hexagons, each hexagon being bounded
+
+by three pairs of equal and parallel straight lines. This figure, being
+
+bounded by fourteen plane faces, is called a tetrakaidekahedron. It
+
+has thirty-six edges of intersection between faces; and twenty-four
+
+corners, in each of which three faces intersect. A particular case
+
+of it, which I call an orthic tetrakaidekahedron, being that in
+
+which the six parallelograms are equal squares, the eight hexagonal
+
+faces are equal equilateral and equiangular hexagons, and the lines
+
+joining corresponding points in the seven pairs of parallel faces
+
+are perpendicular to the planes of the faces, is represented by
+
+a stereoscopic picture in Fig. 10. The thirty-six edges and the
+
+twenty-four corners, which are easily counted in this diagram, occur
+
+in the same relative order in the most general possible partitioning,
+
+whether by plane-faced tetrakaidekahedrons or by the generalized
+
+tetrakaidekahedron described in § 19.
+
+§ 19. The most general homogeneous division of space is not
+
+limited to plane-faced cells; but it still consists essentially of
+
+tetrakaidekahedronal cells, each bounded by three pairs of equal and
+
+parallel quadrilateral faces, and four pairs of equal and parallel
+
+hexagonal faces, neither the quadrilaterals nor the hexagons being
+
+necessarily plane. Each of the thirty-six edges may be straight
+
+or crooked or curved; the pairs of opposite edges, whether of the
+
+quadrilaterals or hexagons, need not be equal and parallel; neither
+
+the four corners of each quadrilateral nor the six corners of each
+
+hexagon need be in one plane. But every pair of corresponding edges of
+
+every pair of parallel corresponding faces, whether quadrilateral or
+
+hexagonal, must be equal and parallel. I have described an interesting
+
+case of partitioning by tetrakaidekahedrons of curved faces with curved
+
+edges in a paper[6] published about seven years ago. In this case each
+
+of the quadrilateral faces is plane. Each hexagonal face is a slightly
+
+curved surface having three rectilineal diagonals through its centre in
+
+one plane.
+
+[Illustration: FIG. 10.]
+
+The six sectors of the face between these diagonals lie alternately
+
+on opposite sides of their plane, and are bordered by six arcs
+
+of plane curves lying on three pairs of parallel planes. This
+
+tetrakaidekahedronal partitioning fulfils the condition that the
+
+angles between three planes meeting in an edge are everywhere each
+
+120°; a condition that cannot be fulfilled in any plane-faced
+
+tetrakaidekahedron. Each hexagonal wall is an anticlastic surface of
+
+equal opposite curvatures at every point, being the surfaces of minimum
+
+area bordered by six curved edges. It is shown easily and beautifully,
+
+and with a fair approach to accuracy, by choosing six little circular
+
+arcs of wire, and soldering them together by their ends in proper
+
+planes for the six edges of the hexagon; and dipping it in soap
+
+solution and taking it out.
+
+§ 20. Returning now to the tactics of a homogeneous assemblage, remark
+
+that the qualities of the assemblage as a whole depend both upon the
+
+character and orientation of each molecule, and on the character of
+
+the homogeneous assemblage formed by corresponding points of the
+
+molecules. After learning the simple mathematics of crystallography,
+
+with its indicial system[7] for defining the faces and edges of a
+
+crystal according to the Bravais rows and nets and tetrahedrons of
+
+molecules in which we think only of a homogeneous assemblage of points,
+
+we are apt to forget that the true crystalline molecule, whatever its
+
+nature may be, has sides, and that generally two opposite sides of each
+
+molecule may be expected to be very different in quality, and we are
+
+almost surprised when mineralogists tell us that two parallel faces on
+
+two sides of a crystal have very different qualities in many natural
+
+crystals. We might almost as well be surprised to find that an army in
+
+battle array, which is a kind of large-grained crystal, presents very
+
+different appearance to any one looking at it from outside, according
+
+as every man in the ranks with his rifle and bayonet faces to the front
+
+or to the rear or to one flank or to the other.
+
+§ 21. Consider, for example, the ideal case of a crystal consisting
+
+of hard equal and similar tetrahedronal solids all same-ways oriented.
+
+A thin plate of crystal cut parallel to any one set of the faces of
+
+the constituent tetrahedrons would have very different properties on
+
+its two sides; as the constituent molecules would all present points
+
+outwards on one side and flat surfaces on the other. We might expect
+
+that the two sides of such a plate of crystal would become oppositely
+
+electrified when rubbed by one and the same rubber; and, remembering
+
+that a piece of glass with part of its surface finely ground but not
+
+polished and other parts polished becomes, when rubbed with white
+
+silk, positively electrified over the polished parts and negatively
+
+electrified over the non-polished parts, we might almost expect that
+
+the side of our supposed crystalline plate towards which flat faces
+
+of the constituent molecules are turned would become positively
+
+electrified, and the opposite side, showing free molecular corners,
+
+would become negatively electrified, when both are rubbed by a rubber
+
+of intermediate electric quality. We might also from elementary
+
+knowledge of the fact of piezo-electricity, that is to say, the
+
+development of opposite electricities on the two sides of a crystal
+
+by pressure, expect that our supposed crystalline plate, if pressed
+
+perpendicularly on its two sides, would become positively electrified
+
+on one of them and negatively on the other.
+
+§ 22. Intimately connected with the subject of enclosing cells for
+
+molecules of given shape, assembled homogeneously, is the homogeneous
+
+packing together of equal and similar molecules of any given shape. In
+
+every possible case of any infinitely great number of similar bodies
+
+the solution is a homogeneous assemblage. But it may be a homogeneous
+
+assemblage of single solids all oriented the same way, or it may be
+
+a homogeneous assemblage of clusters of two or more of them placed
+
+together in different orientations. For example, let the given bodies
+
+be halves (oblique or not oblique) of any parallelepiped on the two
+
+sides of a dividing plane through a pair of parallel edges. The two
+
+halves are homochirally[8] similar; and, being equal, we may make a
+
+homogeneous assemblage of them by orienting them all the same way
+
+and placing them properly in rows. But the closest packing of this
+
+assemblage would necessarily leave vacant spaces between the bodies:
+
+and we get in reality the closest possible packing of the given bodies
+
+by taking them in pairs oppositely oriented and placed together to form
+
+parallelepipeds. These clusters may be packed together so as to leave
+
+no unoccupied space.
+
+Whatever the number of pieces in a cluster in the closest possible
+
+packing of solids may be for any particular shape, we may consider each
+
+cluster as itself a given single body, and thus reduce the problem to
+
+the packing closely together of assemblages of individuals all sameways
+
+oriented; and to this problem therefore it is convenient that we should
+
+now confine our attention.
+
+§ 23. To avoid complexities such as those which we find in the familiar
+
+problem of homogeneous packing of forks or spoons or tea-cups or bowls,
+
+of any ordinary shape, we shall suppose the given body to be of such
+
+shape that no two of them similarly oriented can touch one another
+
+in more than one point. Wholly convex bodies essentially fulfil this
+
+condition; but it may also be fulfilled by bodies not wholly convex, as
+
+is illustrated in Fig. 11.
+
+[Illustration: Fig. 11.]
+
+§ 24. To find close and closest packing of any number of our solids
+
+_S_{1}_, _S_{2}_, _S_{3}_ ... of shape fulfilling the condition of § 23
+
+proceed thus:--
+
+(1) Bring _S_{2}_ to touch _S_{1}_ at any chosen point _p_ of its
+
+surface (Fig. 12).
+
+(2) Bring _S_{3}_ to touch _S_{1}_ and _S_{2}_, at _r_ and _q_
+
+respectively.
+
+(3) Bring _S_{4}_ (not shown in the diagram) to touch _S_{1}_, _S_{2}_,
+
+and _S_{3}_.
+
+(4) Place, any number of the bodies together in three rows continuing
+
+the lines of _S_{1}S_{2}_, _S_{1}S_{3}_, _S_{1}S_{4}_, and in three
+
+sets of equi-distant rows parallel to these. This makes a homogeneous
+
+assemblage. In the assemblage so formed the molecules are necessarily
+
+found to be in three sets of rows parallel respectively to the three
+
+pairs _S_{2}S_{3}_, _S_{3}S_{4}_, _S_{4}S_{2}_. The whole space
+
+occupied by an assemblage of _n_ of our solids thus arranged has
+
+clearly _6n_ times the volume of a tetrahedron of corresponding points
+
+of _S_{1}_, _S_{2}_, _S_{3}_, _S_{4}_. Hence the closest of the
+
+close packings obtained by the operations (1) ... (4) is found if we
+
+perform the operations (1), (2), and (3) as to make the volume of this
+
+tetrahedron least possible.
+
+[Illustration: FIG. 12]
+
+§ 25. It is to be remarked that operations (1) and (2) leave for (3)
+
+no liberty of choice for the place of _S_{4}_, except between two
+
+determinate positions on opposite sides of the group _S_{1}_, _S_{2}_,
+
+_S_{3}_. The volume of the tetrahedron will generally be different for
+
+these two positions of _S_{4}_, and, even if the volume chance to be
+
+equal in any case, we have differently shaped assemblages according as
+
+we choose one or other of the two places for _S_{4}_.
+
+This will be understood by looking at Fig. 12, showing _S_{1}_
+
+and neighbours on each side of it in the rows of _S_{1}S_{2}_,
+
+_S_{1}S_{3}_, and in a row parallel to that of _S_{2}S_{3}_. The plane
+
+of the diagram is parallel to the planes of corresponding points of
+
+these seven bodies, and the diagram is a projection of these bodies
+
+by lines parallel to the intersections of the tangent planes through
+
+_p_ and _r_. If the three tangent planes through _p_, _q_, and _r_,
+
+intersected in parallel lines, _q_ would be seen like _p_ and _r_ as a
+
+point of contact between the outlines of two of the bodies; but this is
+
+only a particular case, and in general _q_ must, as indicated in the
+
+diagram, be concealed by one or other of the two bodies of which it is
+
+the point of contact. Now imagining, to fix our ideas and facilitate
+
+brevity of expression, that the planes of corresponding points of the
+
+seven bodies are horizontal, we see clearly that _S_{4}_ may be brought
+
+into proper position to touch _S_{1}_, _S_{2}_, and _S_{3}_ either from
+
+above or from below; and that there is one determinate place for it if
+
+we bring it into position from above, and another determinate place for
+
+it if we bring it from below.
+
+§ 26. If we look from above at the solids of which Fig. 12 shows the
+
+outline, we see essentially a hollow leading down to a perforation
+
+between _S_{1}_, _S_{2}_, _S_{3}_, and if we look from below we see a
+
+hollow leading upwards to the same perforation: this for brevity we
+
+shall call the perforation _pqr_. The diagram shows around _S_{1}_
+
+six hollows leading down to perforations, of which two are similar
+
+to _pqr_, and the other three, of which _p′q′r′_ indicates one, are
+
+similar one to another but are dissimilar to _pqr_. If we bring _S_{4}_
+
+from above into position to touch _S_{1}_, _S_{2}_, and _S_{3}_, its
+
+place thus found is in the hollow _pqr_, and the places of all the
+
+solids in the layer above that of the diagram are necessarily in the
+
+hollows similar to _pqr_. In this case the solids in the layer below
+
+that of the diagram must lie in the hollows below the perforations
+
+dissimilar to _pqr_, in order to make a single homogeneous assemblage.
+
+In the other case, _S_{4}_ brought up from below finds its place on the
+
+under side of the hollow _pqr_, and all solids of the lower layer find
+
+similar places: while solids in the layer above that of the diagram
+
+find their places in the hollows similar to _p´q´r´_. In the first
+
+case there are no bodies of the upper layer in the hollows above the
+
+perforations _similar_ to _p´q´r´_, and no bodies of the lower layer in
+
+the hollows below the perforations _similar_ to _pqr_. In the second
+
+case there are no bodies of the upper layer in the hollows above the
+
+perforations _similar_ to _pqr_, and none of the under layer in the
+
+hollows below the perforations _similar_ to _p´q´r´_.
+
+§ 27. Going back now to operation (1) of § 23, remark that when the
+
+point of contact _p_ is arbitrarily chosen on one of the two bodies
+
+_S_{1}_, the point of contact on the other will be the point on it
+
+corresponding to the point or one of the points of _S_{1}_, where its
+
+tangent plane is parallel to the tangent plane at _p_. If _S_{1}_
+
+is wholly convex it has only two points at which the tangent planes
+
+are parallel to a given plane, and therefore the operation (1) is
+
+determinate and unambiguous. But if there is any concavity there will
+
+be four or some greater even number of tangent planes parallel to any
+
+one of some planes, while there will be other planes to each of which
+
+only one pair of tangent planes is parallel. Hence, operation (1),
+
+though still determinate, will have a multiplicity of solutions, or
+
+only a single solution, according to the choice made of the position of
+
+_p_.
+
+Henceforth however, to avoid needless complications of ideas, we shall
+
+suppose our solids to be wholly convex; and of some such unsymmetrical
+
+shape as those indicated in Fig. 12 of § 25, and shown by stereoscopic
+
+photograph in Fig. 13 of § 36. With or without this convenient
+
+limitation, operation (1) has two freedoms, as _p_ may be chosen
+
+freely on the surface of _S_{1}_; and operation (2) has clearly just
+
+one freedom after operation (1) has been performed. Thus, for a solid
+
+of any given shape, we have three disposables, or, as commonly called
+
+in mathematics, three ‘independent variables,’ all free for making a
+
+homogeneous assemblage according to the rule of § 22.
+
+§ 28. In the homogeneous assemblage defined in § 24, each solid,
+
+_S_{1}_, is touched at twelve points, being the three points of
+
+contact with _S_{2}_, _S_{3}_, _S_{4}_, and the three 3’s of points
+
+on _S_{1}_ corresponding to the points on _S_{2}_, _S_{3}_, _S_{4}_,
+
+at which these bodies are touched by the others of the quartet. This
+
+statement is somewhat difficult to follow, and we see more clearly
+
+the twelve points of contact by not confining our attention to the
+
+quartet _S_{1}_, _S_{2}_, _S_{3}_, _S_{4}_ (convenient as this is
+
+for some purposes), but completing the assemblage and considering
+
+six neighbours around _S_{1}_ in one plane layer of the solids as
+
+shown in Fig. 12, with their six points _prq″p′r′q″′_ of contact with
+
+_S_{1}_; and the three neighbours of the two adjacent parallel layers
+
+which touch it above and below. This cluster of thirteen, _S_{1}_
+
+and twelve neighbours, is shown for the case of spherical bodies in
+
+the stereoscopic photograph of § 4 above. We might of course, if we
+
+pleased, have begun with the plane layer of which _S_{1}_, _S_{2}_,
+
+_S_{4}_ are members, or with that of which _S_{1}_, _S_{3}_, _S_{4}_
+
+are members, or with the plane layer parallel to the fourth side
+
+_S_{2}_ _S_{3}_ _S_{4}_ of the tetrahedron: and thus we have four
+
+different ways of grouping the twelve points of contact on _S_{1}_ into
+
+one set of six and two sets of three.
+
+§ 29. In this assemblage we have what I call ‘close order’ or ‘close
+
+packing.’ For closest of close packings the volume of the tetrahedron
+
+(§ 24) of corresponding points of _S_{1}_, _S_{2}_, _S_{3}_, and
+
+_S_{4}_ must be a minimum, and the least of minimums if, as generally
+
+will be the case, there are two more different configurations for
+
+each of which the volume is a minimum. There will in general also be
+
+configurations of minimax volume and of maximum volume, subject to
+
+the condition that each body is touched by twelve similarly oriented
+
+neighbours.
+
+§ 30. Pause for a moment to consider the interesting kinematical
+
+and dynamical problems presented by a close homogeneous assemblage
+
+of smooth solid bodies of given convex shape, whether perfectly
+
+frictionless or exerting resistance against mutual sliding according to
+
+the ordinarily stated law of friction between dry hard solid bodies.
+
+First imagine that they are all similarly oriented and each in contact
+
+with twelve neighbours, except outlying individuals (which there must
+
+be at the boundary if the assemblage is finite, and each of which is
+
+touched by some number of neighbours less than twelve). The coherent
+
+assemblage thus defined constitutes a kinematic frame or skeleton
+
+for an elastic solid of very peculiar properties. Instead of the six
+
+freedoms, or disposables, of strain presented by a natural solid it has
+
+only three. Change of shape of the whole can only take place in virtue
+
+of rotation of the constituent parts relatively to any one chosen row
+
+of them, and the plane through it and another chosen row.
+
+§ 31. Suppose first the solids to be not only perfectly smooth but
+
+perfectly frictionless. Let the assemblage be subjected to equal
+
+positive or negative pressure inwards all around its boundary. Every
+
+position of minimum, minimax, or maximum volume will be a position of
+
+equilibrium. If the pressure is positive the equilibrium will be stable
+
+if, and unstable unless, the volume is a minimum. If the pressure
+
+is negative the equilibrium will be stable if, and unstable unless,
+
+the volume is a maximum. Configurations of minimax volume will be
+
+essentially unstable.
+
+§ 32. Consider now the assemblage of § 31 in a position of stable
+
+equilibrium under the influence of a given constant uniform pressure
+
+inwards all round its boundary. It will have rigidity in simple
+
+proportion to the amount of this pressure. If now by the superposition
+
+of non-uniform pressure at the boundary, for example equal and opposite
+
+pressures on two sides of the assemblage, a finite change of shape is
+
+produced: the whole assemblage essentially swells in bulk. This is the
+
+‘dilatancy’ which Osborne Reynolds has described[9] in an exceedingly
+
+interesting manner with reference to a sack of wheat or sand, or an
+
+india-rubber bag tightly filled with sand or even small shot. Consider,
+
+for example, a sack of wheat filled quite full and standing up open. It
+
+is limp and flexible. Now shake it down well, fill it quite full, shake
+
+again, so as to get as much into it as possible, and tie the mouth very
+
+tightly close. The sack becomes almost as stiff as a log of wood of
+
+the same shape. Open the mouth partially, and it becomes again limp,
+
+especially in the upper parts of the bag. In Reynolds’ observations on
+
+india-rubber bags of small shot his ‘dilatancy’ depends, essentially
+
+and wholly, on breaches of some of the contacts which exist between the
+
+molecules in their configuration of minimum volume: and it is possible
+
+that in all his cases the dilatations which he observed are _chiefly_,
+
+if not wholly, due to such breaches of contact.
+
+But it is possible, it almost seems probable, that in bags or boxes
+
+of sand or powder, of some kinds of smooth rounded bodies of any
+
+shape, not spherical or ellipsoidal, subjected persistently to unequal
+
+pressures in different directions, and well shaken, stable positions
+
+of equilibrium are found with almost all the particles each touched by
+
+twelve others.
+
+Here is a curious subject of Natural History through all ages till
+
+1885, when Reynolds brought it into the province of Natural Philosophy
+
+by the following highly interesting statement:--‘A well-marked
+
+phenomenon receives its explanation at once from the existence of
+
+dilatancy in sand. When the falling tide leaves the sand firm, as the
+
+foot falls on it the sand whitens and appears momentarily to dry round
+
+the foot. When this happens the sand is full of water, the surface of
+
+which is kept up to that of the sand by capillary attractions; the
+
+pressure of the foot causing dilatation of the sand more water is
+
+required, which has to be obtained either by depressing the level of
+
+the surface against the capillary attractions, or by drawing water
+
+through the interstices of the surrounding sand. This latter requires
+
+time to accomplish, so that for the moment the capillary forces are
+
+overcome; the surface of the water is lowered below that of the sand,
+
+leaving the latter white or drier until a sufficient supply has been
+
+obtained from below, when the surface rises and wets the sand again.
+
+On raising the foot it is generally seen that the sand under the foot
+
+and around becomes momentarily wet; this is because, on the distorting
+
+forces being removed, the sand again contracts, and the excess of water
+
+finds momentary relief at the surface.’
+
+This proves that the sand under the foot, as well as the surface around
+
+it, must be dry for a short time after the foot is pressed upon it,
+
+though we cannot see it whitened, as the foot is not transparent. That
+
+it is so has been verified by Mr. Alex. Galt, Experimental Instructor
+
+in the Physical Laboratory of Glasgow University, by laying a small
+
+square of plate-glass on wet sand on the sea-shore of Helensburgh, and
+
+suddenly pressing on it by a stout stick with nearly all his weight.
+
+He found the sand, both under the glass and around it in contact with
+
+the air, all became white at the same moment. Of all the two hundred
+
+thousand million men, women, and children who, from the beginning
+
+of the world, have ever walked on wet sand, how many, prior to the
+
+British Association Meeting at Aberdeen in 1885, if asked, ‘Is the sand
+
+compressed under your foot?’ would have answered otherwise than ‘Yes!’?
+
+(Contrast with this the case of walking over a bed of wet sea-weed!)
+
+§ 33. In the case of globes packed together in closest order (and
+
+therefore also in the case of ellipsoids, if all similarly oriented),
+
+our condition of coherent contact between each molecule and twelve
+
+neighbours implies absolute rigidity of form and constancy of bulk.
+
+Hence our convex solid must be neither ellipsoidal nor spherical
+
+in order that there may be the changes of form and changes of bulk
+
+which we have been considering as dependent on three independent
+
+variables specifying the orientation of each solid relatively to rows
+
+of the assemblage. An interesting dynamical problem is presented by
+
+supposing any mutual forces, such as might be produced by springs, to
+
+act between the solid molecules, and investigating configurations of
+
+equilibrium on the supposition of frictionless contacts. The solution
+
+of it of course is that the potential energy of the springs must be a
+
+minimum or a minimax or a maximum for equilibrium, and a minimum for
+
+stable equilibrium. The solution will be a configuration of minimum or
+
+minimax, or maximum, volume, only in the case of pressure equal in all
+
+directions.
+
+§ 34. A purely geometrical question, of no importance in respect to
+
+the molecular tactics of a crystal but of considerable interest in
+
+pure mathematics, is forced on our attention by our having seen (§ 27)
+
+that a homogeneous assemblage of solids of given shape, each touched
+
+by twelve neighbours, has three freedoms which may be conveniently
+
+taken as the three angles specifying the orientation of each molecule
+
+relatively to rows of the assemblage as explained in § 30.
+
+Consider a solid _S_{1}_ and the twelve neighbours which touch it,
+
+and try if it is possible to cause it to touch more than twelve of
+
+the bodies. Attach ends of three thick flexible wires to any places
+
+on the surface of _S_{1}_; carry the wires through interstices of the
+
+assemblage, and attach their other ends at any three places of _A_,
+
+_B_, _C_, respectively, these being any three of the bodies outside
+
+the cluster of _S_{1}_ and its twelve neighbours. Cut the wires across
+
+at any chosen positions in them; and round off the cut ends, just
+
+leaving contact between the rounded ends, which we shall call _f′f_,
+
+_g′g_, _h′h_. Do homogeneously for every other solid of the assemblage
+
+what we have done for _S_{1}_. Now bend the wires slightly so as to
+
+separate the pairs of points of contact, taking care to keep them
+
+from touching any other bodies which they pass near on their courses
+
+between _S_{1}_ and _A_, _B_, _C_ respectively. After having done this,
+
+thoroughly rigidify all the wires thus altered. We may now, having
+
+three independent variables at our disposal, so change the orientation
+
+of the molecules, relatively to rows of the assemblage, as to bring
+
+_f′f_, _g′g_, and _h′h_ again into contact. We have thus six fresh
+
+points of _S_{1}_; of which three are _f′_, _g′_, _h′_; and the other
+
+three are on the three extensions of _S_{1}_ corresponding to the
+
+single extensions of _A_, _B_, _C_ respectively, which we have been
+
+making. Thus we have a _real_ solution of the interesting geometrical
+
+problem:--It is required so to form a homogeneous assemblage of solids
+
+of any arbitrarily given shape that each solid shall be touched by
+
+eighteen others. This problem is determinate, because the making of
+
+the three contacts _f′f_, _g′g_, _h′h_, uses up the three independent
+
+variables left at our disposal after we have first formed a homogeneous
+
+assemblage with twelve points of contact on each solid. But our manner
+
+of finding a shape for each solid which can allow the solution of the
+
+problem to be real, proves that the solution is essentially imaginary
+
+for every wholly convex shape.
+
+§ 35. Pausing for a moment longer to consider afresh the geometrical
+
+problem of putting arbitrarily given equal and similar solids together
+
+to make a homogeneous assemblage of which each member is touched by
+
+eighteen others, we see immediately that it is determinate (whether it
+
+has any real solution or not), because when the shape of each body is
+
+given we have nine disposables for fixing the assemblage: six for the
+
+character of the assemblage of the corresponding points, and three for
+
+the orientation of each molecule relatively to rows of the assemblage
+
+of corresponding points. These nine disposables are determined by the
+
+condition that each body has nine pairs of contacts with others.
+
+Suppose now a homogeneous assemblage of the given bodies, in open
+
+order with no contacts, to be arbitrarily made according to any nine
+
+arbitrarily chosen values for the six distances between a point of
+
+_S_{1}_ and the corresponding points of its six pairs of nearest and
+
+next nearest neighbours (§ 1 above), and the three angles (§ 9 above)
+
+specifying the orientation of each body relatively to rows of the
+
+assemblage. We may choose in any nine rows through _S_{1}_ any nine
+
+pairs of bodies at equal distances on the two sides of _S_{1}_ far or
+
+near, for the eighteen bodies which are to be in contact with _S_{1}_.
+
+Hence there is an infinite number of solutions of the problem of which
+
+only a finite number can be real. Every solution of the problem of
+
+eighteen contacts is imaginary when the shape is wholly convex.
+
+[Illustration: FIG. 13.]
+
+§ 36. Without for a moment imagining the molecules of matter to be
+
+hard solids of convex shape, we may derive valuable lessons in the
+
+tactics of real crystals by studying the assemblage described in §§
+
+24 and 25 and represented in Figs. 12 and 13. I must for the present
+
+forego the very attractive subject of the tactics presented by faces
+
+not parallel to one or other of the four faces of the primitive
+
+tetrahedrons which we found in § 24, and ask you only to think of the
+
+two sides of a plate of crystal parallel to any one of them, that is to
+
+say, an assemblage of such layers as those represented geometrically
+
+in Fig. 12 and shown in stereoscopic view in Fig. 13. If, as is the
+
+case with the solids[10] photographed in Fig. 13, the under side of
+
+each solid is nearly plane but slightly convex, and the top is somewhat
+
+sharply curved, we have the kind of difference between the upper and
+
+under of the two parallel sides of the crystal which I have already
+
+described to you in § 21 above. In this case the assemblage is formed
+
+by letting the solids fall down from above and settle in the hollows to
+
+which they come most readily, or which give them the stablest position.
+
+It would, we may suppose, be the hollows _p′ q′ r′_, not _p q r_, (Fig.
+
+12) that would be chosen; and thus, of the two formations described in
+
+§ 25, we should have that in which the hollows above _p′ q′ r′_ are
+
+occupied by the comparatively flat under sides of the molecules of
+
+the layer above, and the hollows below the apertures _p q r_ by the
+
+comparatively sharp tops of the molecules of the layers below.
+
+§ 37. For many cases of natural crystals of the wholly asymmetric
+
+character, the true forces between the crystalline molecules will
+
+determine precisely the same tactics of crystallization as would be
+
+determined by the influence of gravity and fluid viscosity in the
+
+settlement from water, of sand composed of uniform molecules of the
+
+wholly unsymmetrical convex shape represented in Figs. 12 and 13.
+
+Thus we can readily believe that a real crystal which is growing
+
+by additions to the face seen in Fig. 12, would give layer after
+
+layer regularly as I have just described. But if by some change of
+
+circumstances the plate, already grown to a thickness of many layers in
+
+this way, should come to have the side facing _from_ us in the diagram
+
+exposed to the mother-liquor, or mother-gas, and begin to grow from
+
+that face, the tactics might probably be that each molecule would find
+
+its resting-place with its most nearly plane side in the wider hollows
+
+under _p′ q′ r′_, instead of with its sharpest corner in the narrower
+
+and steeper hollows under _p q r_, as are the molecules in the layer
+
+below that shown in the diagram in the first formation. The result
+
+would be a compound crystal consisting of two parts, of different
+
+crystalline quality, cohering perfectly together on the two sides of
+
+an interfacial plane. It seems probable that this double structure may
+
+be found in nature, presented by crystals of the wholly unsymmetric
+
+class, though it may not hitherto have been observed or described in
+
+crystallographic treatises.
+
+[Illustration: FIG. 14.]
+
+§ 38. This asymmetric double crystal becomes simply the well-known
+
+symmetrical ‘twin-crystal’[11] in the particular case in which each of
+
+the constituent molecules is symmetrical on the two sides of a plane
+
+through it parallel to the plane of our diagrams, and also on the two
+
+sides of some plane perpendicular to this plane. We see, in fact, that
+
+in this case if we cut in two the double crystal by the plane of Fig.
+
+14, and turn one part ideally through 180° round the intersection of
+
+these two planes, we bring it into perfect coincidence with the other
+
+part.
+
+This we readily understand by looking at Fig. 14, in which the solid
+
+shown in outline may be either an egg-shaped figure of revolution, or
+
+may be such a figure flattened by compression perpendicular to the
+
+plane of the diagram. The most readily chosen and the most stable
+
+resting-places for the constituents of each successive layer might be
+
+the wider hollows _p′ q′ r′_: and therefore if, from a single layer to
+
+begin with, the assemblage were to grow by layer after layer added to
+
+it on each side, it might probably grow as a twin-crystal. But it might
+
+also be that the presence of a molecule in the wider hollow _p′ q′ r′_
+
+on one side, might render the occupation of the corresponding hollow on
+
+the other side by another molecule less probable, or even impossible.
+
+Hence, according to the configuration and the molecular forces of the
+
+particular crystalline molecule in natural crystallization, there may
+
+be necessarily, or almost necessarily, the twin, when growth proceeds
+
+simultaneously on the two sides: or the twin growth may be impossible,
+
+because the first occupation of the wider hollows on one side, may
+
+compel the continuity of the crystalline quality throughout, by leaving
+
+only the narrower hollows _p q r_ free for occupation by molecules
+
+attaching themselves on the other side.
+
+§ 39. Or the character of the crystalline molecule may be such
+
+that when the assemblage grows by the addition of layer after layer
+
+on one side only, with a not very strongly decided preference to the
+
+wider hollows _p′ q′ r′_, some change of circumstances may cause
+
+the molecules of one layer to place themselves in a hollow _p q r_.
+
+The molecules in the next layer after this would find the hollows
+
+_p′ q′ r′_ occupied on the far side, and would thus have a bias in
+
+favour of the hollows _p q r_. Thus layer after layer might be added,
+
+constituting a twinned portion of the growth, growing, however,
+
+with less strong security for continued homogeneousness than when
+
+the crystal was growing, as at first, by occupation of the wider
+
+hollows _p′ q′ r′_. A slight disturbance might again occur, causing
+
+the molecules of a fresh layer to settle, not in the narrow hollows
+
+_p q r_, but in the wider hollows _p′ q′ r′_, notwithstanding the
+
+nearness of molecules already occupying the wider hollows on the
+
+other side. Disturbances such as these occurring irregularly during
+
+the growth of a crystal, might produce a large number of successive
+
+twinnings at parallel planes with irregular intervals between them,
+
+or a large number of twinnings in planes at equal intervals might be
+
+produced by some regular periodic disturbance occurring for a certain
+
+number of periods, and then ceasing. Whether regular and periodic, or
+
+irregular, the tendency would be that the number of twinnings should
+
+be even, and that after the disturbances cease the crystal should
+
+go on growing in the first manner, because of the permanent bias in
+
+favour of the wider hollows _p′ q′ r′_. These changes of molecular
+
+tactics, which we have been necessarily led to by the consideration
+
+of the fortuitous concourse of molecules, are no doubt exemplified in
+
+a large variety of twinnings and counter-twinnings found in natural
+
+minerals. In the artificial crystallization of chlorate of potash they
+
+are of frequent occurrence, as is proved, not only by the twinnings and
+
+counter-twinnings readily seen in the crystalline forms, but also by
+
+the brilliant iridescence observed in many of the crystals found among
+
+a large multitude, which was investigated scientifically by Sir George
+
+Stokes ten years ago, and described in a communication to the Royal
+
+Society ‘On a remarkable phenomenon of crystalline reflection’ (_Proc.
+
+R.S._, vol. xxxviii, 1885, p. 174).
+
+§ 40. A very interesting phenomenon, presented by what was originally
+
+a clear homogeneous crystal of chlorate of potash, and was altered by
+
+heating to about 245°-248° Cent., which I am able to show you through
+
+the kindness of Lord Rayleigh, and of its discoverer, Mr. Madan,
+
+presents another very wonderful case of changing molecular tactics,
+
+most instructive in respect of the molecular constitution of elastic
+
+solids. When I hold this plate before you with the perpendicular to
+
+its plane inclined at 10° or more to your line of vision, you see a
+
+tinsel-like appearance, almost as bright as if it were a plate of
+
+polished silver, on this little area, which is a thin plate of chlorate
+
+of potash cemented for preservation between two pieces of glass; and,
+
+when I hold a light behind, you see that the little plate is almost
+
+perfectly opaque like metal foil. But now when I hold it nearly
+
+perpendicular to your line of vision the tinsel-like appearance is
+
+lost. You can see clearly through the plate, and you also see that very
+
+little light is reflected from it. As a result both of Mr. Madan’s own
+
+investigations, and further observations by himself, Lord Rayleigh came
+
+to the conclusion that the almost total reflection of white light which
+
+you see is due to the reflection of light at many interfacial planes
+
+between successive layers of twinned and counter-twinned crystal of
+
+small irregular thicknesses, and not to any splits or cavities or any
+
+other deviation from homogeneousness than that presented by homogeneous
+
+portions of oppositely twinned-crystals in thorough molecular contact
+
+at the interfaces.
+
+§ 41. When the primitive clear crystal was first heated very gradually
+
+by Madan to near its melting-point (359° according to Carnelly), it
+
+remained clear, and only acquired the tinsel appearance after it had
+
+cooled to about 245° or 248°[12]. Rayleigh found that if a crystal
+
+thus altered was again and again heated it always lost the tinsel
+
+appearance, and became perfectly clear at some temperature considerably
+
+below the melting-point, and regained it at about the same temperature
+
+in cooling. It seems, therefore, certain that at temperatures above
+
+248°, and below the melting-point, the molecules had so much of thermal
+
+motions as to keep them hovering about the positions of _p q r_, _p′ q′
+
+r′_, of our diagrams, but not enough to do away with the rigidity of
+
+the solid; and that when cooled below 248° the molecules were allowed
+
+to settle in one or other of the two configurations, but with little
+
+of bias for one in preference to the other. It is certainly a very
+
+remarkable fact in Natural History, discovered by these observations,
+
+that, when the molecules come together to form a crystal out of the
+
+watery solution, there should be so much more decided a bias in favour
+
+of continued homogeneousness of the assemblage than when, by cooling,
+
+they are allowed to settle from their agitations in a rigid, but nearly
+
+melting, solid.
+
+§ 42. But even in crystallization from watery solution of chlorate of
+
+potash the bias in favour of thorough homogeneousness is not in every
+
+contingency decisive. In the first place, beginning, as the formation
+
+seems to begin, from a single molecular plane layer such as that
+
+ideally shown in Fig. 14, it goes on, not to make a homogeneous crystal
+
+on the two sides of this layer, but probably always so as to form a
+
+twin-crystal on its two sides, exactly as described in § 38, and, if
+
+so, certainly for the reason there stated. This is what Madan calls
+
+the ‘inveterate tendency to produce twins (such as would assuredly
+
+drive a Malthus to despair)[13]’; and it is to this that he alludes as
+
+‘the inevitable twin-plate’ in the passage from his paper given in the
+
+foot-note to § 41 above.
+
+§ 43. In the second place, I must tell you that many of the crystals
+
+produced from the watery solution by the ordinary process of slow
+
+evaporation and crystallization, show twinnings and counter-twinnings
+
+at irregular intervals in the otherwise homogeneous crystal on either
+
+one or both sides of the main central twin-plane, which henceforth,
+
+for brevity, I shall call (adopting the hypothesis already explained,
+
+which seems to me undoubtedly true) the ‘initial plane.’ Each twinning
+
+is followed, I believe, by a counter-twinning at a very short distance
+
+from it; at all events Lord Rayleigh’s observations[14] prove that the
+
+whole number of twinnings and counter-twinnings in a thin disturbed
+
+stratum of the crystal on one side of the main central twin-plane
+
+is generally, perhaps always, even; so that, except through some
+
+comparatively very small part or parts of the whole thickness, the
+
+crystal on either side of the middle or initial plane is homogeneous.
+
+This is exactly the generally regular growth which I have described
+
+to you (§ 39) as interrupted occasionally or accidentally by some
+
+unexplained disturbing cause, but with an essential bias to the
+
+homogeneous continuance of the more easy or natural one of the two
+
+configurations.
+
+§ 44. I have now great pleasure in showing you a most interesting
+
+collection of the iridescent crystals of chlorate of potash, each
+
+carefully mounted for preservation between two glass plates, which have
+
+been kindly lent to us for this evening by Mr. Madan. In March, 1854,
+
+Dr. W. Bird Herapath sent to Prof. Stokes some crystals of chlorate
+
+of potash showing the brilliant and beautiful colours you now see,
+
+and, thirty years later, Prof. E. J. Mills recalled his attention to
+
+the subject by sending him ‘a fine collection of splendidly coloured
+
+crystals of chlorate of potash of considerable size, several of the
+
+plates having an area of a square inch or more, and all of them
+
+being thick enough to handle without difficulty.’ The consequence
+
+was that Stokes made a searching examination into the character of
+
+the phenomenon, and gave the short, but splendidly interesting,
+
+communication to the Royal Society of which I have already told you.
+
+The existence of these beautifully coloured crystals had been well
+
+known to chemical manufacturers for a long time, but it does not appear
+
+that any mention of them was to be found in any scientific journal or
+
+treatise prior to Stokes’ paper of 1885. He found that the colour was
+
+due to twinnings and counter-twinnings in a very thin disturbed stratum
+
+of the crystal showing itself by a very fine line, dark or glistening,
+
+according to the direction of the incident light when a transverse
+
+section of the plate of crystal was examined in a microscope. By
+
+comparison with a spore of lycopodium he estimated that the breadth
+
+of this line, and therefore the thickness of the disturbed stratum of
+
+the crystal, ranged somewhere about the one-thousandth of an inch. He
+
+found that the stratum was visibly thicker in those crystals which
+
+showed red colour than in those which showed blue. He concluded that
+
+‘the seat of the coloration is certainly a thin twinned stratum’ (that
+
+is to say, a homogeneous portion of crystal between a twinning and a
+
+counter-twinning), and found that ‘a single twin-plane does not show
+
+anything of the kind.’
+
+§ 45. A year or two later Lord Rayleigh entered on the subject with
+
+an exhaustive mathematical investigation of the reflection of light at
+
+a twin-plane of a crystal (_Philosophical Magazine_, September, 1888),
+
+by the application of which, in a second paper ‘On the remarkable
+
+phenomenon of Crystalline Reflection described by Prof. Stokes,’
+
+published in the same number of the _Philosophical Magazine_, he gave
+
+what seems certainly the true explanation of the results of Sir George
+
+Stokes’ experimental analysis of these beautiful phenomena. He came
+
+very decidedly to the conclusion that the selective quality of the
+
+iridescent portion of the crystal, in virtue of which it reflects
+
+almost totally light nearly of one particular wave-length for one
+
+particular direction of incidence (on which the brilliance of the
+
+coloration depends), cannot be due to merely a single twin-stratum,
+
+but that it essentially is due to a considerable number of parallel
+
+twin-strata at nearly equal distances. The light reflected by this
+
+complex stratum is, for any particular direction of incident and
+
+reflected ray, chiefly that of which the wave-length is equal to twice
+
+the length of the period of the twinning and counter-twinning, on a
+
+line drawn through the stratum in the direction of either the incident
+
+or the reflected ray.
+
+§ 46. It seems to me probable that each twinning is essentially
+
+followed closely by a counter-twinning. Probably three or four of these
+
+twin-strata might suffice to give colour; but in any of the brilliant
+
+specimens as many as twenty or thirty, or more, might probably be
+
+necessary to give so nearly monochromatic light as was proved by
+
+Stokes’ prismatic analysis of the colours observed in many of his
+
+specimens. The disturbed stratum of about a one-thousandth of an inch
+
+thickness, seen by him in the microscope, amply suffices for the 5,
+
+10, or 100 half wave-lengths required by Rayleigh’s theory to account
+
+for perceptible or brilliant coloration. But what _can_ be the cause
+
+of any approach to regular periodicity in the structure sufficiently
+
+good to give the colours actually observed? Periodical motion of
+
+the mother-liquor relatively to the growing crystal might possibly
+
+account for it. But Lord Rayleigh tells us that he tried rocking the
+
+pan containing the solution without result. Influence of light has
+
+been suggested, and I believe tried, also without result, by several
+
+enquirers. We know, by the beautiful discovery of Edmond Becquerel,
+
+of the prismatic colours photographed on a prepared silver plate by
+
+the solar spectrum, that ‘standing waves’ (that is to say, vibrations
+
+with stationary nodes and stationary places of maximum vibration),
+
+due to co-existence of incident and reflected waves, do produce such
+
+a periodic structure as that which Rayleigh’s theory shows capable
+
+of giving a corresponding tint when illuminated by white light. It
+
+is difficult, therefore, not to think that light may be effective in
+
+producing the periodic structure in the crystallization of chlorate of
+
+potash, to which the iridescence is due. Still, experimental evidence
+
+seems against this tempting theory, and we must perforce be content
+
+with the question unanswered:--What can be the cause of 5, or 10, or
+
+100 pairs of twinning and counter-twinning following one another in
+
+the crystallization with sufficient regularity to give the colour: and
+
+why, if there are twinnings and counter-twinnings, are they not at
+
+irregular intervals, as those produced by Madan’s process, and giving
+
+the observed white tinsel-like appearance with no coloration?
+
+§ 47. And now I have sadly taxed your patience: and I fear I have
+
+exhausted it and not exhausted my subject! I feel I have not got
+
+halfway through what I hoped I might be able to put before you this
+
+evening regarding the molecular structure of crystals. I particularly
+
+desired to speak to you of quartz crystal with its ternary symmetry
+
+and its chirality[15]; and to have told you of the etching[16] by
+
+hydrofluoric acid which, as it were, commences to unbuild the crystal
+
+by taking away molecule after molecule, but not in the reverse order of
+
+the primary up-building; and which thus reveals differences of tactics
+
+in the alternate faces of the six-sided pyramid which terminates at
+
+either end, sometimes at both ends, the six-sided prism constituting
+
+generally the main bulk of the crystal. I must confine myself to giving
+
+you a geometrical symbol for the ternary symmetry of the prism and its
+
+terminal pyramid.
+
+[Illustration: FIG. 15.]
+
+§ 48. Make an equilateral equiangular hexagonal prism, with
+
+its diagonal from edge to edge ninety-five hundredths[17] of its
+
+length. Place a number of these close together, so as to make up
+
+a hexagonal plane layer with its sides perpendicular to the sides
+
+of the constituent hexagonal prisms: see Fig. 15 and imagine the
+
+semicircles replaced by their diameters. You see in each side of the
+
+hexagonal assemblage, edges of the constituent prisms, and you see
+
+at each corner of the assemblage a face (not an edge) of _one_ of
+
+the constituent prisms. Build up a hexagonal prismatic assemblage
+
+by placing layer after layer over it with the constituent prisms of
+
+each layer vertically over those in the layer below; and finish the
+
+assemblage with a six-sided pyramid by building upon the upper end
+
+of the prism, layer after layer of diminishing hexagonal groups,
+
+each less by one circumferential row than the layer below it. You
+
+thus have a crystal of precisely the shape of a symmetrical specimen
+
+of rock crystal, with the faces of its terminal pyramid inclined at
+
+38° 13′ to the faces of the prism from which they spring. But the
+
+assemblage thus constituted has ‘senary’ (or six-rayed symmetry). To
+
+reduce this to ternary symmetry, cut a groove through the middle of
+
+each alternate face of the prismatic molecule, making this groove
+
+in the first place parallel to the edges: and add a corresponding
+
+projection, or fillet, to the middles of the other three faces, so
+
+that two of the cylinders similarly oriented would fit together, with
+
+the projecting fillet on one side of one of them entering the groove
+
+in the anti-corresponding side of the other. The prismatic portion
+
+of the assemblage thus formed shows (see Fig. 15), on its alternate
+
+edges, faces of molecules with projections and faces of molecules with
+
+grooves; and shows only orientational differences between alternate
+
+faces, whether of the pyramid or of the prism. Having gone only so far
+
+from ‘senary’ symmetry, we have exactly the triple, or three-pair,
+
+anti-symmetry required for the piezo-electricity of quartz investigated
+
+so admirably by the brothers Curie[18], who found that a thin plate of
+
+quartz crystal cut from any position perpendicular to a pair of faces
+
+of a symmetrical crystal, becomes positively electrified on one side
+
+and negatively on the other when pulled in a direction perpendicular
+
+to those faces. But this assemblage has not the chiral piezo-electric
+
+quality discovered theoretically by Voigt[19], and experimentally in
+
+quartz and in tourmaline by himself and Riecke[20], nor the well-known
+
+optic chirality of quartz.
+
+[Illustration: FIG. 16.]
+
+[Illustration: FIG. 17.]
+
+§ 49. Change now the directions of the grooves and fillets to either of
+
+the oblique configurations shown in Fig. 16, which I call right-handed,
+
+because the directions of the projections are tangential to the threads
+
+of a three-thread right-handed screw, and Fig. 17 (left-handed). The
+
+prisms with their grooves and fillets will still all fit together if
+
+they are all right-handed, or all left-handed.
+
+[Illustration: FIG. 18.]
+
+Fig. 18 shows the upper side of a hexagonal layer of an assemblage
+
+thus composed of the right-handed molecule of Fig. 16. Fig. 15
+
+unchanged, still represents a horizontal section through the centres
+
+of the molecules. A prism built up of such layers, and finished at
+
+each end with a pyramid according to the rule of § 48, has all the
+
+qualities of ternary chiral symmetry required for the piezo-electricity
+
+of quartz; for the orientational differences of the alternate pairs
+
+of prismatic faces; for the absolute difference between the alternate
+
+pairs of faces of each pyramid which are shown in the etching by
+
+hydrofluoric acid; for the merely orientational difference between
+
+the parallel faces of the two pyramids; and for the well-known
+
+chiro-optic[21] property of quartz. Look at two contiguous faces _A_,
+
+_B_ of our geometrical model quartz crystal now before you, with its
+
+axis vertical. You will see a difference between them: turn it upside
+
+down; _B_ will be undistinguishable from what _A_ was, and _A_ will be
+
+undistinguishable from what _B_ was. Look at the two terminal pyramids,
+
+and you will find that the face above _A_ and the face below _B_ are
+
+identical in quality, and that they differ from the face above _B_
+
+and below _A_. This model is composed of the right-handed constituent
+
+molecules shown in Fig. 16. It is so placed before you that the edge of
+
+the prismatic part of the assemblage nearest to you shows you filleted
+
+faces of the prismatic molecules. You see two pyramidal faces; the one
+
+to your right hand, over _B_, presents complicated projections and
+
+hollows at the corners of the constituent molecules; and the pyramidal
+
+face next your left hand, over _A_, presents their unmodified corners.
+
+But it will be the face next your left hand which will present the
+
+complex bristling corners, and the face next your right hand that
+
+will present the simple corners, if, for the model before you, you
+
+substitute a model composed of left-handed molecules such as those
+
+shown in Fig. 17.
+
+§ 50. To give all the qualities of symmetry and anti-symmetry of
+
+the pyro-electric and piezo-electric properties of tourmaline
+
+investigated theoretically by Voigt[22], and experimentally by himself
+
+and Friecke[23], make a hollow in one terminal face of each of our
+
+constituent prisms, and a corresponding projection in its other
+
+terminal face.
+
+§ 51. Coming back to quartz, we can now understand perfectly the
+
+two kinds of macling which are well known to mineralogists as being
+
+found in many natural specimens of the crystal, and which I call
+
+respectively the orientational macling, and the chiral macling.
+
+In the orientational macling all the crystalline molecules are
+
+right-handed, or all left-handed; but through all of some part of the
+
+crystal, each of our component hexagonal prisms is turned round its
+
+axis through 60° from the position it would have if the structure
+
+were homogeneous throughout. In each of the two parts the structure
+
+is homogeneous, and possesses all the electric and optic properties
+
+which any homogeneous portion of quartz crystal presents, and the
+
+facial properties of natural uncut crystal, shown in the etching by
+
+hydrofluoric acid; but there is a discontinuity at the interface, not
+
+generally plane, between the two parts, which in our geometrical model
+
+would be shown by non-fittings between the molecules on the two sides
+
+of the interface, while all the contiguous molecules in one part, and
+
+all the contiguous molecules in the other part, fit into one another
+
+perfectly. In chiral macling, which is continually found in amethystine
+
+quartz, and sometimes in ordinary clear quartz crystals, some parts
+
+are composed of right-handed molecules, and others of left-handed
+
+molecules. It is not known whether, in this chiral macling, there is or
+
+there is not also the orientational macling on the two sides of each
+
+interface; but we may say probably _not_; because we know that the
+
+orientational macling occurs in nature without any chiral macling, and
+
+because there does not seem reason to expect that chiral macling would
+
+imply orientational macling on the two sides of the same interface.
+
+I would like to have spoken to you more of this most interesting
+
+subject; and to have pointed out to you that some of the simplest and
+
+most natural suppositions we can make as to the chemical forces (or
+
+electrical forces, which probably means the same thing) concerned in
+
+a single chemical molecule of quartz, _SiO_{2}_, and acting between
+
+it and similar neighbouring molecules, would lead essentially to
+
+these molecules coming together in triplets, each necessarily either
+
+right-handed or left-handed, but with as much probability of one
+
+configuration as of the other: and to have shown you that these
+
+triplets of silica 3(_SiO_{2}_) can form a crystalline molecule with
+
+all the properties of ternary chiral symmetry, typified by our grooved
+
+hexagonal prisms, and can build up a quartz crystal by the fortuitous
+
+concourse of atoms. I should like also to have suggested and explained
+
+the possibility that a right-handed crystalline molecule thus formed
+
+may, in natural circumstances of high temperature, or even of great
+
+pressure, become changed into a left-handed crystal, or _vice-versa_.
+
+My watch, however, warns me that I must not enter on this subject.
+
+[Illustration: FIG. 19.]
+
+§ 52. Coming back to mere molecular tactics of crystals, remark that
+
+our assemblage of rounded, thoroughly scalene, tetrahedrons, shown
+
+in the stereoscopic picture (§ 36, Fig. 13 above), essentially has
+
+chirality because each constituent tetrahedron, if wholly scalene, has
+
+chirality[24]. I should like to have explained to you how a single or
+
+double homogeneous assemblage of points has essentially no chirality,
+
+and how three assemblages of single points, or a single assemblage of
+
+triplets of points, can have chirality, though a single triplet of
+
+points cannot have chirality. I should like indeed to have brought
+
+somewhat thoroughly before you the geometrical theory of chirality;
+
+and in illustration to have explained the conditions under which four
+
+points, or two lines, or a line and two points, or a combination of
+
+point, line and plane, can have chirality: and how a homogeneous
+
+assemblage of non-chiral objects can have chirality; but in pity I
+
+forbear, and I thank you for the extreme patience with which you have
+
+listened to me.
+
+FOOTNOTES:
+
+[1] See foot-note on § 22 below.
+
+[2] The holes in the cylinders are bored obliquely, as shown in Fig.
+
+4, which causes them to remain at any desired position on the cord and
+
+allows them to be freed to move up and down by slackening the cord for
+
+a moment.
+
+[3] ‘On the Homogeneous Division of Space,’ by Lord Kelvin, _Royal
+
+Society Proceedings_, vol. lv, Jan. 18, 1894.
+
+[4] Similar curves are said to be parallel when the tangents to them at
+
+corresponding points are parallel.
+
+[5] See foot-note to § 12 above.
+
+[6] ‘On the Division of Space with Minimum Partitional Area,’
+
+_Philosophical Magazine_, vol. xxiv, 1887, p. 502, and _Acta
+
+Mathematica_ of the same year.
+
+[7] A. Levy, _Edinburgh Philosophical Journal_, April, 1822;
+
+Whewell, _Phil. Trans. Royal Society_, 1825; Miller, _Treatise on
+
+Crystallography_.
+
+[8] I call any geometrical figure, or group of points, _chiral_, and
+
+say that it has chirality, if its image in a plane mirror, ideally
+
+realized, cannot be brought to coincide with itself. Two equal and
+
+similar right hands are homochirally similar. Equal and similar right
+
+and left hands are heterochirally similar or ‘allochirally’ similar
+
+(but heterochirally is better). These are also called ‘enantiomorphs,’
+
+after a usage introduced, I believe, by German writers. Any chiral
+
+object and its image in a plane mirror are heterochirally similar.
+
+[9] _Philosophical Magazine_, vol. xx, 1885, second half year, p. 469,
+
+and _British Association Report_, 1885, Aberdeen, p. 896.
+
+[10] The solids of the photograph are castings in fine plaster of Paris
+
+from a scalene tetrahedron of paraffin wax, with its corners and edges
+
+rounded, used as a pattern.
+
+[11] ‘A twin-crystal is composed of two crystals joined together in
+
+such a manner that one would come into the position of the other by
+
+revolving through two right angles round an axis which is perpendicular
+
+to a plane which either is, or may be, a face of either crystal.
+
+The axis will be called the twin-axis, and the plane to which it is
+
+perpendicular the twin-plane.’ Miller’s _Treatise on Crystallography_,
+
+p. 103. In the text the word ‘twin-plane,’ quoted from the writings
+
+of Stokes and Rayleigh, is used to signify the plane common to the
+
+two crystals in each of the cases referred to: and not the plane
+
+perpendicular to this plane, in which one part of the crystal must be
+
+rotated to bring it into coincidence with the other, and which is the
+
+twin-plane as defined by Miller.
+
+[12] ‘A clear transparent crystal of potassium chlorate, from which
+
+the inevitable twin-plate had been ground away so as to reduce it to
+
+a single crystal film about 1 mm. in thickness, was placed between
+
+pieces of mica and laid on a thick iron plate. About 3 cm. from it
+
+was laid a small bit of potassium chlorate, and the heat of a Bunsen
+
+burner was applied below this latter, so as to obtain an indication
+
+when the temperature of the plate was approaching the fusing-point of
+
+the substance (359° _C_ according to Prof. Carnelly). The crystal plate
+
+was carefully watched during the heating, but no depreciation took
+
+place, and no visible alteration was observed, up to the point at which
+
+the small sentinel crystal immediately over the burner began to fuse.
+
+The lamp was now withdrawn, and when the temperature had sunk a few
+
+degrees a remarkable change spread quickly and quietly over the crystal
+
+plate, causing it to reflect light almost as brilliantly as if a film
+
+of silver had been deposited upon it. No further alteration occurred
+
+during the cooling; and the plate, after being ground and polished on
+
+both sides, was mounted with Canada balsam between glass plates for
+
+examination. Many crystals have been similarly treated with precisely
+
+similar results; and the temperature at which the change takes place,
+
+has been determined to lie between 245° and 248°, by heating the
+
+plates upon a bath of melted tin in which a thermometer was immersed.
+
+With single crystal plates no decrepitation has ever been observed,
+
+while with the ordinary twinned-plates it always occurs more or less
+
+violently, each fragment showing the brilliant reflective power above
+
+noticed.’--_Nature_, May 20, 1886.
+
+[13] _Nature_, May 20, 1886.
+
+[14] _Philosophical Magazine_, 1888, second half year, p. 260.
+
+[15] See foot-note to § 22 above.
+
+[16] Widmanstätten, 1807. Leydolt (1855, Wien. Akad. Ber. 15, 59, T.
+
+9, 10. Baumhauer, Pogg. Ann. 138, 563 (1869); 140, 271; 142, 324; 145,
+
+460; 150, 619.) For an account of these investigations, see Mallard,
+
+_Traité de Crystallographie_ (Paris, 1884), Tome II, chapitre xvi.
+
+[17] More exactly .9525, being 3/4 × cot 38° 13′; see p. 53.
+
+[18] J. and P. Curie and C. Friedel, _Comptes Rendus_, 1882, 1883,
+
+1886, 1892.
+
+[19] Allgemeine Theorie der piëzo- und pyroelectrischen Erscheinungen
+
+an Krystallen. W. Voigt, Königl. Gesellschaft der Wissenschaften zu
+
+Göttingen, August 2, 1890.
+
+[20] Wiedemann, _Annalen_, 1892, xlv, p. 923.
+
+[21] Generally miscalled ‘rotational.’
+
+[22] See foot-note (2) to p. 54 above.
+
+[23] See foot-note (3) to p. 54 above.
+
+[24] See foot-note to § 22 above.
+
+  THE END
+
+  Oxford
+
+  PRINTED AT THE CLARENDON PRESS
+
+  BY HORACE HART, PRINTER TO THE UNIVERSITY
+
+End of Project Gutenberg's The Molecular Tactics of a Crystal, by Lord Kelvin
+
+***

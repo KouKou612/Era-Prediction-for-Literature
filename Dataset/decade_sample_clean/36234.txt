@@ -1,0 +1,3897 @@
+Produced by Delphine Lettau and the Online Distributed
+
+Proofreading Canada Team at http://www.pgdpcanada.net (This
+
+book was produced from scanned images of public domain
+
+material from the Google Book Search project.)
+
+THE
+
+STOLEN HEIRESS:
+
+OR THE
+
+_Salamanca_ Doctor Outplotted.
+
+A
+
+COMEDY.
+
+Drawn from:
+
+THE
+
+WORKS
+
+OF THE CELEBRATED
+
+Mrs. CENTLIVRE.
+
+VOLUME ONE
+
+LONDON:
+
+Printed for J. KNAPTON, C. HITCH and L. HAWES,
+
+J. and R. TONSON, S. CROWDER and Co. W. BATHOE,
+
+T. LOWNDS, T. CASLON, and G. KEARSLY.
+
+M.DCC.LXI.
+
+PROLOGUE.
+
+Spoke by Mrs. PRINCE.
+
+  _Our Author fearing his Success to Day,_
+
+  _Sends me to bribe your Spleen against his Play,_
+
+  _And if a Ghost in_ Nelly's _Time cou'd sooth ye,_
+
+  _He hopes in these that Flesh and Blood may move ye,_
+
+  _Nay, what is more, to win your Hearts, a Maid!_
+
+  _If ever such a Thing the Play-house had._
+
+  _For Cold and Shade the waxen Blossom's born,_
+
+  _Not to endure the Regions of the Sun,_
+
+  _Let every Beau then his Applause begin,_
+
+  _And think the Rarity was born for him:_
+
+  _Your true-bred Knights for fancy'd Dames advance,_
+
+  _And think it Gallantry to break a Launce,_
+
+  _And shall a real Damsel e'er be found_
+
+  _To plead her Cause in vain on_ English _Ground,_
+
+  _Unless that dreadful Prophecy's begun,_
+
+  _In which Seven Women are to share----one Man!_
+
+  _But thanks my Stars that Danger I disown,_
+
+  _For in the Pit, I see 'tis--one--to one._
+
+  _And while the Fair can all their Rights enjoy,_
+
+  _We'll keep our Title up to being Coy,_
+
+  _So let your Praise be noisy as your Wine,_
+
+  _And grant your Favours, if you'd purchase mine._
+
+       *       *       *       *       *
+
+A SONG design'd to be sung by Mr. DOGGET.
+
+  _The Man you Ladies ought to fear,_
+
+  _Behold and see his Picture here._
+
+  _With Arms a-cross, and down-cast Eyes_
+
+  _Thus languishes, and thus he dies,_
+
+  _Then gives his Hat a careless Pull,_
+
+  _Thus he sighs, and thus looks dull,_
+
+  _Thus he ogles, thus he sneers,_
+
+  _Thus he winks, and thus he lears._
+
+  _This, this is he alone can move,_
+
+  _And this the Man the Ladies love._
+
+THE
+
+EPILOGUE.
+
+Spoke by Mr. DOGGET.
+
+  _You have seen what Scholar is in Cap and Gown,_
+
+  _Before his Breeding's polish'd by this Town:_
+
+  _'Tis not enough, that he can_ Hebrew _speak,_
+
+  Greek, Latin, Chaldeac, _and_ Arabick;
+
+  _He may perform his Task in Church and School,_
+
+  _Ne'er drop a Word, that is not Grammar-Rule._
+
+  _Run through the Arts; can each Degree commence,_
+
+  _Yet be a Freshman still, to Men of Sense._
+
+  _Tho' the learn'd Youth, can all the Sages quote,_
+
+  _Has_ Homer, Hesiod, _and the rest by Wrote;_
+
+  _Yet what's all this to Picquet, Dress or Play?_
+
+  _Or to the Circle, on a Visiting-Day?_
+
+  _A finish'd Beau; for such fine things I have seen,_
+
+  _That heretofore, has of some College been:_
+
+  _But that Despising, nothing now retains,_            }
+
+  _For Learning is a Thing requires Brains;_            }
+
+  _And that's a Perquisite the Gentleman disdains._     }
+
+  _The Great Dull Ass, from breaking Head of_ Priscian;
+
+  _Hither he comes, and writes approv'd Physician._
+
+  _The Noise of Chariot brings the Patients in;_
+
+  _Grant them Patience, that Physick for their Sin._
+
+  _Well then----_
+
+  _Since Learning's useless, I'll the Task defy;_
+
+  _Practice to Ogle, Flatter, Swear and Lye;_
+
+  _For that's the Way the Ladies Hearts to gain,_
+
+  _Burn all my Books; my Studies are but vain:_
+
+  _To gain their Looks, each Shape and Dress I'll try;_
+
+  _Smile when they Smile; and when they Frown, I Die._
+
+Dramatis Personae.
+
+MEN.
+
+  _Governor of_ Palermo,                         _Mr._ Bowman.
+
+  _Count_ Pirro, _Nephew to the Governor_,       _Mr._ Griffith.
+
+  Gravello, a Sicilian _Lord, Father to_     }
+
+   Lucasia,                                  }   _Mr._ Freeman.
+
+  Larich, _his Brother_,                         _Mr._ Fieldhouse.
+
+  _Lord_ Euphenes, _an old_ Sicilian _General_,  _Mr._ Arnold.
+
+  Palante, _Son to_ Euphenes, _but unknown_  }
+
+  _in Love with_ Lucasia,                    }   _Mr._ Powel.
+
+  Clerimont, _his Friend_,                       _Mr._ Baile.
+
+  Eugenio, _Son to_ Gravello _in Disguise_   }
+
+  _under the Name of_ Irus,                  }   _Mr._ Booth.
+
+  Alphonso, _formerly an Officer under_      }
+
+  Euphenes,                                  }   _Mr._ Knap.
+
+  Francisco, _in Love with_ Lavinia,             _Mr._ Pack.
+
+  Sancho, _a Pedant, bred at_ Salamanca,     }
+
+  _design'd by_ Larich, _a Husband for_      }   _Mr._ Dogget.
+
+  Lavinia,                                   }
+
+  Tristram, _his Man_,                           _Mr._ Lee.
+
+  Rosco, _Servant to Count_ Gravello,            _Mr._ Bright.
+
+WOMEN.
+
+  Lucasia, _Daughter to_ Gravello, _in_      }
+
+  _Love with_ Palante,                       }   _Mrs._ Barry.
+
+  Lavinia, _Daughter to_ Larich, _in Love_   }
+
+  _with_ Francisco,                          }   _Mrs._ Prince.
+
+  Laura, _Woman to_ Lucasia,                     _Mrs._ Lawson.
+
+  _The_ SCENE _in_ PALERMO.
+
+THE STOLEN HEIRESS:
+
+OR, THE
+
+SALAMANCA DOCTOR Outplotted.
+
+ACT I. SCENE I.
+
+_Enter Count_ Gravello _and_ Rosco.
+
+_Gravello. ROSCO!_
+
+_Rosco._ My Lord.
+
+_Grav._ Hast thou divulg'd the News that my Son died at _Rome_?
+
+_Rosco._ Yes, my Lord, with every Circumstance, the Time, the Place, and
+
+Manner of his Death; that 'tis believed, and told for Truth with as much
+
+Confidence, as if they had been Spectators of his End.
+
+_Grav._ That's well, that's very well, now _Rosco_ follows my Part, I
+
+must express a most unusual Grief, not like a well-left Heir for his
+
+dead Father, or a lusty Widow for an old decrepit Husband; no, I must
+
+counterfeit in a far deeper Strain; weep like a Parent for an only Son:
+
+Is not this a hard Task? Ha, _Rosco_?
+
+_Rosco._ Ah, no, my Lord, not for your Skill; in your Youth your
+
+Lordship saw Plays, conversed with Players, knew the fam'd _Alberto_.
+
+_Grav._ 'Tis true, by Heav'n, I have seen that Knave paint Grief in such
+
+a lively Colour, that for false and acted Passion he has drawn true
+
+Tears, the Ladies kept Time with his Sighs, and wept to his sad Accents
+
+as if he had truly been the Man he seem'd, then I'll try my Part, thou
+
+hast still been privy to my Bosom Secrets; know'st Wealth and Ambition
+
+are the Darlings of my Soul; nor will I leave a Stratagem unessay'd to
+
+raise my Family. My Son is well and safe, but by Command from me he
+
+returns not this three Months. My Daughter, my _Lucasia_, is my only
+
+Care, and to advance her Fortune have I fram'd this Project; how dost
+
+like it, _Rosco_, ha!
+
+_Rosco._ Rarely, my Lord, my Lady will be now suppos'd the Heir to all
+
+your vast Revenues, and pester'd with more Suitors than the _Grecian_
+
+Queen, in the long Absence of her Lord. You'll have the Dons, Lords and
+
+Dukes swarm about your House like Bees.
+
+_Grav._ My Aim is fix'd at the Rich and Great, he that has Wealth
+
+enough, yet longs for more, Count _Pirro_, the Governor's Heir and
+
+Nephew, that rich Lord that knows no End of his large Fortunes, yet
+
+still gapes on, for Gold is a sure Bait to gain him, no other Loadstone
+
+can attract his Iron Heart, 'tis proof against the Force of Beauty, else
+
+I should not need this Stratagem, for Nature has not prov'd a Niggard to
+
+my Daughter.
+
+_Rosco._ To him, I'm sure, she's play'd the Step-Dame, I much fear
+
+_Lucasia_ will not relish such a Match.
+
+_Grav._ Ha! not relish it! has she any other Taste but mine, or shall
+
+she dare to wish ought that may contradict my Purpose--But hold, perhaps
+
+you know how she's inclin'd, you may be confederate with her, and manage
+
+her Intrigues with that Beggar _Palante_, who is only by Lord
+
+_Euphene_'s Bounty, my mortal Enemies, kept from starving.
+
+_Rosco._ Who I, my good Lord? Heav'n knows, I have learnt by your
+
+Lordship's Example, always to hate the Poor, and like the Courtier,
+
+never to do ought without a Bribe.
+
+     _Enter a Servant._
+
+_Serv._ My Lord, Count _Pirro_, to wait upon your Lordship.
+
+_Grav._ Conduct him in. [_Exit. Serv._] Now _Rosco_, to my Couch; if my
+
+Plot takes, I'm a happy Man.
+
+     _Enter Count_ Pirro.
+
+_Pirro._ Is your Lord asleep?
+
+_Ros._ I think not, my Lord, but thus he lies, Heav'n knows when this
+
+Grief will end--My Lord, my Lord, the Count of _Pirro_.
+
+_Grav._ I pray your Lordship pardon me, at this Time I'm not fit to
+
+entertain Persons of your Worth.
+
+_Pir._ Alas! my Lord, I know your Grief.
+
+_Ros._ Ay, 'twas that brought his good Lordship hither.
+
+_Pir._ You have lost a worthy, and a hopeful Son, but Heav'n that always
+
+gives, will sometimes take, and there's no Balsam left to cure these
+
+Wounds but Patience; there's no disputing with it, yet if there were, in
+
+what could you accuse those Pow'rs, that else have been so liberal to
+
+you, and left you to bless your Age a beauteous Daughter.
+
+_Ros._ Now it begins to work.                                [_Aside._
+
+_Pirro._ Your Blood is not extinct, nor are you Childless, Sir, from
+
+that fair Branch may come much Fruit to glad Posterity; think on this,
+
+my Lord.
+
+_Grav._ I know I should not repine, my Lord, but Nature will prevail, I
+
+cannot help reflecting on my Loss; alas, my Lord, you know not what it
+
+is to lose a Son; 'tis true, I have still a Child, Heav'n has now
+
+confin'd my Care to one, to see her well bestow'd shall be the Business
+
+of my Life--Oh! my _Eugenio_.
+
+_Ros._ Egad, he does it rarely.                              [_Aside._
+
+_Pirr._ How shall I manage, that he may not suspect my Love to his
+
+Daughter proceeds from his Son's Death, [_Aside._] I was just coming to
+
+make a Proposal to your Lordship as the News reach'd my Ear, I much fear
+
+the Time's improper now to talk of Business.
+
+_Grav._ Pray Heaven it be the Business I wish; were my Grief more great,
+
+if possible, yet would I suspend it to hear my Lord of _Pirro_.
+
+_Ros._ Cunningly insinuated.                                 [_Aside._
+
+_Pirro._ Your Lordship is too obliging.
+
+_Grav._ Not at all, pray proceed, my Lord.
+
+_Pirro._ It was, my Lord, to have ask'd the fair _Lucasia_ for my Wife.
+
+_Ros._ So he has swallow'd the Bait.                         [_Aside._
+
+_Grav._ As I could wish.                                     [_Aside._
+
+_Pirro._ 'Twas not out of any Consideration of her present Fortune,
+
+my Lord, I hope you'll not believe, since I designed it e'er I knew
+
+_Eugenio_ dead. I wish he may believe me.                    [_Aside._
+
+_Grav._ If 'twas, my Lord of _Pirro_ does deserve it all, nor would I
+
+wish my Child a better Match. But 'tis too soon to treat of Marriage
+
+after such a Loss.
+
+_Rosco._ Dear Sir, consent to this good Lord, so will your Care be over,
+
+and hopeful Grandsons make up poor _Eugenio_'s Loss.
+
+_Grav._ What would you have me think of Joy and Death at once, and
+
+mingle the Grave and Marriages together.
+
+_Pirro._ If you'll consent, my Lord, a private Marriage may be had, and
+
+so dispense with the usual Solemnities of Joy. If you refuse me, I shall
+
+think you slight my Claim.
+
+_Grav._ That Argument alone prevails: No, I will never give the Count of
+
+_Pirro_ Cause to doubt of my Esteem.
+
+_Rosco._ Consider, my Lord, she's an Heiress, that may set bold
+
+desperate Youths on rash Attempts; and tho' they know _Sicilian_ Laws
+
+gives Death to him that steals an Heiress, yet I'll not warrant her
+
+Safety till to-morrow Night.
+
+_Pirro._ He's in the right, my Lord.
+
+_Grav._ Away, and call her, tho' she's disorder'd with her Griefs. Now
+
+thou hast rais'd another Fear, and my poor Heart trembles for _Lucasia_,
+
+as it for _Eugenio_ bleeds.                              [_Ex._ Rosco.
+
+_Pirro._ Within my Arms she shall be safe and happy, the Governor, my
+
+noble Uncle, and my Friend, her great Protector.
+
+     _Enter_ Rosco _with_ Lucasia.
+
+_Grav._ Come near _Lucasia_, like the Ambassadors from this World's
+
+great Rulers, I bring thee Grief and Joy, pause not upon a Brother's
+
+Loss, tho' 'twas a dear one; but fix thy Thoughts here, upon this Lord;
+
+thus I bequeath thee to the illustrious Count of _Pirro_.
+
+_Pirro._ Thus I with Extasy receive her.
+
+                                        [_Kneels and kisses her Hand._
+
+ _Luc._ You'll give me Leave, my Lord, to wake from this Confusion:
+
+  Is't possible! do I behold my Father?
+
+  Can he resolve, at once, to part with both
+
+  His Children, my Brother, the best of Men,
+
+  No more will bless his Roof, no more will grace
+
+  This Palace with his Presence----
+
+  Must I be cast out too, far more unblest
+
+  Than he who's lodg'd within the peaceful Grave.
+
+  Oh, send me to him, e'er you condemn me
+
+  To perpetual Bondage, to a Life of Woe;
+
+  To a Marriage unthought of, unforeseen.
+
+_Pirro._ Madam----
+
+_Grav._ Mind her not, my Lord, 'tis Grief, 'tis mere Distraction, she
+
+shan't dispute my Will. Please to walk in, my Lord, we'll peruse the
+
+Writings of your Estate, and hear what Settlement you'll make her, and
+
+to-morrow the Priest shall join you, to alleviate her Griefs, and Mine.
+
+_Pirro._ But to see her weep thus, damps all my rising Joy.
+
+_Grav._ They are but Virgin Tears, pray come with me, Daughter, you know
+
+my Will, I expect you be obedient; you know 'tis your Duty.
+
+  _Luc._ I know 'tis Sir.----
+
+  But you, I hope, will give my Tortur'd Heart
+
+  Your Leave to break, and that may shew my Duty.
+
+_Pirro._ Fair _Lucasia_.
+
+_Luc._ Oh, Distraction!                            [_Flings from him._
+
+_Grav._ Pray come, my Lord, let her have her Way, the Fits of Women's
+
+Grief last not long, at least when I command she shall obey.
+
+                                           [_Exeunt, all but_ Lucasia.
+
+  _Luc._ A dismal Sentence, it strikes me upon my Soul,
+
+  And raises Terrors far more grim than Death;
+
+  Forgive me, Brother, if t' thy Memory
+
+  I pay not one Tear more, all now are due
+
+  To Love, and my _Palante_.
+
+     _Enter_ Laura.
+
+  _Lau._ You name the Man that waits by me conceal'd,
+
+  For one blest Minute to comfort his _Lucasia_.
+
+  _Luc._ All Minutes now are curs'd, no chearful day,
+
+  Will ever bring the lost _Lucasia_ Peace.
+
+  _Lau._ Come forth, Sir, I believe you'll prove the best Physician.
+
+     _Enter_ Palante.
+
+  _Luc._ Oh _Palante_, art thou come prepar'd to weep,
+
+  Else, for me, thou art no fit Companion,
+
+  For I have News will rack thy very Soul.
+
+  _Pal._ Yes, I have heard of brave _Eugenio_'s Death;
+
+  He was thy Brother, and my early Friend:
+
+  Thus doubly ty'd, thou need'st not doubt I mourn
+
+  Him truly----
+
+  _Luc._ Oh poor _Palante_!
+
+  So wretched _Alcione_ did at Distance grieve,
+
+  When she beheld the floating Corps,
+
+  And knew not 'twas her Husband.
+
+  _Pal._ What means my Love?
+
+  _Luc._ Dost thou not love me, my _Palante_?
+
+  _Pal._ Oh! after so many Years of faithful Service,
+
+  Why am I ask'd that Question?
+
+  _Luc._ It were better that thou didst not, for when
+
+  Thou hear'st the Story 'twill turn thee into Marble;
+
+  'Twill shock thy manly Heart, and make each Nerve
+
+  Lose its accustomed Faculty, chill all
+
+  Thy Blood, and make thine Eyes run o'er like mine,
+
+  For we must part for ever.
+
+  _Pal._ Can that Voice pronounce a Sound so dreadful?
+
+  Art thou then alter'd with thy Fortune? Must
+
+  I lose thee?
+
+  _Luc._ O thou unkind one to suspect my Love,
+
+  My promis'd Faith, or think me in the least
+
+  Consenting to my rigid Father's Will,
+
+  Who, but now has given me to the Count of _Pirro_.
+
+  _Pal._ Ha! to the Count of _Pirro_, that Lump of Deformity:
+
+  My Sword has been my Fortune hitherto,
+
+  And ne'er was wont to fail its Master, and
+
+  Whilst this Arm can hold it, I'll maintain my Right.
+
+  _Luc._ Which Way rash Man, is he not surrounded
+
+  By numerous Friends, and waiting Slaves?
+
+  Does not inevitable Death attend
+
+  Thy desperate Purpose?
+
+  _Pal._ Then let that same Sword, the old Acquaintance
+
+  Of my Arm, pierce its lost Master's Breast, and
+
+  End my Sorrows.
+
+  _Luc._ Forbid it Heaven, is there no other Way?
+
+  _Pal._ But one, and that I dare not name.
+
+  _Luc._ Oh! how has thy _Lucasia_, since first our
+
+  Mutual Vows were plighted, given Cause for Doubt.
+
+  Why dost thou fear to ask, since all is thine, within
+
+  The Bounds of Honour.
+
+  _Pal._ When I attempt ought against _Lucasia_,
+
+  Contrary to the nicest Rules of Virtue,
+
+  May Heaven, and she, forsake me.
+
+  _Luc._ Oh, I know it, and when I refuse what
+
+  May advance our Loves, may I be curst
+
+  With that hated Count of _Pirro_. Speak, my _Palante_.
+
+  _Pal._ Can I--Ye all-seeing Powers, move so bold a Suit,
+
+  Oh! let me humbly ask it on my Knees,
+
+  To quit her cruel Father's House,
+
+  And all the Grandeur of a pompous Court.
+
+  To bear a Part in my hard Fortunes;
+
+  Oh! 'tis too much to think, to wish, to hope.
+
+  _Luc._ Yes, dear _Palante_, more than this I'd do for thee.
+
+  What's Pomp and Greatness when compared with Love?
+
+  Oh! that thou wert some humble Shepherd on
+
+  Our _Sicilian_ Plain, I thy chearful Mate,
+
+  Wou'd watch with Pleasure till the Ev'ning Tide,
+
+  And wait thy blest Return, with as much Joy
+
+  As Queens expect Victorious Monarchs, and
+
+  Think myself more blest than they. But, oh _Palante_!
+
+  Thou know'st our Country's Laws gives Death without
+
+  Reprieve to him that weds an Heiress against her Parents Will,
+
+  Tho' with her own Consent.
+
+  _Pal._ Who would not die to purchase thee? For I
+
+  Must die without thee.
+
+  _Luc._ No, live _Palante_, we'll together tread
+
+  The Maze of Life, and stand the Shock of Fate.
+
+  The Power's Decree, or both our Happiness,
+
+  Or both our Miseries, where shall we meet?
+
+  For I will leave this loathsome House, before their
+
+  Watch grows stricter.
+
+  _Pal._ Will thou then forsake the World for thy _Palante_?
+
+  Everlasting Blessings fall around thee,
+
+  And crown thy Days and Nights with Peace and Joy.
+
+  Oh! my fond Heart, I cannot half express
+
+  The Raptures thou hast rais'd, thou Treasure of
+
+  My Soul, let me embrace thee, and while thus
+
+  I hold thee in my Arms, I'm richer than
+
+  The _Eastern_ Monarch, nor wou'd I quit thee
+
+  To be as great as he----
+
+  Oh! let but what my Arms infolds be mine;
+
+  Take all the rest the World contains, my Life.
+
+  _Luc._ My _Palante_----
+
+  _Pal._ I have an only Friend, faithful and just
+
+  As men of old before Deceit became
+
+  A Trade, he shall assist us in our Flight;
+
+  He shall prepare a Priest, if thou wilt meet
+
+  Me in the _Eastern_ Grove; when we are wed
+
+  We'll fly to _Spain_, till Time and Friends procure
+
+  My Pardon.
+
+  _Luc._ In some Disguise I'll meet thee there,
+
+  Just at the Hour of Noon,
+
+  For then my Father sleeps, and I will take
+
+  The Opportunity----
+
+  And, oh! I fear no Danger but for thee.
+
+  _Pal._ For me there's none, whilst thou'rt safe, and with
+
+  Me thy Loss alone can make _Palante_ die.
+
+     _Enter_ Laura.
+
+_Laura._ Madam, your Father----
+
+_Luc._ Away _Palante_, may all the Pow'rs preserve thee.
+
+_Pal._ And thou the best of Woman-kind.
+
+                                                  [_Exeunt severally._
+
+Luc. _O Love, thou that hast join'd a faithful Pair,_
+
+  _Guard my_ Palante, _make him all thy Care_.
+
+  _Fate's utmost Rigor we resolve to try,_
+
+  _Live both together, or together die._
+
+     _Enter Count_ Gravello, Larich, _and_ Lavinia.
+
+_Grav._ Brother, you are welcome to the House of Sorrow; but I have
+
+learnt so much Philosophy, to cease to mourn when the Cause is past
+
+Redress. Once more, forgetting Grief, you are welcome, you, and my fair
+
+Niece.
+
+_Lar._ Thank you Brother--the Girl's a foolish Girl--Marriageable, but
+
+foolish--You understand me.
+
+_Lavin._ I thank you, Sir.
+
+_Larich._ Why, are you not a Fool, Hussy--look'e Brother, I have
+
+provided the Mynx a rich Husband, a Scholar too, Body of me bred all
+
+his youth at _Salamanca_, learn'd enough to commence Doctor--I love a
+
+learn'd Man, especially when Riches too concur; he's the Son and Heir of
+
+my old Friend _Don Sancho_, of _Syracuse_--and the Baggage cries _I hate
+
+him_, and yet has never seen him; but she is in Love, forsooth, with a
+
+young beggarly Dog, not worth a Groat; but I'll prevent her, I'll
+
+warrant her.
+
+_Grav._ Just, just my Case, we are Brothers in every Thing, my Daughter
+
+too thinks her Judgment wisest, and flies a Fortune for a Princess, but
+
+her Reign's at an End, to-morrow I'm rid of her; I warrant you,
+
+Brother, we'll hamper the young Sluts.
+
+_Lavin._ You may be both mistaken, old Gentlemen, if my Cousin is of my
+
+Mind.
+
+_Larich._ What's that you mutter, Mrs. _Littlewit_?
+
+_Lavin._ I say, I long to see my Cousin _Lucasia_, Sir, I hope that's no
+
+Crime.
+
+_Grav._ No, no, _Rosco_, wait of her in to my Daughter, and dost hear
+
+_Lavinia_? Pr'ythee, let Obedience be thy Study, and teach it her.
+
+_Lavin._ I'll warrant you, Sir, I'll teach her to be Obedient, if she'll
+
+but follow my Advice, [_Aside._] but 'tis something hard, though Uncle,
+
+to marry a Man at first Sight one's heard but an indifferent Character
+
+of.
+
+_Larich._ How, Hussy, are you a Judge of Characters? Is he not a
+
+Scholar? Answer me that.
+
+_Lavin._ A meer Scholar is a meer----You know the old Proverb, Father.
+
+_Larich._ Do you hear the perverse Baggage; get you out of my Sight,
+
+Hussy.
+
+_Lavin._ I am obedient, Sir--I dare swear I shall find better Company
+
+than two old arbitrary Dons.                       [_Exit with_ Rosco.
+
+_Larich._ Did you ever see such a Slut? body o'me these wild Wenches are
+
+enough to make old Men mad.
+
+_Grav._ My Daughter is of another Strain, solid as Man but obstinate as
+
+Woman; but no Matter, when she is married my Care is over, let Count
+
+_Pirro_ look to't.
+
+_Larich._ Count _Pirro_! body o'me a mighty Fortune for my Cousin; why,
+
+he's rich enough to buy a Principality; my Son's rich too, and a great
+
+Scholar, which I admire above all Things.
+
+     _Enter_ Rosco.
+
+_Rosco._ Oh! Sir, such News, such a Sight, Sir!
+
+_Larich._ What's the Matter?
+
+_Rosco._ Don _Sancho_ come to Town in his _Salamanca_ Habit, his Dress,
+
+and grave Phiz has alarm'd the Mob, that there's such a crowd about the
+
+Inn Door, I'll maintain't his Landlord gives him free Quarter for a
+
+Twelve-month, if he'll let him expose him to Advantage, ha, ha, ha, he
+
+makes as odd a Figure, Sir, as the famous _Don Quixot_, when he went in
+
+Search of his _Dulcinea_.
+
+_Larich._ Brother, pray correct your Servant, I like not his ridiculous
+
+Jests upon the Habit of the Learned, my Son-in-Law that is to be, minds
+
+nothing but his Books.
+
+_Rosco._ Sir, I ask your Pardon, my niggard Stars have not allow'd Line
+
+enough to my Judgment, to fathom the Profundity of your Son's Shallow
+
+Capacity-- [_Bowing comically._
+
+_Grav._ Peace, Sirrah--Come, Brother, now your Son's arriv'd, I hope we
+
+shall have a double Match to-morrow----We'll not consult the Women, but
+
+force them to their Happiness.
+
+  _Experienc'd Age knows what for Youth is fit;_
+
+  _With Wise Men, Wealth out-weighs both Parts and Wit._
+
+                                                              [Exeunt.
+
+ACT II. SCENE I. Lucasia's _Chamber_.
+
+_Enter_ Lucasia _and_ Lavinia.
+
+_Lavin._ Upon my Life, Cousin, I think my Condition worse than yours,
+
+and yet you see I am not so much dejected.
+
+  _Luc._ Oh! What Condition is't can equal mine?
+
+  Much less exceed it; to be oblig'd to
+
+  Break my Vow, to part from my _Palante_;
+
+  Forc'd to the Arms of a mishapen Monster,
+
+  Whom Nature made to vex the whole Creation.
+
+  Nor is his crooked Body more deform'd
+
+  Than is his Soul, Ambition is his God;
+
+  He seeks no Heav'n but Interest; nor knows he
+
+  How to value ought but Gold.
+
+  Oh! my dearest Brother, had'st thou but liv'd
+
+  I had been truly happy, but now am
+
+  Doubly miserable, in losing thee and my _Palante_.
+
+_Lavin._ For Heaven's Sake don't afflict yourself at this Rate, but
+
+study rather to avoid the Ill, if you would counter-plot my Uncle; dry
+
+up your Eyes, and let the Woman work, I warrant you may contrive some
+
+Way to get rid of this Lump of Worms-meat; I don't fear giving my Father
+
+the drop, for all his Care, yet tho' he made me ride post to Town, to
+
+meet the Fool he has pick'd out for me; it shall cost me a Fall, if I
+
+don't marry the Man I have a Mind to; I shall see who's the best
+
+Politician, my Dad, or I.
+
+  _Luc._ Thy Courage gives fresh Life and Liberty,
+
+  To poor _Lucasia_'s tired restless Soul,
+
+  Such Pow'r have chearful Friends t'ease our Sorrows.
+
+  Oh! my _Lavinia_, may thy Counsel prove
+
+  Prophetic, I'm going now, in this Disguise, to meet my
+
+  Dear _Palante_; may no malignant Star
+
+  Interpose to cross our mutual Wishes.
+
+  May thy Designs successful prove,
+
+  To fix thee ever in _Francisco_'s Arms.
+
+_Lavin._ And make _Palante_ yours.
+
+SCENE the Street.
+
+Sancho _and_ Francisco _meeting_.
+
+_Fran._ Don _Sancho_ your Servant; who thought of seeing you at
+
+_Palermo_, I thought you had been at the University of _Salamanca_?
+
+_Sancho._ I came lately from thence.
+
+_Fran._ Pr'ythee, what brought you hither?
+
+_Sanc._ Why, that that brings some Men to the Gallows, a Wench.
+
+_Fran._ What, I warrant, you have got your Bed-maker with Child, and so
+
+are expell'd the College.
+
+_Sancho._ That's a Mistake.
+
+_Fran._ What, thou art not come hither to take Physic, ha!
+
+_Sancho._ No, not the Physic you mean; but am going to enter into a
+
+Course, that is, the Course of Matrimony.
+
+_Fran._ Matrimony, with who, pr'ythee?
+
+_Sanc._ Why, with Don _Larich_'s Daughter: Do you know her?
+
+_Fran._ Ha! Is this my Rival? This was a lucky Discovery, [_Aside._] I
+
+know her; ay, very well, Sir. I can assure you she's very handsome, and
+
+as witty as she's fair: Thou won't visit her in that Dress, sure?
+
+_Sancho._ To chuse, Sir, 'tis an Emblem of Learning; nay, I design my
+
+Man shall carry a Load of Books along with me too, that she may see what
+
+he is Master of, that is to be Master of her.
+
+_Fran._ Indeed, my Friend, you'll never succeed upon those Terms.
+
+_Tristr._ Sir, my Master has such an Itch to this foolish Learning, that
+
+he bestows more Money yearly upon Books, than would build an Hospital
+
+for all the Courtesans in _Italy_.
+
+_Sancho._ No more, or you'll displease me, _Tristram_.
+
+_Tristr._ I can't help that, Sir,--Sir, will you believe me, I have
+
+spent two Days in sorting Poets from Historians, and as many Nights in
+
+placing the Divines on their own Chairs, I mean their Shelves; then
+
+separating Philosophers, from those People that kill with a License,
+
+cost me a whole Day's Labour; and tho' my Master says Learning is
+
+immortal, I find the Sheets it is contain'd in savours much of
+
+Mortality.
+
+_Sancho._ I hope my Books are in good Case, _Tristram_?
+
+_Tristr._ Yes, yes, Sir, in as good Case as the Moths have left 'em.
+
+_Sancho._ Od'so, I had forgot, to get me _Suarez Metaphysicks_, _Tolet
+
+de Anima_, and _Granados Commentaries_, on _Primum Secundae Thomae
+
+Aquinatis_.
+
+_Tristr._ How the Devil does he do to remember all these Author's hard
+
+Names, I dare swear he understands not a Syllable of their
+
+Writings----Sir, would not the famous History of _Amidis de Gaul_ do as
+
+well?
+
+_Fran._ Ay, better, better far, Man, hark'ee _Sancho_, you are not at
+
+_Salamanca_ now, amongst your square Caps, but in _Palermo_, come up to
+
+see your Mistress the fair _Lavinia_, the Glory of the City; go and
+
+court her like a Gentleman, without your Tropes and Figures, or all the
+
+Physics, Metaphysics, and Metaphors, will streight be made pitiful
+
+Martyrs.
+
+_Sancho._ Martyrs, Sir, why, I thought--
+
+_Fran._ Thyself an errant Idiot, thy Brain's more dull than a _Dutch_
+
+Burghers. Is this a Dress fit for a Gentleman to court his Mistress in?
+
+Away, away, the Lady you speak of, I can assure you is too much a
+
+Gallant to be taken with a Band and a square Cap--If you would succeed,
+
+you must throw off that Pedant, and assume the Gentleman, learn the Toss
+
+of the Head, and know the Principles of each Man by the Cock of his Hat.
+
+_Sancho._ How's that, pray?
+
+_Fran._ Oh! I'll teach you: If you be but willing to improve, I'll
+
+warrant you carry the Lady.
+
+_Sanch._ But I am to be married to her as soon as I see her, so my
+
+Father told me, and that her Father admired a Scholar above all Things.
+
+_Fran._ I'll improve that Hint--Ay, as I told you, a Scholar that is
+
+read in Men, not in Books.
+
+_Sancho._ In Men, what's that? in Men! _Tristram_, what does he mean?
+
+what Man is to be read? In Men! I don't understand you; but you'll teach
+
+me, you say.
+
+_Fran._ Ay, ay, I'll give you a Lesson upon that Subject.
+
+_Sancho._ Very well; but what shall I do for Cloaths to dress like a
+
+Gentleman?
+
+_Fran._ If you please to step into my Lodgings here, I'll equip you
+
+with a Suit of mine till you can have one made, and there I'll teach you
+
+a little of the Town breeding, and I warrant you you'll succeed.
+
+_Sancho._ Come on; faith I long to become thy Scholar.
+
+_Fran._ And I to make you an Ass.                             [_Exit._
+
+     _Enter_ Eugenio _and his Man_.
+
+_Eug._ What can this mean; where e'er I come the News is current of my
+
+Death, yet not two Days since, I wrote and received Letters from my
+
+Father, and here the Rumour goes, I have been dead this fortnight! I am
+
+resolv'd to know the Grounds, if possible. _Pedro_, go get me some
+
+Disguise, and for your Life discover not who I am, I'll stay here at
+
+this Inn 'till you return, and in the mean Time think what Method to
+
+pursue my Project in.                                         [_Exit._
+
+SCENE _changes to the Grove_. Lucasia _sola_.
+
+  _Lucasia._ Methinks this silent solitary Grove
+
+  Should strike a Terror to such Hearts as mine;
+
+  But Love has made me bold, the Time has been,
+
+  In such a Place as this, I should have fear'd
+
+  Each shaking Bough, and started at the Wind,
+
+  And trembled at the Rushing of the Leaves;
+
+  My Fancy would have fram'd a thousand Shapes;
+
+  But now it seems a Palace,
+
+  Delightful as the Poets feign
+
+  The _Elizian_ Fields; Here do I expect
+
+  To meet my Love, my faithful, dear _Palante_.
+
+  Why does he stay thus long? when last we
+
+  Parted, each Hour he said wou'd seem a Year,
+
+  Till we were met again, and yet I'm here
+
+  Before him; I'll rest a while, for come I
+
+  Know he will.                                 [_Goes and sits down._
+
+     _Enter_ Palante _and_ Clerimont.
+
+  _Pal._ This _Clerimont_, this is the happy Place,
+
+  Where I shall meet the Sum of all my Joys,
+
+  And be possest of such a vast Treasure
+
+  As wou'd enrich a Monarch to receive;
+
+  And thou, my Friend, must give her to my Arms.
+
+_Luc._ 'Tis my _Palante_'s Voice.                    [_Comes forward._
+
+  _Pal._ My Life, my Soul, what here before me? still
+
+  Thou prevent'st me in the Race of Love, and
+
+  Makest all my Endeavours poor in Competition
+
+  With thy large Favours----
+
+  But I forget, Dearest; bid my Friend here welcome,
+
+  This is he whom I dare trust, next my own
+
+  Heart, with Secrets.
+
+  _Luc._ I must admire him that loves _Palante_;
+
+  Friendship's a noble Name, 'tis Love refin'd;
+
+  'Tis something more than Love, 'tis what I wou'd
+
+  Shew to my _Palante_.
+
+  _Cler._ It is indeed a Beauty of the Mind, a Sacred Name,
+
+  In which so brightly shines that Heavenly Love,
+
+  That makes th' immortal Beings taste each others Joy;
+
+  'Tis the very Cement of Souls. Friendship's
+
+  A Sacred Name, and he who truly knows
+
+  The Meaning of the Word, is worthy of Estimation.
+
+  No Pains he'll spare, no Difficulties start,
+
+  But hazard all for th' Int'rest of his Friend.
+
+  _Pal._ Ay! Now methinks I'm Emperor of the World,
+
+  With my inestimable Wealth about me:
+
+  To such a Mistress, such a Friend, what can be
+
+  Added more to make me happy?----
+
+  Oh! thou darksome Grove, that wont to be call'd
+
+  The Seat of Melancholy, and Shelter
+
+  For the discontented Souls! sure thou'rt wrong'd!
+
+  Thou seem'st to me a Place of Solace and Content?
+
+  A Paradise! that gives me more than Courts
+
+  Cou'd ever do: Blest be then thy fair Shades,
+
+  Let Birds of Musick always chant it here;
+
+  No croaking Raven, or ill-boding Owl,
+
+  Make here their baleful Habitation:
+
+  But may'st thou be a Grove for Loves fair Queen
+
+  To sport in, for under thy blest Shade two faithful
+
+  Lovers meet----Why is my _Lucasia_ sad?
+
+  _Luc._ I know not, but I long to quit this Place,
+
+  My Thoughts seem to divine of Treachery,
+
+  But whence I know not; no Creature's conscious
+
+  To our meeting here but _Laura_; I have always
+
+  Found her honest, and yet I would she did not know it.
+
+  _Pal._ 'Tis only Fear assaults thy tender Mind;
+
+  But come, my Friend, let's to the Cell adjoining
+
+  To this Grove, and there the Priest
+
+  Shall make us one for ever.                               [_Exeunt._
+
+     _Enter_ Larich _and_ Lavinia.
+
+_Lar._ Come, set your Face in order, for I expect young
+
+_Sancho_ here immediately, he arriv'd in Town last Night, and
+
+Sent me Word but now, he'd be here in an instant.
+
+_Lav._ But, Sir.
+
+_Lar._ Sir me no Sirs, for I'm resolv'd you shall be married
+
+to Night.
+
+     _Enter a Servant._
+
+_Serv._ Sir, here's a Gentleman to wait on you calls himself
+
+Don _Sancho_.
+
+_Lar._ Odso, shew him up; now, you Baggage, you shall
+
+see the Pink of Learning, one that can travel thro' the whole
+
+World in an Afternoon, and sup in _Palermo_ at Night, ha!
+
+you shall; you'll be as wise as the _Sibyls_ in a Month's Time,
+
+with such a Husband, and will bring forth a Race of Politicians
+
+that shall set the World together by the Ears, then
+
+patch it up again in the supping of a poach'd Egg.
+
+     _Enter_ Sancho _and_ Tristram.
+
+_Lar._ Save you, Sir.
+
+_Sanc._ You don't think me damn'd, Sir, that you bestow that Salutation
+
+upon me?
+
+_Lar._ By no Means, Sir, 'tis only my Way of expressing a hearty
+
+Welcome.
+
+_Sanc._ Sir, your humble Servant: Is this your fair Daughter, Sir?
+
+_Lar._ Yes, Sir.
+
+_Sanc._ She's very handsome, Faith.
+
+_Lar._ She's as Heaven made her.
+
+_Sanc._ Then she shou'd be naked; the Taylor shou'd have no Hand in
+
+her--I suppose you know my business, shall we be married instantly?
+
+_Lar._ Won't to-morrow serve, Sir? I wou'd first hear a little of your
+
+Proceedings in the University; came you from _Salamanca_ now, Sir?
+
+_Sanc._ From _Salamanca_! What do you see in my Face that shou'd make
+
+you judge me such a Coxcomb?
+
+_Lar._ Your Father writ me word, that his Son that was to marry my
+
+Daughter, was a Scholar, wholly given up to Books.
+
+_Sanc._ My Father was an errant Ass for his Pains, I ne'er read a Book
+
+in my Life but what I was beat to, and those I forgot as soon as I left
+
+School: A Scholar! he lies in his Throat that told you so.
+
+_Lav._ In my Conscience, Sir, you may believe him; I dare swear he never
+
+saw a Book except the Chronicle chain'd in his Father's Hall.
+
+_Lar._ Hold your Tongue, Hussy; how now?
+
+_Sanc._ Sir, I understand a Horse, a Hawk, or Hound, as well as any Man
+
+living; nay, I understand Men too; I know now that you are an old
+
+covetous Hunks, by the sett of your Hat now; but no Matter for that,
+
+your Daughter is the better Fortune.
+
+_Lav._ The Fool has hit right upon my Father, we shall have rare Sport
+
+presently.
+
+_Sanc._ I have studied Men, Sir----I know each Man's inward Principle by
+
+his out-side Habit.
+
+_Lav._ Does your profound Knowledge reach to Women too, Sir?
+
+_Lar._ You will be prating----
+
+_Sanc._ Look you, Sir, observe the Management of my Hat now----This is
+
+your bullying Gamester.                  [_Three Corners short Pinch._
+
+_Lar._ What the Devil have we here! z'death this can never be Don
+
+_Sancho_'s Son?
+
+_Lav._ This is indeed the Pink of Learning, Sir--I shall be as wise as
+
+the _Sybils_ with such a Husband; ha, ha, ha.
+
+_Sanc._ Your Beaus wear their Hats [_Offering to put it on._] no, hold,
+
+thus, Sir; [_Clapping it under his Arm._] your conceited Wit, thus,
+
+[_Putting it on over the left Eye._] and your travell'd Wit thus [_Over
+
+the right Eye without a Pinch._] your Country 'Squire, thus, [_Putting
+
+it behind his Wig._]
+
+_Lar._ I wonder how an Ass wears it, I'm sure thou art one; I am amaz'd!
+
+this must be some Trick certainly.                           [_Aside._
+
+_Lav._ What think you now, Sir, shall we get a Race of Politicians? In
+
+my Conscience this falls out as well as I could wish. Oh that I could
+
+but once see _Francisco_.                                    [_Aside._
+
+_Lar._ Huzzy, hold your Tongue, or----or----
+
+                                                 [_Holds up his Cane._
+
+This may be some of your Contrivance, for ought I know. This is a very
+
+great Blockhead; Ounds, I--I--I--have a good Mind to add one Fashion
+
+more to your Hat, and knock it down to your Crown.
+
+_Sanc._ Evermore, Sir, when you see a Man wear his Hat thus, [_Pulling
+
+it down on both Sides._] he's a Projector, a Projector, Sir, or a Member
+
+of the Society of the Reformation of Manners, [_In another Tone._] What
+
+think you of this, old Gentleman? ha! is not this a greater Knowledge
+
+than ever Man attain'd to by Books? ha!
+
+_Lar._ I admire that my old Friend, knowing my Aversion for these
+
+foolish Fopperies, shou'd breed up his Son to 'em, then write me Word
+
+he had made him a Scholar, purposely because I was a Lover of Learning;
+
+pray, Sir was you ever in _Palermo_ before?
+
+_Sanc._ No, Sir; but I like it very well now I am in't.
+
+_Lar._ I must be satisfied that you are Seignor _Sancho_'s Son, e'er I
+
+shall like you for mine.                                     [_Aside._
+
+_Sanc._ What think you of a Glass of Champaign, Sir? If you'll go to the
+
+Tavern, I'll give you a Bottle of the best the House affords; what say
+
+you, old Dad? ha! and there we will consult about our Marriage.
+
+_Lar._ If you'll go to the Tavern that joins to the Piazza, I'll wait on
+
+you in a quarter of an Hour.
+
+_Sanc._ Sir, I shall wait your Pleasure.
+
+_Lar._ I took the Hint, to get rid of him, what shall I do to find the
+
+Truth of this?                                              [_Exeunt._
+
+     _Enter a Servant._
+
+_Serv._ Sir, a Scholar enquires for you.
+
+_Lar._ A Scholar! admit him immediately.
+
+     _Enter_ Francisco _in_ Sancho_'s Habit_.
+
+_Fran._ So, I watch'd _Sancho_ out, now for my Cue.          [_Aside._
+
+If you be the venerable Man to whom this goodly Mansion is impropriated;
+
+I come to negociate about authentic Business.
+
+_Lav._ This rather shou'd be Don _Sancho_'s Son----his Words and Habit
+
+speak him most learned----I am the Person, pray let me be bold to crave
+
+your Name.
+
+_Fran._ My Appellation, or _pro Nomen_, as the Latins term it, is call'd
+
+_Jeremie_; but my _Cognomen_, in our Mother Tongue, is call'd _Sancho_.
+
+_Lav._ Ha! upon my Life 'tis _Francisco_; oh, for an Opportunity to
+
+speak to him: I hope to Heaven, my Father won't find out the Cheat.
+
+                                                             [_Aside._
+
+_Lar._ Ay, this is he, this is he; what Don _Sancho_'s Son?
+
+_Fran._ The _Nominals_, the _Thomists_, and all the Sects of old and
+
+modern School-men, do oblige me to pay to that Gentleman filial Duty.
+
+_Lar._ I am glad to hear it with all my Heart, I know the other must be
+
+an Imposter, but I'm resolv'd to apprehend and punish him: Sir, you are
+
+welcome; I guess your Business, my Daughter is yours.
+
+_Fran._ My Business is about Propagation, as the civil Lawyers do
+
+learnedly paraphrase, is of Concomitance, or Cohabitation, or what you
+
+please to term it.
+
+_Lar._ How am I blest that this wonderful Scholar shall be match'd into
+
+my Family----Daughter, what say you now, here's a Husband for you now,
+
+here's a Husband for you.
+
+_Lav._ Pray Heaven you hold but in the Mind 'till you have made him
+
+such.                                                        [_Aside._
+
+_Lar._ Does he not speak like an Oracle? 'egad I'll maintain't, he shall
+
+put down ten Universities and Inns of Court in twenty Syllables----Pray,
+
+Sir, speak learnedly to my Girl, for, tho' I say it, she has a good
+
+Capacity.
+
+_Fran._ Most rubicund, stilliferous, splendant Lady, the occular
+
+Faculties by which the beams of Love are darted into every Soul, or
+
+human Essence, have convey'd into my Breast the Lustre of your Beauty;
+
+and I can admire no other Object; therefore pardon me, Sir, if I only
+
+express myself in Terms Scholastic, and in Metaphors, my Phrase to her.
+
+                                                 [_Turning to_ Larich.
+
+_Lar._ Learned, learned, young Man, how happy am I in thee?
+
+_Lav._ Now do I long to see my Father's Back turn'd, that he might
+
+change his learned non-sense, and talk more modern, to talk more wise;
+
+you may spare your Rhetoric, Sir, unless you come down to my
+
+Understanding; but I know just enough of your Meaning, to tell you it
+
+does not suit with my Inclination.
+
+_Lar._ What don't suit with your Inclination, ha, forsooth?
+
+_Lav._ Marriage, Sir.
+
+_Lar._ 'Tis false, hussy, you have an Inclination, and you shall have an
+
+Inclination; not an Inclination, quoth the Baggage: Sir, I say she's
+
+yours, come into the next Room, and I'll have the Settlement drawn
+
+immediately, and you shall be married to Night. Not an Inclination!
+
+                                                              [_Exit._
+
+ACT III. SCENE _the Street_.
+
+_Enter_ Eugenio.
+
+  _Eug._ Thus in Disguise I shall discover all,
+
+  And find the Cause of my reported Death,
+
+  Which does so much amaze me.
+
+A Month ago my Father sent me Word, that I shou'd hasten my Journey to
+
+_Palermo_; and I met the Post upon the Road, that gave me a Letter,
+
+wherein he strictly charges me not to come this three Months: No sooner
+
+had I enter'd the Town, but I met the Rumour of my Death, which still
+
+surpris'd me more; but this Letter shall help me to the Knowledge of the
+
+Truth.                 [_Shews a Letter, goes to the Door and knocks._
+
+     _Enter_ Rosco.
+
+_Rosc._ Who'd you speak with Friend?
+
+_Eug._ With the Lord _Gravello_, if you please, Sir.
+
+_Ros._ Marry gap, and can't I serve your Turn? Nothing but my Lord, good
+
+lack! I guess he knows you not; pray what's your Business? What's your
+
+Name? From whence come you? What do ye want? I believe you are of no
+
+such Extraction, that you shou'd be introduc'd to my Lord; let me be
+
+judge, whether your Affair requires his Lordship's Ear, else, Friend, I
+
+shall bring you but a scurvy Answer; either he's busy, or a-sleep, or
+
+gone abroad, any of these are sufficient for your Quality, I suppose.
+
+_Eug._ Thus great Men always are abus'd, because there's no Access, but
+
+through such Knaves as thee? then I'll return my Message back unto his
+
+Son, and bid him employ a finer Fellow, if he expects that he should see
+
+his Father.                                                  [_Going._
+
+_Ros._ Ha! his Son! stay, Sir, and forgive me; here comes my Lord.
+
+     _Enter Count_ Gravello, Rosco _goes and whispers him_.
+
+_Grav._ Wou'd you ought with me, Friend?
+
+_Eug._ If you be the Lord _Gravello_.
+
+_Grav._ The same.
+
+_Eug._ I came from _Rome_, my Lord; laden, I hope, with happy Tidings,
+
+and after the sad Report I have met with, I dare say, welcome; your Son
+
+_Eugenio_ lives, and with his Duty, recommends this Letter to your
+
+Lordship's Perusal.
+
+_Grav._ How! does my Boy live? Oh! I'm overjoy'd, for I thought him
+
+dead. _Rosco_, reward him for his Tidings, reward him largely, _Rosco_.
+
+_Ros._ There's a Pistole for you, eat like an Emperor, d'ye hear, till
+
+that be out.
+
+_Grav._ He writes me Word that you are a Gentleman fallen to Decay, and
+
+begs that I would take you into my Service: I have no Place vacant at
+
+present, but the first that falls worth your Acceptance, shall be yours;
+
+in the mean Time command my House. [_I must not let him suspect I knew_
+
+Eugenio _was alive_] the happy News that thou hast brought me, has
+
+rais'd me from the Vale of Death; but tell me, Friend, hast thou
+
+reveal'd this to any in _Palermo_, but myself?
+
+_Eug._ To none. For tho' I met the tragic Story in every Street through
+
+which I pass'd, still I conceal'd the Truth, intending your Lordship's
+
+Ear should first receive it.
+
+_Grav._ Thou hast done exceeding well; _Rosco_, give him a double
+
+Reward, a double Welcome; I have some private Reasons to myself, that it
+
+should still be kept a Secret, which if thou'rt faithful, thou in Time
+
+shalt know.
+
+_Eug._ Fear not, my Lord, I am no Blab; I ever thought a slippery Tongue
+
+Mankind's Shame. What can this mean?                         [_Aside._
+
+_Ros._ This is a notable Fellow.
+
+_Grav. Rosco_, bid him welcome; tell him my House is his, bid him be
+
+free.
+
+_Ros._ As long as you have Occasion for him----Sir, I am your most
+
+obedient, most devoted, and thrice humble Serviteur; command the Pantry,
+
+Cellar, Maids, Chambers----for in these I rule, and these are at your
+
+Service, Sir.                                           [_Bowing low._
+
+_Eug._ I thank you my quondam Friend; but a quiet Residence in my Lord's
+
+House, the Time I stay, satisfies my Desires.
+
+_Ros._ A worthy Man, upon my Faith. Oh! my Lord, here comes the
+
+Bridegroom, I know by this Fellow's being out of Breath.
+
+     _Enter a Servant._
+
+_Serv._ My Lord Count _Pirro_ so fine, so brisk, so ugly.
+
+_Grav._ How, how, Sirrah, ugly?
+
+_Serv._ So handsome, I mean, Sir; Pox on't, how came my Head to run so
+
+of Ugliness?
+
+_Ros._ Seeing the Count, I warrant thee _Jack_.
+
+_Grav._ Be gone, Varlet, and attend his coming.             [_Exeunt._
+
+_Eug._ Ha! Count _Pirro_, the Bridegroom--and, my Life a Secret; I begin
+
+to find the Cause.                                           [_Aside._
+
+     _Enter Count_ Pirro.
+
+_Pir._ I came my Lord, to claim your Promise, and receive into my Arms
+
+the beautiful _Lucasia_.
+
+_Grav._ And I'll acquit myself instantly. Within there--call _Lucasia_.
+
+     _Enter_ Laura.
+
+_Laura._ My Lord.
+
+_Grav._ My----call your Lady; what does your Flurtship do here? I want
+
+your Mistress----why don't the Wench stir?
+
+_Laura._ My Lord, I don't know.----
+
+_Grav._ What don't you know? nay, no grinding between your Teeth, speak
+
+out.
+
+_Laura._ Why then, my Lord, I don't know where she is.
+
+_Grav._ 'Tis false, 'tis impossible; when went she out? and whither?
+
+Speak ye confederate Mischief; how long ago, I say? Confess, or I'll
+
+have ye rack'd.
+
+_Laura._ She would not take me with her to prevent Suspicion; and now
+
+all must out, for my Limbs will never bear stretching, that's certain.
+
+                                                             [_Aside._
+
+_Grav._ What are you inventing a Lye----don't stand muttering your
+
+Devil's Pater-noster there, but speak quickly--or--
+
+                                                   [_Draws his Sword._
+
+_Laura._ Oh hold, it was, my Lord, my Lord, a, a, a----
+
+_Grav._ What was it? speak.
+
+_Laura._ It was a great while ago, my Lord.
+
+_Grav._ Ha, speak to the Purpose, or thou dy'st.
+
+_Laura._ No, no, no, my Lord, it was----it was just now; what shall I
+
+say to save my unhappy Mistress?                             [_Aside._
+
+_Pirro._ You terrify the Creature so, that we shall never learn the
+
+Truth, my Lord; don't tremble so, Sweetheart, but tell when went your
+
+Lady out, and whither?
+
+_Grav._ Away my Lord, my Sword shall fetch the Secret forth; Huzzy,
+
+speak, or by this Hand, this Minute is thy last.
+
+                                     [_Holds his Sword to her Breast._
+
+_Laura._ Oh, hold Sir, and I will tell you all; I do confess.
+
+_Grav._ What?
+
+_Laura._ It must out; that my Lady's fled to meet _Palante_ in the
+
+Eastern Grove, and I believe, by this, they are married.
+
+_Grav._ Fly and escape my Fury, thou more than Devil.
+
+               [_Straps her with his Sword, she shrieks and runs off._
+
+Now, my Lord of _Pirro_, you that so kindly came this Day to comfort me,
+
+how shall I look you in the Face? or what Reparation can I make you, if
+
+my Daughter's lost? Within there! raise the House, take Officers
+
+immediately, I charge you; fly to the Eastern Grove, and seize my
+
+Daughter and all that you find with her: We'll have Revenge, my Lord, at
+
+least.
+
+_Pirro._ There's yet a Pleasure left in that, and I'm resolv'd my Arm
+
+shall give him Death; let's to the Grove, my Lord.
+
+_Rosco._ Do you consider, my Lord, the Danger of your rash Attempt, the
+
+Law will do you right; 'tis present Death in _Sicily_, to steal an
+
+Heiress without her Friends consent; first secure him, and his Lifes
+
+yours.
+
+_Eug._ 'Tis as I suppose; oh Treachery!                      [_Aside._
+
+_Grav. Rosco_, thou art an Oracle, that Way the Revenge is more secure
+
+and certain. I'll after 'em, and see the Traitor brought to condign
+
+Punishment.                                        [_Exit with_ Rosco.
+
+_Pirro._ I'll to the Governor, and prepare him for the Judgment, my
+
+Interest there will surely sign his Death.                   [_Going._
+
+_Eug._ Am I alive? do I breathe? can I have a human Soul, and suffer
+
+this injustice to proceed? Poor _Palante_, must thou die, because
+
+Fortune has not blest thee with her Favours; No, something I will do to
+
+save thee; and yet, if possible not discover who I am. My Lord----
+
+                  [_Pulls Count_ Pirro _by the Sleeve as he goes out_.
+
+_Pirro._ What art thou?
+
+_Eug._ A poor Poet, my Lord, little beholden to Fortune.
+
+_Pirro._ None of thy Profession are, take up some more thriving
+
+Occupation; turn Pimp, Solicitor, Gamester, any Thing will do better
+
+than Rhiming; there's something for thee, I'm in Haste now.
+
+_Eug._ My Lord, I thank you for your Charity, and your good Advice; but
+
+I have some for you too.
+
+_Pirro._ For me! what is't?
+
+_Eug._ I understand, my Lord, that you are to marry my Lord _Gravello_'s
+
+Daughter.
+
+_Pirro._ Yes, an Heiress----
+
+_Eug._ No Heiress, my Lord, her Brother is alive.
+
+_Pirro._ The Fellow's mad.
+
+_Eug._ What I say is certain Truth; and to my Knowledge, his Father
+
+gives out the Report of his Death only as a Bait for you.
+
+_Pirro._ Ha! where is he?
+
+_Eug._ In this Town conceal'd till your Marriage be over; know I hate
+
+this Family, and that makes me discover it.
+
+_Pirro._ Does he hate the Family? then perhaps he has only forg'd this
+
+Lye to hinder _Lucasia_ from marrying into mine; I'll try him farther.
+
+                                                             [_Aside._
+
+Art thou sure he is alive?
+
+_Eug._ As sure as that I live myself; my Lord, I saw him not two Hours
+
+ago; I wish he was not, for your Lordship's sake: I am his Domestic, and
+
+come now to learn Intelligence; I loath my Servitude, detest the proud
+
+Family, and shou'd rejoice to see 'em ruin'd.
+
+_Pirro._ From whence proceeds thy Hate? the World reports _Eugenio_ a
+
+Man of Honour, Honesty and Courage.
+
+_Eug._ That Part of the World that thinks him such, sees thro' the wrong
+
+End of the Prospective; his Honour's but Pretence, his Honesty
+
+Hypocrisy, and his Courage Lewdness; he ravisht a Sister of mine at
+
+_Rome_, for which I never can forgive him.
+
+_Pirro._ This Fellow, I find is ripe for Mischief; and if I durst trust
+
+him, wou'd, for a large Reward, remove _Eugenio_, and make _Lucasia_
+
+indeed an Heiress; and 'twere but just, since Count _Gravello_ did
+
+design to wrong me of his Estate, why shou'd not I rob him of his Son?
+
+where could be the Danger of this Act; I can't fore-see any, for he has
+
+already given it out he's dead, and therefore dares not search into the
+
+Matter; but is it safe to trust this Stranger, he may betray my Purpose,
+
+or not do it; yet 'tis reasonable to think the contrary, for he hates
+
+him for his Sister's Rape, and therefore would be glad to meet Occasion
+
+to revenge it, especially when usher'd in by a great Sum: I'm resolv'd
+
+to break it to him. [_Aside._] What is your Name, Friend?
+
+_Eug._ _Irus_, my Lord.
+
+_Pirro._ Your Name as well as Habit speak you poor.
+
+_Eug._ I'm poor enough, my Lord.
+
+_Pirro._ Very poor?
+
+_Eug._ Very poor, my Lord.
+
+_Pirro._ Would you not gladly mend your Fortunes.
+
+_Eug._ I wish your Lordship would shew me the Way.
+
+_Pirro._ What think you now of taking Revenge for your Sister's Rape,
+
+ha?
+
+_Eug._ Alas! my Lord, that I wou'd have done long ago, but Want
+
+prevented my Escape.
+
+_Pirro._ Say'st thou so? my Friend: well, poison this _Eugenio_, and
+
+thou shalt not want; for thy Reward, a thousand Crowns are thine.
+
+_Eug._ Think it done, my Lord, nor will I receive my Hire till I have
+
+brought you a certain Proof _Eugenio_ is no more; all I ask is but your
+
+Hand to the Agreement, my Lord, that I may be sure of my Reward.
+
+_Pirro._ I'll give it thee----We must be safe, for his Father will be
+
+asham'd to prosecute, after his reported Death. I must confess I lov'd
+
+_Lucasia_ as an Heiress, but was she ten times as fair, I would not
+
+marry her without the Dowry, therefore make sure my Fortune by thy
+
+Master's Death.
+
+_Eug._ He dies this Night.
+
+SCENE _changes to the Grove_.
+
+_Enter_ Palante, Lucasia, _and_ Clerimont.
+
+  _Pal._ 'Tis done, 'tis done, the Sacred Knot is ty'd,
+
+  And bright _Lucasia_ is for ever mine.
+
+  I ne'er till now did taste the Sweets of Life;
+
+  Or the transporting Extasy of Joy.
+
+  Burst not ye feeble Ministers of Nature,
+
+  With the vast Excess of swelling Pleasure.
+
+  Oh! my Friend, what shall I say to thee?
+
+  _Cler._ This is no Time for Talk or Transports,
+
+  Make Use of my Fortune, and fly till the Pursuit is over.
+
+  _Pal._ Oh! _Clerimont_, I'm bankrupt every Way,
+
+  Both to thee, and to my fair _Lucasia_.
+
+  Still thou art sad, my Love.
+
+  _Luc._ My Sadness does proceed from Fear for thee,
+
+  Take your Friend's Counsel, let us fly this Place.
+
+  Hark! What Noise is that? ha me, we're lost.
+
+     _Enter_ Gravello, Eugenio, Rosco, _and Officers_.
+
+  _Grav._ Fall on Officers, there they are.
+
+  _Cler._ Thieves.
+
+  _Pal._ Villains!
+
+  _Grav._ Thou art thyself the Thief and Villain too;
+
+  Give me my Daughter thou Ranter.
+
+  _Pal._ First take my Life.
+
+  _Grav._ Fall on, I say; down with 'em if they resist.
+
+  _Luc._ Oh! we are undone, wicked, wicked _Laura_.
+
+  _Pal._ Come on, Slaves.
+
+  _Cler._ We shall not surrender tamely.
+
+                     [_They fight, but are disarm'd by the Multitude._
+
+  _Grav._ So, keep 'em fast, we'll have 'em faster shortly.
+
+  For you, Minion, I shall secure you from a second 'Scape.
+
+  _Luc._ Yet do but hear me, Father.
+
+  _Grav._ Call me not Father, thou disobedient Wretch,
+
+  Thou Vagabond, thou art no Child of mine;
+
+  My Daughter was bred up to Virtue.
+
+  _Luc._ For you my Mother wou'd have done as much:
+
+  If Need had so required;
+
+  Think not that my Mind e'er stray'd from Virtue;
+
+  Oh! listen to the Voice of my Prayer, and Crown
+
+  It with rich Mercy.
+
+  _Grav._ Off, Strumpet, Officers away with the Criminals,
+
+  They both shall die.
+
+  _Pal._ Now I must speak, oh spare my Friend, for he
+
+  Is innocent.
+
+  _Cler._ If thou must die, _Palante_, I have no
+
+  Other Wish, but to suffer with thee.
+
+  _Grav._ That Wish assure thyself thou shalt obtain.
+
+  _Luc._ Oh, stay blood-thirsty Men, stay and hear me
+
+  But a Word, and that shall be my final Resolution.
+
+  If thou, my cruel Father wilt not hear,
+
+  But dost proceed to spill the Blood of him
+
+  In whom my Life subsists, remember, Sir,
+
+  I am your Daughter, once you did love me;
+
+  Oh! tell me then, what Fault can be so great
+
+  To make a Father murderer of his Child?
+
+  For so you are in taking his dear Life;
+
+  Do not think that I will stay behind him.
+
+  No, whilst there's Asps, and Knives, and burning Coals;
+
+  No _Roman_ Dame's Example shall outgo
+
+  My Love.
+
+  _Pal._ Oh! my _Lucasia_, thou hast touch'd my Soul!
+
+  Barely but to imagine thou must die,
+
+  Will make me restless in my silent Grave.
+
+  Is not my Death sufficient, barbarous Man?
+
+  But must _Lucasia_'s Woe be added too?
+
+  Dry up those Tears, my Wife, my lovely Bride,
+
+  Or thou wilt make me truly miserable,
+
+  Preserve thy Life, that I may after Death,
+
+  In thee my better Part survive.
+
+  For thee and for my Friend my only Prayers shall be,
+
+  If you both live, _Palante_ dies with Pleasure.
+
+  _Grav._ Away with 'em, and let the Law decide it.
+
+  _Luc._ I too alike am guilty;
+
+  O let me share the Punishment with them,
+
+  Thou shalt not go alone, take me with thee;
+
+  Here are my willing Hands, quick bind 'em fast,
+
+                                           [_Runs and clasps_ Palante.
+
+  Else here I'll hold 'till my last Breath expires.
+
+  _Grav._ Ungracious Viper, let go the Traitor.
+
+  _Luc._ What to die? Oh, never!
+
+  _Pal._ Had I a hundred Lives, the Venture had
+
+  Been small for such a Prize.
+
+  A Face not half so fair as thine has arm'd
+
+  Whole Nations in the Field for Battle ripe:
+
+  And brought a thousand Sail to _Tenedos_,
+
+  To sack lamented _Troy_, and shou'd I fear
+
+  To hazard one poor Life for thee, my Fair?
+
+  A Life that had been lost without thy Love,
+
+  For thou'rt both Life and Soul to thy _Palante_.
+
+  _Luc._ I'll clasp him like the last Remains of Life.   [_Holds him._
+
+  And struggle still with never dying Love.
+
+  _Grav._ Then thus I dash thee from him, thou Stranger
+
+                                        [_Pushes her, and falls down._
+
+  To my Blood, there lie and grovel on the Earth, and thank the
+
+  Powers I do not kill thee; away to Justice with the Traitors.
+
+  _Pal._ If there be a Torment beyond this Sight,
+
+  Then lead me to it, that I may taste all
+
+  The Variety of Misery, and
+
+  Grow compleatly wretched.
+
+  Oh, inhuman Cruelty!
+
+  Slaves give me Way, that swift as Lightning,
+
+  I may dash him dead that wrong'd _Lucasia_.
+
+  You spiteful Powers, show'r all your Curses down,
+
+  Augment the Weight, and sink me all at once.
+
+_Grav._ Away with the Traitor.
+
+_Pal._ Oh, let me first embrace my Love, my Wife.
+
+_Grav._ By Hell, he shall not.
+
+  Pal. _So when a Ship by adverse Winds is tost,_
+
+       _And all the Hopes to gain the Port is lost,_
+
+       _The trembling Mariners to Heaven cry,_
+
+       _And all in vain, for no Relief is nigh._
+
+       _Around fierce Terrors strike the aking Sight;_
+
+       _So I when shut from that all-charming Light,_
+
+       _Like them must plunge in everlasting Night._
+
+                                                    [Exit. forc'd off.
+
+_Grav._ I'll to the Governor, and urge my injur'd Suit. _Rosco_ and
+
+_Irus_, guard that wretched Woman; take Care that she neither sends nor
+
+receives a Message.                                           [_Exit._
+
+_Rosco._ Yes, my Lord.
+
+_Eug._ My very Heart bleeds to see two such faithful Lovers parted;
+
+methinks my Lord's too cruel in this Action.
+
+_Ros._ Ay, ay, Friend; but we are to obey, not to dispute his Will.
+
+_Eug._ I can scarce forbear revealing myself, but I will reserve it for
+
+a fitter Hour; her Grief's so great, I fear it has deprived her of her
+
+Senses; look up, Madam.
+
+_Luc._ Where's my _Palante_, gone to death? Oh Heav'n!
+
+  Then shall I be mad, indeed? what are you,
+
+  Officers of Justice! I'm ready, Sir.
+
+_Eug._ No, Madam, I am one my Lord your Father left to attend you.
+
+_Luc._ Attend me! alas, I need no Attendance.
+
+_Eug._ Do not reject my Service.
+
+  _Luc._ All Service comes too late to miserable me;
+
+  My Fortune's desperate grown.
+
+  _Eug._ Believe me, Madam, I have a feeling Woe;
+
+  A greater your own Brother could not have:
+
+  Think not I'm suborn'd to do you wrong,
+
+  By all the Pow'rs I'm your trusty Friend,
+
+  Command me any Thing, and try my Faith.
+
+  _Ros._ This is a rare spoken Fellow; I can't put in a Word.
+
+  _Luc._ Oh! 'tis most prodigious;
+
+  Cou'd I lose Pity in a Father's Breast,
+
+  And find it in a Stranger's? I shall not
+
+  Live to thank you, Sir, but my best Prayers go
+
+  With you.
+
+  _Eug._ 'Tis not for Thanks, nor for Reward I look,
+
+  But the Sacred Love I bear to Virtue,
+
+  Makes me offer this.
+
+  _Luc._ Surely this poor Man is nobly bred, howe'er
+
+  His Habit speaks him.      _[Aside._
+
+  All Physic comes too late to my sick Mind,
+
+  Since there's no Hopes of my _Palante_'s Life.
+
+_Eug._ Unless the Governor will please to pardon him, 'twas good that he
+
+were mov'd.
+
+_Ros._ Be not so forward, Friend, I say; in my Conscience this Fellow
+
+will betray _Eugenio_ lives.
+
+_Eug._ Peace, Fool.
+
+_Ros._ You are something free, methinks.
+
+  _Luc._ Who shall dare to make that Supplication?
+
+  My Father and the Count of _Pirro_ rules;
+
+  Yet I wou'd venture if I knew which Way.
+
+_Eug._ So meritorious is the Act, that I wou'd stand the Test in giving
+
+you the Liberty to sue.
+
+_Ros._ How, Sir?
+
+_Eug._ Peace, Muckworm, or my Sword shall stop thy Breath for ever.
+
+_Ros._ A desperate Fellow this, I dare not contradict him.
+
+  _Luc._ A thousand Blessings on you for your Care,
+
+  _Yes, I will go, grant it ye Powers above;_
+
+  _If you had e'er regard to injur'd Love:_
+
+  _Teach me such Words as may his Pity move;_
+
+  _Let it pierce deep into his stony Heart,_
+
+  _In all my Sufferings make him feel a Part._
+
+  _Oh make him feel the Pangs of sharp Despair,_
+
+  _That he may know what wretched Lovers bear:_
+
+  _My Sighs and Tears shall with Intreaties join,_
+
+  _That he would save_ Palante's _Life, or sentence mine:_
+
+  _But if relentless to my Prayers he be,_
+
+  _And he must fall, then welcome Destiny._
+
+  _Fate does our Lives so close together twine,_
+
+  _Who cuts the Thread of his unravels mine._                 [Exeunt.
+
+SCENE _the Governor's House_.
+
+_Enter the Governor and Count_ Pirro.
+
+_Gov._ Welcome, my dearest Nephew, you are grown a Stranger to the Court
+
+of late, tho' you know my aged Sight receives no Joy without you; but I
+
+can forgive you since Love is the Cause: I hear you have the Lord
+
+_Gravello_'s Consent to marry the fair _Lucasia_.
+
+_Pirro._ I had, my Lord, but am unjustly robb'd of that fair Prize you
+
+mention; my promis'd Bride is stolen by _Palante_, Lord _Euphenes_'s
+
+Foster-Son, a Man far unworthy of _Lucasia_'s Love; her Father with
+
+Officers are gone to apprehend 'em--and bring 'em here before you to
+
+receive their Doom: Oh, Uncle, if ever you had a Kindness for me; if the
+
+being ally'd to you by Blood, or aught I have done, or can hereafter do,
+
+let me intreat you to give the Law its utmost Course: Young _Clerimont_
+
+too assisted in the Rape.
+
+_Gov._ Fear not, Nephew, the Law shall have its Course, and they shall
+
+surely die.
+
+     _Enter_ Euphenes _and Count_ Gravello _at several Doors_.
+
+_Euph._ My Lord, the Governor, I am come begging to you, for _Palante_
+
+my Foster-Son, whom, Childless, I adopted for my own; for him I plead.
+
+_Gov._ What is his Offence?
+
+_Euph._ No heinous Crime, my Lord, no treasonable Plot against your
+
+Person or the State, for then these aged Cheeks wou'd blush to ask
+
+Pardon. No crying Murder stains his Hands, his Fault is only Love:
+
+Unfortunately he has married the Daughter and Heiress to that proud Lord
+
+that follows, and seeks the last Extremity.
+
+_Grav._ I seek no more than what the Law will give; I am abus'd, my
+
+Lord, my Daughter is stoll'n, the only Comfort of my Age: Justice, my
+
+Lord, 'tis Justice that I ask.
+
+_Pirro._ To his just Suit I bend my Knees--be not biass'd by aught but
+
+Justice.
+
+_Euph._ Thou speakest like an Enemy, call it Revenge--not Justice----My
+
+Lord.----
+
+_Gov._ I'll hear no more, be silent; if the Law will save him, he shall
+
+live, if not, he dies; yes, my Lord, you shall have Justice----
+
+                                                            [_Exeunt._
+
+SCENE _changes to_ Gravello's _House_.
+
+_Enter_ Larich, Francisco, _and_ Lavinia.
+
+_Lar._ Body o'me! here's mad Work abroad, my Niece is stolen: I'm
+
+resolv'd to make sure of you; the Priest shall join you instantly.
+
+  _Fran._ Haste, Sir, to consummate our Joy:
+
+  I'll call the Muses from their sacred Hill,
+
+  To emulate your Daughter's Beauty;
+
+  And I'll, myself, in lofty Numbers sing my own
+
+  Epithalamium.
+
+_Lar._ First I'll punish that Impostor----Here, bring in the Prisoner.
+
+_Lav._ Oh! I fear we are undone, _Francisco_.
+
+_Fran._ Pray, Father, delay not my exorbitant Desires.
+
+  _Lar._ But for a Moment, learn'd Son,
+
+  And thy exorbitant Desires shall be satisfied.
+
+     _Enter_ Sancho _and_ Tristram, _forc'd in by Servants_.
+
+_San._ Hey-day! What's the Matter now: Is the old Gentleman grown
+
+generous? Must we take a Bottle in his own House, ha?
+
+_Lar._ Sirrah, you are a very impudent Impostor.
+
+_San._ Hey, what's here, Frank in my Cloaths? what is there a Play to be
+
+acted? ha? what Part must I play? I have acted a Part at the College
+
+e'er now, Pox on't, that College will run in my Head, pr'ythee what am I
+
+to play, _Francisco_.
+
+_Fran._ The Fool, Sir.
+
+_San._ That's something blunt tho' _Frank_.
+
+_Lar._ Ha! what do I hear? _Francisco_? sure that's the Fellow my
+
+Daughter is in Love with, I must enquire into this.
+
+_Fran._ My Reverend Patree, I hope you'll not credit this illiterate
+
+Idiot, you knew me by my Scholastic Breeding.
+
+_San._ Why what does he mean now? Breeding! why, why, why, you wer'nt
+
+half so long at _Salamanca_ as I, _Frank_, if you go to that _Tristram_,
+
+where are my Books, _Tristram_? we'll soon see who's most learn'd.
+
+    [Greek: Geron pithekos ouch alisnotai pagis.]
+
+You must not think to catch old birds with Chaff.
+
+    [Greek: Dis dia pason esti oro allela.]
+
+He knows not a Hawk from a Handsaw.
+
+_Fran._ The Man's distracted, Sir, away with him to Prison.
+
+_San._ To Prison! nay, then the Truth shall out, that Habit's mine, and
+
+these Cloaths are his, he told me that this Lady wou'd hate a Scholar,
+
+and taught me how to act the Bully, fackins he did now, ask _Tristram_
+
+else.
+
+_Lar._ Here's strange juggling, I believe neither of you is Seignior
+
+_Sancho_'s Son.
+
+_Trist._ Bless me, Sir, do you doubt my Master? why he's as like my old
+
+Master as if he was spit out of his Mouth.
+
+_Lav._ Methinks now by the Description, Father, this Scholar must needs
+
+be Don _Sancho_, and this aukward Beau but a Pretender.
+
+_Lar._ Peace, I'll have none of your Judgment.
+
+_San._ A Pretender, odsbud, I find she is in Love with a Scholar, what a
+
+Sot was I to be persuaded to change my Habit, I shall be fobb'd of my
+
+Mistress, by and by, why _Frank_, why thou wilt not fob me wilt thou.
+
+_Lar._ Right, that Project will take,----come who produces me a Letter
+
+from my Friend, I know the Hand, and that shall decide the Business.
+
+_Trist._ Here, here, Sir, here's Letters.
+
+    [_Pulls out a Leather Pouch with Letters, and gives it to_ Larich.
+
+_San._ That's my Father's Hand, I can assure you, Sir, but the Stile is
+
+_Solomon_'s, they are freight with Wisdom, but my Father pays the
+
+Postage.
+
+_Lav._ Now we're undone, we are certainly betray'd.
+
+_Fran._ Have Courage, I will still be near thee, and prevent this
+
+Marriage or lose my Life.
+
+_Lav._ My Woman shall give you Notice of their Proceedings.
+
+_Lar._ I am convinc'd, and worthy Sir, I ask your Pardon, what an Escape
+
+have I had.
+
+_San._ Pr'ythee _Frank_ don't frown so, faith I forgive thee with all my
+
+Heart.
+
+_Fran._ Away you Dolt----
+
+_San._ Fackings _Tristram_, he's woundy out of Humour, I have fob'd him
+
+now Faith, he, he, he.
+
+_Lar._ Sir, I desire your scholastic Breeding wou'd quit my temporal
+
+Habitation [to _Francisco_,] least I commit you to a closer Place, and
+
+thank this Gentleman for your Liberty, 'tis because he has some small
+
+Acquaintance with you, that I don't proceed in a rougher Manner.
+
+_Fran._ I am defenceless now, but I shall find a Time.        [_Exit._
+
+_Lar._ To be hang'd I hope, come Mrs. I suppose you had a Hand in this
+
+wise Plot, I'll prevent your Stratagems, I'll noose and fetter you in
+
+the Chains of Wedlock, then if you plot, let _Sancho_ look to't.
+
+  _For when they are wed the Father's Care is done,_
+
+  Trist. _And the poor doting Husband's just begun._
+
+ACT IV. SCENE _the Governor's House.
+
+The Governor in a Chair reading._
+
+_Gov._ I Have been searching over all our _Sicilian_ Laws, and know they
+
+cannot find one Clause to save _Palante_.
+
+     _Enter a Servant._
+
+_Serv._ A Lady without, my Lord will not be denied your Presence.
+
+_Gov._ Admit her.
+
+     _Enter_ Lucasia.
+
+  _Luc._ Pardon me, Sir, for pressing thus rudely
+
+  On your Privacy, I know 'tis boldness.
+
+  But I hope the Hour's propitious to me,
+
+  Finding you alone, and free from Business,
+
+  I promise myself I shall be heard with Patience.
+
+_Gov._ Were the Business of the World at stake, such
+
+Beauty would claim a Hearing, speak Madam.
+
+_Luc._ Thus low I beg for poor _Palante_'s Life.
+
+_Gov._ Ha!
+
+  _Luc._ Oh, Sir.
+
+  If ever Pity touch'd your gen'rous Breast,
+
+  If ever Virgin's Tears had Power to move,
+
+  Or if you ever lov'd and felt the Pangs
+
+  That other Lovers do, pity, great Sir,
+
+  Pity and pardon two unhappy Lovers.
+
+_Gov._ Your Life is not in Question, Madam.
+
+  _Luc._ If _Palante_ dies, I cannot live, for we
+
+  Have but one Heart, and can have but one Fate.
+
+_Gov._ What I can do, I will to save him, but Law must have its Course,
+
+rise Madam.
+
+  _Luc._ Never till----
+
+  The gracious Word of Pardon raises me,
+
+  There's Pity in your Eye, oh! shew it, Sir!
+
+  And say that he shall live, 'tis but a Word,
+
+  But oh, as welcome as the Breath of Life,
+
+  Why will you part two Hearts that Heav'n has join'd?
+
+  He is my Husband, Sir, and I his wedded Wife.
+
+_Gov._ That can plead no Excuse, for 'tis your Crime, but if I shou'd
+
+incline to pity you, what wou'd you return? what wou'd you do to
+
+purchase the Life of him you hold so dear?
+
+  _Luc._ You cannot think the Thing I would not do.
+
+  Speak, Sir, and lay it but in my Power,
+
+  And even beyond my Power I will attempt.
+
+_Gov._ You wou'd be thankful then shou'd I pardon him?
+
+  _Luc._ If I were ever thankful unto Heav'n
+
+  For all that I call mine, my Health and Being,
+
+  Cou'd I then be unthankful unto you,
+
+  For a Gift I value more than those?
+
+  Without which all other Blessings will be tasteless.
+
+_Gov._ Those that are thankful study to requite, wou'd you do so?
+
+  _Luc._ As far as I am capable I will,
+
+  Tho' I can ne'er make ample Satisfaction,
+
+  All my Services to you are Duty,
+
+  But to those Pow'rs above that can requite
+
+  That from their Wasteless Treasure daily heap
+
+  Rewards more out of Grace than merit on
+
+  Us Mortals;
+
+  To those I'll pray that they wou'd give you, Sir,
+
+  More Blessings than I have Skill to ask.
+
+_Gov._ There rises one Way and but one to save him.
+
+  _Luc._ Oh! name it, Sir, that----
+
+  Swift as the Arrow from the Archer's Hand
+
+  My trembling Feet may fly to save him,
+
+  Oh! you have rais'd me from the Gulph of Grief
+
+  To that blest comfortable Region, Hope,
+
+  My Senses all dance in the Cirque of Joy.
+
+  My ravish'd Heart leaps up to hear your Words,
+
+  And seems as 'twou'd come forth to thank you.
+
+  Say, how, how shall I save him?
+
+_Gov._ Marry my Nephew _Pirro_ and _Palante_ lives.
+
+  _Luc._ Oh! unexpected Turn of rigid Fate,
+
+  Cruel, Sir, far more cruel than my Father.
+
+  Why did you raise me to a Height of Joy?
+
+  To sink me in a Moment down again,
+
+  In what a sad Dilemma stands my Choice,
+
+  Either to wed the Man my Soul most loaths,
+
+  Or see him die for whom alone I live.
+
+  To break my sacred Vows to Heav'n and him,
+
+  To save a Life which he would scorn to take
+
+  On Terms like those, name any Thing but that,
+
+  You are more just than to enforce my Will,
+
+  Why should I marry one I cannot love,
+
+  And sure I am I cannot love Count _Pirro_,
+
+  Love him! no, I shou'd detest and loath him.
+
+  The Cause that made him mine, wou'd hourly add
+
+  Fresh Matter for my Hate.
+
+_Gov._ You have your Choice, I swear by Heaven never to pardon him, but
+
+upon these Conditions.
+
+_Luc._ Oh! I am miserable.
+
+_Gov._ 'Tis your own Fault, come consider Madam, _Palante_ will thank
+
+you for his Life, and if you let him die, you are the Tyrant.
+
+  _Luc._ I shou'd be such if I shou'd save him thus.
+
+  Since you have swore not to save him upon
+
+  Other Terms, I'll shew a duteous Cruelty
+
+  And rather follow him in Death than so
+
+  To buy his Life, no, I despise the Price.
+
+  Why do I breathe my Woes, or beg for Mercy here;
+
+  Or hope to find plain Honesty in Courts?
+
+  No, their Ears are always stopp'd against Justice,
+
+  Avarice and Pride supplies the Place of Pity.
+
+  _So may just Heav'n when you for Mercy sue,_
+
+  _As you have pitied me so pardon you._            [Exeunt severally.
+
+SCENE _Count_ Gravello's _House_.
+
+_Enter_ Larich, Lavinia, Sancho _and_ Tristram.
+
+_San._ Is the Priest ready _Tristram_?
+
+_Trist._ Yes, yes, Sir, a Priest and a Lawyer are always in Readiness,
+
+their Tongues are the chief Instrument belonging to their Trade, with
+
+which they commonly do more Mischief than all the Surgeons in the
+
+Kingdom can heal, he waits in the next Room, Sir, if you can get the
+
+Lady in the Mind.
+
+_Lar._ You are witty Sirrah, but no more of your Jests, do ye hear,
+
+least I make you experience, there's something else can do Mischief
+
+besides their Tongues, come Mistress what you are in the Dumps now, are
+
+you? dry up your Eyes and go about it chearfully, or I'll turn you out
+
+of Doors, I assure you.
+
+_Lav._ Good, Sir, consider.
+
+_Lar._ Consider! no I won't consider, nor shall you consider upon ought
+
+but what I'd have you.
+
+_Lav._ Sir, do you persuade him. [_To Sanch._] think how unhappy I shall
+
+make you.
+
+_San._ Make me happy first, and then I'll do any Thing you'd have me.
+
+_Trist._ The wisest Bargain I ever heard my Master make.
+
+_Lav._ What wou'd you do, Sir, with me that cannot love you? Alas I was
+
+engaged long before I saw you, you may be happier far elsewhere, go
+
+court some Nymph whose Heart's intirely free, such only can be worthy of
+
+your Love.
+
+_San._ For my Part I don't know what to say.
+
+_Lar._ 'Zdeath she'll persuade him by and by to quit his Pretences to
+
+her----come, come, come Mistress no more of your Cant. [_Pulls her by
+
+the Arm._] It shall avail you nothing I'll promise you.
+
+_Lav._ Good, Sir, hold a little, Don _Sancho_ seems disposed to hear
+
+Reason.
+
+_San._ Why ay truly, for my Part methinks 'tis a Pity to vex the Lady
+
+so.
+
+_Lav._ Besides, Sir, 'tis for his sake I do it, to make him easy, and to
+
+prevent his eternal Shame and Torture.
+
+_San._ Poor Fool, how hard it is, ay, ay, I know 'tis for my Sake, pray,
+
+Sir, hear her--pray do for my Sake as she says.
+
+_Lar._ Pooh Fool.
+
+_San._ Shall she say more for my Sake, than you'll hear Father that is
+
+to be.
+
+_Lar._ Well Huzzy, consider what you say, for if it be'nt to the
+
+Purpose, as I'm sure it won't----look to't!
+
+_Lav._ Before your hasty Rashness betrays me to eternal Woe, revoke your
+
+harsh Commands.
+
+_Lar._ Ay, I knew that would follow, and this is all you have to say,
+
+Mistress, ha? come, come Woe, I'll woe you.
+
+_Lav._ Something I have to speak, but know not in what Words to dress my
+
+Thoughts fit for me to speak, or you to hear, oh spare the poor Remains
+
+of my already too much violated Modesty,--Heav'n can I do this, but
+
+there is no other Way.                                       [_Aside._
+
+_Lar._ How? how? how's that? Modesty! why what a Duce is the Matter with
+
+your Modesty, ha?
+
+_Lav._ Oh! Sir, force me not to wrong a Man whose Father I have so often
+
+heard you say, you lov'd, think what sure Disgrace will follow, how will
+
+it reflect upon your Name and Family, when I shall be found no Virgin.
+
+_Lar._ Ha! no Virgin? take Heed Minion that you stain not the Honour of
+
+my House, for if you do, I swear by the best Blood in _Sicily_, my Sword
+
+shall do me Justice.
+
+_Lav._ Now help me Courage, and forgive me Heaven my Resolutions, Death
+
+or my _Francisco_.                                           [_Aside._
+
+I throw myself beneath your Feet, thus prostrate beg for Mercy, that I
+
+have deserved Death my guilty Blushes own, the mighty Secret hangs upon
+
+my Tongue, but Shame refuses Utterance to my Words.
+
+_Lar._ I'm all of a cold Sweat, Heav'ns! how I dread the End of her
+
+Discourse.
+
+_San._ Pray Father let her rise, or I shall weep too.
+
+_Trist._ Nay, I'll say that for my Master, he's as tractable as a
+
+Monkey, and generally does what he sees other People do.     [_Aside._
+
+_Lav._ Oh! let it still remain unknown, and rather banish me, confine me
+
+to some horrid Desart, there to live on Roots and withered Grass, and
+
+with the falling Dew, still quench my Thirst, and lastly to some savage
+
+Monster be a Prey, e'er I divulge my Shame.
+
+_San._ I can hold no longer.                           [_Cries aloud._
+
+_Lar._ On, for I'll hear it all, tho' thou shalt live no longer than
+
+thou hast told thy Tale.
+
+_Lav._ Sure ne'er before was Maid thus wretched, Oh _Francisco_! I give
+
+thee here the greatest Proof of Love that ever Woman gave----if it must
+
+out, then with it take my Life, but Oh! spare the innocent Babe.
+
+_Lar._ Ha! the Babe?
+
+_Lav._ Oh! I am with Child.
+
+_Lar._ Then die both, and both be damn'd.
+
+     [_Offers to stab her, but is prevented by_ Sancho _and_ Tristram.
+
+_Sanc._ Oh, Lord, Sir, for Heavens Sake, Sir, are you mad, help
+
+_Tristram_.
+
+_Lar._ 'Zdeath a Whore! Oh thou Scandal of my Blood.
+
+_San._ Egad I'm resolv'd to own the Child, and bully this old Fellow a
+
+little now----a Whore, Sir! who dares call my Wife a Whore? the Child is
+
+mine, Sir, let me see who has any Thing to say to't.
+
+_Lar._ Away, don't trifle with me, I shall not give you Credit.
+
+_San._ What care I whether you do or no, I say again the Child is mine,
+
+Madam, dry your Eyes, I like you ne'er the worse, and the World will
+
+like me the better for't, it will bring me into Reputation.
+
+_Lav._ Oh Heavens! what will come on me now, Oh! fly me, Sir, as you
+
+wou'd shun Contagion, cou'd you receive into your Arms a Wretch polluted
+
+by another.
+
+_San._ Pish, shaw, pish, shaw, 'tis the least Thing in a thousand, thou
+
+said thou didst it for my Sake just now, and sure I shou'd return the
+
+Kindness, Ingratitude is worse than the Sin of Witchcraft.
+
+_Lar._ Oh! the audacious Strumpet, give me Way, that I may punish the
+
+Offence as it deserves.                           [Francisco _within._
+
+_Fran._ Slaves give me Way, he dies that bars my Entrance.
+
+_Lav._ Ha! 'tis my _Francisco_'s Voice--Oh! blest Minute.
+
+_Lar._ Ha! what Noise is that?           [_Help, Murder cry'd within._
+
+_San._ How Murder within and Murder without too, this is a barbarous
+
+House, I wish I was safe out on't. _Tristram_ stand by thy Master.
+
+_Tristr._ Oh, Sir, I had rather run with you, for I hate Murder in cool
+
+Blood.
+
+     _Enter_ Francisco _with his Sword drawn_.
+
+_Lar._ Help within there, murder, you won't murder me Sirrah, ha?
+
+[_Enter three or four Servants._] run for the Corregidore, I shall be
+
+murder'd in my own House.
+
+_Fran._ No, Sir, this Sword can never hurt the Father of _Lavinia_, nor
+
+will my Arm guide it to any Act unjust, nor is it drawn for aught but to
+
+defend my Wife.
+
+_Lar._ Impudent Rascal, can'st thou look me in the Face, and know how
+
+thou hast injur'd me, thou hast dishonour'd my Daughter.
+
+_San._ Sir, I say no man has dishonour'd her but myself, and I wonder
+
+you shou'd tax this honest Gentleman with it.
+
+_Fran._ Ha, Villain! re-call what you have said, or by Heaven 'tis thy
+
+last, 'tis safer playing with a Lion, than with Lavinia's Fame.
+
+                                    [_Holding his Sword at his Teeth._
+
+_San. Lavinia_'s Fame, what Fame, what makes you so choleric, I thought
+
+I shou'd do the Lady a Kindness in it.
+
+_Trist._ Many a Man wou'd have been glad to have got rid of it so.
+
+_Lav._ Humour my Father in what he says, for 'twas my last Stratagem to
+
+defer my Marriage.                              [_Aside to_ Francisco.
+
+_Lar. Lavinia_'s Fame! No Monster, thou hast robb'd, robb'd her of her
+
+Fame.
+
+_Fran._ The Wrong my Love has done your fair Daughter, 'tis now too late
+
+to wish undone again, but if you please it may be clos'd up yet without
+
+Dishonour, I will marry her.
+
+_Lar._ Marry her? she'll have a mighty Bargain of that, marry a Beggar,
+
+what Jointure canst thou make her?
+
+_Fran._ I am poor, I must confess, in regard of your large Wealth, but I
+
+swear by all Things that can bind, 'twas not your Wealth was the
+
+Foundation of true-built Love, it was her single uncompounded self, her
+
+self without Addition that I lov'd, which shall ever in my Heart
+
+out-weigh all other Womens Fortunes with themselves, and were I great,
+
+great as I cou'd wish myself for her Advancement, no such Bar as
+
+Fortune's Inequality shou'd stand betwixt our Loves.
+
+_Lar._ Say you so, Sir, why then take her----there hang, drown'd or
+
+starve together, I care not which, but never come within my Doors more.
+
+                                                 [_Throws her to him._
+
+                                                       [_Exit_ Larich.
+
+_San._ Hey day, what have I lost my Mistress then, why what must I say
+
+to my Father, _Tristram_, who'll run stark mad without Hopes of a
+
+Grandson?
+
+_Tristr._ Oh, Sir, if this Gentleman had not put in his Claim, here had
+
+been one ready to his Hands.
+
+_San._ Ah Pox on't, 'tis damn'd unlucky, but come let's to the Tavern
+
+and drink away Sorrow.                                      [_Exeunt._
+
+_Fran._ Come my fair _Lavinia_, and find a Father in thy Husband's Arms,
+
+oh thou charming Excellence, thou something better sure than ever Woman
+
+was, the matchless Proof that thou hast given of thy Love shall be
+
+recorded to Posterity----
+
+_Lav._ It is a matchless one indeed, and I struggled long e'er I cou'd
+
+bring myself to own a Deed so distant from my Heart, but it has serv'd
+
+my Purpose, and I glory in it now, but my Father's last Words methinks
+
+chills my Blood, how shall you like the Yoke without lining think you
+
+ha!
+
+_Fran._ Don't wrong my Love _Lavinia_, or think that I can want any
+
+Thing when possest of thee.
+
+  _Love shall make up what Fortune does deny,_
+
+  _And Love alone shall all our Wants supply._                [Exeunt.
+
+_The_ SCENE _changes to the Street,
+
+ Count_ Pirro _and Lord_ Gravello.
+
+_Grav._ Now my Lord she's your's again, _Palante_ dies.
+
+_Pirro._ So noble were the Carriage of the Youths that I could almost
+
+pity their hard Sentence.
+
+_Grav._ I admire _Palante_'s Constancy, he seem'd regardless when the
+
+Jury pronounc'd his Sentence, as if he feared not Death, but when his
+
+Friends came on, I observed the Tears to fall.
+
+_Pirro._ He begg'd very hard to save his Friend.----
+
+_Grav._ And his Friend as eagerly to die with him, truly I think
+
+_Clerimont_'s Crime did not deserve Death, but our _Sicilian_ Laws doom
+
+all to Death that have but the least Hand in stealing of an Heiress, but
+
+see the Lord _Euphenes_, he sticking hard to save his Foster Son, let's
+
+avoid him, for I know he'll rail.                             [_Exit._
+
+     _Enter Lord_ Euphenes.
+
+_Euph._ Unhappy poor _Palante_, the Law has cast thee in Spite of all
+
+that I could do to save thee, I'd give my whole Estate to rescue thee
+
+from Death: In thee methought my lost _Lysander_ liv'd, and in losing
+
+thee I'm childless now indeed. I lov'd thee like my own Son, I rescu'd
+
+thee from Pyrates, by which my Child was lost.
+
+     _Enter_ Alphonso.
+
+  _Alphon._ Thus once again from twenty Years Exile.
+
+  (Tost by the Storms of Fortune to and fro)
+
+  Has gracious Heav'n giv'n me Leave to tread
+
+  My native Earth of _Sicily_, and draw
+
+  That Air that fed me in my Infancy.
+
+_Euph._ Ha! either my Eyes deceive me or 'tis my good old Friend
+
+_Alphonso_.
+
+_Alph._ My Lord _Euphenes_?
+
+_Euph. Alphonso_, welcome to _Sicily_, I thought thee dead with my
+
+unhappy Son, or what was worse, in Slavery, where no Intelligence cou'd
+
+find thee, for I have us'd my utmost Diligence.
+
+_Alph._ In part you have guess'd aright, for I have been twenty tedious
+
+Years in gauling Slavery, for when the _Argives_ surprized the Fort they
+
+hurried me on board, and because I made a brave Resistance, they ne'er
+
+wou'd give me Leave to offer at my Ransom, so violent was their Hate,
+
+but now worn out with Age, unfitting for their Labour, they turn'd me
+
+Home, an useless Drone, your Son they put on board another Ship, and by
+
+some I heard it rumoured, he being wondrous fair, that they design'd to
+
+breed him for the Sultan's Use, but some Years after I heard he was
+
+retaken on this Coast.
+
+_Euph._ Ha!
+
+_Alph._ I conceal'd his Name, least the many Conquests you have gain'd
+
+against them shou'd have wing'd their Revenge, and made 'em kill the
+
+lovely Child, I call'd him _Palante_, have you ever heard of such a one?
+
+_Euph._ Oh all ye immortal Powers, the very same, I took, and is
+
+_Palante_ then _Lysander_, and have I found thee once to lose thee ever?
+
+_Alph._ Ha! what means all this?
+
+_Euph._ 'Twas Nature then that worked my Soul, and I by Instinct lov'd
+
+him. Oh my _Alphonso_, this Discovery comes too late, and instead of
+
+bringing Comfort to my Age, thou hast plung'd me down in deep Despair.
+
+_Alph._ Alas, my Lord, how have I err'd? pray explain yourself.
+
+_Euph._ Oh _Alphonso_! the Youth thou speak'st of I retook from _Argive_
+
+Pirates, I bred him, and tho' not sensible who he was, I lov'd him
+
+tenderly: He is this very Day condemn'd for stealing of an Heiress, now
+
+judge if my Grief falls not with Weight upon me.
+
+_Alph._ Unfortunate Mischance, is there no Way to save him?
+
+_Euph._ None I fear, but yet I'll try all Means, if my long Service to
+
+my Country, my Winter Camps, and Summer Heats, and all my stormy Fate at
+
+Sea can plead, I will expand my Deeds as _Rome_'s Consuls did of old,
+
+make bare my Breast, and shew my scar'd Bosom to move and raise their
+
+Pity.
+
+  _I that ne'er mention'd aught my Arm has done,_
+
+  _Will now urge all to save my darling Son._                 [Exeunt.
+
+ACT V. SCENE _a Prison_.
+
+Palante _and_ Clerimont _come forward_.
+
+  _Pal._ Oh! _Clerimont_, I swear by my malignant Stars,
+
+  Death brings no Terrors with it but for thee;
+
+  The Thoughts of thine, and that I have involv'd
+
+  In my sad Fate, my best and only Friend,
+
+  Sits heavy on my Soul, and gives me double Death:
+
+  My Father's Tears, whom now too late I know,
+
+  Pierce not my Breast with half this killing Grief,
+
+  This gnaws me worse than my _Lucasia_'s Loss;
+
+  And, like a _Vulture_, preys upon my Heart.
+
+  I was rewarded, call'd _Lucasia_ mine:
+
+  For such a Treasure who wou'd refuse to die?
+
+  But thou'rt condemn'd for only aiding me,
+
+  I am the Cause of thy sad Fate, my Friend;
+
+  Hurry'd by me to an untimely Grave:
+
+  Thou fall'st for him thou ever hast oblig'd.
+
+  _Cler._ No more _Palante_----
+
+  Why dost thou call me by the Name of Friend?
+
+  Yet think I cou'd descend from Friendship's Rules:
+
+  For so I must shou'd I repine at Death,
+
+  Or fear to suffer with so brave a Man.
+
+  To die is nothing to a Man resolv'd:
+
+  Why shou'd we wish to hold this mortal Frame,
+
+  By Nature subject to such various Ills,
+
+  Which first or last brings certain Death to all?
+
+  Were there no Hand, indeed, but human Laws
+
+  To cut the Thread of our Mortality,
+
+  Then we had Cause for Grief; but when we reflect
+
+  We only leap the Abyss a little sooner,
+
+  Where all Mankind must follow by degrees,
+
+  The Apprehension moves not me.
+
+  _Pal._ Oh! Noble Constancy----
+
+  After Ages shall record the Story,
+
+  And rank thee with the bravest _Roman_ Youths;
+
+  And melancholy Virgins when they read,
+
+  In moving Accents celebrate thy Name.
+
+  _Cler._ What baleful Planet rul'd when thou wert born,
+
+  That mark'd for thee this Path of Sorrow out?
+
+  Oh! ye malicious Stars, when ye had stood
+
+  So long the rude Buffets of blind Fortune,
+
+  And now just as the pleasing Scene appear'd,
+
+  I' th' Moment when th' art found of noble Birth,
+
+  And wed to thy long wish'd for Bride _Lucasia_,
+
+  Then to snatch thee hence, is twice to kill thee.
+
+  Oh! it is the Mock'ry of spiteful Fates,
+
+  When we with Labour reach the aim'd at Wish,
+
+  Straight this unstable Fairy World removes.
+
+  We die, or are dash'd back again to what we were.
+
+     _Enter_ Eugenio _and_ Lucasia.
+
+  _Luc._ Faithful _Irus_ how shall I reward thee?
+
+  Ha! see where stands _Palante_ and his Friend!
+
+  Oh! lead me _Irus_, quickly, lead me back,
+
+  Else I shall grow a Statue at this Sight:
+
+  Not all the frightful Noise of Chains we've past,
+
+  And meagre Looks of Wretches in Despair,
+
+  Are half so terrible as this.
+
+  _Pal._ My _Lucasia_!
+
+  Art thou come to take thy last Adieu, and
+
+  Bless my Eyes before they close for ever?
+
+  _Luc._ Oh! _Palante_!
+
+  _Pal._ What! no more? Give thy labouring Sorrows vent,
+
+  That like Convulsions heaves thy snowy Breasts,
+
+  And struggles for a Passage to thy Tongue.
+
+  _Luc._ O! I had dy'd e'er seen this fatal Hour;
+
+  But this good Man pursu'd with Care my Steps,
+
+  And stop'd my Hand, which else had giv'n the Blow,
+
+  When first I heard the sad and dreadful News,
+
+  That thou, _Palante_, wer't condemn'd to die.
+
+  _Eug._ Still all I ask is, that you wou'd have Patience;
+
+  I'll to Court where Lord _Euphenes_ is,
+
+  Now begging for his Son, in Hope to bring you Happiness.
+
+                                                          [_Exit_ Eug.
+
+  _Luc._ Fly _Irus_, fly, and bring us instant Word.
+
+  Oh! my aking Brain is near Distraction;
+
+  For much I fear there is no Help for me.
+
+  _Pal._ Yet I rejoice in this, I'm found of Noble Birth--
+
+  That in succeeding Ages, when this Act,
+
+  With all its Circumstances shall be told,
+
+  No Blot may rest upon thy Virgin Fame;
+
+  No censuring Tongue reflect upon thy Choice;
+
+  And say thy Husband was a Wretch unknown,
+
+  And quite unworthy of _Lucasia_'s Arms.
+
+  _Luc._ What Comfort's in this late Discovery found?
+
+  Will the Greatness of thy Race protect thee?
+
+  Virtue and ev'ry Good was thine before;
+
+  Yet the cruel Pow'rs are deaf to all my Prayers:
+
+  Nor will thy Merit plead with angry Heav'n,
+
+  To ward the Stroke, and save thy precious Life.
+
+  Oh Greatness! thou vain and vap'rish Shew,
+
+  That, like a Mist, dazzles the Eyes of Men,
+
+  And as the Fogs destroy the Body's Health,
+
+  That poisons deep, and gangrenes in the Soul;
+
+  But seldom's found t' assist the virtuous Man.
+
+  Thou wert----
+
+  As dear to these desiring Eyes before,
+
+  And honour'd full as much in this poor Heart.
+
+  Oh! I cou'd curse the Separating Cause,
+
+  And wish _Lucasia_ never had been born.
+
+  _Pal._ Be calm, my Love, my everlasting Dear,
+
+  Cease to lament, and give thy Spirits ease.
+
+  Oh! hear me Heav'n, and grant my last Request;
+
+  May Health, long Life, and ev'ry Bliss beside,
+
+  Conduce to make _Lucasia_ happy still.
+
+  Let nothing fall to interrupt her Joy,
+
+  But make it lasting as you make it great.
+
+  Grant this, and I to rigorous Destiny
+
+  Submit with Pleasure.
+
+  _Luc._ Long Life; no, rather wish me sudden Death,
+
+  To rid me of my Cares, and that Way give me Ease.
+
+  Ha! I'm seiz'd with an unusual Terror, Fear
+
+  And Horror swim in Shades of Night around,
+
+  How sad and dreadful are these Prison Walls!
+
+  Thy Voice seems hollow too, and Face looks pale.
+
+  Oh! my _Palante_, my Heart----
+
+  Throbs, as if the Strings of Life were breaking.
+
+                                               [_A Bell tolls within._
+
+  Hark! hark! Oh! 'twas this that it foretold.
+
+  Ope' Earth, hide me in thy unfathom'd Womb,
+
+  To drown the Call of Fate----this dismal Bell.
+
+  _Cler._ Madam----
+
+  Be patient, add not to his Misery;
+
+  For whilst he sees you thus, his Soul's unfit
+
+  For aught but Earth; th' Approach of Death is near,
+
+  A little Time is necessary now,
+
+  To calm his Mind to suffer like a Man.
+
+  _Luc._ Oh! Heav'n help me.                                [_Faints._
+
+  _Pal._ Oh! She's dying; do not thus rend my Soul with Grief.
+
+     _Enter an Officer._
+
+_Officer._ Gentlemen, this Bell gives warning, that within Half an Hour
+
+you must prepare to die.
+
+  _Pal._ 'Tis very well, we shall be ready.
+
+  Canst thou conduct this Lady to her Father's House?
+
+  _Luc._ Stand off, and touch me not: No, I will stay with thee.
+
+  Do not push me from thee, my dear _Palante_;
+
+  For I shall die apace, and go before.
+
+_Officers._ The Officers all wait to conduct ye to the Place of
+
+Execution.
+
+_Cler._ We come now, Friend, when shall we meet again.
+
+_Pal._ The bless'd Pow'rs can tell, in Heav'n sure.
+
+  Luc. _Oh! all ye Maids that now are crown'd above;_
+
+  _Did any feel, like me, the Wrecks of Love?_
+
+  _By Tempests torn from my dear Husband's Side,_
+
+  _And made a Widow, when I'm scarce a Bride._
+
+SCENE _the Governor's House_.
+
+_Enter Governor and Count_ Pirro, _and Lord_ Gravello.
+
+_Govern._ This is strange _Palante_ should be found The Lord _Euphene_'s
+
+Son; but fear not Nephew, the Law has pass'd, and he shall suffer.
+
+_Pirro._ I urge still, my Lord, she was my promised Wife; Her Father so
+
+design'd her, had he then been known Euphene's Son. I urge that, speak
+
+my good Father.
+
+_Grav._ My Lord, I had; yet let me own, I rather wish the unknown
+
+_Palante_ had suffer'd for my Daughter, than the Son of one, who tho' my
+
+Foe, I must acknowledge great and brave.
+
+_Govern._ So wou'd I my Lord, but there's no Fence for Accidents; I do
+
+expect to be beset with Prayers and Tears, but all in vain; see where he
+
+comes.
+
+     _Enter_ Euphenes _and_ Alphonso.
+
+  _Euph._ Behold! Lord Governor, my aged Knees, are bent to thee,
+
+  'Tis in thy Power to wrest this heavy Judgment of the Law;
+
+  Suspend it at least, till the King shall hear the Cause,
+
+  And save my Son.
+
+_Gover._ Rise _Euphenes_, your Speech carries a double Meaning, you pray
+
+and threaten with the same Breath, we are not to be frighted Lord; the
+
+Laws of _Sicily_ have had their Course, your Son falls by them.
+
+_Euph._ Oh! mistake me not, I am as humble as your Pride can wish me;
+
+but give me Leave to speak, tho' 'tis my hard Fortune to offend; let me
+
+the Anguish of my Soul deliver to that injurious Lord, the Father of
+
+_Lysander_'s, or by the more known Name, _Palante_'s Wife; hard-hearted
+
+Man! had'st thou no other Way to wreck thy canker'd and long foster'd
+
+Hate upon my Head, but this? Thus cruelly, by my Son's Suffering, and
+
+for such a Fault as thou shou'dst Love him, rather? Is thy Daughter
+
+injur'd by this Marriage? Is his Blood base? Or can his now rising
+
+Fortunes know an Ebb? This Law was made to restrain the Vile from
+
+wronging noble Persons, by Attempts of such a kind; but where Equality
+
+meets in the Match, there is no Crime! or if there is, forgive his
+
+Youth, and have Pity on him.
+
+_Gover. Euphenes_, you wrong your Virtue when you'd save a Criminal, the
+
+Law condemns; tho' the righteous Judgment falls upon your Son, and your
+
+Appeal shall come too late.
+
+_Euph._ Then you have set a Period to a loyal House and Family that have
+
+been Props of the _Sicilian_ Crown and with their Blood in Wars, won
+
+many an honour'd Field. I can spend no more in Tears, I'll spend the sad
+
+Remnant of my childless Age, and only wish to rest i'th' Grave together.
+
+_Alph._ Hear me thou Governor, not kneeling, but erect as old Age and
+
+Slavery has left me: This noble _Sicilian_ Youth was lost in defending
+
+_Sicily_ from the fam'd Fortress, which beat back a thousand Times,
+
+invading Foes, and sunk 'em in the working Seas, from thence the Child
+
+was ta'en, and must he 'scape the Hazards of the rowling Waves, Rocks,
+
+Tempests, Pirates, and ignominious Fate, to perish in his native Isle:
+
+Oh, barbarous Usage, stop yet at least his Judgment, and let this poor
+
+old Man see once again, his dear _Palante_; for that I'll bow my
+
+stubborn Knees, and ask the Blessings as I importune Heaven.
+
+_Euph._ Oh! my Lord, let my unhappy Son appear before ye, e'er the cruel
+
+Sentence comes to Execution.
+
+_Grav._ If you deny them this, it may be ill represented to the King.
+
+_Pirro._ I fear, my Lord, you are staggering.
+
+_Gover._ Nephew, be silent, and be safe; they shall have their Will, but
+
+to no Purpose, only a Moment's short Delay; for I have sworn, and he
+
+shall die----Guard bring here the Prisoner.
+
+_Euph._ I thank the Governor.
+
+_Gov._ Oh spare thy Thanks, till thou hast real Cause: the Law, the
+
+Statute's plain, and he must die for't, there is no Remedy.
+
+     _Enter, brought in by the Guards_, Palante, Clerimont,
+
+     Lucasia _and_ Eugenio.
+
+_Euph._ Oh! Son!
+
+_Alph. Palante!_
+
+_Pal._ Pardon me, Sirs, I have too much Tenderness upon my Soul already,
+
+too many Clogs that drag it downwards; oh! forgive me, if I beg ye wou'd
+
+not add more Weight to Death.
+
+_Gra._ Madam, 'twere more becoming your Quality and Modesty, to be at
+
+Home; thou dost but ill return thy Father's Care.
+
+_Luc._ I have no Father, nor ever had that I remember, but born and
+
+destin'd for an out-cast Wretch, and curst to ruin a most noble Husband:
+
+Oh he was the Pride of the _Sicilian_ Youths, and Glory of the World;
+
+but he is dead, or doom'd to die, and that's alike distracting.
+
+_Euph._ Heav'n bless thee, thou Mirrour of thy Sex, that in the Sea of
+
+thy transcendant Virtues, drown'st all thy Father's Malice, and in my
+
+Thought, redeem'st more than thy Race can lose.
+
+_Gov._ Lord _Euphenes_, what End had you in this, in bringing here the
+
+Criminals?
+
+_Euph._ To move your Mercy was my End; but Wolves and Tygers know not
+
+what Pity means.
+
+_Gov._ Forbear Reproach, and hear me; I'll stand it to the King, and all
+
+the World; here is an Heiress stole, the worst of Robberies; he is
+
+condemn'd by the Law, he fell to the Judgment of the Law; I surrender
+
+him. Guards, carry on the Pris'ners.
+
+_Luca._ Oh! cruel Sentence! hear me, Sir.
+
+_Gov._ Away with 'em.
+
+_Eug._ Stay yet a little, thou most imperious Governor; for I will be
+
+heard.
+
+_Gov._ Thou! What art thou?
+
+_Eug._ My Name is _Irus_; Lord _Pirro_ knows me.
+
+_Pirro._ Ha!
+
+_Eug._ Thou tremblest, Lord, hear; you that have condemn'd these noble
+
+Friends, and hunt their Lives for a mere Trifle; sentence to Death a Man
+
+for loving and being belov'd; hear, a black Deed will start your Soul
+
+with Horror, and make you own the Crime before ye nothing.
+
+_Gov._ What means the Fellow!
+
+_Eug._ Nay, 'tis not a Frown can stop me, nor will my Fate be long; know
+
+then, this Lord gave out his Son _Eugenio_ dy'd at _Rome_, but he was
+
+well, and in this City.
+
+_Palan._ How say'st thou?
+
+_Luc._ Proceed, dear _Irus_.
+
+_Eug._ First stop Lord _Pirro_; for my Story will not please him: I say
+
+_Eugenio_ lived; which when I discover'd to that trembling Lord, he
+
+brib'd me with a thousand Crowns to poison him: Here's the Agreement
+
+under his own Hand; and here's a Letter from _Eugenio_ to his Father,
+
+which denotes that he was poison'd, and dying.
+
+_Gra._ Let me see it: Oh! 'tis his Hand. Wretch that I am, is my
+
+dissembled Grief turn'd to true Sorrow? Were my acted Tears but
+
+Prophecies of my ensuing Woe? And is he dead? Oh! pardon me, dear Ghost
+
+of my _Eugenio_! 'twas my Crimes that call'd this hasty Vengeance from
+
+above, and shorten'd thus thy Life; for whilst with Fallacies I sought
+
+to fasten Wealth upon our House, I brought a Cannibal to be the Grave of
+
+me and mine; base, bloody, murdering Lord.
+
+_Pirro._ Vile Cozener, Cheater and Dissembler, now indeed we both are
+
+caught.
+
+_Euph._ Oh! cruel Man! now see the Justice of offended Heav'n; thou who
+
+pursu'st the poor _Palante_'s Life with so much Violence, thou now must
+
+feel the Weight of a Son's Loss.
+
+_Gov._ This will prove a Tragedy indeed; away with the Prisoners. Your
+
+Trial's next, Lord _Pirro_.
+
+_Pirro._ I do confess----
+
+_Eug._ Hold, is there no means left to save them? Wou'd not you now,
+
+Lord _Gravello_, give your Daughter freely to _Palante_?
+
+_Gra._ More willingly than I wou'd live another Hour.
+
+_Euph._ Oh! You are kind too late; had you been thus when Need required,
+
+you had sav'd yourself and me, and both our hapless Sons.
+
+  _Gov._ Oh Nephew, my Prompter still in Cruelty,
+
+  Now thou thyself must feel the Rigour of the Law.
+
+_Eug._ Now ye behold the Good from Bad, which nought but this Extremity
+
+had shewn; yet all be safe, _Eugenio_ lives, and fair _Lucasia_ is no
+
+Heiress now.
+
+_Omnes._ How! lives!
+
+_Eug._ Yes, lives to call thee Brother, worthy _Palante_, and thou, my
+
+dear _Lucasia_, Sister.                    [_Throws off his Disguise._
+
+_Luc._ Oh, _Irus, Eugenio, Palante_, where am I?
+
+_Palan._ Oh! _Lucasia, Clerimont_; my Friend, my Love, my Wife.
+
+  _Eug._ Pardon me ye most afflicted Sufferers,
+
+  That I thus long have kept myself conceal'd;
+
+  My End was honest, to let my Father see
+
+  The Frailty, I will not call it by a harder Name,
+
+  Of Count _Pirro_; the Son he coveted so eagerly,
+
+  To raise the Storms to their most dreadful Height,
+
+  That Calms, and Peace might be more pleasing.
+
+  _Gra._ I see it was _Eugenio_, and thou _Palante_.
+
+  Now, my Son, give me thy Hand, here take thy Wife,
+
+  And for the Wrong that I intended thee, thy Portion
+
+  shall be double.
+
+_Pal._ Oh! I am over-paid, _Lucasia_ and my Friend secure. This is the
+
+Work of Heav'n, and oh ye gracious Powers I thank ye for it.
+
+_Cler._ Joy rises from my Heart, and with unutterable Transports stops
+
+my Speech; thus once again let me embrace thee.
+
+_Euph._ And has a Father nothing from a Son?
+
+_Alph._ And old _Alphonso_ too expects a Welcome.
+
+_Pal._ Oh! take me, Father, Brother, Friend, _Lucasia_! There's the Sum
+
+of all.
+
+_Luc._ Sure such Hours as these give us a Taste of Immortality.
+
+_Gra._ My Lord _Euphenes_, I hope all Enmity is now forgot betwixt our
+
+Houses.
+
+  _Euph._ Let it be ever so; I do embrace your Love.
+
+  But speak _Eugenio_, what hast thou to ask?
+
+  Whose timely Care prevented our undoing.
+
+_Eug._ My Lord, you have a virtuous Niece, for whom I long have sigh'd,
+
+I beg your leave to own my Flame.
+
+_Euph._ She's yours; I've often heard her praise _Eugenio_. And all
+
+Things else within my Power command.
+
+My Lord the Governor, you alone seem sad.
+
+_Gov._ I am not so at your good Fortune, but that my Nephew whom I have
+
+found so base, urg'd me to such Cruelty: Be gone, and hide thy
+
+ignominious Head, for I will never see thee more.
+
+_Pirro._ No matter, I am free, and will enjoy myself in spight of all
+
+Mankind.                                                      [_Exit._
+
+_Gov._ However this my Care shall do, I will solicit earnestly the King
+
+to mitigate this cruel Law, and make the Thefts of Love admit of Pardon.
+
+Who have we here? they seem to rejoice too.
+
+     _Enter_ Larich _singing_, Francisco, Lavinia, Sancho _and_ Trist.
+
+_Larich._ Ha, hey, what, every body in Joy! Good News, Coz, _Palante_
+
+come off safe; my pretty Niece pleas'd here, and Son-in-law,
+
+_Francisco_, just receiv'd a certain Information of an Uncle's Death,
+
+that has left him, let me see, let me see; ay, ay, enough to please me.
+
+_Sancho._ Nay, nay, hold, every body is not so well pleas'd neither; I
+
+am melancholy, I came hither to see the Execution; but I see no body has
+
+occasion to be hanged but myself, for I have lost my Mistress; faith I
+
+have, _Tristram_. What Account shall I give my Father of this Match?
+
+_Tris._ Fackins, Master, I cannot tell.
+
+_Larich._ Then _Lavinia_ is a pure Virgin still, for all the Tricks she
+
+play'd; faith she is: Was it not a sly one, ha, Brother?
+
+_Gra._ I know nothing of the Matter.
+
+_Luc._ Cousin, I wish you Joy, as large a Share as I possess, and Fate
+
+itself can give no more.
+
+_Lav._ I am doubly bless'd to see you happy.
+
+_Fran._ And I have nothing left to wish.
+
+_Pal._ Come, my _Lucasia_, now we are bless'd, let us retire, and give a
+
+loose to Raptures yet unknown.
+
+  _Virtue survives thro' all the Turns of Fate,_
+
+  _Let not impatient Man think Mercy late;_
+
+  _For Heaven does still the justest Side regard,_
+
+  _And virtuous Lovers always meet Reward._
+
+TRANSCRIBER'S NOTE
+
+Very occasional misspellings have been silently corrected. These
+
+include misspelled character names (Engenio for Eugenio; Euphanes for
+
+Euphenes). Several of the characters' names are abbreviated in a
+
+variety of ways in the original text and have not been standardised. A
+
+single misprint affected the meaning; wont was changed to won't in the
+
+passage:
+
+ Thou won't visit her in that Dress, sure?
+
+***

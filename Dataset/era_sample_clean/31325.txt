@@ -1,0 +1,891 @@
+Produced by Chris Curnow, Joseph Cooper, Diane Monico, and
+
+the Online Distributed Proofreading Team at
+
+https://www.pgdp.net
+
+An Annotated Checklist of Nebraskan Bats
+
+BY
+
+OLIN L. WEBB and J. KNOX JONES, JR.
+
+University of Kansas Publications
+
+Museum of Natural History
+
+Volume 5, No. 21, pp. 269-279
+
+May 31, 1952
+
+University of Kansas
+
+LAWRENCE
+
+1952
+
+UNIVERSITY OF KANSAS PUBLICATIONS, MUSEUM OF NATURAL HISTORY
+
+Editors: E. Raymond Hall, Chairman, A. Byron Leonard,
+
+Edward H. Taylor, Robert W. Wilson
+
+Volume 5, No. 21, pp. 269-279
+
+May 31, 1952
+
+UNIVERSITY OF KANSAS
+
+Lawrence, Kansas
+
+PRINTED BY
+
+FERD VOILAND, JR., STATE PRINTER
+
+TOPEKA, KANSAS
+
+1952
+
+24-2965
+
+An Annotated Checklist of Nebraskan Bats
+
+BY
+
+OLIN L. WEBB and J. KNOX JONES, JR.
+
+HISTORY
+
+The first mention of bats in Nebraska possibly was by Harrison Allen,
+
+in his "Monograph of the Bats of North America" (1864:14, 20, 30, 35,
+
+42), who listed _Nycticejus crepuscularis_ [= _Nycticeius humeralis_],
+
+_Lasiurus borealis_, _Scotophilus carolinensis_ and _Scotophilus
+
+fuscus_ [both = _Eptesicus fuscus_], and _Scotophilus noctivagans_ [=
+
+_Lasionycteris noctivagans_], as collected in "Nebraska" (then Nebraska
+
+Territory) by J. G. Cooper. Henry W. Setzer (in _litt._) reports that
+
+none of the bats collected by Cooper now exists in the United States
+
+National Museum and that no data pertaining to any of them are
+
+available except that a single specimen of _Nycticeius humeralis_ was
+
+traded to the British Museum in 1866. Cooper journeyed through parts of
+
+the present state of Nebraska in the summer and autumn of 1857 and,
+
+judging from Taylor's (1919:72-80) report of Cooper's travels, this was
+
+the only time he entered any part of Nebraska Territory. The writers
+
+are of the opinion that the specimens in question probably were
+
+collected in Nebraska; but since Allen listed no exact localities or
+
+dates of collection and since the specimens and data pertaining to them
+
+are not now available, we have not included them here as Nebraskan
+
+records.
+
+In the first comprehensive account of Nebraskan mammals, Myron H. Swenk
+
+(1908:137-139) listed six kinds of bats, _Myotis evotis_, _Myotis
+
+californicus ciliolabrum_ [= _Myotis subulatus subulatus_],
+
+_Lasionycteris noctivagans_, _Eptesicus fuscus_, _Lasiurus borealis_,
+
+and _Lasiurus cinereus_, as occurring within the state. Zimmer
+
+(1913:665) recorded _Nyctinomus mexicanus_ [= _Tadarida mexicana_] from
+
+Nebraska. Subsequently, Swenk (1915:854) reported _Myotis lucifugus
+
+lucifugus_ in the state and three years later (1918:411) he reported
+
+_Eptesicus fuscus pallidus_ for the first time. The report of _M. l.
+
+lucifugus_ seemingly was not substantiated by any actual specimens. The
+
+addition of _Myotis volans interior_ (Quay, 1948:181) brought to ten
+
+the number of species and subspecies of bats reported from the state.
+
+In the present paper, _Myotis keenii septentrionalis_, _Myotis
+
+lucifugus carissima_, and _Pipistrellus subflavus subflavus_ are
+
+reported from Nebraska for the first time. Also, the first authentic
+
+record of _Myotis lucifugus lucifugus_ is presented, along with
+
+additional information on previously reported species. A total number
+
+of 169 specimens from Nebraska was available for the present study.
+
+This includes almost all of the known specimens preserved in all
+
+collections as well as material obtained by us in the past six years.
+
+Nebraska has no natural caves or caverns; however, there are two
+
+extensive man-made limestone caves near Louisville, in Cass and Sarpy
+
+counties, where four kinds of bats have been found. Two of these are
+
+here reported as new to Nebraska. The quarries, one on either side of
+
+the Platte River Valley, are in a horizontal stratum of limestone 40
+
+feet in thickness, and are of the room and pillar type; that is to say,
+
+the stone has been quarried away leaving rooms having supporting
+
+pillars approximately every 50 feet. The average temperatures in summer
+
+and winter within these tunnels, recorded over a period of several
+
+years by the Ash Grove Lime and Portland Cement Company of Louisville,
+
+are 65° F. and 50° F. respectively. The Kiewit Stone Quarry, abandoned
+
+since 1936, is one-half mile west of Meadow, Sarpy County, and has one
+
+remaining entrance measuring approximately 30 by 30 feet. This quarry
+
+has an area of approximately one-fifth square mile and is usually
+
+flooded with several feet of water. The other man-made cave, known
+
+formerly as the National Stone Quarry, is one mile northeast of
+
+Louisville, Cass County. This quarry was abandoned in September, 1938,
+
+and until the winter of 1948-1949 had eight or nine entrances and two
+
+air shafts. It was approximately one-third square mile in area. All the
+
+openings to this quarry were covered in late 1949. Bats were first
+
+observed in the National Stone Quarry by one of us (Webb) as early as
+
+1939, less than a year after operations in the quarry ceased.
+
+METHODS AND ACKNOWLEDGMENTS
+
+     Records of Nebraskan bats are arranged in two categories;
+
+     specimens examined and additional records. The latter refer
+
+     to citations in the literature. Genera are arranged
+
+     according to Simpson (1945:59, 60), and species are listed
+
+     alphabetically under each genus. Specimens examined are in
+
+     the personal collection of the authors unless otherwise
+
+     indicated.
+
+     In connection with this study the authors acknowledge the
+
+     assistance of Drs. Edson H. Fichter, Department of
+
+     Biological Sciences, Idaho State College, and E. Raymond
+
+     Hall and Rollin H. Baker, University of Kansas Museum of
+
+     Natural History for critical assistance with the manuscript.
+
+     We are indebted to Mr. Richard B. Loomis, University of
+
+     Kansas, for aid in collecting specimens; to Dr. Henry W.
+
+     Setzer, United States National Museum, for providing
+
+     information on possible early Nebraskan records; and to Mr.
+
+     Fred Brammer, Ash Grove Lime and Portland Cement Company,
+
+     Louisville, Nebraska, for information on, and permission to
+
+     collect in, the quarries of that area. For the loan of
+
+     specimens we are grateful to Dr. William H. Burt, University
+
+     of Michigan Museum of Zoology, Dr. C. Bertrand Schultz,
+
+     University of Nebraska State Museum, Dr. Otis Wade,
+
+     University of Nebraska Department of Zoology, Miss Lucille
+
+     Drury, Cleveland Museum of Natural History, Mr. W. E.
+
+     Eigsti, Hastings Museum, Hastings, Nebraska, and to those in
+
+     charge of the collections of the Nebraska Game, Forestation
+
+     and Parks Commission.
+
+ACCOUNTS OF SPECIES
+
+~Myotis evotis evotis~ (H. Allen)
+
+Long-eared Myotis
+
+     _Vespertilio evotis_ H. Allen, Smithsonian Misc. Coll.,
+
+     165:48, June, 1864 (part), type from Monterey, Monterey Co.,
+
+     California.
+
+     _Myotis evotis_, Miller, N. Amer. Fauna, 13:78, October 16,
+
+     1897.
+
+     _Distribution in Nebraska._--Pine Ridge area of northwestern
+
+     part of state.
+
+     _Record of occurrence._--Specimen examined, 1, as follows:
+
+     SIOUX CO.: Warbonnet Canyon, 1 (Univ. Nebr. State Mus.).
+
+_Remarks._--This specimen was taken by Merritt Cary on July 22, 1901.
+
+~Myotis keenii septentrionalis~ (Trouessart)
+
+Eastern Long-eared Myotis
+
+     [_Vespertilio gryphus_] var. _septentrionalis_ Trouessart,
+
+     Catal. Mamm. viv. foss., p. 131, 1897, type from Halifax,
+
+     Halifax Co., Nova Scotia.
+
+     _Myotis keenii septentrionalis_, Miller and Allen, Bull. U.
+
+     S. Nat. Mus., 144:105, May 25, 1928.
+
+     _Distribution in Nebraska._--Known from limestone quarries
+
+     in Cass and Sarpy counties. Probably in other parts of
+
+     extreme eastern Nebraska.
+
+     _Records of occurrence._--Specimens examined, 35, as
+
+     follows: CASS CO.: 1 mi. NE Louisville, 4. SARPY CO.: 1/2
+
+     mi. W Meadow, 31 (some of these specimens have been
+
+     deposited in other collections as follows: Private
+
+     Collection of P. H. Krutzsch, 3; Private Collection of W. G.
+
+     Frum, 2; Nebr. Game, Forestation and Parks Comm., 1; Univ.
+
+     Kansas Mus. Nat. Hist., 2; Univ. Nebr. State Mus., 7).
+
+_Remarks._--Although not so common as _Pipistrellus_ in the limestone
+
+quarries, hibernating bats of this species frequently are found there,
+
+usually as solitary individuals either in drill holes or clinging to
+
+the walls of the quarries; occasionally, however, two or three bats
+
+have been found together in a single drill hole.
+
+~Myotis lucifugus carissima~ Thomas
+
+Brown Myotis
+
+     _Myotis (Leuconoe) carissima_ Thomas, Ann. and Mag. Nat.
+
+     Hist., (ser. 7), 13:383, May, 1904, type from Yellowstone
+
+     Lake, Yellowstone National Park, Wyoming.
+
+     _Myotis lucifugus carissima_, Cary, N. Amer. Fauna, 42:43,
+
+     October 3, 1917.
+
+     _Distribution in Nebraska._--Known from a single record in
+
+     extreme northwestern Nebraska, but probably occurs
+
+     throughout Panhandle of state.
+
+     _Record of occurrence._--Specimen examined, 1, as follows:
+
+     SIOUX CO.: Agate, 1 (Univ. Mich. Mus. Zool.).
+
+~Myotis lucifugus lucifugus~ (Le Conte)
+
+Brown Myotis
+
+     _V[espertilio]. lucifugus_ Le Conte, McMurtrie's Cuvier,
+
+     Animal Kingdom, 1:431, June, 1831, type from Georgia,
+
+     probably from the Le Conte Plantation, near Riceboro,
+
+     Liberty County.
+
+     _Myotis lucifugus [lucifugus]_, Miller, N. Amer. Fauna,
+
+     13:59, October 16, 1897.
+
+     _Distribution in Nebraska._--Known only from the limestone
+
+     quarry in Sarpy County, but probably occurs over most of
+
+     eastern third of state.
+
+     _Records of occurrence._--Specimens examined, 2, as follows:
+
+     SARPY CO.: 1/2 mi. W Meadow, 2 (Univ. Kansas Mus. Nat.
+
+     Hist., 1).
+
+_Remarks._--Two bats of this subspecies were found in the quarry in
+
+Sarpy County on December 30, 1949. None was found on subsequent visits
+
+to the quarry, although three other species of bats have been found
+
+there in large numbers. These specimens appear to be the first actual
+
+records of _M. l. lucifugus_ in the state, although Swenk (1915:854,
+
+and in subsequent lists) reported it as "uncommon eastwardly".
+
+One of these bats, a male (KU 35076), possesses a peculiar dental
+
+abnormality. Both of the second upper premolars (P3) are lacking,
+
+although the mandibular dentition is normal. This condition has been
+
+reported previously for this species by Frum (1946:176) in specimens
+
+from West Virginia.
+
+~Myotis subulatus subulatus~ (Say)
+
+Small-footed Myotis
+
+     _Vespertilio subulatus_ Say, Long's Exped. to Rocky Mts.,
+
+     2:65 (footnote), 1823, type from the Arkansas River near La
+
+     Junta, Otero Co., Colorado.
+
+     _Myotis subulatus_, Warren, The Mammals of Colorado, G. P.
+
+     Putnam's Sons, New York, 1910. p. 275.
+
+     _Distribution in Nebraska._--Northern and western Nebraska.
+
+     _Records of occurrence._--Specimens examined, 9, as follows:
+
+     CHERRY CO.: Valentine, 1 (Univ. Nebr. Dept. Zool.). SHERIDAN
+
+     CO.: Rushville, 1; 15 mi. N Rushville, 2. SIOUX CO.: Agate,
+
+     1 (Univ. Kansas Mus. Nat. Hist.); Monroe Canyon, 5-1/2 mi.
+
+     N, 2-1/2 mi. W Harrison, 2 (Nebr. Game, Forestation and
+
+     Parks Comm.); Warbonnet Canyon, 2 (Univ. Nebr. State Mus.).
+
+     Additional records: DAKOTA CO.: Crystal Lake, 1 (Stephens,
+
+     1945:92). DAWES CO.: Chadron, 1 (Miller and Allen,
+
+     1928:169). SIOUX CO.: Antelope Township, 1 (Quay, 1948:181);
+
+     Sugarloaf Township, 1 (Quay, 1948:181).
+
+_Remarks._--This bat is common along the Niobrara River in the
+
+northwestern part of the state. Stephens (_loc. cit._) reports taking
+
+a bat of this species in Dakota County in the northeastern corner of
+
+Nebraska. This specimen was sent to Swenk at the University of Nebraska
+
+for positive identification and was, according to Stephens, deposited
+
+in the Swenk collection. No trace of the specimen can be found at the
+
+present time. It is here assigned to _M. s. subulatus_.
+
+_M. s. subulatus_ has been observed frequently in the Pine Ridge area,
+
+generally in association with _Eptesicus fuscus pallidus_. Two
+
+specimens were shot by us from many that were seen flying over a small
+
+clearing in the pines in northern Sioux County on August 2, 1949.
+
+Several _Eptesicus_ were also obtained there. One of us (Webb) took two
+
+of these bats from their daytime retreat in a barn north of Rushville,
+
+Sheridan County, on September 5, 1951, where _Eptesicus_ was also
+
+found. They are known to inhabit hay barns at the Ft. Niobrara Game
+
+Reserve, Cherry County, also in association with _Eptesicus_. Swenk
+
+(1908:137) reports finding two of these bats under a loose strip of
+
+pine bark in Sioux County.
+
+~Myotis volans interior~ Miller
+
+Hairy-winged Myotis
+
+     _Myotis longricus interior_ Miller, Proc. Biol. Soc.
+
+     Washington, 27:211, October 31, 1914, type from Twining,
+
+     Taos Co., New Mexico.
+
+     _Myotis volans interior_, Miller and Allen, Bull. U. S. Nat.
+
+     Mus., 144:142, May 25, 1928.
+
+     _Distribution in Nebraska._--Badlands area of extreme
+
+     northwestern part of state.
+
+     _Records of occurrence._--Specimens examined, 2, as follows:
+
+     SIOUX CO.: Warbonnet Township, 8 mi. N Harrison, 2
+
+     (Cleveland Mus. Nat. Hist.).
+
+_Remarks._--Quay (1948:181) reported finding a colony of approximately
+
+180 of these bats in northern Sioux County in the summer of 1944. They
+
+were found in a crevice in a dry creek bed. He examined several dozen,
+
+all females, two of which were saved as specimens.
+
+The authors, while engaged in field work in this approximate locality
+
+in the summers of 1948 and 1949, were unable to locate any of these
+
+bats.
+
+~Lasionycteris noctivagans~ (Le Conte)
+
+Silver-haired Bat
+
+     _V[espertilio], noctivagans_ Le Conte, McMurtrie's Cuvier,
+
+     Animal Kingdom, 1:431, June, 1831, type from eastern United
+
+     States.
+
+     _Lasionycteris noctivagans_, Peters, Monatsber. k. preuss.
+
+     Akad. Wissensch. Berlin, p. 648, 1865.
+
+     _Distribution in Nebraska._--"Entire state, fairly common
+
+     during migrations but probably not breeding within our
+
+     limits" (Swenk, 1908:138).
+
+     _Records of occurrence._--Specimens examined, 2, as follows:
+
+     CLAY CO.: Inland, 1 (Hastings Museum, Hastings, Nebraska).
+
+     FRANKLIN CO.: Campbell, 1 (Hastings Museum, Hastings,
+
+     Nebraska).
+
+     Additional records (Swenk, 1908:138): CUMING CO.: West
+
+     Point. DOUGLAS CO.: Omaha. LANCASTER CO.: Lincoln. County
+
+     undesignated: "Platte River".
+
+~Pipistrellus subflavus subflavus~ (F. Cuvier)
+
+Eastern Pipistrelle
+
+     _V[espertilio]. subflavus_ F. Cuvier, Nouv. Ann. Mus. Hist.
+
+     Nat. Paris, 1:17, 1832, type from eastern United States,
+
+     probably Georgia.
+
+     _Pipistrellus subflavus_, Miller, N. Amer. Fauna, 13:90,
+
+     October 16, 1897.
+
+     _Distribution in Nebraska._--Known from limestone quarries
+
+     in Cass and Sarpy counties; probably ranging throughout
+
+     eastern Nebraska.
+
+     _Records of occurrence._--Specimens examined, 34, as
+
+     follows: CASS CO.: 1 mi. NE Louisville, 4. SARPY CO.: 1/2
+
+     mi. W Meadow, 30 (some of these specimens have been
+
+     deposited in other collections as follows: Private
+
+     Collection of P. H. Krutzsch, 3; Private Collection of W. G.
+
+     Frum, 2; Univ. Kansas Mus. Nat. Hist., 4; Univ. Nebr. State
+
+     Mus., 4).
+
+_Remarks._--This bat is the most common of the four species that are
+
+known to inhabit the quarries in Cass and Sarpy counties. Individuals
+
+have been found both in drill holes and clinging to the walls of the
+
+quarries. We have always found this bat to be solitary while in
+
+hibernation.
+
+~Eptesicus fuscus fuscus~ (Beauvois)
+
+Big Brown Bat
+
+     _Vespertilio fuscus_ Beauvois, Catal. Raisonné Mus. Peale,
+
+     Philadelphia, p. 18, 1796, type from Philadelphia,
+
+     Philadelphia Co., Pennsylvania.
+
+     _Eptesicus fuscus_, Méhely, Magyarország denevéreinek
+
+     monographiája (Monographia Chiropterorum Hungariae), pp.
+
+     206, 338, 1900.
+
+     _Distribution in Nebraska._--Eastern part of state.
+
+     _Records of occurrence._--Specimens examined, 23, as
+
+     follows: ADAMS CO.: Hastings, 1 (Hastings Museum, Hastings,
+
+     Nebraska). CASS CO.: 1 mi. NE Louisville, 6; Plattsmouth, 1
+
+     (Univ. Nebr. State Mus.). SARPY CO.: 1/2 mi. W Meadow, 15
+
+     (Univ. Nebr. State Mus., 7).
+
+_Remarks._--We have observed this bat hibernating in the limestone
+
+quarries of Cass and Sarpy counties, where it was commonly found in
+
+drill holes or clinging to the ceiling or walls. We have always found
+
+this bat to be solitary while in hibernation, with one exception. On
+
+January 31, 1949, a male and female were found in the same drill hole
+
+in the Cass County quarry. The jolt of being knocked from the hole
+
+separated the two bats, and upon examination the penis of the male was
+
+noted to be extended and erected, indicating that the pair might have
+
+been in the act of copulation.
+
+~Eptesicus fuscus pallidus~ Young
+
+Big Brown Bat
+
+     _Eptesicus pallidus_ Young, Proc. Acad. Nat. Sci.
+
+     Philadelphia, p. 408, October 2, 1908, type from Boulder,
+
+     Boulder Co., Colorado.
+
+     _Eptesicus fuscus pallidus_, Miller, Bull. U. S. Nat. Mus.,
+
+     79:62, December 31, 1912.
+
+     _Distribution in Nebraska._--Western half of state.
+
+     _Records of occurrence._--Specimens examined, 34, as
+
+     follows: CHERRY CO.: Ft. Niobrara Game Reserve, 19 (Nebr.
+
+     Game, Forestation and Parks Comm., 17); Valentine, 2 (Univ.
+
+     Nebr. Dept. Zool.). DAWES CO.: 10 mi. S Chadron, 1 (Univ.
+
+     Mich. Mus. Zool.). KNOX CO.: Niobrara, 1. SHERIDAN CO.: 15
+
+     mi. N Rushville, 2. SIOUX CO.: Glen, 1 (Univ. Nebr. State
+
+     Mus.); Monroe Canyon, 5-1/2 mi. N, 2-1/2 mi. W Harrison, 1
+
+     (Nebr. Game, Forestation and Parks Comm.); Warbonnet Canyon,
+
+     7 (Univ. Nebr. State Mus.).
+
+_Remarks._--A colony of approximately 100 of these bats was discovered
+
+in the unused portion of a barn loft at Ft. Niobrara Game Reserve on
+
+August 11, 1948. Although no temperature readings were taken, it was
+
+estimated that the temperature was more than 100° F. in the loft. The
+
+bats were congregated on rafters at the north end of the barn and when
+
+disturbed, only a few members of the colony dropped from the rafters to
+
+fly. Most of the bats crawled to new retreats between the rafters and
+
+the corrugated iron roof of the building.
+
+~Lasiurus borealis borealis~ (Müller)
+
+Red Bat
+
+     _Vespertilio borealis_ Müller, Natursyst. Suppl., p. 20,
+
+     1776, type from New York.
+
+     _Lasiurus borealis_ [_borealis_], Miller, N. Amer. Fauna,
+
+     13:105, October 16, 1897.
+
+     _Distribution in Nebraska._--State-wide in suitable habitat.
+
+     _Records of occurrence._--Specimens examined, 14, as
+
+     follows: LANCASTER CO.: Lincoln, 13 (Univ. Nebr. State Mus.,
+
+     11; Univ. Nebr. Dept. Zool., 1). RICHARDSON CO.: 3 mi. SE
+
+     Rulo, 1 (Nebr. Game, Forestation, and Parks Comm.).
+
+     Additional records (Swenk, 1908:139): CUMING CO.: West
+
+     Point. DOUGLAS CO.: Omaha. LANCASTER CO.: Lincoln. OTOE CO.:
+
+     Nebraska City. RICHARDSON CO.: Humboldt.
+
+~Lasiurus cinereus cinereus~ (Beauvois)
+
+Hoary Bat
+
+     _Vespertilio cinereus_ (misspelled _linereus_) Beauvois,
+
+     Catal. Raisonné Mus. Peale, Philadelphia, p. 18, 1796, type
+
+     from Philadelphia, Philadelphia Co., Pennsylvania.
+
+     _Lasiurus cinereus_, H. Allen, Smithsonian Misc. Coll.,
+
+     17:21, June, 1864.
+
+     _Distribution in Nebraska._--State-wide in suitable habitat.
+
+     _Records of occurrence._--Specimens examined, 11, as
+
+     follows: CLAY CO.: Inland, 1 (Hastings Museum, Hastings,
+
+     Nebraska). CUSTER CO.: Broken Bow, 2 (Univ. Mich. Mus.
+
+     Zool.); Victoria Springs, 1 (Univ. Mich. Mus. Zool.). FURNAS
+
+     CO.: Wilsonville, 1 (Hastings Museum, Hastings, Nebraska).
+
+     LANCASTER CO.: Lincoln, 6 (Univ. Nebr. State Mus., 5; Univ.
+
+     Nebr. Dept. Zool., 1).
+
+     Additional records: CUMING CO.: West Point (Swenk,
+
+     1908:139). DOUGLAS CO.: Omaha (Swenk, 1908:139). GAGE CO.:
+
+     Beatrice (Swenk, 1908:139). LANCASTER CO.: Lincoln (Swenk,
+
+     1908:139). County undesignated: Loup Fork (Miller,
+
+     1897:114).
+
+~Tadarida mexicana~ (Saussure)
+
+Mexican Free-tailed Bat
+
+     _Molossus mexicanus_ Saussure, Revue et Magasin de Zoologie,
+
+     Ser. 2, 12:283, July, 1860, type from Cofre de Perote,
+
+     13,000 feet, state of Veracruz, Mexico.
+
+     _Tadarida mexicana_, Miller, Bull. U. S. Nat. Mus., 128:86,
+
+     April 29, 1924.
+
+     _Distribution in Nebraska._--Known only from Lincoln,
+
+     Lancaster County.
+
+     _Records of occurrence._--Specimen examined, 1, as follows:
+
+     LANCASTER CO.: Lincoln, 1 (Univ. Nebr. State Mus.).
+
+     Additional record (Zimmer, 1913:665): LANCASTER CO.:
+
+     Lincoln.
+
+_Remarks._--The Mexican free-tailed bat is probably rare in Nebraska.
+
+The single specimen examined by us was obtained on June 27, 1931, from
+
+a downtown business building in Lincoln. According to the label on the
+
+specimen, it died in captivity on June 29 after giving birth to one
+
+young on June 28. The bat reported by Zimmer (_loc. cit._) was also
+
+taken in the business district of Lincoln. It was obtained on August
+
+15, 1913.
+
+In addition to the bats named above, six other kinds possibly occur in
+
+Nebraska. These, along with an indication of the part of the state in
+
+which each is to be looked for, are as follows:
+
+     _Myotis grisescens_ Howell, southeastern part of state.
+
+     _Myotis sodalis_ Miller and Allen, southeastern part of
+
+     state.
+
+     _Myotis thysanodes thysanodes_ Miller, northwestern part of
+
+     state.
+
+     _Nycticeus humeralis humeralis_ (Rafinesque), southeastern
+
+     part of state.
+
+     _Corynorhinus rafinesquii pallescens_ (Miller), northwestern
+
+     part of state.
+
+     _Tadarida molossa_ (Pallas), any part of state.
+
+LITERATURE CITED
+
+ALLEN, H.
+
+    1864. Monograph of the bats of North America. Smithsonian Misc.
+
+          Coll., 165:xxiii + 85, June, 1864.
+
+FRUM, W. G.
+
+    1946. Abnormality in dentition of _Myotis lucifugus_. Jour.
+
+          Mamm., 27:176, May 14, 1946.
+
+MILLER, G. S., JR.
+
+    1897. Revision of the North American bats of the family
+
+          Vespertilionidae. N. Amer. Fauna, 13:1-138, October 16, 1897.
+
+MILLER, G. S., JR., and G. M. ALLEN
+
+    1928. The American bats of the genera _Myotis_ and _Pizonyx_.
+
+          Bull. U. S. Nat. Mus., 144:viii + 218, May 25, 1928.
+
+QUAY, W. B.
+
+    1948. Notes on some bats from Nebraska and Wyoming. Jour. Mamm.,
+
+          29:181-182, May 14, 1948.
+
+SIMPSON, G. G.
+
+    1945. The principles of classification and a classification of
+
+          mammals. Bull. Amer. Mus. Nat. Hist., 85:xvi + 350,
+
+          October 5, 1945.
+
+STEPHENS, T. C.
+
+    1945. Say's bat in Nebraska. Jour. Mamm., 26:92, February 27, 1945.
+
+SWENK, M. H.
+
+    1908. A preliminary review of the mammals of Nebraska. Proc. Nebr.
+
+          Acad. Sci., 8:61-144, 1908.
+
+    1915. The birds and mammals of Nebraska. Nebr. Blue Book and
+
+          Historical Register, pp. 851-855, 1915.
+
+    1918. The birds and mammals of Nebraska. Nebr. Blue Book and
+
+          Historical Register, pp. 407-411, December, 1918.
+
+    1919. The birds and mammals of Nebraska. Univ. Nebr. Contrib.
+
+          Dept. Ent., 23:1-21, March 1, 1919.
+
+    1920. The birds and mammals of Nebraska. Nebr. Blue Book and
+
+          Historical Register, pp. 479-483, December, 1920.
+
+TAYLOR, W. P.
+
+    1919. Notes on mammals collected principally in Washington and
+
+          California between the years 1853 and 1874 by Dr. James Graham
+
+          Cooper. Proc. Calif. Acad. Sci., 9:69-121, July 12, 1919.
+
+ZIMMER, J. T.
+
+    1913. A northwardly record of the free-tailed bat. Science (NS),
+
+          38:665-666, November 7, 1913.
+
+_Transmitted, March 27, 1952._
+
+24-2965
+
+       *       *       *       *       *
+
+Transcriber's Notes
+
+Italicized text is shown within _underscores_.
+
+Bold text is shown within ~tildes~.
+
+***

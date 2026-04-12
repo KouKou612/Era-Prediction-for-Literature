@@ -1,0 +1,1695 @@
+Produced by Therese Wright and the Online Distributed
+
+Proofreading Team at http://www.pgdp.net (This book was
+
+produced from scanned images of public domain material
+
+from the Google Print project.)
+
+  +---------------------------------------------------+
+
+  | Transcriber's Note:                               |
+
+  |                                                   |
+
+  | The original text contains many instances of      |
+
+  | variation in spelling and hyphenation, these      |
+
+  | have been preserved as they appear. Inconsistent  |
+
+  | punctuation has also been preserved, although     |
+
+  | missing punctuation have been added without       |
+
+  | comment.                                          |
+
+  |                                                   |
+
+  | In the description of Greenwich, the author has   |
+
+  | omitted the number of miles from Stamford to      |
+
+  | Greenwich. The omitted number is in this e-text   |
+
+  | represented by curly brackets like this: { }.     |
+
+  |                                                   |
+
+  | Characters with diacritical marks are represented |
+
+  | in this e-text as follows:                        |
+
+  |                                                   |
+
+  |   Characters with a superior macron are preceded  |
+
+  |   by an equal sign and enclosed in square         |
+
+  |   brackets, eg., [=m].                            |
+
+  |                                                   |
+
+  |   Characters with a superior tilde are preceded   |
+
+  |   by a tilde sign and enclosed in square          |
+
+  |   brackets, eg., [~m].                            |
+
+  |                                                   |
+
+  | Superscripted characters are preceded by a carat  |
+
+  | and enclosed in curly brackets, eg., Cap^{t}.     |
+
+  +---------------------------------------------------+
+
+MAVERICK'S
+
+DESCRIPTION OF NEW ENGLAND.
+
+A BRIEFE
+
+DISCRIPTION OF NEW ENGLAND
+
+    AND THE
+
+SEVERALL TOWNES THEREIN
+
+    TOGETHER WITH
+
+THE PRESENT GOVERNMENT THEREOF.
+
+[From a Manuscript written in 1660 by Samuel Maverick, and recently
+
+discovered in the British Museum by Henry F. Waters, A.B.]
+
+[1885]
+
+BOSTON:
+
+PRESS OF DAVID CLAPP & SON.
+
+PREFACE.
+
+BY JOHN WARD DEAN.
+
+The Committee on English Research of the New England Historic
+
+Genealogical Society called attention in their last annual report to the
+
+fact that there were in England many important documents relating to the
+
+American colonies, as well as manuscript maps hitherto unknown to
+
+historical investigators. They urged upon the society the desirability
+
+of having exact copies of them made now while we have in Mr. Henry
+
+Fitz-Gilbert Waters an experienced American antiquary resident in
+
+London. This statement has been most strikingly verified by the recent
+
+discovery by Mr. Waters of the Winthrop map--one of the most valuable
+
+contributions yet made to our early colonial history--notices of which
+
+appeared in the Proceedings of the Massachusetts Historical Society for
+
+June, 1884, and in the REGISTER for July, 1884 (xxxviii. 342).
+
+The manuscript "Description of New England," which is here printed, is a
+
+still more important discovery. Though it bears neither name nor date,
+
+there is internal evidence that it was written in the year 1660, after
+
+the return of Charles II., by Samuel Maverick, afterwards one of the
+
+king's commissioners. Maverick, when Winthrop and his company arrived,
+
+was settled at Noddle's Island, now East Boston, and was known to have
+
+been here some years before. The date of his arrival in New England has
+
+hitherto been unknown. This manuscript gives it as 1624. Maverick was
+
+then about twenty-two years old.
+
+An account of New England by one of the first white men who ever settled
+
+on the shores of Massachusetts Bay, one of the "old planters" whom Gov.
+
+Winthrop found here, is certainly of extraordinary interest to all
+
+students of our colonial history. Its fortunate discovery emphasizes in
+
+the strongest manner the great importance of the work which Mr. Waters
+
+is doing for us in England.
+
+This paper clears up many obscurities in our early New England history,
+
+and gives us definite information which we have long desired to obtain.
+
+It was probably presented to Sir Edward Hyde, afterwards Earl of
+
+Clarendon, who was then Charles the Second's Lord High Chancellor. It
+
+may be the paper referred to by Maverick in his letter to the earl,
+
+printed in the Collections of the New York Historical Society for 1869,
+
+page 19. That letter and others in the same volume should be read in
+
+connection with the present paper. They show the persistency displayed
+
+by Maverick in his efforts to deprive New England, and particularly
+
+Massachusetts, of the right of self-government which had so long been
+
+enjoyed here. The same spirit is shown in his letters printed in the
+
+third volume of the New York Colonial Documents. The death of Maverick,
+
+which occurred between October 15, 1669, and May 15, 1676, did not bring
+
+repose to the people of Massachusetts. In the latter year a new
+
+assailant of their charter appeared in the person of Edward Randolph
+
+(see REGISTER, xxxvi. 155), whose assaults on their liberties did not
+
+cease till the charter was wrested from them, and the government under
+
+it came to an end May 20, 1686.
+
+The document here printed is in the British Museum, Egerton MSS. 2395,
+
+ff. 397-411. The volume containing it was in private hands till 1875,
+
+when on the sixteenth of February in that year it was sold at auction by
+
+Messrs. Sotheby & Co., London, and bought by the Trustees of the British
+
+Museum.
+
+The long residence of Mr. Maverick, the writer of this "Description of
+
+New England," on these shores, and the opportunities which he is known
+
+to have had to learn personally the facts here stated, give it greater
+
+weight than it would have had were it merely the observations of a
+
+transient visitor to the New World.
+
+This document was read before the Massachusetts Historical Society by
+
+John T. Hassam, A.M., in October, 1884, and is printed in its
+
+Proceedings, vol. xxi. p. 231. It was also printed in the New-England
+
+Historical and Genealogical Register for January, 1885, and the type set
+
+for that periodical have been used to print the present issue.
+
+     _Boston, Massachusetts, January 1, 1885._
+
+A BRIEFE DISCRIPTION OF NEW ENGLAND AND THE SEVERALL TOWNES THEREIN,
+
+TOGETHER WITH THE PRESENT GOVERNMENT THEREOF.
+
+_Pe[~m]aquid._--Westward from Penobscott (which is the Southermost Fort
+
+in Nova Scotia) fourteen Leagues of is Pe[~m]aquid in which River
+
+Alderman Alworth of Bristole, setled a Company of People in the yeare
+
+1625, which Plantation hath continued and many Families are now settled
+
+there. There was a Patent granted for it by his Mat^{ies}: Royall
+
+Grandfath^{er} and by vertue of that Patent they hold the Islands of
+
+Monahegan and Damerells Coue, and other small ones adjacent Commodious
+
+for fishing.
+
+_Sagadahocke._--Three leagues distant from Damerells Coue is Sagadahocke
+
+at the mouth of Kenebeth River, on which place the Lord Pohams people
+
+setled about fiftie yeares since, but soon after deserted it, and
+
+returned for England; I found Rootes and Garden hearbs and some old
+
+walles there, when I went first over which shewed it to be the place
+
+where they had been. This is a great and spreading River and runes very
+
+neer into Canada. One Captaine Young and 3 men with him in the Yeare
+
+1636 went up the River upon discovery and only by Carying their Canoes
+
+some few times, and not farr by Land came into Canada River very neare
+
+Kebeck Fort where by the French, Cap^{t} Young was taken, and carried
+
+for ffrance but his Company returned safe and about 10 yeares since a
+
+Gentleman and a Fryer came down this way from Kebeck to us in New
+
+England to desire aide from us ag^{st} the Mowake Indians who were and
+
+still are their deadly enemies; This River by reason of its nearnesse
+
+to Canada and some other branches of it tending towards Hudsons River;
+
+and a Lake of Canada afford more Beaver skins and other peltry then any
+
+other about us: On this River & on the Islands lying on the mouth of it
+
+are many families Scatteringly setled. Some attend wholly the trade with
+
+the Indians, others planting and raiseing a stock of Cattle and Some at
+
+the mouth of the River keep fishing. There was a patent granted to
+
+Christo: Batchelo^{r} and Company in the year 1632 or thereabouts for
+
+the mouth of the River and some tract of land adjacent, who came over in
+
+the Ship named the Plough, and termed themselves the Plough Companie,
+
+but soon scattered some for Virginia some for England, some to the
+
+Massachusetts never settling on that land.
+
+_Casco Bay._--Betweene Sagadahocke and Cape Elizabeth lying about 7
+
+Leagues assunder is Casco Bay; about the yeare 1632 there was a Patent
+
+granted to one Cap^{t}. Christopher Lewett for 6000 acres of land which
+
+he tooke up in this Bay neare Cape Elizabeth and built a good House and
+
+fortified well on an Island lyeing before Casco River this he sold and
+
+his Interrest in the Patent to M^{r} Ceeley M^{r} Jope and Company of
+
+Plimouth, In this Casco Bay are many scattering Families settled. There
+
+was a Patent granted for this Bay some yeares since by the title of the
+
+Province of Ligonia to Collonell Alexander Rigby afterwards a Judge, and
+
+under this Goverment the People lived some yeares, till of late the
+
+Government of the Massachusits hath made bold to stretch its
+
+Jurisdiction to the midle of this Bay, and as lyeing in their way have
+
+taken in a dozen of Goverments more.
+
+_Richmond Island._--There was long since a Patent granted to M^{r}
+
+Robert Trelawny of Plymouth from Cape Elizabeth to Spurwinke River
+
+including all Richmond Isle, an Excellent ffishing place, His Agents for
+
+matter of Goverment long since submitted to the Province of Mayne, for
+
+which Province a Patent was long since granted to S^{r} Ferdinando
+
+Gorges there are not many people in it, Those that are, are under the
+
+Goverment of the Massachusits.
+
+_Black Point._--The next place inhabited is Black Point two miles from
+
+Richmond Island; For this a Patent was granted to Captaine Cammock whose
+
+successor M^{r} Henry Joselin lives there now, and severall Families
+
+besides, they were under the Goverment of the Province of Mayne, but now
+
+Commanded by the Massachusits.
+
+_Saco._--Three miles beyond this is Saco River abounding with ffish as
+
+Basse, Sturgeon and Salmond. The Northside of the River was granted by
+
+Patent to M^{r} Lewis and Capt. Bonithan, and the Southside to on M^{r}
+
+Richard Vines, upon this River are severall Families setled formerly
+
+under the Goverment of the Province of Majne and here was keept some
+
+time the Generall Court for that Province, but now Commanded by the
+
+Massachusits.
+
+_Wells._--Three miles from Saco River are Cape Porpyes Islands a good
+
+ffishing place, where are Severall Families setled, and 4 miles from
+
+thence is Wells a handsome and well peopled place Lying on both sides of
+
+a River, for which Place a Patent was long since Granted to on M^{r}
+
+John Stratton but now Commanded by the Massachusetts.
+
+_Bristoll_ now _Yorke_.--About 12 miles further is the River Agomentine,
+
+for which and the lands adjacent a Patent was (nere 30 yeares since)
+
+granted unto S^{r} Ferdinando Gorges, M^{r} Godfrey, Alderman ffoote of
+
+Bristoll myselfe, and some others, On the northside of this River at our
+
+great Cost and Charges wee setled many ffamilies, which was then called
+
+Bristoll, and according to the Patent, the Goverment was conformable to
+
+that of the Corporation of Bristoll, only admitting of Appeales to the
+
+Generall Court for the Province of Mayne which was often keept there,
+
+but some yeares since the Goverment with the rest was Swallowed up by
+
+the Massachusetts.
+
+_Nichiquiwanick._--About 3 miles from Agomentine is the River Pascataway
+
+which is 6 miles from the mouth. It brancheth itselfe in two Branches,
+
+the South branch of which retaineth the name of Pascataway the other
+
+Nichiquiwanick, on the Northside of this River there are severall
+
+Divisions of Land granted long since by Patents unto diverse persons as
+
+Cap^{t} Mason, Cap^{t} Griffith, M^{r} Gardener and others, on which are
+
+severall persons setled for 12 miles togither. At the Falls of
+
+Nichiquiwanick 3 Excellent Saw-Mills are seatted and there and downward
+
+that side of y^{e} River have been gotten most of the Masts which have
+
+come for England, and amongst the rest that admired Mast which came over
+
+some time last year containing neere 30 Tu[=n]es of Ti[=m]ber (as I have
+
+been informed).
+
+_Cochequo._--On the Sowth side of that Branch is a Creeke Cochequo,
+
+whereon at the head are 2 Saw Mills, and affoord good Masts, & Mutch
+
+Tarr hath been made on that Creeke side.
+
+_Dover._--Belowe where the River parteth stands on a Tongue of Land the
+
+Towne of Dover, for which place and the land adjacent some gentlemen of
+
+or about Shrewsbury have a Patent.
+
+_Oyster Creeke._--On the Northside of the South Arme is Oyster Creeke on
+
+which place are many people setled some Saw Mills and affoords yow Good
+
+Masts, and further up is another Saw Mill on Lamperell Creeke.
+
+_Exeter._--Above this at the fall of this River Pascatoway is the Towne
+
+of Exceter, where are more Saw Mills, doune the Southside of this River
+
+are Farmes and other Stragling Families.
+
+_Strawberry Bank. The Great House & Isle of Shooles._--Within 2 Myles of
+
+the Mouth is Strawberry Banke where are many Families, and a Minister &
+
+a Meeting House, and to the meeting Houses of Dower & Exceter, most of
+
+the people resort. This Strawberry Banke is part of 6000 acres granted
+
+by Patent about y^{e} yeare 1620 or 1621, to M^{r} David Thompson, who
+
+with the assistance of M^{r} Nicholas Sherwill, M^{r} Leonard Pomery and
+
+M^{r} Abraham Colmer of Plymouth Merchants, went ower with a
+
+Considerable Company of Servants and built a Strong and Large House,
+
+enclosed it with a large and high Palizado and mounted Gunns, and being
+
+stored extraordinarly with shot and Ammunition was a Terror to the
+
+Indians, who at that time were insulting over the poor weake and
+
+unfurnished Planters of Plymouth. This house and ffort he built on a
+
+Point of Land at the very entrance of Pascatoway River, And haveing
+
+granted by Patent all the Island bordering on this land to the Midle of
+
+the River, he tooke possession of an Island co[=m]only called the great
+
+Island and for the bounds of this land he went up the River to a point
+
+called Bloudy Point, and by the sea side about 4 milles he had also
+
+power of Goverment within his owne bounds, Notwithstanding all this, all
+
+is at this day in the power and at the disposall of the Massachusitts.
+
+Two Leagues of lyes the Isle of Shooles one of the best places for
+
+ffishing in the land, they have built a Church here and maintaine a
+
+Minister.
+
+_Hampton._--Eight Miles to the Southward of Pascatoway is a small River
+
+called Monoconock, on which River is a large Town called Hampton, The
+
+inhabitants living weell by Corne and Cattle, of which they have great
+
+store, Ther was a Patent granted for this very place to Cap^{t} Mason
+
+neare 40 yeares agoe & this was the first land the Massachusits stretcht
+
+there line over beyond there true bounds: For about 3 miles South of
+
+this place, at there first coming over they sett up a house and named it
+
+the bound House as finding it three miles from Meromack, the North bound
+
+of there Patent, and with this they rested contented for about 10
+
+yeares.
+
+_Salisbury New & Old._--Seaven Miles to the Southward of Hampton is
+
+Meromack River, on the mouth of which on the Northside is seatted a
+
+Large Toune called Sallisbury, and 3 miles above it a Village called old
+
+Salisbury, where ther is a Saw Mill or two. The Commodities this Toune
+
+affords are Corne, Cattle, Boards and Piper Staues.
+
+_Haverell Andover._--Fouer Leagues up this River is Haverell, a pretty
+
+Toune & a few miles higher is the Toune of Andouer both these Tounes
+
+subsist by Husbandry.
+
+_Newbury._--At the mouth on the southside of Meromack and upwards is
+
+seated the Towne of Newbury, the Houses stand at a good distance each
+
+from other a feild and Garden between each house, and so on both sides
+
+the street for 4 Miles or therabouts betweene Salisbury and this Towne,
+
+the River is broader then the Thames at Deptford, and in the Sumer
+
+abounds with Sturgeon, Salmon and other ffresh water fish. Had we the
+
+art of takeing and saveing the Sturgeon it would prove a very great
+
+advantage, the Country affording Vinager, and all other Materialls to do
+
+it withall.
+
+In this Towne and old Newbury adjoining are 2 Meeting Houses.
+
+_Rowley._--Three Miles beyound this Old Newbury is a large and populous
+
+Towne called Rowley about two miles from the Bay of Agowame within land
+
+the Inhabitants are most Yorkshiremen very laborious people and drive a
+
+pretty trade, makeing Cloath and Ruggs of Cotton Wool, and also Sheeps
+
+wooll with which in few yeares the Countrey will abound not only to
+
+supply themselves but also to send abroad. This Towne aboundeth with
+
+Corne, and Cattle, and have a great number of Sheep.
+
+_Ipswich._--Three Miles beyond Rowley lyeth Ipswich at the head of
+
+Agawame River, as farr up as Vessells cane come. It hath many
+
+Inhabitants, and there farmes lye farr abroad, some of them severall
+
+miles from the Towne. So also they do about other Townes.
+
+_Wenham._--Six Miles from this Towne lyeth a Towne called Wenham seated
+
+about a great Lake or Pond which abounds with all manner of ffresh
+
+ffish, and such co[=m]odities as other places have it affordeth.
+
+_Gloucester._--Between these two Townes there runes out into the Sea
+
+that noated head land called Cape Ann fower miles within the outermost
+
+head. There is a Passage cutt through a Marsh between Cape Ann Harbo^{r}
+
+& Manisqwanne Harbour where stands the Towne called Glocester very
+
+co[=m]odious for building of shipping and ffishing.
+
+_Manchester._--Fower miles Westward from Glocester, lyeth on the Sea
+
+side a small Towne called Manchester, there is a Sawmill and aboundance
+
+of Timber.
+
+_Mackrell & Basse Cove._--About six miles from this Towne lyeth by the
+
+Sea side a Village Called Mackarell Coue, and a mile or 2 aboue on a
+
+Branch of Salem River lyeth another Village called Basse Coue, These two
+
+have Joyned and built a Church, which stands between them both ower
+
+ag^{st} Salem.
+
+_Salem._--On the South side of Salem River stands on a peninsula the
+
+Towne of Salem, setled some yeares by a few people befor the Patent of
+
+the Massachusits was granted. It is very commodious for fishing, and
+
+many Vessells have been built there and (excep^{t} Boston) it hath as
+
+much Trade as any place in New England both inland and abroad.
+
+_Marblehead or Foy._--Two miles below this Towne on the Southside of the
+
+Harbo^{r} by the sea side lyeth Marblehead or ffoy the greatest Towne
+
+for ffishing in New England.
+
+_Lynne._--Five miles Westward lyeth the Towne of Lynne along by the sea
+
+side, and two miles aboue it within the bounds of it are the greatest
+
+Iron works erected for the most part at the charge of some Merchants,
+
+and Gentlmen here resideing and cost them about 14000L, who were as it
+
+is conceived about six yeares since Injuriously outted of them to the
+
+great prejudice of the Country and Owners.
+
+_Reading._--Three miles above the Iron Worke in the Country is a pretty
+
+Towne, called Reading, which as all inland Townes doe live by Husbandry.
+
+The people have imployment also at the Iron work in digging of myne, and
+
+cutting of wood.
+
+_Rumney Marsh._--Two miles from the Ironwork by the Seaside is a large
+
+Marsh called Rummney Marsh and between that and Winnisime being about 2
+
+miles. There are many good farmes belonging to Bostone, which have a
+
+Metting House, as it were a Chapel of Ease.
+
+_Winnisime._--Two miles Sowth from Rumney Marsh on the North side of
+
+Mistick River is Winnisime which though but a few houses on it, yet
+
+deserves to be men[~c]ond One house yet standing there which is the
+
+Antientest house in the Massachusetts Goverment, a house which in the
+
+yeare 1625 I fortified with a Pillizado and fflankers and gunnes both
+
+belowe and above in them which awed the Indians who at that time had a
+
+mind to Cutt off the English, They once faced it but receiveing a
+
+repulse never attempted it more although (as now they confesse) they
+
+repented it when about 2 yeares after they saw so many English come
+
+over.
+
+_Mauldon._--Two miles above Winnisime Westward stands a small Country
+
+Towne called Mauldon, who imploy themselves much in ffurnishing the
+
+Towne of Boston and Charles Towne with wood, Timber and other Materials
+
+to build withall.
+
+_Wooburne._--Fower or five miles above Mouldon West is a more
+
+considerable Towne called Wooburne, they live by ffurnishing the Sea
+
+Townes with Provisions as Corne and Flesh, and also they ffurnish the
+
+Merchants with such goods to be exported.
+
+_Charles Towne._--One mile from Winnisime crossing Mistick River is the
+
+Towne of Charles Towne standing on the Northside of the Mouth of Charles
+
+River, It Challengeth the second place of Antiquitie in the
+
+Massachusetts Government. It hath some considerable Merchants in it and
+
+many usefull handicraftsmen and many good farmers belonging to it.
+
+_Cambridge._--Three miles aboue this stands on the same River the Towne
+
+of Cambridge in which there is a Colledge a Master and some Number of
+
+Students belonging to it; out of which there have come many into
+
+England, The Towne hath many great ffarmes belonging to it.
+
+_Water Towne._--Joyning to this is Watter Towne, a great Towne reaching
+
+by y^{e} River Side two miles, and hath belonging to it very many and
+
+great ffarmes, about the uper end of this Towne are the ffalls of
+
+Charles River.
+
+_Concord._--Above Twelve miles above Watter Towne is an In-land Towne
+
+called Concord It lyeth on the River Meromack I conceive about 20 miles
+
+above the first ffalls but good passing on it there in small Boats from
+
+place to place. They subsist in Husbandry and breeding of Catle.
+
+_Sudbury._--About 4 or 5 Miles more Southerly on the same River is a
+
+Towne called Sudbury a very pleasant place, the River runing to & againe
+
+in it, In which I have seen Excellent ffishing both with hooks & Lynes
+
+and Netts, They plant and breed Catle, and gett something by Tradeing
+
+w^{t} the Indians.
+
+_Nashoway._--About ten or twelfe miles aboue these Two Townes is a
+
+Countrey Towne called Nashoway first begun for Love of the Indians
+
+Trade, but since the ffertility of y^{e} Soyle and pleasantness of the
+
+River hath invited many more. There is Excellent Salmon and Trout.
+
+Now we must returne to the mouth of Charles River againe or rather the
+
+entrance of the Bay of Massachusits, It hath three entrances, two of
+
+them difficult and dangerous without a good wind and Pylot. The
+
+Southermost called Nasascot in the usuall Channell; w^{in} this Bay are
+
+12 or 13 pretty Islands between some of which yow must saile about 2
+
+leagues before yow come up to Boston Rode yow must passe within halfe a
+
+Cable lenth of Castle Island, on which is a ffort above and a strong
+
+Battery below, closs by Highwater marke, on this Island I conceive there
+
+be thirtie good Gunns.
+
+_Boston._--Two miles aboue this Island is the Towne of Boston, the
+
+Metrapolis of New England lying pleasantly on a plaine and the ascending
+
+of a High Mount which lyes about the midle of y^{e} plaine, The wholl
+
+Towne is an Island except two Hundred paces of land at one place on the
+
+Southside it is large and very populous. It hath two handsome Churches
+
+in it, a handsome market place, and in the midest of it a Statehouse. In
+
+the Towne are fouer full companys of ffoote and a Troope of horse On the
+
+Southeast side of the Towne on a little Hill there is a Fort, and under
+
+it a Batterie both having a dozen of Gunns or more in them, and on the
+
+Northeast side of the Towne there is a Battery of 6 Gunns commanding the
+
+Rode and the entrance of Charles River, and on the tope of the Hill
+
+aboue the Towne and in the strats are severall good Gunns, The Towne is
+
+full of good shopps well furnished with all kind of Merchandize and many
+
+Artificers, and Trad's men of all sorts. In this Towne are kept the
+
+Courts of Election y^{e} Generall quarter Court besids the Country
+
+Courts.
+
+_Roxberry._--About two miles to the Southward of Boston is the Towne of
+
+Roxberry. The sea which surrounds Boston comes on both sides of it. It
+
+is well seatted, for the Body of the Towne lyeth on both sides a small
+
+Rivolet of water. There are many considerable ffarmes belonging to it,
+
+and by Farmeing is there most subsistance.
+
+_Dorchester._--Two miles near east from this Towne lyeth Dorchester,
+
+which claimes the third dignity as being y^{e} third Towne setled by the
+
+English in the year 1630. They are a very industrious people, and have
+
+large bounds on w^{ch} are many gallant Farmes, by these bounds runes
+
+the Massachusets River.
+
+_Dedham._--And on Charles River stands the Towne of Dedham about 8 Miles
+
+either from Boston or Roxberry, a very pleasant place and the River
+
+affoords plenty of good ffish In this Towne leiveth many Bisquett makers
+
+and Butchers and have Vent enough for their Commodities in Boston.
+
+_Medfeild._--Five or six Miles from Dedham is a small in-land Towne
+
+called Medifield handsomly seatted for Farming and breeding of Cattle.
+
+_Braintree._--Three or fouer miles Southward is a Towne once called
+
+Mount Wolaston, now Braintree. There was a Patent granted for a
+
+considerable tract of land in this place in the yeare 1632 or
+
+thereabouts to Cap^{t} Wollaston and M^{r} Thomas Morton. Wollaston
+
+returned for England and Morton was banished, his house fired before his
+
+face, and he sent prissoner to England but for what offence I know not
+
+who some yeares after (nothing being laid to his Charge) returned for
+
+New England, where he was soon after apprehended and keept in the
+
+Co[=m]on Goale a whole winter, nothing laid to his Charge but the
+
+writeing of a Booke entituled New Canaan, which indeed was the truest
+
+discription of New England as then it was that euer I saw. The offence
+
+was he had touched them too neare they not proveing the charge he was
+
+sett loose, but soone after dyed, haveing as he said and most believed
+
+received his bane by hard lodging and fare in prison. This was done by
+
+y^{e} Massachusetts Magistrats and the land by them disposed of. It
+
+subsists by raiseing provisions, and furnishing Boston with wood.
+
+_Weymouth._--Two or three miles from hence Sowthward is y^{e} Towne of
+
+Weymouth, wherein are some quantity of Inhabitants, & leive as their
+
+neibo^{rs} who have commerce with Boston.
+
+_Higham._--Three Miles from hence Easterly on the South shoare of
+
+Massachusits Bay is the Towne of Higham a handsome Towne supplying
+
+Boston also with wood, timber, leather and board, Some Masts are had
+
+there and store of provisions.
+
+_Hull._--Three Miles further tending more to the East, at the very
+
+entrance into the Massachusetts Bay is the Towne of Hull, the
+
+Inhabitants of which leives well being by Water not above 7 Miles from
+
+Boston tho neare 20 by land.
+
+Three miles South from this place is the utmost south bounds of the
+
+Massachusits Goverment and Territories, beyond which they have not gone
+
+although they have gone soe farr beyond them to the Northward.
+
+     Before I enter into Plymouth bounds I must say something
+
+     of this Goverment which hath ouertopped all the rest.
+
+About the yeare 1626 or 1627 there was a Patent granted by his
+
+Maty^{es}: Royall Father of ever blessed Memory to certaine Gentlemen
+
+and Merchants, for the Tract of land befor men[~c]ond, and power given
+
+them by the same to incorporate themselfes into a body pollitick the
+
+Governor and all other officers to be Annually chosen by the Majo^{r}
+
+part of the inhabitants, ffreholders, As soon as the grant was
+
+confirmed, they chose here on M^{r} Mathew Craddock Governo^{r} and one
+
+Goffe deputy; They forthwith sent over one M^{r} Endicott, Governor[A]
+
+as deputy to rule over us the Inhabitants which had leived there long
+
+befor their Patent was granted, and some had Patents preceeding theirs,
+
+had he had pouer according to his will he had ruled us to y^{e} purpose;
+
+But within two yeares after they sent ower one M^{r} John Winthrope
+
+Governor and with him a Company of Assistants all Chosen here in
+
+England without the Knowledge or Consent of them that then leived there
+
+or of those which came with them.
+
+    [A] This word "Governor" was interlined over the word "as," and
+
+        unfortunately no caret mark made to show its intended place.
+
+This Governo^{r} and his Councill, not long after their Aryvall made a
+
+law that no man should be admitted a Freeman, and soe Consequently have
+
+any voyce in Election of Officers Civill or Military, but such as were
+
+first entered into Church covenant and brought Certificate of it, let
+
+there Estates, and accordingly there portion of land be never soe great,
+
+and there taxes towards publick Charges. Nor could any competency of
+
+Knowledge or inoffensivenesse of liveing or conversation usher a man
+
+into there Church ffellowship, unless he would also acknowledge the
+
+discipline of the Church of England to be erroneous and to renounce it,
+
+which very many never condescended unto, so that on this account the far
+
+great Number of his Majesties loyall subjects there never injoyed those
+
+priviledges intended by his Royall ffather in his Grant, And upon this
+
+very accompt also, if not being Joyned in Church ffelowship many
+
+Thowzands have been debarred the Sacrament of the Lords Supper although
+
+of Competent knowledg, and of honest life and Godly Conversation, and a
+
+very great Number are unbaptized. I know some neer 30 years old, 7
+
+persons of Quality about 12 years since for petitioning for themselves &
+
+Neighbo^{rs} that they might have votes in Elections as ffreeholders or
+
+be ffreed from publick Charge, and be admitted to the Sacrament of the
+
+Lords Supper and theire Children to Baptisme as Members of the Church of
+
+England, and have liberty to have Ministers among themselves learned
+
+pious and Orthodox, no way dissonant from ye best Reformation in
+
+England, and desireing alsoe to have a body of Lawes to be Established
+
+and published to prevent Arbitrary Tiranny, For thus desireing these
+
+three reasonable requests besids imprissonement and other indignitys,
+
+they were fined 1000^{lb}, a Notw^{t}standing they Appealled to England,
+
+they were forced to pay the same, and now also at great Charges to send
+
+one home to prosecute their appeall which proved to no Effect, That
+
+dismall Change falling out, Just at that time And they sending home
+
+hither one Edward Winslow a Smooth toungued Cunning fellow, who soon
+
+gott himselfe into Favo^{r} of those then in Supreame power, against
+
+whom it was in vaine to strive, and soe they remained sufferers to this
+
+day.
+
+By what I have said it appears how the Major part of the Inhabitants are
+
+debarred of those Priviledges they ought to enjoy and were intended
+
+fo^{r} them, How they Esteem of the Church of England. How farr they
+
+owne his Matie as haveing any power over them, or their Subjection to
+
+him; This I know that not long after they arrived they defaced the
+
+Collou^{rs} which they brought over with them, being the English Redd
+
+Cross terming it a badge of the Whore of Babelon.
+
+And not long after haveing received a Report that his Mat^{ie} intended
+
+to send a Generall Governo^{r} over, and being informed by a Shallop
+
+that they had seen a great shipe and a smaller one goe into Cape Ann
+
+Harbo^{r} about 8 Leagues from Boston. There was an Alarme presently
+
+given and early in the Morning being Sabbath day all the Traine Bands in
+
+Boston, and Townes adjacent were in Armes in the streets and posts were
+
+sent to all other places to be in the same posture, in which they
+
+continued untill by theire scouts they found her to be a small shipe of
+
+Plymouth and a shallope that piloted her in, The generall and Publick
+
+report was that it was to oppose the landing of an Enemie a Governo^{r}
+
+sent from England, and with this they acquanted the Commanders.
+
+And about the year 1636 one Brooks hearing one Evers to vilifie the
+
+Goverment of England both Civill and Eclesiasticall, and saying that if
+
+a Generall Governo^{r} were sent over he would kill him if he could, and
+
+he knew the Magistrats would bear him out in it, of which Brooks
+
+complaining by way of Information, the matter was handled that Evers had
+
+nothing said to him, and Brookes forced to escape privatly for England.
+
+They also in the yeare 1646 & 1647 suffered a ship the Mary of Bristoll
+
+then standing out for the Kings Majestie to be taken by one Stagg
+
+haveing a Commission from the Parliament, and conveyed away although
+
+they had promised them a protection. They also Ordered the takeing downe
+
+of the Kings Armes and setting up the States, & the like by the Signe of
+
+the Kings head hanging before the doore of an Inne. And when that
+
+unhappy warr was between King and Parlia^{t} they compelled every
+
+Commander of a Vessell that went out from thence to enter into Bond not
+
+to have any Commerce with any place then holding out for the King, and
+
+in opposition to the then pretended power in England, Nor was there ever
+
+any Oath of Alleageance offered to any, but instead thereof they have
+
+framed two Oathes, which they impose on those which are made free. The
+
+other they terme the Oath of ffidelitie, which they force all to take
+
+that are above 16 yeares of age, a Coppy of it is as followeth--
+
+I. A. B. by Gods providence being an Inhabitant within the Jurisdiction
+
+of this Comon Wealth doe freely and sincerely acknowledge myselfe to be
+
+subject to the Goverment thereof. I doe hereby swear by the great and
+
+dreadfull name of the ever liveing God, that I will be true and
+
+Faithfull to the same, and will accordingly yeild assistance thereunto
+
+with my person, Estate, as in equity I am bound And will also truly
+
+endeavo^{r} to maintaine and preserve all the Liberties and priviledges
+
+thereof, Submitting myselfe unto the wholesome Lawes made and
+
+established by the same. And further that I will not plot or practize
+
+any evill against it or consent to any that shall soe doe. But will
+
+timely discover and reveall the same to Lawfull Authority now here
+
+established for the speedy preventing thereof. SO HELP ME GOD IN OUR
+
+LORD JESUS CHRIST.
+
+By this it may be judged what esteeme they have of the lawes of England,
+
+swearing theire subjects to submite to lawes made only by themselfes,
+
+And indeed to Alleage a Statute Law of England in one of their Courts
+
+would be a ridiculous thing. They likewise long since fell to coyning of
+
+monies, melting downe all the English Coyne they can gett, every
+
+shilling makeing 15^{d} in their monies, And whereas they went over
+
+thither to injoy liberty of Conscience, in how high a measure have they
+
+denyed it to others there wittnesse theire debarring many from the
+
+Sacraments spoken of before meerly because they cannot Joyne with them
+
+in their Church-ffellowship, nor will they permitt any Lawfull Ministers
+
+that are or would come thither to administer them. Wittness also the
+
+Banishing so many to leave their habitations there, and seek places
+
+abroad elswhere, meerly for differing in Judgment from them as the
+
+Hutchinsons and severall families with them, & that Honb^{le} Lady the
+
+Lady Deborah Moody and severalls with her meerly for declareing
+
+themselfes moderate? Anabaptists, Who found more favour and respect
+
+amongst the Dutch, then she did amongst the English, Many others also
+
+upon the same account needless to be named, And how many for not comeing
+
+to theire assemblies have been compelled to pay 5^{s} a peece for every
+
+Sabbath day they misse, besides what they are forced to pay towards the
+
+mantenance of the Ministers, And very cruelly handled by whipping and
+
+imprissonment was M^{r} Clark, Obadiah, Holmes, and others for teaching
+
+and praying in a private house on the Lords day, These and many other
+
+such like proceedings, which would by them have been judged Cruelty had
+
+they been inflicted on them here, have they used towards others there;
+
+And for hanging the three Quakers last yeare I think few approved of it.
+
+There are or will come unto the Hon^{ble} Councell many Complaints
+
+against them, I shall say no more but come to
+
+                                 _The Discription of Plymouth bounds._
+
+_Connahassett._--It begins where the Massachusets ends. Three miles to
+
+the Southward of the Massachusets Bay, where (neere by y^{e} sea side)
+
+there stands a Village called Connahasset eight miles further there is a
+
+small River comes out, and a reasonable harbour at the mouth of it.
+
+_Scytuate._--On both sides is a Towne called Scytuate.
+
+_Greenes-harbour._--From Scituate by ye sea side is a considerable Town
+
+called Greens Harbour, a Towne well meadowed & good farmes belonging to
+
+it. It is 7 miles from Scytuate.
+
+_Ducksbury._--Seauen or eight miles from this Towne is Ducksbury which
+
+is also a good plantation and affords much provision, which they sell at
+
+Boston for the most part.
+
+_New Plymouth._--Three or Fower miles Southward of this is ye Towne of
+
+New Plymouth whence the Goverment took its Denomination. This place was
+
+seated about y^{e} yeare 1620 or 1621 by a company of Brownists, which
+
+went formerly from England to Amsterdam, and not beeing able to live
+
+well there, they drew in one M^{r} Weston, and some other Merchants in
+
+London to Transport them and their Famelies into those Westerne parts;
+
+They intended for Virginia, but fell with Cape Cod ais Mallabar, and
+
+gott into the Harbour of it, and finding it not fitt for Habitation,
+
+sought further and found this place and there settled liveing extream
+
+hardy for some yeares and in great danger of the Indians, and could not
+
+Long have subsisted, had not Plymouth Merchants settled Plantations
+
+about that time at Monhegon and Pascattaway, by whom they were supplyed
+
+and the Indians discouraged from assaulting them. It is a poor small
+
+Towne now, The People being removed into Farmes in the Country.
+
+_Sandwich._--Eighteene Miles more Southerly from Plymouth is a good
+
+Towne called Sandwich a Towne which affords good store of Provisions,
+
+and some yeares a quantity of Whalebone made of Whales which drive up
+
+dead in that Bay.
+
+_Barnstable._--Twelve Miles from Sandwich is Barnstable a Towne much
+
+like it and affords the same Co[=m]odities.
+
+_Yarmouth._--Seaven miles from Barnstable south east is the Towne of
+
+Yarmouth, much like the former, and had in it as the rest have good
+
+farmes about it, and sometimes also good benefite by drift Whales.
+
+_Billingsgate._--Six miles east of this Towne is Billingsgate which lyes
+
+in y^{e} Southeast nooke of Cape Codd Bay, and from thence to the Sea on
+
+the South side of the s^{d} Cape, it is a very litle way whereas to goe
+
+about is neare 20 Leagues which in tim will make it more convenient for
+
+Trade.
+
+Almost South some what Westerly from Billingsgate is Natuckett Island on
+
+which many Indians live and about ten leagues west from it is Martines
+
+Vinyard, whereon many Indians live, and also English. In this Island by
+
+Gods blissing on the Labour, care and paines of the two Mayhews, father
+
+and sonn, the Indians are more civilized then anywhere else which is a
+
+step to Christianity, and many of them have attained to a greate measure
+
+of knowledge, and is hoped in a short time some of them may with joy &
+
+Comfort be received into the Bossome of the Church, The younger of those
+
+Mayhews was drowned comeing for England three yeares since, and the
+
+Father goes on with the worke, Although (as I understand) they have had
+
+a small share of those vast su[=m]es given for this use and purpose of
+
+y^{e} Revenues of it. It were good to enquire how it hath been disposed
+
+of. I know in some measure or at least suspect the bussines hath not
+
+been rightly carryed.
+
+_Rhode Island._--From this Island to Rhode Island is about Seaven
+
+Leagues west, This Island is about ffouerteen miles Long, in some places
+
+3 or 4 miles Broad, in other lesse. It is full of people haveing been a
+
+receptacle for people of severall Sorts and Opinions.
+
+_Warwick Providence._--There was a Patent granted to one Coddington for
+
+the Goverment of this Island, and Warwick and Providence two Townes
+
+which lye on the maine, And I think they still keepe a seeming forme of
+
+Goverment but to litle purpose, none submitting to Supream Authority but
+
+as they please.
+
+_Rehobah._--Some three miles above Providence on the same River, is a
+
+Towne called Rehobah, and is under the Goverment of New Plymouth, a
+
+Towne not dispicable. It is not aboue 40 Miles from Boston, betweene
+
+which there is a Comone trade, carrying & recarrying goods by land in
+
+Cart and on Horseback, and they have a very fayre conveyance of goods by
+
+water also.
+
+_Taunton._--About ten miles from this eastward is Taunton lying on
+
+another River within Rhode Island about 20 Miles up, It is a pleasant
+
+place, seated amongst the Windings and turnings of a handsome River, and
+
+hath good conveyance to Boston by Cart not being above 30 Miles
+
+assunder, here is a pretty small Iron-worke, & is under New Plymouth
+
+Government.
+
+_Pequate._--Haveing gone through New Plymouth Goverment we come next to
+
+Connecticot Goverment. The first that was under this Goverment was
+
+Pequate, betweene w^{ch} and Rhods Island it is above 18 leagues,
+
+In the faire Narragansitt Bay, and diverse fine Islands.
+
+_Fishers Island._--Before the Pequate River lyes Fishers Island, on
+
+which some people live, and there are store of Catle. This Pequat
+
+Plantation will in time produce Iron, And in the country about this is a
+
+Myne of Black Lead, and supposed there will be found better if not
+
+already by y^{e} industry of that ingenious Gentleman M^{r} John
+
+Winthrop. It hath a very good Harbour, farr Surpassing all there about
+
+Connecticot River mouth to Pequate it is about eight Leagues.
+
+_Saybrooke._--On the South-west side of the entrance of this River
+
+stands Saybrooke and Saybrooke Fort, a handsome place and some Gunns in
+
+the Fort.
+
+_Metaboseck._--Fifteene Leagues up the River on the same side is the
+
+Plantation of Metaboseck, a very good place for Corne and Catle.
+
+_Witherfeild._--From Metaboseck to Withersfeild a large & Populous
+
+Towne, it is about 9 miles.
+
+_Hartford._--From Withersfield to Hartford the Metropolis of the
+
+Goverment, it is about 3 Miles, it is a gallant Towne, and many rich men
+
+in it.
+
+_Windsor._--From Hartford to Windsor 9 Miles, this was the first Towne
+
+on this River, settled first by people issueing from Dorchester in the
+
+Massachusetts Bay about the year 1636.
+
+_Springfeild._--From Windsor to Springfield about 12 miles, and the
+
+first falles on Connecticot River are betweene these two Townes, This is
+
+the Massachusetts bounds.
+
+And above Springfeild 8 Miles is another Towne at first Intended but for
+
+a tradeing house with the Indians, but the gallant Land about it hath
+
+invited men to make it a Toune. This Connecticott River is a great River
+
+before y^{e} Towne bigger then the Thames above bridge, This Towne is
+
+also in the Massachusetts bounds and under its Goverment although 8
+
+Miles from it.
+
+_Guilford._--Now we must returne to the Mouth of the River and so along
+
+by the sea side; and first from Saybrooke to Guilford 12 Miles.
+
+_Tocott._--From Guilford to Tocott 9 Miles. These two Townes are under
+
+Newhaven Goverment.
+
+_Newhaven._--From Tocott to Newhaven it is 7 Miles. This Towne is the
+
+Metropolis of that Goverment, and the Goverment tooke its Name from this
+
+Towne; which was the first built in those parts, many stately and costly
+
+houses were erected the Streete layd out in a Gallant forme, a very
+
+stately Church; but y^{e} Harbour proveing not Comodious, the land very
+
+barren, the Merchants either dead or come away, the rest gotten to their
+
+Farmes, The Towne is not so glorious as once it was.
+
+_Milford._--From Newhaven to Milford it is about 10 Miles, This Towne is
+
+gotten into some way of Tradeing to Newfoundland, Barbados, Virginia, So
+
+also hath some other Townes in this Goverment.
+
+     Now in Course comes in againe some
+
+     Townes in Connecticott Goverment
+
+_Stratford._--From Milford to Stratford about 4 Miles.
+
+_Fairfeild._--From Stratford to Fairfeild about 8 Miles.
+
+_Norwock._--From ffairfeild to Norwock about 14 Miles and this Towne
+
+with those last named are in Connecticott Goverment. I suppose this
+
+skipped over Newhaven, being they came from those Townes in Connecticott
+
+River.
+
+_Stamford._--From Norwock to Stamford 8 Miles.
+
+_Greenwich._--From Stamford to Greenwich { } miles, these two last
+
+Townes are under Newhaven Goverment, and there was another place begunn
+
+and much done in it, but the Dutch came and tooke it by force, and since
+
+the people of this Towne call it New Chester,
+
+There are some Townes on Long Island which have come some under the
+
+Goverment of Connecticot, and some of Newhaven; We are now come about 25
+
+Miles within the Dutch plantation, which before I speake of I shall runn
+
+over ye plantations on Long Island, and shew under what Goverment they
+
+are begining at the west end. The Island conteanes in Lenth about 150
+
+Miles, and lyes not farr from the Mayne, especialy at the west end where
+
+it is very narrow, The plantationes are all on the inside, the Sea board
+
+syde being a dangerous Coast and no Harbour at all on that syde.
+
+Within a few Miles of the West end over against Manhata, which is the
+
+Dutch's Chiefe Towne is seated Gravesend, most English, the Lady Moody
+
+being the first Setler, Some Dutch there are, and all under the Dutch
+
+Goverment.
+
+    Then Mispach kell                       }
+
+    Then Midleburgh ais New Towne           } These Townes are
+
+    Then Vlishing                           } under y^{e} Dutch
+
+    Then Hempsteed                          } Government
+
+    Then another Towne by the Dutch name    }
+
+Then follow to the Northward
+
+    First Oyster Bay under Newhaven Goverment
+
+    Huntington not submitting to any Goverment   } These Townes
+
+    Then Sotocot Likewayes Submitting to none    } belong to
+
+    Nex^{t} Southampton under Newhaven Goverment } y^{e} English.
+
+    Nex^{t} South-hole also under Newhaven       }
+
+Then crossing a Bay but 12 Miles (but to round it, it is much more) is
+
+Northampton. This Towne is under Connecticott Goverment. And then
+
+Easthampton under no Goverment.
+
+I suppose these two Goverments of Connecticott, and Newhaven, are only
+
+by Combination, I never heard of any Patent they have, and they are also
+
+in Confederacie with the Massachusetts, and New Plymouth, each of these
+
+4 Goverments annually choosen two Comissioners to meet and Consult as
+
+occasion may serve; their power lasting for one yeare. These meettings
+
+prove chargeable, and as it is conceived of many of no great use.
+
+Tis well knowen the Dutch plantation had been taken by those two
+
+Southerne Collonies helpe, and the English on Long Island when Majo^{r}
+
+Sedgwick was sent to take it who putting back for Fyall news came by one
+
+of his Fleet that his designe was for that place; These afforsaid
+
+Co[=m]issioners mett at Boston, where some weeks were spent in Contest
+
+betweene the Commissioners of the two Southerne and Northern Collonies.
+
+Those of the South Colonies were for proceeding with expedition on the
+
+designe, The Co[=m]issioners of the North were dayly crying out for
+
+Orders or leave to goe on. But those of Plymouth being Mungrell Dutch,
+
+and some of the Grandees amongst them haveing a sweet trade with the
+
+Dutch or debts oweing to them, from them; And those of the Massachusetts
+
+haveing some other by-reason for it so long held out the dispute till it
+
+was to late the peace being concluded.
+
+There lye between this Long Island and the Mayne severall Islands, the
+
+most Considerable is Shelter-Island, about 8 miles in lenth and three in
+
+breadth, This belongs to Collonell Thomas Midleton and M^{r} Silvester,
+
+on which they have some people & store of Catle.
+
+Another considerable Island lyes by it of about 6 Miles in Lenth, and
+
+three in Breadth.
+
+Now before I come to speak of Hudsons River, I shall most humbly desire
+
+the Hon^{ble} Councill to take it in consideration the great benefits
+
+and profitts, which may redound to the English by these Westerne
+
+Colonies if well managed. Of their present condition I have given a
+
+breife accompt in my foregoing Relation, being my observations which for
+
+severall years I have spent in America, even from the year 1624 till
+
+within these two yeares last past:
+
+For Newfoundland, it is well known what a great Number of Shipps and
+
+Seamen have been there imployed annually I dare averr it hath bredd more
+
+Seamen then any Trade the English ever medled withall & what profitts
+
+the Owners and Merchants have gott by that Trade is unvaluable, And if a
+
+course were taken we might now have salt from the English Collonies in
+
+the West Indies, and provision from New England to carry on a greatt
+
+part of the designe, and on better termes then out of Europe.
+
+On all the Coasts of Canada from Cape Britton to Cape Sable is Excellent
+
+fishing and full of good Harbours.
+
+On the Coast within Cape Sable, as in Nova Scotia, Port Royall, and
+
+those other fforts now in possession of Collonel Temple is mutch Beaver
+
+& other Peltry gotten, and more might be if fully Stocked.
+
+And for the Southern part of New-England, It is incredible what hath
+
+been done there.
+
+In the yeare 1626 or thereabouts there was not a Neat Beast Horse or
+
+sheepe in the Countrey and a very few Goats or hoggs, and now it is a
+
+wonder to see the great herds of Catle belonging to every Towne I have
+
+mentioned, The braue Flocks of sheepe, The great number of Horses
+
+besides those many sent to Barbados and the other Carribe Islands, And
+
+withall to consider how many thousand Neate Beasts and Hoggs are yearly
+
+killed, and soe have been for many yeares past for Provision in the
+
+Countrey and sent abroad to supply Newfoundland, Barbados, Jamaica, @
+
+other places, As also to victuall in whole or in part most shipes which
+
+comes there.
+
+Betweene the years 1626 and 1633, Indian Corne was usually sold at
+
+10^{s} or 12^{s} the Bushell, now not esteemed worth 2^{s}, Beefe and
+
+Porke then Brought from England and Irland sold at excessive rates.
+
+At that time all the Houses there, except three or fower at New
+
+Plymouth, and those which I had could not be valued worth 200^{lb}, and
+
+now to behold the handsome Houses & Churches in so many Townes as I have
+
+named is a wonder, And the place in which Boston (the Metropolis) is
+
+seated, I knew then for some yeares to be a Swamp and Pound, now a great
+
+Towne, two Churches, a Gallant Statehouse & more to make it compleate,
+
+then can be expected in a place so late a wilderness.
+
+And wheras about the time before mentioned wee could not make in all
+
+three Hundred men in the whole Countrey, those scattered a hundred and
+
+ffiftie Miles assunder, Now almost every Towne which I have named is
+
+able to bring into the feild a full Company of Foote and some Horse,
+
+some Townes two or three Companyes compleate with Horse proportionable
+
+and Boston more.
+
+And the great abundance of English Fruite, as Apples, Pears, Apricocks,
+
+Plumbs, Cherries Musk-Mellons, Water-Mellons &c. is not to be beleeved
+
+but by those that have seene it.
+
+And about those times also there were not within the now Great
+
+Government of the Massachusetts above three Shallops and a few Cannoes,
+
+Now it is wonderfull to see the many Vessels belonging to the Country of
+
+all sorts and seizes, from Shipps of some reasonable burthen to Skiffes
+
+and Cannoes, many other great Shipps of Burthen from 350 Tunns to 150
+
+have been built there, and many more in time may be, And I am confident
+
+there hath not in any place out of so small a number of People been
+
+raised so many able Seamen and Commanders as there hath been.
+
+Now we returne to Hudsons River, in the mouth of which lyeth y^{e}
+
+Island Mahatas, on which stands now Amsterdam in the Latitude of 41
+
+degrees and about 41 Leagues up the River is their Fort Oranja in the
+
+Latitude of 42 & 1/2 or thereabouts.
+
+I have alwayes understood that the first Setlement of the Dutch there
+
+was about the yeare 1618, @ were then a very considerable Number, and
+
+long after. And this was as I conceive some yeares after King James had
+
+granted all the lands and Islands betweene the Latitude of 40 degrees to
+
+48 North Latitude, unto a Company established at Plymouth in Devon then
+
+nameing it New-England, so that Mahatas lyes a full degree within y^{e}
+
+bounds of New England; and Fort Oranja their prin^{l} place both for
+
+Trade with the Indians @ for Husbandry it lyeth two full degrees and an
+
+halfe within the bounds of New England.
+
+And about the year 1629 or 1630 Theire Title to it being in question a
+
+rich ship comeing from thence was seized on at Plymouth, as some now
+
+here can testify, which shipp and goods (as they say) was delivered up
+
+on the Dutch relinquishment of any Title they had or might have to the
+
+said Hudsones River And this seemes to be true, for in or about the year
+
+1632 or 1634, a shipp set out from hence by M^{r} Clobery & Dellabar and
+
+others for New England, with passengers & goods & had also a Commission
+
+from his Mat^{ies}: Royall Father to saile unto Mahatas @ as farr up
+
+into the River towards Fort Oranja as they could goe, and there trade
+
+with the Natives; which they did without any opposition, as the Masters
+
+yet liveing can testifie.
+
+From the uttermost part of Hudsons River to the North Cape of Delaware
+
+Bay, is somewhat above 20 leagues, and from this Cape to the entrance of
+
+the River is about 12 Leagues.
+
+Here the Sweedes some yeares since built a Fort and five Leauges above
+
+that a Sconce, and three Leagues above that another Fort, and 2 Leagues
+
+above that another.
+
+And hereabout the River trends away so much easterly that betweene that
+
+@ Hudsons River it is not above 30 Miles. In this River hath been seated
+
+some English Familes, but outed by the Dutch or Swedes.
+
+For this place there was some yeares since a Patent granted to S^{r}
+
+Edmund Ploydon, but by whom I know not, nor what is become of him or his
+
+Patent.
+
+The entrance of this River is in 40 degrees. And now I am come to the
+
+utmost Southwest bounds of New England which is a Country wherein the
+
+Rivers and Pounds affords variety of Fish and Beaver in Great abundance,
+
+The earth brings forth plentifully all sorts of Graynes, also Hemp @
+
+fflax, The Woods affords store of good Timber for building of shipps
+
+Masts, Also Pitch and Tarre, The bowels of the earth yeilds excellent
+
+Iron Oare, and no doubt other Metalls if searched after.
+
+***

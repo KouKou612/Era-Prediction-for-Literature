@@ -1,0 +1,3845 @@
+E-text prepared by Louise Hope, Chris Curnow, Joseph Cooper, and the
+
+Project Gutenberg Online Distributed Proofreading Team
+
+(http://www.pgdp.net)
+
+Transcriber's note:
+
+   Except for [Illustration] labels and similar, all brackets [] are
+
+   in the original.
+
+          The Augustan Reprint Society
+
+            A Learned Dissertation
+
+                       on
+
+                    DUMPLING
+
+                  (Anonymous)
+
+                     (1726)
+
+              PUDDING AND DUMPLING
+
+                _BURNT to POT_.
+
+                      or,
+
+                A COMPLEAT KEY
+
+                     to the
+
+            DISSERTATION ON DUMPLING
+
+                  (Anonymous)
+
+                     (1727)
+
+               _Introduction by_
+
+                SAMUEL L. MACEY
+
+             Publication Number 140
+
+     WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+
+     University of California, Los Angeles
+
+                      1970
+
+       *       *       *       *       *
+
+           *       *       *       *
+
+GENERAL EDITORS
+
+  William E. Conway, _William Andrews Clark Memorial Library_
+
+  George Robert Guffey, _University of California, Los Angeles_
+
+  Maximillian E. Novak, _University of California, Los Angeles_
+
+ASSOCIATE EDITOR
+
+  David S. Rodes, _University of California, Los Angeles_
+
+ADVISORY EDITORS
+
+  Richard C. Boys, _University of Michigan_
+
+  James L. Clifford, _Columbia University_
+
+  Ralph Cohen, _University of Virginia_
+
+  Vinton A. Dearing, _University of California, Los Angeles_
+
+  Arthur Friedman, _University of Chicago_
+
+  Louis A. Landa, _Princeton University_
+
+  Earl Miner, _University of California, Los Angeles_
+
+  Samuel H. Monk, _University of Minnesota_
+
+  Everett T. Moore, _University of California, Los Angeles_
+
+  Lawrence Clark Powell, _William Andrews Clark Memorial Library_
+
+  James Sutherland, _University College, London_
+
+  H. T. Swedenberg, Jr., _University of California, Los Angeles_
+
+  Robert Vosper, _William Andrews Clark Memorial Library_
+
+CORRESPONDING SECRETARY
+
+  Edna C. Davis, _William Andrews Clark Memorial Library_
+
+EDITORIAL ASSISTANT
+
+  Roberta Medford, _William Andrews Clark Memorial Library_
+
+INTRODUCTION
+
+_A Learned Dissertation on Dumpling_ and its _Key_ (_Pudding and
+
+Dumpling Burnt to Pot_) are typical satiric pamphlets which grew out of
+
+the political in-fighting of the first half of the eighteenth century.
+
+The pamphlets are distinguished by the fact that the author's level of
+
+imagination and writing makes them delightful reading even today. In
+
+_Dumpling_ the author displays a considerable knowledge of cooks and
+
+cookery in London; by insinuating that to love dumpling is to love
+
+corruption, he effectively and amusingly achieves satiric indirection
+
+against a number of political and social targets, including Walpole. The
+
+_Key_ is in many ways a separate pamphlet in which Swift is the central
+
+figure under attack after his two secret visits to Walpole during 1726.
+
+_Dumpling_ had a long life for an eighteenth-century pamphlet and was
+
+published as late as 1770. Dr. F. T. Wood has even suggested that it may
+
+have influenced Lamb's _Dissertation on Roast Pig_;[1] readers might
+
+wish to test this for themselves.
+
+_Dumpling_ and its _Key_ were first claimed for Henry Carey by Dr. Wood
+
+(pp. 442-447). Carey (1687-1743) is generally thought to have been an
+
+illegitimate scion of the powerful Savile family,[2] with whose name he
+
+christened three of his sons. He was perhaps best known as a writer of
+
+songs. "Sally in our Alley" is a classic, and he has even a tenuous
+
+claim to the authorship of the English national anthem. Carey's
+
+_Dramatic Works_ appeared in 1743, the year in which he met his death,
+
+almost certainly by his own hand. Several of the plays were successful
+
+and particular reference should be made to the burlesques
+
+_Chrononhotonthologos_ (1734) and _The Dragon of Wantley_ (1737). The
+
+latter even outran the performances of _The Beggar's Opera_ in its first
+
+year. Not only do these plays show Carey's satiric bent, but so also do
+
+a considerable number of his poems. In 1713, 1720, and 1729 Carey
+
+published three different collections of his poetry, each entitled
+
+_Poems on Several Occasions_. Although a few of the poems were repeated,
+
+almost always revised, each edition is very much a different collection.
+
+An edition was brought out in this century by Dr. Wood.[3]
+
+I am strongly inclined to support Carey's claim to the authorship of
+
+_Dumpling_ and its _Key_ despite Dr. E. L. Oldfield's more recent
+
+attempt to invalidate it.[4] There were at least ten editions of
+
+_Dumpling_ in the eighteenth century. The first seven (1726-27) appeared
+
+during Carey's life, and these (I have seen all but the third) contain
+
+the _Namby Pamby_ verses which later appeared under Carey's own name in
+
+his enlarged _Poems on Several Occasions_ (1729). There was also a
+
+"sixth edition" of _Dumpling_ (really the eighth extant edition) in
+
+Carey's own name published "for T. Read, in Dogwell-Court, White-Friars,
+
+Fleet-Street, MDCCXLIV." Though _Namby Pamby_ was not added to the first
+
+edition of the _Key_, it appears in the second edition. Both editions
+
+were published by Mrs. Dodd, of whom Dr. Oldfield says: she "seems to
+
+have been a neighbour, and known to Carey" (p. 375). Dr. Wood indicates
+
+that "at the foot of a folio sheet containing Carey's song _Mocking is
+
+Catching_, published in 1726, the sixth edition of _A Learned
+
+Dissertation on Dumpling_ is advertised as having been lately published"
+
+(p. 442). Dr. Wood adds in a footnote that this song "appeared in _The
+
+Musical Century_ (1740) under the title _A Sorrowful Lamentation for the
+
+Loss of a Man and No Man_." Even more striking would seem to be the fact
+
+that although there are ninety-one entries in his _Poems_ (1729), Carey
+
+has placed the _Sorrowful Lamentation_ directly adjacent to _Namby
+
+Pamby_.
+
+Dr. Wood maintains of _Dumpling_ that "the general style bears a close
+
+resemblance to that of the prefaces to Carey's plays and collections
+
+of poetry" (p. 443). I should like strongly to support his statement.
+
+Dr. Oldfield says that an inviolable regard for decency "is nowhere
+
+contradicted in Carey's works . . . . Yet the pamphlets, besides being
+
+palpably Whiggish, are larded _passim_ with vulgarity of the
+
+'Close-Stool' and 'Clyster' variety" (p. 376). The reader need look no
+
+further than _Namby Pamby_ to see that Carey satisfies Northrop Frye's
+
+very proper observation: "Genius seems to have led practically every
+
+great satirist to become what the world calls obscene."
+
+As for the pamphlets being "palpably Whiggish," the reader will not look
+
+far into the allegory before he realizes that one of the central attacks
+
+is against those well-known Whigs Walpole and Marlborough and their
+
+appetite for Dumpling (i.e., bribery and perquisites). Furthermore, the
+
+attack on Swift, which is central to the _Key_, is based on the very
+
+real fear that the Dean's two recent private interviews with Walpole
+
+might presage a return to that leader's Whig party in exchange for
+
+Dumpling. The last pages of the _Key_ (pp. 28-30) deal with the
+
+possibility of an accommodation between Swift and Walpole which is,
+
+I feel sure, the main target of attack. In his poems (_Poems_, ed. Wood,
+
+pp. 83, 86, 88, and _passim_) Carey claims to stand between Whig and
+
+Tory, just as he does in the pamphlets (_Dumpling_, p. 1, and _Key_,
+
+p. 15 and _passim_).
+
+Dr. Wood perceptively points to two parallels between _Dumpling_ and the
+
+satiric _Of Stage Tyrants_ (1735) which Carey openly addressed to the
+
+Earl of Chesterfield. _Dumpling's_ "O Braund, my Patron! my Pleasure!
+
+my Pride" (p. [ii]) becomes: "O Chesterfield, my patron and my pride"
+
+(_Poems_, ed. Wood, p. 104). The passage which follows, dealing with
+
+"all the Monkey-Tricks of Rival Harlequins" (_Dumpling_, p. [ii]),
+
+becomes:
+
+  Prefer pure nature and the simple scene
+
+  To all the monkey tricks of Harlequin
+
+      (_Poems_, ed. Wood, p. 106).
+
+Even more striking is a passage in the _Key_: "Mr. B[ooth] had spoken to
+
+Mr. W[ilks] to speak to Mr. C[ibber] . . ." (p. 111). This is similar to
+
+the following lines in _Stage Tyrants_:
+
+  Booth ever shew'd me friendship and respect,
+
+  And Wilks would rather forward than reject.
+
+  Ev'n Cibber, terror to the scribbling crew,
+
+  Would oft solicit me for something new
+
+      (_Poems_, ed. Wood, p. 104).
+
+What is particularly impressive is that Carey not only refers to the
+
+three managers of Drury Lane but mentions them in the same order and as
+
+bearing the same relationship to himself. Several highly topical
+
+theatrical allusions in the pamphlets, by which the works can be dated,
+
+accord closely to the life, views, and writings of Carey. All three
+
+managers of Drury Lane were subscribers to Carey's _Poems on Several
+
+Occasions_ (1729), which was dedicated to the Countess of Burlington,
+
+who (like the Earl of Chesterfield) was closely related to Carey's
+
+putative family. In the _Poems_ these people and many others (including
+
+Pope) would have seen _Namby Pamby_ under Carey's name and drawn the
+
+obvious conclusion that _Namby Pamby_, _Dumpling_ and the _Key_ were by
+
+the same author.
+
+We have already seen how closely _Dumpling_ and _Stage Tyrants_ can be
+
+tied together; the reader can compare for himself that part of _Namby
+
+Pamby_ containing "So the Nurses get by Heart / Namby Pamby's Little
+
+Rhymes," with the passage from the _Key_: "It was here the D[ean] . . .
+
+got together all his Namby Pamby . . . from the old Nurses thereabouts"
+
+(_Key_, pp. 16-17).
+
+There exists in the Bodleian an early copy of _Namby Pamby_ (1725?) "By
+
+Capt. Gordon, Author of the Apology for Parson Alberony and the
+
+Humorist." The joke here is surely in not only letting the Whig Gordon
+
+attack the Whig Ambrose Phillips but then, also by association,
+
+connecting Gordon's name with the attack on Walpole and Marlborough.
+
+There is a parallel to this: Carey's "Lilliputian Ode on Their Majesties
+
+Succession" appeared in _Poems_ (1729), separated from the pieces
+
+previously mentioned by only one short patriotic stanza. Yet in the
+
+Huntington Library there is an almost identical version (1727) which was
+
+ostensibly published by Swift.
+
+The first six editions of _Dumpling_ appeared in 1726 and both editions
+
+of the _Key_ are dated 1727. Apart from the dates on the title page,
+
+this can be verified externally by the initial entries in Wilford's
+
+_Monthly Catalogue_ (1723-30) of February 1726 and April 1727
+
+respectively. Swift's first return visit to England (in March 1726 after
+
+twelve years) was subsequent to the publication of _Dumpling_; his
+
+second visit was in the same month as the publication of the _Key_,
+
+which assigns him _ex post facto_ the authorship "from Page 1. to Page
+
+25." of _Dumpling_ (_Key_, p. ix).
+
+Sir John Pudding and his Dumpling are manipulated throughout these
+
+pamphlets to carry a multiplicity of meaning which brings them almost as
+
+close to symbolism as they are to the allegory that Carey claims to be
+
+writing (_Key_, pp. 18, 24 and 29). Collation of _Dumpling_ with its
+
+_Key_ clearly reveals (with due allowance for satiric arabesque)
+
+a series of allegories moving backwards and forwards through history. At
+
+various stages, Sir John Pudding (ostensibly Brawn [or John Brand], the
+
+famous cook of the Rummer in Queen Street who appears in Dr. King's _Art
+
+of Cookery_ [1708]), becomes identifiable with King John, Sir John
+
+Falstaff, Walpole, Marlborough, and even Queen Anne (for the change in
+
+sexes see _Key_, p. 18). All of these enjoyed Dumpling, and their tastes
+
+are ostensibly approved while at the same time being heavily undercut
+
+with satiric indirection. Naturally enough, Walpole (although a Dumpling
+
+Eater) is treated with considerable circumspection. Carey has warned us
+
+that he is a bad chronologist (_Key_, p. 21), and the Sir John Pudding
+
+(be he Walpole or Marlborough [d. 1722]), who at the end of _Dumpling_
+
+is referred to as "the Hero of this DUMPLEID," is for good reason spoken
+
+of in the past tense.
+
+The fable of Dumpling, in the true spirit of _lanx satura_, allows Carey
+
+to attack by indirection a complete spectrum of traditional
+
+eighteenth-century targets. Like the musician and the satirist that he
+
+is, he builds up to a magnificent crescendo (pp. 19-24 of his
+
+"Dumpleid") which results in one of the finest displays of sustained
+
+virtuosity in early eighteenth-century pamphlet writing.
+
+The notes which follow the texts point to a number of the contemporary
+
+allusions, but the reader will surely wish to recognize some of the
+
+references and the more delicate ironies for himself. As the author puts
+
+it on page 17 of _Dumpling_:
+
+O wou'd to Heav'n this little Attempt of Mine may stir up some
+
+_Pudding-headed Antiquary_ to dig his Way through all the mouldy Records
+
+of Antiquity, and bring to Light the Noble Actions of Sir _John_!
+
+What scholar could refuse?
+
+University of Victoria
+
+NOTES TO THE INTRODUCTION
+
+1. "An Eighteenth-Century Original for Lamb," _RES_, V (1929), 447.
+
+2. An exception is Henry J. Dane who denies the relationship in "The
+
+Life and Works of Henry Carey," unpublished doctoral dissertation
+
+(University of Pennsylvania, 1967), pp. xxix-xxx, and _passim_.
+
+3. _Poems_, ed. F. T. Wood (London, 1930).
+
+4. "Henry Carey (1687-1743) and Some Troublesome Attributions," _BNYPL_,
+
+LXII (1968), 372-377.
+
+BIBLIOGRAPHICAL NOTE
+
+These facsimiles of _A Learned Dissertation on Dumpling_ (1726) and
+
+_Pudding and Dumpling Burnt to Pot_ (1727) are reproduced from copies
+
+in the Bodleian Library and the British Museum.
+
+       *       *       *       *       *
+
+           *       *       *       *
+
+       *       *       *       *       *
+
+                       A
+
+              Learned Dissertation
+
+                       on
+
+                    DUMPLING;
+
+    Its Dignity, Antiquity, and Excellence.
+
+                With a Word upon
+
+                    PUDDING.
+
+                      And
+
+       Many other Useful Discoveries, of
+
+         great Benefit to the Publick.
+
+    _Quid Farto melius?
+
+    Huic suam agnoscit corpus energiam,
+
+    Suam aciem mens: ------------
+
+    ---- Hinc adoleverunt praestantissimi,
+
+    Hi Fartophagi in Reipublicae commodum._
+
+        _Mab._ de Fartophagis, _lib._ iii. _cap._ 2.
+
+  _LONDON._
+
+  Printed for _J. Roberts_ in the _Oxford-Arms_-Passage,
+
+  _Warwick-lane_; and Sold by the Booksellers of
+
+  _London_ and _Westminster_. 1726.  [Price 6 _d._]
+
+[Decoration]
+
+  TO
+
+  Mr. BRAUND.
+
+SIR,
+
+Let Mercenary _Authors_ flatter the Great, and subject
+
+their Principle to Interest and Ambition, I scorn such
+
+sordid Views; You only are Eminent in my Eyes: On You
+
+I look as the most Useful Member in a Body-Politic,
+
+and your Art far superior to all others: Therefore,
+
+  _Tu mihi Mecaenas Eris!_
+
+O BRAUND, my Patron! my Pleasure! my Pride! disdain
+
+not to grace my Labours with a kind Perusal. Suspend
+
+a-while your more momentous Cares, and condescend to
+
+taste this little _Fricassee_ of Mine.
+
+I write not this, to Bite you by the Ear, (_i.e._)
+
+flatter you out of a Brace or two of Guinea's: No;
+
+as I am a true _Dumpling Eater_, my Views are purely
+
+_Epicurean_, and my utmost Hopes center'd in partaking
+
+of some elegant _Quelque Chose_ tost up by your
+
+judicious Hand. I regard Money but as a Ticket which
+
+admits me to your Delicate Entertainments; to me much
+
+more Agreeable than all the Monkey-Tricks of Rival
+
+_Harlequins_, or _Puppet-Show_ Finery of Contending
+
+_Theatres_.
+
+The Plague and fatigue of Dependance and Attendance,
+
+which call me so often to the Court-end of the Town,
+
+were insupportable, but for the Relief I find at
+
+AUSTIN's, your Ingenious and Grateful Disciple, who
+
+has adorn'd _New Bond-street_ with your Graceful
+
+_Effigies_. Nor can he fail of Custom who has hung out
+
+a Sign so Alluring to all true _Dumpling-Eaters_. Many
+
+a time and oft have I gaz'd with Pleasure on your
+
+Features, and trac'd in them the exact Lineaments of
+
+your glorious Ancestor Sir JOHN BRAND, vulgarly call'd
+
+Sir JOHN PUDDING.
+
+Tho' the Corruption of our _English_ Orthography
+
+indulges some appearance of Distinction between BRAND
+
+and BRAUND, yet in Effect they are one and the same
+
+thing. The ancient Manor of BRAND's, alias BRAUND's,
+
+near Kilburn in _Middlesex_, was the very Manor-House
+
+of Sir JOHN BRAND, and is call'd BRAND's to this Day,
+
+altho' at present it be in the Possession of the
+
+Family of MARSH.
+
+What Honours are therefore due to One who is in a
+
+Direct Male Line, an Immediate Descendant from the
+
+Loins of that Great Man! Let this teach You to value
+
+your Self; this remind the World, how much they owe to
+
+the Family of the BRAUNDS; more particularly to YOU,
+
+who inherit not only the Name, but the Virtues of your
+
+Illustrious Ancestor. I am,
+
+  SIR,
+
+  With all imaginable
+
+    Esteem and Gratitude,
+
+      Your very most
+
+        Obedient Servant, _&c._
+
+Page 5. line 15, _&c._ for _Barnes_ read _Brand_.
+
+[Decoration]
+
+    A
+
+  Learned Dissertation
+
+    on
+
+  DUMPLING;
+
+  Its Dignity, Antiquity, _&c._
+
+The Dumpling-Eaters are a Race sprung partly from the
+
+old _Epicurean_, and partly from the _Peripatetic
+
+Sect_; they were brought first into _Britain_ by
+
+_Julius Cesar_; and finding it a Land of Plenty, they
+
+wisely resolv'd never to go Home again. Their
+
+Doctrines are Amphibious, and compos'd _Party per
+
+Pale_ of the two Sects before-mention'd; from the
+
+_Peripatetics_, they derive their Principle of
+
+Walking, as a proper Method to digest a Meal, or
+
+create an Appetite; from the _Epicureans_, they
+
+maintain that all Pleasures are comprehended in good
+
+Eating and Drinking: And so readily were their
+
+Opinions embrac'd, that every Day produc'd many
+
+Proselytes; and their Numbers have from Age to Age
+
+increas'd prodigiously, insomuch that our whole Island
+
+is over-run with them, at present. Eating and Drinking
+
+are become so Customary among us that we seem to have
+
+entirely forgot, and laid aside the old Fashion of
+
+Fasting: Instead of having Wine sold at Apothecaries
+
+Shops, as formerly, every Street has two or three
+
+Taverns in it, least these Dumpling-Eaters should
+
+faint by the Way; nay, so zealous are they in the
+
+Cause of _Bacchus_, that one of the Chief among 'em
+
+has made a Vow never to say his Prayers 'till he has a
+
+Tavern of _his own_ in every Street in _London_, and
+
+in every Market-Town in _England_. What may we then in
+
+Time expect? Since by insensible Degrees, their
+
+Society is become so numerous and formidable, that
+
+they are without Number; other Bodies have their
+
+Meetings, but where can the Dumpling-Eaters assemble?
+
+what Place large enough to contain 'em! The _Bank_,
+
+_India_, and _South-Sea_ Companies have their General
+
+Courts, the _Free-Masons_ and the _Gormogons_ their
+
+Chapters; nay, our Friends the _Quakers_ have their
+
+Yearly Meetings. And who would imagine any of these
+
+should be Dumpling-Eaters? But thus it is, the
+
+Dumpling-Eating Doctrine has so far prevailed among
+
+'em, that they eat not only Dumplings, but _Puddings_,
+
+and those in no small Quantities.
+
+The Dumpling is indeed, of more antient Institution,
+
+and of _Foreign_ Origin; but alas, what were those
+
+Dumplings? nothing but a few Lentils sodden together,
+
+moisten'd and cemented with a little seeth'd Fat, not
+
+much unlike our Gritt or Oatmeal Pudding; yet were
+
+they of such Esteem among the ancient _Romans_, that a
+
+Statue was erected to _Fulvius Agricola_, the first
+
+Inventor of these Lentil Dumplings. How unlike the
+
+Gratitude shewn by the Publick to our Modern
+
+Projectors!
+
+The _Romans_, tho' our Conquerors, found themselves
+
+much out-done in Dumplings by our Fore-fathers; the
+
+_Roman_ Dumplings were no more to compare to those
+
+made by the _Britons_, than a Stone-Dumpling is to a
+
+Marrow Pudding; tho' indeed, the _British_ Dumpling at
+
+that time, was little better than what we call a
+
+Stone-Dumpling, being no thing else but Flour and
+
+Water: But every Generation growing wiser and wiser,
+
+the Project was improv'd, and Dumpling grew to be
+
+Pudding: One Projector found Milk better than Water;
+
+another introduc'd Butter; some added Marrow, others
+
+Plumbs; and some found out the Use of Sugar; so that,
+
+to speak Truth, we know not where to fix the Genealogy
+
+or Chronology of any of these Pudding Projectors,
+
+to the Reproach of our Historians, who eat so much
+
+Pudding, yet have been so Ungrateful to the first
+
+Professors of this most noble Science, as not to find
+
+'em a Place in History.
+
+The Invention of Eggs was merely accidental, two or
+
+three of which having casually roll'd from off a Shelf
+
+into a Pudding which a good Wife was making, she found
+
+herself under a Necessity either of throwing away her
+
+Pudding, or letting the Eggs remain, but concluding
+
+from the innocent Quality of the Eggs, that they would
+
+do no Hurt, if they did no Good. She wisely jumbl'd
+
+'em all together, after having carefully pick'd out
+
+the Shells; the Consequence is easily imagined, the
+
+Pudding became a Pudding of Puddings; and the Use of
+
+Eggs from thence took its Date. The Woman was sent for
+
+to Court to make Puddings for King _John_, who then
+
+sway'd the Scepter; and gain'd such Favour, that she
+
+was the making of her whole Family. I cannot conclude
+
+this Paragraph without owning, I received this
+
+important Part of the History of Pudding from old Mr.
+
+_Lawrence_ of _Wilsden-Green_, the greatest Antiquary
+
+of the present Age.
+
+From that Time the _English_ became so famous for
+
+Puddings, that they are call'd Pudding-Eaters all over
+
+the World, to this Day.
+
+At her Demise, her Son was taken into Favour, and made
+
+the King's chief Cook; and so great was his Fame for
+
+Puddings, that he was call'd _Jack Pudding_ all over
+
+the Kingdom, tho' in Truth, his real Name was _John
+
+Brand_, as by the Records of the Kitchen you will
+
+find: This _John Brand_, or _Jack-Pudding_, call him
+
+which you please, the _French_ have it _Jean Boudin_,
+
+for his Fame had reached _France_, whose King would
+
+have given the World to have had our _Jack_ for his
+
+Pudding-Maker. This _Jack Pudding_, I say, became yet
+
+a greater Favourite than his Mother, insomuch that he
+
+had the King's Ear as well as his Mouth at Command;
+
+for the King, you must know, was a mighty Lover of
+
+Pudding; and _Jack_ fitted him to a Hair, he knew how
+
+to make the most of a Pudding; no Pudding came amiss
+
+to him, he would make a Pudding out of a Flint-stone,
+
+comparatively speaking. It is needless to enumerate
+
+the many sorts of Pudding he made, such as Plain
+
+Pudding, Plumb Pudding, Marrow Pudding, Oatmeal
+
+Pudding, Carrot Pudding, Saucesage Pudding, Bread
+
+Pudding, Flower Pudding, Suet Pudding, and in short,
+
+every Pudding but Quaking Pudding, which was solely
+
+invented by, and took its Name from our Good Friends
+
+of the _Bull and Mouth_ before mentioned,
+
+notwithstanding the many Pretenders to that
+
+Projection.
+
+But what rais'd our Hero most in the Esteem of this
+
+Pudding-eating Monarch, was his Second Edition of
+
+Pudding, he being the first that ever invented the Art
+
+of Broiling Puddings, which he did to such Perfection,
+
+and so much to the King's likeing, (who had a mortal
+
+Aversion to Cold Pudding,) that he thereupon
+
+instituted him Knight of the Gridiron, and gave him a
+
+Gridiron of Gold, the Ensign of that Order, which he
+
+always wore as a Mark of his Sovereign's Favour; in
+
+short, _Jack Pudding_, or Sir _John_, grew to be all
+
+in all with good King _John_; he did nothing without
+
+him, they were Finger and Glove; and, if we may
+
+believe Tradition, our very good Friend had no small
+
+Hand in the _Magna Charta_. If so, how much are all
+
+_Englishmen_ indebted to him? in what Repute ought the
+
+Order of the Gridiron to be, which was instituted to
+
+do Honour to this Wonderful Man? But alas! how soon is
+
+Merit forgot? how impudently do the Vulgar turn the
+
+most serious Things into Ridicule, and mock the most
+
+solemn Trophies of Honour? for now every Fool at a
+
+Fair, or Zany at a Mountebank's Stage, is call'd _Jack
+
+Pudding_, has a Gridiron at his Back, and a great Pair
+
+of Spectacles at his Buttocks, to ridicule the most
+
+noble Order of the Gridiron. But their Spectacles is a
+
+most ungrateful Reflection on the Memory of that great
+
+Man, whose indefatigable Application to his Business,
+
+and deep Study in that occult Science, rendred him
+
+Poreblind; to remedy which Misfortune, he had always a
+
+'Squire follow'd him, bearing a huge Pair of
+
+Spectacles to saddle his Honour's Nose, and supply his
+
+much-lamented Defect of Sight. But whether such an
+
+Unhappiness did not deserve rather Pity than Ridicule,
+
+I leave to the Determination of all good Christians:
+
+I cannot but say, it raises my Indignation, when I see
+
+these Paunch-gutted Fellows usurping the Title and
+
+Atchievements of my dear Sir _John_, whose Memory I so
+
+much venerate, I cannot always contain my self.
+
+I remember, to my Cost, I once carry'd my Resentment a
+
+little farther than ordinary; in furiously assaulting
+
+one of those Rascals, I tore the Gridiron from his
+
+Back, and the Spectacles from his A--e; for which I
+
+was Apprehended, carried to Pye-powder Court, and by
+
+that tremendous Bench, sentenc'd to most severe Pains
+
+and Penalties.
+
+This has indeed a little tam'd me, insomuch that I
+
+keep my Fingers to my self, but at the same time let
+
+my Tongue run like a Devil: Forbear vile Miscreants,
+
+cry I, where-e'er I meet these Wretches? forbear to
+
+ascribe to your selves the Name and Honours of Sir
+
+_John Pudding_? content your selves with being
+
+_Zanies_, _Pickled-Herrings_, _Punchionellos_, but
+
+dare not scandalize the noble Name of _Pudding_: Nor
+
+can I, notwithstanding the Clamours and Ill Usage of
+
+the Vulgar, refrain bearing my Testimony against this
+
+manifest piece of Injustice.
+
+What Pity it is therefore, so noble an Order should be
+
+lost, or at least neglected. We have had no Account of
+
+the real Knights of the Gridiron, since they appeared
+
+under the fictitious Name of the _Kit-Kat Club_: In
+
+their Possession was the very Gridiron of Gold worn by
+
+Sir _John_ himself; which Identical Gridiron dignified
+
+the Breast of the most ingenious Mr. _Richard
+
+Estcourt_ that excellent Physician and Comedian, who
+
+was President of that Noble Society.
+
+  _Quis talia fando temperet a Lachrymis?_
+
+What is become of the Gridiron, or of the Remains of
+
+that excellent Body of Men, Time will, I hope,
+
+discover. The World, I believe, must for such
+
+Discoveries be obliged to my very good Friend _J----
+
+T----_ Esq; who had the Honour to be Door-keeper to
+
+that Honourable Assembly.
+
+But to return to Sir _John_: The more his Wit engaged
+
+the King, the more his Grandeur alarm'd his Enemies,
+
+who encreas'd with his Honours. Not but the Courtiers
+
+caress'd him to a Man, as the first who had brought
+
+Dumpling-eating to Perfection. King _John_ himself
+
+lov'd him entirely; being of _Cesar_'s Mind, that is,
+
+he had a natural Antipathy against Meagre,
+
+Herring-gutted Wretches; he lov'd only _Fat-headed
+
+Men, and such who slept o' Nights_; and of such was
+
+his whole Court compos'd. Now it was Sir _John_'s
+
+Method, every _Sunday_ Morning, to give the Courtiers
+
+a Breakfast, which Breakfast was every Man his
+
+Dumpling and Cup of Wine; for you must know, he was
+
+Yeoman of the Wine-Cellar at the same time.
+
+This was a great Eye-sore and Heart-burning to some
+
+Lubberly Abbots who loung'd about the Court; they took
+
+it in great Dudgeon they were not Invited, and stuck
+
+so close to his Skirts, that they never rested 'till
+
+they Outed him. They told the King, who was naturally
+
+very Hasty, that Sir _John_ made-away with his Wine,
+
+and feasted his Paramours at his Expence; and not only
+
+so, but that they were forming a Design against his
+
+Life, which they in Conscience ought to discover: That
+
+Sir _John_ was not only an Heretic, but an Heathen;
+
+nay worse, they fear'd he was a Witch, and that he had
+
+bewitcht His Majesty into that unaccountable Fondness
+
+for a _Pudding-Maker_. They assur'd the King, That on
+
+a _Sunday_ Morning, instead of being at Mattins, he
+
+and his Trigrimates got together Hum-jum, all snug,
+
+and perform'd many Hellish and Diabolical Ceremonies.
+
+In short, they made the King believe that the Moon was
+
+made of Green-Cheese: And to shew how the Innocent may
+
+be Bely'd, and the best Intentions misrepresented,
+
+they told the King, That He and his Associates offer'd
+
+Sacrifices to _Ceres_: When, alas, it was only the
+
+Dumplings they eat. The Butter which was melted and
+
+pour'd over them, these vile Miscreants call'd
+
+_Libations_: And the friendly Compotations of our
+
+Dumpling-eaters, were call'd _Bacchanalian Rites_. Two
+
+or three among 'em being sweet-tooth'd, wou'd strew a
+
+little Sugar over their Dumplings; this was
+
+represented as an _Heathenish Offering_. In short, not
+
+one Action of theirs, but what these Rascally Abbots
+
+made Criminal, and never let the King alone 'till poor
+
+Sir _John_ was Discarded. Not but the King did it with
+
+the greatest Reluctance; but they had made it a
+
+Religious Concern, and he cou'd not get off on't.
+
+But mark the Consequence: The King never enjoy'd
+
+himself after, nor was it long before he was poison'd
+
+by a Monk at _Swineshead_ Abbey. Then too late he saw
+
+his Error; then he lamented the Loss of Sir _John_;
+
+and in his latest Moments wou'd cry out, Oh! that I
+
+had never parted from my dear _Jack Pudding_! Wou'd I
+
+had never left off Pudding and Dumpling! I then had
+
+never been thus basely Poison'd! never thus
+
+treacherously sent out of the World!----Thus did this
+
+good King lament: But, alas, to no Purpose, the Priest
+
+had given him his Bane, and Complaints were
+
+ineffectual.
+
+Sir _John_, in the mean time, had retir'd into
+
+_Norfolk_, where his diffusive Knowledge extended it
+
+self for the Good of the County in general; and from
+
+that very Cause _Norfolk_ has ever since been so
+
+famous for Dumplings. He lamented the King's Death to
+
+his very last; and was so cautious of being poison'd
+
+by the Priests, that he never touch'd a Wafer to the
+
+Day of his Death; And had it not been that some of the
+
+less-designing part of the Clergy were his intimate
+
+Friends, and eat daily of his Dumplings, he had
+
+doubtless been Made-away with; but they stood in the
+
+Gap for him, for the sake of his Dumplings, knowing
+
+that when Sir _John_ was gone, they should never have
+
+the like again.
+
+But our facetious Knight was too free of his Talk to
+
+be long secure; for a Hole was pick'd in his Coat in
+
+the succeeding Reign, and poor Sir _John_ had all his
+
+Goods and Chattels forfeited to the King's Use. It was
+
+then time for him to bestir himself; and away to Court
+
+he goes, to recover his Lands, _&c._ not doubting but
+
+he had Friends there sufficient to carry his Cause.
+
+But alas! how was he mistaken; not a Soul there knew
+
+him; the very Porters used him rudely. In vain did he
+
+seek for Access to the King, to vindicate his Conduct.
+
+In vain did he claim Acquaintance with the Lords of
+
+the Court; and reap up old Civilities, to remind 'em
+
+of former Kindness; the Pudding was eat, the
+
+Obligation was over: Which made Sir _John_ compose
+
+that excellent Proverb, _Not a word of the Pudding_.
+
+And finding all Means ineffectual, he left the Court
+
+in a great Pet; yet not without passing a severe Joke
+
+upon 'em, in his way, which was this; He sent a
+
+Pudding to the King's Table, under the Name of a
+
+_Court-Pudding_, or _Promise-Pudding_. This Pudding he
+
+did not fail to set off with large Encomiums; assuring
+
+the King, That therein he wou'd find an Hieroglyphical
+
+Definition of Courtiers Promises and Friendship.
+
+This caused some Speculation; and the King's Physician
+
+debarr'd the King from tasting the Pudding, not
+
+knowing but that Sir _John_ had poison'd it.
+
+But how great a Fit of Laughter ensu'd, may be easily
+
+guess'd, when the Pudding was cut up, it prov'd only a
+
+large Bladder, just clos'd over with Paste: The
+
+Bladder was full of Wind, and nothing else, excepting
+
+these Verses written in a Roll of Paper, and put in,
+
+as is suppos'd, before the Bladder was blown full:
+
+  As Wynde in a Bladdere ypent,
+
+  is Lordings promyse and ferment;
+
+  fain what hem lust withouten drede,
+
+  they bene so double in her falshede:
+
+  For they in heart can think ene thing,
+
+  and fain another in her speaking:
+
+  and what was sweet and apparent,
+
+  is smaterlich, and eke yshent.
+
+  and when of service you have nede,
+
+  pardie he will not rein nor rede.
+
+  but when the Symnel it is eten,
+
+  her curtesse is all foryetten.
+
+This Adventure met with various Constructions from
+
+those at Table: Some Laugh'd; others Frown'd. But the
+
+King took the Joke by the right End, and Laugh'd
+
+outright.
+
+The Verses, tho' but scurvy ones in themselves, yet in
+
+those Days pass'd for tolerable: Nay, the King was
+
+mightily pleas'd with 'em, and play'd 'em off on his
+
+Courtiers as Occasion serv'd; he wou'd stop 'em short
+
+in the middle of a flattering Harangue, and cry, _Not
+
+a Word of the Pudding_. This wou'd daunt and mortify
+
+'em to the last degree; they curs'd Sir _John_ a
+
+thousand times over for the Proverb's sake: but to no
+
+Purpose; for the King gave him a private Hearing:
+
+In which he so well satisfy'd His Majesty of his
+
+Innocence and Integrity, that all his Lands were
+
+restor'd. The King wou'd have put him in his old Post;
+
+but he modestly declin'd it, but at the same time
+
+presented His Majesty with a Book of most excellent
+
+Receipts for all kinds of Puddings: Which Book His
+
+Majesty receiv'd with all imaginable Kindness, and
+
+kept it among his greatest Rarities.
+
+But yet, as the best Instructions, tho' never so
+
+strictly followed, may not be always as successfully
+
+executed, so not one of the King's Cooks cou'd make a
+
+Pudding like Sir _John_; nay, tho' he made a Pudding
+
+before their Eyes, yet they out of the very same
+
+Materials could not do the like. Which made his old
+
+Friends the Monks attribute it to Witchcraft, and it
+
+was currently reported the Devil was his Helper. But
+
+good King _Harry_ was not to be fobb'd off so; the
+
+Pudding was good, it sate very well on his Stomach,
+
+and he eat very savourly, without the least Remorse of
+
+Conscience.
+
+In short, Sir _John_ grew in Favour in spite of their
+
+Teeth: The King lov'd a merry Joke; and Sir _John_ had
+
+always his Budget full of Punns, Connundrums and
+
+Carrawitchets; not to forgot the Quibbles and
+
+Fly-flaps he play'd against his Adversaries, at which
+
+the King has laugh'd 'till his Sides crackt.
+
+Sir _John_, tho' he was no very great Scholar, yet had
+
+a happy way of Expressing himself: He was a Man of the
+
+most Engaging Address, and never fail'd to draw
+
+Attention: Plenty and Good-Nature smil'd in his Face;
+
+his Muscles were never distorted with Anger or
+
+Contemplation, but an eternal Smile drew up the
+
+Corners of his Mouth; his very Eyes laugh'd; and as
+
+for his Chin it was three-double, a-down which hung a
+
+goodly Whey-colour'd Beard shining with the Drippings
+
+of his Luxury; for you must know he was a great
+
+Epicure, and had a very Sensible Mouth; he thought
+
+nothing too-good for himself, all his Care was for his
+
+Belly; and his Palate was so exquisite, that it was
+
+the perfect Standard of Tasting. So that to him we owe
+
+all that is elegant in Eating: For Pudding was not his
+
+only Talent, he was a great Virtuoso in all manner of
+
+Eatables; and tho' he might come short of _Lambert_
+
+for Confectionary-Niceties, yet was he not inferiour
+
+to _Brawnd_, _Lebec_, _Pede_, or any other great
+
+Masters of Cookery; he could toss up a Fricassee as
+
+well as a Pancake: And most of the Kickshaws now in
+
+vogue, are but his Inventions, with other Names; for
+
+what we call _Fricassees_, he call'd _Pancakes_; as,
+
+a Pancake of Chickens, a Pancake of Rabbets, _&c._
+
+Nay, the _French_ call a Pudding an _English_
+
+Fricassee, to this Day.
+
+We value our selves mightily for Roasting a Hare with
+
+a Pudding in its Belly; when alas he has roasted an Ox
+
+with a Pudding in his Belly. There was no Man like him
+
+for Invention and Contrivance: And then for Execution,
+
+he spar'd no Labour and Pains to compass his
+
+magnanimous Designs.
+
+O wou'd to Heav'n this little Attempt of Mine may stir
+
+up some _Pudding-headed Antiquary_ to dig his Way
+
+through all the mouldy Records of Antiquity, and bring
+
+to Light the Noble Actions of Sir _John_! It will not
+
+then be long before we see him on the Stage. Sir _John
+
+Falstaffe_ then will be a Shrimp to Sir _John
+
+Pudding_, when rais'd from Oblivion and reanimated by
+
+the All-Invigorating Pen of the Well-Fed, Well-Read,
+
+Well-Pay'd _C-- J----_ Esq; Nor wou'd this be all; for
+
+the Pastry-Cooks wou'd from the Hands of an eminent
+
+Physician and Poet receive whole Loads of Memorandums,
+
+to remind 'em of the Gratitude due to Sir _John_'s
+
+Memory.
+
+On such a Subject I hope to see Sir _Richard_ Out-do
+
+himself. Nor _Arthur_ nor _Eliza_ shall with Sir
+
+_John_ compare. There is not so much difference
+
+between a Telescope and a Powder-Puff,
+
+a Hoop-Petty-Coat and a Farthing-Candle, a Birch-Broom
+
+and a Diamond-Ring, as there will be between the
+
+former Writings of this pair of Poets and their
+
+Lucubrations on this Head.
+
+Nor will it stop here: The _Opera_ Composers shall
+
+have t'other Contest, which shall best sing-forth his
+
+Praises. Sorry am I that _Nicolino_ is not here, he
+
+would have made an excellent Sir _John_. But
+
+_Senefino_, being blown up after the manner that
+
+Butchers blow Calves, may do well enough. From thence
+
+the Painters and Print-sellers shall retail his goodly
+
+Phiz; and what _Sacheverel_ was, shall Sir _John
+
+Pudding_ be; his Head shall hang Elate on every Sign,
+
+his Fame shall ring in every Street, and _Cluer_'s
+
+Press shall teem with Ballads to his Praise. This
+
+would be but Honour, this would be but Gratitude, from
+
+a Generation so much indebted to so Great a Man.
+
+But how much do we deviate from Honour and Gratitude,
+
+when we put other Names to his Inventions, and call
+
+'em our own? What is a Tart, a Pie, or a Pasty, but
+
+Meat or Fruit enclos'd in a Wall or Covering of
+
+Pudding. What is a Cake, but a Bak'd Pudding; or a
+
+_Christmas_-Pie, but a Minc'd-Meat-Pudding. As for
+
+Cheese-cakes, Custards, Tansies, they are manifest
+
+Puddings, and all of Sir _John_'s own Contrivance; for
+
+Custard is as old if not older than _Magna Charta_.
+
+In short, Pudding is of the greatest Dignity and
+
+Antiquity. Bread it self, which is the very Staff of
+
+Life, is, properly speaking, a Bak'd Wheat-Pudding.
+
+To the Satchel, which is the Pudding-Bag of Ingenuity,
+
+we are indebted for the greatest Men in Church and
+
+State. All Arts and Sciences owe their Original to
+
+Pudding or Dumpling. What is a Bag-Pipe, the Mother of
+
+all Music, but a Pudding of Harmony. And what is Music
+
+it self, but a Palatable Cookery of Sounds. To little
+
+Puddings or Bladders of Colours we owe all the choice
+
+Originals of the Greatest Painters: And indeed, what
+
+is Painting, but a well-spread Pudding, or Cookery of
+
+Colours.
+
+The Head of Man is like a Pudding: And whence have all
+
+Rhimes, Poems, Plots and Inventions sprang, but from
+
+that same Pudding. What is Poetry, but a Pudding of
+
+Words. The Physicians, tho' they cry out so much
+
+against Cooks and Cookery, yet are but Cooks
+
+themselves; with this difference only, the Cooks
+
+Pudding lengthens Life, the Physicians shortens it.
+
+So that we Live and Die by Pudding. For what is a
+
+Clyster, but a Bag-Pudding; a Pill, but a Dumpling;
+
+or a Bolus, but a Tansy, tho' not altogether so
+
+Toothsome. In a word; Physick is only a Puddingizing
+
+or Cookery of Drugs. The Law is but a Cookery of
+
+Quibbles and Contentions. [a] * * * * * * * * * * *
+
+  * * * * * * * * * * * * * * * * * * * * * * * * *
+
+  * * * * * * is but a Pudding of * * * * * * * * *
+
+  * * * * * * * * * * * * * * * * * * * * * * * * *
+
+  * * *. Some swallow every thing whole and unmix'd;
+
+so that it may rather be call'd a Heap, than a
+
+Pudding. Others are so Squeamish, the greatest
+
+Mastership in Cookery is requir'd to make the Pudding
+
+Palatable: The Suet which others gape and swallow by
+
+Gobs, must for these puny Stomachs be minced to Atoms;
+
+the Plums must be pick'd with the utmost Care, and
+
+every Ingredient proportion'd to the greatest Nicety,
+
+or it will never go down.
+
+    [Footnote a: _The Cat run away with this part
+
+    of the Copy, on which the Author had unfortunately
+
+    laid some of Mother _Crump_'s Sausages._]
+
+The Universe it self is but a Pudding of Elements.
+
+Empires, Kingdoms, States and Republicks are but
+
+Puddings of People differently made up. The Celestial
+
+and Terrestrial Orbs are decypher'd to us by a pair of
+
+Globes or Mathematical Puddings.
+
+The Success of War and Fate of Monarchies are entirely
+
+dependant on Puddings and Dumplings: For what else are
+
+Cannon-Balls, but Military Puddings; or Bullets, but
+
+Dumplings; only with this difference, they do not sit
+
+so well on the Stomach as a good Marrow-Pudding or
+
+Bread-Pudding.
+
+In short, There is nothing valuable in Nature, but
+
+what, more or less, has an Allusion to Pudding or
+
+Dumpling. Why then should they be held in Disesteem?
+
+Why should Dumpling-Eating be ridicul'd, or
+
+Dumpling-Eaters derided? Is it not Pleasant and
+
+Profitable? Is it not Ancient and Honourable? Kings,
+
+Princes, and Potentates have in all Ages been Lovers
+
+of Pudding. Is it not therefore of Royal Authority?
+
+Popes, Cardinals, Bishops, Priests and Deacons have,
+
+Time out of Mind, been great Pudding-Eaters: Is it not
+
+therefore a Holy and Religious Institution?
+
+Philosophers, Poets, and Learned Men in all Faculties,
+
+Judges, Privy-Councellors, and Members of both Houses,
+
+have, by their great Regard to Pudding, given a
+
+Sanction to it that nothing can efface. Is it not
+
+therefore Ancient, Honourable, and Commendable?
+
+  _Quare itaque fremuerunt Auctores?_
+
+Why do therefore the Enemies of good Eating, the
+
+Starve-gutted Authors of Grub-street, employ their
+
+impotent Pens against Pudding and Pudding-headed,
+
+_alias_ Honest Men? Why do they inveigh against
+
+Dumpling-Eating which is the Life and Soul of
+
+Good-fellowship, and Dumpling-Eaters who are the
+
+Ornaments of Civil Society.
+
+But, alas! their Malice is their own Punishment. The
+
+Hireling Author of a late scandalous Libel, intituled,
+
+_The Dumpling-Eaters Downfall_, may, if he has any
+
+Eyes, now see his Error, in attacking so Numerous,
+
+so August a Body of People: His Books remain Unsold,
+
+Unread, Unregarded; while this Treatise of Mine shall
+
+be Bought by all who love Pudding or Dumpling; to my
+
+Bookseller's great Joy, and my no small Consolation.
+
+How shall I Triumph, and how will that Mercenary
+
+Scribbler be Mortify'd, when I have sold more Editions
+
+of my Books, than he has Copies of his! I therefore
+
+exhort all People, Gentle and Simple, Men, Women and
+
+Children, to Buy, to Read, to Extol these Labours of
+
+Mine, for the Honour of Dumpling-Eating. Let them not
+
+fear to defend every Article; for I will bear them
+
+Harmless: I have Arguments good store, and can easily
+
+Confute, either Logically, Theologically, or
+
+Metaphysically, all those who dare Oppose me.
+
+Let not _Englishmen_ therefore be asham'd of the Name
+
+of _Pudding-Eaters_; but, on the contrary, let it be
+
+their Glory. For let Foreigners cry out ne'er so much
+
+against Good Eating, they come easily into it when
+
+they have been a little while in our _Land of Canaan_;
+
+and there are very few Foreigners among as who have
+
+not learn'd to make as great a Hole in a good Pudding
+
+or Sirloin of Beef as the best _Englishman_ of us all.
+
+Why shou'd we then be Laught out of Pudding and
+
+Dumpling? or why Ridicul'd out of Good Living? Plots
+
+and Politics may hurt us, but Pudding cannot. Let us
+
+therefore adhere to Pudding, and keep our selves out
+
+of Harm's Way; according to the Golden Rule laid down
+
+by a celebrated Dumpling-Eater now defunct;
+
+  _Be of your Patron's Mind, whate'er he says:
+
+  Sleep very much; Think little, and Talk less:
+
+  Mind neither Good nor Bad, nor Right nor Wrong;
+
+  But Eat your Pudding, Fool, and Hold your Tongue._
+
+      PRIOR.
+
+The Author of these excellent Lines not only shews his
+
+Wisdom, but his Good-Breeding, and great Esteem for
+
+the Memory of Sir _John_, by giving his _Poem_ the
+
+Title of _Merry Andrew_, and making _Merry Andrew_ the
+
+principal Spokesman: For if I guess aright, and surely
+
+I guess not wrong, his main Design was, to ascertain
+
+the Name of _Merry Andrew_ to the _Fool_ of a Droll,
+
+and to substitute it instead of _Jack Pudding_; which
+
+Name my Friend _Matt._ cou'd not hear with Temper, as
+
+carrying with it an oblique Reflection on Sir _John
+
+Pudding_ the Hero of this DUMPLEID.
+
+Let all those therefore who have any Regard to
+
+Politeness and Propriety of Speech, take heed how they
+
+Err against this Rule laid down by him who was the
+
+Standard of _English_ Elegance. And be it known to all
+
+whom it may concern, That if any Person whatever shall
+
+dare hereafter to apply the Name of _Jack Pudding_ to
+
+_Merry Andrews_ and such-like Creatures, I hereby
+
+Require and Impower any Stander or Standers by, to
+
+Knock him, her, or them down. And if any Action or
+
+Actions of Assault and Battery shall be brought
+
+against any Person or Persons so acting in pursuance
+
+of this most reasonable Request, by Knocking down,
+
+Bruising, Beating, or otherwise Demolishing such
+
+Offenders; I will Indemnify and bear them Harmless.
+
+  _FINIS._
+
+[Decoration]
+
+       *       *       *       *       *
+
+           *       *       *       *
+
+[Decoration]
+
+  _Namby Pamby_:
+
+  or,
+
+  A PANEGYRIC on the
+
+    New VERSIFICATION
+
+    Address'd to
+
+    _A---- P----_ Esq;
+
+  _Nauty Pauty _Jack-a-Dandy_
+
+  Stole a Piece of Sugar-Candy
+
+  From the Grocer's Shoppy-shop,
+
+  And away did Hoppy-hop._
+
+  All ye Poets of the Age,
+
+  All ye Witlings of the Stage,
+
+  Learn your Jingles to reform;
+
+  Crop your Numbers, and conform:
+
+  Let your little Verses flow
+
+  Gently, sweetly, Row by Row:
+
+  Let the Verse the Subject fit;
+
+  Little Subject, Little Wit:
+
+  _Namby Pamby_ is your Guide;
+
+  _Albion_'s Joy, _Hibernia_'s Pride.
+
+  _Namby Pamby Pilli-pis_,
+
+  Rhimy pim'd on Missy-Miss;
+
+  _Tartaretta Tartaree_
+
+  From the Navel to the Knee;
+
+  That her Father's Gracy-Grace
+
+  Might give him a Placy-Place.
+
+  He no longer writes of Mammy
+
+  _Andromache_ and her Lammy
+
+  Hanging panging at the Breast
+
+  Of a Matron most distrest.
+
+  Now the Venal Poet sings
+
+  Baby Clouts, and Baby Things,
+
+  Baby Dolls, and Baby Houses,
+
+  Little Misses, Little Spouses;
+
+  Little Play-Things, Little Toys,
+
+  Little Girls, and Little Boys:
+
+  As an Actor does his Part,
+
+  So the Nurses get by Heart
+
+  _Namby Pamby_'s Little Rhimes,
+
+  Little Jingle, Little Chimes,
+
+  To repeat to Little Miss,
+
+  Piddling Ponds of Pissy-Piss;
+
+  Cacking packing like a Lady,
+
+  Or Bye-bying in the Crady.
+
+  _Namby Pamby_ ne'er will die
+
+  While the Nurse sings _Lullabye_.
+
+  _Namby Pamby_'s doubly Mild,
+
+  Once a Man, and twice a Child;
+
+  To his Hanging-Sleeves restor'd;
+
+  Now he foots it like a Lord;
+
+  Now he Pumps his little Wits;       }
+
+  Sh--ing Writes, and Writing Sh--s,  }
+
+  All by little tiny Bits.            }
+
+  Now methinks I hear him say,        }
+
+  _Boys and Girls, Come out to Play,  }
+
+  Moon do's shine as bright as Day._  }
+
+  Now my _Namby Pamby_'s found
+
+  Sitting on the _Friar's Ground_,
+
+  _Picking Silver, picking Gold_,
+
+  _Namby Pamby_'s never Old.
+
+  _Bally-Cally_ they begin,
+
+  _Namby Pamby_ still keeps-in.
+
+  _Namby Pamby_ is no Clown,
+
+  _London-Bridge is broken down_:
+
+  Now he _courts the gay Ladee,
+
+  Dancing o'er the Lady-Lee_:
+
+  Now he sings of _Lick-spit Liar
+
+  Burning in the Brimstone Fire;
+
+  Lyar, Lyar, Lick-spit, lick,
+
+  Turn about the Candle-stick_:
+
+  Now he sings of _Jacky Horner_
+
+  _Sitting in the Chimney corner,
+
+  Eating of a Christmas-Pie,
+
+  Putting in his Thumb, _Oh, fie!_
+
+  Putting in, _Oh, fie!_ his Thumb,
+
+  Pulling out, _Oh, strange!_ a Plum._
+
+  And again, how _Nancy Cock_,
+
+  Nasty Girl! _besh-t her Smock_.
+
+  Now he acts the _Grenadier_,
+
+  Calling for _a Pot of Beer_:
+
+  _Where's his Money? He's forgot;
+
+  Get him gone, a Drunken Sot._
+
+  Now on _Cock-horse_ does he ride;
+
+  And anon on Timber stride.
+
+  _See-and-Saw and Sacch'ry down,
+
+  London is a gallant Town._
+
+  Now he gathers Riches in
+
+  Thicker, faster, Pin by Pin;
+
+  _Pins a-piece to see his Show_;
+
+  Boys and Girls flock Row by Row;
+
+  From their Cloaths the Pins they take,
+
+  Risque a Whipping for his sake;
+
+  From their Frocks the Pins they pull,
+
+  To fill _Namby_'s Cushion full.
+
+  So much Wit at such an Age,
+
+  Does a Genius great presage.
+
+  Second Childhood gone and past,
+
+  Shou'd he prove a Man at last,
+
+  What must Second Manhood be,
+
+  In a Child so Bright as he!
+
+    Guard him, ye Poetic Powers;
+
+  Watch his Minutes, watch his Hours:
+
+  Let your Tuneful _Nine_ Inspire him;
+
+  Let Poetic Fury fire him:
+
+  Let the Poets one and all
+
+  To his Genius Victims fall.
+
+[Decoration]
+
+       *       *       *       *       *
+
+           *       *       *       *
+
+  PROPOSALS
+
+  For Printing by Subscriptions,
+
+  The
+
+  Antiquities of _Grub-street_:
+
+  With OBSERVATIONS Critical, Political,
+
+    Historical, Chronological,
+
+    Philosophical, and Philological.
+
+  By { JOHN WALTON and }
+
+     { JAMES ANDREWS   } Gent.
+
+[Decoration]
+
+  This WORK will be Printed on a Superfine Royal
+
+    Paper, in Ten Volumes, _Folio_: Each Volume to
+
+    contain an Hundred Sheets; besides Maps, Cuts, and
+
+    other proper Illustrations.
+
+  The Price to _Subscribers_ is Fifty Guinea's each
+
+    Set: Half Down, and Half on Delivery.
+
+  No more to be Printed than what are Subscribed for.
+
+  _Subscribers_ for Six Sets, have a Seventh _gratis_,
+
+    as usual.
+
+  The _Subscribers_ Names and Coats of Arms will be
+
+    prefix'd to the Work.
+
+  For those who are particularly Curious, some Copies
+
+    will be Printed on Vellum, Rul'd and Illuminated,
+
+    they paying the Difference.
+
+  It is not doubted but this Great UNDERTAKING will
+
+    meet with Encouragement from the Learned World,
+
+    several Noble Persons having already Subscribed.
+
+  SUBSCRIBERS are _Taken-in_ by the _Authors_, and
+
+    most _Noted_ Booksellers in _London_, &c.
+
+  _N. B._ The very _Cuts_ are worth the Money; there
+
+    being, _inter alia_, above 300 curious Heads of
+
+    Learned Authors, on large Copper-Plates, engraven
+
+    by Mr. _Herman van Stynkenvaart_, from the
+
+    Paintings, Busto's, and Basso-Relievo's of the
+
+    Greatest Masters.
+
+[Decoration]
+
+       *       *       *       *       *
+
+           *       *       *       *
+
+  ADVERTISEMENT
+
+  To all Gentlemen Booksellers, and others.
+
+  At the House with Stone-Steps and Sash-Windows
+
+    in _Hanover-Court_ in _Grape-Street_,
+
+    vulgarly call'd _Grub-Street_,
+
+  Liveth an _AUTHOR_,
+
+Who Writeth all manner of Books and Pamphlets, in
+
+Verse or Prose, at Reasonable Rates: And furnisheth,
+
+at a Minute's Warning, any Customer with Elegies,
+
+Pastorals, Epithalamium's and Congratulatory Verses
+
+adapted to all manner of Persons and Professions,
+
+Ready Written, with Blanks to insert the Names of the
+
+Parties Address'd to.
+
+He supplieth Gentlemen Bell-Men with Verses on all
+
+Occasions, at 12 _d._ the Dozen, or 10 _s._ the Gross;
+
+and teacheth them Accent and Pronunciation _gratis_.
+
+He taketh any side of a Question, and Writeth For or
+
+Against, or both, if required.
+
+He likewise Draws up Advertisements; and Asperses
+
+after the newest Method.
+
+He Writeth for those who cannot Write themselves, yet
+
+are ambitious of being Authors; and will, if required,
+
+enter into Bonds never to own the Performance.
+
+He Transmogrifieth _alias_ Transmigrapheth any Copy;
+
+and maketh many Titles to one Work, after the manner
+
+of the famous Mr. E---- C----
+
+  N. B. _He is come down from the Garret to the First
+
+    Floor, for the Convenience of his Customers._
+
+  [->] _Pray mistake not the House; because there are
+
+    many Pretenders there-abouts._
+
+  No Trust by Retale.
+
+       *       *       *       *       *
+
+           *       *       *       *
+
+       *       *       *       *       *
+
+                    PUDDING
+
+                      and
+
+                    DUMPLING
+
+                _Burnt to_ POT.
+
+       *       *       *       *       *
+
+           *       *       *       *
+
+            _Pudding_ and _Dumpling_
+
+               _Burnt to _POT_._
+
+                 Or, A Compleat
+
+                    K  E  Y
+
+                     to the
+
+                  DISSERTATION
+
+                       on
+
+                   _DUMPLING_.
+
+    Wherein
+
+  All the MYSTERY of that dark Treatise is brought
+
+    to Light; in such a Manner and Method, that
+
+    the meanest Capacity may know who and who's
+
+    together.
+
+  Published for the general Information of Mankind.
+
+    By _J. W._ Author of 684 Treatises.
+
+  _Yhuchi! dandi ocatchu gao emousey._
+
+    _LONDON:_
+
+  _Printed and Sold by A. DODD, without _Temple-Bar_,
+
+    and H. WHITRIDGE, the Corner of _Castle-Alley_,
+
+    in _Cornhill_._
+
+    M.DCC XXVII.   [_Price 6 d._]
+
+[Decoration]
+
+PREFACE
+
+It very much surprizes me that six Editions of a
+
+Mythological Pamphlet, entituled, _A Dissertation on
+
+Dumpling_, should escape your Notice of that wonderful
+
+Unriddler of Mysteries the ingenious Mr. _E---- C---_
+
+who has at the same Time given such Proofs of his
+
+Abilities in his many and most elaborate Keys to
+
+_Gulliver_'s Travels; Keys, which _Gulliver_ himself
+
+could never have found out! and withal, so pertinent,
+
+that I shall esteem those at the Helm, no great Lovers
+
+of Learning, if my Friend _Edmund_ be not forthwith
+
+promoted: for as the Sweetness of a Kernel is
+
+uncomatable, but by the Fracture of its Shell, so is
+
+the Beauty of a Mystery altogether hid, till the
+
+Expounder has riddlemayreed the Propounder's Problem,
+
+and render'd it obvious to the meanest Capacity.
+
+The only Plea I can use in Mr. _C----'s_ behalf, is,
+
+that the Author of the Dissertation has been a little
+
+too free with his Character, which probably occasioned
+
+that Sullenness in our _British Oedipus_; who in Order
+
+to be revenged, has determined not to embelish the
+
+Work with his Interpretation, but rather let it rot
+
+and perish in Oblivion.
+
+This, and nothing else, could be the Reason of so
+
+profound a Silence in so great a Mysterymonger,
+
+to remedy which Loss to the Publick, I an unworthy
+
+Scribler, and faint Copier of that great Artist,
+
+presume with aching Heart, and trembling Hand, to draw
+
+the Veil which shades the political Pamphlet in
+
+Question; and show it to my loving Countrymen in
+
+_Puris Naturalibus_.
+
+If I succeed in this, I hope Mr. _L----t_, who all the
+
+World knows is a rare Chap to his Authors, will
+
+speedily employ me to unriddle, or at least make a
+
+Plot to the _Rival Modes_, which it seems the Author
+
+has omitted: it is true, he ought to have given it the
+
+Bookseller with the Copy, but has not so done, which
+
+makes me wonder he is not sued for Breach of Covenant;
+
+but what is that to me, if I get a Job by the Bargain?
+
+Let Booksellers beware how they buy Plays without
+
+Plots for the future.
+
+I narrowly miss'd solving the Problem called _Wagner_
+
+and _Abericock_; Mr. _B----_ had spoke to Mr. _W----_
+
+to speak to Mr. _C----_, who had just consented to
+
+employ me, after having made me abate half my demand:
+
+But Houses running thin, _Colley_ had undertaken the
+
+Job himself to save Charges; intending at the same
+
+Time, to annex a severe Criticism on _Pluto_ and
+
+_Proserpine_.
+
+This, gentle Reader, will, I hope, induce you to look
+
+on me as a Writer of some Regard, and at the same
+
+Time, to make a little Allowance for whatever Errors
+
+my great Hurry may occasion, being obliged to write
+
+Night and Day, Sundays and working Days, without the
+
+least Assistance. All our Journeymen Writers being now
+
+turned Masters, I am left to shift for my self; but am
+
+bringing up my Wife to the Business, and doubt not but
+
+a long War, and our mutual Industry, may rub off old
+
+Scores, and make us begin a new Reckoning with all
+
+Mankind; Pamphleteering having been so dead for many
+
+Years last past, that (God forgive me!) I have been
+
+oftentimes tempted to write Treason for mere
+
+Sustenance.
+
+But Thanks to better Stars and better Days, the Pen
+
+revives, and Authors flourish; more Money can be made
+
+now of a Play, nay, though it be a scurvy One, than
+
+_Dryden_ got by all his Works. Therefore now or never
+
+is the Time to strike while the Iron is hot, to write
+
+my self out of Debt, and into Place, and then grow
+
+idle and laugh at the World, as my Betters have done
+
+before me.
+
+       *       *       *       *       *
+
+           *       *       *       *
+
+[Decoration]
+
+INTRODUCTION.
+
+When a Book has met with Success, it never wants a
+
+Father; there being those good natured Souls in the
+
+World, who, rather than let Mankind think such
+
+Productions sprang of themselves, will own the
+
+Vagabond Brat, and thereby become Fathers of other
+
+Mens Offsprings.
+
+This was the Fate of Dumpling, whose real Father did
+
+not take more Care to conceal himself, than some did
+
+to be thought its Author; but if any one will
+
+recollect the Time of its Publication, they will find
+
+it within a Week after the Arrival of D----n _S----t_,
+
+from _Ireland_; the Occasion, as I am very well
+
+informed, was this, the D----n, one of the first
+
+Things he did, went to pay a Visit to Mr. _T----_, his
+
+old Bookseller; but, to his Surprize, found both the
+
+Brothers dead, and a Relation in the Shop, to whom he
+
+was an utter Stranger. Mr. _M----_ for such is this
+
+Person's Name, gathering from the D--n's Enquiries who
+
+he was, paid him his _Devoirs_ in the most respectful
+
+Manner, solicited his Friendship, and invited him to a
+
+Dinner, which the D----n was pleased to accept. By the
+
+Way, you must know, he is a great Lover of Dumpling,
+
+as well as the Bookseller, who had ordered one for
+
+himself, little dreaming of such a Guest that Day. The
+
+Dinner, as 'twas not provided on purpose, was but a
+
+Family one, well enough however for a Bookseller; that
+
+is to say, a couple of Fowls, Bacon and Sprouts
+
+boiled, and a Forequarter of Lamb roasted. After the
+
+usual Complements for the unexpected Honour, and the
+
+old Apology of wishing it was better for his sake:
+
+The Maid, silly Girl! came and asked her Master if he
+
+pleased to have his Dumpling; he would have chid her,
+
+but the D----n mollified him, insisting at the same
+
+Time, upon the Introduction of Dumpling, which
+
+accordingly was done. Dumpling gave Cause of
+
+Conversation, but not till it was eat; for the Reader
+
+must understand, that both the Gentlemen play a good
+
+Knife and Fork, and are too mannerly to talk with
+
+their Mouths full. The Dumpling eat, as I said before,
+
+the D----n drank to the Bookseller, the Bookseller to
+
+the Author, and with an obsequious Smile, seem'd to
+
+say ah! Dear Doctor, you have been a Friend to my
+
+Predecessor, can you do nothing for me? The D--n took
+
+the Hint, and after a profound Contemplation, cry'd,
+
+Why ay--Dumpling will do--put me in Mind of Dumpling
+
+anon, but not a Word more at present, and good Reason
+
+why, Dinner was coming in. So they past the rest of
+
+the Meal with great Silence and Application, and no
+
+doubt dined well. Far otherwise was it with me that
+
+Day: I remember to my Sorrow, I had a Hogs Maw,
+
+without Salt or Mustard; having at that Time, Credit
+
+with the Pork-Woman, but not with the Chandler: Times
+
+are since mended, _Amen_ to the Continuance!
+
+The D----n, having eat and drank plentifully, began
+
+his usual Pleasantries, and made the Bookseller
+
+measure his Ears with his Mouth; nay, burst his Sides
+
+with Laughter; however, he found Interval enough to
+
+remind the D----n of Dumpling, who asked him if he had
+
+a quick Hand at Writing: he excused himself, being
+
+naturally as Lazy as the other was Indolent, so they
+
+contrived to ease themselves by sending for a Hackney
+
+Writer out of _Temple Lane_ to be the D--'s
+
+_Amanuensis_, while he and his new Acquaintance
+
+crack'd t'other Bottle.
+
+This Account may be depended upon, because I had it
+
+from the Man himself, who scorns to tell a Lye.
+
+To be short, my Friend had the worst of it, being kept
+
+to hard Writing, without Drinking (Churls that they
+
+were) about three Hours; in which Time the
+
+Dissertation was finished, that is to say, from Page
+
+1. to Page 25. the rest might probably be done at some
+
+other leisure Time, to fill up the Chinks, but of that
+
+he knows nothing; sufficient is it that the D----n was
+
+the Author. Proceed we now to the other Discoveries,
+
+by drawing the Veil from before the Book it self.
+
+       *       *       *       *       *
+
+           *       *       *       *
+
+  [Decoration]
+
+                       A
+
+                    K  E  Y
+
+                    to the
+
+                  DISSERTATION
+
+                      on
+
+                  _DUMPLING_.
+
+I Shall begin with his Motto, which says, _What is
+
+better than a Pudding?_ The Body owns its Power, the
+
+Mind, its Delicacy; it will give Youth to grey Hairs,
+
+and Life to the most Desponding: Therefore are Pudding
+
+Eaters of great Use in State Affairs.
+
+This Quotation is of a Piece with his Motto to the
+
+Tale of a Tub, and other Writings; altogether
+
+Fictitious and Drole: he adds to the Jest, by putting
+
+an Air of Authority or genuine Quotation from some
+
+great Author; when alas! the whole is mere Farce and
+
+Invention.
+
+The Dedication is one continued Sneer upon Authors,
+
+and their Patrons, and seems to carry a Glance of
+
+Derision towards Men of Quality in General; by setting
+
+a Cook above them, as a more useful Member in a body
+
+Politick. Some will have this _Braund_, to be Sir
+
+****, others Sir ****, others Sir ****; but I take it
+
+to be more Railery than Mystery, and that Mr.
+
+_Braund_, at the _Rummer_ in _Queen-street_, is the
+
+Person; who having pleas'd the Author in two or three
+
+Entertainments, he, with a View truly _Epicurean_,
+
+constitutes him his _Maecenas_; as being more agreeable
+
+to him than a whole Circle of Stars and Garters, of
+
+what Colour or Denomination soever.
+
+In his Tale of a Tub, he has a fling at Dependance,
+
+and Attendance, where he talks of a Body worn out with
+
+Poxes ill cured, and Shooes with Dependance, and
+
+Attendance. Not having the Book by me, I am forced to
+
+quote at Random, but I hope the courteous Reader will
+
+bear me out. He complains of it again in this
+
+Treatise, and makes a Complement to Mr. _Austin_, Mr.
+
+_Braund_'s late Servant; who keeps the _Braund_'s Head
+
+in _New Bond-street_, near _Hanover-Square_; a House
+
+of great Elegance, and where he used frequently to
+
+dine.
+
+The Distinction of _Brand_, _Braund_, and _Barnes_, is
+
+a Banter on Criticks, and Genealogists, who make such
+
+a Pother about the Orthography of Names and Things,
+
+that many Times, three Parts in four of a Folio
+
+Treatise, is taken up in ascertaining the Propriety of
+
+a Syllable, by which Means the Reader is left
+
+undetermined; having nothing but the various Readings
+
+on a single Word, and that probably, of small
+
+Importance.
+
+I heartily wish some of these Glossographists would
+
+oblige the World with a Folio Treatise or two, on the
+
+Word Rabbet: We shall then know whether it is to be
+
+spelt with an _e_, or an _i_. For, to the Shame of the
+
+_English_ Tongue and this learned Age, our most
+
+eminent Physicians, Surgeons, Anatomists and Men
+
+Midwives, have all been to seek in this Affair.
+
+  St. _Andre_,    }
+
+  _Howard_,       } Spell it
+
+  _Braithwaite_,  } with
+
+  _Ahlers_ and    } an _e_.
+
+  _Manningham_,   }
+
+  _Douglas_       }
+
+   and the        } Spell it
+
+   Gentleman who  } with
+
+   calls himself  } an _i_.
+
+  _Gulliver_,     }
+
+And some of these great Wits, have such short
+
+Memories, that they spell it both Ways in one and the
+
+same Page.
+
+The Master-Key to this Mystery, is the Explanation of
+
+its Terms; for Example, by _Dumpling_ is meant a
+
+Place, or any other Reward or Encouragement.
+
+A _Pudding_ signifies a P----t, and sometimes a
+
+C----tee. A _Dumpling Eater_, is a Dependant on the
+
+Court, or, in a Word, any one who will rather pocket
+
+an Affront than be angry at a Tip in Time. A _Cook_ is
+
+a Minister of State. The _Epicurean_ and _Peripatetic_
+
+Sects, are the two Parties of _Whigg_ and _Tory_, who
+
+both are greedy enough of Dumpling.
+
+The Author cannot forbear his old Sneer upon
+
+Foreigners, but says, in his 1st Page, "That finding
+
+it a Land of Plenty, they wisely resolved never to go
+
+home again," and in his 2d, "Nay, so zealous are they
+
+in the Cause of _Bacchus_, that one of the Chief among
+
+them, made a Vow never to say his Prayers till he has
+
+a Tavern of his own in every Street in _London_, and
+
+in every Market-Town in _England_:" If he does not
+
+mean Sir J---- T---- I know not who he means.
+
+By the Invention of _Eggs_, Page 4. is meant
+
+Perquisites. "He cannot conclude a Paragraph in his
+
+5th _Page_, without owning he received that important
+
+Part of the History of Pudding, from old Mr.
+
+_Lawrence_ of _Wilsden Green_, the greatest Antiquary
+
+of the present Age."
+
+This old _Lawrence_ is a great Favourite of the D--s;
+
+he is a facetious farmer, of above eighty Years of
+
+Age, now living at _Wilsden Green_, near _Kilburn_ in
+
+_Middlesex_, the most rural Place I ever saw: exactly
+
+like the Wilds of _Ireland_. It was here the
+
+D--n often retired _incog._ to amuse himself with the
+
+Simplicity of the Place and People; where he got
+
+together all that Rigmayroll of Childrens talk, which
+
+composes his _Namby Pamby_. Old _Lawrence_ told me,
+
+the D--n has sate several Hours together to see the
+
+Children play, with the greatest Pleasure in Life: The
+
+rest he learned from the old Nurses thereabouts, of
+
+which there are a great many, with whom he would go
+
+and smoke a Pipe frequently, and cordially; not in
+
+his Clergyman's Habit, but in a black Suit of Cloth
+
+Clothes, and without a Rose in his Hat: Which made
+
+them conclude him to be a Presbyterian Parson.
+
+This Mention of old _Lawrence_, is in Ridicule to a
+
+certain great Artist, who wrote a Treatise upon the
+
+Word _Connoisseur_ (or a Knower) and confesses himself
+
+to have been many Years at a loss for a Word to
+
+express the Action of Knowing, till the great Mr.
+
+_Prior_ gave him Ease, by furnishing him with the Word
+
+_Connoissance_. Our D--n had drawn a Drole, Parallel
+
+to this, _viz._ _Boudineur_, a Pudding Pyeman; and
+
+_Boudinance_, the making of Pudding Pies: But several
+
+Men of Quality begging it off, it was, at their
+
+Request, scratch'd out, but my Friend, the
+
+_Amanuensis_, remembers particularly its being
+
+originally inserted.
+
+If the Reader should ask, Who is that K-- _John_
+
+mentioned in the fourth Page, and which I ought to
+
+have taken in its Place. I beg leave to inform him,
+
+that by K. _John_ is meant the late Q. ----, with whom
+
+the D-- of _M----_ was many Years in such great
+
+Favour, that he was nick named K. _John_; it was in
+
+that Part of the Q--'s Reign, that Sir _John_ Pudding,
+
+by whom is meant **** _you know who_, came in Favour;
+
+it is true, the Name is odd, and seems to carry an Air
+
+of Ridicule with it, but the Character given him by
+
+this allegorical Writer, is that of an able Statesman,
+
+and an honest Man.
+
+And here, begging Mr. D--n's Pardon, I cannot but
+
+think his Wit has out run his Judgment; for he puts
+
+the Cart before the Horse, and begins at the latter
+
+Part of Sir **** Administration: But this might be
+
+owing to too plentiful a Dinner, and too much of the
+
+Creature. Be that as it will, I must follow my Copy,
+
+and explain it as it lies. Proceed we therefore to the
+
+Dissertation, _Page 6._
+
+"But what rais'd our Hero most in the Esteem of this
+
+Pudding-eating Monarch, was his second Edition of
+
+Pudding, he being the first that ever invented the Art
+
+of broiling Puddings, which he did to such Perfection,
+
+and so much to the King's liking (who had a mortal
+
+Aversion to cold Pudding) that he thereupon instituted
+
+him Knight of the Gridiron, and gave him a Gridiron of
+
+Gold, the Ensign of that Order; which he always wore
+
+as a Mark of his Sovereign's Favour."
+
+If this does not mean the late Revival of an ancient
+
+Order of Knighthood, I never will unriddle Mystery
+
+more: To prove which, we need but cross over to the
+
+next Page, where he tells us, "Sir _John_ had always a
+
+Squire, who followed him, bearing a huge Pair of
+
+Spectacles to saddle his Honour's Nose." _Diss.
+
+Page 7._
+
+After this, he very severely runs upon those would-be
+
+Statesmen, who put themselves in Competition with his
+
+Favourite, Sir ****, with whom he became exceeding
+
+intimate, and almost inseperable, all the Time he was
+
+in _England_.
+
+The Story of the Kit Cat Club, _Dick Estcourt_, and
+
+_Jacob Tonson_, is a mere Digression; and nothing more
+
+to the Purpose, than that we may imagine it came
+
+uppermost. He returns to his Subject in his 9th
+
+_Page_.
+
+"Now it was Sir _John_'s Method, every _Sunday_
+
+Morning, to give the Courtiers a Breakfast; which
+
+Breakfast was every Man his Dumpling, and Cup of Wine:
+
+For you must know, he was Yeoman of the Wine-Cellar at
+
+the same Time."
+
+The Breakfast is Sir *** Levee, the Yeomanship of the
+
+Wine-Cellar, is the ***.
+
+The Author of the Dissertation, is a very bad
+
+Chronologist; for at _Page_ 10. we are obliged to go
+
+back to the former Reign, where we shall find the
+
+lubberly Abbots (_i.e._) the High Church Priests,
+
+misrepresenting Sir _John_'s Actions, and never let
+
+the Q---- alone, till poor Sir _John_ was discarded.
+
+"This was a great Eye-sore, and Heart-burning to some
+
+lubberly Abbots, who lounged about the Court; they
+
+took it in great Dudgeon they were not invited, and
+
+stuck so close to his Skirts, that they never rested
+
+till they outed him. They told the King, who was
+
+naturally very hasty, that Sir _John_, made-away with
+
+his Wine, and feasted his _Paramours_ at his Expence;
+
+and not only so, but they were forming a Design
+
+against his Life, which they in Conscience ought to
+
+discover: That Sir _John_ was not only an Heretic, but
+
+an Heathen; nay, worse, they fear'd he was a Witch,
+
+and that he had bewitch'd his Majesty into that
+
+unaccountable Fondness for a _Pudding-Maker_. They
+
+assured the King, that on a _Sunday_ Morning, instead
+
+of being at Mattins, he and his Trigrimates got
+
+together hum jum, all snug, and perform'd many hellish
+
+and diabolical Ceremonies. In short, they made the
+
+King believe that the Moon was made of Green-Cheese:
+
+And to shew how the Innocent may be bely'd, and the
+
+best Intentions misrepresented, they told the King,
+
+That he and his Associates offered Sacrifices to
+
+_Ceres_: When, alas, it was only the Dumplings they
+
+eat.
+
+"The Butter which was melted and poured over them,
+
+these vile Miscreants, called _Libations_: And the
+
+friendly Compotations of our Dumpling Eaters, were
+
+called _Bacchanalian Rites_. Two or three among them
+
+being sweet tooth'd, would strew a little Sugar over
+
+their Dumplings; this was represented as an
+
+_Heathenish Offering_. In short, not one Action of
+
+theirs, but which these rascally Abbots made criminal,
+
+and never let the King alone till Sir _John_ was
+
+discarded; not but the King did it with the greatest
+
+Reluctance; but they made it a religious Concern, and
+
+he could not get off on't." _Diss. pag._ 10.
+
+All the World knows that the _Tory_ Ministry got
+
+uppermost, for the four last Years of the Queen's
+
+Reign, and by their unaccountable Management, teaz'd
+
+that good Lady out of her Life: Which occasion'd the
+
+D--n in his eleventh Page to say; "Then too late he
+
+saw his Error; then he lamented the Loss of Sir
+
+_John_; and in his latest Moments, would cry out, Oh!
+
+that I had never parted from my dear _Jack-Pudding_!
+
+Would I had never left off Pudding and Dumpling! then
+
+I had never been thus basely poison'd! never thus
+
+treacherously sent out of the World!----Thus did this
+
+good King lament: But alas! to no purpose, the Priest
+
+had given him his Bane, and Complaints were
+
+ineffectual."
+
+This alludes to Sir **** Imprisonment and Disgrace in
+
+the Year ---- Nay, so barefaced is the D--n in his
+
+Allegory, that he tells us, in his 12th Page,
+
+_Norfolk_ was his Asylum. This is as plain as the Nose
+
+on a Man's Face! The subsequent Pages are an exact
+
+Description of the Ingratitude of Courtiers; and his
+
+Fable of the _Court Pudding_, Page 13. is the best
+
+Part of the whole Dissertation.
+
+One would imagine the D--n had been at Sea, by his
+
+writing Catharping-Fashion, and dodging the Story
+
+sometimes Twenty-Years backwards, at other Times
+
+advancing as many; so that one knows not where to have
+
+him: for in his fifteenth Page, he returns to the
+
+present Scene of Action, and brings his Hero into the
+
+Favour of K---- _Harry_, _alias_ **** who being
+
+sensible of his Abilities, restores him into Favour,
+
+and makes Use of his admirable Skill in Cookery,
+
+_alias_ State Affairs.
+
+"Not one of the King's Cooks could make a Pudding like
+
+Sir _John_; nay, though he made a Pudding before their
+
+Eyes, yet they, out of the very same Materials, could
+
+not do the like: Which made his old Friends, the
+
+Monks, attribute it to Witchcraft and it was currently
+
+reported the Devil was his Helper. But good King
+
+_Harry_ was not to be fobb'd off so; the Pudding was
+
+good, it sat very well on his Stomach, and he eat very
+
+savourly, without the least Remorse of Conscience."
+
+_Diss. Page_ 15.
+
+This seems to hint at the Opposition Sir **** met with
+
+from the contrary Party, and how sensible the K----
+
+was, that they were all unable to hold the Staff in
+
+Competition with him.
+
+After this the D--n runs into a whimsical Description
+
+of his Heroes personal Virtues; but draws the Picture
+
+too much _Alla Carraccatura_, and is, in my Opinion,
+
+not only a little too familiar, but wide of his
+
+Subject. For begging his Deanship's Pardon, he
+
+mightily betrays his Judgment, when he says, Sir
+
+_John_ was no very great Scholar, whereas all Men of
+
+Learning allow him to be a most excellent one; but as
+
+we may suppose he grew pretty warm by this Time with
+
+the Booksellers Wine, he got into his old Knack of
+
+Raillery, and begins to run upon all Mankind: In this
+
+Mood he falls upon _C---- J----n_, and Sir _R----
+
+Bl----re_, a pair of twin Poets, who suck'd one and
+
+the same Muse. After this he has a Fling at _Handel_,
+
+_Bononcini_ and _Attilio_, the Opera Composers; and a
+
+severe Sneer on the late High-Church Idol,
+
+_Sacheverel_. As for _Cluer_, the Printer, any Body
+
+that knows Music, or _Bow Church Yard_, needs no
+
+farther Information.
+
+And now he proceeds to a Digression, which is indeed
+
+the Dissertation it self; proving all Arts and
+
+Sciences to owe their Origin and Existence to
+
+_Pudding_ and _Dumpling_ (_i.e._) Encouragement. His
+
+_Hiatus_ in the 20th Page, I could, but dare not
+
+Decypher.
+
+In his 22nd Page, he lashes the Authors who oppose the
+
+Government; such as the _Craftsman_, _Occasional
+
+Writer_, and other Scribblers, past, present, and to
+
+come. _The Dumpling-Eaters Downfal_, is a Title of his
+
+own Imagination; I have run over all _Wilford_'s
+
+Catalogues, and see no Mention made of such a Book:
+
+All that Paragraph therefore is a mere Piece of
+
+Rablaiscism.
+
+In his 23d Page, he has another confounded Fling at
+
+Foreigners; and after having determinately dubb'd his
+
+Hero, the Prince of Statesmen, he concludes his
+
+Dissertation with a Mess of Drollery, and goes off in
+
+a Laugh.
+
+In a Word, the whole Dissertation seems calculated to
+
+ingratiate the D--n in Sir **** Favour; he draws the
+
+Picture of an able and an honest Minister, painful in
+
+his Countries Service, and beloved by his Prince; yet
+
+oftentimes misrepresented and bely'd: Nay, sometimes
+
+on the Brink of Ruin, but always Conqueror. The Fears,
+
+the Jealousies, the Misrepresentations of an enraged
+
+and disappointed Party, give him no small Uneasiness
+
+to see the Ingratitude of some Men, the Folly of
+
+others, who shall believe black to be white, because
+
+prejudiced and designing Knaves alarm 'em with false
+
+Fears. We see every Action misconstrued, and Evil made
+
+out of Good; but as the best Persons and Things are
+
+subject to Scandal and Ridicule; so have they the
+
+Pleasure of Triumphing in the Truth, which always will
+
+prevail.
+
+I take the Allegory of this Dissertation to be partly
+
+Historical, partly Prophetical; the D--n seeming to
+
+have carried his View, not only to the present, but
+
+even, succeeding Times. He sets his Hero down at last
+
+in Peace, Plenty, and a happy Retirement, not
+
+unrelented by his Prince; his Honesty apparent, his
+
+Enemies baffled and confounded, and his Measures made
+
+the Standard of good Government; and a Pattern for all
+
+just Ministers to follow.
+
+Thus, gentle Reader, have I, at the Expence of these
+
+poor Brains, crack'd this thick Shell, and given thee
+
+the Kernel. If any should object, and say this
+
+Exposition is a Contradiction to the D--n's
+
+Principles; I assure such Objector, that the D--n is
+
+an errant _Whig_ by Education, and Choice: He may
+
+indeed cajole the _Tories_ with a Belief that he is of
+
+their Party; but it is all a Joke, he is a _Whig_, and
+
+I know him to be so; Nay more, I can prove it, and
+
+defy him to contradict me; did he not just after his
+
+Arrival and Promotion in _Ireland_, writing to one of
+
+his intimate Friends in _London_, conclude his Letter
+
+in this Manner?
+
+_Thus Dear **** from all that has occur'd, you must
+
+conclude me a _Tory_ in every Thing, but my Principle,
+
+which is yet as unmoved, as, that I am,_
+
+  Yours, _&c._
+
+This Letter, his Tale of a Tub, and in a Word, all his
+
+Invectives against Enthusiasm and Priestcraft, plainly
+
+prove him to be no _Tory_; and if his Intimacy, not
+
+only with Sir **** himself, but most of the prime Men
+
+in the Ministry, cannot prove him a _Whig_, I have no
+
+more to say.
+
+  _FINIS._
+
+[Decoration]
+
+_Advertisement to the _Curious_._
+
+The Author is Night and Day at Work (in order to get
+
+published before the _Spaniards_ have raised the Siege
+
+of _Gibraltar_) a Treatise, entituled, _Truth brought
+
+to light, _or_ D--n _S----t_'s _Wilsden_ Prophecy
+
+unfolded_; being a full Explanation of a Prophetical
+
+Poem, called _Namby Pamby_, which, by most People,
+
+is taken for a Banter on an eminent Poet, now in
+
+_Ireland_; when in Fact, it is a true Narrative of the
+
+Siege of _Gibraltar_, the Defeat of the _Spaniards_,
+
+and Success of the _British_ Arms. The Author doubts
+
+not in this Attempt to give manifest Proof of his
+
+Abilities, and make it apparent to all Mankind, that
+
+he can see as clearly through a Milstone, as any other
+
+Person can through the best Optic _Martial_ or
+
+_Scarlet_ ever made; and that there is more in many
+
+Things, not taken Notice of, than the Generality of
+
+People are aware of.
+
+       *       *       *       *       *
+
+           *       *       *       *
+
+       *       *       *       *       *
+
+NOTES TO _DUMPLING_
+
+Pp. [ii].2-[iii].25. The information on Brand, Braund, and Marsh is
+
+confirmed by records in the Willesdon Public Library and by Lyson's
+
+_County of Middlesex_.
+
+P.2.30-31. Carey also attacks the Freemasons and Gormogons in _Poems_,
+
+ed. Wood, p. 118.
+
+P.5.3. Old Mr. Lawrence is mentioned several times (see particularly
+
+_Key_, pp. 16-17). There was a farmer Lawrence of 70 in Willesdon at the
+
+time, but I have found no direct connection with an antiquary, with
+
+Swift's Namby Pamby talk (see _OED_ under _Namby Pamby_) and his
+
+_Wilsden Prophecy_; nor with Jonathan Richardson (see note to _Key_,
+
+p. 17). On another level, the laziness attributed to Swift (_Key_,
+
+p. viii) and the gridiron here connected with the Kit Cat club are both
+
+commonly associated with Saint Lawrence.
+
+P.6.11-12. "Bull and Mouth" refers to a tavern known as the Boulogne
+
+Mouth (John Timbs, _Clubs and Club Life in London_ [London, 1872],
+
+p. 529).
+
+Pp.6.13-9.6. Knight of the Gridiron: Walpole was a member of the Kit
+
+Cat club, which originally met at the pie shop of Christopher Cat in
+
+Shire Lane. The "Second Edition" probably refers to the fact that the
+
+Order of the Bath was reintroduced for Walpole's benefit in June 1724.
+
+(See also _Key_, p. 19.) There is intentional confusion with Estcourt,
+
+who as providore of the Beefsteak club wore about his neck a small
+
+gridiron of silver and was made a Knight of Saint Lawrence. The Knights
+
+of the Toast were an associated group. The gridiron is a symbol both of
+
+gormandizing and of the roasting of Saint Lawrence.
+
+P.9.9. J[acob] T[onson], the publisher, founded the Kit Cat club which
+
+also met at Tonson's home in Barns Elms, and in Hampstead (which was
+
+only a few miles northeast of Willesdon).
+
+P.11.15-18. King John is reputed either to have been poisoned or to
+
+have died from overeating at Swineshead Abbey (18-19 October 1216).
+
+Pp.14.15-16.24. See also _Key_, pp. 25-26. King Harry, at this point,
+
+would appear to be George I, with either Walpole or Marlborough as Sir
+
+John Pudding. Nevertheless, there are carefully interpolated overtones
+
+regarding Falstaff and Hal. "One knows not where to have him" (_Key_,
+
+p. 25) is one of several apt Shakespearian allusions in the work.
+
+Pp.17.25-18.26. In _Dumpling_, pp. 17-18, and _Key_, pp. 26-27, the
+
+references are to the writers Sir R[ichard] B[lackmore] and C[harles]
+
+J[ohnso]n; opera in the hands of Nicolino, Senesino, Handel, Buononcini
+
+and Attilio; the high-church idol, Sacheverel (d. 1724); the _Craftsman_
+
+(founded to attack Walpole) and the _Occasional Writer_ (Bolingbroke's 4
+
+pamphlets of Jan/Feb. 1727); and finally the discredited music printer,
+
+Cluer. Carey's relationship to opera was ambivalent, but in _Mocking is
+
+Catching_ he strongly attacked Senesino.
+
+P.24.5-29. Matt. Prior (d. 1721), despite his aristocratic pretensions,
+
+had been earlier associated with the Rummer Tavern. He was a member of
+
+the Kit Cat club until he became a Tory for Dumpling.
+
+P.[32].28. E[dmund] C[url] of the "ADVERTISEMENT" was a publisher
+
+notorious for stealing material. Carey complained frequently of his
+
+writings having been "fathered" by others.
+
+NOTES TO THE _KEY_
+
+Title Page. "J. W.": Dr. Wood suggests this is the fictitious John
+
+Walton of the "Proposals" at the end of _Dumpling_. My own preference is
+
+for Dr. John Woodward, the famous antiquarian and physician. As late as
+
+Fielding's "Dedication" to _Shamela_, Woodward was being mocked for
+
+suggesting that the "Gluttony [which] is owing to the great
+
+Multiplication of Pastry-Cooks in the City" has "Led to the Subversion
+
+of Government...." (See Woodward's _The State of Physick and of
+
+Diseases_ [London, 1718], pp. 194-196 and 200-201. Compare this with
+
+_Dumpling_, pp. 22-23, on the _Dumpling-Eaters Downfall_, also pp. 9 and
+
+16, and _Key_, p. 17.) Swift deals with "repletion" in _Gulliver's
+
+Travels_ (ed. Herbert Davis [Oxford, 1941], pp. 253-254 and 262).
+
+P.iii.1-22. L[intot] was Pope's publisher. B[ooth], W[ilks], and
+
+C[ibber] were the managers of Drury Lane. _The London Stage, Part 2:
+
+1700-1729_, ed. Emmett L. Avery (Carbondale, Ill., 1960), shows that
+
+J. M. Smythe's _Rival Modes_ was first played 27 January 1727 at Drury
+
+Lane; John Thurmond's pantomime _The Miser: Or Wagner and Abericock_ was
+
+first played 30 December 1726 at Drury Lane; and Lun's pantomimes
+
+_Harlequin a Sorcerer: With The Loves of Pluto and Proserpine_ and _The
+
+Rape of Proserpine_ were first played at the Lincoln's Inn Fields
+
+Theatre 21 January 1725 and 13 February 1727 respectively.
+
+P.iv.16-25. The preface ends on a similar note to Carey's _Of Stage
+
+Tyrants_ (p. 108).
+
+P.[v].3-4. To "it never wants a Father," compare _Of Stage Tyrants_
+
+(p. 107).
+
+P.vi.1-9. Swift's "old Bookseller" had been T[ooke] (though there may
+
+be overtones here regarding Tonson). His new publisher was [Benjamin]
+
+M[otte].
+
+Pp.viii.24-ix.14. The "Hackney Writer out of _Temple Lane_" could very
+
+well be Carey. (See Carey's _Records of Love_ [London, 1710], pp. 175,
+
+93, and 104.)
+
+P.13.6-9. Carey's poem "The Plague of Dependence" cautions: "You may
+
+dance out your shoes in attendance;/ [while you] .... wait for a court
+
+dependence" (p. 90).
+
+Pp.14.7-15.2. Here Carey cleverly ties in Swift's surgeon Gulliver,
+
+through the "Pancake of Rabbets" (_Dumpling_, p. 17), with the topical
+
+and notorious case of Mary Tofts, who in November 1726 was "delivered"
+
+of fifteen rabbits. All the people mentioned were connected with this
+
+case. Nathaniel St. Andre was the surgeon and anatomist to the King,
+
+and Cyriacus Ahlers the King's private surgeon; John Howard was the
+
+apothecary. The imposture was finally brought to light before Sir
+
+Richard Manningham (the famous man-midwife who probably influenced
+
+Sterne) and Dr. James Douglas. Among the many contemporary pamphlets on
+
+this subject is one by Thomas Braithwaite.
+
+Pp.16.14-17.13. The following is a very revealing quotation from
+
+records in the Willesdon Public Library under F. A. Wood [not Dr. F. T.
+
+Wood], _Willesdon_ I, 99: "These nurse children must have been sent from
+
+workhouses round Willesdon ... the parish must have become a baby
+
+farm.... The large number of deaths between 1702 and 1727 ought to have
+
+caused some official enquiry, which probably did take place, as after
+
+1727 they soon ceased altogether."
+
+P.17.14-22. See Jonathan Richardson, _Works_, Strawberry Hill Press
+
+(London, 1792), pp. 198-199: "...had the honour of a letter ... the term
+
+_Connoisance_ was used.... I must not conceal the name it was Mr.
+
+Prior." Richardson, a frequent visitor to Hampstead, painted both Prior
+
+and Pope. His essay on "The Connoisseur" was frequently published.
+
+P.18.6-22. See also p. 24 and _passim_. Robert Walpole was born and
+
+died at Houghton in Norfolk; he was helped up by Marlborough but lost
+
+power with him under the Tories. Walpole went to the Tower for five
+
+months in 1712 before going to his home county, where Defoe calls him
+
+"King Walpole in Norfolk."
+
+P.24.19-20. The "Fable of the _Court Pudding_" (see also _Dumpling_,
+
+pp. 13-14) ties together both meanings of the scatological Latin-English
+
+pun on the title page of _Dumpling_.
+
+       *       *       *       *       *
+
+           *       *       *       *
+
+       *       *       *       *       *
+
+  WILLIAM ANDREWS CLARK
+
+  MEMORIAL LIBRARY
+
+  University Of California, Los Angeles
+
+  [Decoration]
+
+  THE AUGUSTAN REPRINT SOCIETY
+
+  Publications In Print
+
+THE AUGUSTAN REPRINT SOCIETY
+
+Publications In Print
+
+  [Decoration]
+
+  [Transcriber's Note:
+
+  Where available, Project Gutenberg e-text numbers (5 digits) are
+
+  shown in [brackets]. Most other titles are in preparation.]
+
+1948-1949
+
+16. Henry Nevil Payne, _The Fatal Jealousie_ (1673).  [16916]
+
+18. Anonymous, "Of Genius," in _The Occasional Paper_, Vol. III, No. 10
+
+(1719), and Aaron Hill, Preface to _The Creation_ (1720).  [15870]
+
+1949-1950
+
+19. Susanna Centlivre, _The Busie Body_ (1709).  [16740]
+
+20. Lewis Theobald, _Preface to the Works of Shakespeare_ (1734).
+
+[16346]
+
+22. Samuel Johnson, _The Vanity of Human Wishes_ (1749), and two
+
+_Rambler_ papers (1750).  [13350]
+
+23. John Dryden, _His Majesties Declaration Defended_ (1681).  [15074]
+
+1950-1951
+
+26. Charles Macklin, _The Man of the World_ (1792).  [14463]
+
+1951-1952
+
+31. Thomas Gray, _An Elegy Wrote in a Country Churchyard_ (1751), and
+
+_The Eton College Manuscript_.  [15409]
+
+1952-1953
+
+41. Bernard Mandeville, _A Letter to Dion_ (1732).
+
+1963-1964
+
+104. Thomas D'Urfey, _Wonders in the Sun; or, The Kingdom of the Birds_
+
+(1706).
+
+1964-1965
+
+110. John Tutchin, _Selected Poems_ (1685-1700).
+
+111. Anonymous, _Political justice_ (1736).
+
+112. Robert Dodsley, _An Essay on Fable_ (1764).
+
+113. T. R., _An Essay Concerning Critical and Curious Learning_ (1698).
+
+114. _Two Poems Against Pope:_ Leonard Welsted, _One Epistle to Mr.
+
+A. Pope_ (1730), and Anonymous, _The Blatant Beast_ (1742).  [21499]
+
+1965-1966
+
+115. Daniel Defoe and others, _Accounts of the Apparition of Mrs. Veal_.
+
+116. Charles Macklin, _The Covent Garden Theatre_ (1752).
+
+117. Sir George L'Estrange, _Citt and Bumpkin_ (1680).
+
+118. Henry More, _Enthusiasmus Triumphatus_ (1662).
+
+119. Thomas Traherne, _Meditations on the Six Days of the Creation_
+
+(1717).
+
+120. Bernard Mandeville, _Aesop Dress'd or a Collection of Fables_
+
+(1704).
+
+1966-1967
+
+123. Edmond Malone, _Cursory Observations on the Poems Attributed to Mr.
+
+Thomas Rowley_ (1782).
+
+124. Anonymous, _The Female Wits_ (1704).
+
+125. Anonymous, _The Scribleriad_ (1742). Lord Hervey, _The Difference
+
+Between Verbal and Practical Virtue_ (1742).
+
+1967-1968
+
+129. Lawrence Echard, Prefaces to _Terence's Comedies_ (1694) and
+
+_Plautus's Comedies_ (1694).
+
+130. Henry More, _Democritus Platonissans_ (1646).
+
+132. Walter Harte, _An Essay on Satire, Particularly on the Dunciad_
+
+(1730).
+
+1968-1969
+
+133. John Courtenay, _A Poetical Review of the Literary and Moral
+
+Character of the Late Samuel Johnson_ (1786).
+
+134. John Downes, _Roscius Anglicanus_ (1708).
+
+135. Sir John Hill, _Hypochondriasis, a Practical Treatise_ (1766).
+
+136. Thomas Sheridan, _Discourse ... Being Introductory to His Course of
+
+Lectures on Elocution and the English Language_ (1759).
+
+137. Arthur Murphy, _The Englishman From Paris_ (1736).
+
+138. [Catherine Trotter], _Olinda's Adventures_ (1718).
+
+Publications of the first fifteen years of the Society (numbers 1-90)
+
+are available in paperbound units of six issues at $16.00 per unit, from
+
+the Kraus Reprint Company, 16 East 46th Street, New York, N.Y. 10017.
+
+Publications in print are available at the regular membership rate of
+
+$5.00 yearly. Prices of single issues may be obtained upon request.
+
+Subsequent publications may be checked in the annual prospectus.
+
+  [Decoration]
+
+The Augustan Reprint Society
+
+  William Andrews Clark
+
+  Memorial Library
+
+UNIVERSITY OF CALIFORNIA, LOS ANGELES
+
+2520 Cimarron Street (at West Adams), Los Angeles, California 90018
+
+  [Decoration]
+
+_Make check or money order payable to_
+
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+
+  William Andrews Clark Memorial Library:
+
+  University of California, Los Angeles
+
+THE AUGUSTAN REPRINT SOCIETY
+
+2520 Cimarron Street, Los Angeles, California 90018
+
+_General Editors_: William E. Conway, William Andrews Clark Memorial
+
+Library; George Robert Guffey, University of California, Los Angeles;
+
+Maximillian E. Novak, University of California, Los Angeles
+
+_Corresponding Secretary_: Mrs. Edna C. Davis, William Andrews Clark
+
+Memorial Library
+
+The Society's purpose is to publish rare Restoration and
+
+eighteenth-century works (usually as facsimile reproductions). All
+
+income of the Society is devoted to defraying costs of publication and
+
+mailing.
+
+Correspondence concerning memberships in the United States and Canada
+
+should be addressed to the Corresponding Secretary at the William
+
+Andrews Clark Memorial Library, 2520 Cimarron Street, Los Angeles,
+
+California. Correspondence concerning editorial matters may be addressed
+
+to the General Editors at the same address. Manuscripts of introductions
+
+should conform to the recommendations of the M L A _Style Sheet_. The
+
+membership fee is $5.00 a year in the United States and Canada and
+
+L1.19.6 in Great Britain and Europe. British and European prospective
+
+members should address B. H. Blackwell, Broad Street, Oxford, England.
+
+Copies of back issues in print may be obtained from the Corresponding
+
+Secretary.
+
+Publications of the first fifteen years of the Society (numbers 1-90)
+
+are available in paperbound units of six issues at $16.00 per unit, from
+
+the Kraus Reprint Company, 16 East 46th Street, New York, N.Y. 10017.
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+
+CALIFORNIA
+
+REGULAR PUBLICATIONS FOR 1969-1970
+
+139. John Ogilvie, _An Essay on the lyric poetry of the ancients_
+
+(1762). Introduction by Wallace Jackson.  [25008]
+
+140. _A Learned Dissertation on Dumpling_ (1726) and _Pudding burnt to
+
+pot or a compleat key to the Dissertation on Dumpling_ (1727).
+
+Introduction by Samuel L. Macey.  [_present text_]
+
+141. Selections from Sir Roger L'Estrange's _Observator_ (1681-1687).
+
+Introduction by Violet Jordain.
+
+142. Anthony Collins, _A Discourse concerning Ridicule and Irony in
+
+writing_ (1729). Introduction by Edward A. Bloom and Lillian D. Bloom.
+
+143. _A Letter from a clergyman to his friend, with an account of the
+
+travels of Captain Lemuel Gulliver_ (1726). Introduction by Martin
+
+Kallich.
+
+144. _The Art of Architecture, a poem. In imitation of Horace's Art of
+
+poetry_ (1742). Introduction by William A. Gibson.
+
+SPECIAL PUBLICATION FOR 1969-1970
+
+Gerard Langbaine, _An Account of the English Dramatick Poets_ (1691),
+
+Introduction by John Loftis. 2 Volumes. Approximately 600 pages. Price
+
+to members of the Society, $7.00 for the first copy (both volumes), and
+
+$8.50 for additional copies. Price to non-members, $10.00.
+
+Already published in this series:
+
+1. John Ogilby, _The Fables of Aesop Paraphras'd in Verse_ (1668), with
+
+an Introduction by Earl Miner. 228 pages.
+
+2. John Gay, _Fables_ (1727, 1738), with an Introduction by Vinton A.
+
+Dearing. 366 pages.
+
+3. _The Empress of Morocco and Its Critics_ (Elkanah Settle, _The
+
+Empress of Morocco_ [1673] with five plates; _Notes and Observations on
+
+the Empress of Morocco_ [1674] by John Dryden, John Crowne and Thomas
+
+Snadwell; _Notes and Observations on the Empress of Morocco Revised_
+
+[1674] by Elkanah Settle; and _The Empress of Morocco. A Farce_ [1674]
+
+by Thomas Duffett), with an Introduction by Maximillian E. Novak. 348
+
+pages.
+
+4. _After THE TEMPEST_ (the Dryden-Davenant version of _The Tempest_
+
+[1670]; the "operatic" _Tempest_ [1674]; Thomas Duffett's _Mock-Tempest_
+
+[1675]; and the "Garrick" _Tempest_ [1756]), with an Introduction by
+
+George Robert Guffey. 332 pages.
+
+Price to members of the Society, $3.50 for the first copy of each title,
+
+and $4.25 for additional copies. Price to non-members, $5.00. Standing
+
+orders for this continuing series of Special Publications will be
+
+accepted. British and European orders should be addressed to B. H.
+
+Blackwell, Broad Street, Oxford, England.
+
+       *       *       *       *       *
+
+           *       *       *       *
+
+       *       *       *       *       *
+
+Errors and Inconsistencies noted by transcriber:
+
+  As Wynde in a Bladdere ypent...
+
+  [_printed in black-letter type_]
+
+The _Key to the Dissertation_ was printed with marginal opening quotes.
+
+Most closing quotes were supplied by the transcriber.
+
+_Introduction_
+
+Dr. Wood (pp. 442-447)  [pp.442-447]
+
+_Dumpling_ and _Key_
+
+  Note author's correction:
+
+  Page 5. line 15, _&c._ for _Barnes_ read _Brand_.
+
+  Tu mihi Mecaenas Eris!  [_spelling unchanged_]
+
+  but for the Relief I find at AUSTIN's  [' invisible]
+
+  and trac'd in them the exact Lineaments [' invisible]
+
+  and is call'd BRAND's to this Day  [' invisible]
+
+  his real Name was _John Brand_,
+
+    [_here and above, see Author's Correction_]
+
+  not one of the King's Cooks  [' invisible]
+
+  There is not so much difference between  [differenee]
+
+  some of Mother _Crump_'s Sausages  [' invisible]
+
+  See-and-Saw and Sacch'ry down  [' invisible]
+
+  with Elegies, Pastorals, Epithalamium's
+
+    [_comma after "Elegies" invisible;
+
+    apostrophe in "Epithalamium's" unchanged_]
+
+  [->] _Pray mistake not the House;  [-> represents pointing finger]
+
+  that both the Gentlemen play a good Knife and Fork
+
+    [_unchanged: error for "ply"?_]
+
+  having at that Time, Credit with the Pork-Woman
+
+    [_printed text reads "ha-/ing" at line break_]
+
+  made-away with his Wine  [_hyphen in original_]
+
+_Editor's Notes_
+
+  the scatological Latin-English pun  [scatalogical]
+
+_Augustan Reprints_
+
+  20. Lewis Theobald, _Preface to ...  [Prepace]
+
+  120. Bernard Mandeville ... (1704).  [final . missing]
+
+  125. ... Lord Hervey... (1742).  [_open parenthesis missing_]
+
+  2520 Cimarron Street (at West Adams), Los Angeles, California
+
+    [. for , after "Los Angeles"]
+
+***

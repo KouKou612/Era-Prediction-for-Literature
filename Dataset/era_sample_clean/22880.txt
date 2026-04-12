@@ -1,0 +1,2945 @@
+E-text prepared by Jonathan Ingram, Anne Storer, and the Project Gutenberg
+
+Online Distributed Proofreading Team (https://www.pgdp.net)
+
+Note: Project Gutenberg also has an HTML version of this
+
+      file which includes the original illustrations.
+
+      See 22880-h.htm or 22880-h.zip:
+
+      (https://www.gutenberg.org/dirs/2/2/8/8/22880/22880-h/22880-h.htm)
+
+      or
+
+      (https://www.gutenberg.org/dirs/2/2/8/8/22880/22880-h.zip)
+
+Transcriber's Notes:
+
+      Words and phrases which were italicized in the original have been
+
+      surrounded by underscores ('_') in this version. Words or phrases
+
+      which were bolded have been surrounded by pound signs ('#').
+
+      Obvious printer's errors have been corrected without note.
+
+      Inconsistencies in hyphenation or the spelling of proper names and
+
+      dialect or obsolete word spellings have been maintained as in the
+
+      original.
+
+A SHORT ACCOUNT OF ROMSEY ABBEY
+
+A Description of the Fabric and
+
+Notes on the History of the
+
+Convent of Ss. Mary & Ethelfleda
+
+by
+
+THE REV. T. PERKINS
+
+Rector of Turnworth, Dorset
+
+Author of "Amiens," "Rouen," "Wimborne and Christchurch," Etc.
+
+With XXXII Illustrations
+
+[Illustration: ROMSEY ABBEY FROM THE EAST]
+
+[Illustration: Abbess's Seal]
+
+London    George Bell and Sons    1907
+
+Chiswick Press: Charles Whittingham and Co.
+
+Tooks Court, Chancery Lane, London.
+
+PREFACE
+
+The architectural and descriptive part of this book is the result of
+
+careful personal examination of the fabric, made when the author has
+
+visited the abbey at various times during the last twenty years. The
+
+illustrations are reproduced from photographs taken by him on the
+
+occasions of these visits.
+
+The historical information has been derived from many sources. Among these
+
+may especially be mentioned "An Essay descriptive of the Abbey Church of
+
+Romsey," by C. Spence, the first edition of which was published in 1851;
+
+the small official guide sold in the church, and "Records of Romsey Abbey,
+
+compiled from manuscript and printed records," by the Rev. Henry G. D.
+
+Liveing, M.A., Vicar of Hyde, Winchester, 1906. This last-named work
+
+contains all that is at present known, or that is likely to be known, of
+
+the history of the abbey from its foundation early in the ninth century up
+
+to the year 1558. To this book the reader who desires fuller information
+
+and minuter details than could be given in the following pages is
+
+referred.
+
+The thanks of the writer are due to the late and present Vicars for kind
+
+permission to examine the building, and to take photographs of it from any
+
+point of view he desired.
+
+    TURNWORTH RECTORY,
+
+      BLANDFORD, DORSET.
+
+       _March, 1907._
+
+CONTENTS
+
+                                                PAGE
+
+  CHAPTER I. HISTORY OF THE BUILDING              15
+
+         II. THE EXTERIOR                         27
+
+        III. THE INTERIOR                         39
+
+         IV. THE ABBESSES OF ROMSEY               67
+
+             VICARS OF ROMSEY                     79
+
+  INDEX                                           81
+
+  DIMENSIONS OF THE ABBEY CHURCH                  82
+
+LIST OF ILLUSTRATIONS
+
+                                                PAGE
+
+  ROMSEY ABBEY FROM THE EAST           _Frontispiece_
+
+  ABBESS'S SEAL                          _Title-page_
+
+  APSIDAL CHAPEL, SOUTH TRANSEPT                  14
+
+  THE NAVE, LOOKING WEST                          19
+
+  JUNCTION OF NORMAN AND EARLY ENGLISH WORK       21
+
+  VIEW FROM THE NORTH-WEST                        23
+
+  THE ABBESS'S DOOR                               26
+
+  THE WEST END AND SOUTH TRANSEPT                 29
+
+  THE SOUTH TRANSEPT FROM THE WEST                31
+
+  THE SAXON ROOD                                  33
+
+  THE CHOIR, SOUTH SIDE                           35
+
+  THE NAVE, NORTH SIDE                            38
+
+  CYLINDRICAL PIER: NORTH NAVE ARCADE             40
+
+  THE CLERESTORY OF NAVE                          41
+
+  EARLY ENGLISH BAYS OF THE NAVE                  43
+
+  THE SOUTH SIDE OF THE CHOIR                     44
+
+  TRIFORIUM ARCH IN THE NORTH TRANSEPT            45
+
+  THE INTERIOR FROM THE WEST                      46
+
+  BASE OF A PIER IN THE NAVE                      47
+
+  ARCADING IN THE TOWER                           48
+
+  IN THE RINGERS' CHAMBER                         49
+
+  THE WEST WALL OF NORTH TRANSEPT                 50
+
+  THE NORTH CHOIR AISLE                           51
+
+  THE AMBULATORY                                  52
+
+  THE SOUTH CHOIR AISLE                           55
+
+  SAXON CARVING, SOUTH AISLE                      56
+
+  THE NORTH-EAST ANGLE OF THE CROSSING            57
+
+  TOMB AND EFFIGY IN THE SOUTH TRANSEPT           61
+
+  THE NORTH AISLE OF THE NAVE                     63
+
+  THE SOUTH TRANSEPT                              66
+
+  PIER IN THE NORTH NAVE ARCADE                   73
+
+  PLAN                                          _End_
+
+[Illustration: APSIDAL CHAPEL, SOUTH TRANSEPT]
+
+ROMSEY ABBEY
+
+CHAPTER I
+
+HISTORY OF THE BUILDING
+
+The etymology of the name Romsey has been much disputed. There can be no
+
+doubt about the meaning of the termination "ey"--island--which we meet
+
+with under different spellings in many place-names, such as Athelney, Ely,
+
+Lundy, Mersea and others, for Romsey stands upon an island, or rather
+
+group of islands, formed by the division of the river Test into a number
+
+of streams, which again flow together to the south of the town, and at
+
+last, after a course of about seven miles, empty themselves into
+
+Southampton Water. But several derivations have been suggested for the
+
+first syllable of the name. Some writers derive it from Rome, and regard
+
+Romsey as a hybrid word taking the place of "Romana insula," the first
+
+word having been shortened and the second translated into Old English, or
+
+Saxon as some prefer to call it. Now it is true that there were several
+
+important Roman stations in the neighbourhood: Sorbiodunum (Old Sarum),
+
+Brige (Broughton), Venta Belgarum (Winchester), and Clausentum (near
+
+Southampton), and in passing to and fro between these the Roman legions
+
+must frequently have marched either through or near to the site of Romsey.
+
+Roman coins found in the immediate neighbourhood clearly show that the
+
+place was inhabited during the Roman occupation. Another derivation is the
+
+Celtic word "Ruimne" (marshy); this would make the name mean "Marshy
+
+island," and there can be no doubt that this would be an apt description
+
+of the place in olden times; against this may be alleged that again the
+
+word would be hybrid. Yet another derivation which avoids this objection
+
+is the Old English "Rum" from whence we get "room" and if we adopt this
+
+derivation Romsey, or Rumsey as it is still sometimes written and more
+
+often pronounced, would mean the roomy or "Spacious Island." The reader
+
+can form his own opinion as to which is the most probable of these three
+
+suggestions. The writer is inclined to favour the third. But the visitor
+
+who, arriving at the railway station either by the branch line via
+
+Redbridge or by that which runs from Eastleigh, or from Salisbury, or
+
+Andover, proceeds to the Abbey, would not realize when he arrived at his
+
+destination that he was in an island, for the minor streams are not
+
+spanned by bridges, but have been completely covered in and run through
+
+small tunnels beneath some of the streets.
+
+We have no records of Romsey before the original foundation of the Abbey,
+
+nor indeed for many years afterwards. The first authentic mention of the
+
+abbey is found in the chronicle of Florence of Worcester, who died in
+
+1118, and whose work, at least that part of it which deals with English
+
+history, is a Latin translation of the Old English Chronicle. He writes
+
+"In anno 967. Rex Anglorum pacificus Edgarus in monasterio Rumesige, quod
+
+avus suus Rex Anglorum Eadwardus senior construxerat, sanctimoniales
+
+collocavit, sanctamque Marewynnam super eas Abbatismam constituit."[1]
+
+[1] In the year 967, Eadgar the Peaceable, King of the English, placed
+
+nuns in the monastery which his grandfather, Eadward the Elder, King of
+
+the English, had built, and appointed St. Meriwenna abbess over them.
+
+This Eadward, also surnamed the Unconquered, was the son and successor of
+
+the greatest of the Old English Kings, AElfred, and reigned from 901 to
+
+925. Sometime during his reign he founded the Romsey nunnery. There is no
+
+documentary evidence to fix the exact date, but it is generally assumed to
+
+have been 907. It is said that about two centuries earlier there had been
+
+a monastery at Nursling nearer the mouth of the Test, and on the tideway
+
+of the river. It was here that the great missionary to the Germans Winfrid
+
+or St. Boniface had been trained, but it was within reach of the ships of
+
+the Danish pirates, and in 716 they had ravaged it and reduced it to such
+
+utter ruin that scarcely one stone remained on another to mark the site.
+
+This monastery was never rebuilt, and Eadward, probably having its fate in
+
+mind, now chose a safer position for the new foundation, for the river at
+
+Romsey was too shallow to allow of the seagoing vessels of the marauding
+
+Danes to reach it. Eadward's eldest daughter AElflaed and her sister
+
+AEthelhild both adopted the religious life, and lived for a time at the
+
+monastery at Wilton. Here AEthelhild was buried, while AElflaed was buried at
+
+Romsey. Their half-sister St. Eadburh became abbess of St. Mary's Abbey at
+
+Winchester; and it is highly probable that AElflaed ruled as abbess over the
+
+sister establishment at Romsey. Probably this was only a small religious
+
+community. Whether it was continued or not when she died no record remains
+
+to tell, but, as we have seen, it was refounded by Eadgar the Peaceable in
+
+967, and on Christmas day of the year 974 St. Meriwenna was put in charge
+
+of the completed Abbey, which was constituted according to the Benedictine
+
+Rule. Some traces of this church still remain, though only discovered in
+
+1900. Under the pavement of the present church, immediately below the
+
+tower, the foundations of an apsidal east ending of a church were found;
+
+now as it is well known that this is a Norman form for the east end, it
+
+must not be supposed that this apse was built in the time of Eadgar, but
+
+it very probably occupied the same position as the choir of his church.
+
+Other foundations were then looked for and found. And as a result of this
+
+investigation, it appears that the nave of Eadgar's church extended as far
+
+to the west as the fourth bay of the present nave, that its crossing lay
+
+immediately to the west of the present transept, and that the apsidal
+
+choir was as wide as the present nave, and extended eastward as far as the
+
+screen now dividing the choir from the transept. Thus the total interior
+
+length of the church was about 90 ft. instead of about 220 ft., the length
+
+of the present building. Although the church was comparatively small,
+
+Eadgar made provision in the domestic buildings for one hundred nuns, a
+
+number rarely exceeded in after days. Peter de Langtoft, a canon of
+
+Bridlington who died early in the fourteenth century, writing of Eadgar
+
+says:
+
+    Mikille he wirschiped God, and served our Lady;
+
+    The Abbey of Romege he feffed richely
+
+    With rentes full gode and kirkes of pris,
+
+    He did ther in of Nunnes a hundreth ladies.
+
+Eadgar's church, however, was not destined to last long. Early in the year
+
+1003, according to one of the few legends connected with the abbey, the
+
+form of St. AElflaed appeared during mass to the Abbess Elwina, and warned
+
+her that the Danes were at hand, and would plunder and destroy the abbey;
+
+whereupon she, not disobedient to the heavenly vision, gathered her nuns
+
+together, and, collecting all the treasures that could be carried away,
+
+sought safety at Winchester, and there they abode until the danger was
+
+past; on their return they found the abbey in ruins. The inroad of the
+
+Danes in this year, led by Swegen, was undertaken as a retribution on the
+
+English for the cowardly and barbarous massacre on St. Brice's Day,
+
+November 13th of the previous year, in which Swegen's sister, in spite of
+
+the fact that she had embraced Christianity, had been condemned to death
+
+by AEthelred.[2]
+
+There is no record of the rebuilding of the abbey after this destruction,
+
+but it could not have been long delayed, since we hear that in 1012
+
+AEthelred's wife AElfgyfu (who afterwards married Knut, and is known under
+
+the name Emma) gave lands to the abbey, and shortly after Knut came to the
+
+throne, we learn from a still existing list that, including two who are
+
+marked as abbesses, there were fifty-four nuns at Romsey.[3]
+
+[2] According to some accounts, the raid in which the abbey was destroyed
+
+took place in 994, but the later date is more probable since it is said
+
+that Swegen's son, Knut, who was born in 994, took part in it.
+
+[3] This list shows us what were the names most in favour at the time.
+
+Eight nuns bore the name of AElfgyfu, six of AElflaed, four of Eadgyth
+
+(Edith), four of Eadgyfu, three of Wulflaed; besides these there were two,
+
+each bearing the names of AEthelgyfu, AElfgyth, AElfhild, Byrhflaed,
+
+Wulfthryth, Wulfrun. It is worthy of note that none of these, and only one
+
+of the remaining seventeen nuns, namely, Godgyfu, had a scriptural or
+
+Christian name. The old names common among their heathen ancestors still
+
+survived, no less than ten being compounded of the word AElf, the modern
+
+Elf, or mountain spirit.
+
+The church restored after the raid mentioned above probably remained
+
+untouched until after the Conquest, when possibly the apsidal east end was
+
+built. It would seem that about 1120 the present church was begun, as
+
+usual from the east. As this church is so much larger than the earlier
+
+one, it is quite possible that its outer walls were built without in
+
+any way disturbing the eleventh century church within them, so that the
+
+services could be conducted without interruption. The general character of
+
+the work is late Norman. At this time a double eastern chapel measuring
+
+about 21 ft. from east to west and 25 ft. from north to south, as we know
+
+from excavations made by the late vicar, the Rev. Edward Lyon Berthon, was
+
+built to the east of the choir. This was entered by two arches, which
+
+may still be seen leading out of the ambulatory. Traces of the position of
+
+two altars were found; the floor was lower than that of the rest of the
+
+church.
+
+[Illustration: THE NAVE, LOOKING WEST]
+
+The three western bays were added in the thirteenth century, and at the
+
+end of the same, or the beginning of the fourteenth, two windows with
+
+plate tracery were inserted in the east wall, and two chapels measuring
+
+forty feet from east to west took the place of the double Norman chapels
+
+mentioned above.
+
+It will be seen, then, that the church shows specimens of Norman, Early
+
+English, and Decorated work, all of the best periods of the style, and
+
+therefore it is a splendid example for the student of architecture. We
+
+may be thankful that, with the exception of a few windows on the north
+
+side there is no Perpendicular work. When we remember that the wealth
+
+which flowed into the coffers of many cathedral and abbey churches during
+
+the Middle Ages chiefly in the form of offerings from pilgrims at
+
+wonder-working shrines, was often used in almost entirely rebuilding, or,
+
+at any rate remodelling, the churches in the fifteenth century, we may be
+
+surprised to find so little work of this period at Romsey. Possibly it is
+
+due to the fact that it did not possess any such shrine, and so did not
+
+attract pilgrims.
+
+It is not improbable that Henry of Blois, the builder of the Church at St.
+
+Cross, near Winchester, may have had something to do with designing the
+
+Norman part of the church at Romsey. We know that Mary, the daughter of
+
+his brother, King Stephen, was abbess from about 1155 until she broke her
+
+vows, left the Abbey, and married Matthew of Alsace, son of the Count of
+
+Flanders, about 1161. Henry was Bishop of Winchester from 1129 until 1171.
+
+What more likely, then, than that Mary should consult her uncle, known to
+
+be a great builder, about the erection of the large church at Romsey?
+
+In the time of Juliana, who probably succeeded Mary, and was certainly
+
+abbess for about thirty years before her death in 1199, the transitional
+
+work in the clerestory of the nave was carried out.
+
+[Illustration: JUNCTION OF NORMAN AND EARLY ENGLISH WORK, ON THE NORTH
+
+SIDE OF THE NAVE]
+
+In the next century the church was extended westward by the erection of
+
+three bays and the west front with its three tall lancets and the small
+
+cinquefoil window above the central one, all inclosed within a pointed
+
+comprising arch. This work was done during the time when Henry III was
+
+king; there are records of several gifts to the abbey of timber by him
+
+from the royal forest. This was no doubt used in constructing the roof
+
+of the westward extension of the nave and aisles. The next work was the
+
+insertion of the two large east windows and the building of the pair of
+
+Decorated chapels, one of which was dedicated to Our Lady, and the other
+
+to St. AEthelflaed, or Ethelfleda, as her name was then spelt. They were
+
+probably divided by an arcade, and stood until the dissolution of the
+
+Abbey, when they were pulled down, being of no further use in the church
+
+of the abbey which was purchased by the people of Romsey and converted
+
+into a parish church.
+
+[Illustration: VIEW FROM THE NORTH-WEST]
+
+It has been said that little Perpendicular work is to be seen in Romsey
+
+Abbey, but some did exist at one time. At Romsey, as at Sherborne, there
+
+were disputes between the abbey and the town, though fortunately at Romsey
+
+an amicable arrangement was arrived at. The north aisle of the abbey
+
+church had been for many years set apart for the use of the people of
+
+Romsey as a parish church, and was known by the name of St. Laurence; in
+
+the year 1333 the abbess endowed a vicarage. As the town increased in size
+
+the north aisle became too strait for the parishioners, and at times of
+
+great festivals they used to encroach on the nuns' church. This led to
+
+disputes, and the matter was referred to William of Wykeham, the
+
+celebrated Bishop of Winchester, remodeller of his cathedral church, and
+
+founder of Winchester School, and New College, Oxford. He persuaded the
+
+nuns to give up the north arm of the crossing to make a choir for a new
+
+parish church to be built adjoining the abbey church, in such a way that
+
+the north aisle should be cut off by a wall and included in the new
+
+church. The north aisle of the abbey church thus became the south aisle of
+
+the parish church, the new building its nave, and the north end of the
+
+transept of the abbey church the parish chancel, the Norman apsidal
+
+chantry attached to the transept made a fitting eastern termination to the
+
+chancel. A chantry of the Confraternity of St. George, built on the north
+
+side of the new church, took the place of a north aisle. This was
+
+separated from the nave by a carved oak screen, part of which has been
+
+utilized in the construction of the screen between the nave and choir of
+
+the existing church. The building of this new parish church unfortunately
+
+involved the destruction of the north porch of the abbey church. When,
+
+after the dissolution of the nunnery, the people bought the abbey church
+
+of the King, the nave and north aisle of the new parish church were no
+
+longer needed, and were therefore demolished, the windows were inserted in
+
+the arches that had been cut in the wall of the north aisle of the abbey
+
+church, when these openings were again walled up. Two of these have,
+
+however, been removed, and modern Norman windows constructed on the old
+
+mouldings have taken their place. A doorway which had been cut in the
+
+north wall of the transept when the new parish church was built was no
+
+longer used after the church was pulled down, and a low side window near
+
+it has been blocked up and converted into a cupboard. The two eastern
+
+chapels were also demolished, and their east windows were inserted in
+
+the masonry used to block up the entrances into the chapels from the
+
+ambulatory. During the time that succeeded the Reformation many changes
+
+were made in the fittings of the church, galleries were erected in the
+
+transept and at the west end of the nave where the organ was placed. The
+
+walls were covered with whitewash, and probably with a view to make it
+
+easier to warm the church, walls were built behind the triforium arcading
+
+all round the church. These walls are shown in some of the illustrations
+
+made a few years ago; they have now been entirely removed. The internal
+
+appearance of the church about the middle of the nineteenth century was
+
+extremely distasteful to those affected by the Gothic revival, and
+
+drastic changes were made. "Restoration" was begun at first under the
+
+direction of Mr. Ferrey, who also restored Christchurch Priory. The inner
+
+roof of the three western bays of the nave aisles which had not been, like
+
+those of the other bays, vaulted in stone, were restored in wood and
+
+plaster about 1850, when the Hon. Gerard Noel was vicar; the nave roof was
+
+rebuilt a little later. Under the direction of Mr. Christian, architect to
+
+the Ecclesiastical Commissioners, the chancel roof was restored, and the
+
+roof of the north arm of the transept was taken in hand by Mr. Berthon.
+
+Other work has been done more recently, and the present vicar has the
+
+intention of building a porch with a room over it on the north side, to
+
+take the place of the porch which was destroyed when the nave of the
+
+church of St. Laurence was built in the time of William of Wykeham, as
+
+already described.
+
+The curious wooden erection on the top of the tower, somewhat resembling a
+
+hen coop or gigantic lobster pot, was added in comparatively recent times
+
+to contain the bells; drawings made at the beginning of the nineteenth
+
+century do not show it, but, those made about the middle of the century
+
+do. It is ugly, and adds nothing to the dignity of the church; probably
+
+the tower was originally crowned by a pyramidal roof which gave it the
+
+appearance of height so much required.
+
+The east ends of the two choir aisles have in quite recent years been
+
+provided with altars and fitted up as chapels for week-day services. The
+
+two apsidal chapels attached to the transept are used as vestries, the one
+
+on the south for clergy and that on the north for the choir.
+
+[Illustration: THE ABBESS'S DOOR]
+
+CHAPTER II
+
+THE EXTERIOR
+
+The site of Romsey abbey church is not a commanding one. There are some
+
+cathedral churches, such as Ely, built on marsh-formed islands which rise
+
+considerably above the surrounding flats, and so form conspicuous objects
+
+in the landscape seen from far or near; but this is not the case with the
+
+abbey church with which we have to deal. The level of its floor does not
+
+rise much above the level of the river valley in which it stands, the
+
+building is not large or lofty, the parapets of its central tower, about
+
+92 ft. above the ground, rise little above the ridges of the roofs of
+
+nave and choir and the north arm of the transept. But it has one great
+
+advantage: there is no part of the exterior of the building that cannot be
+
+fully examined. Perhaps we might be glad if the space from which it may be
+
+seen were here and there a little wider, yet nowhere do we find a garden
+
+wall or a building barring our passage as we make the circuit of the
+
+exterior of the church. On the north side lies the churchyard stretching a
+
+considerable distance to the north, from which an admirable general view
+
+is obtained; and again, there is open ground to the west, so that the
+
+unique and splendid western facade can be well seen. The space to the
+
+south side of the building is more limited; it is entered through an iron
+
+gateway running in a line with the west front; should this gate be locked,
+
+the space to the east of it may be entered by passing from the inside of
+
+the church through either the nuns' or the abbess's doorway; when access
+
+to this little strip of churchyard has once been gained, it is easy to
+
+pass right along the south side of the nave round the south end of the
+
+crossing and then to the eastern wall of the ambulatory.
+
+As we follow the winding lanes and streets that lead from the station to
+
+the church, we get our first view of it from the road that skirts its
+
+northern wall. On the left hand there is a wall running from the
+
+north-east corner of the choir, which conceals indeed a few details of
+
+the lower part of the east end, but does not hide the two beautiful
+
+geometrical windows in the east wall of the choir, inserted within the
+
+semicircular headed mouldings of the original Norman windows. We may also
+
+see the square-faced termination of the north choir aisle projecting
+
+eastward of the wall that forms the east end of the choir. The next
+
+noteworthy object is an apsidal chapel or chantry running out from the
+
+east wall of the transept, its walls pierced by wide round headed windows.
+
+This is also a good point from which to study the clerestory as seen in
+
+choir and crossing. The same general arrangement prevails throughout the
+
+building, though here and there certain modifications will be noticed.
+
+Each clerestory bay on the north side has a window consisting of three
+
+arches, the central and wider one is glazed, the two others are blocked
+
+with stone. Three tiers (two in each) of round headed windows light the
+
+ends of the transepts.
+
+On the north side the windows of the nave aisle are very irregular; this
+
+is due to the fact, mentioned in Chapter I, that considerable alterations
+
+were made in this part of the church at the beginning of the fourteenth
+
+century in order to provide a parish church for the inhabitants of the
+
+town. The north wall of the aisle was largely cut away in order to throw
+
+this aisle open to the new building erected parallel to the Abbey church,
+
+which was to be used as the nave of the parish church. Joining this on the
+
+north side was a chantry of the confraternity of St. George which formed
+
+a kind of north aisle for the parish church. Windows would of course be
+
+required to light this new building and would of necessity be designed in
+
+accordance with the style--the Perpendicular--then prevailing. When, after
+
+the dissolution of the nunnery, the Abbey church became the church of the
+
+parish, the recently erected Perpendicular church would be no longer of
+
+any use, and the keeping of it in repair a continual source of expense;
+
+hence it was pulled down, the openings in what had been the original
+
+north wall of the nave aisle of the Abbey church were walled up, and the
+
+mouldings and glass of the Perpendicular windows on the north side of the
+
+parish church were inserted in these new walls. Hence we get windows of
+
+different heights and levels between the great north door and the
+
+transept: recent alterations have still further increased the
+
+irregularity. The parish church did not, apparently, extend so far to the
+
+west as the Abbey church, hence the two windows to the west of the north
+
+door were not interfered with when the parish church was built. It has
+
+been already pointed out that the three western bays of the nave are of
+
+later date and later in style than the rest of the nave; they were built
+
+in the thirteenth century, and consequently all the windows found in this
+
+part of the church have pointed heads.
+
+[Illustration: THE WEST END AND SOUTH TRANSEPT]
+
+The #West Front#. A unique feature of this church is its west front. It is
+
+one of singular beauty, but its beauty does not depend on any enrichment
+
+of decoration, for a simpler front it would be impossible to find: there
+
+is not a single carved stone about it. Its beauty is due to the exquisite
+
+proportions of the various parts. The nave and aisles are of the same
+
+length. At the corners of the aisles are rectangular buttresses and
+
+two similar ones stand at the ends of the main walls of the nave.
+
+String-courses, starting from the aisle buttresses, run below the aisle
+
+windows and round the buttresses of the nave, but are not continued across
+
+the nave beneath the lancet windows. The buttresses do not quite rise to
+
+the full height of the side walls of the nave, and not a pinnacle is to be
+
+met with anywhere. The sill of the west window is about fifteen feet from
+
+the ground, and from it three tall lancets about four feet wide rise to a
+
+height of nearly thirty feet. They are placed under a comprising pointed
+
+arch, just beneath the point of which, and over the central lancet, is a
+
+cinquefoil opening. The wall finishes in a gable and the whole west wall
+
+is a true termination of the nave which lies behind. We notice that the
+
+glass is set well towards the outside of the openings, and also that no
+
+western doorway exists or ever existed here. The probable reason of this
+
+is that it was a nuns' church, and that the nuns found their way into the
+
+church from the domestic buildings through the doors on the south side.
+
+There is still a doorway (there was formerly a porch) on the north side,
+
+by which, on special occasions, outsiders were admitted to the north
+
+aisle, but as the parishioners had no right of entry into the nave it was
+
+unnecessary to make any provision for them in the form of a west doorway.
+
+From this position at the west of the building we notice that the roof of
+
+the south end of the transept differs from that at the north end. We can
+
+see no tiles above the parapet. Originally, no doubt, all the roofs had a
+
+high pitch, their central ridge rising almost to the parapet of the tower,
+
+but here, as in many another church, when the timbers of the roof decayed,
+
+it was found more economical to decrease the slope of the roof, and in
+
+some cases simply to lay horizontal beams across the tops of the wall,
+
+which of course did not give rise to the outward thrust of sloping
+
+timbers. This appears to have happened at Romsey; but, since the time when
+
+the restoration was begun, all the roofs save that of the south end of the
+
+transept have been raised to their original pitch. This roof, no doubt,
+
+will in due course be altered in a similar way.
+
+A fine and noteworthy feature in this church is the corbel table which
+
+runs nearly all round it. Here and here only do we find any carving on the
+
+exterior walls, but these corbels are carved into many fantastic devices:
+
+among them we find the very common forms of evil spirits and lost souls
+
+driven away from the sacred building. A legend is connected with a corbel
+
+stone near the west end of the north aisle. It is fashioned into the
+
+likeness of a grindstone and it is handed down by tradition that once upon
+
+a time towards the end of the twelfth century or the beginning of the
+
+thirteenth a nobleman ran away with a blacksmith's wife, but afterwards
+
+repented of his sin and had imposed on him as penance the completion of
+
+the west end of the Abbey church. The grindstone, emblem of the
+
+blacksmith's calling, was, it is said, placed on the newly erected western
+
+bay to commemorate the incident.
+
+[Illustration: SOUTH TRANSEPT, FROM THE WEST]
+
+The #South Side# of the Church differs from the north in some respects:
+
+there is not the same rich arcading along the clerestory level of the
+
+nave, only the real windows appear, not the blind arcading. The windows
+
+of the south aisle have not been altered and re-altered as have been those
+
+of the north aisle. Their sills are set sufficiently high to allow the
+
+cloister arcades to be placed below them, but the cloister alleys have all
+
+disappeared. There is a fine late thirteenth-century door in the second
+
+bay from the western end of the south aisle, and another very beautiful
+
+one known as the Abbess's door at the extreme east end of the wall of the
+
+south nave aisle, in Norman style (see p. 26). The mouldings round the
+
+head are richly ornamented, and two twisted columns stand on each side of
+
+the door. Unfortunately a slanting groove has been cut through the upper
+
+mouldings of it. It is said that at one time a stonemason's shed stood
+
+here, probably the mason employed after the purchase of the church by the
+
+town, to keep the building in repair. We may regret the mutilation of the
+
+doorway, yet at the same time not condemn the existence of this shed as an
+
+unmixed evil, for it covered and protected a most interesting relic on the
+
+west wall of the transept from destruction by wind and sun and rain--the
+
+celebrated #Romsey Rood#, which, as far as England is concerned, is
+
+absolutely unique. The illustration reproduced from a negative taken about
+
+twenty years ago will give a better idea of the character and position of
+
+the rood than verbal description. Since the photograph was taken, a
+
+projecting pent house has been very wisely erected over the crucifix to
+
+protect it from the weather, but at the same time the addition does not
+
+exhibit it to advantage; hence the photograph which shows its previous
+
+condition has become valuable. Various opinions as to the date of this
+
+crucifix have been held. The first hasty opinion likely to be formed is
+
+that it is not older than the wall in which it appears, and therefore must
+
+be of Norman date, but careful examination of the stone work will show
+
+that it is older than the wall, and has been inserted in its present
+
+position, probably at the time when the existing Norman transept was
+
+built. Mr. Edward S. Prior, in his "History of Gothic Art in England,"
+
+says that it is the best work of its date, in high relief of any size to
+
+be found in England, and adds that it is by some considered to be of Saxon
+
+date. This seems very probable. It is Byzantine in character. The limbs
+
+are clothed in a short tunic; the figure does not hang drooping from the
+
+nails, the arms are stretched out horizontally, the head is erect, and the
+
+eyes open. It represents not a dead Christ, but Christ reigning on the
+
+Tree; above the head the Father's hand is shown surrounded at the wrist by
+
+clouds. This may be taken to represent the pointing out of the beloved
+
+Son, in whom the Father is well pleased, or we may suppose that the hand
+
+has been extended downwards in answer to the words "Father, into Thy hands
+
+I commend my spirit." Some clue to the date is given by a drawing in a
+
+manuscript in the British Museum--the homilies of Archbishop AElfric (about
+
+994)--in which a crucifix almost identical with this may be seen. By the
+
+side of the figure is a rectangular recess, with small holes at the top
+
+to carry off smoke: probably it was customary to keep a lamp or taper
+
+constantly burning within this recess. The crucifix, considering its age
+
+and position, is in a wonderful state of preservation. How it escaped
+
+mutilation in the seventeenth century is hard to explain, for a crucifix
+
+would be particularly obnoxious to the Puritan mind, and, standing as this
+
+one does almost on the level of the ground, it would seem to have been
+
+especially exposed to risk of destruction. Fortunately, however, it has
+
+escaped with only the loss of part of the right forearm and shoulder.
+
+[Illustration: THE SAXON ROOD]
+
+Passing round the south face of the transept, we come to the #apsidal
+
+chapel# attached to its eastern wall. (See illustration, p. 14.) The
+
+round-headed windows and the original parapet are worthy of notice. Quite
+
+recently a new high-pitched roof has been placed over this chantry. The
+
+illustration shows it before this change was made. Beyond this we come to
+
+the south aisle of the choir, with its three bays, each containing a
+
+round-headed window. The arrangement here is rather peculiar. The east
+
+wall of the choir, containing the two fourteenth-century windows side by
+
+side, rises just to the east of the second bay; the outer eastern wall of
+
+lower height at the extremity of the third bay is the east wall of the
+
+ambulatory or retro-choir. This was originally pierced by two arches,
+
+leading into the two parallel chapels, dedicated respectively to St. Mary
+
+and St. Ethelfleda, which were built in the fourteenth century, taking the
+
+place of two chapels, in Norman style, only about half their length
+
+measured from west to east. These two chapels were pulled down after the
+
+parish bought the church, to save the expense of keeping them in repair.
+
+The two arches leading into them were built up, but the geometrical east
+
+windows of the chapels were inserted in them, and now give light to the
+
+retro-choir. The ends of the choir aisles are apsidal within, but flat
+
+without. This arrangement leads to great thickness at the corners of the
+
+walls.
+
+At one time there was a detached campanile for the bells of Romsey. This
+
+was pulled down in 1625 and the bells placed in the wooden cage erected
+
+for them on the roof of the central tower. At this time there were six
+
+bells only, but in 1791 they were, according to one account, taken down
+
+and sold, and a fresh peal of eight bells cast for the church. According
+
+to another account the six bells were melted down, fresh metal added, and
+
+from this the larger peal of eight bells was cast. It is said to be in
+
+perfect condition now, the tenor bell weighing 26 cwt.
+
+[Illustration: THE CHOIR, SOUTH SIDE]
+
+The stone of which the Abbey Church is built, was quarried at Binstead, in
+
+the Isle of Wight. These quarries are now entirely worked out, so that no
+
+stone can be obtained thence for repairs.
+
+It is not to be expected that the restoration has met with universal
+
+approval, but it may be truly said that the alterations have been far less
+
+drastic than in many churches, and that the interior of the Abbey Church,
+
+as we see it to-day, has much the appearance which it had after it had
+
+become the parish church of Romsey about the middle of the sixteenth
+
+century.
+
+[Illustration: THE NAVE, NORTH SIDE]
+
+CHAPTER III
+
+THE INTERIOR
+
+Immediately after entering the Abbey Church by the north door, it will be
+
+well, in order to get a general idea of its size and beauty, to take one's
+
+stand close to the west wall under the large lancet window. There is
+
+nothing to break the view from the west to the east walls of choir and
+
+ambulatory, a total distance of about 250 feet; for the wooden screen
+
+which separates the choir from the crossing is too light and open to break
+
+the vista. It will be noticed that with the exception of the western bays
+
+of the nave, and the three-light geometrical windows in the eastern wall
+
+of the choir, and the two windows of the ambulatory, everything is Norman
+
+or transitional in character. The aisles have stone quadripartite vaulting
+
+except in the added bays to the west, where the vaulting is merely
+
+plaster. The high roof, like many in Norman churches, is a wooden one, for
+
+Norman builders rarely dared to throw a stone vault over the nave or
+
+choir, for as yet the principle that allows such a piece of engineering
+
+to be carried out with safety, namely, the balancing of thrust and
+
+counter-thrust, by means of vaulting ribs and external flying buttresses,
+
+had not been fully realized in England. In some few cases it is true that
+
+late Norman vaults may be found, but more often where stone vaults exist
+
+in Norman churches they were added in after times. In Romsey Abbey one of
+
+the most noteworthy features is that very little alteration was made in
+
+the church when once it was built. True there was a westward extension in
+
+the thirteenth century, and some insertion of windows in the fourteenth
+
+century, but nothing of the original church seems to have been swept away,
+
+as was so often the case, to make room for extensions and alterations.
+
+The #Nave# has seven bays, to the east of which is the transept, and beyond
+
+it the choir, which has three bays. Further to the east, as we shall find
+
+in due course, may be seen the low vaulted retro-choir or ambulatory of
+
+one bay.
+
+[Illustration: CYLINDRICAL PIER: NORTH NAVE ARCADE]
+
+It is well known that Norman choirs were generally short, and that when we
+
+find a considerable length of building eastward of the crossing, this
+
+eastward extension was made in the thirteenth or fourteenth century; the
+
+new building being often begun to the east of the Norman choir, and the
+
+choir left untouched until the eastern part was finished, when very
+
+frequently the old Norman choir and presbytery were demolished, and the
+
+new work joined on to the transept by masonry in the later style.
+
+The inconvenience of a short architectural choir was very often avoided by
+
+bringing the ritual choir westward into the nave, an arrangement which
+
+exists up to the present day at the Abbey Church at Westminster. This
+
+seems to have been done at Romsey, the choir extending across the transept
+
+as far as the third pillar of the nave, counting from the east. But
+
+although the eastern bays of the nave and all of those of the choir are
+
+Norman, yet they are by no means of an ordinary type. There is much about
+
+this church that is unique, and certain arrangements are found only here
+
+and at St. Friedeswide's, now Christ Church, Oxford, Dunstable Priory,
+
+and Jedburgh Abbey. There is no strict uniformity: one bay frequently
+
+differs from another in its details.
+
+[Illustration: THE CLERESTORY OF NAVE: SOUTH SIDE]
+
+[Illustration: EARLY ENGLISH BAYS OF THE NAVE]
+
+It may be well at the outset to point out that of the three horizontal
+
+divisions of the nave the main arcading occupies approximately
+
+three-sevenths of the total height of the wall, while the triforium and
+
+clerestory each occupy about two-sevenths.
+
+[Illustration: THE SOUTH SIDE OF THE CHOIR]
+
+[Illustration: TRIFORIUM ARCH IN THE NORTH TRANSEPT]
+
+The three western bays are early English in date and style, but they
+
+differ considerably from the typical early English of Salisbury; we
+
+do not find the detached shafts of Purbeck marble, nor the central
+
+cylindrical shaft; the bases, too, are rectangular, nor are there any
+
+enriched mouldings with dog-tooth ornament. In the triforium in some cases
+
+there are three, in other cases two subordinate arches, each with cusped
+
+heads, and the wall space above these smaller arches and the comprising
+
+one is pierced by a quatrefoil opening. The clerestory throughout the
+
+nave, whether in the Early English bays to the west or the Norman bays to
+
+the east, is of the same character, having three pointed arches in each
+
+bay with a window on the outside of the middle one. A passage protected by
+
+two iron rails runs right round the church at this level, and it is well
+
+worth ascending to this passage, as from it a good idea of the height of
+
+the church may be obtained. The clerestory of the transept and also that
+
+of the choir bear a general likeness to that of the nave, but are of
+
+earlier date, the arcading having semicircular and not pointed arches. The
+
+illustrations will show how shafts run on the face of the arcading right
+
+up from floor to roof. In the Norman part of the building the triforium is
+
+very peculiar; generally speaking, there are two subordinate round-headed
+
+arches, under the general round-headed comprising arch, but the tympanum
+
+or space above the former is left open, and from the point where the two
+
+smaller arches meet a shaft runs up to the centre of the main outer arch.
+
+I do not know of any similar arrangement in any other church, and, as it
+
+is a very peculiar one, hard to explain clearly in words, the reader
+
+should carefully study the illustrations in which the triforium appears.
+
+On the east side of the north arm of the transept a more elaborate
+
+arrangement of one of the arches may be seen. Here there are three,
+
+instead of two, subsidiary arches, which are interlaced, but here, also,
+
+the shaft above them appears, though necessarily much reduced in height.
+
+These shafts do not add to the beauty of the triforium, and they hardly
+
+seem necessary to give support to the outer arch (see illustrations, pp.
+
+44, 45).
+
+[Illustration: THE INTERIOR FROM THE WEST]
+
+[Illustration: BASE OF A PIER IN THE NAVE]
+
+The arch at the east end of the triforium on the south side, which
+
+opens out to the transept, is worthy of special notice. Under the outer
+
+round-headed arch is a solid tympanum, beneath which are two very narrow
+
+round-headed arches, separated by a huge cylindrical shaft which has as
+
+its base a large plain rectangular block of stone.
+
+The two eastern bays of the nave on both sides are peculiar. Between them
+
+runs up a solid cylindrical pier, which has its capital at the level of
+
+the spring of the main arches of the triforium. The arches of the main
+
+arcade spring from corbels on the sides of these great pillars, so that it
+
+seems as if the triforium gallery were hanging beneath the arches which
+
+spring below the clerestory. A somewhat similar arrangement may be seen at
+
+the cathedral church of Christ Church at Oxford; some authorities have
+
+from this similarity asserted that the buildings must have been
+
+contemporaneous, but this does not seem to have been the case. Mr. Prior
+
+considers the Romsey work forty years earlier than that at Oxford, dating
+
+it about 1120 against the Oxford work, to which he assigns the date of
+
+about 1160. It may be noticed that the Romsey builder did not continue
+
+this arrangement throughout the nave and choir, whereas this was done at
+
+Oxford.
+
+[Illustration: ARCADING IN THE TOWER ABOVE THE MAIN ARCHES]
+
+Generally speaking, the Norman piers at Romsey are compound ones, formed
+
+of many minor shafts. The plain cylindrical form seen at Gloucester and
+
+Waltham is not met with at Romsey except in the pillar described above.
+
+The Norman aisles have stone vaults, except in the three western bays,
+
+and it is noteworthy that the arches leading into the transept are of
+
+horseshoe type. These are very elaborately moulded, the outer sides being
+
+ornamented with chevron decoration. The capitals in the choir aisles are
+
+elaborately and grotesquely carved, though it is not easy to interpret the
+
+subjects of this carving; on one capital in the north aisle is represented
+
+a fight between two kings, stayed by two winged figures; in the south
+
+aisle a crowned figure stands, holding a pyramid, possibly intended as a
+
+symbol of the church, while near by a seated figure and an angel between
+
+them hold a V-shaped scroll on which may be read the words, "Robert me
+
+fecit." Another somewhat similar chevron bears the words, "Robert tute
+
+consule x. d. s.", but who Robert was it is impossible to say. Henry I had
+
+a son Robert, Earl of Gloucester, who is spoken of as "Consul"; he it was
+
+who fought for his half-sister Maud against Stephen. He would have been
+
+alive at the time the church was built, but whether he had any part in the
+
+erection of it we cannot say, though he seems to have been interested in
+
+building, for the castles at Bristol and Cardiff and the tower of
+
+Tewkesbury Abbey Church are attributed to him.
+
+[Illustration: IN THE RINGERS' CHAMBER OF THE TOWER]
+
+The tower of Romsey was at one time a lantern, open to the roof, but when
+
+the bells were placed in the wooden cage on the roof, a ringing floor was
+
+inserted below. The arcading running round the interior of the tower is
+
+very beautiful. The ringers' chamber is a spacious room, a good idea of
+
+the plain architectural character of which is given in the accompanying
+
+illustration. In the west wall of the north end of the transept a
+
+perpendicular window has been cut through a group of Norman windows,
+
+showing how little regard mediaeval builders had for the preservation of
+
+earlier work. Opposite to this is one of the two apsidal chantries, which
+
+in its time has served various purposes. Originally it was a chapel or
+
+chantry where mass was said for the repose of the soul of some private
+
+benefactor of the Abbey; then it became the eastern apse of the parish
+
+church of St. Lawrence; still later it was used as a school, and now
+
+serves the purpose of a choir vestry. There are within it two piscinae and
+
+two aumbries at different levels, indicating, no doubt, an alteration of
+
+level in the altar itself during the period that this chantry was in use.
+
+An elaborate monument now stands under the eastern wall.
+
+[Illustration: THE WEST WALL OF NORTH TRANSEPT]
+
+In Mr. Spence's "Essay on the Abbey Church of Romsey" (1851), this tomb is
+
+described as standing in the south ambulatory. It commemorates one Robert
+
+Brackley, who died Aug. 14, 1628.
+
+      A man that gave to the poor
+
+    Some means out of his little store
+
+    Let none therefore this fame deny him,
+
+    But rather take example by him
+
+    In spight of death in after dayes,
+
+    To purchase to himself like prayse.
+
+The tomb, which is of imitation porphyry, takes the form of a sarcophagus,
+
+beneath an arch the soffit of which is adorned with red and white roses.
+
+Corinthian pillars of black marble support the structure.
+
+[Illustration: THE NORTH CHOIR AISLE]
+
+In the #North Choir Aisle#, on opposite sides, may be seen two interesting
+
+mediaeval relics. On the north side is part of a fourteenth-century
+
+reredos, probably that which stood behind the high altar. It was found at
+
+the back of the present altar, concealed behind the regulation panels on
+
+which the Lord's Prayer and the Ten Commandments were painted. It had
+
+evidently been itself partially repainted in a rougher style than the
+
+original. The painting represents the Resurrection. The portrait of an
+
+abbess is to be seen in the left-hand corner; above is a row of ten
+
+figures--saints, bishops, and holy women. On the opposite wall, carefully
+
+preserved behind a sheet of glass, is a piece of fifteenth-century
+
+needlework; originally it was a cope, and was in more recent times used as
+
+an altar cloth, its shape having of course been altered to adapt it to its
+
+new use.
+
+The east end of the north choir aisle, internally apsidal though not
+
+externally, is now fitted up with an altar as a chapel for week-day or
+
+early morning services. Passing to the south we enter the ambulatory. It
+
+is vaulted in stone, and the plain horseshoe arches at the end without any
+
+ribs (see illustration), are worthy of notice. In this space several
+
+interesting relics of the old abbey, and some conjectural models of
+
+the church in its former condition, may be seen. Here, too, is a
+
+fifteenth-century walnut wood chest: and here are two stone cressets,
+
+possibly used by the builders, which when done with were built by them
+
+into the walls, where they remained until discovered during the
+
+nineteenth-century restoration of the church.
+
+[Illustration: THE AMBULATORY, LOOKING NORTH]
+
+Among the relics is a very curious one which was found in 1839. A grave
+
+was being dug in the south aisle near the abbess's door, and about five
+
+feet below the floor the workmen came upon a singular leaden coffin. It
+
+was 18 in. wide at the head and tapered gradually to 13 in. at the foot;
+
+it was only 5 ft. long and 15 in. deep. The lead was very thick, and the
+
+seams were folded over and welded, no solder being used. The lead was much
+
+decayed. The curious thing about it is that when it was opened not a bone
+
+was found within it; the lead coffin had contained an oaken shell which
+
+crumbled into dust on exposure to the air, but within the coffin lying on
+
+a block of oak, so shaped as to receive the head of the corpse, was a
+
+tress of auburn hair forming a plait about eighteen inches long. It was
+
+in perfect condition and looked as if the skull had only recently been
+
+removed from it. Why the hair and the block on which it lay should alone
+
+have been preserved is sufficiently mysterious; but there are other
+
+problems difficult of solution connected with this relic; it was found
+
+beneath a mass of concrete and rubbish; moreover the coffin lay partly
+
+beneath one of the piers of the main arcading of the nave, and was not
+
+placed in the usual direction, east and west, but the head was turned
+
+towards the north-west. This leads one to suppose that this coffin was
+
+originally buried in one of the earlier churches, and may have been
+
+somewhat disturbed from its original position at the time when the Norman
+
+church was built. Anyhow, it is strange that we should be able to look on
+
+that tress of golden hair probably belonging to some young damsel of high
+
+degree, one akin, it may be, to the royal house of Wessex, who was being
+
+educated at this Saxon nunnery so many centuries ago.
+
+This relic was at one time left exposed, but as it was thought that the
+
+hair was shrinking and losing its colour, it was covered with glass and
+
+kept in a locked wooden case.
+
+Here, too, may be seen several coins, including a "long cross" silver
+
+penny, not earlier than the second half of the thirteenth century, which
+
+was dug up in the churchyard; a ball probably discharged from a
+
+Parliamentary culverin which was found embedded in the north face of the
+
+tower; a clumsy pair of forceps which were used for extracting the teeth
+
+of nuns suffering from toothache; a mason's punch found under the floor of
+
+the destroyed Lady Chapel, and a Roman spearhead found at Greatbridge, a
+
+short distance to the north of the town.
+
+But among many precious relics, one recently recovered for the church is
+
+of the greatest interest, namely, the Romsey Psalter.
+
+This is a small octavo manuscript containing thirty pages of vellum
+
+measuring 6.9 by 4.7 inches, each page containing as a rule twenty-two
+
+lines. The approximate date is probably about the middle of the fifteenth
+
+century. This is arrived at partly from the character of the writing, and
+
+partly from the fact that the Kalendar in it contains no mention of the
+
+Feast of the Visitation of the Virgin on 2nd July, a feast which was
+
+ordered to be used by the convocation of the province of Canterbury in
+
+1480. Hence it would seem that this Psalter with its Kalendar must have
+
+been written before this date. The capital letters are painted either red
+
+or blue, and besides these there are eight illuminated initial letters,
+
+seven of which occupy a space equivalent to eight manuscript lines, and
+
+the other a space equal to nine lines. Connected with these illuminated
+
+letters are floral borders on the left-hand side of the page, and in most
+
+cases at the top or bottom also. The first and last pages of the book are
+
+soiled, probably from the book for some long period of its existence
+
+having been left lying about without covers. The present binding is of
+
+much more recent date.
+
+There are reasons for supposing that the book was the private property of
+
+some abbess or nun, or, at any rate, of some one connected with the
+
+nunnery, and not a public service book.
+
+It is also thought that the book was written by a Franciscan friar for the
+
+use of some one in a Benedictine house. For in the invocation of saints in
+
+the Litany which the book contains, the names of the monastic saints are
+
+arranged in the following order: Benedict, Francis, Anthony, Dominic
+
+(Bernard being omitted), instead of the usual order: Anthony, Benedict,
+
+Bernard, Dominic, Francis.
+
+The fact that the death days added to the Kalendar in the sixteenth
+
+century are chiefly those of the abbesses of St. Mary's nunnery,
+
+Winchester, seems to indicate that the book somehow before that date had
+
+passed from Romsey to the nunnery at Winchester. Of its further history
+
+nothing is known save that at one time it belonged to a certain T. H.
+
+Lloyd, whose name is written in it, until at last it was advertised for
+
+sale by Quaritch in his catalogue of old books in 1900. The Dean of
+
+Winchester happened to see this list, and called the attention of the
+
+Vicar of Romsey to the fact that a book of such interest might, provided
+
+the money to purchase it could be found, once more pass back into the
+
+possession of the church, where it had been used in its early days. There
+
+was little difficulty in collecting the money, and the book may now be
+
+seen preserved in a glass case in the ambulatory at Romsey.
+
+[Illustration: THE SOUTH CHOIR AISLE]
+
+It is worth notice that in this book the Psalms are so divided that the
+
+first 109 would be recited at Mattins in the course of a week, the others
+
+being used at Vespers during the same time.
+
+There are certain hymns appointed for use on Sundays, canticles from the
+
+Old and New Testament, the Te Deum, Benedicite, and Quicunque Vult. Also
+
+a Litany, and sundry additional prayers.
+
+[Illustration: SAXON CARVING AT THE EAST END OF THE SOUTH AISLE]
+
+The east end of the #South Choir Aisle# corresponding to that of the north
+
+choir aisle is now fitted up with an altar for week-day services. But this
+
+chapel has in it one of the oldest if not the very oldest piece of carved
+
+work connected with the abbey. Taking the place of a reredos, is a carving
+
+of the Crucifixion of unmistakable pre-Conquest character, its probable
+
+date is about 1030. The figures are Byzantine in character, and besides
+
+the Virgin and St. John who are so often represented in carvings and
+
+paintings of the Crucifixion, there are two of the Roman soldiers, one
+
+holding the spear with which afterwards the side of Jesus was pierced, and
+
+the other offering the sponge of vinegar on the hyssop rod.
+
+What the original position of this carving was we do not know, it is
+
+described in 1742 as being on the south wall near the communion table;
+
+then it appears to have been built face inwards, into the wall, and was
+
+placed in its present position by the late vicar, the Rev. E. L. Berthon.
+
+[Illustration: THE NORTH-EAST ANGLE OF THE CROSSING]
+
+The apsidal chantry attached to the east wall of the southern arm of the
+
+crossing is now used as the clergy vestry, and contains in a frame the
+
+deed of sale of the abbey church to the parishioners of Romsey after the
+
+dissolution of the nunnery. It is dated 20th February, 1544.
+
+#The Screen.# The screen that divides the choir from the crossing looks at
+
+first sight distinctly modern, yet it contains some ancient carving dating
+
+from 1372. It has occupied various positions in the church. At one time it
+
+was used to separate from the Abbey Church the chancel of the parish
+
+church, formed as already described from the north arm of the crossing. It
+
+was afterwards placed across the nave, near the west end, under the organ
+
+which blocked up the great triple lancet window. In a guide book in the
+
+abbey, published in 1828, we read that "there is a curious oaken screen of
+
+neat Gothic workmanship, which now separates the west end from the part
+
+which is fitted up for worship. It formerly stood in the northern
+
+transept, and separated it from the body of the church, but when the
+
+alteration in the pewing was made, it was removed to the place it now
+
+occupies, immediately under the organ: it was then painted. The top of the
+
+screen is crowned with running foliage, underneath which, in twenty-three
+
+Gothic trefoils, are as many carved faces. They are evidently portraits
+
+very tolerably executed, and on this account curious and interesting. One
+
+of them is crowned, and all of them have their heads covered with flowing
+
+hair, or wigs, or caps; the last on the right hand is a head thrusting out
+
+its tongue, perhaps a sportive essay of the carver." When the restoration
+
+was begun about the middle of the nineteenth century, this screen was
+
+removed, treated as useless lumber, and stowed away in the triforium,
+
+which at that time, as already described, was separated from the church by
+
+a wall. Here in 1880 the vicar, the Rev. E. L. Berthon, found, to use his
+
+own words, "the ancient oak-carvings of heads in trefoils with a curious
+
+cresting above." He resolved to utilize it in the construction of the
+
+chancel screen. The lower part is modern, designed to match the old work.
+
+The seats in the choir were designed by Mr. Berthon, and the heads
+
+intended to represent various kings, saints, and abbesses, were carved in
+
+the town. The pulpit was erected in 1891, the figures being carved by
+
+Harry Hems of Exeter, who has done so much wood and stone carving in
+
+restored reredoses and screens in various churches.
+
+The #Organ# stands under the westernmost arch of the choir on the north
+
+side.
+
+[Illustration: TOMB AND EFFIGY IN THE SOUTH TRANSEPT]
+
+The mediaeval #Monuments# remaining at Romsey are not numerous, being for
+
+the most part the graves and coffins of former abbesses, many of them
+
+incapable of identification. The Old English chronicle states that Eadward
+
+the Elder, his son AElfred, his daughter Eadburh, St. AEthelflaed, Eadmund,
+
+brother of King AEthelred, were all buried here, but their graves are
+
+unknown, and not a stone remains to commemorate them. There is one very
+
+beautiful effigy of Purbeck marble now placed under an ogee canopy at the
+
+south-east corner of the transept, but whom it represents we cannot say.
+
+The slab is about 7 ft. long. A small piece at the left-hand upper corner
+
+is broken off: were this replaced the stone would be 2 ft. 3 in. wide at
+
+the head, tapering downwards to about 1 ft. 3 in. at the foot. The
+
+recumbent figure is itself about 6 ft. in length. The lady is dressed in a
+
+tight-sleeved loose robe, which falls in folds to the feet, but is girt
+
+about the waist with band and buckle; the right hand holds a fold of the
+
+robe; the left hand, lying on the bosom, is in the position seen in so
+
+many of the figures on the west front of the Cathedral Church at Wells,
+
+grasping the cord that holds up the mantle to the shoulders; the head
+
+rests on a cushion; beneath the head-dress the wimple may be seen passing
+
+beneath the chin. The pointed shoes rest on an animal, possibly intended
+
+for a dog. This effigy bears a strong resemblance to that of Eleanor, wife
+
+of Edward I, at Westminster, and is certainly late thirteenth century
+
+work. There is no staff or other symbol to show that the lady was an
+
+abbess. By some it has been supposed that it was erected to the memory of
+
+Isabella de Kilpec by her daughter, Alicia Walrand, who was abbess from
+
+1268 to 1298. At any rate, the date fits in well with the character of the
+
+monument. Its original position in the church is unknown. It was found
+
+somewhere towards the west end of the nave, by some workmen who were
+
+engaged in digging a grave, and as it chanced to fit the ogee canopy in
+
+the transept, it was laid under it, but it must not be supposed that it
+
+originally had any connection with it. Near by is a seventeenth century
+
+monument of John St. Barbe, and Grissel his wife, whose family owned the
+
+estate of Broadlands, near Romsey, which was afterwards bought by the
+
+great-grandfather of the well-known statesman, Lord Palmerston. Several
+
+coffin lids of various dates have been found, among them, that of the
+
+Abbess, Joan Icthe, who died in 1349, of the terrible scourge that visited
+
+England in the fourteenth century, known as the Black Death. Almost all
+
+the persons buried in the abbey were women, but one curious exception may
+
+be noted. In 1845 a coffin was discovered in the nave, under an enormous
+
+slab of stone, measuring 11 ft. 5 in. by 3 ft. 9 in. Mr. Ferrey, the
+
+architect, under whose supervision the restoration of the abbey was then
+
+being carried out, thus describes the discovery:
+
+"Great care was exercised in raising the stone. Upon its being moved,
+
+there was discovered immediately under it a stone coffin, 5 ft. 10 in.
+
+long, by 2 ft. wide in the broadest part, and 1 ft. deep; containing the
+
+skeleton of a priest in good preservation, the figure measuring only 5 ft.
+
+4 in. in length; the head elevated and resting in a shallow cavity worked
+
+out of the stone, so as to form a cushion. He had been buried in the
+
+vestments peculiar to his office, viz., the alb and tunic. Across the left
+
+arm was the maniple, and in his hand the chalice covered with the paten.
+
+Considering these remains to be about five hundred years old, it is
+
+remarkable that they should be in such preservation. The chalice and paten
+
+are of pewter,[4] the latter much corroded: a great portion of the linen
+
+alb remains; the maniple is of brown velvet fringed at the extremity, and
+
+lined with silk; portions of the stockings remain, and also all the parts
+
+of the boots, though from the decay of the sewing, they have fallen in
+
+pieces. About 2 ft. from the end of the coffin is a square hole through
+
+the bottom, with channels worked in the stone leading to it. This was
+
+probably a provision to carry off the fluids, which would be caused by the
+
+decomposition of the body. On the sides of the coffin could be traced the
+
+marks of the corpse when it was first deposited, from which it would
+
+appear that the deceased had been stout as well as short of stature. It is
+
+to be regretted that the inscription being stripped from the verge of the
+
+slab, we have no means of knowing whose remains these are. The Purbeck
+
+marble slab has never been disturbed, being found strongly secured by
+
+mortar to the top of the stone coffin. It is curious that the covering
+
+should be so gigantic, and the coffin under it so small: judging by the
+
+size of the slab and the beauty of the large floriated cross, it might
+
+have been supposed to cover some dignified ecclesiastic. This is clearly
+
+not the case.... In the absence of any known date, judging from the
+
+impress on the marble, and the shape of the stone coffin, I should assign
+
+both to the early part of the fourteenth century."
+
+[4] It was common to bury not the real silver vessels used by the dead
+
+priest, but imitations in baser metal.
+
+There are sundry mural tablets of modern date, and near the west end an
+
+altar tomb, with the recumbent effigy by Westmacott of Sir William Petty,
+
+the founder of the Lansdowne family, who was born at Romsey in 1623, and
+
+was buried within the abbey, and on the north side a tomb on which a child
+
+lies on its side as if asleep, with its limbs carelessly stretched out.
+
+[Illustration: THE NORTH AISLE OF THE NAVE]
+
+There is no painted glass of mediaeval date to be seen in the church; such
+
+as we find is modern. The three lancets at the west are the work of
+
+Messrs. Clayton and Bell, and were inserted as a memorial to Lord
+
+Palmerston, who died in 1865. The glass in the windows in the east wall of
+
+the ambulatory commemorating C. B. Footner, who died in 1889, was painted
+
+by the same firm. The two east windows, painted by Messrs. Powell, were
+
+inserted as a memorial to Lord Mount-Temple, who died in 1888. To the same
+
+firm are due the windows in the transept, which commemorate the Hon. Ralph
+
+Dutton, Lady Mount-Temple, Mr. Tylee, Professor Ramsey, and the Rev. E. L.
+
+Berthon, and the one in the north chancel aisle erected to the memory of
+
+the wife of the Right Hon. Evelyn Ashley. The window at the east end of
+
+the north aisle is by Kempe, and commemorates Mr. G. B. Footner.
+
+The #Font# is in the north aisle of the nave, dates from about the middle
+
+of the last century, and stands on the same spot as the ancient font of the
+
+church of St. Laurence. The conventual church, of course, would not need a
+
+font. But in post-Reformation times one stood on a raised platform at the
+
+west end of the church.
+
+[Illustration: THE SOUTH TRANSEPT]
+
+CHAPTER IV
+
+THE ABBESSES OF ROMSEY
+
+A complete list of the abbesses who ruled the religious house at Romsey is
+
+not in existence; there are several gaps of many years in the succession.
+
+The exact dates of the election of some of those whose names have been
+
+handed down to us are not known. The following list is as complete as
+
+possible. The names printed in ordinary type are taken from a board
+
+suspended in the retro-choir, those printed in italics are added from a
+
+list given in the "Records of Romsey Abbey," by the Rev. H. G. D. Liveing,
+
+1906, which embodies the result of the most recent research. Whenever the
+
+date is uncertain _c._ for "circa" is prefixed; the date of death when
+
+known is added, marked with _o._ for "obiit." The spelling of many of the
+
+names is uncertain; in the list below the spelling follows that given by
+
+the authorities quoted above:
+
+ _c._  907  AElflaeda, _o._ _c._ 959.
+
+     *     *     *     *
+
+       966  S. Merwenna.
+
+ _c._  999  Elwina.
+
+ _c._ 1003  AEthelflaeda.
+
+ _c._ 1016 _Wulfynn._
+
+ _c._ 1025 _AElfgyfu._
+
+     *     *     *     *
+
+ _c._ 1130  Hadewis.
+
+ _c._ 1150  Matilda, _o._ 1155.
+
+      1155  Mary, married 1161, _o._ 1182.
+
+ _c._ 1171  Juliana, _o._ 1199.[5]
+
+      1199  Matilda Walrane.
+
+      1219  Matilda (Paria), _o._ 1230.
+
+      1230 _Matilda de Barbfle_, _o._ 1237.
+
+      1237 _Isabella de Nevill._
+
+      1238 _Cecilia._
+
+      1247 _Constancia._
+
+      1261  Amicia _de Sulhere_.
+
+      1268  Alicia Walerand, _o._ 1298.
+
+      1298 _Philippa de Stokes._
+
+      1307  Clementia de Guildeford, _o._ 1314.
+
+      1314  Alicia de Wyntereshulle, _o._ 1315.
+
+      1315  Sybil Carbonel, _o._ 1333.
+
+      1333  Ioane Jacke (or _Icthe_).
+
+      1349  Iohanna Gervas (or _Gerneys_).
+
+      1352  Isabella de Camoys.
+
+      1396  Lucy Everard.
+
+      1405  Felicia Aas.
+
+      1417  Matilda Lovell.
+
+      1462  Ioan Bryggys.
+
+      1472  Elizabeth Broke, _o._ 1502.
+
+      1502  Joyce Rowse, resigned 1515.
+
+      1515  Ann Westbroke, _o._ 1523.
+
+      1523  Elizabeth Ryprose, dispossessed 1539.
+
+[5] Christina is mentioned as abbess in 1190, in the list suspended in the
+
+church, but it is uncertain if she was an abbess.
+
+About the majority of the abbesses little or nothing is known; some,
+
+indeed, were women of exemplary piety, others were remarkable for their
+
+administrative abilities, and did good work in their own way; but of many
+
+all that can be said is that
+
+                                            In due time, one by one,
+
+    Some with lives that came to nothing, some with deeds as well undone,
+
+    Death stepped tacitly and took them where they never see the sun.[6]
+
+[6] "A Toccata of Galuppi's," R. Browning.
+
+In this chapter will be narrated any incidents connected with the lives of
+
+the abbesses and the nuns over whom they ruled that seem to the writer
+
+likely to be of interest to the general reader. It is noteworthy that the
+
+story of the nunnery is, for the most part, pre-eminently credible; with a
+
+few exceptions we hear nothing about visions or miracles; here and there
+
+we have touches of romance, which show that the life of discipline within
+
+"narrowing nunnery walls" is not always able to quell human passion,
+
+especially when pressure had been brought to bear by friends and relations
+
+upon women scarcely more than children, to induce them to take the veil.
+
+And as time went on grave scandals arose, which even the energetic action
+
+of reforming bishops was not altogether successful in stopping, so that
+
+although the greed of Henry VIII and his courtiers was, no doubt, the
+
+prime factor leading to the suppression of the religious houses, yet the
+
+unholy lives of the inmates gave them some valid reasons, or at rate
+
+excuses, for their action in closing nunneries and monasteries.
+
+A story is told of King Eadgar which, indirectly, has some bearing on the
+
+Abbey of Romsey. About the year 960 he heard of the surpassing beauty of
+
+one AElfthryth,[7] daughter of Ordgar of Devon, and possibly never having
+
+heard of the mischief that befell Arthur when he sent Launcelot to ask at
+
+her father's hands his fair daughter Guinevere, or to Mark when he sent
+
+Tristram on a similar errand to Iseault's father, he sent his trusted and
+
+hitherto trustworthy friend AEthelwold to Ordgar. But AEthelwold as soon as
+
+he saw AElfthryth fell hopelessly in love with her, and so hid the king's
+
+message, and wooed and won the fair damsel for himself; and on his return
+
+told the king that the accounts of her beauty were altogether false, that
+
+she was vulgar and commonplace. So the king, believing his friend, turned
+
+his thoughts to other ladies; but before long some rumours of the way in
+
+which he had been deceived came to the king's ear, and he, dissembling his
+
+purpose and not telling him of what he had heard, simply told AEthelwold
+
+that on a certain day he intended to visit the lady himself. AEthelwold, in
+
+alarm, hurried to his wife and begged her to conceal her beauty and clothe
+
+herself in unbecoming attire, so that she might not win the king's
+
+admiration; but she did just the reverse, and enhanced her natural beauty
+
+by donning handsome raiment and jewellery. Her plan succeeded, the king
+
+fell in love with her and, according to one account, slew AEthelwold with
+
+his own hand while they were hunting, and when no man was by; or,
+
+according to another version, he sent him to hold a dangerous command in
+
+the north and slew him by the sword of the Northumbrians. It is, however,
+
+doubtful if Eadgar compassed his death at all, but two years after it he
+
+married his widow, whose beauty was her chief recommendation, for though
+
+it has nothing to do with Romsey, it may be mentioned in passing that it
+
+was she by whose order Eadgar's eldest son by his first wife, Eadward the
+
+Martyr, was murdered at Corfegate, where the well-known castle afterwards
+
+rose and where its ruins remain until this day. Now AEthelwold had
+
+previously had to wife one Brichgyfu, a kins-woman of Eadgar, and had had
+
+by her many sons and daughters, the last born of them was named AEthelflaed;
+
+according to other accounts, AEthelflaed was born after her father's death,
+
+and therefore must have been AElfthryth's child. Be this as it may, she was
+
+in any case akin to the king or queen, and was by them entrusted to the
+
+care of St. Merwynn of Romsey. A true mother in God the abbess proved, and
+
+a dutiful and loving daughter was AEthelflaed. In due time she took the
+
+veil, and the sanctity of her life was shown in various ways, and was
+
+attested by miracles. She made no display of her austerities, pretended to
+
+eat and drink with the other nuns but hid the food in order to give it to
+
+the poor, and used to leave her dormitory at night, even in winter time,
+
+to plunge naked into one of the streams and there remain until she had
+
+chanted the Psalms of the day. Once in her younger days, when the abbess
+
+was cutting some switches from the river banks wherewith to chastise the
+
+girls under her charge, the stone walls of the nunnery became clear as
+
+transparent glass to the eyes of AEthelflaed, and she saw what the abbess
+
+was doing, and when she came in she besought her with many tears not to
+
+beat her or her companions. The abbess, much astonished, asked her how she
+
+knew that she was going to beat them; to which AEthelflaed replied that she
+
+had seen her cutting the switches, and that they were even now hidden
+
+under her cloak. Another miracle is recorded which, for the saint's
+
+reputation, one would hope was a pure invention of the chronicler, since
+
+if it were true it might lay her open to the charge of performing an easy
+
+trick with phosphorus in order to gain credit for miraculous power. It is
+
+said that one night when it was her turn to read the lesson the lamp which
+
+she held in her hand went out, but that her fingers became luminous and
+
+shed sufficient light upon the book to enable her to read the lesson to
+
+the end. Other miracles are related of her, and though she was not elected
+
+abbess on the death of St. Merwynn she obtained that honour three years
+
+afterwards on the death of Abbess AElwynn.
+
+[7] The Elgiva of school histories.
+
+The next sainted woman who calls for mention is Christine, daughter of
+
+Eadmund Ironside, and sister of Eadgar the AEtheling, and of St. Margaret,
+
+Queen of Scotland, who became a nun at Romsey, and is supposed by some to
+
+have been Abbess, though this is very doubtful. The Scotch king Malcolm
+
+Canmore and Margaret his queen, sent their two daughters Eadgyth and Mary
+
+to be educated by their aunt Christine. Aunt Christine acted on the
+
+principle of the proverb, "Spare the rod, spoil the child," and Eadgyth
+
+spoke in after days of the whippings she had received because she refused
+
+to wear a nun's veil. Professor Freeman tells us how on one occasion the
+
+Red King came to Romsey to woo Eadgyth, for it must be remembered that she
+
+was now the eldest female representative of the old Wessex kings, and a
+
+marriage with her would do much to weld together Normans and English. But,
+
+although he was admitted to the nunnery, Christine persuaded Eadgyth to
+
+put on a nun's garb as a disguise--she was at the time about twelve years
+
+old--and told her to go into the choir; to allow time for the change of
+
+raiment she invited the king to come and see the flowers in the cloister
+
+garden. As he went thither, he caught sight of Eadgyth in her veil, and
+
+imagined that he was too late, for even he, bad as he was, would not care
+
+to press his suit, especially as it was prompted by policy, not by love,
+
+and a marriage with a nun would be counted illegal and so would fail to
+
+have the result he desired.
+
+This took place in 1093. Later in the same year it is said that another
+
+king, her father Malcolm of Scotland, came to see her and was vexed to see
+
+her wearing a veil and tore it from her head, saying he did not wish her
+
+to be a nun but a wife.
+
+Another suitor in due course came to woo her, a more eligible one than
+
+Rufus, namely his brother Henry I. In this case the union was dictated not
+
+only by policy but by love. But there were certain difficulties. There was
+
+no doubt that Eadgyth had worn a veil, but whether simply as a disguise or
+
+a professed nun was open to argument; so a solemn assembly was called by
+
+Anselm to hear evidence on the subject. The decision it came to was that
+
+she was not a nun, and, to use Mr. Freeman's words, Anselm "gave her his
+
+blessing and she went forth as we may say Lady-Elect of the English."
+
+On her marriage she laid aside her English name Eadgyth, and assumed that
+
+of Matilda or Maud. Robert of Gloucester calls her "Molde the gode
+
+quene." And Peter de Langtoft says of her
+
+    Malde hight that mayden, many of her spak,
+
+    Fair scho was, thei saiden, and gode withouten lak.
+
+    *       *       *       *       *       *       *
+
+    Henry wedded dame Molde, that king was and sire,
+
+    Saynt Anselme men tolde corouned him and hire.
+
+    The corounyng of Henry and of Malde that may,
+
+    At London was solemply on St. Martyn's day.
+
+Henry and Matilda were benefactors to many abbeys, and naturally the queen
+
+was not forgetful of Romsey when the days of her girlhood had been passed.
+
+She was the mother of the prince who perished in the White Ship, and of
+
+Matilda who married the Count of Anjou, and carried on warfare against
+
+Stephen on behalf of her son Henry. Matilda of Romsey died in 1118 and was
+
+buried at Winchester.
+
+The next abbess worthy of notice was Mary, daughter of King Stephen, of
+
+whom a true and romantic story is told, and who, by breaking her vows and
+
+marrying caused a great scandal at the time. She was the youngest daughter
+
+of the king, and a granddaughter on her mother's side of Mary, whom
+
+Christine had brought up with her sister Eadgyth. She was educated at
+
+Bourges, then was transferred with other French nuns to the abbey at
+
+Stratford le Bowe, but as the original English nuns and the imported
+
+French ones did not agree, the latter went to a Benedictine house near
+
+Rochester, which had been founded by Stephen, and later on, about 1155,
+
+Mary became Abbess of Romsey. Her brother William, Count of Boulogne, died
+
+about 1159, and his estates passed to his sister. Matthew of Alsace cast
+
+covetous eyes on her broad lands and encouraged, it is said, by Henry II,
+
+who thought thereby to gain a powerful friend on the continent and, at the
+
+same time, annoy Thomas Becket, sought the abbess's hand in marriage. He
+
+persuaded her to leave Romsey and become his wife: it is thought that
+
+Henry II may have brought some pressure to bear upon her to induce her to
+
+take this step. Anyhow, she was married in 1161. Her new people gladly
+
+received her, and her kindness of heart won and held their affection. For
+
+ten years Matthew and Mary lived happily together, or would have been
+
+happy if it had not been for the ban of the church. Then either on account
+
+of conscientious scruples about their past conduct, or on account of
+
+the disabilities imposed on them by the church, they separated, and Mary
+
+once more took on her the religious life, but not at Romsey. No doubt she
+
+thought it better to go to a convent entirely new to her, that at
+
+Montreuil, where she would not be constantly reminded of her former
+
+misconduct. Here she died in 1182, aged forty-five. It is noteworthy that
+
+her two daughters were legitimatized, their names were Ida and Maud. Ida,
+
+the elder, married first Gerard of Gueldres, and then Reginald of
+
+Damartin, and the younger, Maud, married the Duke of Brabant, so that it
+
+would seem that the pope did not take a very serious view of the Abbess
+
+Mary's broken vows.
+
+[Illustration: PIER IN THE NORTH NAVE ARCADE]
+
+The thirteenth century abbesses followed one another in quick succession,
+
+no good thing for the discipline of the abbey. When Matilda died in 1219,
+
+the old gallows on which the abbess had had the right of hanging offenders
+
+condemned by her court, fell into disuse, but the right was restored by
+
+the King to Amicia. Towards the end of the century, episcopal visitations
+
+began, and the Bishop of Winchester looked into various disorders that had
+
+grown up among the abbesses and sisters. The various methods of procedure
+
+and the things forbidden give us some idea of the abuses that prevailed.
+
+The abbess was required in the injunction issued about 1283 not to
+
+exercise an autocratic power but only a constitutional one, being guided
+
+by the advice of her chapter. It was forbidden to any men except the
+
+confessor, and the doctor in case of illness of a nun, to enter the
+
+convent; all conversation with outsiders was to take place in the presence
+
+of witnesses and in an appointed place. The nuns were forbidden to visit
+
+the laity in Romsey, and other like ordinances were enjoined.
+
+Philippa de Stokes and Clementia de Guildeford were infirm, and
+
+Clementia's successor, Alicia de Wynterseshull, was poisoned soon after
+
+her election, but no evidence could be produced to convict the murderer.
+
+Many episcopal visitations took place during the fourteenth, fifteenth,
+
+and sixteenth centuries. The injunctions issued at many of them are in
+
+existence: these deal only with what is blameworthy, not with that which
+
+calls for no reproof. Some of the things objected to seem to us very
+
+trivial. On one occasion the nuns were forbidden to keep pet animals, as
+
+the abbess was charged with giving her dogs and monkeys the food intended
+
+for the sisters. Sometimes the abbess was forbidden to take into the
+
+convent more than a certain number of nuns. In 1333 there were ninety-one,
+
+but after a time the numbers decreased, and at the dissolution there were
+
+only twenty-six. The injunctions of 1311 were very strict, some of them
+
+deal with the locking of doors, forbid the presence of children, whether
+
+boy or girl, in the dormitory or in the choir.
+
+Romsey, like many other religious houses, suffered severely at the time of
+
+the Black Death. The number and names of the ninety-one nuns voting in
+
+1333 at the election of Johanna Icthe has come down to us. The pestilence
+
+reached Weymouth from the east in August, 1348, and of it died the abbess
+
+Johanna, two vicars, one prebendary, and no doubt many of the sisters, as
+
+in 1478 the number of nuns had dropped from ninety-one to eighteen, and
+
+after this there were never more than twenty-six nuns at Romsey. The
+
+reduction in the nuns not only decreased the importance of the abbey but
+
+led to a terrible relaxation of discipline.
+
+The worst scandal arose when Elizabeth Broke was abbess. The evidence
+
+given before Dr. Hede, Commissary of the Prior of Canterbury, is still
+
+extant. There were various charges against her, that she allowed some of
+
+the sisters to wear long hair, did not prevent the nuns going into the
+
+town and drinking at the taverns, treated some with great severity, did
+
+not keep the convent accounts accurately, suffered sundry roofs to get out
+
+of order, and that she was much under the influence of the chaplain,
+
+Master Bryce. Some years before this she had been charged with adultery;
+
+this she seems to have denied with oaths, and finally, when she could
+
+brazen it out no further, she confessed to adultery and perjury and
+
+resigned her office, the only thing she could do; but the most remarkable
+
+part of the story is still to come: the sisters being required to fill the
+
+vacant post by the election of an abbess, almost unanimously re-elected
+
+Elizabeth Broke. Two only, Elizabeth herself and one other, did not vote
+
+for her. The bishop thereupon restored her to her position as abbess, but
+
+to mark his displeasure with her he forbade her to use the abbatial staff
+
+for seven years. The remaining years of her rule were not satisfactory.
+
+The sisters took advantage of the scandal she had caused to act in an
+
+insubordinate way towards her. The next abbess was Joyce Rowse, but she
+
+was utterly unable to reinstate the old discipline--we hear of her
+
+revelling with some of the sisters in the abbess's quarters. Bishop
+
+Fox in his injunctions in 1507 forbade sundry priests to hold any
+
+communication with the abbess or with any of the nuns. William Scott was
+
+forbidden to gossip with the nuns at the kitchen window. Nature it would
+
+seem was much the same in the sixteenth century as it is now, and the
+
+convent servants loved gossip as much as ours do.
+
+The abbess, finding that she could not maintain her authority in the
+
+abbey, resigned, and Anne Westbrooke, formerly mistress of the convent
+
+school, was appointed to succeed her in 1515. She died in 1593, and was
+
+succeeded by the last abbess, Elizabeth Ryprose; she seems to have been
+
+a capable woman, and tried hard to do her duty. But it was too late to
+
+purify the abbey. Various nuns were reprimanded or punished in 1527 by the
+
+vicar-general. Alice Gorsyn confessed to having used bad language and
+
+having spread false and defamatory stories about the sisters; on her
+
+confession she was admitted to penance, but it was ordered that if she
+
+transgressed again in like manner she was to wear a tongue made of red
+
+cloth under her chin for a whole month, and the abbess was ordered to see
+
+the sentence carried out.
+
+Clemence Malyn was deposed from her office of sub-prioress and sextoness
+
+on account of the careless manner in which she had performed the duties
+
+of these offices, and she also, in answer to questions asked by the
+
+vicar-general, acknowledged that she had frequently hidden a key of the
+
+abbey church in a hole so that a certain Richard Johans might find it and
+
+enter the church, and might drink in the sacristy wine with which she
+
+provided him, though she denied having ever drunk with him or otherwise
+
+misconducted herself. Margaret Doumar confessed that she had been guilty
+
+of incontinence with Thomas Hordes, and she was severely punished: she was
+
+to be imprisoned for a year, to hold no conversation with any sister save
+
+her gaoler, she was to eat no food except bread and water every third and
+
+sixth day of the week, and to receive chastisement on those days in the
+
+Chapter House.
+
+The nunnery was suppressed in 1539, and the fact that no pensions were
+
+given to the abbess or sisters seems to point to the fact that the abbess
+
+did not voluntarily surrender. Where this was done the monks or nuns were
+
+generously treated by the King's commissioners, but when they refused to
+
+surrender they were expelled without any provision being made for them.
+
+What became of the majority of these expelled monks and nuns we do not
+
+know, possibly any of those who were in priest's orders found work in
+
+parish churches, but the case of the nuns was harder. We hear nothing of
+
+the after life of any of the Romsey nuns save Jane Wadham, who married one
+
+John Forster, who had been the collector of the abbey rents. She declared
+
+that she had been forced to take the veil against her will, and he said he
+
+had been similarly forced to enter the priesthood.
+
+After the suppression the domestic buildings of the abbey disappeared--but
+
+the church was sold to the people of Romsey by Henry VIII for the small
+
+sum of L100. The deed of sale may still be seen in the clergy vestry at
+
+Romsey. Queen Mary, at the beginning of her reign, restored some of the
+
+church plate.
+
+And so the history of the religious house at Romsey ends. In one respect
+
+it was more fortunate than the neighbouring nunneries at Shaftesbury,
+
+Wilton, and Amesbury. The abbey church remains until this day, and enables
+
+us to form an idea of the arrangements in force in the churches of
+
+Benedictine sisterhoods. Many monastic churches remain, some having become
+
+cathedrals, as Gloucester, some parish churches, as Sherborne, but few of
+
+the churches belonging to nunneries survived the suppression of the
+
+religious houses; one at Cambridge, now used as the chapel of Jesus
+
+College, and the church at Romsey, are, however, among the few exceptions.
+
+We could wish that we knew more about the history of this religious house,
+
+but sufficient is known to show us that it was once a very famous abbey,
+
+and a place of instruction for many royal and noble ladies, in its early
+
+days the discipline of the Benedictine rule seems to have been well
+
+maintained, though in later years faith grew cold and worldliness
+
+prevailed within its walls, as indeed it did in many another monastery
+
+and nunnery, so that when the old order changed giving place to new, the
+
+people of the country, especially in what was once the original kingdom of
+
+the West Saxons, saw them suppressed without any great feelings of regret.
+
+The architectural student and the archaeologist, indeed, regret that so
+
+many of the abbey churches have become little more than picturesque ruins
+
+such as Glastonbury, or mere grass-covered foundations such as Bindon and
+
+Shaftesbury, and when so many have perished we cannot be too thankful that
+
+the splendid abbey church at Romsey still stands in all its pristine
+
+beauty and interest.
+
+VICARS OF ROMSEY
+
+_As given in a list suspended in the Retro-choir_
+
+  1282 Solomon de Roffa, Prebendary of St. Laurence Major.
+
+  1292 John de Romese, Prebendary of Edington.
+
+  1304 John de London, Prebendary of Edington.
+
+  1312 Gilbert de Middleton, Prebendary of Edington.
+
+  1322 Henry de Chilmark.
+
+  1325 Richard de Chaddesley, D.C.L.
+
+  1342 Nicholas de Gutleston.
+
+  1344 Nicholas de Ballestone.
+
+  1349 John de Minstede.
+
+  _c._ 1360 Thomas Eggesworth.
+
+  1371 John Ffolliott.
+
+  1380 Roger Purge.
+
+  1400 John Winfrey or Umfray.
+
+  1420 John Bayley, M.A.
+
+  1464 John Green, M.A.
+
+  1482 Edward Coleman, M.A.
+
+  1500 John Hopwood.
+
+  1519 John Newman, LL.B.
+
+  1546 Roger Richardson.
+
+  1586 Samuel Adams.
+
+  1620 Anthony White, M.A.
+
+  1648 John Warren (an intruder).
+
+  1662 Thomas Doughty.
+
+  1666 Jacobus Wood.
+
+  1669 Samuel Walensius.
+
+  1680 Thomas Donne.
+
+  1690 William Mayo.
+
+  1727 John King.
+
+  1746 John Peverell.
+
+  1781 John Woodbron.
+
+  1808 Daniel Williams.
+
+  1833 William Vaux, Canon.
+
+  1841 Gerard Noel, Canon.
+
+  1849 William Carus, Canon.[8]
+
+  1855 Charles Avery Moore.
+
+  1860 Edward Lyon Berthon.
+
+  1892 James Cooke Yarborough.
+
+[8] Well known at Cambridge, where the Carus Greek Testament Prizes
+
+perpetuate his memory.
+
+INDEX
+
+  Abbesses, historical list of, 67-78.
+
+  AElfgyfu (Emma), benefactress, 18.
+
+  AElflaed, 16, 17.
+
+  Aisles, 24, 48;
+
+    north choir, 22, 28;
+
+    south, 56.
+
+  Ambulatory, 52.
+
+  Apse, foundations of, 17.
+
+  Apsidal chapels, 24, 34, 50, 59.
+
+  Bells, 34.
+
+  Berthon, Rev. E. L., 18, 24, 59.
+
+  Brackley tomb, 50.
+
+  Broke, Eliz., Abbess, 76.
+
+  Capitals, carved, 48.
+
+  Chantry of St. George destroyed, 22, 28.
+
+  Choir rebuilt, 40.
+
+  Christ Church, Oxford, 47.
+
+  Church purchased by the people, 22, 78.
+
+  Clerestory, 45.
+
+  Corbel table, 30.
+
+  Danes, destruction by, 18.
+
+  Dimensions, 82.
+
+  Doors, 32.
+
+  Eadgyth (Queen Maud), 71.
+
+  Font, 64.
+
+  Foundation, 16.
+
+  Horse-shoe arches, 52.
+
+  Icthe, Joan, Abbess, 61.
+
+  Kilpec, Isabella de, supposed effigy of, 60.
+
+  Lawrence, St., Parish Church, 22, 28, 50.
+
+  Mary, Abbess, 72.
+
+  Monuments, 60-63.
+
+  Nave, interior, 39.
+
+  Organ, 60.
+
+  Petty, Sir W., tomb of, 63.
+
+  Relics, hair, 52;
+
+    sundry, 53.
+
+  Reredos, fourteenth-century, 51.
+
+  Restoration, 24, 36.
+
+  Robert, Earl of Gloucester, 48.
+
+  Romsey Psalter, 53.
+
+  ---- Rood, 32.
+
+  Ryprose, E., last Abbess, 77.
+
+  St. Barbe John, monument of, 60.
+
+  Saxon carving, 56.
+
+  Screen, choir, 59.
+
+  Suppression of the nunnery, 77.
+
+  Tomb of priest, 62;
+
+    of unknown lady, 60.
+
+  Tower, top, 24;
+
+    interior, 49.
+
+  Triforium, 44, 46.
+
+  Vaults, 39, 48.
+
+  West front, 29.
+
+  Western (Early English) addition, 20, 43.
+
+  Windows, east, 21, 28, 64;
+
+    west, 63.
+
+DIMENSIONS
+
+Total length of church, including buttresses                263 feet.
+
+      "           "     from outer faces of walls           256  "
+
+Total width of nave and choir from outer faces of walls      86  "
+
+Total length of transept: exterior                          140  "
+
+      "           "       interior                          127  "
+
+Length of nave, interior                                    165  "
+
+      "   choir   "                                          54  "
+
+Width of retro-choir, interior, east and west                15  "
+
+      "  nave, interior, between centre of piers             39  "
+
+      "  aisles, interior, from centre of piers to walls     18  "
+
+Height of nave walls to wall plate                           70  "
+
+Height of tower                                              93  "
+
+Length and breadth of tower, interior                        28  "
+
+    Total area                              21,470 square feet.
+
+[Illustration: GROUND PLAN OF ROMSEY ABBEY CHURCH]
+
+A Saxon Rood.
+
+B Saxon Reredos.
+
+C Effigy of Lady.
+
+D Sir W. Petty's Monument.
+
+E Choir Screen.
+
+F Organ.
+
+G Font.
+
+H Abbess's Door.
+
+J Nuns' Door.
+
+K North Door.
+
+L Clergy Vestry.
+
+M Choir Vestry.
+
+(The three western
+
+bays are of
+
+thirteenth-century
+
+work).
+
+CHISWICK PRESS: CHARLES WHITTINGHAM AND CO.
+
+TOOKS COURT, CHANCERY LANE, LONDON.
+
+***

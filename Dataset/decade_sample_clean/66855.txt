@@ -1,0 +1,5671 @@
+Transcriber's note:
+
+This version of the text cannot represent certain typographical effects.
+
+Italics are delimited with the '_' character as _italic_.
+
+The few minor errors, attributable to the printer, have been corrected.
+
+Please see the transcriber's note at the end of this text for details
+
+regarding the handling of any textual issues encountered during its
+
+preparation.
+
+                           Why We Love Music
+
+                                   BY
+
+                            CARL E. SEASHORE
+
+                        Professor of Psychology
+
+                                  and
+
+                 Dean Emeritus of the Graduate College
+
+                      The State University of Iowa
+
+                         OLIVER DITSON COMPANY
+
+                   THEODORE PRESSER CO., DISTRIBUTORS
+
+                        BRYN MAWR, PENNSYLVANIA
+
+               Copyright MCMXLI by Oliver Ditson Company
+
+                    International Copyright Secured
+
+                      Printed in the United States
+
+                               of America
+
+                                PREFACE
+
+The magazine, _Time_, commenting on my new book, _The Psychology of
+
+Music_[A], spoke approvingly of the scientific contributions to music,
+
+but gibed that, "psychologists have not explained why we love music." As
+
+a reply to that I wrote a note, _Why Do We Love Music?_[B] This seemed
+
+to call for a wider excursion implementing the views there taken, as in
+
+the present Chapter I. That, in turn, led to the writing of the
+
+remainder of this volume, in which each chapter deals with some of the
+
+salient factors involved in the development of feeling for music.
+
+These ventures digress from my habitual style of writing, as a technical
+
+psychologist, in that I frequently indulge in generalizations and
+
+predictions in a practical and popular vein. The attempt to interpret
+
+and evaluate present tendencies in the region of forward movements in
+
+music naturally takes me into unexplored territory and will stimulate
+
+questioning on the part of promoters of various interest in the field. I
+
+hold no brief for infallibility of the positions taken, except to say
+
+that they are my convictions at the present moment. While they are not
+
+direct reports of scientific experiments in the laboratory or the
+
+studio, they may be regarded as an extension or interpretation based
+
+upon scientific experiments and observations. It is hoped that they may
+
+serve as hypotheses or at least a challenge for investigation and
+
+practical trial. The reader must judge what is new and what is true from
+
+his point of view. Many of the things I advocate are in an experimental
+
+stage and in advance of current prevailing practice. This is the reason
+
+for presenting them. My aim has been to tease out those elements in the
+
+musical situation which help to make music function in our lives and be
+
+appreciated.
+
+The following chapters have appeared in magazines: Ch. I, _The Etude_
+
+(brief summary); Ch. II, _The Parents' Magazine_; Ch. III, _National
+
+Parent Teacher_, under the title, "On Their Musical Way"; Ch. IV, _The
+
+School Review_; Ch. VI, _The Scientific Monthly_. For permission to
+
+bring these chapters into this volume I herewith express my appreciation
+
+to the publishers.
+
+                                                       CARL E. SEASHORE,
+
+                                                       Iowa City, Iowa,
+
+                                                       March 1, 1940.
+
+-----
+
+Footnote A:
+
+  McGraw-Hill, 1938
+
+Footnote B:
+
+  Music Educators Journal, Sept. 1938
+
+                                CONTENTS
+
+   Chapter                                                      Page
+
+   I     Why Do We Love Music?                                     1
+
+            The Musical Medium                                     2
+
+               Organic response, 2; Sounds in themselves, 3;
+
+               Music proper, 3; Music with words and action,
+
+               3; Symbolism, 4.
+
+            The Musical Motives                                    4
+
+               Musical knowledge, 5; Musical feeling, 5;
+
+               Musical action, 6; Music as play, 7; Musical
+
+               imagination, 8; Who loves music?, 8.
+
+            Thought Review                                        10
+
+   II    Music Before the Age of Six                              12
+
+               From smile to music, 12; Music in play, 14;
+
+               Environment, 15; Music and speech, 16;
+
+               Musical talent, 17; Musical education, 18.
+
+            Thought Review                                        19
+
+   III   Music Between the Ages of Six and Ten                    21
+
+               A broadened conception of music, 22; The
+
+               analysis of talent, 23; Group instruction,
+
+               24; Formal lessons delayed, 25; A sympathetic
+
+               listener, 26; Music lovers vs. virtuosi, 27.
+
+            Thought Review                                        27
+
+   IV    Music and Youth                                          29
+
+            Youth, The Age of Music                               29
+
+               The emotional age, 29; The age of serious
+
+               play, 30; The age of decision and
+
+               eliminations, 30; The educational age, 30;
+
+               The age of leisure, 32.
+
+            Music For Youth                                       34
+
+               Music, an academic subject, 34; Orientation
+
+               in the grades, 35; Group activities in voice
+
+               and instrument, 35; Contests, 36; The hearing
+
+               of music, 37.
+
+            Thought Review                                        39
+
+   V     The Musical Temperament                                  41
+
+               Physiological irritability, 43; Tonal
+
+               sensitivity, 43; Artistic license, 44;
+
+               Ear-mindedness, 45; Affective response, 45;
+
+               The esthetic mood, 46; Exhibitionism, 46;
+
+               Symbolism, 47; Precocity, 47.
+
+            Thought Review                                        48
+
+   VI    Musical Inheritance                                      50
+
+            Essential Premises                                    50
+
+            Psychophysical Measurements                           54
+
+            Thought Review                                        59
+
+   VII   The Future of Musical Instruments                        62
+
+            Possible Lines of Development                         63
+
+               The improvement of existing instruments, 64;
+
+               New substitutes for existing instruments, 65;
+
+               New ensembles, 66.
+
+            New Music                                             67
+
+            Playing                                               69
+
+            Specifications for Instrument Construction            70
+
+               Pitch, 70; Loudness, 70; Time, 71; Timbre,
+
+               71.
+
+            Thought Review                                        72
+
+   VIII  Praise and Blame in Music                                74
+
+            Vantage Grounds                                       75
+
+               Artistic insight, 75; The scientific
+
+               attitude, 76; Terminology, 76; Musical
+
+               talent, 77.
+
+            Parties Concerned                                     77
+
+               The pupil, 77; The teacher, 78; The critic,
+
+               79; The public, 80.
+
+            Thought Review                                        81
+
+                               Chapter I
+
+                         WHY DO WE LOVE MUSIC?
+
+Why does a person love his sweetheart, his food, his safety, his social
+
+fellowship, his communion with nature, his God, approaches to the
+
+ultimate goals of truth, goodness, and beauty? The answer to each of
+
+these is a long story, involving not only common sense and scientific
+
+observation but a profound intuitive insight, a self-revelation. In all,
+
+it will be found that love is a favorable response, a reaching out for
+
+the satisfaction of a fundamental human need, an effort to secure
+
+possession, and a willingness to give an equivalent, indeed a more or
+
+less unconditional surrender.
+
+In all efforts to describe and explain, we reach out for specific
+
+reasons or at least rationalizations. Modern science has made great
+
+strides in revealing and describing all sorts of reasons for such
+
+emotional experience and behavior. The theory of the evolution of man,
+
+the anthropological implementation of this in the history of the rise of
+
+mankind, the psychology of the mental development of the individual, the
+
+comparison of this with animal behavior, and the inspired interpretation
+
+of these motives in literature, especially biography, autobiography, and
+
+poetry, are sources to be drawn upon. We have the adage that the
+
+explanation of one blade of grass involves the explanation of all the
+
+forces of nature. This aphorism certainly applies in the attempt to
+
+explain any particular human love.
+
+It is therefore evident that any attempt to account for a specific
+
+affection, such as the love of music, must be fractionated, placing
+
+responsibility in turn upon the scientist, the artist, and the
+
+self-revelation of the inspired music lover at each culture level. It
+
+has become the recognized function of the psychology of music to
+
+integrate the contributions from all scientific sources, such as
+
+anatomy, physiology, anthropology, acoustics, mental hygiene, and logic,
+
+in their bearings upon the hearing of music, the appreciation of music,
+
+musical skills, theories, and influences. To account for the emotional
+
+power of music, the psychologist must consider the taproots of the
+
+artistic nature of the individual in relation to the nature of the art
+
+object, music. He must trace the unfolding of the organism as a whole
+
+from inherited reflexes, instincts, urges, drives, and capacities in an
+
+integrated pattern; he must consider the function of the art in human
+
+economy and especially the goals attained by the pursuit of the art. In
+
+this task there is room for intricate specializations and division of
+
+labor. It is my purpose here to present merely a rough skeletal outline
+
+of some of the outstanding features which underlie the love of music
+
+from the psychological point of view.
+
+Every impulse has two aspects: attraction and repulsion. All of us love
+
+music in some degree; all of us hate some music; and most of us in the
+
+economy of nature are comparatively indifferent and extravagantly
+
+wasteful to the role that music might play in our lives. Hatred and
+
+indifference to music are important realities in life worthy of serious
+
+consideration; but our topic restricts us to the positive side of
+
+musical response, the love of music.
+
+                           THE MUSICAL MEDIUM
+
+_Organic response._ Man is born with a psychophysical organism which
+
+registers sounds and responds to them somewhat like a resonator, which
+
+selects, amplifies and aids in the integration of auditory impressions.
+
+Our whole organism responds to sound involving the central and
+
+peripheral nervous system, all the muscles, all the internal organs, and
+
+especially the automatic nervous system with its endocrines, which
+
+furnish the triggers in the physical generation of emotion. Experiments
+
+from various sources have shown that sound acts physiologically on
+
+nervous control, circulation, digestion, metabolism, body temperature,
+
+posture and balance, hunger and thirst, and in general, the groundwork
+
+of pleasure and pain. The physical organism as a whole responds to
+
+sounds in specialized functions.
+
+Thus, man comes into the world tuned to music. The organism responds to
+
+sounds from earliest infancy. Back of all conscious awareness, back of
+
+all musical feeling, even back of subconscious assimilations and
+
+elaborations is the purely physiological response which is a function
+
+and a condition of well-being. This physiologically beneficent response
+
+of the organism to sound underlies all musical experience; without it we
+
+could not love music.
+
+_Sounds in themselves._ Like colors, sounds may be beautiful in
+
+themselves, quite apart from music. A single sound in nature or art is
+
+capable of appearing in endless variety in terms of pitch, dynamic
+
+value, duration, tone quality, and noise. It may be an object of beauty
+
+in itself in thousands of ways quite apart from its utility in music or
+
+musical perception. We find the tonal world in which we live full of
+
+beautiful and useful sounds which we love because we are capable of
+
+intellectual and emotional response to their beneficent influence. They
+
+play a large role in our feelings of attraction and adjustment. They may
+
+be beautiful to the untutored and intuitive mind as well as to the
+
+intellectually and esthetically cultured mind in the same way that
+
+flowers may seem beautiful to a child because they arouse an immediate
+
+pleasurable feeling; and yet they are not music but merely the raw
+
+material from which music is made. These raw materials from which the
+
+musical structure is raised are themselves beautiful, quite apart from
+
+musical experience or behavior. They play a large role in the love of
+
+nature.
+
+Thus, before the beginnings of music, primitive man responded
+
+affectionately to the sounds of nature and was guided by them in his
+
+daily life. Even before language took form, single sounds carried
+
+meaning and gave satisfaction. Man took pleasure in his own vocal
+
+utterances or mechanically produced sounds which played a large role in
+
+his human economy and development.
+
+_Music proper._ Sounds may be woven into beautiful patterns. This is
+
+music. We admire the melodic progressions, the rhythmic patterns, the
+
+harmonic structure, and the qualitative modulations in the flow of
+
+beautiful sounds. Harmony, balance, symmetry, contrast and fusions
+
+become embodied in musical form. Here the object of our affections is
+
+the artistic creation. The place of the musician is quite analogous to
+
+the astronomer's feeling of the sublime as he looks into the heavens in
+
+the light of his knowledge of the nature and movement of heavenly
+
+bodies.
+
+_Music with words and action._ Much of the charm of music lies in its
+
+association with words which carry the message, as in song. The center
+
+of interest in much of the vocal art lies in the meaning conveyed by the
+
+words where the music serves as an artistic embellishment. This is true
+
+of the lullaby, the cowboy song, the lover's plea, and grand opera.
+
+Likewise, much of the charm of music lies in its association with overt
+
+action as in dances, work songs, marches, and games, where action is
+
+rhythmic. This added power of the music lies not only in the dance steps
+
+but more conspicuously in the suggestive rhythms divided into intricate
+
+patterns often far surpassing the score or the physical performance.
+
+That is what we mean when we say music carries. In such situations the
+
+musical appeal may lie for one person in the verbal message or the overt
+
+action and for another, purely in the musical appeal. Yet both words and
+
+action on the one hand and music on the other are enriched through the
+
+association.
+
+_Symbolism._ Music finds its highest and most universal expression in
+
+symbolism. Music is primarily a way of expressing moods, attitudes,
+
+feelings, and longings in generalized form. The listener tends to live
+
+himself concretely into the feeling suggested. In the esthetic mood he
+
+is not aware of the mechanics of the symbolic suggestion, for which the
+
+art has many resources, and he may not be aware of the music as such;
+
+but he lives realistically within his own personal realm of interests.
+
+Thus, music sounds the keynote on great festive occasions in the
+
+powerful forms of festive music, as in the great sacred oratorios and
+
+simpler but beautiful forms of church music or in triumphant marches and
+
+other festive celebrations in major form. But minor forms, as in tone
+
+poems and haunting melodies, work on the same principle and perhaps
+
+fully as effectively. From the grandeur suggested by the sonata to the
+
+serenity arising from the simplest bit of improvization in voice or
+
+instrument, music has unlimited power to seize the individual for some
+
+form of dreamlike realization of the subjects of his longings.
+
+                          THE MUSICAL MOTIVES
+
+What we are called upon to explain then in the attraction for musical
+
+art is essentially the motives which drive man to the creation,
+
+appreciation, and performance of music. One of these motives is the love
+
+of knowledge as a thing in itself, the understanding of what is, and the
+
+power of passing from vantage ground to vantage ground in the logical
+
+creation, appreciation, and execution of art forms.
+
+_Musical knowledge._ This love of music for its cognitive value can be
+
+traced from the earliest musical achievements, as in the growing
+
+acquaintance with song, sight reading, qualifications for participation
+
+in music, and appreciation of art forms, throughout all stages in the
+
+musical development of the individual up to that of the highest
+
+interpreters and creators of music. While music is a play on our
+
+feelings and appeals primarily to our emotional life, an intellectual
+
+mastery of the process, the ability to understand artistic meanings, the
+
+ability to construct beautiful art forms, the ability to analyze
+
+elements in the power of music, the ability to see the relation between
+
+musical art and other forms of art, and the ability to comprehend the
+
+unity of all the arts, are basic in our love of music. Even in the cool
+
+and logical pursuit of the science of music, foundations are laid for
+
+the deepening of insight and the revelation of artistic values. Glimpses
+
+into the vistas of unexplored resources intensify the admiration, the
+
+feeling of awe, the glimpse into the infinite which is love of the
+
+object pursued.
+
+The role of intelligence in music is well illustrated in recent
+
+experiments in which vocabulary was measured in three groups; namely,
+
+ten nationally well-known composers, ten of the most successful students
+
+in a large class in composition, and ten of the least successful
+
+students in the same class. It was found that the master composers and
+
+the successful students of composition ranked in or near the top in a
+
+test of general vocabulary; whereas, the unsuccessful students ranked
+
+near the bottom. Since knowledge of words is an index for the possession
+
+of ideas, it is significant to note that successful composers are
+
+persons who have a large and discriminating command of ideas.
+
+_Musical feeling._ It must be recognized that the love of music is
+
+essentially an unanalyzed feeling. Countless people feel the esthetic
+
+appeal in music without understanding anything about it. It may be like
+
+the notorious puppy love, which is frequently blind, but nevertheless a
+
+deep love. This is particularly true in the earlier stages of the
+
+development of musical interests. But it is occasionally in evidence in
+
+the successful singer on the stage who may be blissfully ignorant of the
+
+principles underlying his art, the media he seeks to mold, or the
+
+significance of his message. There is much justification for the
+
+performer's forgetting what little he knows and indulging in
+
+self-expression in a state of abandon in which he deeply feels his
+
+message and expects to convey this feeling to the listener.
+
+We must distinguish between two attitudes in listening to music and in
+
+the performance of music: the critically analytical and the purely
+
+emotional. An intelligent musician is capable of both and loves both. In
+
+the learning stages he pursues the former attitude primarily until
+
+techniques are mastered and habits are formed which operate
+
+automatically in the musical situation. This is also the dominant
+
+attitude of the music critic. But in seeking the enjoyment of music and
+
+in the unified expression of a thing beautiful, the musician takes the
+
+other attitude. Paderewski would be hopelessly lost and ineffective if,
+
+at the moment of performance, he should be consciously aware of all the
+
+art forms of which he is master. The successful performance comes in an
+
+inspirational attitude, the semi-ecstatic feeling of the beauty one
+
+seeks to convey, a state of forgetfulness of self and concrete facts.
+
+Thus music is a language of emotion. Through it the composer and the
+
+performer convey their own emotions to the listener. It is a message and
+
+a means of communication which enable the performer and the listener to
+
+live for moments in the same tonal world of pleasure. Our muse is
+
+jealous and seeks to exclude all intruders at the moment of her artistic
+
+appeal.
+
+_Musical action._ On a par with the intellectual and emotional approach
+
+is the role of action in music. Consider for a moment the central place
+
+of rhythm. The composer presents a hierarchy of rhythms: the measure
+
+rhythm, the phrase rhythm, the sentence rhythm, the movement rhythm, all
+
+moving into a unified beautiful artistic structure. The performer takes
+
+this as a cue and adds or detracts, as the case may be, by his personal
+
+interpretation. Modern psychology has shown that all musical listening
+
+is action, a constructive response on the part of the listener.
+
+All rhythm is primarily a projection of personality. My rhythm flows
+
+from what I am. A large part of the pleasure in music comes from a
+
+satisfaction in what rhythm does. Rhythm facilitates perception by
+
+grouping; rhythm adjusts the stream of attention; rhythm gives a feeling
+
+of balance; rhythm gives a feeling of freedom, luxury and expanse;
+
+rhythm gives a feeling of power, it carries; rhythm, as in the dance,
+
+stimulates and lulls, contradictory as this may seem; rhythm finds
+
+resonance in the whole organism; rhythm arouses sustained and enriched
+
+associations; rhythm reaches out in extraordinarily detailed complexity
+
+with progressive mastery; the instinctive craving for experience in
+
+rhythm results in play, which is free self-expression for the pleasure
+
+of expression; rhythm plays not only with temporal but also with dynamic
+
+and qualitative aspects of tone. Subjectively, rhythm in music is a play
+
+within a play: The composer anticipates it, the performer gives the cue,
+
+and the listener expresses himself in it.
+
+_Music as play._ All art is play, and the charm of music, the purest
+
+form of art, lies fundamentally in the fact that it furnishes a medium
+
+of self-expression for the mere joy of expression and without ulterior
+
+purpose. It becomes a companion in solitude, a medium through which we
+
+can live with the rest of the world. Through it we express our love, our
+
+fears, our sympathy, our aspirations, our feelings of fellowship, our
+
+communion with the Divine in the spirit of freedom of action.
+
+Note the fundamental characteristics of play and observe how in these
+
+lies the power of attraction in music as play. Play gives a feeling of
+
+self-realization; it is the experience of growth. It expresses the
+
+racial life and in many respects is a reversion to type: It has been
+
+said that we are all of the same age--millions of years. Play is a
+
+realization of the sense of freedom; it attracts, engages and fascinates
+
+by the very satisfaction which it engenders and which supports it; the
+
+dance, when it is real play and not mere social labor or conformity,
+
+carries the dancer in so far as he falls into a state of diffuse and
+
+dreamy consciousness, intoxicated by the sense of pleasure, lulled by
+
+the automatic rhythmic movements, and soothed by the melodious and
+
+measured flow of music. Play gives satisfaction in the feeling of being
+
+a cause, of having creative power. Play is essentially social and finds
+
+its highest realization in good fellowship. Play is positive, an
+
+expression of the joy of life. The unrestraint and spontaneity of play
+
+result in strenuous and whole-hearted exertion; the seriousness of play
+
+is one of its fascinations. Success in play lies in its fictitious
+
+nature; it rests upon make believe; liberated from realities, it accepts
+
+the ideal and lives it as real. In the possibility of playing with the
+
+ideal lies a fundamental charm of music.
+
+_Musical imagination._ Music is by no means limited to what is composed,
+
+performed and listened to in the objective situation. Its main field of
+
+operation lies beyond the sensory impressions and overt actions. Its
+
+principal domain is the tonal world of memory, imagination, thought, and
+
+pure feeling. Millions of people are today under the spell of _Over the
+
+Rainbow_, as rendered in _The Wizard of Oz_, a simple, compelling thing
+
+which takes possession of us in the dream, and in the humdrum of daily
+
+activities; it lives within us realistically, quite apart from actual
+
+sounds so long as it is novel. This is especially true of the higher
+
+forms of art with all their intricacy and refinements in artistic form
+
+which the trained musician can re-live or create. _Over the Rainbow_,
+
+the expression of our freedom and self-realization in the spirit of
+
+adventure, lies within the power of music.
+
+_Who loves music?_ The love of music is not universal. Deep, warm, and
+
+poised devotion to music is comparatively rare. Much of music is plain
+
+work, sheer drudgery. Much is climbing toward a goal never to be
+
+attained. Many who ply the art of music can hardly be said to love it in
+
+the long run. There are aspiring artists who devote a lifetime to the
+
+mastery of the skills, but become hypercritical and sour when they fail
+
+to feel the esthetic glow or gain the command of public acclaim. Many an
+
+aspiring amateur suffers a similar defeat. To the masses, music is but
+
+fleeting incidents, occasional whiffs of the overflow from the wealth of
+
+human appeals to a latent artistic nature. It is a notorious fact that
+
+many who profess a love of music do not have it, but are mere pretenders
+
+and imitators, conscious or unconscious, and that many who disavow it
+
+are merely dying with all their music in them.
+
+For such failures and inadequacies there are many possible explanations.
+
+One of the impediments to the love of music is the absence of the
+
+"gift", a naturally musical mind. In this there are enormous differences
+
+in kind and degree. It follows that there will be corresponding
+
+differences in the kind and degree of love for music. While music
+
+springs spontaneously in the gifted child and youth, education is as
+
+essential for music as it is for science or language. One might as well
+
+attempt to acquire learning without study as to acquire music without
+
+training. Then again, as is a person's intelligence, so is his music.
+
+And creative imagination is a tool with which music is fashioned from
+
+childhood to the heights of artistry. Furthermore, we must recognize
+
+that for really expressive love and devotion to music we must look to
+
+the often justly or unjustly maligned musical temperament.
+
+Yet the company of music lovers is great. Music is the most universal
+
+avocation. This has been true of all races throughout all times and at
+
+all culture levels. Only a fraction of one per cent of persons who hear
+
+music or practice it do so vocationally. We, the people, preserve it
+
+primarily as an avocation, an activity purely for pleasure and cultural
+
+enrichment. The love of music abounds at our time and in our country;
+
+yet we are but at the beginnings of a dawning musical era. The increase
+
+of leisure time, high educational level, and the astounding invention of
+
+instruments for the production and transmission of musical sounds
+
+forecast its rise.
+
+Why then do we love music? Among other things we love it because it
+
+creates a physiological well-being in our organism; it is built from
+
+materials which are beautiful objects in themselves; it carries us
+
+through the realms of creative imagination, thought, actions, and
+
+feelings in limitless art forms; it is self-propelling through natural
+
+impulses, such as rhythm; it is the language of emotion, a generator of
+
+social fellowship; it takes us out of the humdrum of life and makes us
+
+live in play with the ideal; it satisfies our cravings for intellectual
+
+conquest, for isolation in the artistic attitude of emotion, and for
+
+self-expression for the joy of expression.
+
+                             THOUGHT REVIEW
+
+                           General Principles
+
+ (1)  Music is pursued primarily for the pleasure of the pursuit without
+
+      ulterior purpose.
+
+ (2)  When music renders service, this service is essentially the giving
+
+      of pleasure.
+
+ (3)  The depth and the quality of a person's affection for music vary
+
+      significantly with the degree and kind of musical inheritance.
+
+ (4)  If the natural urge toward music is there, it will be readily
+
+      molded through training and facilitation of the environment.
+
+ (5)  It is psychologically possible to present a natural history of the
+
+      origin and development of the love of music in terms of its
+
+      objects and motives.
+
+ (6)  The inceptive psychology of musical experience and behavior can be
+
+      pursued in the laboratory and the studio through experiment and
+
+      measurement.
+
+ (7)  There is a charm in knowing _that_ we love music but even more so,
+
+      _why_ and _how_.
+
+ (8)  It is also worth knowing why some people _do_ not and others
+
+      _cannot_ love music.
+
+                         Questions to Consider
+
+ (1)  Is the play attitude in music opposed to hard work?
+
+ (2)  Why is high intelligence essential to the composer?
+
+ (3)  Can a moron love music genuinely?
+
+ (4)  Is the musical temperament essential for the love of music?
+
+ (5)  How can the adrenal glands affect the love of music?
+
+ (6)  Is the love of rhythm primarily inherited or acquired?
+
+ (7)  What hereditary factors may block the development of the love of
+
+      music?
+
+ (8)  What factors in musical talent are most telling for the
+
+      development of the love of music?
+
+ (9)  What educational motives are most effective as a means of
+
+      enhancement of the love of music?
+
+ (10) What is the nature of musical ecstasy?
+
+                     Discuss These True Situations
+
+ (1)  The typical "house" for the season's performance of the symphony
+
+      orchestra is arrayed in festive attire and poses in attentive and
+
+      festive mood. Make an estimate of the relative proportion of the
+
+      audience there (a) to see and be seen, (b) to perform a social
+
+      obligation, (c) to satisfy curiosity, (d) to learn something about
+
+      music, (e) to thoroughly enjoy the orchestral music.
+
+ (2)  A primitive savage lives close to nature and observes sounds
+
+      produced by man and beast, by wind and sea. May he feel musical
+
+      affection for these sounds apart from their utility and apart from
+
+      knowledge of man-made music?
+
+ (3)  In an aristocratic family there are four children, all manifestly
+
+      lacking in musical talent, but intelligent and co-operative in
+
+      education. They are all given excellent advantages of musical
+
+      education and environment and pursue them as a matter of course.
+
+      Are they likely to come into a warm love of music?
+
+ (4)  It has been observed that when one listens to very beautiful music
+
+      he tends to swallow saliva by gulps, as the young lover does in a
+
+      state of infatuation; and that when he hears vile music, there is
+
+      a tendency to want to spit. In other words, there are two ways of
+
+      disposing of saliva under emotion: Attraction, indicated by
+
+      swallowing; and repulsion, indicated by feeling the need of
+
+      spitting. Can you verify that?
+
+                               Chapter II
+
+                      MUSIC BEFORE THE AGE OF SIX
+
+The psychology of music and the psychology of the child are giving us
+
+new vital conceptions of the nature and role of music in child life. To
+
+understand this fully is to understand adequately the nature of the
+
+child mind and the nature of music.
+
+_From smile to music._ All mental development begins with some inherited
+
+form of behavior and gradually differentiates into richer and richer
+
+meanings and forms of expression. The taproot of all music is the smile.
+
+This in its first appearance is a pure reflex, expressing the well-being
+
+of the organism.
+
+Observe some typical steps in its history in high lights. When the
+
+infant has had its fill from its mother's breast, its head falls back
+
+and the mouth puckers as a result of withdrawal from the nipple. The
+
+mother looks at this and says to herself, "He is satisfied." The child
+
+has thus acquired one means of communication--the expression of
+
+well-being. This rapidly radiates into many situations. When the infant
+
+is patted on the back, is bathed, is rocked in the arms, or feels the
+
+waft of comfortable air, the same puckering of the mouth seems to convey
+
+to the mother a sign of well-being, and the meaning of this puckering is
+
+thus enriched.
+
+It gradually radiates from the lips through more general expressions of
+
+comfort in the face as a whole, and we have a clearly developed smile.
+
+Gradually it becomes associated with sounds--inceptive gurgling, simple
+
+droning, light chatter, and other inceptive forms of vocalization,
+
+always accompanied with a smile, which thus develops new meanings, and
+
+mother and child acquire mutual understandings, because from the first
+
+the mother tends to respond sympathetically in like language.
+
+As this association grows it takes the form of audible laughter which,
+
+at a comparatively high stage of development, becomes a "ha-ha-ha" with
+
+musical inflections. This is a form of language, still not expressing
+
+specific ideas, but the general attitudes of well-being, comfort,
+
+satisfaction of young life as a whole. The mother knows it, loves it,
+
+and responds accordingly; and this mother's response draws from the
+
+infant a growing hierarchy of new types of responses, meaning the same
+
+thing.
+
+Gradually these infantile sounds develop inflections and modulations in
+
+pitch, in loudness, in rhythm, and in tone quality. These inflections
+
+are the beginning of beauty in voice, and each new conquest gives a new
+
+form of satisfaction to the child and mother.
+
+The mother may stimulate natural forms for expression of mutual feeling
+
+by her own musical laughter. Gradually the playing with these sounds
+
+becomes an object in itself, the making of a particular sound for mere
+
+pleasure. This is the beginning of singing and the appreciation of
+
+musical sounds.
+
+We observe the child playing with modulations in pitch, in loudness, in
+
+duration, and in different kinds of tone quality. This is the beginning
+
+of musical experiment, of musical creation, and musical appreciation in
+
+the child. Blessed is the mother who can appreciate the music thus born.
+
+She then sees the significance of the rhythmic patty-cake as music which
+
+gives pleasure to mother and child alike. She then begins to understand
+
+that the jingling of a bell is sweet music to the child. She can see how
+
+the appreciation of rhythm is gradually revealed through the progressive
+
+development of means of making sounds and hearing varieties of sound.
+
+Perhaps unconsciously she sets patterns for a musical inflection which
+
+the child begins to imitate. To the child, noise is music, and the
+
+discovery of noises and the mastery of various noises play an immensely
+
+rich and important role, even in the highest forms of adult music.
+
+Thus, the recognition and feeling of pleasure in sounds, and the power
+
+to make agreeable sounds, reveal to the child an unfolding musical
+
+world. His whole organism responds to it. This is an element of musical
+
+feeling.
+
+Let me digress for a moment to say that the beginnings of mental life
+
+tend to develop from two fundamental needs: attraction and repulsion,
+
+likes and dislikes, approaching and getting away from--these being
+
+respectively the positive and the negative aspects of adjustment. The
+
+smile is the sign of the positive side. The companion piece of the smile
+
+as a taproot is the frown, which gradually develops through crying and
+
+is the reciprocal of laughter. The history of the frown and crying is
+
+quite parallel to the history of the smile and laughter in mental
+
+evolution and in the development of the individual.
+
+_Music in play._ While it does serve a purpose as language in social
+
+adjustment, the musical activity of the young child is expression for
+
+the love of expression itself. This play aspect early differentiates
+
+itself from the use of sounds to convey meaning in language.
+
+The child composes, rapidly revealing new melodic progressions, new
+
+rhythms, new kinds of sounds, and new patterns in the durations of
+
+sounds for his own delight in self-expression. Through them he wins
+
+manifestations of appreciation from those around him who constitute his
+
+audience. He repeats each new achievement as the momentary goal of play
+
+until new patterns progressively take their place. In these actions of
+
+musical composition, the same mental faculties that we see in the active
+
+adult composers are at work, but limited to the child's natural level of
+
+successful achievement.
+
+He early reveals command of the four elements of all music, as such;
+
+namely, pitch, loudness, time, and kind of tone or tone quality; and we
+
+observe the unfolding of melody, dynamic expression, rhythm, and
+
+richness of tone. Through these he imitates the sounds of nature,
+
+speech, music, and noises at his level in the surroundings. In terms of
+
+these he develops memories, indulges in fantasy and creative
+
+imagination, and gradually begins to think about music. These are the
+
+avenues through which the child expresses his needs and urges vocally or
+
+instrumentally; but they are music in so far as they are indulged in for
+
+the pleasure of the hearing or the making of the sounds themselves.
+
+Note that the child composes by performing; therefore, each musical form
+
+that he develops is clearly at his command in performance. Notice also
+
+that the repetition of achievement is limited by the play attitude of
+
+always demanding something more difficult. Composition, performance,
+
+appreciation, body response form interlocking steps. That is what makes
+
+the procedure natural. The joy of conquest, characteristic of play, is
+
+the dominating motive. Here nature has her way in the development of
+
+knowledge, appreciation, and skills.
+
+Musical activity is normally a form of play, expression for the
+
+satisfaction in the expression itself without ulterior motive, and this
+
+attitude may be carried through life. A person who cannot take a play
+
+attitude toward music perhaps has no music in him. The play attitude
+
+does not free one from effort, even systematic and arduous effort, in
+
+the acquisition of the art. Witness all the sports at all stages of
+
+growth. There is nothing to relieve us from understanding facts involved
+
+in music; but the driving motive is found in the play attitude, and the
+
+result is pleasure in play. On these observations of nature's ways in
+
+play, the future pedagogy of music will be built.
+
+_Environment._ It is astonishing that the child is often treated as
+
+unmusical unless he can sing or play adult compositions or show an
+
+intelligent appreciation of high art forms. How pitiful it is for a
+
+mother to say that her child is not musical because he does not sing her
+
+songs and understand her artistic playing. How vastly could a mother's
+
+appreciation of the child be increased if she realized what constitutes
+
+music at his level and how fundamental the musical reactions at his
+
+level are to the development of music in the adult!
+
+To be musical, the child must be musical in response to his environment.
+
+There are natural laws of evolution in the race and in the development
+
+of the individual for types of reactions to the music that abounds
+
+around us in nature and for the various means at our command of
+
+expression through imitation of them. To the primitive tribe, the drum
+
+is a powerful, thrilling musical instrument. So are all forms of
+
+drumming to the child. He imitates the whistling, tooting, rattling,
+
+banging sounds in his environment, sometimes until he becomes noisily
+
+tiresome. He feels in harmony with the clock that ticks, the birds that
+
+sing, the dog that barks, the cat that mews. He loves to bang on the
+
+piano and blow his horn.
+
+This craving for pleasure in sounds radiates through the sense of rhythm
+
+into graceful movements, the beginnings of dancing and dramatic action,
+
+even from the crudest rhythmic kicking and tapping movements of the
+
+infant. His speech becomes rhythmic, melodic, dynamic, beautiful. His
+
+whole body becomes reverberant in response to the sounds of nature.
+
+Laughter progressively acquires new and beautiful forms. Even crying may
+
+give satisfaction of an artistic sort. The swinging of the pendulum of
+
+the old clock on the wall is music. The patter of rain, the splashing of
+
+water have musical elements.
+
+The child does not think of the artistic forms as does the musician; but
+
+like the canary which, even if grown in isolation in a soundproof cage,
+
+in due time produces his natural tours in repertoire, the child
+
+instinctively comes out in melody, dynamic modulation, and rhythm. But
+
+all these are modified by the environment.
+
+_Music and speech._ Speech has the same media as music; namely, pitch,
+
+loudness, time, and timbre which result in such musical forms as tonal
+
+and dynamic inflection, rhythm, articulation, and vowel quality. A child
+
+is, of course, not conscious of any of these as such, and yet, under
+
+favorable circumstances, will quickly develop beautiful speech, which
+
+means that it is well inflected, well modulated in loudness, beautifully
+
+rhythmic, rich and clear in vowel qualities. If the child has a good
+
+ear, instinctive liking for these aspects of speech will develop
+
+surprisingly early.
+
+To give the child musical environment means therefore not only exposure
+
+to formal music but rather a motivation for hearing musically all sounds
+
+around him, for acting rhythmically, and feeling the rhythmic impulse in
+
+all forms of activity, for responding by imitation or other forms of
+
+appreciation to all sounds beautiful. These acquisitions naturally take
+
+the form of beautiful speech. Musical education in the nursery,
+
+therefore, comes most effectively through informal education toward
+
+beautiful speech.
+
+The child becomes proficient in speech long before he becomes
+
+correspondingly proficient in musical performance and appreciation. It
+
+is therefore very important to recognize that music and speech employ
+
+the same medium; namely, sounds which vary in pitch, loudness, duration,
+
+and kind. The child reveals flexibility, richness, rhythm, and all other
+
+forms of meaningful inflection in speech earlier than he does in music.
+
+Indeed, by the time the child leaves the nursery, even at the age of
+
+five, his characteristic form and command of speech are fairly
+
+crystallized. The command of elements of beautiful speech is the first
+
+step in a beautiful singing voice.
+
+Speech is an index to character, and the means for the development of
+
+character. Beautiful speech is musical speech. Genuinely beautiful
+
+speech is a revelation of beautiful character. Let the mother who
+
+worries about early piano or violin lessons first give thought to formal
+
+sympathetic cultivation of a beautiful speaking voice.
+
+Unfortunately, the child's speech is very largely determined by
+
+imitation of those around him. How few mothers and fathers, how few
+
+teachers, how few older children have beautiful speech! The young child
+
+as a rule, therefore, encounters unfavorable speech environment. The
+
+civilized world is just awakening to the possibilities and significance
+
+of beautiful and effective speech.
+
+Train the young child to the appreciation and development of power in
+
+beautiful and effective speech, and you will have laid the best
+
+foundations for musical appreciation and formal entrance upon musical
+
+training.
+
+_Musical talent._ Children differ in musical talent, both in degree and
+
+in kind. One normal child may be twenty-five, fifty, or one hundred
+
+times as sensitive as another normal child in matters of time, in
+
+matters of pitch, in matters of loudness, and in matters of tone
+
+quality. The normal child may be very high in one of these four musical
+
+traits and low in another. Let me illustrate how these traits may be
+
+observed very early in a very highly musical child.
+
+Playing with a little girl eleven months old, I noticed that she
+
+responded to the music over the radio. I put a simple two-step on the
+
+victrola, and she marked the time correctly by a free sympathetic
+
+swinging of the arms. I changed this to waltz time, and she picked up
+
+the rhythm. As she could not yet stand on her feet, I held her on all
+
+fours, and then she shimmied with her trunk. Was that child musical? I
+
+could give one positive answer. She had a splendid sense of rhythm and
+
+urge for rhythmic action. As I watched her in succeeding years, she very
+
+early developed original dances, and at the age of four gave delight in
+
+original "shawl dances." Her speech very early was beautifully
+
+inflected. Her speech was also very early characterized by fine and
+
+meaningful modulations in loudness for emphasis and meaning. She gave
+
+early evidence of power to imitate different sounds.
+
+Of course, the less musical a child is by nature, the more difficult it
+
+is to find early evidences of this sort. We do not need measuring
+
+instruments so much as we need training of teachers and parents to an
+
+understanding of what constitutes musical capacities so that we can
+
+observe the child critically in his early natural responses. By the age
+
+of eight or ten these specific capacities will become more conspicuous,
+
+and at that age the competent psychologist in music can analyze and
+
+measure talents reliably.
+
+_Musical education._ When and how should musical education begin? It
+
+should begin in the earliest infancy by giving the child a musical
+
+environment suitable to elicit his response. This means not simply the
+
+hearing of formal music, but, far more significantly, a sympathetic
+
+response to the child's natural vocal expressions at each level, even to
+
+the making of sounds of all kinds.
+
+The child from the first needs a sympathetic audience. It is not so much
+
+how beautifully the mother sings as how sympathetically she responds to
+
+the beginning croonings of the infant; and this sympathetic enjoyment
+
+includes recognition and encouragement for the hearing of all sounds
+
+around, whether animate or inanimate. The mother's first task is to be a
+
+good listener.
+
+The first elements of formal musical training should be devoted to
+
+speech. Ideally this would come most effectively through the child's
+
+opportunity for hearing and imitating the beautiful sounds and speech of
+
+those around him. Even if the mother and other associates cannot set the
+
+model for the child, they can do a great deal to further musical
+
+development by showing their appreciation of the instinctive
+
+outcroppings of the musical qualities of the child's speech.
+
+During the first six years there should be no formal musical
+
+instruction; but, by the end of that period, the musical child should
+
+have gradually acquired a sense of appreciation for musical sounds,
+
+pleasure in self-expression in musical intonations, confidence in his
+
+ability to compose a tune, some proficiency in singing and good speech,
+
+and some degree of satisfaction in free playing with an instrument.
+
+The principles here developed for early childhood have profound
+
+implications for later musical education. Let the emphasis lie upon the
+
+broadness of the meaning of music to the child, upon the child's
+
+learning by doing, at his natural level of successful achievement, and
+
+upon the utilization of natural motivation in place of formal
+
+instruction.
+
+                           THOUGHT REVIEW[C]
+
+                           General Principles
+
+ (1)  Musical activity is always a form of play.
+
+ (2)  To be musical the child must be musical in response to his
+
+      environment.
+
+ (3)  To the child noise is musical.
+
+ (4)  Musical education for the preschool child comes most effectively
+
+      through formal education toward beautiful speech.
+
+ (5)  Musical education should begin in infancy by giving the child a
+
+      musical environment suitable to elicit his response.
+
+      Do the above statements by the author modify your own theories in
+
+      regard to the musical education of your children?
+
+                         Questions to Consider
+
+ (1)  What may we be doing when we say to our husky two-year-old, "Oh,
+
+      Johnny, don't make so much noise?"
+
+ (2)  Why is it that children so quickly lose their lovely childish
+
+      intonations and inflections?
+
+ (3)  How does Doctor Seashore endeavor to help us recognize music in
+
+      our children?
+
+ (4)  In our efforts to develop musical ability and response in the
+
+      child, what errors do we, as adults, commit?
+
+ (5)  Is it ever too late for adults to cultivate a beautiful speaking
+
+      voice?
+
+ (6)  Do you agree with Doctor Seashore that "genuinely beautiful speech
+
+      is a revelation of beautiful character"?
+
+ (7)  What methods are you using with your young child to elicit musical
+
+      responses? Are they in accord with Doctor Seashore's advice?
+
+ (8)  Do you think that the radio is helping to encourage musical
+
+      speech?
+
+ (9)  What practical steps can the adults in the family take toward
+
+      improving their own influence upon the child's musical
+
+      development?
+
+                     Discuss These True Situations
+
+ (1)  I listened to the droning voice of a mother reading to her small
+
+      son. Would it be better for the mother to tell the story with
+
+      animation?
+
+ (2)  Mrs. Brown is what is termed "high-strung." She has much to do
+
+      with household duties. Her three toddlers ask many questions, over
+
+      and over again. She finds herself speaking louder and louder with
+
+      each repetition. What would you suggest? (In a similar situation a
+
+      five-year-old said, "Mother, why don't you relax a little?" C. E.
+
+      S.)
+
+ (3)  In the Black household the radio is on continuously. Is this
+
+      helping the musical education of the older and younger children?
+
+ (4)  "I simply can't get Johnny to practice his music lessons unless I
+
+      sit down with him and make him do it," says Mrs. Young, who voices
+
+      the complaint of many ambitious parents. What would Doctor
+
+      Seashore say?
+
+ (5)  A mother, musically talented, said to me, "I simply can't help my
+
+      children at all with their music. I get frantically impatient with
+
+      them."
+
+ (6)  In a crowded railroad station I was admiring a lovely looking
+
+      woman who held an equally lovely looking child by the hand. Then
+
+      she spoke to the woman sitting next to me and it was with great
+
+      effort I kept a look of consternation from appearing on my face.
+
+      Her voice was harsh, metallic, unmodulated. Is it possible for her
+
+      to help herself?
+
+-----
+
+Footnote C:
+
+  This outline was prepared by May E. Peabody, Supervisor, when it
+
+  appeared in _Parents' Magazine_. It seemed to me so stimulating for
+
+  thought about the reading that I have adopted this general plan for
+
+  all the chapters in this volume. C. E. S.
+
+                              Chapter III
+
+                 MUSIC BETWEEN THE AGES OF SIX AND TEN
+
+The question "_When_ should music education begin?" is now coming to be
+
+"_How_ should music education begin?"; because we now recognize that
+
+music should play a large role in the first five years of child life.
+
+Soon after six the child enters school. Here the principles of
+
+educational psychology, now so effectively applied to other primary and
+
+elementary school subjects, have revolutionized the presentation of
+
+music. This has of course been favored by the recognition of music on
+
+the level of the three R's. Music has come to function in the school not
+
+only as something to be learned but primarily as something to be lived.
+
+Primary teachers are, or will be, trained specifically for this subject.
+
+The old conflict between enthusiasts for rote singing, on the one hand,
+
+and for technical sight reading, on the other, is vanishing. The
+
+approach to music is following new avenues involving diversified action,
+
+creative imagination and thinking in music, recognition of individual
+
+differences, freedom for individual expression of musical feeling,
+
+opportunity for sampling various avenues of choice in expression, the
+
+association of music with play, dance, and dramatic action, opportunity
+
+for hearing music at the child's level, avoidance of the fostering of a
+
+narrow precocity, and recognition that there is music everywhere--in
+
+speech, in play, in nature.
+
+Parents who now aim to provide private lessons for formal training in
+
+some aspect of music must lay their plans in the light of all these
+
+facts which have come into view so strikingly in the school. They must
+
+understand and evaluate the significance of this movement in the school,
+
+the new status of music, the new role of private instruction in music,
+
+and the availability of a private teacher who can dovetail with these
+
+new facilities and responsibilities. In the hope of giving some helpful
+
+suggestions in regard to this planning, I wish to present some
+
+psychological considerations which are, at the present time,
+
+reconstructing the theory and practice of private lessons in music at
+
+this age.
+
+_A broadened conception of music._ In Chapter II I pointed out that
+
+children coming out of a favorable music situation in the home, the
+
+preschool, the kindergarten, and other school and playground activities
+
+have attained rather astonishing achievement. Let me repeat, for
+
+emphasis:
+
+    "During the first six years there should be no formal musical
+
+    instruction; but by the end of that period, the musical child should
+
+    have gradually acquired a sense of appreciation for musical sounds,
+
+    pleasure in self-expression in musical intonations, confidence in
+
+    his ability to compose a tune, some proficiency in singing and good
+
+    speech, and some degree of satisfaction in free playing with an
+
+    instrument."
+
+This achievement now accomplished in many preschool communities presents
+
+a challenge to the primary teacher and the supervisor of music in the
+
+public schools. And, where pupils come without such preparation or
+
+background, they must begin from scratch and offer a substitute for it
+
+in more concentrated form.
+
+Private lessons should be built upon this background and designed to
+
+carry this type of program forward during the next four years with
+
+progressive enrichment of opportunities on the basis of talent thus
+
+revealed and with these types of activity as a goal in the beginnings of
+
+formal training.
+
+This point of view turns a large part of the job of the private music
+
+teacher over to the primary school where it is favorably developed;
+
+because only in the group activity and in the avocational attitude with
+
+the avocational atmosphere under technically qualified teachers can this
+
+program of musical education find its best fruitage for children in
+
+general. The private teacher is falling from her high pedestal of the
+
+power to cast the child's musical mind in the pattern of her own image
+
+within a limited musical skill at this age. On the other hand, the ideal
+
+of the school situation which I have pictured will play happily into her
+
+hands by furnishing a background for a systematic study of voice or a
+
+particular instrument.
+
+In this procedure, the child's interest may well concentrate around a
+
+single instrument. Furthermore, we are just awakening to the fact that
+
+voice development should begin in this period. New techniques for the
+
+development of a beautiful voice are coming in, and are adapted to this
+
+age. They should play an important role in this orientation period, and
+
+the child's interest may concentrate around this, as well as around an
+
+instrument, especially through the association of artistic forms of
+
+speech with song.
+
+_The analysis of talent._ Music educators are coming now to a
+
+recognition of the principle that musical education, public and private,
+
+should be given in proportion to the possession of natural talent and in
+
+the direction for which the most favorable indication is found on the
+
+ground of specific talents. Such talents reveal themselves through the
+
+daily activities of the schoolroom, where the alert teacher understands
+
+their significance and directs them wisely. There are certain basic
+
+abilities which are favorable to a musical life. Some of these can be
+
+measured accurately with the _Seashore Measures of Musical Talents_ in a
+
+revised edition now available through the RCA Victor agencies. They are
+
+concerned with the senses of pitch, loudness, time, timbre, and rhythm,
+
+together with tonal memory. These may be given individually to children
+
+between the ages of six and ten if administered with good judgment and
+
+the child is not required to write the answers. However, if the teacher
+
+is trained in the musical analysis of talent and the critical
+
+observation of children's behavior, inceptive achievement, and interests
+
+in the musical situation, it is possible to proceed without instruments,
+
+since the teacher will know what to listen for and will be competent to
+
+observe with sufficient accuracy for the purpose in hand. After the
+
+fourth grade, "measures of talents" may be given either as individual or
+
+as group tests. They may furnish a key to the most natural development
+
+of musical type; such as, the tonal, the dynamic, the temporal, or the
+
+balanced types, on the basis of degree of responsiveness to each of
+
+these factors as well as on other specific adaptations for voice or
+
+instrument. The teacher who has such concrete facts in hand will observe
+
+and plan the child's development more critically. Every private teacher
+
+should have a conception of the significance of individual differences
+
+in talent, and might well utilize measurements of this kind in the
+
+studio. The progressive private teacher should also be able to serve
+
+parents in an advisory capacity on such matters.
+
+It is not necessary that the teacher should be an expert in testing; but
+
+it is essential that she should understand the nature of musical talents
+
+and have the sort of insight into child life which has been developed so
+
+splendidly in recent scientific studies of child behavior, especially
+
+with reference to the recognition of natural abilities, the early
+
+fostering of these, the devising of effective motivation, the awarding
+
+of praise and blame, and the setting up of standards of achievement
+
+recognizable by the child. It is, furthermore, reasonable to demand that
+
+the teacher herself should present a good voice in song and speech, have
+
+some proficiency and ingenuity in the manipulation of simple
+
+instruments, and feel deeply the love of music.
+
+_Group instruction._ The old-fashioned piano lesson was at fault in
+
+various respects. First, time was taken to tell the pupils,
+
+individually, the elements of musical notation; second, the main
+
+function seemed to be to make the pupil "get" his lesson; and third, the
+
+child was expected to acquire a love of music through the technical
+
+approach. These things are now changing. The pupil now coming from the
+
+respectable primary school already has acquired the elements of sight
+
+reading, both from ear to eye and eye to ear. Any new element in
+
+notation can certainly be picked up incidentally as needed, without
+
+waste of time. The position of the teacher as a taskmaster is also
+
+disappearing. True, that eliminates many a pupil, but probably without
+
+much loss to the musical life of the community. The child comes to the
+
+private teacher already motivated with a feeling and urge for music.
+
+Musical achievement is no longer counted in terms of the number of
+
+lessons taken.
+
+The function of the teacher is far more to motivate than to teach. The
+
+thing that counts is how long and faithfully the pupil works to acquire
+
+the proficiency which can only come through practice. What can be taught
+
+in one lesson should suffice for several times as much practice as is
+
+ordinarily expected. Better than having the teacher crack the whip for
+
+many periods would be to give the time available for lessons to the
+
+pupil for practice and use more remunerative rewards, even a percentage
+
+of the teacher's fee, to encourage self-help in a larger assignment
+
+through adequate practice.
+
+One of the significant advancements in private instruction for children
+
+of this age lies in the direction of class or group instruction. No
+
+effort is made to force all children into the same cast. Small groups
+
+are formed on the pattern of chamber music, taking children of matched
+
+abilities and interests and using music progressively adapted to their
+
+level. Many forms of class instruction have failed on the ground of the
+
+teacher's inability to use informal procedures in some form of project
+
+method. Duets, trios, quartets, all in the competitive and play mood,
+
+can accomplish great things, even with the youngest children. Few
+
+private teachers have awakened to a realization of the fine
+
+possibilities in that approach. This method is especially adapted to
+
+primary instruction in private music schools in which there are enough
+
+pupils to make competitive promotions from group to group. Most of the
+
+musical information and the motivated drill can be accomplished through
+
+the group. The recognition of this principle may lead to the development
+
+of extracurricular and private organizations under an inspiring teacher
+
+or group of teachers for private instruction.
+
+_Formal lessons delayed._ The principal point I wish to stress is that
+
+musical education should not begin with formal lessons on one
+
+instrument. Except in the case of rarely-gifted children, such
+
+specialized instruction should come naturally after the general musical
+
+interests have been awakened and the natural abilities have been
+
+revealed. Technical private lessons for children in general should
+
+therefore be begun considerably later than has been customary. In this
+
+there is a threefold saving: First, except in rare cases, rigid
+
+technique of instruction can be responded to much more economically
+
+after the age of eight or ten than before. A ten-year-old will acquire
+
+more than twice as much in a single lesson as a six-year-old. This will
+
+apply even to the much "touted" necessity for early finger development.
+
+Second, during this period the child should have the freedom to try
+
+himself out spontaneously with diversified encouragement in the
+
+development of specific interests; and third, it will take the aspect of
+
+drudgery away from the music lesson. To these may be added the fact that
+
+this liberal procedure helps to give the child a feeling that he is
+
+living music rather than learning it. It involves the play attitude in
+
+the acquisition of an art. The attitude of feeling the necessity for
+
+hard work, which is a very real necessity in music, can best be
+
+cultivated formally after the age of eight or ten.
+
+_A sympathetic listener._ Although circumstances may alter cases,
+
+facility in piano playing might well be regarded as a foundation work in
+
+the approach to other instruments. The child's preference for a
+
+particular instrument is generally childish and will change in the
+
+normal course of development. An analysis of case histories would make
+
+an interesting study on this point. The development of skills in a
+
+particular instrument should always be accompanied by opportunities for
+
+sharing the pleasure in this skill with other children and the presence
+
+of a sympathetic listener in the teacher and the parents. What the child
+
+of the primary-school age needs is more a sympathetic and critical
+
+listener than a task-driver. This type of approach will discredit the
+
+now so prevalent artificial ways of symbolizing music by attempting to
+
+force the teacher's affected and stilted imagery upon the child's
+
+musical mind, which may run naturally in much more effective channels.
+
+It is a notable fact that the great musicians who emerged as very
+
+precocious made their early and distinctive progress far more through
+
+freedom for self-expression than through instruction from the masters.
+
+In brief, the private lesson to the child should pattern, at the child's
+
+age level, after the procedure followed in adult instruction in music at
+
+its best; namely, that of sympathetic and inspiring criticism and
+
+guidance rather than the dealing out of predigested pellets of
+
+interpretation and technique. The general attitude to be cultivated in
+
+the child should therefore be freedom for self-expression rather than
+
+mere willingness to absorb set tasks. In this attitude the problem of
+
+scales, exercises, and calisthenic techniques will come in the natural
+
+course of events without being forced.
+
+_Music lovers vs. virtuosi._ One of the first essential steps in
+
+training at this level is to educate the mother to the notion that only
+
+in very rare cases will the child become a virtuoso or a professional
+
+musician, and that she has no right to pose as an exhibitioner. The
+
+normal child is richly endowed with powers for diversified development.
+
+By too early emphasis upon a "gift" it is possible to produce
+
+monstrosities and pathological temperament. True, a gifted child
+
+beginning, for example, by taking lessons at five and being effectively
+
+motivated, may produce extraordinary results before ten, but generally
+
+at the expense of a normal development of the child as a person. An
+
+ill-guided enthusiast can make of the bright normal child a mathematical
+
+freak or a contortionist before the age of ten; but who wants that for
+
+the welfare of the child? It is a form of human sacrifice. The time for
+
+intensive specialization should normally come after the age of ten.
+
+Parents and teachers should shun the development of precocity as they
+
+shun disease. Indeed, in ninety cases out of a hundred, excessive
+
+precocity is a form of disease, a distortion of the normal personality.
+
+The goal in musical education in this period should be to recognize
+
+individual differences, natural capacities, and native interests and
+
+urges in their natural stages for the development of a well-rounded
+
+personality. We have long since abandoned the notion that every girl
+
+should play the piano. What we need to learn now is that we should not
+
+allow the musically-gifted child to die with all the music in him, and
+
+that the musically gifted should not be exploited. The middle ground is
+
+that all children who have musical ability should learn to love music
+
+and live it naturally, each according to his ability.
+
+                             THOUGHT REVIEW
+
+                           General Principles
+
+ (1)  Music should function early in the life of the child.
+
+ (2)  The primary grades should constitute a period of orientation.
+
+ (3)  By the end of this period talent should have been discovered and
+
+      analyzed.
+
+ (4)  Voice training should be given a permanent place in all the grades
+
+      for both boys and girls.
+
+ (5)  Music is a skill which should be learned and lived rather than be
+
+      taught.
+
+ (6)  Wise motivation should replace much teaching.
+
+ (7)  Nomenclature, sight reading, and musical information should be
+
+      taught in classes, not by individual instruction.
+
+ (8)  The principle of rivalry should be encouraged.
+
+ (9)  For most children formal music lessons may be begun most
+
+      effectively about the age of ten.
+
+ (10) Forced precocity and exhibitionism should be discouraged.
+
+                         Questions to Consider
+
+ (1)  Why is development of the love of music the principal objective at
+
+      this age?
+
+ (2)  What voice training, aside from rote singing and speech, should be
+
+      offered in the grades?
+
+ (3)  Should the piano be favored as the first instrument?
+
+ (4)  Is it possible to have a primary-grade "orchestra"?
+
+ (5)  What is the function of achievement tests in music at this age?
+
+ (6)  What factors have been most effective in putting love of music
+
+      into the public schools?
+
+ (7)  How can progress in music be enhanced by children's opportunities
+
+      for performing among themselves?
+
+ (8)  Should any children be excused from participation in musical
+
+      instruction offered in the primary grades?
+
+                        Discuss These Situations
+
+ (1)  Here is a gifted young woman, well trained in music and in
+
+      psychological and educational methods, zealously devoted to her
+
+      art, who desires to establish a career as a private music teacher
+
+      for children. Characterize her procedure in contrast to the
+
+      procedure of her professional forbears.
+
+ (2)  Here is a young man or woman, similarly gifted, and well
+
+      trained and critical. What pitfalls of prevalent tendencies in
+
+      public-school music of today should he or she avoid?
+
+                               Chapter IV
+
+                            MUSIC AND YOUTH
+
+There is a distinctively musical period in life: the period of youth.
+
+Youth is the age of emotional response and of social awakening, the age
+
+of serious play, the age of decision and elimination, the dominant
+
+learning period, and the age of freedom and leisure. Before this period
+
+the life of the child has been relatively tranquil. After this period
+
+the occupational affairs of life are more exacting. Before this period
+
+most children participate in music in a routine way without professing
+
+it. After this period large numbers of those who have had training or
+
+have expressed their enthusiasms in rich participation in the musical
+
+life cool off, as it were, and continue their musical activities in a
+
+more or less perfunctory way, except for the few who have taken up the
+
+art professionally or continue as enthusiastic amateurs.
+
+                        YOUTH, THE AGE OF MUSIC
+
+_The emotional age._ For the present purpose we may think of youth as
+
+represented by the age of the teens, usually beginning in the high
+
+school. It is a brief period of storm and stress, emotional awakening
+
+and emotional struggles, in which the various emotional drives, more or
+
+less latent before, assert themselves, often to cool off or to be
+
+attenuated in later life. The older psychologists spoke of it as a
+
+period of rebirth, the passing from the period of protected and directed
+
+life into the emergence of a self-asserting personality. At the time of
+
+this awakening, life is largely emotional; it is the period of ardent
+
+love, of social awakening, of sports and play of all kinds, of fortes
+
+and faults, of artistic efforts, of devotion to ideals, of awakening and
+
+emergence of controlled imagination, of the development of the great
+
+enthusiasms for life. Poetry, conversation, dancing, heroic stunts,
+
+emotional adventures of all kinds have their fling. This emotional
+
+tendency finds its expression in the language of emotion, of which music
+
+is one.
+
+_The age of serious play._ Youth is the age of serious play. Before this
+
+period the child has spontaneously played much and hard enough, but now
+
+youth enters into specialized sports, finds a play outlet in one or more
+
+of the arts, and with the play attitude takes up serious roles in social
+
+responsibilities. All these are comparatively new and are, therefore,
+
+entered on with fresh enthusiasm. Emotion has a way of burning itself
+
+up. Toward the end of the college course, youth, having had its fling,
+
+feels fed up on sports and after that may not even sit on the bleachers
+
+or the side lines. The same is true of many of the artistic outlets.
+
+When youth comes of age, the ventures into poetry, music, dramatics, and
+
+various other forms of art cool off for the majority. This loss of
+
+interest is especially noticeable in the social activities, in which the
+
+vocal arts, the dance, and other instruments of wooing play so large a
+
+role. It should, however, be said that the better our education, home
+
+life, and vocational activities are organized for right living, the less
+
+is the break at the beginning of this period of youth, as well as at the
+
+end.
+
+_The age of decision and eliminations._ The persons exceptionally gifted
+
+in music are precocious in that their artistic awakening comes earlier,
+
+and yet the real assertion and the serious functioning of their musical
+
+inspirations appear most characteristically and pass through their
+
+crucial period in the teens, after which large numbers of those who have
+
+gone through the fire of struggle for survival and mastery pass out of
+
+the picture.
+
+_The educational age._ Youth is the dominant educational period. Those
+
+who in this period qualify for higher education can and should continue
+
+their studies with organized effort and with confidence in success; but,
+
+on account of the American popular demand for higher and higher
+
+education, many of those who should be eliminated during this period
+
+float on, ill-motivated, ill-directed, floundering through college or
+
+professional education without regard to the worth-whileness of the
+
+procedure. Unfortunately American education has not made adequate
+
+provision for the diversifying of training, especially in the practical
+
+outlets at this age.
+
+This educational dominance of the period of the teens is particularly
+
+true for music. Unfortunately, large numbers of youth naturally endowed
+
+with the power of enjoying music have not even been discovered up to
+
+this time, either by themselves or by others, and they may pass through
+
+this last stage of opportunity without being discovered and often
+
+without realizing what they are missing. At this age the prospective
+
+musician will begin to try himself out, will discover the necessity for
+
+untiring and well-directed work, will concentrate in the field of his
+
+most natural musical outlet, and will work hard in the face of the
+
+imminence of the decision as to success or failure in his own judgment,
+
+in the judgment of his teachers, and in the judgment of his companions
+
+and public. If successful here, he may continue his musical education in
+
+specialization, since music is essentially a body of skills. At the same
+
+time he may show a due regard for the necessity of a broadening
+
+education under larger horizons. Fortunate are they who follow these
+
+sound procedures.
+
+However, many students overlook the fact that, if their music is to be
+
+an avocation, it is to be pursued merely for the pleasure inherent in
+
+it. They may struggle along simply because they have had initial
+
+training in this field, but without adequate motivation or anticipation
+
+of significant results. Achievement in music is an artistic performance,
+
+and we should not add recklessly to the large group in society who feel
+
+that their early efforts were wasted and who have to go through life
+
+apologizing for their failure or mediocrity in the artistic sense. At
+
+the same time we must bear in mind that satisfaction in musical
+
+performance for the great majority of persons comes from the pursuit of
+
+the cruder forms of music, especially singing. Group singing, ordinary
+
+piano accompaniment for singing, dance music, and ragtime of all sorts
+
+should not be discouraged in so far as they form a natural outlet for
+
+those who pursue them. After all, "high-brow" music plays a very small
+
+vital role even in high society.
+
+Unfortunately, as in academic subjects, the real elimination of the
+
+unfit is not accomplished effectively, and there are masses of music
+
+students dribbling along with at best a low mediocrity as the
+
+destination in sight. Since music, to be of service in later life, must
+
+be either professional or eminently satisfying as an avocation after
+
+advanced work in the subject, the necessity of making discriminating and
+
+wise eliminations before a youth is of age cannot be stressed too
+
+strongly. A wise selection and guidance at this stage should, however,
+
+in no way discourage those who get a genuine satisfaction out of music
+
+and are wisely motivated, especially for the keeping of an avocational
+
+interest alive with a modest degree of attainment.
+
+We must face the fact that most of those who are highly gifted in music
+
+and are deeply devoted to it will not enter the profession of music and
+
+may be engaged in such exacting occupations as to limit the time that
+
+they can devote, avocationally, to their favorite art. Yet of all the
+
+lovers of music, these are perhaps the ones who get the greatest
+
+enjoyment out of music and contribute most happily to the musical life
+
+of the community.
+
+It is not sufficient to get children started in musical education. They
+
+must also be motivated and given the outlets for self-expression which
+
+tend to have lasting value in their lives. A drab picture is drawn by
+
+comparing the number of those who, through high school, have had the
+
+privilege of good training with the number of those in the best social
+
+groups of our cities today who actually contribute, and take pleasure in
+
+contributing, to the musical life of the community and to their own
+
+personal moments of leisure. Here is a challenge to adult education: a
+
+challenge to find and encourage self-expression in music in adult life.
+
+Nevertheless, a strong argument can be made for musical education even
+
+if it functions only during the period of adolescence.
+
+_The age of leisure._ Youth is, in a sense, the age of leisure. We think
+
+of a gentleman of leisure as a person who, by virtue of his being a
+
+gentleman, is active in pursuits which are not necessary for the earning
+
+of his bread and butter. If he is not active, he is not a gentleman. If
+
+his activity does not add to a genuine enrichment of his own life and
+
+the life of the community, he is not a gentleman. If he does not know
+
+how to play, he is not a gentleman. The same ideas apply in principle to
+
+the concept of a lady of leisure. The adolescent youth has many of the
+
+characteristics and the opportunities of a gentleman of leisure. These
+
+opportunities do not mean an easy life, but a life characterized
+
+especially by the freedom to do just the things that he likes to do.
+
+These opportunities include, for many happily adjusted personalities,
+
+the development of the art of loafing: the substitution for mere
+
+sitting, for mere gossiping, for mere eating and drinking, and for
+
+degrading pastimes, an active life of restful, satisfying, wholesome
+
+self-expression in the play attitude.
+
+The high-school or beginning college student is not, as a rule, working
+
+for a livelihood, is not held down to the specific demands of a trade, a
+
+business, or a profession. He is in a period of preliminary skirmishes,
+
+and the public school programs provide liberally for these. He may spend
+
+his leisure time in the strenuous work of athletics or of any
+
+intellectual, artistic, or social pursuit lying outside the demands of
+
+the curriculum; he has time for such excursions.
+
+One of the happiest ways of spending his leisure time may be in the
+
+enthusiastic pursuit of musical activities. When he gets into college,
+
+these opportunities are more restricted; when he gets into his job, they
+
+are still more limited. Whatever the line of pursuit, these
+
+extracurricular activities are indulged in as a form of play. Nobody,
+
+however, can express in play all his intellectual, artistic, and social
+
+dreams or urges. Therefore the gentleman of leisure in the high school
+
+is forced to make a selection, and, in doing so, he rightly follows his
+
+natural bent of mind. If he casts his lot with music, he will train
+
+hard, and have the social satisfaction of supporting his musical group.
+
+Music becomes a game, involving contests with defeats and victories. It
+
+becomes a topic for conversation in social leisure. While the
+
+high-school program and the junior-college program do not emphasize
+
+rigorous technical training as a part of the academic curriculum, the
+
+majority of students get their musical satisfaction from the way in
+
+which they utilize their leisure for music. It is significant that at
+
+this age the stress is not on the hearing of music but rather on
+
+participation in musical performance. This period is the age of action,
+
+perhaps the best type of preparation for the listening stage since it
+
+follows the educational principle of learning by doing.
+
+                            MUSIC FOR YOUTH
+
+During the present century most extraordinary progress has been made in
+
+the provision of musical facilities for youth by the recognition of
+
+music as an academic subject, by the early and vital training in the
+
+grades, by the development of group activities in voice and instrument
+
+as a dominant extracurricular activity, by the motivation of training
+
+through opportunities for public performance and contest, and by the
+
+popularization of music through phonograph and radio.
+
+Up to the end of the past century youth had had no significant
+
+opportunities for music in the scheme of things. Music had to come
+
+through the taking of private lessons, often a drudgery without regard
+
+to likes or dislikes. The approach was purely technical. The mastery of
+
+the scales, though technically significant, was not inspiring to the
+
+emergent musical mind and did not reveal the vast vistas of opportunity
+
+for self-expression in music. Music lessons were limited to those who
+
+could afford to pay for them. Few people had heard any good music. It
+
+had no significant status in the program of public education. Youth had
+
+no chance. _Music for youth has been discovered in the past forty
+
+years._
+
+_Music, an academic subject._ When music gained recognition on a par
+
+with the three R's in primary and elementary education, America entered
+
+on a new era. National music organizations of teachers developed. These
+
+began with the slogan, "Music for every child at public expense."
+
+Realizing the futility of making every child musical, they modified this
+
+slogan to, "Music at public expense for every child in proportion to his
+
+natural ability." The market was flooded with educational music books
+
+and systems. Time for musical training was set aside in the regular
+
+curriculum of the schools. It was recognized that only a person who has
+
+musical ability and training can teach music effectively. Scientific
+
+principles from other subjects were adopted. Specialized training for
+
+musical supervisors was provided in teachers' colleges. Teaching was
+
+improved. Groups of children were segregated into vocal and instrumental
+
+organizations, both for curricular and extracurricular activities.
+
+Instruments were furnished at public expense. Credit for music gained
+
+current coinage on a par with history and chemistry. The introduction of
+
+principles of educational psychology led to selective admission and
+
+elimination and gave the teachers a basis for the administration of
+
+praise or blame in achievement. Few public school subjects can point to
+
+a similar epoch-making stride. These achievements today give youth a
+
+chance in music.
+
+_Orientation in the grades._ For the musical life of youth at and soon
+
+after the high-school age, the training in the grades was most
+
+significant, and that, in turn, was rooted in a national awakening to
+
+the possibilities and the responsibilities of music in the earliest
+
+years in the home and the kindergarten. This awakening was strengthened
+
+by the recognition given art in general. Music early became associated
+
+with the speech arts, the dance, and other games. The development in the
+
+graphic and the plastic arts, though slow, was somewhat parallel with
+
+music for these early years. In the eight years in the grades there
+
+developed a process of selective opportunities for the pursuit of music
+
+so that freshmen entered the high school as a group fairly
+
+differentiated on the basis of abilities, opportunities, likes and
+
+dislikes, and ambitions for music.
+
+This differentiation had a twofold effect on the high school: First, the
+
+elimination of pupils who, on various legitimate grounds, did not
+
+qualify for musical training at public expense at this stage and,
+
+second, the beginning of specialization for those who had previously
+
+found themselves or who at this stage made a happy decision. Thus the
+
+development of music in the high school has followed logically on the
+
+early development of music in the grades, and in like manner the
+
+development of music at the college level is now beginning to follow the
+
+development of music in the high school.
+
+_Group activities in voice and instrument._ Youth is the age of learning
+
+by doing. This principle has been implemented in high-school education
+
+by the development of group activities, both in theoretical and in
+
+practical music, both in the curricular and in the extracurricular
+
+activities. Throughout, the emphasis has been on action. Instruments are
+
+supplied at public expense; opportunities are given for participation in
+
+programs of entertainment; and a stimulus has been climaxed by the
+
+introduction of local, state, and national contests for groups and for
+
+individuals.
+
+The adoption of the principle of group instruction at this level has had
+
+many significant advantages. It draws large numbers of pupils into group
+
+activities for the social value of the activity in itself and for the
+
+social value of participation in public life. It has lessened the cost
+
+of musical education many times over by training ten or a hundred pupils
+
+in a group as effectively, in many respects, as they could be trained by
+
+individual instruction. Group instruction has, perhaps, been the
+
+strongest leverage for the motivation of musical pursuits in the school.
+
+It has increased the pursuit of individual instruction on the basis of
+
+discovered needs, for example, in the mastery of a particular instrument
+
+for participation in the band or orchestra or in the development of a
+
+voice discovered in the group. The individual instruction has thus been
+
+motivated and made to fit into particular niches in the musical groups
+
+or in the choice of vocational pursuits in society.
+
+_Contests._ The development of contests both in individual and in group
+
+performance has had a profound effect on the development of music in
+
+youth and is destined to serve in large part as a clearinghouse.
+
+Educators recognize many drawbacks in the plan of contests. Preparation
+
+for the contests requires excessive time and highly trained teachers. A
+
+contest becomes an occasion for the revelation and the objectifying of
+
+differences in individuals and groups. It involves some little expense.
+
+It tends to discourage the pupils who cannot qualify.
+
+But let us look at the other side. In the state of Iowa, for example,
+
+the state-wide contests, which have been conducted for about the past
+
+ten years, have done far more than anything else to vitalize music
+
+education in the high school. Four years ago I became acquainted with a
+
+group of ten girls who came from a little town three hundred miles away.
+
+They had not placed in the contest; they had had no chance. I supposed
+
+that this contest would be the last that we should see of them, but the
+
+next year they appeared in a body--happy and optimistic, in a fighting
+
+mood--and won honors. I asked how they accounted for their success, and
+
+they said, "When we got home and reported that we had had no chance in
+
+the state contest, the commercial club of our town raised a purse and
+
+employed a teacher to come into the high school and train us in music."
+
+When the commercial club goes into its pockets in the interest of
+
+putting music on the map in its community, music is beginning to
+
+function in that community.
+
+Nobody cares to tune a fiddle for four years; but, if he has the
+
+opportunity to play a tune, he will gladly keep the fiddle tuned. This
+
+fact has been shown on a large scale as a result of the contest plans.
+
+Not only have the final local, district, and state contests become
+
+goals, but every daily practice has gained an objective and is a topic
+
+for social conversation. The contests have made each participant
+
+critical of his own performance and the performance of the group and
+
+have also made each ambitious for improvement. They have raised
+
+standards of selection in musical material. They have resulted in the
+
+giving of higher musical education to large numbers of gifted persons
+
+whose talents would not otherwise have come to the serious attention of
+
+parents or educational interests. The methods of judging these contests
+
+have been greatly improved in the direction of offering encouragement
+
+where encouragement is due without discouraging more modest attainments
+
+where they are indicated.
+
+Educators used to think that football was the only thing that would
+
+arouse enthusiastic support in the field of avocational activities for
+
+youth; but, as I have witnessed the attitude of high-school pupils in
+
+training for musical contests, heard reports of the attitudes of the
+
+parents and the backers, and watched the culmination of enthusiasm at
+
+the annual contest, I can say that there can be, for youth, as
+
+substantial enthusiasm in contests of music as there is in football. In
+
+other words, the youth of the state have entered into music in the
+
+spirit of play, with determination to train well, play hard, and win if
+
+possible. Enthusiasms for a center of interest in public and in private
+
+have been found in this music.
+
+_The hearing of music._ Within the past forty years, also, America has
+
+for the first time begun to hear music, good, bad, and indifferent. When
+
+the first phonograph came to our city, the host at an evening reception
+
+furnished music in a mysterious way. He had installed the phonograph in
+
+a niche curtained off in the hallway so that the direction from which
+
+the sound emerged was difficult to detect. He played three or four songs
+
+by a male quartet, which were richly applauded by his audience on the
+
+supposition that he had stationed a male quartet somewhere in the house.
+
+Music had come into the social group in a mysterious way.
+
+Throughout the foregoing discussion I have stressed musical performance
+
+because action is the way of youth, the way of education, and the way of
+
+any preparation for the listening mood and critical attitude. The
+
+development of the opportunities for listening has, of course, been
+
+unparalleled in the history of the world. The masses are given the
+
+opportunity of hearing good music. Many have taken the attitude of
+
+sneering at the music offered by phonograph and radio on the grounds of
+
+quality of rendition and of choice of type; but it is safe to say that
+
+what is offered is what people want, and there is some basis for saying
+
+that to a great extent what people really want is what is good for them.
+
+On the other hand, the furnishing of music at all levels has
+
+unquestionably had the marked effect of raising the American level of
+
+musical appreciation step by step. People can be educated to listen, and
+
+in a marvelous way the radio has really taught people to listen. You
+
+cannot learn to swim without going near the water. Radio has had the
+
+effect of discouraging some persons from the development of musical
+
+skills in performance, because they realize that what they can hear is
+
+so superior to anything that they can do. On the other hand, radio has
+
+stirred the musical interests of the masses into appreciation of the
+
+possibilities of music at their respective levels and not only has made
+
+them whistle the tunes but has encouraged them to participate in various
+
+modes of performance. Listening to the "canned" music has certainly gone
+
+far to develop the ability for listening to legitimate music on the
+
+stage.
+
+Some years ago I had the privilege of being the guest of the city of
+
+Copenhagen for a week. Among the entertainments offered by the city was
+
+a grand opera. The invitation came in the form of a large, beautifully
+
+engraved card of marked distinction and good taste. Attached to it was
+
+the actual ticket to one of the best seats in the house, and the price
+
+printed on this ticket was, in American money, twenty-three cents. It
+
+can be said almost literally that, when grand opera is played in
+
+Copenhagen, people of all classes come out and tend to listen with
+
+appreciation and more or less discrimination. The people have been
+
+educated to hear music. It has been brought down to their level.
+
+Therefore music functions in the social and home life of that city.
+
+Music of a very high order furnishes the entertainment in the parks and
+
+the public halls. That tradition is fast coming to this country, and the
+
+effective training of our youth will do much to hasten the day.
+
+                             THOUGHT REVIEW
+
+                           General Principles
+
+ (1)  The high-school age is the most significant period for the
+
+      development of an avocation.
+
+ (2)  With the coming time for leisure, education for avocation is a
+
+      sound educational policy.
+
+ (3)  It is fortunate that musical education at this age is elective.
+
+ (4)  Education for musical taste must be gradual, not by leaps.
+
+ (5)  Expansion of high-school music may advantageously be
+
+      extracurricular in large part.
+
+ (6)  Music contests have greatly aided in the promotion of musical
+
+      education.
+
+ (7)  The radio and the phonograph have in recent years been the most
+
+      effective media for the dissemination of musical information.
+
+ (8)  It is quite natural and well that the fervor for music should cool
+
+      off for many at the end of the teens.
+
+                         Questions to Consider
+
+ (1)  Should the schools supply musical instruments at public expense?
+
+ (2)  If so, what selective procedures and restrictions should be set
+
+      up?
+
+ (3)  Is the author's conception of the characteristics of adolescence
+
+      generally accepted by educators?
+
+ (4)  What are the evils of music contests?
+
+ (5)  What are some of the unfavorable musical effects of the radio?
+
+ (6)  What problems arise in connection with the change of voice in
+
+      boys?
+
+ (7)  Should the high-school _a cappella_ choir exhibit the vibrato in
+
+      singing? (See the author's _The Vibrato in Voice and Instrument_,
+
+      University of Iowa Press.)
+
+ (8)  How can high-school musicians render larger religious, social, and
+
+      patriotic services in the community?
+
+                        Discuss These Situations
+
+ (1)  Last fall (1939) I saw seventy-eight marching high-school bands
+
+      with over 6000 instruments in a two-mile parade on the morning
+
+      before a football game at the University of Oklahoma. Here was a
+
+      cross-section of the youth of the state, many of them Indians; all
+
+      in uniform in dancing march for musical display. Consider pro and
+
+      con the implications of this phenomenal outbreak of music from (a)
+
+      the musical, (b) the social, (c) the educational, and (d) the
+
+      economical points of view.
+
+ (2)  There is a splendid tendency at present to integrate the school
+
+      with social life, community services, and part-time employment.
+
+      What features in such integration seem most promising for music?
+
+                               Chapter V
+
+                        THE MUSICAL TEMPERAMENT
+
+What makes a musician temperamental? Tell a musician he is
+
+temperamental, and he will take offense. Yet perhaps the thing in his
+
+personality of which he is most proud is the possession of a musical
+
+temperament. This characteristic inconsistency has a basis in
+
+psychological fact; namely, that the exhibition of artistic temperament
+
+frequently leads to attitudes and actions which the rest of the world
+
+may criticize and view with amusement; but, on the other hand, the
+
+finest expressions of musicianship would perhaps be impossible without
+
+the possession of an artistic temperament.
+
+Many persons who pass as musicians are neither temperamental nor
+
+musical. A great many of those who ply the art of music do not have
+
+musical minds in any basic sense. Their art consists in certain skills
+
+often built into a purely matter-of-fact organism. I therefore see no
+
+reason why such people in the musical world who do not show any artistic
+
+temperament have any reason to boast of the fact.
+
+The highly temperamental musician is a species of genius in some degree.
+
+As such, he has been described by musicians, scientists, and
+
+psychiatrists in a very copious body of literature on the subject,
+
+especially that dating since the time of Lombroso, who regarded all
+
+geniuses as degenerates. The modern psychiatrist has frequently
+
+presented a picturesque view of the temperamental person in terms of the
+
+rising science and art of psychiatry, which is supposed to explain all
+
+deviations from normal behavior in terms of psychopathology. The old
+
+saying was that we are all more or less sane; the psychiatrist today
+
+says we are all more or less psychopathic. The current literature on
+
+mental hygiene is characterized by this point of view. Another point of
+
+view has proved fascinating since the coming in of Freud, in that
+
+deviations of this sort are accounted for in terms of suppressions,
+
+defense reactions, and other manifestations of the libido. Much light is
+
+thrown on the problem by the great musician's exaltation of the artistic
+
+mind in action, thus revealing essential temperamental traits on the
+
+basis of first-hand experience and artistic theory. A temperamental
+
+musician is the most merciless portrayer of his own species. Since the
+
+temperamental person is always an interesting person, all of these
+
+accounts are lively and each revealing from its own point of view,
+
+giving us much genuine insight into the nature of the temperamental
+
+person in all fields.
+
+Descriptions of the musical temperament are, as a rule, vivacious and
+
+luminous, thrillingly interesting. If a competent analyst would follow
+
+Stokowski for one day during the season and picture in high lights, full
+
+of concrete examples, the experience and behavior of this great
+
+conductor from the whirl of emotional enthusiasms and conflicts into
+
+which he awakens in the morning to the convivial abandon during
+
+refreshments after the evening performance, we should have a spicy and
+
+animated picture of the musical temperament. If written by the smart
+
+commentator in the columns of _Esquire_, it might even be racy. Such
+
+pictures have often been drawn in fragments. A similar picture might be
+
+made exclusively by direct quotation from biographies, autobiographies,
+
+and letters of great musicians, such as Beethoven and Wagner, whose
+
+lives are now on record. The temperamental musician is not competent to
+
+analyze himself because he does not see himself as others see him.
+
+Literary chats about musicians are full of quirks and eccentricities
+
+giving realistic examples of a temperamental life. These might be
+
+organized into a fairly complete characterization of a distinctive
+
+musical temperament.
+
+All such exhibits would be of the emotional type, dramatic
+
+extravaganzas, interesting and significant, and there are many such
+
+extant. The inceptive science of the psychology of music takes a
+
+different point of view, aiming to account for the highly temperamental
+
+person partly in terms of heredity and partly in terms of inherent
+
+elements in the situation in which he lives and performs. The music
+
+psychologist must content himself to deal in a cold analytical way with
+
+verifiable and orderly facts in order to contribute something toward a
+
+scientific foundation for a systematic and functional psychology of the
+
+musical mind. In attempting this approach, I realize how tame and
+
+stilted such an effort must seem to the fiery musical temperament; and
+
+even at its best the psychologist will regard the account as
+
+speculative, because it is seldom based upon experiment. I have delved
+
+into musical biography and autobiography of great musicians with an eye
+
+toward the discovery of their outstanding mental characteristics from a
+
+psychological point of view. On this basis I must make a bold venture by
+
+attempting to trace the elements in a musical situation which lead to
+
+the development of temperamental behavior and thus contribute toward the
+
+answer to the question, "What makes a musician temperamental?"
+
+_Physiological irritability._ The highly-gifted musician responds
+
+physiologically to sound stimuli to a very high degree because he has
+
+inherited a genetic constitution which is anatomically and
+
+physiologically exceptionally responsive to sound. In other words, quite
+
+apart from consciousness of sound or thought of music, his physical
+
+organism responds to acoustic stimuli of all kinds which keep nerve and
+
+muscle in a state of tension. This tends to create a state of unrest and
+
+irritability. Without leading to actual hearing, it may arouse
+
+associations of a sort of dreamlike or dramatic nature which may play a
+
+very large role in the conscious life. It may create a state of
+
+well-being and happy associations, but perhaps more frequently
+
+irritation and noxious day-dreaming associations and emotional
+
+eruptions. The sounds may come from a squeaking chair, the sizzling of a
+
+kettle, the song of a bird, the cry of an infant. Most frequently sounds
+
+affecting the organism in this way are inconspicuous and commonplace in
+
+the environment; but they may often be strong; such as, the rattling of
+
+a train or the chattering in a crowd, of which the musician does not
+
+become conscious, although physiologically irritated.
+
+_Tonal sensitivity._ All great musicians are highly sensitive to sound
+
+in all its elements. A physiological irritability acoustically leads to
+
+a profuse awareness of sounds. This sensitive and selective hearing
+
+gives the musician a richness of material in the musical medium. He
+
+becomes intolerant and rebellious to disturbing sound stimuli which have
+
+no such effect upon unmusical persons. To him, the world of sounds has
+
+infinite richness of resources for musical pleasure, but equally
+
+exceptional resources for the suffering of musical pain.
+
+_Artistic license._ To the trained musical individual sounds are heard
+
+as different from what a matter-of-fact listener hears. The hearing of
+
+pitch, loudness, time, and timbre is not in the ratio of 1:1 with the
+
+physical sound, but always runs into artistic analysis and
+
+interpretation with artistic license. The musical interval, the dynamic
+
+phrasing, the rhythm, and the tone quality are always heard in relation
+
+to their artistic setting. Here we find auditory illusions operating in
+
+their fullest glory. The pitch value varies with the quality of the
+
+sound. Time may be a substitute for stress and vice versa. A subjective
+
+rhythm is richer and far more realistic than the physical rhythm. The
+
+quality of tone is heard in relation to its musical meaning. To the
+
+musician, the hearing is not so much a question of true pitch, formal
+
+accent, temporal rhythm, or vowel quality as it is a matter of musical
+
+balance and a recognition of artistic deviation from the true.
+
+Meticulously exact performance of a Bach score would be musically
+
+intolerable. Notes are frail symbols. The performer must interpret even
+
+the shortest measure rhythm or single note value. Thus, while fine
+
+sensory discrimination in all the aspects of sound is essential for
+
+correct hearing and tone production, the more essential thing is his
+
+ability to play with artistic power and impulse in hearing and producing
+
+artistic balance and artistic deviation from the rigid. In this artistic
+
+balance and deviation, he may be guided by certain artistic rules, but
+
+his direct emotional interpretation is far more significant. In this
+
+lies individuality. He is constantly tempted to be extravagant.
+
+Thus, in all the variants, combinations, and modulations of pitch,
+
+loudness, time, and timbre, the musician hears, feels, and gives meaning
+
+to fine and subtle distinctions, many of them quite divergent from the
+
+physical tones. At this level, temperament shows itself in exceedingly
+
+fine responsiveness to tones which may be a matter of utter indifference
+
+or impossibility to the unmusical. This capacity is largely inborn, both
+
+in the way of sensitivity to sound and a general nervous, if not
+
+neurotic, disposition, and is in itself enough to make the musician
+
+different from other people. Artistic license as a medium for
+
+self-expression is, therefore, clear evidence of a musical temperament.
+
+_Ear-mindedness._ The successful musician is ear-minded as distinguished
+
+from the painter who is fundamentally eye-minded. This ear-mindedness
+
+grows out of his genetic auditory constitution at birth and develops
+
+through the practical use that he makes of the various attributes of
+
+sounds. Fundamentally, it is the tonal image which, in the great
+
+musicians, is practically as vivid, stable, and complete as the ordinary
+
+perception of the actual physical sound. His memories, his imagination,
+
+his creative work practically all operate in terms of his powerful
+
+auditory image, usually supplemented by strong motor and visual imagery.
+
+This makes him different from the businessman, the objective scientist,
+
+and the man on the street. The fact that he can live subjectively in
+
+this tonal world gives him a type of isolation in which he feels the
+
+superiority of his power and becomes disposed to assert his rights,
+
+privileges, and dominance in a domain in large part separated from
+
+ordinary affairs. Thus, the powerful imagery becomes one of his richest
+
+and most fundamental resources for exclusiveness as a musician and, when
+
+cultivated in the field of artistry, tends to set him apart from the
+
+rest of the world.
+
+_Affective response._ Since the business of the musician is to hear and
+
+produce beautiful effects in sound, he differs from the ordinary
+
+listener in that sounds of all kinds not only have intellectual
+
+orientation value but are habitually responded to in terms of beauty or
+
+ugliness, pleasure or pain. They give him warmth or chills, both of
+
+which create feelings of unrest. Instead of identifying a sound as the
+
+rumbling of a train, he identifies it as ugly--something which disturbs
+
+and irritates him. Instead of identifying the sound as the song of a
+
+bird, he responds vigorously in terms of likes and dislikes.
+
+Emotional pursuits are usually sexually stimulating, and persistent
+
+emotionality is likely to manifest itself in love "scenes", good or bad.
+
+As a mate, the temperamental musician may be a most ardent and exquisite
+
+lover or a most irritable person to live with. This is aggravated by the
+
+fact that the artistic behavior is worshipped by the opposite sex, often
+
+to an annoying degree. Hence, love, self-defense in love, and a sense of
+
+superiority in love are keynotes to the temperamental musician's life.
+
+_The esthetic mood._ The musician is in search of the beautiful and
+
+therefore, conversely, responds unfavorably to the ugly. His
+
+professional life is, in the main, emotional as distinguished from the
+
+intellectual life of the scholar in other fields or the action-patterns
+
+of men of affairs. Whether he is a virtuoso, a creator of music, or a
+
+director, he is working on emotions through emotions, trying to
+
+re-create for the listener the feelings with which he himself is imbued.
+
+He lives so intensely and habitually in this activity that he becomes
+
+recognized as highly and persistently emotional. This extreme
+
+emotionality in his daily work sets him off against the matter-of-fact
+
+mind. We say of the intensely artistic person in action that he burns
+
+himself up. The emotional life is expensive and flitting; it flashes and
+
+explodes and is in danger of running out of control.
+
+This emotionality tends to transfer not only to other forms of art but
+
+to ordinary things and situations; such as, money, raiment, or social
+
+amenities. Sometimes this takes the form of the characteristic bohemian.
+
+He may spend his wages on payday and starve the rest of the month in
+
+utter complacence. All his life tends to be set at high tension. He
+
+lives dominantly in a mood and therefore often becomes objectionally
+
+moody through his impulsive behavior.
+
+_Exhibitionism._ There is an accretion to the musical temperament in a
+
+sort of hierarchy of defense reactions which may be characterized as
+
+exhibitionism. The musical mind is pulling on one end of a leash, as it
+
+were, trying to drag the more or less resistant and incapable into his
+
+own beautiful emotional life, and he feels the drag. Therefore, he
+
+becomes impatient and uses ways and means of exclusiveness in withdrawal
+
+from the world, or he takes the opposite attack--display. To him,
+
+countless means of personal display justify their end, the glorifying of
+
+his noble art. Therefore, we see the musical temperament in this
+
+artistic form in the manner of living, eating, dressing, and sleeping,
+
+and in the demand for hero worship. We see this in the extreme form in
+
+the conductor who feels that he must have his choir, his orchestra, his
+
+band members each individually at his command. He is like a general in
+
+action. For this purpose, he must pose as a great authority, as a hero
+
+standing for something superior in the way of personal interpretation,
+
+as a critical judge of the beautiful, as having undisputed power,
+
+feeling the necessity of imposing his own emotional individuality on a
+
+comparatively cool and often resistant group. This is true on a smaller
+
+scale in all musical leadership, composition, performance of the
+
+virtuoso, musical criticism and passionate listening.
+
+_Symbolism._ The main function of the great musician is to make his
+
+music symbolic. He must take the listener out of the humdrum attitudes
+
+of life through the avenue of musical feeling into a state of abandon,
+
+which, in its extreme form, approaches ecstasy and obliviousness to
+
+material surroundings and facts. Even the devices of program music give
+
+but remote and stilted aid. His function is to enable the listener to
+
+live the art as he himself lives it symbolically. In this respect he
+
+differs from the sculptor and the painter who, while cultivating this
+
+symbolic attitude, are clearly held to the necessity of utilizing
+
+objective realities. It is not easy for the musician to take himself out
+
+of this mood. At the moment that he talks shop and business, the
+
+symbolizing habit is constantly pressing in upon him. Through his
+
+mastery of the symbolic life he feels rich, exclusive, powerful, and
+
+self-contained. Some people think that is queer.
+
+_Precocity._ Since, as a rule, the musically gifted are proportionately
+
+precocious, they begin early in childhood to realize their peculiar gift
+
+for musical appreciation, individual interpretation, and often fabulous
+
+child performance as more or less child prodigies. This tendency to
+
+become a prodigy is inherent in musical precocity and starting early
+
+makes him conspicuous as a child, interferes with his adaptation to the
+
+behavior of the common man, and leads to a specialization and
+
+intensification of those elements which gain for him the approbation of
+
+his constituency, a following for the hero, and towering admiration. On
+
+the other hand, it makes him an object of ridicule.
+
+Usually it is the narrowly-educated musician that is strikingly
+
+temperamental. To excel in his art, supreme effort has often centered
+
+upon that goal at the sacrifice of a broadening education and the
+
+development of a well-rounded and healthy-minded personality. Current
+
+academic recognition of music and improved facilities for training will
+
+decrease the number of temperamental musicians. After all, temperament
+
+is not all a gift: it is largely acquired through learning in the school
+
+of hard knocks. It is often a cheap imitation.
+
+What then is the musical temperament? It is a species of the artistic
+
+behavior found in all artistic pursuits, arising partly from heredity
+
+and partly from training, environment, and simulation; intensified by
+
+high sensitivity, highly-strung disposition, dominant ear-mindedness,
+
+emotional strain, lopsided education, pursuit of esthetic goals,
+
+leadership and hero worship, and often a forced precocity.
+
+This type of analysis could be carried much farther, but these items may
+
+suffice as fair samples to show that the artistic temperament in music
+
+is an essential gift demanded by the nature of the art. It may be good
+
+or bad, inborn or cultivated, genuine or simulated, and often runs into
+
+eccentricities so that we frequently view it in a superior attitude of
+
+amusement. But let us thank all the gods in the Kingdom of the Muses for
+
+their great gift, the potentially good musical temperament.
+
+                             THOUGHT REVIEW
+
+                           General Principles
+
+ (1)  The musical temperament may be good or bad.
+
+ (2)  It is inherent in the intensive music situation.
+
+ (3)  The musical temperament generally has a hereditary basis in a
+
+      highly-strung nervous disposition.
+
+ (4)  It has large common elements with the artistic temperament of the
+
+      painter and the poet, but is more eruptive.
+
+ (5)  It is often of strategic advantage in musical performance.
+
+ (6)  In many respects it is a defense reaction.
+
+ (7)  It may be either extrovert or introvert.
+
+ (8)  It is most fascinating when artistic and serenely serious; most
+
+      ludicrous when affected; and most abominable when it takes the
+
+      form of tantrums and exhibitionism.
+
+                        Consider These Questions
+
+ (1)  Can you name ten musicians who exhibit a "charming" musical
+
+      temperament?
+
+ (2)  Can you name ten musicians who exhibit a "noxious" musical
+
+      temperament?
+
+ (3)  Can you recall ten practical jokes which exemplify temperamental
+
+      behavior, good or bad?
+
+ (4)  What are some of the first evidences of temperamental behavior in
+
+      the musically precocious child?
+
+ (5)  Should the musical temperament in a child be cultivated?
+
+ (6)  Why is the current music supervisor rarely temperamental?
+
+ (7)  Was long hair a temperamental trait?
+
+ (8)  Is temperamental behavior proportionate to excellence in music?
+
+                         Discuss This Situation
+
+When the director of the professional symphony orchestra faces a group
+
+of temperamentally hardened performers in rehearsal it is war to the
+
+finish--victory or defeat. Recall some characteristic historical
+
+instances of artistic strategy in such a situation.
+
+                               Chapter VI
+
+                          MUSICAL INHERITANCE
+
+The whole problem of mental inheritance is in the air, both in the sense
+
+that it is current and in the sense that it is relatively intangible.
+
+The struggle is best illustrated in the current approaches to the
+
+problem of inheritance of intelligence. In this the geneticist has not
+
+got far from base, but much has been learned in regard to the nature of
+
+the issues involved. In the field of music the geneticist has approached
+
+the subject experimentally without understanding the musical life; and
+
+the musician has approached the matter practically without being a
+
+competent experimenter. The psychologist has certainly not done his duty
+
+in clarifying the issues. The most pressing need at the present time is
+
+for such clarification. This can not be the work of one man or one
+
+generation, but must be achieved through co-operation of both sides in
+
+order to clear the way for valid experimentation.
+
+In order to indicate the character of the problem we are now facing, I
+
+shall first venture to state some fundamental assumptions upon which
+
+probably all competent investigators agree and, second, venture a little
+
+way in the direction of identifying concepts of musical life which can
+
+be dealt with experimentally.
+
+                           ESSENTIAL PREMISES
+
+The mechanism of heredity lies in a single germ cell carrying the
+
+character-determining chromosomes which consist of organized chains of
+
+genes. In the character and organization of these genes in the
+
+fertilized cell we find the complete "blueprint" for the future
+
+individual in so far as it is to be determined by heredity. In the
+
+twenty-four pairs of chromosomes in the fertilized human germ cell we
+
+find the long and diversified heritage of each parent represented
+
+through the union of the sperm and the ovum. The selection and the
+
+organization of the genes in these chromosomes adequately represent what
+
+the future individual can be.
+
+This genetic constitution is modified by the cytoplasm, the supporting
+
+part of the cell which is its first environment, and further by the
+
+entire embryonic environment. Any changes that take place after the
+
+launching of this cell, whether before or after birth, are regarded as
+
+environmental. In the embryonic life, this germinating cell develops by
+
+processes of cell division and specialization into the complete human
+
+organism ready to function more or less immediately after birth. This
+
+heritage has fabulous resources in the form of possible facilities for
+
+future development. As nature was prolific in the storing and
+
+transmission of countless hereditary characters in the genetic
+
+constitution, so the equipment of the child at birth is astonishingly
+
+prolific in the provision it makes for diversified development of the
+
+individual. Development from this stage on must, therefore, of necessity
+
+take place through a process of selection and specialization in which
+
+certain characters are given right of way and many are subordinated or
+
+inhibited by conflicting interests, but the great mass remain relatively
+
+latent or dormant. We may assume that superior musical talent is
+
+determined in large part by superior musical heredity, and that inferior
+
+musical talent or lack of talent may be determined in large part by a
+
+correspondingly defective heredity.
+
+The science of heredity in the strictest sense focuses upon the study of
+
+the identification and organization of the genes in relation to the
+
+determination of characters which shall appear in the genetic
+
+constitution and determine future structures and functions of the
+
+individual. When the geneticist deals with specific anatomical
+
+structures, this relationship is traceable with comparative ease; but
+
+when he comes to deal with more or less complicated physiological or
+
+mental functions, the tracing of this relationship becomes rather
+
+baffling on account of the complexity of the final product.
+
+Turning then to the issues involved in the interpretation of musical
+
+inheritance, we must face certain theoretical assumptions. One of them
+
+is that a scientific study of musical heredity cannot be pursued on the
+
+assumption that mind and body are two distinct entities, each inherited
+
+independently. Nor can we hold the old doctrine of psychophysical
+
+parallelism. All human genetics proceeds on the assumption that the
+
+human individual is one psychophysical organism. Our musical experience,
+
+observation and measurement will therefore represent views from the
+
+mental side; our organic studies may be views of the same things from
+
+the physical side.
+
+Furthermore, musicality is not one specific human trait but an infinite
+
+hierarchy of traits running through the entire gamut of the
+
+psychophysical musical organism. To make any progress whatever, the
+
+scientist must make the supreme sacrifice of attempting to deal only
+
+with specific isolable factors apparently small and remote in
+
+themselves. The situation is analogous to that of purely physical
+
+features. It is generally admitted that the structure of the physical
+
+organism is heritable. But when we show that the color of the eyes of
+
+the fruit fly is heritable and that this inheritance takes place in a
+
+very complicated way, as has been adequately shown, we have simply
+
+identified parts of the structure and function of the genes in one
+
+specific feature in the vastly complex physical organism, however
+
+fundamental and characteristic this particular feature may be. This
+
+analogy applies in principle to the genetic study of the musical life.
+
+The crux of the difficulty lies in the identification of heritable
+
+factors.
+
+Again we must remember that the musical mind is first of all a normal
+
+mind, a normal psychophysical organism ready to begin to function
+
+immediately after birth. What we shall look for then in a psychophysical
+
+organism is the presence of certain resources especially favorable or
+
+especially unfavorable to the normal functioning of the musical mind. We
+
+may assume that an average capacity present in the genetic constitution
+
+may be adequate for musical purposes but that exceptionally gifted
+
+persons require these traits in a correspondingly exceptional degree and
+
+that exceptionally unmusical individuals lack essential elements. The
+
+most wonderful thing is that a person can come into the world with a
+
+musical constitution at all, but the problem of heredity centers around
+
+individual differences, and these are more easily approachable than the
+
+total function. As in genetic studies of the inheritance of color
+
+blindness it has been possible to identify types, so in musical hearing
+
+we may look forward to the identification of types of defect and types
+
+of superiority deviating markedly from the normal.
+
+Common observation and reasoning convince us without question that
+
+musicality is inherited in some mysterious way and this follows also
+
+from general considerations of current theories of biological
+
+inheritance. But when it comes to the scientific determination of laws
+
+of such inheritance, we face high barriers. Biological laws of
+
+inheritance must be established in terms of the genes; a specific
+
+biological structure or function must be related to gene organization.
+
+Let us call this measurement of the first order. Such measurements are
+
+most readily applied to anatomical structure and physiological function
+
+in the neuro-muscular organism. This is notably clear in the anatomy and
+
+physiology of the ear and its connections. It is equally applicable to
+
+the anatomy and physiology of the vocal organs--the bellows, the
+
+vibrators and the resonators for voice. It is conceivable, for example,
+
+that the length, the mass, the mode of attachment, and the general
+
+position and shape of the vocal cords and the mounting of the voice box
+
+are heritable characters traceable to genes and referable to musicality
+
+as the physical organs for voice.
+
+We can also find relationships to the endocrines, which are in large
+
+part the determinants of musical emotionality. Electro-physiology is now
+
+giving great promise for the identification of functions in the ear and
+
+the brain and its central connections and is establishing
+
+interrelationships. Many of the laws of heredity established by
+
+measurements of this order probably refer to fundamental biological
+
+principles of inheritance in the psychophysical organism as a whole. By
+
+a physiological analysis of the sensory, motor, and central factors
+
+which operate most significantly in music, the systematist can set up a
+
+respectable body of biological facts in regard to musical inheritance
+
+which are antecedently probable in terms of the functions of genes and
+
+result in the structure and function of the musical organism.
+
+Since the medium of music is sound, we shall look first for an
+
+exceptionally responsive or unresponsive ear, including not only the
+
+physical ear but the central organs in the nervous system through which
+
+it functions. This is basic for two reasons: First, because it
+
+determines what stimulation from the world of sound shall enter into the
+
+experience of the musical individual to a high degree; and second,
+
+because the purely physiological receptivity or organic response to
+
+sound acts upon and modifies the state of well-being or ill-being
+
+according as the auditory impression is beneficent or noxious in so far
+
+as its acts upon our circulation, metabolism, temperature and other
+
+organic processes. Such well-being or ill-being is, of course, in part
+
+the foundation for the feeling of musical pleasures and pains.
+
+If we would gain a true and comprehensive insight into the nature and
+
+extent of role of environment in musical life, we must start with some
+
+established facts or reasonable assumptions of what is "given" for
+
+environment to act upon. The heritage is the capital fund which the
+
+environment invests or squanders. Only by knowing the hereditary
+
+contributions can we appraise the environmental contributions. In the
+
+study of the fruit fly, for example, the revelations of factors which
+
+must be regarded as environmental are quite as significant and essential
+
+as the revelations about the original organization of genes. The
+
+determination of the limits of heredity is the best means for revealing
+
+the functions and possibilities of environment. The music geneticist
+
+will therefore learn fully as much about environmental influences as he
+
+will about hereditary influences in studying heredity.
+
+                      PSYCHOPHYSICAL MEASUREMENTS
+
+The music geneticist can approach many significant aspects of the
+
+subject through psychophysical experiments for which we now have fairly
+
+standardized procedures. For the present purpose, we may call this
+
+measurement of the second order as compared with the anatomical and
+
+physiological measurements. It proceeds out of, and is a complement to,
+
+the anatomical and physiological foundations and probably represents the
+
+most fundamental approach from the psychological and musical points of
+
+view. These measurements deal primarily with sensitivity and
+
+discrimination on the sensory side and the corresponding processes on
+
+the motor side. Among them we may recognize two levels: The simple or
+
+elemental, in which a specific mental process is related to a relatively
+
+specific organic basis; and the complex, which relates to co-operative
+
+functions of the elemental capacities. Of the former we have four;
+
+namely, the sense of pitch, the sense of loudness, the sense of time,
+
+and the sense of timbre--each of which is correlated with a specific
+
+attribute of the sound wave, which is the musical medium. We have basic
+
+measurements of the hearing of rhythm, consonance, volume, and
+
+sonance--all of which represent relatively complex patterns. Each of
+
+these complex functions has a unitary character. Rhythm, for example, is
+
+not merely time plus intensity; it possesses a unitary character.
+
+Because of the difficulty of dealing with the complex patterns,
+
+precedence should be given to the four elemental or basic capacities.
+
+Excellence in these capacities contributes toward ear-mindedness, of
+
+which the auditory image is the most specific characteristic; but at the
+
+present time we have no adequate objective method for the measuring of
+
+auditory imagery.
+
+On the motor side we have corresponding measurements of speed and
+
+accuracy in the motor control of each of these factors represented in
+
+the sound wave; namely, frequency, amplitude, duration, and form.
+
+The term elemental should be used with caution because we never
+
+encounter a purely elemental state or process. Even in the very simplest
+
+form they are merely more or less specific phases of the mental
+
+organism; and at any level at which they are observable they probably
+
+involve environmental accretions. It is the old story: We never
+
+experience pure sensation but meaningful perception. Yet under the most
+
+careful experimental control the identification of such specific
+
+functions may be reasonably reliable and have considerable validity.
+
+Adequate measurements of the sense of timbre are new and therefore have
+
+not been employed extensively up to date. But the sense of pitch, the
+
+sense of time, and the sense of loudness, together with the sense of
+
+rhythm and immediate tonal memory, have been used extensively.
+
+The significance of such measurements depends upon the rigidity of the
+
+scientific technique and the selection of subjects for experiment.
+
+Reliable measurements have been made on a variety of groups and for
+
+different purposes more or less related to the problem of inheritance.
+
+Studies have been made upon musically precocious children to determine
+
+to what degree they were gifted in each of these capacities. All the
+
+available blood relatives of six of the foremost musical families in
+
+America and a number of such families in European countries have been
+
+investigated. These capacities have been measured in selected virtuosi
+
+in various fields of music. The measurements have been used for the
+
+determination of qualifications for musical organizations and for the
+
+analysis of admissions to music schools. Simplified forms of the
+
+measurements have been made upon very young children in musical
+
+families. Numerous cases of failure in musical education have been
+
+investigated and often explained on the basis of presence or absence of
+
+these basic capacities. Surveys have been made on groups representing
+
+highly-privileged or under-privileged children in the matter of musical
+
+facilities. Some of these measures are now a part of the standard tests
+
+and measures administered in the public schools so that comparisons can
+
+be made with blood relatives, and data are becoming cumulative for
+
+scientific comparison of successive generations. Numerous racial studies
+
+have been made on a large scale, comparing these capacities, for
+
+example, in different degrees of race mixture--as in the transition from
+
+pure blacks through mulattoes to whites in a large Negro community, or
+
+the comparison of racial groups in Hawaii, the school children in
+
+different European countries, Indians with whites, and distinctive races
+
+and primitive peoples in different parts of the world.
+
+From this large array of facts certain findings seem to be significant,
+
+taking these measurements as a group. First, the sense of pitch, the
+
+sense of loudness, and the sense of time reveal no distinctly
+
+significant differences in racial groups, in culture-levels, or at
+
+age-levels, when adequately measured. In many cases this holds also for
+
+the sense of rhythm and tonal memory. This is probably indicative of the
+
+fact that the basic capacities for hearing in individuals now living and
+
+capable of being tested adequately are physiologically at the same
+
+level. This conclusion is in harmony with the observation that these
+
+capacities which function in music, function also in the vast varieties
+
+of orientation through sound at all levels of man now living. It is also
+
+analogous to what has been found in vision. Second, it develops that in
+
+each and every one of the groups studied there are enormous individual
+
+differences in each of these capacities and that the extent and
+
+distribution of these differences do not differ significantly from what
+
+we find in the public school children of the United States. Third, where
+
+comparisons of capacity and achievement have been made reliably, it has
+
+been found that those who have achieved distinction in music have these
+
+capacities in a significantly corresponding degree; but much larger
+
+numbers of those possessing superior capacity who have not been
+
+discovered as musical, either by themselves or in their environment, are
+
+revealed. This fact rules out many of the statistical studies of
+
+heredity in terms of musical achievement. Fourth, these capacities
+
+represent relatively independent factors in hearing. Fifth, marked
+
+superiority or inferiority in these capacities is of predictive value
+
+for musical achievement and guidance in education.
+
+On the motor side but little progress has been made. Principally because
+
+the measurements are laborious, significant elements have not been
+
+identified, and moderate motor capacities in speed and action are
+
+adequate for most musical achievements. Daily observations reveal that
+
+children may be slow and accurate, slow and erratic, fast and accurate,
+
+or fast and erratic in various degrees and combinations. It would,
+
+however, be of musical significance to discover to what extent and in
+
+what manner these traits are inherited from generation to generation.
+
+In view of these discoveries, it is evident that there is some material
+
+available for technically rigid genetic interpretation in terms of
+
+currently recognized principles of inheritance. All the records on the
+
+six foremost musical families of America are available in the
+
+confidential files of the Carnegie Institution, at Cold Spring Harbor.
+
+Highly reliable measurements on all the students in the Eastman School
+
+of Music for the last fifteen years are available. Various public
+
+schools have vast cumulative data, and elaborate collections are being
+
+worked upon in the Winderen Laboratory, at Oslo. But with the exception
+
+of the Carnegie Institution and the Oslo collections, adequate
+
+measurements of whole families are absent.
+
+What is needed now is a thoroughly reliable series of measurements on
+
+entire musical families and the interpretation of these by a thoroughly
+
+competent geneticist in terms of established biological principles of
+
+inheritance. It is especially important that both parties shall be
+
+competent to take into account the numerous lessons which we have
+
+learned from the extensive efforts that have been made in the attempt to
+
+measure the inheritance of any mental trait, such as human intelligence.
+
+In the human situation we cannot breed successive generations rapidly,
+
+as in flies or mice, for experimental purposes. We must, therefore,
+
+economize time and effort by taking the most readily available material.
+
+For this purpose I have suggested three possible methods (_Psychology of
+
+Music_, McGraw-Hill, 1938). The first is that we start with the highest
+
+10 per cent and the lowest 10 per cent in an adequate sampling of
+
+fifth-grade children in a school system and work back by making the same
+
+measurements on the available blood relatives of these two groups. In
+
+effective organization much time can be saved by making group
+
+measurements in a co-operating community, such as a city ward. A second
+
+procedure would be to secure an adequate sampling of musicians and
+
+measure forward and backward to cover three generations in which the
+
+matings of musical and unmusical parents could be traced. A third
+
+procedure would be a systematic collection of measurements on school
+
+children for a generation or more giving special attention to the
+
+showing of blood relatives. We cannot, however, stress too strongly the
+
+importance of having these measurements made throughout by an
+
+experimenter thoroughly competent in this field and the equally thorough
+
+biological treatment of data by scientists thoroughly competent in that
+
+specific field. If a biologist wants to start the ball rolling from his
+
+point of view, the records in the Eugenics Record office of the Carnegie
+
+Institution furnish a fair and reliable sampling.
+
+In proposing this conservative approach through psychophysical
+
+measurements, I do not wish to belittle the insight, common knowledge
+
+and theories of inheritance which have been obtained by observation and
+
+statistics in terms of musicality as a whole--as in biography,
+
+autobiography and letters of great musicians or in the study of musical
+
+families. But we are confronted with the fact that these deal largely
+
+with unanalyzed situations so completely covered by factors of
+
+environment and training as to make them useless for strictly scientific
+
+purposes. Nor would I belittle the significance of general traits, such
+
+as musical intelligence, creative imagination and the artistic
+
+temperament, or facilities for specific skills, such as sight reading,
+
+and the memorizing of repertoires. We know a great deal about these and
+
+unquestionably have the right to assume that they have an hereditary
+
+basis. But scientific studies in heredity may be more properly
+
+approached through the simpler and more elementary capacities.
+
+For scientific purposes, we cannot, of course, mix basic measurements
+
+and current ratings of musical achievement. There have been numerous
+
+approaches to this subject from the musical-achievement point of view,
+
+and these have furnished many suggestive leads and probably point to
+
+unquestioned facts about the inheritance of musical talent. But the
+
+science of genetics rightly rests upon and demands the isolation of
+
+specific factors which can be measured; and for that purpose the musical
+
+geneticist must, for the present, sacrifice many otherwise interesting
+
+approaches from the point of view of rated achievement and be willing to
+
+await the laying of foundations of rigidly conducted measurements which
+
+can be described, interpreted, and verified.
+
+                             THOUGHT REVIEW
+
+                           General Principles
+
+ (1)  The question is not whether or not musical ability _is_ inherited,
+
+      but _how_ it is inherited.
+
+ (2)  The musical heritage through each parent is transmitted through a
+
+      single germ cell.
+
+ (3)  The mechanism of musical heredity lies in the organization of the
+
+      genes in the twenty-four pairs of chromosomes found in this
+
+      fertilized germ cell.
+
+ (4)  Scientific principles of musical inheritance can be established
+
+      only through experiment and measurement of specific capacities;
+
+      they cannot be derived from studies of musical achievement alone.
+
+ (5)  We come into the world a fully-equipped organism which is evolved
+
+      from the germ cell before birth.
+
+ (6)  This hereditary equipment is prolific in possibilities; at best,
+
+      the musical life can develop only through a small part of these
+
+      inherited resources.
+
+ (7)  Defects in the inherited equipment set corresponding limits to
+
+      musical achievement.
+
+ (8)  The scientific approach to the problem of musical inheritance can
+
+      be made through psychophysical measurements of musical capacities
+
+      with biological interpretation in terms of genes.
+
+ (9)  There is a considerable body of general biological principles of
+
+      heredity which probably apply to the inheritance of musical
+
+      talent.
+
+ (10) Scientific study of the nature and the role of musical environment
+
+      must begin with knowledge of what is "given", the original
+
+      hereditary stock.
+
+                        Consider These Questions
+
+ (1)  What bad effects in education come from overemphasis of (a)
+
+      heredity, (b) environment?
+
+ (2)  What educational advantages will accrue to the child from a sound
+
+      and balanced recognition of the role of (a) heredity, (b)
+
+      environment?
+
+ (3)  What would be the advantage of knowing scientific laws of musical
+
+      inheritance?
+
+ (4)  What is new to you in the author's proposal?
+
+ (5)  Do you accept the author's theory of the relation between body and
+
+      mind?
+
+ (6)  Why can we not derive laws of musical inheritance from statistical
+
+      studies of musical achievement?
+
+                        Discuss These Situations
+
+ (1)  A music teacher says "Give me a normal child and I will guarantee
+
+      to make him musical." What qualifications would you suggest?
+
+ (2)  A teacher has measured a child's sense of pitch and found it
+
+      superior. Should she say "You are highly musical," or "You have a
+
+      superior sense of pitch?" What is the difference?
+
+ (3)  An investigator has recently collected interesting material by
+
+      interviewing (a) thirty-six of the outstanding musicians of the
+
+      world, (b) the entire cast (thirty-six) of the Metropolitan Opera
+
+      Company, and (c) fifty selected graduate students in the Juilliard
+
+      School of Music, about their parents, and other blood relatives
+
+      and has attempted to interpret the findings in terms of genes.
+
+      Granting that his theory of genes is correct, what is it that
+
+      limits or invalidates the procedure?
+
+ (4)  Long ago the author investigated the musical ability of three
+
+      children in a minister's family and found that the oldest daughter
+
+      rated very low on basic capacities and that she had not made
+
+      satisfactory progress in eight years of musical training. The
+
+      younger sister rated very high in musical capacities and had made
+
+      splendid progress with but a few lessons. The brother, the
+
+      youngest of the three, was like the younger sister. The minister
+
+      held that where the great Creator had made the children unequal,
+
+      it was his business to make them equal, and so he sent the eldest
+
+      daughter to the New England Conservatory of Music where she was
+
+      accepted and graduated and now holds a diploma, though, in her
+
+      community, a musical nonentity.
+
+ (5)  Richard Bach Smith is a musical prodigy according to his mother.
+
+      At the age of five he plays, sings, composes, and is an
+
+      accomplished sight-reader. Is this heredity, environment, or both?
+
+      How would you order his musical education?
+
+ (6)  Miss Jennie Lind Jones has a musical father and an unmusical
+
+      mother, lives in a fine musical environment, and has enjoyed
+
+      fourteen years of excellent training; but she "has no rhythm," her
+
+      piano phrasing is "cold", and her music is a "drudgery." What do
+
+      you predict for her? What would you have done for her?
+
+ (7)  Subject for debate: Given both, resolved, that inherited talent is
+
+      a larger factor than musical education and environment in the
+
+      development of a great musician.
+
+                              Chapter VII
+
+                   THE FUTURE OF MUSICAL INSTRUMENTS
+
+Are we nearing the end of the "horse-and-buggy" stage of musical
+
+instruments? Can the possibilities for revolutionary procedures now
+
+looming up in the construction of musical instruments be as strategic
+
+for music as were the principles embodied in the coming of the
+
+automobile and the airplane for transportation? Those of us who remember
+
+that faithful animal and servant of man, the horse, and the conveyances
+
+he served, look back with fond appreciation upon what amounted to a sort
+
+of fellowship with a fine-performing animal and the luxury of being
+
+conveyed by him in saddle or on wheel. So future generations may look
+
+back upon the past in fond memories of the companionship they have
+
+enjoyed with their favorite instruments, which may be destined to a
+
+niche in the historical museum. But in spite of competition, the horse
+
+has survived, and so probably will the fiddle and some of its companion
+
+instruments.
+
+It is now safe to predict that the future instrument maker will be able
+
+to produce any sound now known in nature or in art that may possibly
+
+have musical significance. We already have at hand the means by which
+
+any such sound can be adequately defined, described, specified,
+
+measured, analyzed, and reconstructed. And there is reason to think that
+
+with the conquest of new and marvelous resources for musical media,
+
+musical composition will move with strides in step with instrument
+
+building.
+
+The musical devotee is, therefore, facing new issues, thrilling and
+
+possibly heart-rending. Can a musician adapt himself to these changes?
+
+Will he tolerate modifications of old instruments, radically new
+
+creations of instruments, revolutionary new types of ensembles, and
+
+radically new types of musical creation? Can musicians adapt themselves
+
+to these new musical media and musical forms as rapidly and completely
+
+as we have adapted ourselves to the transition from horse and buggy to
+
+automobile and airplane within the span of less than half a century? The
+
+answer is probably "no", for good reasons. Yet, sooner or later, the
+
+transition will come in the form of new musical media, new musical
+
+composition, and new types of musical appreciation and attachment.
+
+                     POSSIBLE LINES OF DEVELOPMENT
+
+We can now foresee that musical instruments will be submitted to
+
+critical analysis, with improvements even on the very best; that
+
+substitute forms in great variety may be developed for any now available
+
+musical instrument; that new instruments will be designed for the
+
+production of new tone qualities and other musical effects; that new
+
+ensembles may be built for any number or kind of instrument, so that it
+
+is within the bounds of possibility that the entire performance of the
+
+symphony orchestra, the symphonic band, and the grand opera may be
+
+performed through a single instrument operated by less than half a dozen
+
+persons; that the transmission of music by remote control of the
+
+instrument has extraordinary possibilities; that a vastly superior
+
+control of tone for precision and modulation can be realized; that the
+
+cost of musical instruments may be greatly reduced; that the number of
+
+players needed in ensemble performance may be reduced, since, on the
+
+analogy of the pipe-organ player, one individual may perform for an
+
+entire orchestra; that current music which has been hampered by
+
+limitations of the instrument may be perfected and new types of music
+
+may be introduced; that the musical instrument may become a medium for
+
+the production as well as the reproduction of song and speech; that the
+
+musical tone may be associated with other esthetic appeals, such as
+
+visual presentation of color, relief, and dramatic action--these are all
+
+within the realm of possible predictability.
+
+The range of possibilities may be illustrated in the case of a generator
+
+for a single tone. A few years ago a graduate student came to me and
+
+said that he wanted to take as the subject for his doctoral dissertation
+
+the building of an electrical organ. I told him that if he would build a
+
+generator for a single key I would assure him a stipend for three years
+
+and all the needed facilities of the Iowa acoustical laboratories. He
+
+accepted and made good to an extraordinary degree. The tone generator he
+
+built is composed of the first sixteen partials, _i. e._, a fundamental
+
+and fifteen overtones in harmonic series, each virtually a single pure
+
+tone. The number of partials, the form of distribution of partials, the
+
+amount of energy contributed by each partial, the phase relationships of
+
+the partials, and the fundamental pitch are under control and may be set
+
+up in any combination. With this number of variables, mathematicians
+
+will say that any desired tone quality of harmonic structure up to more
+
+than a million kinds of tone can be produced. The ear cannot hear all
+
+these differences, but the instrument provides keys for as many steps in
+
+the entire series as may be musically significant, and the tone at each
+
+of these steps can be specified for production, described, and repeated
+
+indefinitely. Thus, it is possible to make the instrument speak any
+
+vowel in so far as it involves harmonic structure, and the harmonic
+
+composition of any musical instrument may be imitated. Provision for
+
+inharmonic elements and noise accessories which are necessary both for
+
+vowels and instruments can, of course, be installed with this generator.
+
+Given one tone with such a range of possibilities, it is but a series of
+
+logical and fairly simple steps to provide a complete musical instrument
+
+by simply multiplying notes of this kind. This is the type of
+
+development we see now in a variety of electronic instruments.
+
+_The improvement of existing instruments._ Musical instruments now in
+
+use can be improved. We now have the means for the technical analysis of
+
+the character of the tone produced by any instrument as a whole or by
+
+any particular feature in its construction, so that faults and
+
+limitations can be definitely allocated. Recent investigations have
+
+revealed faults in the best of violins. Some of these faults or
+
+limitations may be corrected by change in construction. For practical
+
+purposes, a 1939 violin of American make may approximate the good
+
+qualities of the Stradivarius, and there is no doubt that improvements
+
+could be made upon the famous old instrument. The same is true in
+
+principle of all individual musical instruments now in use. One of the
+
+obstacles, however, will be the unwillingness of many musicians to face
+
+the innovation of change in the looks of their beautiful instruments so
+
+tenderly loved and guarded.
+
+The piano, as we now have it, has limitations and defects, some of which
+
+can be reduced or eliminated by the adoption of new principles of action
+
+and activation, and by construction according to acoustical
+
+specifications, based upon the measurement of the effect of each feature
+
+upon qualitative and dynamic values of tones. For example, the
+
+characteristic tone of the piano as distinguished from most other
+
+instruments comes to a dynamic peak immediately after the hammer stroke
+
+and falls off rapidly. We have learned to make allowance for this so
+
+that in hearing music we have a tendency to hear a quarter note as of a
+
+given even loudness although the sound fades off sharply during that
+
+period. It is well known that with the drop in the loudness of the tone
+
+there is a corresponding change in the quality of the tone, which change
+
+again we have, of necessity, practically learned to ignore. If it should
+
+prove desirable, it is now quite easy to provide a mechanism which will
+
+sustain the piano tone at even loudness, and therefore uniform tone
+
+quality, during the time value assigned to it. The distribution of
+
+resonances of the instrument can be greatly improved by balancing. The
+
+necessary mechanical noises which accompany the production of tone in a
+
+piano may be largely eliminated if that should prove desirable. The
+
+acoustical engineer can now point out dozens of features in the piano
+
+which might be improved in future construction based upon analysis of
+
+the output in sound. In the same manner the organ, the king of
+
+instruments, if it is to maintain its pre-eminence in competition with
+
+substitutes, demands improvements in the light of new facilities. The
+
+more complicated the instrument, the more possibilities there are for
+
+improvement. During the last hundred years there has been a steady
+
+betterment in the mechanisms of practically all the leading musical
+
+instruments; but this movement will rise to great heights in view of the
+
+new tools for investigation and new materials and principles of
+
+construction.
+
+_New substitutes for existing instruments._ Substitutes for all
+
+instruments now extant may be expected to come mainly through the
+
+development of electrical construction, although many forms of
+
+mechanical devices may be used independently or with the electrical.
+
+There is no question at all but that with such resources, substitutes
+
+for a stringed instrument, a wood wind, a horn, and many varieties of
+
+traps and accessories can be built so as to embody increased musical
+
+resources. The principles for the construction of such a violin, flute,
+
+trumpet, or any other single instrument are already in hand. The
+
+construction may embody such mechanical devices as strings, membranes,
+
+and pipes; but if so, these will be electrically energized. We may
+
+predict that substitutes for single instruments will increase in great
+
+variety and that very simple forms adapted to age and advancement in the
+
+playing of specific instruments can be supplied. The variety of means
+
+for stunt performances may be increased to an alarming degree.
+
+_New ensembles._ Another significant line of development will
+
+undoubtedly appear in the matter of ensembles. By the utilization of
+
+electrical construction, a single series of generators may supply the
+
+harmonic structure of a tone from each and every instrument now in use.
+
+Thus, a bank of sixteen violins may be supplied from this single source
+
+and sixteen individual violin tones may be played in identical pitch,
+
+even dynamics, equal temporal movements, and uniform tone quality. Such
+
+uniformity would however be of limited musical significance. The
+
+important thing musically is the fact that in such a bank any desired
+
+form of artistic deviation or differential enrichment may be provided
+
+for. The same would apply to wood winds, horns, bells, drums and other
+
+percussion instruments in large part. Where further representation of
+
+mixed tone, inharmonics, or noises are demanded, they may be added. The
+
+substitute for a drum can increase the precision and range of the drum
+
+sound without the use of the drum, as, for example, in the present
+
+"Novachord". Thus, it is conceivable that with the exception of certain
+
+unforeseen limitations, the instrumentation of an entire orchestra or
+
+band can be built into a single unit operated from a single console.
+
+From what we have seen in the way of marvelous demonstrations in recent
+
+years it is reasonable to suppose that entirely new types of complex
+
+instruments will be invented, bringing to music hitherto unknown
+
+resources. Furthermore, with the instrumental music as such, provision
+
+may be made in the instruments for words in speech and song, and the
+
+visual presentation of dramatic action in color, relief, and movement
+
+which may be controlled from the console. The goal of embodying in a
+
+single instrument or coupling units of instruments the means of
+
+performing chamber music, orchestra, band, and the grand opera, is
+
+without doubt no wilder prediction than was the prediction of radio or
+
+airplane a few years ago.
+
+                               NEW MUSIC
+
+The improvement of old instruments and the introduction of new ones will
+
+call for an unprecedented revision of old music and a creation of new.
+
+When music was written for the well-tempered clavichord it was limited
+
+to the resources of that instrument. The same is true of music for all
+
+instruments. The music had to be limited to the available resources of
+
+the instrument. It is reasonable to suppose that composers will respond
+
+from time to time with up-to-date adaptations and new creations, taking
+
+advantage of each of the new resources for range of pitch and loudness
+
+and new resources for variety in harmony and richness of tone. It is
+
+equally conceivable that the composer may set up new demands to which
+
+the inventor and instrument maker may respond on call. It is difficult
+
+to realize what extraordinary enrichment in musical resources may spring
+
+up under the impetus of new instrumental resources. There will be new
+
+treatments of scales and intervals, since the pitch control will be far
+
+more flexible than it has been. Perhaps one of the largest innovations
+
+will be in the freer use of intonation not built on any particular scale
+
+but soaring with the greatest freedom on an instrument as we now hear
+
+it, for example, in the singing of Negro spirituals. Performance scores
+
+show that these natural singers defy scales, but produce beautiful
+
+effects through their free and soaring pitch inflection. Stringed
+
+instruments have been hampered by accompaniment and by tradition and
+
+theory. We can anticipate significant developments outside of our
+
+diatonic scale which has come to be a sort of strait-jacket, at least
+
+theoretically. It has been shown, for example, that a quarter-tone
+
+instrument is not of much use unless music is written not only for these
+
+intervals but in modes, themes, and atmosphere adapted to such purpose.
+
+The pitch range of the composition will be extended; so also will the
+
+dynamic range. Countless new features can be introduced for enrichment
+
+of tone and variety of harmony. Nomenclature will develop so that the
+
+composer may not only think in definable terms but may be able to inject
+
+new elements of terminology into the score. For various types of
+
+ensembles the music will, of course, have to be written or adapted
+
+specifically. Stunt music will here find unlimited opportunities for
+
+novelty and escape from conventional tone. This may give us relief from
+
+the limitations of jazz and swing, which have been so boring in recent
+
+years. There will undoubtedly be great bewilderment as to the limits of
+
+tolerance for new media and new forms for musical creations. History has
+
+revealed clearly that the adaptation of taste and tolerance requires
+
+time, and conservatism is often a beneficent safeguard.
+
+The most fundamental recent achievement in the building of new
+
+instruments is that of producing pure tones as well as rich tones in
+
+perfect harmonic structure without accessories. But for various reasons
+
+music has always utilized more or less inharmonic structures and has
+
+imitated, or at least tolerated, noises in the forms of hisses, twangs,
+
+and all kinds of inharmonic and noisy distortion. Recourse to discord
+
+will always be demanded in music; but it is a question as to what extent
+
+aperiodic sounds or noises are necessary. We have learned to accept the
+
+hisses, scratches, rattles, thuds, and bangs of countless varieties in
+
+musical tone. Some such accretions are present in the tone production of
+
+every instrument now in use. They have arisen as impediments in
+
+construction, but have come to be accepted as characteristics of the
+
+instrument and therefore have added greatly to the individuality of each
+
+instrument. Will the future musical public insist on having these or
+
+will there be a feeling of relief when we can get rid of them? The
+
+answer is probably in the middle ground because music, at least as we
+
+know it now, calls for a great variety of noises in the interest of
+
+realism. Possibly in the future, noise may be given a chastened and more
+
+honorable place in the family of tone qualities.
+
+The significant thing to note here is that in new types of instruments
+
+any kind of crude sound or noise can be introduced at will. This will
+
+answer the purpose of program music in that perfectly realistic
+
+reproductions can be made of the sound of steps in marching, the slam of
+
+a door, the squeal of a pig, the bleat of a lamb, the crow of a rooster,
+
+the roar of an airplane, the sigh of the wind. A comparatively small
+
+outfit of sources for accessory noises can serve a great variety of
+
+purposes in the hands of the artist. New responsibilities for the
+
+composer in these respects may be foreseen.
+
+                                PLAYING
+
+As in the automobile, for example, the tendency is to make everything
+
+automatic and relieve the human control of effort, we are moving fast in
+
+the direction of creating automatic devices in musical instruments. It
+
+is safe to predict that a variety of instruments for children will be
+
+more easily played than at present, and that even for the virtuoso a
+
+number of the factors which have been difficult to control will be
+
+simplified and mechanized. This will be particularly true in ensemble
+
+instruments where a single player may control a large number of
+
+instruments or where three or four players, of whom one is the
+
+conductor, may render the equivalent of an orchestral performance.
+
+Barring the limitations of the instrument it is significant that in such
+
+performance the conductor will have vastly superior control of the
+
+situation in that he is in direct manual control of all those factors
+
+which in the present orchestra he tries to control through the medium of
+
+the individuals and masses of players with the baton as a sort of whip.
+
+In the new orchestra, he will sit at a panel with levers and buttons
+
+through which he will be able to control the interpretation he desires
+
+to make.
+
+This conducting may be done with meticulous precision and apparently
+
+magical result through remote control, as was illustrated, even with the
+
+use of present instruments, when Stokowski sat at his panel in
+
+Washington, D. C. and controlled the performance of his orchestra in
+
+Philadelphia.
+
+               SPECIFICATIONS FOR INSTRUMENT CONSTRUCTION
+
+The musical medium whether in art or nature has four, and only four,
+
+elements; namely, pitch, loudness, time, and timbre. These are four
+
+characteristics which may be expressed in terms of the sound wave, as
+
+frequency of waves, intensity of waves, duration of waves, and form of
+
+waves. The recognition of this fact vastly simplifies the mastery of
+
+tone production in musical instruments. Let us consider the factors
+
+which may be classified under these four heads.
+
+_Pitch._ New devices for the control of pitch make possible very
+
+superior control of the pitch in pitch precision, flexibility,
+
+linearity, range, varieties of scale, and harmony. Instruments can be
+
+tuned to a higher degree of precision, retuned more quickly, and kept in
+
+tune longer by the new means of tone production. Therefore, intervals
+
+can be made more exact, the pitch can be sustained with precision, any
+
+pitch aspect can be described, desired effects can be specified, and
+
+artistic adjustments can be made for musical effect.
+
+Any desired type of flexibility may be introduced, such as the gliding
+
+attack and release, periodic or progressive changes in a sustained tone,
+
+as in the vibrato, or rise and fall in tone required during the sounding
+
+of a single note. The glide, the portamento, and a variety of other
+
+pitch ornaments may be produced. Adjustments from any size of intervals
+
+for artistic effect, such as a quarter tone or enlarged or diminished
+
+intervals, may be produced. In short, the pitch inflection can be
+
+controlled either within a single note or a sequence of notes, and just
+
+intonation or tempered scales of various sorts may be produced. The
+
+possibility of combining individual notes in harmony is unlimited. The
+
+pitch range of the instruments can be carried to any height above the
+
+present gamut of instruments, even into the region of supersonics, which
+
+may possibly have physical effects on the feeling of well-being or
+
+ill-being of the musical organism.
+
+_Loudness._ The range of loudness can be extended both in the direction
+
+of increased loudness and perfectly controlled softness. The loudness of
+
+tones throughout the entire range can be equalized. All forms of dynamic
+
+shading and fading and differential steps of loudness can be introduced
+
+for artistic effect. The dynamic linearity, as in the organ, can be
+
+sustained and the fading effect, which distinguishes the piano from the
+
+organ, can be adjusted to any degree. All present pedals as well as new
+
+pedals may be introduced.
+
+_Time._ Through the precision made possible for various forms of
+
+automatic action in the instrument, all temporal aspects of tone can be
+
+enhanced by precision, controlled tapering at the beginning and end of
+
+the tone, various forms of synchronization, and the balancing of the
+
+roles of time and stress in rhythm may be achieved.
+
+_Timbre._ The most significant new feature is, of course, the extension
+
+and control of richness in timbre and sonance, which constitute tone
+
+quality. The range of timbre changes may extend from a pure tone to the
+
+inclusion of even more partials than the ear can hear, possibly thirty
+
+or forty, with an infinite variety of harmonic forms of distribution
+
+between these extremes. Great innovations through inharmonic and
+
+aperiodic sounds are coming. It is now possible to maintain a uniform
+
+timbre which gives an element of dignity and stability to the tone in a
+
+sustained note. But since deviation from the regular is of far greater
+
+importance, flexibility of tone quality is even more desirable. This
+
+flexibility in timbre for the duration of the tone which determines tone
+
+quality, technically called sonance, may be provided for by various
+
+devices. For example, in the present "Novachord", the various forms and
+
+degrees of vibrato are at the command of the player and are based on
+
+scientific investigation leading to specification for this musical
+
+ornament. Given the mechanisms for harmonic structures and inharmonics,
+
+we need only the addition of rough noise of various kinds to make the
+
+tone realistic. The timbre available in the musical instrument will
+
+therefore run from the pure tone to the roughest noise.
+
+In the above I have attempted to present a picture in rough outline
+
+indicating present trends and predictable futures for music through the
+
+improvement of musical instruments. The instrumentalist can point out
+
+many features not here mentioned. The musician may yearn for new
+
+resources in his musical medium for which he can now lay down
+
+specifications. The listeners must be prepared for startling innovations
+
+and thrilling new sources of pleasure in music. It will take generations
+
+to finish the theoretical picture I have here sketched in bold
+
+outline--but let us look forward to a progressive unveiling and
+
+revelation of possibilities. But take no alarm--the horse, if not the
+
+buggy, will survive.
+
+                             THOUGHT REVIEW
+
+                           General Principles
+
+ (1)  We are entering upon a new era for musical instruments.
+
+ (2)  Present instruments will be improved, new instruments will be
+
+      innovated, new ensembles will be achieved.
+
+ (3)  Conforming to this progress, present music will be adapted and new
+
+      types of composition will appear.
+
+ (4)  In this changing order musical tastes will undergo significant
+
+      changes.
+
+ (5)  The composer may now specify new conceptions of desired features,
+
+      and the technicians will provide them.
+
+ (6)  Instrument makers will be able to produce or reproduce any musical
+
+      sound in nature or art.
+
+                        Consider These Questions
+
+ (1)  If the violin strings are mounted on a perfect resonator with
+
+      different shape from the present violin, will that be a violin?
+
+ (2)  If the piano can be built so as to eliminate all accessory noises,
+
+      will pianists like it?
+
+ (3)  If the playing of new instruments will be made easier and better,
+
+      will that tend to increase the number of students in music?
+
+ (4)  If all the good characteristics of present musical instruments can
+
+      be reproduced in a much smaller number of instruments, will that
+
+      be welcomed by the musical public?
+
+ (5)  If we are to have quarter-tone music, which is now possible, why
+
+      will this demand new music aside from the size of the interval?
+
+ (6)  If an electronic organ could be built to do all that the best pipe
+
+      organ now does, if the visible part were reduced to the appearance
+
+      of a little writing desk, and if speakers were concealed in the
+
+      walls throughout the building, how would the worshipper in church
+
+      react to that situation?
+
+ (7)  Children now build their radios from purchased or home-made parts.
+
+      It will be still easier for them to build a variety of musical
+
+      instruments. Will they do it and with what effect?
+
+                        Discuss These Situations
+
+ (1)  At the Riverside Laboratory, Colonel Fabian built an organ with
+
+      the pipes distributed throughout the three stories of a large
+
+      building. The effect was as if the whole building were one grand
+
+      organ. No matter how many sources there were for the same note,
+
+      the tone of that note would always be heard as coming from a
+
+      single source, the location of which depended upon the relative
+
+      distances and intensities of the various sources. The result was
+
+      "magical". Discuss the possibility and the significance of using
+
+      this principle of installation in a house or in a cathedral.
+
+ (2)  It is possible to build a comparatively simple instrument which
+
+      can yield pure tones throughout the musical register. Consider
+
+      what role such an instrument might carry in an orchestra.
+
+                              CHAPTER VIII
+
+                       PRAISE AND BLAME IN MUSIC
+
+Music is unique among esthetic appeals in that it demands immediate
+
+response in the form of praise or blame. The orator demands immediate
+
+response; but his appeal is to reasoning, not to feeling. The painter,
+
+sculptor, and poet demand esthetic response, but this response is
+
+delayed and does not keep the artist on the tip of his nerves to receive
+
+it. The musical appeal is all the more emotional because it is not only
+
+an appeal for personal recognition but for the aggrandizement of the
+
+noble art. The musician at all ages and all stages of advancement can
+
+perform for his own pleasure in isolation, but even here the demand for
+
+praise or blame on the spur of the moment is emphatic and essential.
+
+It is, of course, fully recognized that at his best the musical
+
+performer is not conscious of making a direct appeal for approval by
+
+others. His objective is rather that of self-expression and experiment
+
+in the execution of an artistic skill. He is often aware of a negative
+
+attitude in his audience, and he may take an attitude of aloofness or
+
+superiority toward the audience, recognizing its incompetence. Yet back
+
+of it all, there may be even a distant hope of approval in a coming
+
+generation or the critical judgment of the select few; but the attitude
+
+of the immediate audience or the public toward his performance plays
+
+heavily upon his unanalyzed feelings and moods.
+
+The bases for musical praise and blame are notoriously inadequate, be
+
+they meaningless approval, empty flattery, or censorious criticism. A
+
+general attitude of spontaneous approval without knowing or giving
+
+reasons among listeners in general is praiseworthy as an expression of
+
+good will; but for serious purposes we must question the competence of
+
+the listener for the response manifested. The fault may lie in the
+
+listener's ignorance of the art of music, his incompetence in
+
+recognizing elements of merit, his failure to credit the performer in
+
+relation to natural ability or purpose. Praise or blame may also carry
+
+or miscarry in so far as it may wisely serve to motivate or discourage
+
+the performer on the specific issues involved in the performance. With
+
+the sudden popularizing of music, the incoming tendency is to associate
+
+music with the beginning of a scientific approach to the understanding
+
+of the music and the musician. This situation is changing at a
+
+gratifying rate for the good of music. It is worth while to consider in
+
+some detail the factors in this progress.
+
+                            VANTAGE GROUNDS
+
+_Artistic insight._ The extraordinarily rapid introduction of real music
+
+education in the grades and in the high school and college curricula,
+
+and even in graduate study, is changing the attitude of the listener by
+
+increasing his competence. Children and youth now hear more good music
+
+and hear it presented in such a way as to increase their understanding
+
+of it. At the college level music is presented as an academic subject,
+
+with primary emphasis upon the art of hearing music together with some
+
+knowledge of history and content of music. The training of high-school
+
+teachers of music has changed radically in a generation from the mere
+
+development of proficiency with an instrument or voice to a deeper
+
+insight into the nature of the art, its history, and its roles. At many
+
+levels well-developed courses in music appreciation have acquired a
+
+permanent status and have proved a good foundation for further
+
+penetration into the art of the appreciation of music. This implanting
+
+of points of view and development of esthetic attitudes in the academic
+
+instruction in the schools is hastened to fruitage by the popularizing
+
+of music for the masses through radio and phonograph as well as through
+
+the penetrating of the skills acquired in school into the home and
+
+social institutions. The popularizing of good music, where public
+
+entertainment in the parks and other public places is of good musical
+
+quality and furnished free or at popular prices, is a great help in
+
+developing a critical attitude even among those in other respects quite
+
+uneducated. Therefore, we may say with great satisfaction that training
+
+in the art of hearing music has come upon the educational horizon in
+
+America in a very promising way.
+
+_The scientific attitude._ We are constantly impressed with the analogy
+
+between scientific insight into the nature of music and the
+
+corresponding insight in other sciences, such as botany or astronomy. A
+
+child starts out with an inborn capacity and urge for the love of
+
+flowers; but as a student of flowers he soon encounters many marvelous
+
+revelations. On the one hand his horizon is broadened by acquaintance
+
+with larger and larger classes and varieties. He learns to see
+
+relationships to habitat. He learns to trace scientifically the laws of
+
+their evolution, the methods of artificial breeding and development of
+
+new plants, and even the beauty in their usefulness. On the other hand,
+
+he turns to his microscope and discovers not only the external parts
+
+visible to the naked eye but the internal structures, their modes of
+
+evolution and development, even down to the discovery of the mechanisms
+
+of heredity through the genes, which are so small that we know them only
+
+by inference from what the microscope reveals. The natural history of
+
+music is analogous to that of such a material science.
+
+This scientific insight into the structure and function of music goes
+
+hand in hand with the development of the artistic insight into the
+
+nature of the esthetic values from the point of view of the art of
+
+music. Thus the student of music is now furnished the facilities for
+
+increasing his power of appreciation of music and a critical awarding of
+
+praise or blame from two complementary points of view: a study of the
+
+art and a study of the science of music.
+
+_Terminology._ The mere matter of terminology here plays a very
+
+important role, as is now being demonstrated so successfully in the
+
+recent developments in the field of psychology of music and acoustics.
+
+Take, for example, the concept of tone quality. Until a few years ago
+
+there was probably not a single adequate statement of the nature of tone
+
+quality in the entire literature on music; and yet this is the most
+
+important element in music. In the past the listener and the student
+
+have generally approached the subject in an attitude of acceptance or
+
+rejection of the unanalyzed impression, but often with no more
+
+competence than that with which the ignorant shepherd appraises the
+
+grandeur and meaning of the heavens above on a starlit night. The
+
+teacher, as a rule, said "This is beautiful," or "This is ugly," without
+
+being able to give the reasons why, for want of a tangible terminology.
+
+The teaching and development of tone quality therefore has wallowed in a
+
+slough of despond. Recent researches in the field of musical acoustics
+
+are ushering in a new era. The structure of tone quality has been
+
+dissected, and its parts have been adequately described and defined.
+
+This is leading to an improved musical language. The same is true for
+
+other musical concepts. Thus, through the systematic development of
+
+musical terminology, there will gradually develop a scientific
+
+classification of the various aspects of the musical medium which is
+
+essential not only for the learning of music but also for the awarding
+
+of praise and blame.
+
+_Musical talent._ With this development of a knowledge of the nature of
+
+music, the scientific student of music has turned to the analysis of the
+
+nature of the musical mind attempting to assign specific roles to
+
+musical heredity and musical training and environment. Hazy concepts of
+
+the gift of music have been subjected to scientific analysis,
+
+experiment, and measurement. From this, it is being demonstrated that it
+
+is impossible to award praise or blame without taking a reasonable
+
+account of the innate fortes and faults of the performer which determine
+
+in large part the direction and limits of achievement or failure. The
+
+recognition of this fact, of course, plays its fundamental role in the
+
+early encouragement or discouragement of the inceptive musician, in the
+
+recognition of the purpose of his education, and in the motivation
+
+through training.
+
+                           PARTIES CONCERNED
+
+_The pupil._ Modern education has revealed the importance of a
+
+student-centered and student-originated learning process as opposed to
+
+the traditional and institutional direction of development of the
+
+individual. The question of self-praise and self-blame, satisfaction or
+
+dissatisfaction on the part of the child or youth, is of course of first
+
+importance both in the initial stages of orientation and throughout the
+
+course of specialization and achievement. Instead of imposing
+
+regimentation, the home, the school and the private teachers tactfully
+
+aim to assist the child in the discovery of his natural interests,
+
+resources and promises which aid him in the building of his personal
+
+convictions. But emphasis is laid upon the principle of
+
+self-determination in the light of progressively available reasonable
+
+facilities for self-appraisal. This refers both to the appreciation of
+
+music and to the development of musical skills. This principle of
+
+self-determination has frequently run amuck in the hands of progressive
+
+educators, capital _P_. But it is a fundamental and permanent principle
+
+for the development of personality and motivation in specific pursuits.
+
+The child will soon discover that in order to pursue his interests and
+
+satisfy himself in performance he may have to work hard, conform to
+
+requirements, be patient, and make sacrifices; but his first goal is to
+
+feel satisfaction in what he is getting and in the worth-whileness of
+
+the pursuit.
+
+For these things he will find an analogy in any form of play, physical
+
+or mental, into which he enters in a wholehearted way. This feeling of
+
+self-approbation comes easily in the musically talented where the urge
+
+for music is clearly manifested; but with moderate talent this attitude
+
+of self-reliance needs cultivation. And in the assumed absence of
+
+talent, there is need of assistance in the real verification of this
+
+absence. The greatest danger lies in the intrusion of prejudice and
+
+social pressures. This principle of self-determination is of most
+
+importance in those fields which are to be pursued primarily as a source
+
+of self-expression and pleasure in the pursuit as distinguished from the
+
+pursuits which are essential for the earning of bread and butter and the
+
+maintaining of social status.
+
+_The teacher._ The recognition of this principle of self-determination
+
+and the sustained will to achieve has revolutionized the art of
+
+teaching, or we may say better, has laid the beginnings for an art of
+
+teaching. One of the greatest obstacles the teacher encounters is the
+
+traditional social demand, and often the recognized objective in the
+
+profession, to make everybody musical. Finding that there is no adequate
+
+natural interest and no marks of gratifying achievement are developing,
+
+the teacher settles down to the sledge-hammer method of forced
+
+development. We must therefore bespeak for the live music teacher the
+
+right to refuse to make gold out of iron. The private teacher's fee and
+
+the tuition of the school are, of course, the temptations of the devil
+
+to face the situation with complacence. The constituency granting
+
+lenience in this respect has the right to expect that, in turn, the
+
+teacher understands and has exercised the effective means of
+
+self-discovery, self-orientation, self-determination, and
+
+self-motivation on the part of those who are on the border line. In this
+
+art, the profession has made but little progress so far. The
+
+constituency also has the right to impose the obligation upon the
+
+teacher to respect the individuality of the gifted and to give all types
+
+of freedom to the pupil commensurate with his natural line and degree of
+
+successful achievement in developing appreciation for various types of
+
+music.
+
+In breaking with the traditional routines of musical drill, the teacher
+
+must first of all give up the attempt to cast the musical mind of the
+
+child in the mold of his or her own pattern. This principle has acquired
+
+its greatest significance in dealing with the highly gifted, where it is
+
+clearly substantiated by the musical history of precocious children. The
+
+public must acquire tolerance for the principle of giving musical
+
+facilities to child and youth in proportion to this self-determination
+
+and demonstrated ability to achieve. The great musician and the musical
+
+virtuoso are not fostered by educational or social conformance but
+
+primarily by the enjoyment of the principle of free determination and
+
+development of divergent personality.
+
+_The critic._ The music critic unfortunately, as a rule, is a newspaper
+
+man and must conform to the pressure methods of efficiency in writing
+
+down. This newspaper ability has often been the basis for the
+
+unfortunate selection of musical critics. On the other hand, the
+
+thoroughly competent musical critic, if he were to ply his art as a
+
+technician, would find but small outlet for publication and a negligible
+
+constituency of readers. He would face, most discouragingly, the fact
+
+that many of the performers on the stage do not have critical knowledge
+
+of what they are doing and are not interested or even capable of reading
+
+the highly technical and critical analysis of their performance. So we
+
+must be tolerant with the musical critic.
+
+If music were a simple thing or had a specific goal, such as the
+
+development of a logical proposition, the task of the critic would be
+
+easier. But, as it is, he is dealing with a highly fluid and chaotic
+
+state of affairs when he is supposed to aid the common reader in
+
+assigning praise or blame to the performance. One of the most striking
+
+faults of the work of the musical critic is his lack of words--lack of
+
+concepts which are discriminating and logically definable. We tolerate
+
+his splashing of his personal likes or dislikes as if he were competent
+
+to boil down our feelings of the situation into a fair assaying of
+
+praise or blame of the performance. One difficulty lies in the demand
+
+for writing in smart and emotional style. Among critics there are rare
+
+individuals who have a fine artistic insight and a balanced esthetic
+
+judgment in regard to what is good or bad in music. But we seldom see
+
+their names in the musical-review columns.
+
+Phonophotographic recordings reveal art principles which had not been
+
+discovered in the musical world through hearing, and yet functioned very
+
+largely. They enable the critic to use scientific language in the
+
+description of achievement and assign praise or blame on the basis of
+
+identifiable and describable grounds. We can now photograph the sound
+
+waves of a performance at any distance from the source of sound and
+
+convert this into an analyzable performance score. As a whole, this
+
+principle cannot be available to the musical critic who must render an
+
+immediate opinion. But we have a right to expect that he should have a
+
+scientific knowledge of the types of facts which are revealed in such
+
+objective records. He is living in a new musical era in which the
+
+qualifications for the critic are as new as they are for the artistic
+
+and scientific orientation of teacher and performer.
+
+_The public._ I can recall the time when the possession of a piano and
+
+piano lessons for the darling girl represented almost the sole ambition
+
+of the mothers in our state aside from the spontaneous and untutored
+
+self-expression in song. The public demand has changed. Instruments have
+
+changed. Methods of teaching have changed. Understanding of the art has
+
+increased. Cosmopolitan tastes have spread. Knowledge of the science of
+
+music has become aligned with knowledge in other sciences. The public
+
+rapidly learns to demand all these things and take the right for
+
+granted. The ambition of the mother, the objective of the teacher, and
+
+the expression of the youth of fifty years ago are coming to be
+
+historical curiosities. The art of music in America is coming to a
+
+wholesome fruitage and is becoming associated with present-day academic
+
+learning. For the first time in history it reaches out into the remotest
+
+corners of the land and many of the technical aspects of the art and new
+
+concepts of the musical medium are fast becoming common-sense knowledge
+
+and therefore add in the just awarding of praise or blame.
+
+                             THOUGHT REVIEW
+
+                               Principles
+
+ (1)  Music is designed to give pleasure when heard, and therefore calls
+
+      for immediate affective response.
+
+ (2)  Capacity for esthetic response varies with natural talent and
+
+      training, both artistic and scientific.
+
+ (3)  It is important to know "where to laugh and when to laugh."
+
+ (4)  For scientific description of likes or dislikes we need a
+
+      discriminating terminology.
+
+ (5)  As every scientific discovery and invention gradually becomes
+
+      common-sense knowledge when popularly known, so artistic judgment
+
+      tends to crystallize into common-sense feeling.
+
+ (6)  Musical criticism may be chastized and chastened into balanced and
+
+      critical judgment, relatively free from emotional explosions.
+
+ (7)  The spontaneous and natural smile or frown is often more
+
+      eloquently telling or cutting than words.
+
+                        Consider These Questions
+
+ (1)  Is the conventional response to music affectedly temperamental?
+
+ (2)  Why is listening intently to a major musical performance more
+
+      exhausting than listening to an equally engrossing lecture on
+
+      "International Relations?"
+
+ (3)  Was the English visitor right when he said, "You have no art,
+
+      because whatever you have you display"?
+
+ (4)  Does insight into the nature and structure of the thing beautiful
+
+      tend to lessen or to strengthen the artistic appeal?
+
+                         Discuss This Situation
+
+ (1)  During the last twenty years in a Midwestern city of 30,000 people
+
+      music has "come to town." Curricular and extracurricular music in
+
+      the schools has been tenfold what it was during the foregoing
+
+      twenty years. Music clubs and other musical activities have
+
+      greatly increased. The community often takes as strong an interest
+
+      in local, district, state, and national contests in music as
+
+      ordinarily attaches to football. Discuss the effect of this upon
+
+      (a) the musical, (b) the social, (c) the recreational and (d) the
+
+      educational life of the community. Evaluate the change in interest
+
+      and capacity for assigning fair praise and blame to music.
+
+------------------------------------------------------------------------
+
+                           Transcriber's Note
+
+        Where hyphenation occurs on a line break, the decision to
+
+        retain or remove is based on occurrences elsewhere in the
+
+        text.
+
+        The errors deemed most likely to be the printer's have been
+
+        corrected, and are noted here. The references are to the
+
+        page and line in the original text.
+
+     8.2     Play is essentially social and find[s] its   added
+
+             highest
+
+    21.13    The old conflict be[t]ween enthusiasts for   added
+
+             rote singing
+
+    38.11    has, of course, been unparall[el]ed in the   added
+
+             history of the world.
+
+    39.48    generally has a[n] hereditary basis in       removed
+
+    66.30    for example, in the present "Novac[h]ord"    added
+
+    71.23    flexibil[i]ty of tone quality is even more   added
+
+             desirable.
+
+***
