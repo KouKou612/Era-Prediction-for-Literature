@@ -1,0 +1,2746 @@
+﻿The Project Gutenberg eBook of Clarissa
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Clarissa
+        preface, hints of prefaces, and postscript
+
+Author: Samuel Richardson
+
+Author of introduction, etc.: R. F. Brissenden
+
+
+        
+Release date: September 12, 2009 [eBook #29964]
+                Most recently updated: January 5, 2021
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/29964
+
+Credits: Produced by Chris Curnow, Joseph Cooper, Stephanie Eason,
+        and the Online Distributed Proofreading Team at
+        https://www.pgdp.net.
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK CLARISSA ***
+
+
+
+
+Produced by Chris Curnow, Joseph Cooper, Stephanie Eason,
+and the Online Distributed Proofreading Team at
+https://www.pgdp.net.
+
+
+
+
+
+
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+
+  SAMUEL RICHARDSON,
+  _CLARISSA:_
+  Preface, Hints of Prefaces,
+  and Postscript.
+
+
+  _Introduction_
+  BY
+  R. F. BRISSENDEN.
+
+
+  PUBLICATION NUMBER 103
+  WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+  UNIVERSITY OF CALIFORNIA, LOS ANGELES
+  1964
+
+
+
+GENERAL EDITORS
+
+  Richard C. Boys, _University of Michigan_
+  Earl R. Miner, _University of California, Los Angeles_
+  Maximillian E. Novak, _University of California, Los Angeles_
+  Lawrence Clark Powell, _Wm. Andrews Clark Memorial Library_
+
+
+ADVISORY EDITORS
+
+  John Butt, _University of Edinburgh_
+  James L. Clifford, _Columbia University_
+  Ralph Cohen, _University of California, Los Angeles_
+  Vinton A. Dearing, _University of California, Los Angeles_
+  Arthur Friedman, _University of Chicago_
+  Louis A. Landa, _Princeton University_
+  Samuel H. Monk, _University of Minnesota_
+  Everett T. Moore, _University of California, Los Angeles_
+  James Sutherland, _University College, London_
+  H. T. Swedenberg, Jr., _University of California, Los Angeles_
+
+
+CORRESPONDING SECRETARY
+
+Edna C. Davis, _Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+
+The seven volumes of the first edition of _Clarissa_ were published in
+three instalments during the twelve months from December 1747 to
+December 1748. Richardson wrote a Preface for Volume I and a Postscript
+for Volume VII, and William Warburton supplied an additional Preface for
+Volume III (or IV).[1] A second edition, consisting merely of a reprint
+of Volumes I-IV was brought out in 1749. In 1751 a third edition of
+eight volumes in duodecimo and a fourth edition of seven volumes in
+octavo were published simultaneously.
+
+For the third and fourth editions the author revised the text of the
+novel, rewrote his own Preface and Postscript, substantially expanding
+the latter, and dropped the Preface written by Warburton. The additions
+to the Postscript, like the letters and passages 'restored' to the novel
+itself, are distinguished in the new editions by points in the margin.
+
+The revised Preface and Postscript, which in the following pages are
+reproduced from the fourth edition, constitute the most extensive and
+fully elaborated statement of a theory of fiction ever published by
+Richardson. The Preface and concluding Note to _Sir Charles Grandison_
+are, by comparison, brief and restricted in their application; while the
+introductory material in _Pamela_ is, so far as critical theory is
+concerned, slight and incoherent.
+
+The _Hints of Prefaces for Clarissa_, a transcript of which is also
+included in this publication, is an equally important and in some ways
+an even more interesting document. It appears to have been put together
+by Richardson while he was revising the Preface and Postscript to the
+first edition. Certain sections of it are preliminary drafts of some of
+the new material incorporated in the revised Postscript. Large portions
+of _Hints of Prefaces_, however, were not used then and have never
+previously appeared in print. Among these are two critical assessments
+of the novel by Philip Skelton and Joseph Spence; and a number of
+observations--some merely jottings--by Richardson himself on the
+structure of the novel and the virtues of the epistolary style. The
+statements of Skelton and Spence are unusual amongst contemporary
+discussions of _Clarissa_ for their brevity, lucidity, and sustained
+critical relevance. Richardson's own comments, though disorganized and
+fragmentary, show that he was attempting to develop a theory of the
+epistolary novel as essentially dramatic, psychologically realistic, and
+inherently superior to 'the dry Narrative',[2] particularly as
+exemplified in the novels of Henry Fielding.
+
+It is impossible to determine how much of _Hints of Prefaces_ or of the
+published Preface and Postscript is Richardson's own work. All were to
+some extent the result of collaborative effort, and Richardson did not
+always distinguish clearly between what he had written and what had been
+supplied by other people.[3] The concluding paragraph of the Postscript,
+for example, appears in the first edition to be the work of Richardson
+himself, although in the revised version he indicates that it was
+composed by someone else. In this instance due acknowledgment may have
+been easy; but in many other places it may have been extraordinarily
+difficult for the author/editor to disentangle his own words and ideas
+from those of his friends.
+
+In preparing the Preface and Postscript Richardson was faced with a
+genuine problem. He realised that his achievement in _Clarissa_ was of
+sufficient magnitude and novelty to demand some theoretical defence and
+explanation. But he realised also that he was himself inadequate to the
+task. 'The very great Advantage of an Academical Education, I have
+wanted,'[4] he confessed to Mr. D. Graham of King's College. He lacked
+that familiarity with literature and with the conventions of literary
+criticism which would have made it easy for him to produce the analysis
+of his novel which he felt was needed. No wonder he told Graham that 'of
+all the Species of Writing, I love not Preface-Writing;'[5] and it is
+not surprising that, both before and after the publication of
+_Clarissa_, he should have besieged his friends with requests for their
+opinions of the novel.
+
+In making these requests he was not simply seeking flattery. What he
+needed were sympathetic critics who could clothe in acceptable language
+statements which he would recognise as expressing the truth about his
+masterpiece. _Hints of Prefaces_, especially if read in the context of
+the numerous replies Richardson received, reveals very plainly the
+extent to which he was aware of what he wanted from his correspondents.
+Most, unfortunately, were sadly incapable of producing a _critical_
+account of the novel. In this company Skelton and Spence were brilliant
+exceptions; and Richardson's adoption of their statements, apparently to
+the exclusion of all others, indicates the soundness of his own critical
+intuitions. Equally interesting is his treatment of Warburton's Preface.
+Although he did not reprint this in the third and fourth editions, one
+paragraph from it is preserved in _Hints of Prefaces_.[6] Significantly,
+it is the only paragraph in Warburton's essay which has something to say
+about the distinctive qualities of _Clarissa_.
+
+In formulating all these critical statements Richardson is concerned
+less with developing a theory of fiction for its own sake than with
+justifying his action in writing a novel. His main defence, of course,
+is that _Clarissa_ is morally valuable. The reader who expects it to be
+a 'mere _Novel_ or _Romance_'[7] will be disappointed; and, as 'in all
+Works of This, and of the Dramatic Kind, STORY, or AMUSEMENT, should be
+considered as little more than the _Vehicle_ to the more necessary
+INSTRUCTION'[8]--a dictum that Fielding was to quote with approval.[9]
+
+The argument, though valid, is excessively laboured. In the Postscript,
+especially, Richardson is so preoccupied with demonstrating that
+_Clarissa_ is a Christian tragedy that he neglects to develop in any
+detail the other claims he makes for it. Yet _Hints of Prefaces_ shows
+that he had given considerable thought to what might be called the
+purely fictive qualities of his novel, and that at one stage he intended
+to present a much fuller account of them than he finally did. It is also
+clear that he realized that his didactic purposes could be achieved only
+if the novel succeeded first at the level of imaginative realism.
+
+From the beginning Richardson claimed to be a realist: _Pamela_, it is
+announced on the title page, is a 'Narrative which has its Foundation in
+TRUTH and NATURE;' and the main purpose of the Postscript to _Clarissa_
+is to demonstrate that the story and the manner in which it is told are
+consonant both with the high artistic standards set by the Greek
+dramatists and with the facts of everyday life. The decision not to
+conclude the story with the reformation of Lovelace and his marriage to
+the heroine is defended on the grounds that 'the Author ... always
+thought, that _sudden Conversions_ ... had neither _Art_, nor _Nature_,
+nor even _Probability_, in them;'[10] and in the passage in _Hints of
+Prefaces_[11] of which this is a condensation, he attempts to make out a
+case for the second part of _Pamela_ as a realistic study of married
+life. _Clarissa_ is stated to be superior to pagan tragedies because it
+dispenses with the old ideas of poetic justice and takes into account
+the continuance of life after death. (Richardson has his cake while
+eating it, however, for he points out that 'the notion of _Poetical
+Justice_ founded on the _modern rules_'[12] is strictly observed in
+_Clarissa_).
+
+The claim that _Clarissa_ presents a generally truthful rendering of
+life is given its clearest expression by Skelton and Spence. Both
+emphasize that it is different from conventional romances and novels:
+'it is another kind of Work, or rather a new Species of Novel,'[13] we
+have 'a Work of a new kind among us'.[14] _Clarissa_ is concerned with
+'the Workings of private and domestic Passions', says Skelton, and
+'[not] those of Kings, Heroes, Heroines ... it comes home to the Heart,
+and to common Life, in every Line.'[15] The author, says Spence, has not
+followed the example of the writers of romances, but 'has attempted to
+give a plain and natural Account of an Affair that happened in a private
+Family, just in the manner that it did happen.'[16]
+
+Richardson's decision not to include these two essays in the Postscript
+was perhaps influenced by the fact that he was able to use a similar
+testimonial which had the added virtue of being patently unsolicited.
+This is the 'Critique on the History of CLARISSA, written in French, and
+published at Amsterdam',[17] an English translation of which had been
+printed in the _Gentleman's Magazine_ of June and August, 1749.
+Published anonymously, but written by Albrecht von Haller,[18] this
+review must have been particularly attractive also to Richardson because
+of the singular praise it accords his Epistolary method'. It had already
+been asserted by de Freval, in the first of the introductory letters to
+_Pamela_, that with this way of writing 'the several Passions of the
+Mind must ... be more affectingly described, and Nature may be traced in
+her undisguised Inclinations with much more Propriety and Exactness,
+than can possibly be found in a Detail of Actions long past;'[19] and
+von Haller carries the charge even further by claiming not only that it
+allows the author a greater degree of psychological veracity but also
+that the convention itself is inherently more realistic than ordinary
+narrative: 'Romances in general ... are wholly improbable; because they
+suppose the History to be written after the series of events is closed
+by the catastrophe: A circumstance which implies a strength of memory
+beyond all example and probability in the persons concerned.'[20]
+
+Richardson also believed that the epistolary method was superior to the
+narrative because it was essentially dramatic. Aaron Hill, in one of the
+introductory letters to _Pamela_, had maintained that 'one of the
+best-judg'd Peculiars of the Plan' was that the moral instruction was
+conveyed 'as in a kind of Dramatical Representation';[21] while in the
+Postscript to _Clarissa_ Richardson describes it as a 'History (or
+rather Dramatic Narrative)'.[22] The parallels which he draws between
+_Clarissa_ and Greek tragedy are directed mainly to illuminating the
+tragic rather than the specifically dramatic qualities of the novel. But
+it is clear that he regarded his work as being closer in every way to
+the drama than to the epic.
+
+The basic distinction between drama and epic (or any other form of
+narrative) had been drawn by Aristotle:
+
+     The poet, imitating the same object ... may do it either in
+     narration--and that, again, either by personating other characters,
+     as Homer does, or in his own person throughout ... --or he may
+     imitate by representing all his characters as real, and employed in
+     the action itself.[23]
+
+Le Bossu, in his _Treatise of the Epick Poem_, gives his own restatement
+of this, and amplifies it by pointing to the particular virtues of the
+drama: by presenting characters directly to the spectators drama 'has no
+parts exempt from the Action,' and is thus 'entire and perfect'.
+Fielding was familiar with the _Treatise_, and it is possible that
+Richardson had also looked at Le Bossu to prepare himself for dealing
+with the epic theory of his rival.[24]
+
+There were also precedents for placing the novel in the dramatic rather
+than the epic tradition. Congreve, when he wrote _Incognita_ (1692),
+took the drama as his model. 'Since all Traditions must indisputably
+give place to the _Drama_,' he wrote in the Preface, 'and since there is
+no possibility of giving that life to the Writing or Repetition of a
+Story which it has in the Action, I resolved ... to imitate _Dramatick_
+Writing ... in the Design, Contexture, and Result of the Plot. I have
+not observed it before in a Novel.'[25] The analogy with drama had also
+been drawn by Henry Gally in his _Critical Essay on
+Characteristic-Writings_ (1725), who, after maintaining that 'the
+essential Parts of the Characters, in the _Drama_, and in
+_Characteristic-Writings_ are the same,' goes on to praise the _Tatler_
+and the _Spectator_ for the 'excellent Specimens in the
+Characteristic-Way' that they offered their readers.[26] Such
+acknowledgments of the dramatic potentialities in prose fiction were,
+however, unusual. The romances were modelled on the epic (Fielding, in
+fact, describes _Joseph Andrews_ in his Preface as a 'comic Romance');
+and the picaresque mode in which Smollett wrote had no obviously
+dramatic qualities. Richardson's advocacy of the novel in which action
+is presented rather than retailed seems, indeed, curiously modern: it is
+something Henry James would certainly have understood and approved.
+
+In formulating his own theory of fiction Richardson had Fielding very
+much in mind. It would be surprising if he had not: the rivalry between
+the two novelists was open and recognised, although by the time
+_Clarissa_ was published it had assumed the appearance of friendliness.
+Sarah Fielding's association with Richardson probably had something to
+do with this; but the reconciliation was largely her brother's own work.
+His just and generous praise of _Clarissa_--publicly in the _Jacobite's
+Journal_ and privately in a letter to the author--[27] makes full and
+honourable amends for his mockery of Richardson in _Shamela_ and _Joseph
+Andrews_. If he had not published _Tom Jones_ all might have been well.
+But Richardson could not forgive his old enemy for achieving a triumph
+in his chosen field so soon after the publication of his own
+masterpiece. He abused Fielding covertly in letters to his friends; and
+his revisions of the Preface and Postscript were designed in part to
+counter the claims for the comic prose epic advanced in _Tom Jones_ and
+elsewhere. _Hints of Prefaces_ reveals this more clearly than the
+published versions of the Preface and Postscript: Richardson
+unfortunately lacked the courage and confidence to press home the
+attack.
+
+_Hints of Prefaces_ bears no date, but there is evidence that it was
+assembled after the first edition of _Clarissa_ had appeared and, in
+part at least, after the publication of _Tom Jones_. Richardson refers
+directly at one point to 'this Second Publication',[28] and several
+sections in it are printed (either in full or in a condensed form) only
+in the revised Postscript. _Hints of Prefaces_ therefore cannot be a
+discarded draft of the Preface and Postscript to the first edition. The
+final volumes of this first edition came out in December 1748, and _Tom
+Jones_ was published in the following February. A letter from Skelton,
+dated June 10th, 1749,[29] which mentions an 'inclosed Paper' on
+_Clarissa_, indicates that his essay did not reach Richardson until
+after this date; and in the letter to Graham, from which I have already
+quoted, we find him in the May of 1750 still seeking assistance in the
+preparation of his Preface.
+
+Apart from such evidence it is obvious that one section of _Hints of
+Prefaces_ is directed specifically at Fielding. In pages [12] and [13]
+of the manuscript Richardson seems to be answering, consciously and in
+sequence, arguments brought forward in the Preface to _Joseph Andrews_;
+the Prefaces contributed by Fielding to the second edition of _The
+Adventures of David Simple_ (1744), by his sister, Sarah, and its
+sequel, _Familiar Letters between the Principal Characters in David
+Simple_ (1747); and, of course, the introductory chapters in _Tom
+Jones_. Richardson begins this part of _Hints of Prefaces_ with a
+discussion of the three kinds of romance: those that offer us
+'_Ridicule_; or _Serious Adventure_; or, lastly, a _Mixture of both_'.
+He admits 'that there are some Works under the First of these Heads,
+which have their Excellencies,' but doubts 'whether _Ridicule_ is a
+proper basis ... whereon to build instruction.'[30] The reference here
+seems clearly to be to the Preface to _Joseph Andrews_ where Fielding
+presents his theory of the comic romance and the ridiculous. Richardson
+then proceeds to defend his epistolary method--a convention which
+Fielding had singled out for attack in his Preface to _Familiar
+Letters_, remarking that 'no one will contend, that the epistolary Style
+is in general the most proper to a Novelist, or that it hath been used
+by the best Writers of this Kind.'[31] Even if Richardson had not been a
+subscriber to Miss Fielding's small volume, he could scarcely have
+overlooked a challenge so unequivocal as this. In _Clarissa_ he knew
+that the challenge had been answered triumphantly: among other things it
+is a complete vindication of the epistolary technique:
+
+     We need not insist on the evident Superiority of this Method to the
+     dry Narrative; where the _Novelist_ moves on, his own dull Pace, to
+     the End of his Chapter and Book, interweaving impertinent Digressions,
+     for fear the Reader's Patience should be exhausted...[32]
+
+_Tom Jones_, with its books, chapters, critical interpolations, and
+ironical apologies to the reader, is the target here; and Richardson
+clearly longed to inflict a defeat on its author in the realm of theory
+as resounding as the one he believed he had achieved over him in
+practice. His nerve failed him, however, and his defence of the
+epistolary method as it finally appears in the revised Postscript is
+cursory and deceptively restrained: 'The author ... perhaps mistrusted
+his talents for the narrative kind of writing. He had the good fortune
+to succeed in the Epistolary way once before.'[33]
+
+After completing _Clarissa_ Richardson had a clear and conscious
+apprehension of the scope and unique qualities of his achievement. His
+ability to give an account of these things, however, was limited, though
+not so limited as he feared: for his theory of the novel to be fully
+understood, the final versions of his Preface and Postscript need to be
+read in conjunction with the hitherto unpublished _Hints of Prefaces for
+Clarissa_.
+
+  R. F. Brissenden
+  Australian National University
+  Canberra.
+
+
+
+FOOTNOTES TO THE INTRODUCTION
+
+[1] See _Samuel Richardson: a bibliographical Record of his literary
+Career_, by William Merritt Sale (New Haven, 1936), pp. 49-50.
+
+[2] _Hints of Prefaces for Clarissa_, p. [13], 13.
+
+[3] Postscript (fourth edition), p. 370.
+
+[4] Forster MSS., XV, f 84, May 3, 1750.
+
+[5] Ibid., f 85.
+
+[6] [6], ... Warburton's Preface is reproduced in _Prefaces to Fiction_,
+With an Introduction by Benjamin Boyce, Augustan Reprint Society
+Publication Number 32 (Los Angeles, 1952).
+
+[7] Postscript (fourth edition), p. 367.
+
+[8] Preface (first edition) Vol. I, vi.
+
+[9] '_Pleasantry_, (as the ingenious Author of Clarissa says of a Story)
+_should be made only the Vehicle of Instruction_. _The Covent-Garden
+Journal_, Number 10, 4th February, 1752. 'If entertainment, as Mr.
+Richardson observes, be but a secondary consideration in a romance ...
+it may well be so considered in a work founded, like this, on truth.'
+_Journal of a Voyage to Lisbon_ (London, 1755), The Preface, pp.
+xvi-xvii.
+
+[10] Postscript (fourth edition), p. 349.
+
+[11] _Hints of Prefaces_, p. [2], 2.
+
+[12] Postscript (fourth edition), p. 359.
+
+[13] _Hints of Prefaces_, p. [8], 7.
+
+[14] Ibid., p. [9], 8.
+
+[15] Ibid., p. [8], 7.
+
+[16] Ibid., p. [9], 8.
+
+[17] Postscript (fourth edition), p. 366, footnote (a).
+
+[18] See Lawrence Marsden Price, 'On The Reception of Richardson in
+Germany', _JEGP_, XXV (1926), 7-33.
+
+[19] _Pamela_ (London, 1741), Vol. I, vii. See _Samuel Richardson's
+Introduction to Pamela_, edited by Sheridan W. Baker, Jr., Augustan
+Reprint Society Publication Number 48 (Los Angeles, 1954).
+
+[20] Postscript (fourth edition), p. 366.
+
+[21] _Pamela_ (London, 1741), second edition, Vol. I, xviii.
+
+[22] Postscript (fourth edition), p. 351.
+
+[23] _The Poetics_, I, iv, in _Aristotle's Poetics and Rhetoric_
+(Everyman's Library) (London, 1953), p. 8.
+
+[24] _Monsieur Bossu's Treatise of the Epick Poem_ (London, 1695), p.
+114. Le Bossu's _Treatise_ was first published in France in 1675.
+Compare, for example, Richardson's use of the term 'episodes' (_Hints of
+Prefaces_, p. [4], 4) with the _Treatise_, Book II, chapters II-VI.
+
+[25] Op. cit. The Preface to the Reader (unpaginated).
+
+[26] _The Moral Characters of Theophrastus ... To which is prefix'd A
+Critical Essay on Characteristic-Writings_ (London, 1725), pp. 98-99.
+Reproduced, with an Introduction by Alexander H. Chorney, as Augustan
+Reprint Society Publication Number 33 (Los Angeles, 1952).
+
+[27] _The Jacobite's Journal_, January 2, 1747 [in mistake for 1748].
+Number 5. 'Such Simplicity, such Manners, such deep Penetration into
+Nature; such Power to raise and alarm the Passions, few Writers, either
+ancient or modern, have been possessed of ... Sure this Mr. _Richardson_
+is Master of all that Art which Horace compares to Witchcraft ...' Also,
+March 5, 1748, Number 14. The letter, dated October 15, 1748, is
+reprinted in 'A New Letter from Fielding', by E. L. McAdam, Jr., _Yale
+Review_ (NS), XXXVIII (1948-49), 300-310.
+
+[28] _Hints of Prefaces_, p. [12], 11.
+
+[29] Forster MSS., Vol. XV, f 47.
+
+[30] _Hints of Prefaces_, p. [12], 11.
+
+[31] _Familiar Letters between the Principal Characters in David Simple_
+(London, 1747), Vol. I, ix.
+
+[32] _Hints of Prefaces_, p. [13], 13.
+
+[33] Postscript (fourth edition), p. 365.
+
+
+
+HINTS OF PREFACES FOR CLARISSA
+
+
+_APPENDIX: Philip Skelton and Joseph Spence_
+
+Philip Skelton (1707-1787) was an Irish divine who could well have
+served as a model for Parson Adams, for in his life he exhibited a
+vigorous combination of good humour, physical bravery, quixotic
+gallantry and practical Christianity. The article in the DNB records
+that 'he studied physic and prescribed for the poor, argued successfully
+with profligates and sectaries, persuaded lunatics out of their
+delusions, fought and trounced a company of profane travelling tinkers,
+and chastised a military officer who persisted in swearing.' During
+famine he gave liberally to sustain his poor parishioners, on one
+occasion selling his library to help them. _The Life of Philip Skelton_,
+by Samuel Burdy, first published in 1792, still makes entertaining and
+interesting reading. Richardson met Skelton when he visited London in
+1748 to publish _Ophiomaches, or Deism Revealed_. On David Hume's
+recommendation Andrew Millar published the work; and Richardson also
+seems to have played some part in getting the book accepted (Forster
+MSS, XV, f 34).
+
+The author of Spence's _Anecdotes_ needs no special introduction,
+although some aspects of his relationship with Richardson are of
+interest. He apparently first met the novelist late in 1747 or early in
+1748. Richardson sought his opinion on _Clarissa_ before the final
+volumes of the first edition had appeared: his letter discussing the
+novel [_The Correspondence of Samuel Richardson_, edited by Anna
+Laetitia Barbauld (London, 1804), Vol. II, 319-327], which emphasizes
+Richardson's truth to 'Nature' and lack of 'Art', makes an interesting
+contrast with the more considered verdict delivered in his contribution
+to _Hints of Prefaces_. Before writing this he had almost certainly read
+_Tom Jones_. In a letter, dated April 15, 1749, he says: 'Tom Jones is
+my old acquaintance, now; for I read it, before it was publisht: & read
+it with such rapidity, that I began & ended with in the compass of four
+days; tho' I took a Journey to St. Albans, in ye same time. He is to me
+extreamly entertaining....' He seems to have contemplated writing a
+memoir of Richardson after the novelist's death in 1760.
+
+[See Austin Wright, _Joseph Spence: a critical Biography_ (Chicago,
+1950), 120-123, 232 n.]
+
+
+
+NOTES TO POSTSCRIPT
+
+p. 368, 1. 31--p. 369, 1. 10:
+
+This passage is part of Richardson's new material for his revised
+Postscript. What he wrote in this paragraph, however, was not reproduced
+completely or accurately in either the third or the fourth editions, in
+each of which it appears in different but equally incorrect versions.
+W.M. Sale has offered a convincing explanation of how the mistakes in
+printing came about, and suggests that the passage should read as
+follows:
+
+     She was very early happy in the conversation-visits of her learned
+     and worthy Dr. Lewen, and in her correspondencies, not with him
+     only, but with other Divines mentioned in her last Will. Her Mother
+     was, upon the whole, a good woman, who did credit to her birth and
+     her fortune; and was able to instruct her in her early youth: Her
+     Father was not a free-living, or free-principled man; and _both_
+     delighted in her for those improvements and attainments, which gave
+     her, _and them in her_, a distinction that caused it to be said,
+     that when she was out of the family, it was considered but as a
+     common family.
+
+[_Samuel Richardson: a bibliographical Record of his Literary Career_
+(New Haven, 1936), 59-61].
+
+
+
+BIBLIOGRAPHICAL NOTE
+
+The Preface to the first edition is reproduced from a copy at the
+Huntington Library, the Postscript to the fourth edition of _Clarissa_
+from a copy in the Rare Books Room of the Library of the University of
+North Carolina. _Hints of Prefaces for Clarissa_ is a transcript of a
+manuscript in the Forster Collection (Vol. XV, ff 49-58) in the Victoria
+and Albert Museum. (Single underlinings have been rendered in italics,
+double underlinings in boldface.) Thanks is extended to these
+institutions for their kind permission for the reproduction of this
+material.
+
+
+
+
+  CLARISSA.
+  OR, THE
+  HISTORY
+  OF A
+  YOUNG LADY:
+  Comprehending
+  _The most_ Important Concerns _of_ Private LIFE,
+  And particularly shewing,
+  The DISTRESSES that may attend the Misconduct
+  Both of PARENTS and CHILDREN,
+  In Relation to MARRIAGE.
+
+  _Published by the_ EDITOR _of_ PAMELA.
+
+  VOL. I.
+
+  _LONDON:_
+  Printed for S. Richardson:
+  And Sold by A. MILLAR, over-against _Catharine-street_ in the _Strand_:
+  J. and JA. RIVINGTON, in _St. Paul's Church-yard_:
+  JOHN OSBORN, in _Pater-noster Row_;
+  And by J. LEAKE, at _Bath_.
+
+  M.DCC.XLVIII.
+
+
+
+
+PREFACE.
+
+
+The following History is given in a Series of Letters, written
+principally in a double, yet separate, Correspondence;
+
+Between Two young Ladies of Virtue and Honour, bearing an inviolable
+Friendship for each other, and writing upon the most interesting
+Subjects: And
+
+Between Two Gentlemen of free Lives; one of them glorying in his Talents
+for Stratagem and Invention, and communicating to the other, in
+Confidence, all the secret Purposes of an intriguing Head, and resolute
+Heart.
+
+But it is not amiss to premise, for the sake of such as may apprehend
+Hurt to the Morals of Youth from the more freely-written Letters, That
+the Gentlemen, tho' professed Libertines as to the Fair Sex, and making
+it one of their wicked Maxims, to keep no Faith with any of the
+Individuals of it who throw themselves into their Power, are not,
+however, either Infidels or Scoffers: Nor yet such as think themselves
+freed from the Observance of those other moral Obligations, which bind
+Man to Man.
+
+On the contrary, it will be found, in the Progress of the Collection,
+that they very often make such Reflections upon each other, and each
+upon himself, and upon his Actions, as reasonable Beings, who disbelieve
+not a future State of Rewards and Punishments (and who one day propose
+to reform) must sometimes make:--One of them actually reforming, and
+antidoting the Poison which some might otherwise apprehend would be
+spread by the gayer Pen, and lighter Heart, of the other.
+
+And yet that other, [altho' in unbosoming himself to a _select Friend_,
+he discover Wickedness enough to intitle him to general Hatred]
+preserves a Decency, as well in his Images, as in his Language, which is
+not always to be found in the Works of some of the most celebrated
+modern Writers, whose Subjects and Characters have less warranted the
+Liberties they have taken.
+
+Length will be naturally expected, not only from what has been said,
+but from the following Considerations:
+
+That the Letters on both Sides are written while the Hearts of the
+Writers must be supposed to be wholly engaged in their Subjects: The
+Events at the Time generally dubious:--So that they abound, not only
+with critical Situations; but with what may be called _instantaneous_
+Descriptions and Reflections; which may be brought home to the Breast of
+the youthful Reader:--As also, with affecting Conversations; many of
+them written in the Dialogue or Dramatic Way.
+
+To which may be added, that the Collection contains not only the History
+of the excellent Person whose Name it bears, but includes The Lives,
+Characters, and Catastrophes, of several others, either principally or
+incidentally concerned in the Story.
+
+But yet the Editor [to whom it was referred to publish the Whole in such
+a Way as he should think would be most acceptable to the Public] was so
+diffident in relation to this Article of _Length_, that he thought
+proper to submit the Letters to the Perusal of several judicious
+Friends; whose Opinion he desired of what might be best spared.
+
+One Gentleman, in particular, of whose Knowlege, Judgment, and
+Experience, as well as Candor, the Editor has the highest Opinion,
+advised him to give a Narrative Turn to the Letters; and to publish only
+what concerned the principal Heroine;--striking off the collateral
+Incidents, and all that related to the Second Characters; tho' he
+allowed the Parts which would have been by this means excluded, to be
+both instructive and entertaining. But being extremely fond of the
+affecting Story, he was desirous to have every-thing parted with, which
+he thought retarded its Progress.
+
+This Advice was not relished by other Gentlemen. They insisted, that the
+Story could not be reduced to a Dramatic Unity, nor thrown into the
+Narrative Way, without divesting it of its Warmth; and of a great Part
+of its Efficacy; as very few of the Reflections and Observations, which
+they looked upon as the most useful Part of the Collection, would, then,
+find a Place.
+
+They were of Opinion, That in all Works of This, and of the Dramatic
+Kind, STORY, or AMUSEMENT, should be considered as little more than the
+_Vehicle_ to the more necessary INSTRUCTION: That many of the Scenes
+would be render'd languid, were they to be made less busy: And that the
+Whole would be thereby deprived of that Variety, which is deemed the
+Soul of a Feast, whether _mensal_ or _mental_.
+
+They were also of Opinion, That the Parts and Characters, which must be
+omitted, if this Advice were followed, were some of the most natural in
+the whole Collection: And no less instructive; especially to _Youth_.
+Which might be a Consideration perhaps overlooked by a Gentleman of the
+Adviser's great Knowlege and Experience: For, as they observed, there is
+a Period in human Life, in which, youthful Activity ceasing, and Hope
+contenting itself to peep out of its own domestic Wicket upon bounded
+Prospects, the half-tired Mind aims at little more than
+_Amusement_.--And, with Reason; for what, in the _instructive_ Way, can
+appear either _new_ or _needful_ to one who has happily got over those
+dangerous Situations which call for Advice and Cautions, and who has
+fill'd up his Measures of Knowlege to the Top?
+
+Others, likewise gave _their_ Opinions. But no Two being of the same
+Mind, as to the Parts which could be omitted, it was resolved to present
+to the World, the Two First Volumes, by way of Specimen: and to be
+determined with regard to the rest by the Reception those should meet
+with.
+
+If that be favourable, Two others may soon follow; the whole Collection
+being ready for the Press: That is to say, If it be not found necessary
+to abstract or omit some of the Letters, in order to reduce the Bulk of
+the Whole.
+
+Thus much in general. But it may not be amiss to add, in particular,
+that in the great Variety of Subjects which this Collection contains it
+is one of the principal Views of the Publication,
+
+     To caution Parents against the _undue_ Exertion of their natural
+     Authority over their Children, in the great Article of Marriage:
+
+     And Children against preferring a Man of Pleasure to a Man of
+     Probity, upon that dangerous, but too commonly received Notion,
+     _That a Reformed Rake makes the best Husband_.
+
+
+But as the Characters will not all appear in the Two First Volumes, it
+has been thought advisable, in order to give the Reader some further
+Idea of Them, and of the Work, to prefix
+
+
+
+
+_HINTS OF PREFACES FOR CLARISSA_
+
+
+
+HINTS OF PREFACES FOR CLARISSA
+
+
+[1]
+
+Prefatical Hints. Partly taken from Letters to the Warrington Lady,
+Letter VI.
+
+As Religion is too often wounded thro' the sides of its Professors,
+whether all good Men or not; so is Virtue, where Women are thought too
+meanly of, and depretiated. The Author of the following Work, being
+convinced of the Truth of this Observation, has endeavoured in it to
+exalt the Sex. He has made his Heroine pass thro' many Persecutions from
+her Friends, and ardent Trials from her Lover; yet in the first to keep
+her Duty in her Eye, and in the latter to be proof against the most
+insidious Arts, Devices, and Machinations of a Man, who holds, as Parts
+of the Rake's Credenda, these two Libertine Maxims; That no Woman can
+resist _Opportunity_ and _Importunity_, especially when attacked by a
+Man she loves; and, That, _when once subdued, she is always subdued_;
+and who sets out with a Presumption, that in the Conquest of such a Lady
+he shall triumph over the whole Sex, against which he had vowed Revenge
+for having been used ill, as he thought, by one of it.
+
+The Lady's Sufferings and Distresses are unequalled. Like pure Gold,
+tried by the Fire of Affliction, she is found pure. She preserves her
+Will inviolate, her Sincerity unimpeachable, her Duty to those who do
+not theirs by her, intire--Is patient, serene, resigned; and, from the
+best Motives, aspires to a World more worthy of her, than that she longs
+to quit.
+
+The Christian System, in short, is endeavoured in her Conduct to be
+recommended and enforced. This Life she looks upon as a Life of
+Probation only. She prepares for a better. Her Preparation is
+exemplarily set forth, and expatiated upon. She has her perfidious Lover
+for her Vindicator. He engages all his own Relations, who adore her
+(while hers, influenced by wicked Reports, persecute her) to plead for
+him; and that she will accept of him upon her own Terms.
+
+Here is her Triumph. Yet not glorying in it herself; but, on reasonable
+and just Motives, rejecting him; Motives, that every virtuous Heart must
+approve of. Yet believing that she shall not long live, in the true
+Christian Spirit of Forgiveness, wishes and prays for his Reformation.
+She as nobly forgives, and prays for, and endeavours to give posthumous
+Comfort to, her persecuting Relations; wounding all of them deeper by
+the Generosity of her Forgiveness, than if they were to suffer the most
+cruel Deaths.
+
+While it is one of the latent Morals of this Work, that Women, in
+chusing Companions for Life, should chuse companiable Men; should chuse
+for Men whose Hearts would probably be all their own, rather than to
+share with Scores perhaps the volatile mischievous one of a Libertine:
+In short, that they should chuse for _Mind_ and not for _Person_; and
+not make a Jest of a good Man, in favour of a bad, who would make a Jest
+of them, and of their whole Sex. / /
+
+[2]
+
+"May my Story," says our Heroine, Vol. ____ p. ____ "be a Warning to all
+my Sex, how they perfer a Libertine to a Man of true Honour; and how
+they permit themselves, where they mean the best) [sic] to be misled by
+the specious, but foolish Hope of subduing _rivetted Habits_, and, as I
+may say, of _altering Natures_. The more foolish, as Experience might
+convince us, that there is hardly one in ten, of even tolerably happy
+Marriages, in which the Wife keeps the Hold in the Husband's Affections,
+which she had in the Lover's. What Influence then can she hope to have
+upon the Morals of an avowed Libertine, who marries perhaps for
+Conveniency; who despises the Tie; and whom it is too probable that
+nothing but Age or Sickness, or Disease (the Consequence of ruinous
+Riot), can reclaim." There cannot be a more pernicious Notion, than that
+which is so commonly received, That a reformed Rake makes the best
+Husband. This Notion it was the Intent of the Author of Clarissa to
+explode.
+
+The Authors of Novels and Romances, who always make their Heroes and
+Heroines contend with great Distresses (the more romantic, with them,
+the better) seem to think they have done every-thing, when they have
+joined the Lovers Hands; and this is called a _happy Ending_ of the
+Story. But, alas! it is then, too generally, that the Lovers have the
+greatest Difficulties to encounter with, as they then see each other in
+nearer and truer Lights.
+
+And I have moreover always thought, that these sudden Conversions have
+neither Art, nor Nature, nor Probability in them; and that they are,
+besides, of very bad Example. To have a Libertine, for a Series of
+Years, glory in his Wickedness, and to think he had nothing to do, but,
+as an Act of Grace and Favour, to hold out his Hand to receive that of
+the best of Women, whenever he pleased, and that Marriage would be a
+sufficient Amends for his Villainies, I could not bear that, nor wished
+I, that the World should think it Amends.
+
+I had given in the Story of Pamela what is called a happy Issue. It was,
+however, owing to her implicit Submission to a lordly and imperious
+Husband, who hardly deserved her, that she was happy; a Submission which
+every Woman could not have shewn. And yet she had a too well grounded
+Jealousy to contend with afterwards; which, for the time, tore her Heart
+in pieces. Nor was Mr. B's Reformation secured, till religious
+Considerations obtained place, on seeing the Precipice he was dancing
+upon with the Countess. _For we must observe_, that Reformation is not
+to be secured by a fine Face, by a Passion that has Sense for its
+Object; nor by the Goodness of a Wife's Heart, if the Husband have not a
+good one of his own; and that properly touched by the divine Finger.
+
+The Author of this Piece was willing to try to do something in this way,
+that never before had been done. The Tragic Poets have seldom made their
+Heroes _true_ Objects of Pity; and very seldom have made them in their
+Deaths look forward to a better Hope. And thus, when they die, they seem
+_totally_ to perish. Death in _such_ Instances must be terrible. It must
+be considered as the greatest Evil. But why is Death set in such
+shocking Lights, when it is the common Lot? / /
+
+       *       *       *       *       *
+[3]
+
+The Heroine of this Piece shews, that she has well considered this great
+Point, when she says--"What is even the long Life, which in high Health
+we wish for? What but, as we go along, a Life of Apprehension, sometimes
+for our Friends, oftener for ourselves? And at last, when arrived at the
+old Age we covet, one heavy Loss or Deprivation having succeeded
+another, we see ourselves stript, as I may say, of every one we loved;
+and find ourselves exposed, as uncompaniable poor Creatures, to the
+Slights, the Contempts, of jostling Youth, who want to push us off the
+Stage, in Hopes to possess what we have. And, superadded to all, our own
+Infirmities every Day increasing; of themselves enough to make the Life
+we wished for, the greatest Disease of all."
+
+Such are the Doctrines, such the Lessons, which are endeavoured to be
+inculcated in the following Sheets by an Example in natural Life. The
+more unfashionable, the more irksome, these Doctrines, these Lessons,
+are to the Young, the Gay, and the Healthy, the more necessary are they
+to be inculcated. Religion never since the Reformation was at so low an
+Ebb as at present: And if there be those, who suppose this Work to be of
+the Novel Kind, it may not be amiss, even in the Opinion of such, to
+try whether, by an Accommodation to the light Taste of the Age a
+Religious Novel will do Good.
+
+But altho' the Work, according to the Account thus far given of it, may
+be thought to wear a solemn Aspect, and is indeed intended to be of the
+Tragic Species, it will not be amiss to acquaint our youthful Readers,
+that they will find in the Letters of the Gentlemen, and even in many of
+those of one of the Ladies, Scenes and Subjects of a diverting Turn; one
+of the Men humorously, yet not uninstructively, glorying in his Talents
+for Stratagem and Invention, as he communicates to the other, in
+Confidence, all the secret Purposes of his Heart.
+
+Not uninstructively, we repeat; for it is proper to apprise the serious
+Reader, and such as may apprehend Hurt to the Morals of Youth from their
+Perusal of the more freely written Letters, that the Gentlemen, tho'
+professed Libertines as to the Fair Sex, are not, however, Infidels or
+Scoffers; nor yet such as think themselves freed from the Observance of
+those other moral Obligations which bind Man to Man. / /
+
+[4]
+
+The Reader is referred to the Postscript, at the End of the last Volume,
+for what may be further necessary to be observed in relation to this
+Work.
+
+Judges will see, that, long as the Work is, there is not one Digression,
+not one Episode, not one Reflection, but what arises naturally from the
+Subject, and makes for it, and to carry it on.
+
+Variety of Styles and Circumstances.
+
+  The Two first Volumes chiefly written by the Two Ladies.
+  Two next....................................by Lovelace.
+  Three last.....................by the reforming Belford.
+
+
+Whence different Styles, Manners, &c. that make Episodes useless.
+
+~_Clarissa an Example to the Reader: The Example not to be taken from the
+Reader._~
+
+The vicious Characters in this History are more pure, Images more
+chaste, than in the most virtuous of the Dramatic Poets.
+
+Clarissa is so ready to find fault with herself on every Occasion, that
+we cannot consent, that a Character so exemplary in the greater Points
+should suffer merely from the Inattention of the hasty Reader. Let us
+therefore consider of some of the Objections made against her Story: And
+yet we may venture to assert, that there is not an Objection that is
+come to Knowlege [sic], but is either answered or anticipated in the
+Work.
+
+Obj. I. _Clarissa has been thought by some to want Love_--To be
+prudish--To be over-delicate.
+
+Those who blame Clarissa for Over-niceness, would most probably have
+been an easy Prey to a Lovelace.
+
+One Design in her Character is to shew, that Love ought to be overcome,
+when it has not Virtue or Reformation for its Object.
+
+Many Persons readier to find fault with a supposed perfect Character,
+than to try to imitate it: To bring it down to their Level, rather than
+to rise to it.
+
+Clarissa an Example _to_ the Reader: The Example not to be taken _from_
+the Reader.
+
+Obj. II. _Lovelace could not be so generous, and so wicked._ Common
+Experience confutes this Objection.
+
+Obj. III. _There could not be such a Tyrant of a Father: Such an
+insolent and brutal Brother: Such an unrelenting Sister: Such a passive
+Mother_--Every-body is not of this Opinion. It were to be wished, that
+this Objection were unanswerable.
+
+Obj. IV. _The History is too minute._ Its Minuteness one of its
+Excellencies.
+
+[5]
+
+Attentive Readers have found, and will find, that the Probability of all
+Stories told, or of Narrations given, depends upon small Circumstances;
+as may be observed, that in all Tryals for Life and Property, the/ /Merits
+of the Cause are more determinable by such, than by the greater Facts;
+which usually are so laid, and taken care of, as to seem to authenticate
+themselves.
+
+Cannot consent, that the History of Clarissa should be looked upon as a
+mere Novel or Amusement--since it is rather a History of Life and
+Manners; the principal View of which, by an Accommodation to the present
+light Taste of an Age immersed in Diversions, that engage the Eye and
+the Ear only, and not the Understanding, aims to investigate the great
+Doctrines of Christianity, and to teach the Reader how to die, as well
+as how to live.
+
+Step by Step, Difficulties varied and enumerated, that young Creatures
+may know, that tho' they may not have all her Trials, how to comport
+gradatim.
+
+If provoked and induced as she was, yet so loth to leave her Friends,
+and go off with her Lover, what Blame must those incur, who take such a
+Step, and have not her Provocations and Inducements!
+
+Obj. V. _Why did she not throw herself into Lady Betty's Protection?_
+
+For Answer, see Vol. III, p. 152, and before: Also p. 158, 159, that
+Lady's writing to her, and not inviting her to her. See also their
+Debate, p. 159, 160.--Miss Montague wishes to see her at M. Hall; but it
+is after she should be married. See further, her Observations on Miss
+Montague's not excusing her self for not meeting her on the Road; yet
+Clarissa's Willingness to say something for L. / /
+
+       *       *       *       *       *
+
+[6]
+
+On the contrary, it will be found, that they every-where disclaim the
+Impiety of such as endeavour to make a Religion to their Practices; and
+                                                each upon himself, and
+very often make such Reflections upon each other, and, / upon his Actions,
+as reasonable Beings, who disbelieve not a future State of Rewards and
+Punishments (and who one Day propose to reform) must sometimes make--one
+of them actually reforming, and antidoting the Poison spread by the
+gayer Pen, and lighter Heart, of the other.
+
+And yet that other (altho', in unbosoming himself to a select Friend, he
+discover Wickedness enough to intitle him to general Hatred) preserves a
+Decency as well in his Images, as in his Language, which is not always
+to be found in the Works of some of the most celebrated modern Writers,
+whose Subjects and Characters have less warranted the Liberties they
+have taken.
+
+The Writer chose to tell his Tale in a Series of Letters, supposed to be
+written by the Parties concerned, as the Circumstances related passed:
+For this Juncture afforded him the only natural Opportunity that could
+be had, of representing with any Grace those lively and delicate
+Impressions, which _Things present_ are known to make upon the Minds of
+those affected by them. And he apprehends, that in the Study of human
+Nature the Knowlege [sic] of those Apprehensions leads us farther into
+the Recesses of the human Mind, than the colder and more general
+Reflections suited to a continued and more contracted Narrative.
+
+
+On the Contents.
+
+Obj. _Contents will anticipate the Reader's Curiosity._
+
+The Curiosity not so much the View to excite, as the Attention to the
+Instruction. When the Curiosity is partly gratified, there will be the
+more room for the Attention. Rather instruct, than divert or amuse.
+
+The Reader will remember, that the Instructions, Lessons, and Warnings,
+both to Parents and Children, for the sake of which the Whole was
+published, cannot appear in a Table of Contents, that means only to
+point out the principal Facts, the Connexion of the Whole, and to set
+before the Reader as well the blameable as the laudable Conduct of the
+principal Characters, and to teach them what to pursue, and what to
+avoid, in a Piece that is not to be considered as an Amusement only, but
+rather as a History of Life and Manners. / /
+
+[7]
+
+Drawn up with a View to obviate such of the Objections as have been made
+to particular Characters and Passages, thro' want of Attention to the
+Story.
+
+--In such as have pursued the Story with too much Rapidity to attend to
+the Connexion, and to the Instruction aimed to be given, and to the
+Example proposed to be set.
+
+So many important Lessons, as to Life and Manners, in the Work, that the
+Reader may be intrusted with the Contents. / /
+
+       *       *       *       *       *
+
+[8]
+
+Rev. Mr. Skelton.
+
+They who read Romances and Novels, being accustomed to a Variety of
+Intrigues and Adventures, thro' which they are hurried to the
+Catastrophe; when they take up Clarissa, not considering that it is
+another kind of Work, or rather a new Species of Novel, are apt to think
+it tedious, towards the Beginning especially, because they have not the
+same Palate for natural Incidents, as for imaginary Adventures; for the
+Workings of private and domestic Passions, as for those of Kings,
+Heroes, Heroines; for a Story English as to its Scenes, Names, Manners,
+as for one that is foreign: But a Reader of true Taste and Judgment will
+like it infinitely better, because it comes home to the Heart, and to
+common Life, in every Line; because it abounds with a surprising Variety
+of Strokes and Paintings, that seem to be taken from real Life, and of
+Maxims and Reflections too just, and too useful, to be passed over
+unnoticed or unremembred [sic] by a Reader of Experience. These,
+together with the masterly Management of the Characters, serve better to
+entertain, while they instruct, a judicious Reader, than a Croud of mere
+imaginary Amours, Duels, and such-like Events, which abound with Leaves
+and Flowers, but no Fruits; and therefore cannot be relished but by a
+vitiated Taste, by the Taste of a Chameleon, not of a Man. Two or three
+Hours furnish Matter for an excellent Play: Why may not Two or Three
+Months supply Materials for as many Volumes? Is the History of
+Thucydides less entertaining or instructive, because its Subject is
+confined to narrow Bounds, than that of Raleigh, which hath the World
+for its Subject? Is Clarissa a mere Novel? Whoever considers it as such,
+does not understand it. It is a System of religious and moral Precepts
+and Examples, planned on an entertaining Story, which stands or goes
+forward, as the excellent Design of the Author requires; but never
+stands without pouring in Incidents, Descriptions, Maxims, that keep
+Attention alive, that engage and mend the Heart, that play with the
+Imagination, while they inform the Understanding. / /
+
+       *       *       *       *       *
+
+[9]
+
+Rev. Mr. Spence.
+
+It is the more necessary to say something, by way of Preface, of the
+following Work; because it is a Work of a new kind among us.
+
+The Writers of _Novels_ and _Romances_ have generally endeavoured to
+pick out the most pleasing Stories; to pass over the dry Parts in them;
+and to hurry the Reader on from one striking Event to another. Their
+_only_ Aim seems to be that of making a Tissue of Adventures, which by
+their Strangeness and Variety are meant only to surprise and please.
+Nature they have not much in View; and Morality is often quite out of
+the Question with them.
+
+Instead of following this way of writing, the Author of Clarissa has
+attempted to give a plain and natural Account of an Affair that happened
+in a private Family, just in the manner that it did happen. He has aimed
+solely at following Nature; and giving the Sentiments of the Persons
+concerned, just as they flowed warm from their Hearts.
+
+The best way to do this he thought was to carry on the Story, not in the
+narrative way, as usual; but by making them write their own Thoughts to
+Friends, soon after each Incident happened; with all that Naturalness
+and Warmth, with which they felt them, at that time, in their own Minds.
+
+This must necessarily lead the Work into a great Length: For as his Aim
+was to give a true and full Picture of Nature, the whole Course of the
+Affair is represented; frequently, even to the most minute Particulars:
+And as they are related by Persons concerned, you have not only the
+Particulars, but what they felt in their own Minds at the time, and
+their Reflections upon them afterwards: Beside, that Letters always give
+a Liberty of little Excursions; and when between Intimate Friends,
+require an Opening of the Heart, and consequently a Diffuseness, that
+the narrative Style would not admit of.
+
+The chief Intent of the Work was, to draw off the Ladies, if possible,
+from the distinguishing Fondness many of them are too apt to entertain
+for Rakes; and to shew them, that if they put themselves into the Power
+of a Rake, they are sure of being ill used by him.
+
+[10]
+
+To this End the Author has chosen out a Story, which is as strong a
+Proof of it as can well be. A Lady of particular good Sense, Breeding,
+and Morals, is so ill used by her Family, in order to oblige her to
+marry a Man she cannot like, that they drive her at last into the Hands
+of a Rake, who professes the most honourable Passion for her. From the
+Moment she is in his Hands, he is plotting how to ruin her: Her
+Innocence is above all his Art and Temtations [sic]; so that he is
+forced to use other, and yet viler Means. In spite/ /of all her
+Virtue, her Person is abused. She resents it, as she ought; and escapes
+from him: But, worn out with a continued Series of ill Usage (from her
+own Family, as well as from the Villain, and his Adherents), she
+continues languishing; and at last dies forgiving all her Enemies.
+
+To give this the greater Strength, the Lady is represented as superior
+to all her Sex; and the Rake of a mixt Character, and not so bad as
+several of his. She likes the Man; but has no violent Passion for him:
+He loves her above all Women; and yet is resolved most steadily to
+pursue her Ruin. All her Calamities with him are occasioned, at
+first,[34] by going scarce sensibly out of the Bounds of her Duty; and
+afterwards, by being betrayed into an Action[35], which she did not
+intend; and which, had she intended [it] [sic], under her Circumstances,
+was scarce to be blamed. When in his Hands, her Virtue is invincible:
+She is perpetually alarmed, and her Prudence is ever on the Watch. And
+yet she falls a Prey to his Villainy; and from being the Glory of her
+Sex, becomes an Object of our Compassion. If a Clarissa thus fell, what
+must the rest of Women expect, if they give greater Encouragements to
+yet more abandoned Men?
+
+There are other Side-Morals (and particularly that very instructive one
+to Parents, not to insist too rigidly on forcing their Childrens
+Inclinations); but this is the direct Moral of the whole Story: "That a
+Woman, even of the greatest Abilities, should not enter into any, even
+the most guarded, Correspondence with a Rake; and that if she once falls
+into his Power, she is undone."
+
+To enforce this Moral, it was necessary to Paint out all the Distresses
+of the Sufferer; and to make her suffer to the End: In doing which, the
+Author, I dare say, has given several Pangs to his own Heart, as well as
+to the Hearts of his Readers. But these should be looked upon like the
+Incisions made by a kind Surgeon; who feels himself for every Stroke
+that he gives; and who gives them only out of Humanity, and to save his
+Patients.
+
+Indeed, as the Patients here are the Ladies, the Suffering must be the
+greater; to the Author, as well as to them: But had they not better
+suffer, from these generous Tendernesses of their own Hearts, than from
+the Villainies of such Enemies, as they are here warned to avoid? Their
+Tears look beautifully, when they are shed for a Clarissa; but they
+would be a killing Sight to one, were they to be shed for themselves,
+upon falling into Distresses like hers.
+
+[11]
+
+I do not wonder, that in reading this Story, many of them should wish,
+that it might have ended less unfortunately. It is agreeable to the
+Tenderness and Goodness of their Hearts. The Author, no doubt, wished so
+too: But that could not be brought about, without taking away the Moral,
+or, at least, very much weakening the Force of it. The Business of this
+Work is to shew the Distresses of an almost innocent Sufferer, and the
+Villainies of a debauched Man, who wanted chiefly to pride himself in
+the Conquest of her. It/ /is all but one Story, with one Design; and
+the making the Lady fortunate in the End, would have varied the Fact,
+and undermined his Design. In a Picture that represents any melancholy
+Story, a good Painter will make the Sky all dark and cloudy; and cast a
+Gloom on every thing in it: If the Subject be gay, he gives a Brightness
+to all his Sky; and an Enlivening to all the Objects: But he will never
+confound these Characters; and give you a Picture that shall be sad in
+one half of it, and gay in the other. In this Work the Design is as much
+one, and the Colouring as much one, as they can be in a Picture; and to
+confuse either, would be the most ready way to spoil both.
+
+Clarissa takes but one false Step in the whole Piece. She is impelled
+toward it, in general, by the strange Behaviour of her Family; and
+betrayed into it, at the time, by the strange Contrivances of her
+Deceiver. But this single Step was of the utmost Consequence. It flings
+her into the Power of the most dangerous of Men; and that makes all the
+Remainder of her Life melancholy and distressed. This is the Lesson:
+And if it be a good one, the Force of it ought not to be weakened by her
+Recovering from all her Distresses, and growing quite happy again; which
+indeed would not only weaken, but intirely take away, all the Force that
+was intended to be given to it.
+
+Yet if Clarissa be unfortunate, she is not miserable. She preserved her
+Innocence thro' all her Trials, after that one false Step: When she had
+no Comfort to expect in this World, she turns her Hopes and Confidence
+toward Heaven: Her Afflictions are soon ended, for the Course of this
+whole Affair (taking it from the very Beginning) is included within the
+Bounds of one Year: And she departs with Pleasure from a Life full of
+Trouble, to be rewarded without End. So that, tho' we are warned by
+Clarissa's Example, we have no Reason to be concerned at her
+Dissolution: Much more noble, and more to be admired, in her Steadiness,
+and just Conduct, then, than when she was caressed by all her Relations,
+in the Bloom of her unviolated Innocence, and busied in all the little
+endearing Offices of her good Nature, and good Sense. / /
+
+       *       *       *       *       *
+
+[12]
+
+All the Objections to the Design and Conduct of the History of =Clarissa=,
+which have seemed to carry any Weight in them, being, we presume,
+obviated in the PS. to this Work, we apprehend it will be only expected
+from us, on this Second Publication, that we exhibit some Particulars,
+which may help to shew the superiority of its Moral to any of the Morals
+of those Works of Invention, which have been offered to the Public under
+the Name of =Novel=, or =Romance=.
+
+Now what a Romance usually professes to entertain us with, may be
+considered under Three General Heads; _Ridicule_; or, _Serious
+Adventures_; or, lastly, a _Mixture of both_.
+
+It must be owned, that there are some Works under the First of these
+Heads, which have their Excellencies; Tho' we may be permitted to doubt,
+whether _Ridicule_ is a proper Basis (without the Help of more solid
+Buttresses) whereon to build Instruction, whatever Delight it may
+administer to the Reader.
+
+As to those Authors who have given us the _Serious_; some of them make
+use of a Style as horrid as their Matter: We may be excused mentioning
+their Names, in this Place, since, without Self-flattery, we may say, we
+disdain to appear on the same Page with them. We shall only observe in
+general, that they are far from being clear of the strained Metaphors,
+and unnatural Rants, of the old Romances, whose enormous Volumes would
+be enough to terrify a Reader who sought only for Amusement, and not for
+Employment of his better to be employed Hours.
+
+Between these two Extremes that something useful to the Cause of
+Religion and Virtue should be struck out, was the Author of Clarissa's
+Intent. Such an Intent has Two manifest Advantages over all other Works
+             which
+of Invention ~that~ have yet appeared.
+
+The First of these is, That, by the Work now presented to our Fair
+Readers, they may be instructed to render themselves superior to that
+_extravagant_ Taste in Courtship, which was the prevailing Mode in Two
+or Three preceding Centuries; and from which the present, we are sorry
+to say, is not absolutely free.
+
+The Second, That, by containing their Views _within the Bounds_ of
+Nature and Reason, they may be sweetly, but insensibly, drawn to
+preserve a proper Dignity of Behaviour, whereby to awe the Presumption
+of the Bold and Forward: So that, while we behold them as Angels of
+Light, they would be pleased not to give too convincing Evidence of
+their _Fall_ from that to a lower Character; a detestable one too, which
+will in a short time sink them as much in the Esteem of their flattering
+Admirers, as those very Deceivers had before persuaded them, that they
+were elevated above the common Lot of Mortality.
+
+The Choice the Author has made, in this and a former Performance, of
+delivering the Sentiments of his Characters in their own Words, by way
+of Letters, has also Two principal Advantages, which we beg leave to
+specify. / /
+
+[13]
+
+In the First place, By this means every one is enabled to judge at first
+Sight, whether the respective Persons represented express themselves in
+a Style suitable to their Characters, or not, and may thus become a
+rational Critic on the Merit of the Piece.
+
+Secondly, Those Characters sink deeper into the Mind of the Reader, and
+stamp there a perfect Idea of the very Turn of Thought, by which the
+Originals were actuated, and diversified from each other. This must
+greatly add to the Pleasure of reading, when a Gentleman or Lady can
+readily say, upon hearing a single Paragraph, "This is the accomplished
+=Clarissa=; This the spirited and friendly Miss =Howe=; This the
+supercilious Pedant =Brand=; This the humane and reclaiming =Belford=; This
+the daring, learned, witty, and thence dangerous Libertine =Lovelace=:"
+And so of the rest.
+
+We need not insist on the evident Superiority of this Method to the dry
+Narrative; where the _Novelist_ moves on, his own dull Pace, to the End
+of his Chapter and Book, interweaving impertinent Digressions, for fear
+the Reader's Patience should be exhausted by his tedious Dwelling on one
+Subject, in the same Style: Which may not unfitly be compared to the
+dead Tolling of a single Bell, in Opposition to the wonderful Variety of
+Sounds, which constitute the Harmony of a Handel.
+
+As the major Part of such Works as these might be _omitted_, to the
+greater Emolument of the Reader, if not of the Writer; so we have the
+Pleasure to acquaint the Public, that the contrary is true of the Work
+before us: For the Author has in this Edition _restored_ several
+Passages, which, for Brevity, were omitted in the former. Such are the
+Instructions in Vol. III. p. ... given by Mr. Lovelace to his Four
+Friends on their first Visit to his _Goddess_, as he justly calls her,
+comparing her with the wretches he had so long been accustomed to: Which
+instructions are highly humorous and characteristical, and by being laid
+open may suggest proper Cautions to all who are likely to be engaged in
+justly suspected Company. Several other Inlargements and Alterations
+there are, which tend further to illustrate his Design, and to make it
+more generally useful. And as these will be presented to the Public
+without any additional Price, it is hoped they will come recommended on
+that score also, as well as for their evident Importance, when
+attentively perused; which it is presumed the whole Work should be, as
+containing Documents of Religion and Morality, which will probably lie
+hid to a careless or superficial Examiner: And this we speak of those
+Parts principally, which have least _Entertainment_, in the vulgar sense
+of the word.
+
+An Objection remains to be answered; which is so minute, that it is
+therefore condemned to this last and lowest Place. / /
+
+[14]
+
+"Clarissa is too delicate."--The Author readily acknowleges [sic], that
+too delicate she is for the Hearts of such as, by Conformity to the
+loose Manners of the present Age, have confounded Purity with Prudery.
+But, for all this, it may be hoped, that the latter will rather
+endeavour to raise their Affections to =Clarissa's= virtuous Standard,
+than by striving to impeach her Character, effectually debase, if not
+violently tear up, the decisive Standard of Right and Wrong.
+
+The just Detestation that injured Lady had of Lovelace's vile Attempt to
+corrupt her Mind as well as Person, was surely a sufficient Argument
+against uniting her untainted Purity (surely we may say so, since the
+Violation reached not her Soul) in Marriage with so gross a Violator;
+and must for ever continue in Force, till the eternal Differences of
+Vice and Virtue shall coalesce, and make one putrid Mass, a Chaos in the
+Moral and Intellectual World.
+
+We have a remarkable, and in some Degree a parallel Case in Scripture;
+where we find, that the Rape of _Dinah_ was revenged, cruelly revenged,
+by the Sons of Jacob. _Dinah_, like =Clarissa=, had Proposals of Marriage
+made to her by the Ravisher. But these were not thought sufficient to
+expunge the Stain upon a Person of that Family, from which was to
+proceed the =Son= of Him whose eyes are purer than to behold Iniquity.
+Therefore a Massacre was made of the King Hamor, and his son Shechem;
+and their People were led into Captivity. The Answer of Simeon and Levi
+to their Father's Complaint of Cruelty was only this: _Should he deal
+with_ =our Sister=, _as with an_ =Harlot=?
+
+The only Use we intend to make of this Passage is, to shew that it is no
+new thing, that a Violation of this sort should be desperately resented,
+as this was by the resolute =Morden=; however _new_ it may be, that a
+young Lady should disdain the Villain, who had betrayed her Person, and
+soon after laid her Hopes, and the Hopes of all her flourishing Family,
+in the Dust of the Grave.
+
+
+
+
+POSTSCRIPT.
+
+_Referred to in the Preface._
+
+IN WHICH
+
+    Several Objections that have been made, as well to the Catastrophe
+    as to different Parts of the preceding History, are briefly
+    considered.
+
+The foregoing Work having been published at three different periods of
+time, the Author, in the course of its publication, was favoured with
+many anonymous Letters, in which the Writers differently expressed their
+wishes with regard to the apprehended catastrophe.
+
+Most of those directed to him by the gentler Sex, turned in favour of
+what they called a _Fortunate Ending_. Some of the fair writers,
+enamoured, as they declared, with the character of the Heroine, were
+warmly solicitous to have her made happy:"And others, likewise of their
+mind, _insisted that Poetical Justice_ required that it should be so.
+And when, says one ingenious Lady, whose undoubted motive was
+good-nature and humanity, it must be concluded, that it is in an
+author's power to make his piece end as he pleases, why should he not
+give pleasure rather than pain to the Reader whom he has interested in
+favour of his principal characters?
+
+"Others, and some Gentlemen, declared against Tragedies in general, and
+in favour of Comedies, almost in the words of Lovelace, who was
+supported in his taste by all the women at Mrs. Sinclair's, and by
+Sinclair herself. 'I have too much _Feeling_, said he[36]. There is
+enough in the world to make our hearts sad, without carrying grief into
+our diversions, and making the distresses of others our own.'
+
+"And how was this happy ending to be brought about? Why by this very
+easy and trite expedient; to wit, by reforming Lovelace, and marrying
+him to Clarissa--Not, however, abating her one of her tryals, nor any of
+her sufferings [for the sake of the _sport_ her distresses would give to
+the _tender-hearted_ reader as she went along] the last outrage
+excepted: That indeed, partly in compliment to Lovelace himself, and
+partly for delicacy-sake, they were willing to spare her.
+
+"But whatever were the fate of his work, the Author was resolved to take
+a different method. He always thought, that _sudden Conversions_, such
+especially, as were left to the candour of the Reader to _suppose_ and
+_make out_, had neither _Art_, nor _Nature_, nor even _Probability_, in
+them; and that they were moreover of very _bad_ example. To have a
+Lovelace for a series of years glory in his wickedness, and think that
+he had nothing to do, but as an act of grace and favour to hold out his
+hand to receive that of the best of women, whenever he pleased, and to
+have it thought, that Marriage would be a sufficient amends for all his
+enormities to others, as well as to her; he could not bear that. Nor is
+Reformation, as he has shewn in another piece, to be secured by a fine
+face; by a passion that has sense for its object; nor by the goodness of
+a Wife's heart, or even example, if the heart of the Husband be not
+graciously touched by the Divine Finger.
+
+"It will be seen by this time, that the Author had a great end in view.
+He has lived to see Scepticism and Infidelity openly avowed, and even
+endeavoured to be propagated from the _Press_: The great doctrines of
+the Gospel brought into question: Those of self-denial and
+mortification blotted out of the catalogue of christian virtues: And a
+taste even to wantonness for out-door pleasure and luxury, to the
+general exclusion of domestic as well as public virtue, industriously
+promoted among all ranks and degrees of people.
+
+"In this general depravity, when even the Pulpit has lost great part of
+its weight, and the Clergy are considered as a body of _interested_ men,
+the Author thought he should be able to answer it to his own heart, be
+the success what it would, if he threw in his mite towards introducing a
+Reformation so much wanted: And he imagined, that if in an age given up
+to diversion and entertainment, he could _steal in_, as may be said, and
+investigate the great doctrines of Christianity under the fashionable
+guise of an amusement; he should be most likely to serve his purpose;
+remembring that of the Poet:
+
+  "_A verse may find him who a sermon flies,
+  "And turn delight into a sacrifice._
+
+"He was resolved therefore to attempt something that never yet had been
+done. He considered, that the Tragic poets have as seldom made their
+heroes true objects of pity, as the Comic theirs laudable ones of
+imitation: And still more rarely have made them in their deaths look
+forward to a _future Hope_. And thus, when they die, they seem totally
+to perish. Death, in such instances, must appear terrible. It must be
+considered as the greatest evil. But why is Death set in shocking
+lights, when it is the universal lot?
+
+"He has indeed thought fit to paint the death of the wicked as terrible
+as he could paint it. But he has endeavoured to draw that of the good in
+such an amiable manner, that the very Balaams of the world should not
+forbear to wish that their latter end might be like that of the Heroine.
+
+"And after all, what is the _poetical justice_ so much contended for by
+some, as the generality of writers have managed it," but another sort of
+dispensation than that with which God, by Revelation, teaches us, He has
+thought fit to exercise mankind; whom placing here only in a state of
+probation, he hath so intermingled good and evil, as to necessitate us
+to look forward for a more equal dispensation of both.
+
+The author of the History (or rather Dramatic Narrative) of Clarissa, is
+therefore well justified by the _Christian System_, in deferring to
+extricate suffering Virtue to the time in which it will meet with the
+_Completion_ of its Reward.
+
+But not absolutely to shelter the conduct observed in it under the
+sanction of Religion [an authority perhaps not of the greatest weight
+with some of our modern critics] it must be observed, that the author is
+justified in its Catastrophe by the greatest master of reason, and the
+best judge of composition, that ever lived. The learned Reader knows we
+must mean ARISTOTLE; whose sentiments in this matter we shall beg leave
+to deliver in the words of a very amiable writer of our own Country.
+
+'The English writers of Tragedy, _says Mr. Addison_[37], are possessed
+with a notion, that when they represent a virtuous or innocent person in
+distress, they ought not to leave him till they have delivered him out
+of his troubles, or made him triumph over his enemies.
+
+'This _error_ they have been led into by a _ridiculous_ doctrine in
+_Modern Criticism_, that they are obliged to an _equal distribution_ of
+_rewards_ and _punishments_, and an impartial execution of _poetical
+justice_.
+
+'Who were the first that established this rule, I know not; but I am
+sure it has no foundation in NATURE, in REASON, or in the PRACTICE OF
+THE ANTIENTS.
+
+'We find, that good and evil happen alike unto ALL MEN on this side the
+grave: And as the principal design of Tragedy is to raise commiseration
+and terror in the minds of the audience, we shall defeat this great end,
+if we always make Virtue and Innocence happy and successful.
+
+'Whatever crosses and disappointments a good man suffers in the _Body_
+of the Tragedy, they will make but small impression on our minds, when
+we know, that, in the _last Act_, he is to arrive at the end of his
+wishes and desires.
+
+'When we see him engaged in the depth of his afflictions, we are apt to
+comfort ourselves, because we are sure he will find his way out of them,
+and that his grief, how great soever it may be at present, will soon
+terminate in gladness.
+
+'For this reason, the antient Writers of Tragedy treated men in their
+_Plays_, as they are dealt with in the _World_, by making Virtue
+sometimes happy and sometimes miserable, as they found it in the Fable
+which they made choice of, or as it might affect their Audience in the
+most agreeable manner.
+
+'Aristotle considers the Tragedies that were written in either of those
+kinds; and observes, that those which ended unhappily had always pleased
+the people, and carried away the Prize, in the public disputes of the
+Stage, from those that ended happily.
+
+'Terror and Commiseration leave a _pleasing anguish_ in the mind, and
+fix the Audience in such a serious composure of thought, as is much more
+lasting and delightful, than any little transient Starts of Joy and
+Satisfaction.
+
+'Accordingly we find, that more of our English Tragedies have succeeded,
+in which the Favourites of the Audience sink under their calamities,
+than those in which they recover themselves out of them.
+
+'The best Plays of this kind are _The Orphan_, _Venice Preserved_,
+_Alexander the Great_, _Theodosius_, _All for Love_, _Oedipus_,
+_Oroonoko_, _Othello_, &c.
+
+'King _Lear_ is an admirable Tragedy of the same kind, as Shakespeare
+wrote it: But as it is reformed according to the _chimerical notion_ of
+POETICAL JUSTICE, in my humble opinion it has lost half its beauty.
+
+'At the same time I must allow, that there are very noble Tragedies,
+which have been framed upon the other Plan, and have ended happily; as
+indeed most of the good Tragedies which have been written since the
+starting of the above-mentioned Criticism, have taken this turn: As _The
+Mourning Bride_, _Tamerlane_[38], _Ulysses_, _Phaedra and Hippolytus_,
+with most of Mr. Dryden's. I must also allow, that many of
+Shakespeare's, and several of the celebrated Tragedies of Antiquity, are
+cast in the same form. I do not therefore dispute against this way of
+writing Tragedies; but against the Criticism that would establish This
+as the _only_ method; and by that means would very much cramp the
+English Tragedy, and perhaps give a wrong bent to the genius of our
+writers.'
+
+'This subject is further considered in a Letter to the Spectator[39].
+
+"I find your opinion, says the author of it, concerning the
+_late-invented_ term called _Poetical Justice_, is controverted by some
+eminent critics. I have drawn up some additional arguments to strengthen
+the opinion which you have there delivered; having endeavoured to go to
+the bottom of that matter....
+
+"The most perfect man has vices enough to draw down punishments upon his
+head, and to justify Providence in regard to any miseries that may befal
+him. For this reason I cannot think but that the instruction and moral
+are much finer, where a man who is virtuous in the main of his character
+falls into distress, and sinks under the blows of fortune, at the end of
+a Tragedy, than when he is represented as happy and triumphant. Such an
+example corrects the insolence of human nature, softens the mind of the
+beholder with sentiments of pity and compassion, comforts him under his
+own private affliction, and teaches him not to judge of mens virtues by
+their successes[40]. I cannot think of one real hero in all antiquity so
+far raised above human infirmities, that he might not be very naturally
+represented in a Tragedy as plunged in misfortunes and calamities. The
+Poet may still find out some prevailing passion or indiscretion in his
+character, and shew it in such a manner as will sufficiently acquit
+Providence of any injustice in his sufferings: For, as Horace observes,
+the best man is faulty, tho' not in so great a degree as those whom we
+generally call vicious men[41].
+
+"If such a strict _Poetical Justice_ (_proceeds the Letter-writer_), as
+some gentlemen insist upon, were to be observed in this art, there is no
+manner of reason why it should not extend to heroic Poetry, as well as
+Tragedy. But we find it so little observed in Homer, that his Achilles
+is placed in the greatest point of glory and success, tho' his Character
+is morally vicious, and only _poetically_ good, if I may use the phrase
+of our modern Critics. The _AEneid_ is filled with innocent unhappy
+persons. Nisus and Euryalus, Lausus and Pallas, come all to unfortunate
+ends. The Poet takes notice in particular, that, in the sacking of Troy,
+Ripheus fell, who was the most just man among the Trojans:
+
+  "----_Cadit & Ripheus justissimus unus
+  Qui fuit in Teucris, & servantissimus aequi.
+  Diis aliter visum est.----_
+
+  "The gods thought fit.--So blameless Ripheus fell,
+  Who lov'd fair Justice, and observ'd it well.
+
+
+"And that Pantheus could neither be preserved by his transcendent piety,
+nor by the holy fillets of Apollo, whose priest he was:
+
+  "----_Nec te tua plurima, Pantheu,
+  Labentem pietas, nec Apollinis infula texit._ AEn. II.
+
+  "Nor could thy piety thee, Pantheus, save,
+  Nor ev'n thy priesthood, from an early grave.
+
+
+"I might here mention the practice of antient Tragic Poets, both Greek
+and Latin; but as this particular is touched upon in the Paper
+above-mentioned, I shall pass it over in silence. I could produce
+passages out of Aristotle in favour of my opinion: And if in one place
+he says, that an absolutely virtuous man should not be represented as
+unhappy, this does not justify any one who shall think fit to bring in
+an absolutely virtuous man upon the stage. Those who are acquainted with
+that author's way of writing, know very well, that to take the whole
+extent of his subject into his divisions of it, he often makes use of
+such cases as are imaginary, and not reducible to practice....
+
+"I shall conclude, _says this gentleman_, with observing, that tho' the
+_Spectator_ above-mentioned is so far against the rule of _Poetical
+Justice_, as to affirm, that good men may meet with an unhappy
+Catastrophe in Tragedy, it does not say, that ill men may go off
+unpunished. The reason for this distinction is very plain; namely,
+because the best of men [as is said above] have faults enough to justify
+Providence for any misfortunes and afflictions which may befal them; but
+there are many men so criminal, that they can have no claim or pretence
+to happiness. The _best_ of men may deserve punishment; but the _worst_
+of men cannot deserve happiness."
+
+Mr. Addison, as we have seen above, tells us, that Aristotle, in
+considering the Tragedies that were written in either of the kinds,
+observes, that those which ended unhappily had always pleased the
+people, and carried away the prize, in the public disputes of the Stage,
+from those that ended happily. And we shall take leave to add, that this
+preference was given at a time when the entertainments of the Stage were
+committed to the care of the magistrates; when the prizes contended for
+were given by the State; when, of consequence, the emulation among
+writers was ardent; and when learning was at the highest pitch of glory
+in that renowned commonwealth.
+
+It cannot be supposed, that the Athenians, in this their highest age of
+taste and politeness, were less humane, less tender-hearted, than we of
+the present. But they were not _afraid_ of being moved, nor _ashamed_ of
+shewing themselves to be so, at the distresses they saw well painted and
+represented. In short, they were of the opinion, with the wisest of men,
+_That it was better to go to the house of mourning than to the house of
+mirth_; and had fortitude enough to trust themselves with their own
+generous grief, because they found their hearts mended by it.
+
+Thus also Horace, and the politest Romans in the Augustan age, wished to
+be affected:
+
+  _Ac ne forte putes me, quae facere ipse recusem,
+  Cum recte tractant alii, laudare maligne;
+  Ille per extentum funem mihi posse videtur
+  Ire poeta, meum qui pectus inaniter angit,
+  Irritat, mulcet; falsis terroribus implet,
+  Ut magus; & modo me Thebis, modo ponit Athenis_.
+
+Thus Englished by Mr. Pope:
+
+  Yet, lest you think I railly more than teach,
+  Or praise malignly _Arts_ I cannot reach,
+  Let me, for once, presume t'instruct the times
+  To know the _Poet_ from the _Man of Rhymes_.
+  'Tis He who gives my breast a thousand pains,
+  Can make me _feel_ each passion that he feigns;
+  Enrage--compose--with more than magic art,
+  With _pity_ and with _terror_ tear my heart;
+  And snatch me o'er the earth, or thro' the air,
+  To Thebes, to Athens, when he will, and where.
+
+
+Our fair readers are also desired to attend to what a celebrated
+Critic[42] of a neighbouring nation says on the nature and design of
+Tragedy, from the rules laid down by the same great Antient.
+
+'Tragedy, says he, makes man _modest_, by representing the great masters
+of the earth humbled; and it makes him _tender_ and _merciful_, by
+shewing him the _strange accidents of life_, and the _unforeseen
+disgraces_ to which the most important persons are subject.
+
+'But because Man is naturally timorous and compassionate, he may fall
+into other extremes. Too much fear may shake his constancy of mind, and
+too much compassion may enfeeble his equity. 'Tis the business of
+Tragedy to regulate these two weaknesses. It prepares and arms him
+against _disgraces_, by shewing them so frequent in the most
+considerable persons; and he will cease to fear extraordinary accidents,
+when he sees them happen to the _highest_ part of Mankind. And still
+more efficacious, we may add, the example will be, when he sees them
+happen to the _best_.
+
+'But as the end of Tragedy is to teach men not to fear too weakly
+_common misfortunes_, it proposes also to teach them to spare their
+compassion for objects that _deserve it_. For there is an _injustice_ in
+being moved at the afflictions of those who _deserve to be miserable_.
+We may see, without pity, Clytemnestra slain by her son Orestes in
+AEschylus, because she had murdered Agamemnon her husband; yet we cannot
+see Hippolytus die by the plot of his Stepmother Phaedra, in Euripides,
+without compassion, because he died not, but for being chaste and
+virtuous.'
+
+'These are the great authorities so favourable to the stories that end
+unhappily. And we beg leave to reinforce this inference from them, That
+if the temporary sufferings of the Virtuous and the Good can be
+accounted for and justified on Pagan principles, many more and
+infinitely stronger reasons will occur to a Christian Reader in behalf
+of what are called unhappy Catastrophes from the consideration of the
+doctrine of _future rewards_; which is every-where strongly inforced in
+the History of Clarissa.
+
+'Of this (to give but one instance) an ingenious Modern, distinguished
+by his rank, but much more for his excellent defence of some of the most
+important doctrines of Christianity, appears convinced in the conclusion
+of a pathetic _Monody_, lately published; in which, after he had
+deplored, as a man _without hope_, (expressing ourselves in the
+Scripture phrase) the loss of an excellent Wife; he thus consoles
+himself:
+
+    '_Yet, O my soul! thy rising murmurs stay,
+    Nor dare th' All-wise Disposer to arraign,
+        Or against his supreme decree
+          With impious grief complain.
+  That all thy full-blown joys at once should fade,
+  Was his most righteous Will: And be that Will obey'd._
+
+    '_Would thy fond love his grace to her controul,
+    And in these low abodes of sin and pain
+          Her pure, exalted soul,
+    Unjustly, for thy partial good, detain?
+    No--rather strive thy groveling mind to raise
+      Up to that unclouded blaze,
+    That heav'nly radiance of eternal light,
+    In which enthroned she now with pity sees
+      How frail, how insecure, how slight
+          Is ev'ry mortal bliss._
+
+
+'But of infinitely greater weight than all that has been above produced
+on this subject, are the words of the Psalmist.
+
+"As for me, says he[43], my feet were almost gone, my step had well-nigh
+slipt: For I was envious at the foolish, when I saw the prosperity of
+the wicked. For their strength is firm: They are not in trouble as other
+men; neither are they plagued like other men--Their eyes stand out with
+fatness: They have more than their heart could wish--Verily I have
+cleansed mine heart in vain, and washed my hands in innocence; for all
+the day long have I been plagued, and chastened every morning. When I
+thought to know this, it was too painful for me. Until I went into the
+sanctuary of God; then understood I their end--Thou shalt guide me with
+thy counsel, and afterward receive me to glory.'
+
+'This is the Psalmist's comfort and dependence. And shall man, presuming
+to alter the common course of nature, and, so far as he is able, to
+elude the tenure by which frail mortality indispensibly holds, imagine,
+that he can make a better dispensation; and by calling it _Poetical
+Justice_, indirectly reflect on the _Divine_?
+
+The more pains have been taken to obviate the objections arising from
+the notion of _Poetical Justice_, as the doctrine built upon it had
+obtained general credit among us; and as it must be confessed to have
+the appearance of _humanity_ and _good-nature_ for its supports. And yet
+the writer of the History of Clarissa is humbly of opinion, that he
+might have been excused referring to them for the vindication of _his_
+Catastrophe, even by those who are advocates for the contrary opinion;
+since the notion of _Poetical Justice_, founded on the _modern rules_,
+has hardly ever been more strictly observed in works of this nature,
+than in the present performance.
+
+For, Is not Mr. Lovelace, who could persevere in his villainous views,
+against the strongest and most frequent convictions and remorses that
+ever were sent to awaken and reclaim a wicked man--Is not this great,
+this _wilful_ transgressor, condignly _punished_; and his punishment
+brought on thro' the intelligence of the very Joseph Leman whom he had
+corrupted[44]; and by means of the very women whom he had
+debauched[45]--Is not Mr. Belton, who has an Uncle's _hastened_ death to
+answer for[46]--Are not the _whole_ Harlowe-family--Is not the vile
+Tomlinson--Are not the infamous Sinclair, and her _wretched
+partners_--And even the wicked _Servants_, who, with their eyes open,
+contributed their parts to the carrying on of the vile schemes of their
+respective principals--_Are they not All likewise exemplarily punished?_
+
+On the other hand, Is not Miss HOWE, for her noble friendship to the
+exalted Lady in her calamities--Is not Mr. HICKMAN, for his
+unexceptionable morals, and integrity of life--Is not the repentant and
+not ungenerous BELFORD--Is not the worthy NORTON--_made signally happy_?
+
+And who that are in earnest in their profession of Christianity, but
+will rather envy than regret the triumphant death of CLARISSA; whose
+piety, from her _early childhood_; whose diffusive charity; whose steady
+virtue; whose Christian humility; whose forgiving spirit; whose
+meekness, and resignation, HEAVEN _only_ could reward[47]?
+
+"We shall now, according to expectation given in the _Preface_ to this
+Edition, proceed to take brief notice of such other objections as have
+come to our knowlege: For as is there said, 'This Work being addressed
+to the Public as an History of _Life_ and _Manners_, those parts of it
+which are proposed to carry with them the force of Example, ought to be
+as unobjectible as is consistent with the _design of the whole_, and
+with _human Nature_.'
+
+"Several persons have censured the Heroine as too cold in her love, too
+haughty, and even sometimes provoking. But we may presume to say, that
+this objection has arisen from want of attention to the Story, to the
+Character of Clarissa, and to her particular situation.
+
+"It was not intended that she should be _in Love_, but _in Liking_ only,
+if that expression may be admitted. It is meant to be every-where
+inculcated in the Story, for _Example-sake_, that she never would have
+married Mr. Lovelace, because of his immoralities, had she been left to
+herself; and that her ruin was principally owing to the persecutions of
+her friends.
+
+"What is too generally called _Love_, ought (perhaps _as_ generally) to
+be called by another name. _Cupidity_, or a _Paphian Stimulus_, as some
+women, even of condition, have acted, are not words too harsh to be
+substituted on the occasion, however grating they may be to delicate
+ears. But take the word _Love_ in the gentlest and most honourable
+sense, it would have been thought by some highly improbable, that
+Clarissa should have been able to shew such a command of her passions,
+as makes so distinguishing a part of her Character, had she been as
+violently in Love, as certain warm and fierce spirits would have had her
+to be. A few Observations are thrown in by way of Note in the present
+Edition, at proper places, to obviate this Objection, or rather to
+bespeak the _Attention_ of hasty Readers to what lies obviously before
+them. For thus the Heroine anticipates this very Objection,
+expostulating with Miss Howe, on her contemptuous treatment of Mr.
+Hickman; which [far from being guilty of the same fault herself] she did
+on all occasions, and declares she would do, whenever Miss Howe forgot
+herself, altho' she had not a day to live:
+
+"'O my dear, says she, that it had been my Lot (as I was not permitted
+to live single) to have met with a man, by whom I _could_ have acted
+generously and unreservedly!
+
+"'Mr. Lovelace, it is now plain, in order to have a pretence against me,
+taxed my behaviour to him with stiffness and distance. You, at one time,
+thought me guilty of some degree of Prudery. Difficult situations should
+be allowed for; which often make seeming occasions for censure unavoidable.
+I deserved not blame from _him_, who made mine difficult. And if I had
+had any other man to deal with than Mr. Lovelace, or had he had but half
+the merit which Mr Hickman has, you, my Dear, should have found, that my
+Doctrine, on this Subject, should have governed my Practice.' See this
+whole Letter[48]; See also Mr. Lovelace's Letter No lxxvii. Vol. VII.
+p. 310. _& seq._ where, just before his Death, he entirely acquits her
+conduct on this head.
+
+"It has been thought by some worthy and ingenious persons, that if
+Lovelace had been drawn an _Infidel_ or _Scoffer_, his Character,
+according to the Taste of the present worse than Sceptical Age, would
+have been more natural. It is, however, too well known, that there are
+very many persons, of his Cast, whose actions discredit their belief.
+And are not the very Devils, in Scripture, said to _believe_ and
+_tremble_?
+
+"But the Reader must have observed, that great, and, it is hoped, good
+Use, has been made throughout the Work, by drawing Lovelace an Infidel
+only in _Practice_; and this as well in the arguments of his friend
+Belford, as in his own frequent Remorses, when touched with temporary
+Compunction, and in his last Scenes; which could not have been made, had
+either of them been painted as _sentimental_ Unbelievers. Not to say,
+that Clarissa, whose great Objection to Mr. Wyerly was, that he was a
+Scoffer, must have been inexcusable had she known Lovelace to be so, and
+had given the least attention to his Addresses. On the contrary, thus
+she comforts herself, when she thinks she must be his--'This one
+consolation, however, remains: He is not an Infidel, an Unbeliever. Had
+he been an Infidel, there would have been no room at all for hope of
+him; but (priding himself as he does in his fertile invention) he would
+have been utterly abandoned, irreclaimable, and a Savage[49].' And it
+must be observed, that Scoffers are too witty in their own opinion; in
+other words, value themselves too much upon their profligacy, to aim at
+concealing it.
+
+"Besides, had Lovelace added ribbald jests upon Religion, to his other
+liberties, the freedoms which would then have passed between him and his
+friend, must have been of a nature truly infernal. And this farther hint
+was meant to be given, by way of inference, that the man who allowed
+himself in those liberties either of speech or action, which Lovelace
+thought shameful, was so far a worse man than Lovelace. For this reason
+is he every-where made to treat jests on sacred things and subjects,
+even down to the Mythology of the Pagans, among Pagans, as undoubted
+marks of the ill-breeding of the jesters; obscene images and talk, as
+liberties too shameful for even Rakes to allow themselves in; and
+injustice to creditors, and in matters of _Meum_ and _Tuum_, as what it
+was beneath him to be guilty of.
+
+"Some have objected to the meekness, to the tameness, as they will have
+it to be, of the character of Mr. Hickman. And yet Lovelace owns, that
+he rose upon him with great spirit in the interview between them; once,
+when he thought a reflection was but implied on _Miss Howe_[50]; and
+another time, when he imagined _himself_ treated contemptuously[51].
+Miss Howe, it must be owned (tho' not to the credit of her own
+character) treats him ludicrously on several occasions. But so she does
+her Mother. And perhaps a Lady of her lively turn would have treated as
+whimsically any man but a Lovelace. Mr. Belford speaks of him with
+honour and respect[52]. So does Colonel Morden[53]. And so does Clarissa
+on every occasion. And all that Miss Howe herself says of him, tends
+more to his reputation than discredit[54], as Clarissa indeed tells
+her[55].
+
+"And as to Lovelace's treatment of him, the Reader must have observed,
+that it was his way to treat every man with contempt, partly by way of
+self exaltation, and partly to gratify the natural gaiety of his
+disposition. He says himself to Belford[56], 'Thou knowest I love him
+not, Jack; and whom we love not, we cannot allow a merit to; perhaps not
+the merit they should be granted.' 'Modest and diffident men,' writes
+Belford, to Lovelace, in praise of Mr. Hickman, 'wear not soon off those
+little precisenesses, which the confident, if ever they had them,
+presently get over[57].'
+
+"But, as Miss Howe treats her Mother as freely as she does her Lover; so
+does Mr. Lovelace take still greater liberties with Mr. Belford, than he
+does with Mr. Hickman, with respect to his person, air, and address, as
+Mr. Belford himself hints to Mr. Hickman[58]. And yet he is not so
+readily believed to the discredit of Mr. Belford, by the Ladies in
+general, as he is when he disparages Mr. Hickman. Whence can this
+partiality arise?--
+
+"_Mr. Belford had been a Rake: But was in a way of reformation._
+
+"_Mr. Hickman had always been a good man._
+
+"_And Lovelace_ confidently says, _That the women love a man whose
+    regard for them is founded in the knowlege of them_[59].
+
+"Nevertheless, it must be owned, that it was not proposed to draw Mr.
+Hickman, as the man of whom the Ladies in general were likely to be very
+fond. Had it been so, _Goodness of heart_, and _Gentleness of manners_,
+_great Assiduity_, and _inviolable_ and _modest_ Love, would not of
+themselves have been supposed sufficient recommendations. He would not
+have been allowed the least share of _preciseness_ or _formality_,
+altho' those defects might have been imputed to his reverence for the
+object of his passion: But in his character it was designed to shew,
+that the same man could not be every-thing; and to intimate to Ladies,
+that in chusing companions for life, they should rather prefer the
+honest heart of a Hickman, which would be all their own, than to risque
+the chance of sharing, perhaps with scores, (and some of those probably
+the most profligate of the Sex) the volatile mischievous one of a
+Lovelace: In short, that they should chuse, if they wished for durable
+happiness, for rectitude of mind, and not for speciousness of person or
+address: Nor make a jest of a good man in favour of a bad one, who would
+make a jest of them and of their whole Sex.
+
+"Two Letters, however, by way of accommodation, are inserted in this
+edition, which perhaps will give Mr. Hickman's character some
+heightening with such Ladies, as love spirit in a man; and had rather
+suffer by it, than not meet with it.--
+
+  _Women, born to be controul'd,
+  Stoop to the Forward and the Bold,_
+
+Says Waller--And Lovelace too!
+
+"Some have wished that the Story had been told in the usual narrative
+way of telling Stories designed to amuse and divert, and not in Letters
+written by the respective persons whose history is given in them. The
+author thinks he ought not to prescribe to the taste of others; but
+imagined himself at liberty to follow his own. He perhaps mistrusted his
+talents for the narrative kind of writing. He had the good fortune to
+succeed in the Epistolary way once before. A Story in which so many
+persons were concerned either principally or collaterally, and of
+characters and dispositions so various, carried on with tolerable
+connexion and perspicuity, in a series of Letters from different
+persons, without the aid of digressions and episodes foreign to the
+principal end and design, he thought had novelty to be pleaded for it:
+And that, in the present age, he supposed would not be a slight
+recommendation.
+
+"But besides what has been said above, and in the _Preface_, on this
+head, the following opinion of an ingenious and candid Foreigner, on
+this manner of writing, may not be improperly inserted here.
+
+"'The method which the Author has pursued in the History of Clarissa, is
+the same as in the Life of Pamela: Both are related in familiar Letters
+by the parties themselves, at the very time in which the events
+happened: And this method has given the author great advantages, which
+he could not have drawn from any other species of narration. The minute
+particulars of events, the sentiments and conversation of the parties,
+are, upon this plan, exhibited with all the warmth and spirit, that the
+passion supposed to be predominant at the very time, could produce, and
+with all the distinguishing characteristics which memory can supply in a
+History of recent transactions.
+
+"'Romances in general, and Marivaux's amongst others, are wholly
+improbable; because they suppose the History to be written after the
+series of events is closed by the catastrophe: A circumstance which
+implies a strength of memory beyond all example and probability in the
+persons concerned, enabling them, at the distance of several years, to
+relate all the particulars of a transient conversation: Or rather, it
+implies a yet more improbable confidence and familiarity between all
+these persons and the author.
+
+"'There is, however, one difficulty attending the Epistolary method; for
+it is necessary, that all the characters should have an uncommon taste
+for this kind of conversation, and that they should suffer no event, nor
+even a remarkable conversation, to pass, without immediately committing
+it to writing. But for the preservation of the Letters _once written_,
+the author has provided with great judgment, so as to render this
+circumstance highly probable[60].'
+
+"It is presumed that what this gentleman says of the difficulties
+attending a Story thus given in the Epistolary manner of writing, will
+not be found to reach the History before us. It is very well accounted
+for in it, how the two principal Female characters come to take so great
+a delight in writing. Their subjects are not merely subjects of
+amusement; but greatly interesting to both: Yet many Ladies there are
+who now laudably correspond, when at distance from each other, on
+occasions that far less affect their mutual welfare and friendships,
+than those treated of by these Ladies. The two principal gentlemen had
+motives of gaiety and vain-glory for their inducements. It will
+generally be found, that persons who have talents for familiar writeing,
+as these correspondents are presumed to have, will not forbear amusing
+themselves with their pens, on less arduous occasions than what offer to
+these. These Four (whose Stories have a connexion with each other) out
+of a great number of characters which are introduced in this History,
+are only eminent in the Epistolary way: The rest appear but as
+occasional writers, and as drawn in rather by necessity than choice,
+from the different relations in which they stand with the four principal
+persons."
+
+The Length of the piece has been objected to by some, who perhaps looked
+upon it as a mere _Novel_ or _Romance_; and yet of _these_ there are not
+wanting works of equal length.
+
+They were of opinion, that the Story moved too slowly, particularly in
+the first and second Volumes, which are chiefly taken up with the
+Altercations between Clarissa and the several persons of her Family.
+
+But is it not true, that those Altercations are the Foundation of the
+whole, and therefore a necessary part of the work? The Letters and
+Conversations, where the Story makes the slowest progress, are presumed
+to be _characteristic_. They give occasion likewise to suggest many
+interesting _Personalities_, in which a good deal of the instruction
+essential to a work of this nature is conveyed. And it will, moreover,
+be remembered, that the Author, at his first setting out, apprised the
+Reader, that the Story (interesting as it is generally allowed to be)
+was to be principally looked upon as the Vehicle to the Instruction.
+
+To all which we may add, that there was frequently a necessity to be
+very circumstantial and minute, in order to preserve and maintain that
+Air of Probability, which is necessary to be maintained in a Story
+designed to represent real Life; and which is rendered extremely busy
+and active by the plots and contrivances formed and carried on by one of
+the principal Characters.
+
+'Some there are, and Ladies too! who have supposed that the excellencies
+of the Heroine are carried to an improbable, and even to an
+impracticable height, in this History. But the education of Clarissa
+from _early childhood_ ought to be considered, as one of her very great
+advantages; as, indeed, the foundation of _all_ her excellencies: And it
+is hoped, for the sake of the doctrine designed to be inculcated by it,
+that it will.
+
+'She had a pious, a well-read, a not meanly descended woman for her
+Nurse, who with her milk, as Mrs. Harlowe says[61], gave her that
+nurture which no other Nurse could give her. She was very early happy in
+the conversation-visits of her learned and worthy Dr. Lewen, and in her
+correspondencies, not with him only, but with other Divines mentioned in
+her last Will. Her Mother was, upon the whole, a good woman; who did
+credit to her birth and her fortune, and was able to instruct her in her
+early youth: Her Father was not a free-living, or free-principled man;
+in the conversation-visits of her learned and worthy Dr. Lewen, and in
+her correspondencies, not with him only, but with other Divines
+mentioned in her lat Will. Her _Mother_ was, upon the whole, a good
+woman, who did credit to her birth and her fortune; and _both_ delighted
+in her for those improvements and attainments, which gave her, _and them
+in her_, a distinction that caused it to be said, that when she was out
+of the family, it was considered but as a common family[62]. She was
+moreover a Country Lady; and, as we have seen in Miss Howe's character
+of her[63], took great delight in rural and houshold employments; tho'
+qualified to adorn the brightest circle.
+
+'It must be confessed, that we are not to look for _Clarissa's_ among
+the _constant frequenters_ of Ranelagh and Vaux-hall, nor among those
+who may be called _Daughters of the Card-table_. If we do, the character
+of our Heroine may then indeed be justly thought not only improbable,
+but unattainable. But we have neither room in this place, nor
+inclination, to pursue a subject so invidious. We quit it therefore,
+after we have _repeated_, that we _know_ there are _some_, and we _hope_
+there are _many_, in the British dominions [or they are hardly any-where
+in the European world] who, as far as _occasion_ has called upon them to
+exert the like _humble_ and _modest_, yet _steady_ and _useful_,
+virtues, have reached the perfections of a Clarissa.
+
+       *       *       *       *       *
+
+'Having thus briefly taken notice of the most material objections that
+have been made to different parts of this History, it is hoped we may be
+allowed to add, That had we thought ourselves at liberty to give copies
+of some of the many Letters that have been written on the other side of
+the question, that is to say, in approbation of the Catastrophe, and of
+the general Conduct and Execution of the work, by some of the most
+eminent judges of composition in every branch of Literature; most of
+what has been written in this Postscript might have been spared.
+
+'But as the principal objection with many has lain against the length of
+the piece, we shall add to what we have said above on that subject, in
+the words of one of those eminent writers: 'That, _If_, in the History
+before us, it shall be found, that the Spirit is _duly diffused
+throughout_; that the Characters are _various and natural_; _well
+distinguished_ and _uniformly supported_ and _maintained_: _If_ there be
+a _variety of incidents_ sufficient to excite Attention, and those so
+conducted, as to keep the Reader always awake; the Length then must add
+proportionably to the pleasure that every Person of Taste receives from
+a well-drawn Picture of Nature. But where the contrary of all these
+qualities shock the understanding, the extravagant performance will be
+judged tedious, tho' no longer than a Fairy-Tale.'
+
+
+
+
+Footnotes:
+
+[34] Writing on to him.
+
+[35] Her Flight.
+
+[36] See Vol. III. p. 358.
+
+[37] Spectator, Vol I. No XL.
+
+[38] Yet in Tamerlane, two of the most amiable characters, Moneses and
+Arpasia, suffer death.
+
+[39] See Spect. Vol. VII. No 548.
+
+[40] A caution that our Blessed Saviour himself gives in the case of the
+Eighteen persons killed by the fall of the tower of Siloam, Luke xiii. 4.
+
+[41]
+    _Vitiis nemo sine nascitur: optimus ille
+    Qui minimis urgetur----._
+
+[42] Rapin, on Aristotle's Poetics.
+
+[43] Psalm lxxiii.
+
+[44] See Vol. VII. p. 301, 302.
+
+[45] Ibid. p. 315.
+
+[46] See Vol. VI. p. 268.
+
+[47] And here it may not be amiss to remind the Reader, that so early in
+the Work as Vol. II. p. 159, 160, the dispensations of Providence are
+justified by herself. And thus she ends her Reflections--"I shall not
+live always--May my Closing Scene be happy!"
+
+She had her wish. It was happy.
+
+[48] Vol. VII. p. 64, 65, of the First Edition; and Vol. VI. p. 305 of
+this.
+
+[49] Vol. IV. p. 122.
+
+[50] Vol. VI. p. 10.
+
+[51] Vol. VI. p. 14.
+
+[52] Vol. VI. p. 71.
+
+[53] Vol. VII. p. 244.
+
+[54] See Vol. I. p. 314-319, and Vol. III. p. 44, 45.
+
+[55] Vol. I. p. 363.
+
+[56] Vol. VI. p. 1.
+
+[57] Vol. VI. p. 71.
+
+[58] Vol. VII. p. 197.
+
+[59] Vol. IV. p. 302.
+
+[60] This quotation is translated from a Critique on the History of
+CLARISSA, written in French, and published at Amsterdam. The whole
+Critique is rendered into English, and inserted in the Gentleman's
+Magazine of June and August 1749. The author has done great honour in it
+to the History of Clarissa; and as there are Remarks published with it,
+answering several objections made to different passages by that candid
+Foreigner, the Reader is referred to the aforesaid Magazines, for both.
+
+[61] See Vol. III. p 287, 288.
+
+[62] See Vol. VI. p. 274. See also her Mother's praises of her to Mrs.
+Norton, Vol. I. p. 251.
+
+[63] See Vol. VII. p. 278-280.
+
+
+
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+_Publications in Print_
+
+1948-1949
+
+16. Nevil Payne's _Fatal Jealousy_ (1673).
+
+17. Nicholas Rowe's _Some Account of the Life of Mr. William
+Shakespeare_ (1709).
+
+18. "Of Genius," in _The Occasional Paper_, Vol. III, No. 10 (1719); and
+Aaron Hill's Preface to _The Creation_ (1720).
+
+1949-1950
+
+22. Samuel Johnson's _The Vanity of Human Wishes_ (1749) and Two Rambler
+papers (1750).
+
+23. John Dryden's _His Majesties Declaration Defended_ (1681).
+
+1950-1951
+
+26. Charles Macklin's _The Man of the World_ (1792).
+
+1951-1952
+
+31. Thomas Gray's _An Elegy Wrote in a Country Church Yard_ (1751); and
+_The Eton College Manuscript_.
+
+1952-1953
+
+41. Bernard Mandeville's _A Letter to Dion_ (1732).
+
+1953-1954
+
+45. John Robert Scott's _Dissertation on the Progress of the Fine
+Arts_.
+
+1954-1955
+
+49. Two St. Cecilia's Day Sermons (1696-1697).
+
+51. Lewis Maidwell's _An Essay upon the Necessity and Excellency of
+Education_ (1705).
+
+52. Pappity Stampoy's _A Collection of Scotch Proverbs_ (1663).
+
+1958-1959
+
+75. John Joyne, _A Journal_ (1679).
+
+76. Andre Dacier, _Preface to Aristotle's Art of Poetry_ (1705).
+
+1959-1960
+
+80. [P. Whalley's] _An Essay on the Manner of Writing History_ (1746).
+
+83. _Sawney and Colley (1742) and other Pope Pamphlets._
+
+84. Richard Savage's _An Author to be lett_ (1729).
+
+1960-1961
+
+85-6. _Essays on the Theatre from Eighteenth-Century Periodicals._
+
+87. Daniel Defoe, _Of Captain Mission and his Crew_ (1728).
+
+90. Henry Needler, _Works_ (1728).
+
+1961-1962
+
+93. John Norris, _Cursory Reflections Upon a Book Call'd. An Essay
+Concerning Human Understanding_ (1690).
+
+94. An Collins, _Divine Songs and Meditacions_ (1653).
+
+95. _An Essay on the New Species of Writing Founded by Mr. Fielding_
+(1751).
+
+96. _Hanoverian Ballads._
+
+1962-1963
+
+97. Myles Davies, _Athenae Britannicae_ (1716-1719).
+
+98. _Select Hymns Taken Out of Mr. Herbert's Temple_ (1697).
+
+99. Thomas Augustine Arne, _Artaxerxes_ (1761).
+
+100. Simon Patrick, _A Brief Account of the New Sect of Latitude-Men_
+(1662).
+
+101-2. Richard Hurd, _Letters on Chivalry and Romance_ (1762).
+
+William Andrews Clark Memorial Library: University of California, Los
+Angeles
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+GENERAL EDITORS
+  R. C. BOYS
+  University of Michigan
+
+  EARL MINER
+  University of California, Los Angeles
+
+  MAXIMILLIAN E. NOVAK
+  University of California, Los Angeles
+
+  LAWRENCE CLARK POWELL
+  Wm. Andrews Clark Memorial Library
+
+  _Corresponding Secretary:_ Mrs. Edna C. Davis, Wm. Andrews Clark
+    Memorial Library
+
+
+The Society's purpose is to publish reprints (usually facsimile
+reproductions) of rare seventeenth and eighteenth century works. All
+income of the Society is devoted to defraying costs of publication and
+mailing.
+
+Correspondence concerning subscriptions in the United States and Canada
+should be addressed to the William Andrews Clark Memorial Library, 2205
+West Adams Boulevard, Los Angeles, California. Correspondence concerning
+editorial matters may be addressed to any of the general editors. The
+membership fee is $5.00 a year for subscribers in the United States and
+Canada and 30/- for subscribers in Great Britain and Europe. British and
+European subscribers should address B. H. Blackwell, Broad Street,
+Oxford, England. Copies of back issues in print may be obtained from the
+Corresponding Secretary.
+
+The publications for 1963-1964 are in part subsidized by funds
+generously given to the Society in memory of the late Professor Edward
+N. Hooker, one of its co-founders.
+
+Publications for 1963-1964
+
+SAMUEL RICHARDSON, _Clarissa_: Preface, Hints of Prefaces, and
+Postscript. Introduction by R. F. Brissenden.
+
+THOMAS D'URFEY, _Wonders in the Sun, or the Kingdom of the Birds_
+(1706). Introduction by William W. Appleton.
+
+DANIEL DEFOE, _A Brief History of the Poor Palatine Refugees_ (1709).
+Introduction by John Robert Moore.
+
+BERNARD MANDEVILLE, _An Enquiry into the Causes of the Frequent
+Executions at Tyburn_ (1725). Introduction by Malvin R. Zirker, Jr.
+
+JOHN OLDMIXON, _An Essay on Criticism_ (1728). Introduction by R. J.
+Madden, C.S.B.
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+William Andrews Clark Memorial Library
+
+2205 WEST ADAMS BOULEVARD, LOS ANGELES, CALIFORNIA 90018
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA.
+
+
+
+Transcriber's Notes:
+
+Passages in italics are indicated by _underscore_.
+
+Passages in bold are indicated by =bold=.
+
+Overstruck passages are indicated by ~overstrike~.
+
+Long "s" has been modernized.
+
+The following misprints have been corrected:
+  "Postcsript" corrected to "Postscript" (page iv)
+  "1947" corrected to "1747" (page x)
+  "were were" corrected to "were" (page 14)
+
+
+The original text includes several blank spaces. These are represented by
+_____ in this text version.
+
+Additional spacing after some of the quotes is intentional to indicate
+both the end of a quotation and the beginning of a new paragraph as
+presented in the original text.
+
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK CLARISSA ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

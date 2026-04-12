@@ -1,0 +1,1312 @@
+﻿The Project Gutenberg eBook of On the improved beet root, as winter food for cattle
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: On the improved beet root, as winter food for cattle
+
+Author: Pinder Simpson
+
+
+        
+Release date: June 18, 2024 [eBook #73863]
+
+Language: English
+
+Original publication: London: J. Swan, 1815
+
+Other information and formats: www.gutenberg.org/ebooks/73863
+
+Credits: Richard Tonsing, Charlene Taylor, and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK ON THE IMPROVED BEET ROOT, AS WINTER FOOD FOR CATTLE ***
+
+
+
+
+
+                                 ON THE
+
+                          IMPROVED BEET ROOT,
+
+                                   OR
+
+                            _MANGEL WURZEL_.
+
+
+
+
+                                 ON THE
+                          IMPROVED BEET ROOT,
+                                   AS
+                              WINTER FOOD
+                              FOR CATTLE.
+
+
+                          _BY PINDER SIMPSON._
+
+
+                          THE FOURTH EDITION.
+
+[Illustration: [Fleuron]]
+
+                                LONDON:
+
+                   Printed by J. Swan, Fleet Street,
+
+                     AND SOLD BY TAYLOR AND HESSEY,
+                         NO. 93, FLEET STREET.
+                                 1815.
+
+
+
+
+                                   TO
+
+                          _JOHN HEATON_, ESQ.
+
+                                   OF
+
+                               BEDFORDS,
+
+                        IN THE COUNTY OF ESSEX.
+
+                      AS A TESTIMONY OF GRATITUDE
+
+                                TO HIM,
+
+                  FOR THE LONG AND FAITHFUL FRIENDSHIP
+
+                               WITH WHICH
+
+                     THE AUTHOR HAS BEEN HONOURED,
+
+                                           THIS TRACT IS INSCRIBED,
+
+                                               BY HIS AFFECTIONATE
+
+                                                   AND OBEDIENT SERVANT,
+
+                                                       PINDER SIMPSON.
+
+
+
+
+                             ADVERTISEMENT.
+
+
+The following observations, experiments, and calculations have been made
+upon the crops of Improved Beet Root, grown upon a farm at Bedfords, in
+the county of Essex, containing 600 acres, belonging to John Heaton,
+Esq. and in his own occupation. The best mode of cultivating this
+valuable root, with the greatest prospect of success, is a subject well
+worth the attention of farmers in general, and to those in particular
+who have _strong soils_ to cultivate, and feel the want of green food
+for their cattle and sheep in the winter and spring months of the year.
+
+Since the first edition of this little work was published, the Author
+has obtained many new lights upon the subject, which he has either
+embodied in the present edition, or published in an Appendix. The
+contents show sufficiently to whom his principal obligation is due, and
+he is restrained only by motives of delicacy from saying more. The
+circulation of the work was intended to have been chiefly confined to a
+few of the inland counties, but the encouragement the Author has
+received, and which he respectfully acknowledges, has induced him to
+publish a fourth edition, for more general circulation.
+
+                                         _Cheese Cross, Romford._
+                                                         _Jan. 1, 1815._
+
+
+
+
+                             THE FOLLOWING
+
+                          NOBLEMEN, GENTLEMEN,
+
+                                  AND
+
+                                FARMERS,
+
+                   HAVE ENCOURAGED THIS PUBLICATION.
+
+
+  The Most Hon. the Marquis of Bath, Longleat, Wilts.
+
+  The Right Hon. Lord William Bentinck, North Lynn, Norfolk.
+
+  The Right Hon. Lord Bradford, Weston Hall, Staffordshire.
+
+  George Bainbridge, Esq. Gobions, Essex.
+
+  Henry Bowman, Esq. Knockin Hall, Shropshire.
+
+  Mr. John Bailey, Chillingham, Northumberland.
+
+  Mr. William Blake, Rilston, Yorkshire.
+
+  The Right Hon. Lord G. H. Cavendish, Holker Hall, Lancashire.
+
+  The Right Hon. R. P. Carew, M.P. Antony, Cornwall.
+
+  Charles Cavendish, Esq. Savile Row, London.
+
+  John Cotes, Esq. M.P. Woodcote, Shropshire.
+
+  The Rev. William Carr, Bolton Abbey, Yorkshire.
+
+  The Rev. Wm. Crofts, North Grimston, Yorkshire.
+
+  John Carr, Esq. Skipton, Yorkshire.
+
+  Charles Cole, Esq. Paston, Northamptonshire.
+
+  James Campbell, Esq. Whitton Dean, Middlesex.
+
+  Charles Campbell, Esq. Edmonton, Middlesex.
+
+  Mr. T. Clarke, Kirkby Hardwick, Nottinghamshire.
+
+  Mr. John Charlton, Bolton, Lancashire.
+
+  His Grace the Duke of Devonshire, Chatsworth, Derbyshire.
+
+  John Denison, Esq. Ossington, Nottinghamshire.
+
+  A. P. Driver, Esq. Kent Road, Surrey.
+
+  Edward Driver, Esq. ditto.
+
+  John Elsee, Esq. Chigwell Row, Essex.
+
+  The Right Hon. Earl Fitzwilliam, Wentworth, Yorkshire.
+
+  Ralph Fletcher, Esq. Hollins, Lancashire.
+
+  The Right Honourable Lord Grantham, Newby Hall, Yorkshire.
+
+  E. S. Godfrey, Esq. Newark, Nottinghamshire.
+
+  The Right Hon. the Earl of Hardwicke, Wimpole, Cambridgeshire.
+
+  Sir Windsor Hunloke, Bart. Wingerworth, Derbys.
+
+  John Heaton, Esq. Bedfords, Essex.
+
+  Charles Heaton, Esq. Burlington Street, London.
+
+  William Hewson, Esq. Havering Grange, Essex.
+
+  C. N. Hastie, Esq. East Grinstead, Sussex.
+
+  Philip Heacock, Esq. Buxton, Derbyshire.
+
+  Samuel Hicks, Esq. Wyddial, Hertfordshire.
+
+  Mr. Richard Hudson, Plaistowe, Essex.
+
+  Charles Jervis, Esq. Hinckley, Leicestershire.
+
+  William Jacobs, Esq. Havering, Essex.
+
+  The Rev. J. Kendal, Barrowby, Lincolnshire.
+
+  Thomas Knowlton, Esq. Edensor, Derbyshire.
+
+  Sir H. T. Liddell, Bart. Ravensworth Castle, Durham.
+
+  William J. Lockett, Esq. Derby.
+
+  The Right Honourable Viscount Milton, Milton, Northamptonshire.
+
+  Sir Thomas Mostyn, Bart. Mostyn, Flintshire,
+
+  A. L. Maynard, Esq. Chesterfield, Derbyshire.
+
+  John Machell, Esq. Low Plains, Cumberland.
+
+  William Morris, Esq. Havering, Essex.
+
+  Mr. William Masterman, Havering, Essex.
+
+  Sir Richard Neave, Bart. Dagnam Park, Essex.
+
+  Dudley North, Esq. M.P. Glenham Hall, Suffolk.
+
+  His Grace the Duke of Portland, Welbeck, Nottinghamshire.
+
+  The Hon. C. A. Pelham, M.P. Appuldurcombe, Isle of Wight.
+
+  J. D. Paul, Esq. Temple Bar, London.
+
+  Thomas Partington, Esq. Offham, Sussex.
+
+  Mr. Peter Potter, Kentish Town, Middlesex.
+
+  Mr. James Pope, Latimer, Buckinghamshire.
+
+  Mr. Thomas Padmore, Lincroft, Staffordshire.
+
+  Mr. Thomas Pinder, Eakring, Nottinghamshire.
+
+  Thomas Roberts, Jun. Esq. Hampstead, Middlesex.
+
+  Edward Russell, Esq. Holland House, Surrey.
+
+  John Renshaw, Esq. Nottingham.
+
+  Mr. Robert Robinson, Havering, Essex.
+
+  Mr. John Rowell, Holbeck, Lancashire.
+
+  The Honourable John Simpson, M.P. Babworth, Nottinghamshire.
+
+  S. E. Sawbridge, Esq. Olantigh, Kent.
+
+  Robert Snow, Esq. Temple Bar, London.
+
+  John Shaw, Esq. Wheston Hall, Derbyshire.
+
+  William Sandby, Esq. Rochlin, Herefordshire.
+
+  John Stephens, Esq. Reading.
+
+  Thomas Sewell, Esq. Newport, Isle of Wight.
+
+  William Stone, Esq. Englefield, Berkshire.
+
+  Benjamin Severn, Esq. Hare Hall, Essex.
+
+  Mr. John Sutton, Sawtry, Huntingdonshire.
+
+  Mr. William Speechly, King’s Newton Hall, Derbyshire.
+
+  Mr. Robert Swift, Wyddial, Hertfordshire.
+
+  The Right Hon. Lord John Townshend, Balls Park, Hertfordshire.
+
+  The Rev. Robert Thomson, LL.D. Long Stowe Hall, Cambridgeshire.
+
+  H. B. Thornhill, Esq. Langwith Lodge, Notts.
+
+  C. T. Tower, Esq. Weald Hall, Essex.
+
+  George Tuson, Esq. Ilchester, Somersetshire.
+
+  Mr. William Trumper, Dorney, Buckinghamshire.
+
+  Mr. Reynier Tiler, Windsor, Berkshire.
+
+  Mr. Robert Tomlin, Stoke, Derbyshire.
+
+  Mr. John Trumper, Harefield, Middlesex.
+
+  C. C. Western, Esq. M.P. Felix Hall, Essex.
+
+  The Rev. E. Williamson, Campton, Bedfordshire.
+
+  C. H. Ware, Esq. Gray’s Inn, Middlesex.
+
+  John Willock, Esq. Golden Square, London.
+
+  Thomas Willan, Esq. Marybone Park, Middlesex.
+
+  Mr. Charles Waistell, Holborn, Middlesex.
+
+  Mr. William Weller, Amersham, Buckinghamshire.
+
+  Mr. William Ward, Durham.
+
+  Mr. Thomas Wolton, Pirgo Park, Essex.
+
+  Mr. Joseph Watson, Shimpling, Norfolk.
+
+  Mr. William Weedon, Wilsden Green, Middlesex.
+
+
+
+
+                                 ON THE
+
+                          IMPROVED BEET ROOT,
+
+                                   AS
+
+                        WINTER FOOD FOR CATTLE.
+
+
+
+
+                                CHAP. I.
+
+
+The garden at Cheese Cross produced a fine crop of the Improved Beet
+Root. The roots, when about the size of a radish, were thinned out with
+a turnip hoe, leaving the plants nearly 15 inches apart each way. I
+selected 60 square yards, 6 by 10, and found the produce to be 360
+roots, equal to 29,040 roots upon an acre. They weighed from 1 pound to
+12 pounds each, and 10 of them, taken up indiscriminately, weighed 40
+pounds. Supposing them, therefore, to average 4 pounds each, the
+_weight_ upon an acre would be something more than 50 tons. One hundred
+weight, cut into small pieces for the cattle, measured 2 bushels. The
+_quantity_ per acre may therefore be estimated at 2000 bushels, 2
+bushels are given to each bullock daily: 196 bushels, the produce of
+only about a tenth part of an acre of garden ground, planted in this
+way, would keep a bullock 14 weeks.
+
+In Mason’s field, on the road from Bedfords to Havering, another fine
+crop was obtained. The roots, when about the size of a radish, were
+taken out of the seed bed, and planted in rows, 3 feet asunder, and the
+plants were about 18 inches apart in each row. I selected 60 square
+yards, 6 by 10, and found the produce to be 126 roots, equal to 10,164
+roots upon an acre. These roots weighed, on an average, 5 pounds each,
+so that the weight upon an acre would be something more than 22 tons.
+Each bullock eats 1 cwt. per day. The produce of 1 acre of ground,
+planted in this way, would keep 4 bullocks feeding for 110 days.
+
+In another part of the same field, on the road from Bedfords to
+Havering, the seed was dibbled in rows, 2 feet apart, and the plants
+were left 12 inches apart in each row. I selected 60 square yards, 6 by
+10, and found the produce to be 270 roots; equal to 21,780 roots upon an
+acre. These roots average a little more than 5 pounds each. The weight
+upon an acre would therefore be something more than 48 tons. Each
+bullock eats 1 cwt. per day. The produce of 1 acre of land, planted in
+this way, would keep 10 bullocks feeding for 97 days.
+
+
+
+
+                               CHAP. II.
+
+
+This is the third year that Mr. Heaton has cultivated the improved Beet
+Root with great success, in three different ways; namely, broadcast on
+ground under garden culture; and, in the field, by dibbling in the seed,
+and transplanting the roots. The result fully justifies a preference in
+favour of dibbling in rows 2 feet apart, as will be seen by the
+following short statement of the produce obtained under each mode of
+culture.
+
+                                                             │ PRODUCE.
+ Broadcast, on strong land, spade-trenched, 10 inches deep,  │ 50 tons
+ leaving the plants after hoeing nearly 15 inches apart each │per acre.
+ way,                                                        │
+
+ Transplanted in rows 3 feet apart, and the plants about 18  │ 22 tons
+ inches apart in each row,                                   │per acre.
+
+ Dibbling the seed in rows 2 feet apart, and the plants left │ 48 tons
+ 12 inches apart in each row,                                │per acre.
+
+A good crop may be obtained by the broadcast method upon deep, loose
+soils, or upon strong soils spade-trenched, 10 or 12 inches deep; but by
+that mode much seed is wasted, and much extra expence incurred in
+labour, hoeing, and transplanting, before the plants are placed 5 inches
+apart each way, which is very material to insure a good crop, under that
+mode of culture.
+
+
+
+
+                               CHAP. III
+
+
+To those who may have been in the habit of cultivating the Swedish
+turnip, it may be desirable to point out the advantages which the
+improved Beet Root has over that turnip. Mr. Heaton had last year, in
+his Havering Green field, the best crop of Swedish turnips that I have
+ever seen, upon his farm, during twelve years’ attention to the
+management of it; and his intelligent agent and farmer, Mr. Henry
+Gibbons, assures me, that he did not see a better crop between London
+and Derby, from which latter place he returned in December last.
+
+The Swedes in this field were drilled in rows 24 inches apart, and the
+plants were left about 9 inches apart in each row. I selected 60 square
+yards, 6 by 10, and found the produce to be 252 turnips, equal to 20,356
+upon an acre. I weighed many of them, and found them from half a pound
+to 6 pounds each, averaging 2 pounds. The weight upon an acre would,
+therefore, be something more than 18 tons: _less_ by 30 tons than the
+produce of an acre of the improved Beet, dibbled in rows 2 feet apart,
+and the plants left 12 inches apart in each row.
+
+The improved Beet has other material advantages over turnips. The crop
+is more certain, as the infant root is not injured by the fly; the
+ground may be cleared in time to sow wheat upon it, and the Beet
+attaining perfection, as it does, before the winter sets in, much labour
+and all the difficulty of getting and carting turnips in bad weather are
+saved to the farmer.
+
+A bushel of the sliced Beet weighs 6 pounds heavier than a bushel of
+Swede turnip sliced. Two bushels of it per day satisfies a bullock
+better than 2 bushels and a half of Swedes; and it is well known, that 2
+bushels and a half of Swedes are better than 3 bushels of common
+turnips. Sheep are fond of the improved Beet after Christmas; so are
+pigs, young cattle, and cows; and, with hay or straw, it will be found
+excellent food for young horses. For milch cows, the Beets have a
+decided advantage over turnips. Turnips, from their rankness, spoil the
+cream and butter; Beet, from its peculiar sweetness, improves both.
+
+It is strongly recommended to the farmers near London to cultivate this
+root, and to the cowkeepers in London to consume it: to them it will be
+found of great value.
+
+Since the above was written, the Author has been favoured with the
+following information, from a Friend, who left his crop in the ground
+till spring.
+
+“My Beet in the Old Yard has stood the late severe frost better than any
+common turnips, and perhaps equally well with the Swedes, very few
+indeed being injured. Some of them were covered with snow, but others
+were exposed. They were rather small, having been planted so late as
+June.” I. K.
+
+
+  “Feb. 23, 1814.”
+
+
+
+
+                               CHAP. IV.
+
+
+For the information and guidance of those occupiers of land, who may be
+desirous of cultivating the improved Beet Root upon strong land, the
+next Chapter will contain a particular account of the method used in
+cultivating that root upon strong land at Bedfords. The method there
+stated, is that which has been found, on three years’ trial, to be least
+expensive in the beginning, and most profitable in the end.—The
+cultivation of this root is earnestly recommended to the attention of
+all persons farming strong lands with a view to profit. It should never
+be forgotten, that 48 tons, the produce of only a single acre, of this
+root, will make 10 bullocks fat enough for the butcher; and that 6
+acres, of equal produce, will fatten 60 bullocks; that the profit on
+each bullock will be considerable; and that when the business of feeding
+is over, the yard will be full of rich dung: neither should it be
+forgotten, that the tenant who sells his straw, cannot partake of any of
+these advantages.
+
+In proof of this assertion, the following facts are submitted for
+consideration:
+
+Mr. Heaton bought two lean Welch bullocks, at Harlow Bush Fair, on the
+9th of September. They cost together £34. They were pastured on the
+Rowens till the 20th of November following, when they were tied up, and
+fed with Beet Root and oat straw till the 9th of February following,
+when they were sold together, in Romford market, for the sum of £50;
+yielding in twenty-two weeks, a profit of £16, which is equal to 7s. 3d.
+per week, for each bullock.
+
+These two bullocks were tied up twelve weeks each, in which time they
+ate eight tons 2 cwt. of Beet Root, the produce of only one-sixth part
+of an acre of land, cultivated according to the method recommended in
+the following chapter.
+
+
+
+
+                                CHAP. V.
+THE METHOD USED IN THE CULTIVATION OF THE IMPROVED BEET ROOT UPON STRONG
+                           LAND AT BEDFORDS.
+
+
+It may be proper, in the first place, to state what is meant by strong
+land. The surface soil is loamy, and from 4 to 12 inches deep, upon a
+bed of strong clay mixed with gravel. It is too heavy, and generally too
+wet, in the winter, even for sheep to eat a crop of turnips on the
+ground; and although good turnips are grown upon it, it is always
+necessary to draw them for the sheep, stall-fed cattle, or for cattle in
+the yards. The ground is prepared to receive the seed, and cleaned in
+the same way as it would have been for Swedish turnips. As that part of
+the business is so well known to all farmers, it is not necessary to
+enter into detail upon it.
+
+In the middle, or latter end of the month of April, the furrows are set
+out with the plough, 2 feet apart, and double ploughed; that is, the
+plough returns on the furrow to the point whence it set out, forming a
+ridge between each furrow.
+
+Double ploughing with a common plough is preferred to single ploughing
+with a double mould board plough, because it affords a greater depth of
+loose earth than the double mould board plough would produce.
+
+In these furrows, the manure, which should be in a rotten state, is
+deposited, after the rate of six cubic yards to an acre.
+
+The ridges are then split by the plough going and returning the same way
+as before mentioned, leaving the manure immediately under the middle of
+the new ridges, A light roller is then passed along the ridges, in the
+middle of which the seed is dibbled, so that the plants may receive all
+the benefit which can be derived from the manure.
+
+The seed is deposited about an inch deep whilst the moisture is fresh in
+the earth, and covered by drawing a garden rake along the rows.
+
+After this, the light roller is again passed along the ridges, and the
+work is finished.
+
+When the plants are about the size of a radish, they are hoed with a
+turnip hoe, leaving the plants in the rows about 12 inches apart. If any
+of the seeds fail, and there happen not to be an even crop, the roots,
+where they are too thick, are drawn out before the hoeing takes place,
+and transplanted, to fill up the vacant places, and insure a full crop,
+which is always certain, inasmuch as 99 plants out of 100, thrive and do
+well. In transplanting, care is necessary to prevent the point of the
+root from turning upwards.
+
+The weeds, whilst the plants are young, are kept hoed, but after the
+head of the plant has once spread, no weed can live underneath its
+shade, and the expence of hoeing afterwards is very trifling indeed.
+
+The whole of the crop is taken up in the month of November, in dry
+weather. The tops are cut off _near_ the _crown_ of the plants, and the
+plants, when perfectly dry, are piled up in a shed, and covered with
+straw sufficiently thick to preserve them from the frost. They kept last
+year till the latter end of March, and they would have kept much longer.
+
+The seed may be had of Cochran, seedsman, in Duke Street, Grosvenor
+Square; of Messrs. Gibbs and Co. Half Moon Street, Piccadilly; and of
+Mr. Mason, Fleet Street. From 3 to 4 pounds of the seed will be
+sufficient for an acre of ground, prepared and dibbled according to the
+method here stated. The price last year was 7s. per pound, but it may
+probably be less hereafter, as the growers of the root, so long as that
+high price continues, will of course save their own seed, and thereby
+lessen the demand from the seedsman.
+
+
+                THE METHOD BEFORE DESCRIBED ELUCIDATED.
+
+
+                  Form of the ridges before manuring.
+
+                          a     a     a     a
+                         /    /    /    /                         /    /    /    /                          /    /    /    /                                  b     b     b
+
+The tops of the ridges about 2 inches broad, _a._ _a._ _a._
+
+Intervals of 24 inches from one _a_ to another.
+
+Depths about 12 inches from _a_ to _b_.
+
+Furrows where the manure is deposited, _b._ _b._ _b._
+
+
+            Form of the ridges after splitting and rolling.
+
+                          A      A      A      A
+                         ---    ---    ---    ---
+                        /     /     /     /                           /     /     /     /                                ^      ^      ^      ^
+                          B      B      B      B
+
+
+    Tops A. A. A. 9 inches broad, in the middle of which the seed is
+                               deposited.
+
+Situation of the manure B. B. B.
+
+
+
+
+                               CHAP. VI.
+
+
+It will not be supposed, by any intelligent farmer, that where the
+quantity of the Improved Beet Root given daily to a bullock is stated,
+it is meant that it should be given without dry food. It may, however,
+be necessary to say, that the same dry food must be given with the Beet
+as is usually given with turnips. Mr. Heaton last year gave oat straw
+only, and the bullocks did well upon that food, and were sold to profit.
+No doubt they would have been ready for the butcher sooner, had good hay
+been given to them: but this fact may be relied upon, that fresh
+bullocks, fed upon the Beet Root and oat straw, will, in 3 months time,
+get fat enough for the butcher.
+
+It may also be necessary to observe, that not a word, here stated, is
+intended to apply to such light turnip soils as will bear the trampling
+of sheep, without injury to the land. Mr. Heaton has none such upon his
+farm, and I have not sufficient knowledge of the management of turnip
+land, of that description, to say, whether prudence would warrant any
+trial of the Beet Root upon a large scale, on such soil, to be eaten on
+the land.
+
+Where a field, selected for a crop of Beet, happens to be in a foul
+state, the seed had better be sown in a garden, and the whole field
+planted with the young Beet, when of the size of a radish. This will
+give time for cleaning the ground, and fitting it for a crop; for,
+although the Beets are destroyers of weeds, it is not meant to recommend
+the sowing them on foul ground, or in any way to encourage a slovenly
+system of farming.
+
+Although manure has been used in the cultivation of this root, it is not
+absolutely necessary; and, if not in a rotten state, it does mischief.
+Good crops have been obtained at Bedfords _without manure_, and without
+injury to the succeeding crops of corn. Beet is fed from a depth
+considerably below the reach of the plough, as generally used; so that
+it does not draw the surface soil in which corn is fed.
+
+The method of cultivating the Beet Root here recommended, is the same as
+that which is used in the cultivation of turnips, in Northumberland and
+other parts of the north, with this exception, that the rows there are
+27 inches apart. There may be reasons in the north for still preferring
+that space, but in Essex the effect of it, in the cultivation of Beet
+Root, would be, that, instead of 48 tons per acre, 43 tons only would be
+obtained. Experience has proved, that the roots do not get to a larger
+size in rows 3 feet apart, than they do in rows 2 feet apart. It may,
+therefore, fairly be presumed, that they would not be larger in rows 27
+inches apart; and if not larger, the weight of the crop, per acre, must
+be less, because the plants decrease in number as the rows increase in
+space.
+
+The advantages that would arise from the cultivation of these roots,
+upon a small part of every strong-land-farm throughout the kingdom, must
+be obvious. Calculations might be given that would astonish and almost
+exceed the belief of most readers. Such calculations, however, in
+general, are but little attended to, and it is thought better to omit
+them, hoping that enough has been said upon the subject, to fix the
+attention of every person interested in the cultivation of land.
+
+[Illustration: [Fleuron]]
+
+
+
+
+                               APPENDIX.
+
+
+[Illustration: [Fleuron]]
+
+
+                                           _Workington Hall, Cumberland,
+                                                       March 9, 1814._
+
+  SIR,
+
+          I had the pleasure of receiving your obliging favour last
+  night, with two copies of the publication on Mangel Wurzel. I have
+  cultivated that root for some years with success. From the Bishop of
+  Derry I learnt to apply the leaves to soiling my milch cows and pigs.
+  The leaves of a good crop are from 10 to 15 tons per acre. I have
+  steeped the seed and mixed it with sand previous to sowing, by which
+  means it vegetates immediately. I have had 60 tons per acre on 3 feet
+  stiches, 9 inches between the plants, and have kept the roots good
+  till the middle of May. I have given the seed to many of my cottagers,
+  who have grown the roots for their pigs, and they have found them to
+  answer well.
+
+                                                       I am, &c.
+                                                           J. C. CURWEN.
+
+                                             _Barrowby, Lincolnshire,
+                                                     December 15, 1814._
+
+  SIR,
+
+          For the last four winters I have constantly fed my milch cows
+  with Beet, but I never exceeded, I believe, a bushel per day to each;
+  not from any apprehension of ill effects when given in larger
+  quantities. My object was, to make it last the longer, as the milk and
+  cream were evidently much improved thereby. The cows always had plenty
+  of hay with the Beet, and when the weather, or rather the state of the
+  land would admit, they were turned into a grass field adjoining my
+  farm yard.
+
+  Mr. Turney, of Sedgbrook, who has finished off some bullocks this
+  Autumn, whilst at grass, with Beet, has given it with great good
+  effect to his milch cows for the last two winters, and he is at this
+  time keeping a new-calved heifer upon it.
+
+  I may add, that I have always found the milk to be increased in
+  quantity, as well as improved in quality, whilst the Beet was used.
+
+  As to the weight of my crop, this year, it is much less than usual. My
+  land, you know, is old garden ground, and produced a crop of Beet last
+  year, Swedes the year before, and carrots in 1811. A tenacious loam,
+  on clay, difficult to work in the Spring. On this I got only 7 cwt. 2
+  qrs. on 6 yards by 10, which is after the rate of 30 tons per acre.
+
+                                                    I am, &c.
+                                                        JONATHAN KENDAL.
+
+                                                 _Stag Brewhouse,
+                                                     December 18, 1814._
+
+  SIR,
+
+          Herewith you receive my report of a small piece of land,
+  planted with Mangel Wurzel by Colonel Elliott. I have been as correct
+  as possible, and have to observe, that I think the culture of it well
+  worth the attention of every farmer.
+
+  The latter end of April, 1814, ten poles of land were sown with Mangel
+  Wurzel, 20 inches distance, in drills; the plants in the row thinned
+  to about 15 inches. The land poor, consisting principally of brick
+  rubbish and road scrapings, with a slight coat of _rotten dung_
+  previous to the sowing. It had two hoeings after the plants were
+  thinned. The plants in two of the rows, about the centre of the piece,
+  were set out 2 feet apart, but these were not larger than where they
+  were at 15 inches.
+
+  On the 8th of November the whole crop was taken up, and, after cutting
+  off the heads, were packed up in a loft. To prevent any incorrectness
+  in calculating the weight by the number of the roots, the whole crop
+  was weighed, which amounted to 3 tons, 1 cwt. 56 pounds, which is
+  according to the rate of 49 tons 4 cwt. per acre. A large portion of
+  the roots weighed from 7 lbs. to 12 lbs. each. When the rows were
+  first thinned, some other pieces were planted with the spare plants,
+  but these did not succeed so well: they were much less than the
+  others.
+
+  Hogs are remarkably fond of this root, and thrive very fast with it:
+  cows are also very eager after both leaves and root. Colonel Elliott
+  began feeding his cows with the Mangel Wurzel in July; the weather
+  being very dry, we were very short of grass. We began with the leaves,
+  and soon after with the roots of two pieces, which were transplanted.
+  The cows looked well and increased in their milk, and were partially
+  fed with the roots till the crop was taken up. The roots were then
+  sliced, and as much of them given to the cows (with a little hay) as
+  they could eat; the milk increased immediately, and the cows improved
+  in flesh.
+
+  My opinion is, that the Mangel Wurzel is a most valuable article of
+  food to the farmer; because, in a severe winter, when turnips are in
+  general destroyed, these roots, properly stacked in a dry place, and
+  covered so as to prevent severe frosts from injuring them, will be a
+  certain supply of nutricious and fattening food, (if cultivated in
+  sufficient quantity) until the spring grass is fit to turn in upon. I
+  should conceive, if the seed is put into the ground in the month of
+  May, after the manner practised in drilling turnips on ridges, that no
+  doubt can be entertained of obtaining a full crop. As Mangel Wurzel
+  exceeds all other winter food, from being preserved under cover
+  without injuring the quality, so it will prevent a recurrence to the
+  expensive food of oil cake or corn.
+
+                                                    I am, &c.
+                                                            G. T. BOULT.
+
+                                                         _Kentish Town,
+                                                     December 29, 1814._
+
+  SIR,
+
+          Having presented one of your books to Mr. Richard Laycock, a
+  considerable farmer and cowkeeper at Holloway, with a request that he
+  would cultivate the root, he did me the favour to make choice of a
+  piece of land, containing 1 rood and 20 perches, which had been part
+  of a field, composed of brick earth or strong clay, in the procurement
+  of which, the field had for several years past been dug over to a
+  great depth below the original surface. On this piece he caused a
+  quantity of soil and rotten dung intermixed therewith to be laid, and
+  the ground levelled, about 10 or 12 inches deep. In the month of May
+  he commenced dibbling the seed in rows 2 feet asunder, and 1 foot
+  apart in the rows; but, for want of time, only about one third part of
+  the crop was got in by this mode. The remainder was transplanted in
+  the middle of June. The whole of the land was kept perfectly clean,
+  and, while confined to the upper soil, the plants made rapid progress.
+  Had the subsoil been of a yielding nature, the crop would have been
+  extraordinary; but it was observable, although the tap roots were
+  particularly vigorous, that so soon as they had penetrated to the
+  unbroken clay, they invariably divided and turned off in a horizontal
+  direction, and afterwards threw out fibrous shoots without number. The
+  seed was procured from a nurseryman at Fulham, and was particularly
+  good. Very few of the plants ran up to seed; those that did so, were
+  not suffered to remain, but were taken up and given to the cows, as
+  were also the lower leaves, which were repeatedly stripped off in
+  considerable quantities. In the middle of November the whole crop was
+  drawn off and weighed, after being cleared of the tops and loose dirt.
+  The produce was 15 tons and a few pounds over, average weight of the
+  roots, 5¾ pounds. Correspondent produce 40 tons per acre.
+
+  Although this experiment on Mr. Laycock’s land falls short of those
+  stated in your Treatise, yet, when the extreme unfavourableness of its
+  situation is considered, that of an exhausted brickfield, the
+  deficiency is easily accounted for. Indeed I cannot help thinking its
+  result such, as to hold out considerable temptation to occupiers of
+  strong clay farms, whereon turnips cannot successfully be cultivated,
+  to make trial of a root, which, with previous winter plowing, promises
+  more profit than can be obtained from any other crop that I know
+  of[1]. The increase of live stock and radical improvements of such
+  farms must necessarily follow.
+
+                                                   I am, &c.
+                                                           PETER POTTER.
+
+
+Footnote 1:
+
+  This description of soil in some seasons is too wet to warrant the
+  removal of a crop of Mangel Wurzel in November. When grown on such
+  soils to be used early in the winter, the crop may be taken up in
+  October; if intended for use in the cold spring months it may remain,
+  with perfect safety, till the ground is sufficiently dry to prevent
+  harm being done by the wheels of carts and the trampling of
+  horses.—EDITOR.
+
+
+                                             _Lincroft House, Lichfield.
+                                                     December 13, 1814._
+
+  SIR,
+
+          I have for your information weighed and taken a pretty
+  accurate account of my small crop of Mangel Wurzel, which I have
+  lately gathered out of a garden belonging to my farm. The length of
+  the garden is 62 yards; and the breadth of the part sown 12 yards, and
+  the produce, according to my firm belief and best calculation, is 4
+  tons, 6 cwt. 40 pounds, and I am well convinced in my own mind, that
+  had I properly attended to the culture of this root, I might have
+  obtained a much greater produce, even in that space of ground; for,
+  you will observe, I have not strictly adhered to the plan laid down in
+  your little publication. In the first instance, the ground was very
+  foul at the time of sowing, and the plants, when growing, were about
+  18 inches apart one way, and nearly one yard the other; there being
+  only 13 rows in the space of 12 yards, and the garden too surrounded
+  with trees, so that I consider every thing was unfavourable. I further
+  beg leave to state as my opinion, that as the ground is very strong,
+  it is not well adapted to the growth of Beet, and as most of the roots
+  were transplanted, they had not a fair chance.
+
+  Transplanted roots are seldom so good as those which have not been
+  removed. I have given Beet Root, for two years past, both to feeding
+  and milch cows with good effect.
+
+                                                         I am &c.
+                                                             J. PADMORE.
+
+                                                 _Wheston, Tideswell,
+                                                     December 16, 1814._
+
+  SIR,
+
+          My Beet Root this year was sown upon light dry limestone land,
+  of good quality, perfectly clean, but in a high situation and cold
+  climate. The seed was partly sown in beds a yard and a half in width,
+  partly drilled, and partly dibbled in ridges at the distance of 28
+  inches, and the plants left 12 inches apart after hoeing. The rows
+  drilled came up much the best, and continued altogether the finest
+  plants. They were thinned and hoed early. The dibbled seed missed in a
+  great number of places[2]; the vacancies were supplied from the
+  drilled rows, transplanted at different ages, and at different times
+  of the year, (as the season suited for the purpose,) but none of them
+  grew in size or luxuriance[2] equal to those left standing in the
+  drilled rows. In the beds the plants were extremely numerous, but they
+  had not the same advantages of being thinned and hoed so early as the
+  drilled rows, and they were in general small in size.
+
+Footnote 2:
+
+    Probably planted too deep.—EDITOR.
+
+  I had a most productive supply of green food to the fold yard, during
+  the months of September and October, from the tops, and during the
+  latter month many of the plants which had run to seed, were also taken
+  up and consumed in the same way. They were given to milch cows morning
+  and evening, during milking time, and to store pigs in the fold yard.
+
+  The produce on 6 yards by 10 was 206 roots in number, and 477 pounds
+  in weight, to which may be added about one-tenth more for plants
+  consumed before the crop was taken up.
+
+  I think the Beet Root affords a very material increase to the stock of
+  green food, of the best quality in the Autumn. months, and, when grown
+  near enough to the farm yard to be taken daily as wanted, without too
+  great an expence in labour and carriage, that mode of consuming the
+  leaves and some of the roots may be resorted to with great advantage,
+  and it may be found a resource of no small use in dry seasons.
+
+  Cattle in general eat both the root and top with eagerness. Pigs
+  prefer them to any other vegetable food. I have occasionally given the
+  roots in winter to horses, and particularly to brood mares and to
+  foals, with hay, and they have invariably done well.
+
+                                                          I am, &c.
+                                                              JOHN SHAW.
+
+
+These and many other letters have been received by the author from
+gentlemen residing in different parts of the kingdom, recommending, from
+their own experience and success, the culture of the improved Beet Root,
+to those farmers who have yet to learn its value. In so doing, they are
+not actuated by any sordid motive or selfish principle. To do good to
+others is their aim, and to promote the public welfare the utmost of
+their ambition.
+
+
+                                 FINIS.
+
+
+
+
+             _J. Swan, Printer, 76, Fleet Street, London._
+
+------------------------------------------------------------------------
+
+
+
+
+                          TRANSCRIBER’S NOTES
+
+
+ ● Typographical errors fixed; non-standard spelling and dialect retained.
+ ● Used numbers for footnotes.
+ ● Enclosed italics font in _underscores_.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK ON THE IMPROVED BEET ROOT, AS WINTER FOOD FOR CATTLE ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

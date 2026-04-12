@@ -1,0 +1,4929 @@
+﻿The Project Gutenberg eBook of Outlines of mineralogy
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Outlines of mineralogy
+
+Author: Torbern Bergman
+
+Translator: William Withering
+
+
+        
+Release date: October 6, 2024 [eBook #74532]
+
+Language: English
+
+Original publication: Birmingham: Piercy and Jones, 1783
+
+Other information and formats: www.gutenberg.org/ebooks/74532
+
+Credits: Richard Tonsing, Charlene Taylor, and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK OUTLINES OF MINERALOGY ***
+
+
+
+
+
+                                OUTLINES
+                                   OF
+                              MINERALOGY,
+                               TRANSLATED
+                           FROM THE ORIGINAL,
+                                   OF
+                          SIR TORBERN BERGMAN,
+                      KNIGHT OF THE ORDER OF WASA,
+                  PROFESSOR OF CHEMISTRY AT UPSAL, &C.
+
+
+                      BY WILLIAM WITHERING, M. D.
+
+                  MEMBER OF THE ROYAL MEDICAL SOCIETY
+
+                             AT EDINBURGH.
+
+       Itum eſt in viſcera terræ;
+       Quaſque recondiderat ſtygiiſque admoverat umbris
+       Effodiunter opes, irritamenta malorum.
+                                                           OVID.
+
+                              BIRMINGHAM:
+
+                      PRINTED BY PIERCY AND JONES,
+
+            FOR T.  CADELL,   AND   G.   ROBINSON,   LONDON,
+                J. BALFOUR, AND C.  ELLIOTT,  EDINBURGH.
+
+                             M,DCC,LXXXIII.
+
+
+
+
+                              TRANSLATOR’s
+                                PREFACE.
+
+The pleaſure and inſtruction I received myſelf from this excellent
+little work of Profeſſor Bergman, inſpired me with a wiſh to make it
+more generally known to others. A ſyſtem like this, founded upon the
+constituent principles of things, may be improved, but never can be
+exploded. Engliſh names are given, but the Latin ones of the original
+are ſtill retained, as an acquaintance with them will enable the reader
+more readily to conſult other authors. Blank ſpaces are left after most
+of the ſpecies, for the convenience of inſerting any new ones that may
+occur. I have added a few new ſpecies, and ſome notes; the utility of
+which will be ſufficiently obvious. The table of metals, at page 71, and
+the index at the end, will alſo, I hope, be conſidered as uſeful
+additions.
+
+    BIRMINGHAM,
+  _1ſt September, 1783_.
+
+N. B. The centenary (_centenarius_) of PROFESSOR BERGMAN is equal to 60
+Swediſh grains, or nearly 63 Engliſh grains.
+
+
+
+
+                                  THE
+                           AUTHOR’s PREFACE.
+
+
+In compliance with the requeſt of my learned and amiable friend, the
+celebrated Mr. Ferber, I tranſmitted to him a ſlight ſketch of
+mineralogy, in which the ſubjects were arranged according to their
+conſtituent or component parts. After peruſing it, he requeſted my
+permiſſion to publiſh it. At firſt I thought it better to ſuppreſs a
+work that was ſo imperfect, eſpecially when I conſidered the number of
+analyſes that yet remained to be made. He replied, that a perfect method
+was not yet to be expected in a ſubject ſo extenſive, but that having
+once laid a good foundation, I might occaſionally make ſuch additions
+and corrections, in new editions of the work, as future experiments
+might render neceſſary. Indeed, I was fully aware, that the ſyſtem would
+ſooner be rendered perfect, if ſubmitted to the inſpection of other more
+diſcerning chemiſts, than if the completion of it reſted upon myſelf
+only. The different remarks of others, will correct errors, which, by a
+further attention, I might have amended; but if the intereſt of ſcience
+be promoted, no matter by whom.
+
+This little work contains GENERA and SPECIES, except in the appendixes,
+which, as not properly belonging to my deſign, contain Genera only.
+
+The GENERA are founded upon the prevalent component parts; the SPECIES
+upon the diverſity of the composition. _Varieties_ depend upon external
+appearances, and therefore are at preſent omitted.
+
+After this manuſcript was ſent away, I diſcovered two species of
+_ſtannum ſulphuratum_ (tin combined with ſulphur), one of which contains
+about forty per cent. of ſulphur, the other only twenty. The firſt has
+the appearance of aurum muſivum; the latter partly reſembles _antimonium
+ſulphuratum_ (crude antimony), but does not contain antimony. Both are
+contaminated by a ſmall quantity of copper. I got them from Nerchinſkoi
+in Siberia[1].
+
+As to the TERRA PONDEROSA (heavy earth), I have long been aware of its
+great reſemblance to calx of lead, and have even lately found a method
+of precipitating it by the phlogiſticated alkaly[2]; ſo that I verily
+believe it to be of a metallic nature, although it has never yet been
+made into a regulus, and, therefore, I ſtill place it with the earths,
+until its ſituation be better aſcertained.
+
+If providence allots me life and health, I hope, a few years hence, to
+republiſh this imperfect ſketch, corrected and enlarged.
+
+
+
+
+                                  OF A
+                             NATURAL SYSTEM
+                                   OF
+                              MINERALOGY.
+
+
+                                  § 1.
+
+The MINERAL KINGDOM conſiſts of the foſſil ſubſtances found in the
+earth. Theſe are either entirely deſtitute of organic structure, or,
+having once poſſeſſed it, poſſeſs it no longer: ſuch are the
+petrefactions.
+
+
+                                  § 2.
+
+It is requiſite, for the proper diſcrimination of foſſils, to eſtabliſh
+certain characters, whereby they may, at all times, and in all places,
+be diſtinguiſhed from one another. The ſcience that teaches theſe is
+called MINERALOGY.
+
+
+                                  § 3.
+
+As in the vegetable kingdom different methods have been formed upon the
+roots, the leaves, the flowers, the fruit, &c. ſo alſo in Mineralogy
+many methods may be deviſed, and there is no doubt of the utility of
+contemplating inorganic bodies in every point of view; for the more
+compariſons are multiplied, the more evidently do reſemblances or
+differences appear.
+
+
+                                  § 4.
+
+But as the chief object of the ſcience is to render foſſils ſubſervient
+to the uſes of man, it is evident that that method muſt be the beſt
+which diſplays their component parts: for theſe being well underſtood,
+we know what to expect from them; we accommodate our deſigns to their
+nature, and ſpend not our labour and money in vain attempts inconſiſtent
+with their inherent qualities.
+
+
+                                  § 5.
+
+There is a power implanted by the creator in organized bodies, which,
+upon the acquiſition of proper nutriment, unfolds and evolves the
+ſtructure which before lay concealed in the fecundated egg or ſeed.
+Similar veſſels, in each ſpecies, abſorb, convey, and aſſimilate the
+nouriſhment in the ſame manner; ſo that the appearance and ſtructure
+remain the ſame, unleſs peculiar cauſes prevent the accuſtomed courſe of
+things, and produce monſters: but this very rarely happens. Hence it is
+that the leading features or the external parts agree with the internal
+properties, and when judiciouſly choſen, form ſufficient characteriſtic
+diſtinctions.
+
+
+                                  § 6.
+
+But the formation of foſſils is totally different. Here no ſyſtem of
+veſſels collects, diſtributes, ſecretes or changes the concurrent
+particles, but they run together by chance, and are ſolely connected by
+the power of attraction; they are generally, too, of different kinds,
+rare and denſe, figured and ſhapeleſs, admitting of every poſſible
+variety. This general view of the ſubject ſhews us how little external
+characters can be depended on; but we ſhall more particularly conſider
+the principal of theſe.
+
+
+                                  § 7.
+
+Colour varies exceedingly, as does alſo the ſize of bodies. We cannot
+ſufficiently wonder at the violence done to nature by the ſtudied
+ſeparation of earths from ſtones. The conſequence is, that a ſtone of a
+certain ſize muſt conſtitute one genus, whilſt the ſame thing, reduced
+to powder, muſt be placed under another genus, which ſhall not be found
+even in the ſame claſs.
+
+
+                                  § 8.
+
+Hardness not unfrequently varies even in the ſame ſpecimen. Soft clay
+dries in the fire, and at length acquires the hardneſs of flint.
+Steatites (_ſoap-rock_) which may be ſcraped with the nail, and many
+other matters harden in the ſame manner, and that ſometimes without any
+notable loſs of weight; ſo that bodies paſs through every different
+degree of hardneſs, without any other change of their mixture.
+
+
+                                  § 9.
+
+TEXTURE, and external form of the particles, may ſeem at firſt ſight to
+depend more upon the conſtituent parts; but a calcareous particle,
+globular or ſhapeleſs, is found, upon the moſt ſcrupulous examination,
+to poſſeſs the ſame properties as a piece of ſpar; and in another place
+I have clearly ſhewn, that the ſchirl-like, garnet-like, hyacinthine,
+twelve-ſided, and other figures, are not unfrequently formed by nature
+out of the ſame materials[3]. And if we are liable to deception where ſo
+great a difference in external forms exiſts, what can we expect from
+leſs conſtant external qualities?
+
+
+                                 § 10.
+
+Superficial characters are therefore inſufficient. They cannot even
+enable us to diſtinguiſh calcareous from other earths, for the
+efferveſcence with acids is a chemical mark, and happens, too, in
+matters of very different natures. To paſs over other inſtances, let him
+who is able diſtinguiſh the plumbum aeratum and plumbum phoſphoratum (§
+182. § 183.) by external appearances only!
+
+
+                                 § 11.
+
+But let us not altogether deſpiſe external characters: it is of moment
+to know and mark them well[4]. They frequently enable the accuſtomed eye
+without troubleſome trials to acquire a degree of certainty, which wants
+only a few ſelect experiments to confirm it. Sometimes alſo the uſe
+depends upon external properties, evident to our ſenſes, as the
+hardneſs, the colour, the pellucidity, &c. Theſe therefore may with
+propriety be joined to thoſe which point out the conſtituent principles.
+
+
+                                 § 12.
+
+Claſſes, Genera and Species are therefore to be formed upon the internal
+nature and compoſition; the varieties upon the external appearances. In
+ſuch a ſyſtem both methods conveniently agree.
+
+
+                                 § 13.
+
+CRONSTEDT firſt attempted this method, and with great ſucceſs; but
+afterwards the _liquid analyſis_, in which the illuſtrious MARGRAAF took
+the lead, better opened the internal ſecrets of nature; ſo that the
+excellent work of Cronſtedt now appears to contain many errors; theſe
+however are not to be attributed to any fault in the author, but to the
+inſufficiency of his experiments. The attempts of Mr. Pott by fuſion
+have long been known; but theſe however uſeful in other reſpects, rather
+tend to confound than to lay open the component parts of bodies.
+
+
+                                 § 14.
+
+In methodizing foſſils, _compounds ſhould rank under the moſt abundant
+ingredient_. Thus let _a_ and _b_ repreſent the component parts; if the
+former be the heavier, the compound muſt be placed under the genus of
+that: but this rule admits of ſeveral exceptions.
+
+
+                                 § 15.
+
+Thus, the _properties of all ingredients are not of the same intenſity_,
+if I may be allowed the expreſſion; ſome are more powerful or
+efficacious, ſo as to impreſs the maſs with their own genus and
+character, though forming _leſs_ than half the weight. In ſuch a caſe
+the qualities are rather to be conſidered than the quantity, eſpecially
+if _b_ ſo far from preponderating hardly ever amounts to half the
+weight.
+
+
+                                 § 16.
+
+Argillaceous earth (_earth of allum_) and magneſia are never found
+ſeparate, but almoſt always mixed with other things ſo that their weight
+conſtitutes the ſmaller part of the maſs: therefore if the above rule (§
+14.) was rigourouſly adhered to, theſe primitive earths would not be
+found amongſt the Genera, which would doubtleſs be an abſurdity.
+
+
+                                 § 17.
+
+The _value_ of a thing muſt likewiſe be conſidered. Minerals containing
+gold or ſilver muſt be ranked with thoſe noble metals although they hold
+three, four, or more times the quantity of heterogeneous matter. Not to
+mention other examples, pyrites are placed under the genus copper
+although they contain a much greater quantity of iron. This cuſtom,
+eſtabliſhed with the univerſal conſent of mineralogiſts, wants indeed a
+natural foundation, but it ſeems uſeful to miners to retain it; and the
+more ſo as it is certain that otherwiſe many minerals would be to be
+sought for under ſtrange and improper titles.
+
+
+                                 § 18.
+
+Laſtly, it muſt be remarked, that _the ſolid ingredient determines the
+genus_ although the menſtruum be greater in quantity. Thus in magneſia
+vitriolata (_Epſom ſalt_) the earth gives the Generic name, although the
+vitriolic acid be the more ponderous. The same holds good in gypſum,
+allum, &c.
+
+
+
+
+                                CLASSES
+                                   OF
+                                FOSSILS.
+
+
+                                 § 19.
+
+Fossils are of four kinds, viz. _ſaline_, _earthy_, _inflammable_, and
+_metallic_; hence ariſe four claſſes.
+
+
+                                 § 20.
+
+Salts, or ſaline ſubſtances are more or leſs ſapid, and when finely
+powdered diſſolve in at leaſt 1000 times their weight of boiling water.
+They melt in the fire, which for the moſt part changes or deſtroys
+them[5].
+
+
+                                 § 21.
+
+Earths are inſipid, not ſoluble in water in the degree mentioned above
+(§ 20) though perhaps water in Papin’s digeſtor will diſſolve ſome if
+not all of them, eſpecially if their ſurface be greatly increaſed by a
+previous ſolution in and precipitation from ſome other menſtruum. In the
+chain of nature they are by inſenſible gradation joined to the ſalts, ſo
+as not to be diſtinguiſhed without artificial limits. Their form is not
+changed by a moderate heat, nor are they diſſipated by a violent one.
+Their ſpecific gravity is to water, leſs than 5 to 1.
+
+
+                                 § 22.
+
+Inflammable foſſils abound with phlogiſton, do not unite with water, but
+when pure diſſolve in oils; expoſed to the fire, they ſmoke, generally
+inflame, are for the moſt part conſumed, and ſometimes totally vaniſh.
+
+
+                                 § 23.
+
+Metals when perfect do not diſſolve at all in water; only a few of them
+in oils, and then only when in part deprived of their phlogiſton. They
+are the heavieſt of all known ſubſtances, the lighteſt of them weighing
+more than ſix times its bulk of water.
+
+They melt in the fire with a ſhining ſurface, and in clay veſſels the
+ſurface is convex.
+
+
+
+
+                                CLASS I.
+                                 SALTS.
+
+
+                                 § 24.
+
+We begin with the nature and properties of ſaline bodies, for
+unacquainted with theſe our knowledge of other bodies muſt be
+exceedingly imperfect. _Native ſalts_ are either _acid_, _alkaline_,
+_neutral_, _earthy_ or _metallic_.
+
+
+                                 § 25.
+
+Acids may be diſtinguiſhed by their proper taſte; they efferveſce with
+mild alkalies; and change the blue juices of vegetables and tincture of
+heliotropium to a red colour[6].
+
+We are acquainted with many ſpecies of acids, but they are hardly ever
+found pure in the bowels of the earth, nor can we expect to find them ſo
+when we conſider how ſoon ſuch powerful menſtrua muſt meet with
+ſubſtances to ſaturate them. Their great abundance and their properties
+ſhew their various and indiſpenſible uſes in the œconomy of nature.
+
+
+                                 § 26.
+
+As mineralogy treats of thoſe bodies which are found under the ſurface
+of the earth, and as acids in an uncombined ſtate are not found there,
+it would ſeem proper to exclude them; but the ſame reaſon would likewiſe
+exclude the primitive earths, ſome of which have never yet been found
+pure. Therefore in a ſyſtem formed upon the component parts of bodies, a
+ſhort deſcription of the principal of theſe is not to be diſpenſed with,
+although they hardly ever preſent themſelves in a ſeparate ſtate.
+
+
+                                 § 27.
+
+_Vitriolic_ ACID. When moſt concentrated by artificial means its
+ſpecific gravity is 2, 125. When pure, has neither colour nor ſmell.
+Cold ſometimes though very rarely concretes it into a ſolid form; it may
+be coagulated by nitrous air. This as well as the other acids is beſt
+known from the compounds it forms with other ſubſtances.
+
+Mr. VANDELLI[7] ſays that it is ſometimes mixed with the ſtreams from
+the hills in the neighbourhood of Sienna and Viterbo, raiſed no doubt by
+ſubterranean fires; but in general it is united to alkalies (§§ 44, 47,
+50,) to earths (§§ 58, 59, 63, 67,) to metals (§§ 69, 70, 72, 73,) or to
+phlogiſton (§§ 134, 136.)
+
+_Phlogiſticated vitriolic_ ACID (volatile vitriolic acid) is frequently
+thrown out by the craters of volcanoes; its ſmell ſuffocating and
+penetrating. The union to phlogiſton and the matter of heat gives it an
+aerial form, but does not prevent its union with water.
+
+
+                                 § 28.
+
+_Nitrous_ ACID is by ſome excluded from the foſſil kingdom, becauſe they
+ſuppoſe it to be produced from the putrefaction of organic bodies. But
+theſe bodies when deprived of life are again received amongſt the
+foſſils, from whence their more fixed parts were originally derived.
+
+In the moſt concentrated ſtate that art can procure it, its ſpecific
+gravity is 1, 580. Colourleſs when pure; but its ſtrong attraction to
+phlogiſton renders particular management neceſſary to procure it ſo[8].
+With different proportions of phlogiſton it forms phlogiſticated acid
+and nitrous air.
+
+It has never as far as I know been met with diſengaged, unleſs perhaps
+in water precipitated out of the atmoſphere, but is found united to
+alkalies (§§ 45, 47, 51 ) or to earths (§§ 60, 64.)
+
+
+                                 § 29.
+
+_Muriatic_ ACID (ſpirit of ſalt) is found in great quantity at and under
+the ſurface of the earth. The ſtrongeſt prepared by art hardly attains a
+ſpecific gravity of 1, 150. It has a very peculiar and volatile ſmell.
+Deprived of its ſuperfluous water it aſſumes an aerial form, for
+phlogiſton ſeems to be one of its conſtituent parts[9].
+
+It has never been found uncombined (unleſs perhaps like the nitrous acid
+in water precipitated from the atmoſphere[10])[11] but united to
+alkalies (§§ 46, 49, 52), to earths (§§ 61, 65), or to metals (§§ 74,
+161, 175, 191).
+
+
+                                 § 30.
+
+_Fluor_ ACID, is obtained by art; its ſpecific gravity never exceeds
+1,500, it is very volatile. Its vapours when hot, corrode glaſs; and
+meeting with moiſture generate, or at leaſt depoſit ſiliceous earth.
+When deprived of its ſuperfluous water it aſſumes an aerial form[12]. It
+has never been found diſengaged, but united to calcareous earth forming
+ſparry fluor[13] (§ 96) and if I am not miſtaken it enters into the
+compoſition of ſiliceous earths.
+
+
+                                 § 31.
+
+_Arſenical_ ACID, dry; prepared by art; ſpecific gravity 3,391; fuſible
+and fixed in the fire, until it acquires from the matter of heat ſo much
+phlogiſton as is neceſſary to convert it into white arſenic. In a moiſt
+air it deliqueſces.
+
+It is not found uncombined, but united to calx of cobalt (§ 228), and
+alſo to phlogiſton, forming a brittle arſenical metal (§ 220), and its
+calx (§ 222).
+
+
+                                 § 32.
+
+_Molybdæna_ ACID. This is very probably of metallic origin, though it
+does not yet appear to which metal it belongs. Seeing that arſenic, a
+brittle metal, by dephlogiſtication only is changed into an acid,
+different from all other acids, it is not improbable that other metals
+may have an acid baſis, although their phlogiſton adhering more ſtrongly
+has not yet been completely ſeparated.
+
+How this ſubſtance may be obtained by art does not belong to this place
+to deſcribe[14]; but that the acid got from Molybdæna has a metallic
+nature, and as yet has not been perfectly freed from phlogiſton, is
+probable from the following conſiderations. 1, Its taſte is acid and at
+the ſame time metallic. 2, Microcoſmic ſalt and borax are coloured by
+it, and theſe ſalts are hardly coloured by any thing but metallic
+calxes. 3, Its decompoſition by means of the phlogiſticated fixed
+alkaly, which always indicates the preſence of a metal. 4, Its concrete
+form, and not deliqueſcing, analogous to white arſenic. 5, Its ſpecific
+gravity 3,460. And very lately M. HIELM by my perſuaſion attempted the
+reduction and obtained a regulus, ſeemingly different from every other
+metal, but not yet ſufficiently examined.
+
+
+                                 § 33.
+
+An acid conjoined to the calx ponderoſa (_ponderous calx or lime_) is
+nearly allied to the preceding, but dropped into lime water produces a
+different compound, though in a number of other circumſtances theſe two
+acids agree. I apprehend that this is likewiſe of a metallic nature.
+
+
+                                 § 34.
+
+_Phoſphoric_ ACID, evidently exiſts in the animal kingdom,[15] much more
+plentifully in the vegetable, but in the foſſil very rare. Mr. J. G.
+GAHN firſt detected it united with lead;[16] but probably it may be
+found in many other foſſils. It is fuſible in the fire. Its ſpecific
+gravity when deprived of water 2,687.
+
+
+                                 § 35.
+
+_Boracic_ ACID, (_acid of borax, or ſedative ſalt_.) Many people ſtill
+think this to be an artificial production, but not long ſince Mr.
+HOEFER[17] found it in a lake near Sienna in the great dutchy of
+Hetruria, and it has long been known to be united to the foſſil alkaly
+in native borax. It acts like an acid, though very feebly. It melts in
+the fire and volatilizes with water. Its ſpecific gravity is 1,480.
+
+
+                                 § 36.
+
+_Amber_ ACID, is a concrete ſalt obtained from amber; it acts like a
+feeble acid. It is yet doubtful whether amber be of vegetable origin;
+many reckon it foſſil.
+
+
+                                 § 37.
+
+_Aerial_ ACID (_fixed air_) is not only combined with water but with
+many other foſſil ſubſtances, as alkalies (§§ 54, 56), earths (§§ 62,
+66), and with ſome metals (§§ 71, 183, 192, 217, 234, 243). It floats
+uncombined in the atmoſphere. Its ſpecific gravity 0,0018[18].
+
+
+                                 § 38.
+
+ALKALIES are known by their peculiar lixivial taſte, by their vehement
+attraction to acids, and by their changing the blue colours of
+vegetables to a green. In a pure ſtate, as was before obſerved of acids,
+their attraction to other ſubſtances is ſo ſtrong that they cannot long
+remain uncombined; and if other acids were wanting, the aerial acid,
+every where preſent in the atmoſphere, would unite with them: therefore
+they are always found in a ſtate of combination, unleſs prepared by art.
+
+
+                                 § 39.
+
+New acids are daily detected, but no additions have been made to the
+three ſpecies of alkaly long ſince known.
+
+
+                                 § 40.
+
+_Vegetable fixed_ ALKALY, deprived of every acid is not found on the
+face of the earth; but it is ſometimes met with in combination with the
+vitriolic acid (§ 44) or the muriatic (§ 46), generally with the
+nitrous, (§ 45) rarely with the aerial (§ 54).
+
+
+                                 § 41.
+
+_Foſſil fixed_ ALKALY is only found in combination with acids, rarely
+with the vitriolic (§ 47) or nitrous (§ 48), principally with the
+muriatic (§ 49) or aerial (§ 55).
+
+
+                                 § 42.
+
+_Volatile_ ALKALY is frequently found in clays, doubtleſs in a mild
+ſtate, for the help of art is required to render it cauſtic. It is alſo
+found united to the vitriolic (§ 50) and the muriatic acids (§ 52.)
+
+
+                                 § 43.
+
+ACIDS united to _alkalies_ form NEUTRAL SALTS. Theſe diſſolved in water
+are no ways diſturbed by the addition of an alkaly, and generally by
+evaporation concrete into cryſtals. If by proper teſts they ſhew neither
+acid nor alkaline properties they are ſaid to be _perfect_ neutrals, but
+_imperfect_ when from defect in quantity or ſtrength of one ingredient
+the peculiar properties of the other more or leſs prevail.
+
+
+We now proceed to conſider the native ſalts of both kinds.
+
+
+
+
+                                NEUTRAL
+                                 SALTS.
+
+
+                                 § 44.
+
+Alkali _vegetabile vitriolatum_ (tartar of vitriol) ſeldom occurs
+ſpontaneouſly, unleſs where tracts of wood have been burnt down.
+
+
+                                 § 45.
+
+Alkali _vegetabile nitratum_ (common nitre) forms upon the ſurface of
+the earth where vegetables, eſpecially when mixed with animal
+ſubſtances, putrify. The alkaline baſis previously exiſts in the
+plants[19], but the origin of the acid is not ſo well underſtood:
+whether it lies concealed in the vegetable acid, and by means of the
+putrefactive proceſs ſufficiently dephlogiſticating it, is evolved; or
+whether the purer part of the atmoſpheric air contains nitrous acid
+_fully_ ſaturated with phlogiſton, which[20] upon the alkaly being
+ſeparated by the putrefaction is attracted and extricated by it, and
+upon loſing its inflammable principle aſſumes its accuſtomed form.
+Nature perhaps operates in both ways; the latter however ſeems clearly
+confirmed by a very remarkable experiment (§ 60.)
+
+As nitre is annually produced in large quantities, it cannot but
+ſometimes be found in ſprings or wells, as has been obſerved at
+Berlin[21], London[22], and elſewhere[23]. Sometimes it abounds in ſuch
+quantities that fleſh boiled in theſe waters turns red.
+
+
+                                 § 46.
+
+ALKALI _vegetabile ſalitum_ (digeſtive ſalt) is ſometimes though rarely
+met with; generated perhaps by the deſtruction of animal and vegetable
+ſubſtances.
+
+
+                                 § 47.
+
+ALKALI _minerale vitriolatum_ (Glauber’s ſalt) is ſometimes found in
+waters. Some of the lakes in Siberia and Astracan contain it, and many
+ſprings in other places.
+
+
+                                 § 48.
+
+ALKALI _minerale nitratum_ (cubic nitre) rarely occurs but where
+maritime plants putrify.
+
+
+                                 § 49.
+
+ALKALI _minerale ſalitum_ (common ſalt) plentiful every where as well in
+the earth, where it forms ſtrata more or leſs thick (ſal gem), as alſo
+diſſolved in ſprings and lakes, and in the ſea. (ſea ſalt.)
+
+
+                                 § 50.
+
+ALKALI _volatile vitriolatum_ (vitriolic ammoniac) is ſcarcely found any
+where but in places where the phlogiſticated fumes of vitriolic acid
+ariſe from burning ſulphur, and in putrid places are abſorbed by the
+volatile alkaly.[24] Thus at Fahlune the acid vapour from the roaſted
+minerals produces this ſalt in the neceſſary houſes. It is ſometimes
+alſo formed in the craters of volcanoes.
+
+
+                                 § 51.
+
+ALKALI _volatile nitratum_ (nitrous ammoniac) is generally found along
+with common nitre.
+
+
+                                 § 52.
+
+ALKALI _volatile ſalitum_ (ſal ammoniac or common ammoniac.) I have
+examined ſome from Veſuvius, and ſome from the Solfaterra near Naples.
+
+The ſalts hitherto enumerated are perfect neutrals, thoſe which follow
+are imperfect (§§ 53, 56.)
+
+
+                                 § 53.
+
+ALKALI FOSSIL, only in part ſaturated with a peculiar acid is called
+tinkal; after depuration, borax. It is dug out of the earth in the
+kingdom of Thibet[25]. Borax takes nearly an equal weight of acid before
+the alkaline properties entirely diſappear[26].
+
+I believe no one has yet found the acid of borax united either to the
+vegetable or volatile alkalies.
+
+
+                                 § 54.
+
+ALKALI VEGETABILE _aeratum_ (mild vegetable alkaly) is hardly ever found
+native, unleſs in the neighbourhood of woods deſtroyed by fire.
+
+In the year 1774, at Douai in Flanders, a ſpring was diſcovered
+ſurrounded by a wall, whoſe waters, beſides other impregnations,
+contained 11 grains of vegetable alkaly in a pint[27].
+
+
+                                 § 55.
+
+ALKALI MINERALE _aeratum_ (mild foſſil alkaly, natron, the nitre of the
+ancients) is found plentifully in many places, particularly in Africa
+and Aſia, either concreted into chryſtallized ſtrata, or fallen to a
+powder; or effloreſcing on old brick walls, or laſtly, diſſolved in
+ſprings. It frequently originates from decompoſed common ſalt. I am not
+ignorant that the acid of common ſalt adheres ſtrongly to its baſis ſo
+as not to be expelled by fire; but perhaps the viciſſitudes of the
+atmoſphere continually acting for ages, may be more powerful. In immenſe
+plains covered over with this alkaly, ſcarcely any common ſalt is found
+upon the ſurface, but the deeper you dig the more it is contaminated by
+it, the common ſalt being yet undecompoſed for want of acceſs of air.
+
+
+                                 § 56.
+
+ALKALI VOLATILE _aeratum_ (mild volatile alkaly) has been found in pump
+waters in London[28], in Lauchſtadt[29], at Frankfort on the Mayne[30],
+and copper immerſed therein is ſaid to have been diſſolved into a blue
+liquor.
+
+The three alkalies mentioned above as ſaturated with aerial acid, differ
+greatly from cauſtic alkalies, in the mildneſs of their taſte, in their
+property of chryſtallizing, and in their efferveſcing with acids which
+expel the aerial acid, but they ſtill change vegetable blues to greens,
+though not ſo powerfully as the cauſtic alkalies do. Therefore, although
+the ſubtil aerial acid in other reſpects gives them neutral properties,
+yet in this it does it but imperfectly.
+
+
+                                 § 57.
+
+The compounds of earths and acids which poſſeſs ſolubility mentioned at
+§ 20, are decompoſed and precipitated by mild, but not by phlogiſticated
+alkalies.
+
+
+                                 § 58.
+
+TERRA PONDEROSA _vitriolata_, (heavy ſpar, marmor metallicum, calk) is
+placed with the earths (§ 89.) Terra ponderoſa _nitrata_ i. e. terra
+ponderoſa united to the nitrous acid, perhaps exiſts ſomewhere, but has
+never been met with; neither has the terra ponderoſa united to the
+_aerial_ acid, yet been found[31]. Terra ponderoſa _ſalita_ i. e. terra
+ponderoſa with the _muriatic acid_ Mr. HIELM ſays[32] is diſſolved in
+the waters of the lake Vettern and its neighbourhood.
+
+
+                                 § 59.
+
+CALX _vitriolata_ (gypſum, ſelenite) is not only found diſſolved in
+various waters, but alſo in many places forms immenſe ſtrata. It is
+placed by all mineralogiſts amongſt the earths, but I think improperly.
+When burnt it generates heat with water, but in a leſs degree than lime
+does.
+
+
+                                 § 60.
+
+CALX _nitrata_ (nitre of lime; terrene nitre) is ſometimes found in
+water, but very ſparingly. It is ſaid that the chalk hills in ſome parts
+of France become ſpontaneouſly impregnated with nitrous acid, which may
+be waſhed out, and after a certain time they will become impregnated
+with it again.
+
+
+                                 § 61.
+
+CALX _Salita_ (fixed ammoniac) occurs very frequently in waters.
+
+
+                                 § 62.
+
+CALX _aerata_ (marble, limeſtone, chalk, ſpar) is very commonly found
+diſſolved in waters in conſequence of an exceſs of the aerial acid. When
+it greatly abounds, the water is ſaid to be hard (_cruda_). By boiling,
+or by evaporation, it depoſits ſtreaks or cruſts of calcareous matter.
+
+Calx aerata is not ſoluble in water without an exceſs of the ſubtil
+acid, and therefore might properly be referred to the earths (§ 21).
+
+
+                                 § 63.
+
+MAGNESIA _vitriolata_ (Epſom ſalt) is not unfrequent in the waters of
+England, Bohemia, and other countries. This ſalt is preſently decompoſed
+by lime water, which circumſtance readily diſtinguiſhes it from the alk.
+min. vitriol. or Glauber’s ſalt.
+
+
+                                 § 64.
+
+MAGNESIA _nitrata_ (magneſia and nitrous acid) is uſually found together
+with nitre.
+
+
+                                 § 65.
+
+MAGNESIA _ſalita_ (magneſia and muriatic acid) is found diſſolved in
+various waters, but plentifully in ſea water, to which it gives a
+diſagreeable bitterneſs.
+
+
+                                 § 66.
+
+MAGNESIA _aerata_ (common magneſia) with an exceſs of aerial acid it
+becomes ſoluble in cold water, otherwiſe it is ſcarce ſoluble at all,
+and therefore ſhould be claſſed with the earths. (§ 21.)
+
+
+                                 § 67.
+
+ARGILLA _vitriolata_ (alum) is ſometimes ſpontaneouſly generated by the
+decompoſition of pyrites lodged in clay, or in argillaceous ſchiſtus.
+
+It is found in a ſpring at Steckenitz in Bohemia[33], in Eaſt Bothnia
+and elſewhere. What is commonly called _plumoſe_ alum is not a ſaline
+ſubſtance.
+
+ARGILLA (clay) united to the _nitrous_, _muriatic_[34], or aerial acids
+has not to my knowledge hitherto been found in any waters.
+
+
+
+
+                                METALLIC
+                                 SALTS.
+
+
+                                 § 68.
+
+The native ſalts belonging to this diviſion, may be diſtinguiſhed by the
+phlogiſticated alkaly which precipitates them all. The few which have
+ſaline properties (§ 20.) we ſhall mention here, referring the reſt to
+the mineralized metals.
+
+
+                                 § 69.
+
+CUPRUM _vitriolatum_ (vitriol of copper, blue vitriol) is found in the
+mines of Herregrund, Fahlune, and others which contain copper pyrites.
+
+
+                                 § 70.
+
+FERRUM _vitriolatum_ (vitriol of iron, green vitriol) is formed from the
+decompoſition of the more common pyrites.
+
+
+                                 § 71.
+
+FERRUM _aeratum_ (iron with aerial acid) diſſolved by an exceſs of acid
+in the lighter chalybeate waters.
+
+FERRUM _nitratum_, and _ſalitum_ (iron with nitrous and muriatic acids)
+have never yet been found native.
+
+
+                                 § 72.
+
+NICCOLUM _vitriolatum_ (vitriol of Nickel) ſometimes exiſts from the
+decompoſition of ſulphureous ores of Nickel.
+
+
+                                 § 73.
+
+ZINCUM _vitriolatum_ (vitriol of zinc, white vitriol) is ſometimes,
+though rarely, produced By the decompoſition of pſeudogalena, or black
+Jack, becauſe this ſubſtance does not very readily decompoſe
+ſpontaneouſly.
+
+
+                                 § 74.
+
+[35]MANGANESIUM _ſalitum_ (manganeſe united to muriatic acid) exiſts in
+ſome waters Mr. HIELM ſays.
+
+Whether manganeſe be ever united to waters like iron, by means of an
+exceſs of aerial acid, we know not.
+
+
+
+
+                                 TRIPLE
+                                 SALTS.
+
+
+                                 § 75.
+
+The compound ſalts hitherto enumerated are ſuch as are compoſed of two
+ingredients only; but ſometimes three or more are ſo united as not to be
+ſeparated by chryſtallization. The vitriols that we are acquainted with
+are hardly ever pure, and two or three of them ſometimes are joined
+together.
+
+Sometimes likewiſe it happens that neutral ſalts join earthy ſalts, and
+earthy ſalts metallic ones. I generally diſtinguiſh compound ſalts
+according to the number of their principles, whether the ſame acid be
+joined to ſeveral baſes, or the ſame baſis to different acids; or
+laſtly, whether ſeveral menſtrua and ſeveral baſes are joined together.
+Hence ariſe ſalts triple, quadruple, &c. which the diligence of after
+times muſt illuſtrate. I ſubjoin the moſt remarkable examples of triple
+and quadruple native ſalts which have occurred to me.
+
+
+                                 § 76.
+
+ALKALI MINERALE SALITUM (common ſalt) contaminated by _magneſia ſalita_.
+The common ſalt when pure does not deliqueſce, but this degree of purity
+is ſeldom found, and in the native foſſil production (_ſal gem_) never.
+
+
+                                 § 77.
+
+MAGNESIA _vitriolata_ (Epſom ſalt) contaminated by _ferrum
+vitriolatum_[36] (vitriol of iron.)
+
+
+                                 § 78.
+
+ARGILLA _vitriolata_ (alum) _native_, contaminated by _vitriol of iron_.
+In the aluminous ſchiſtus it ſometimes effloreſces in a feathery form.
+Is this the plumoſe alum of the antients?
+
+
+                                 § 78*.
+
+ARGILLA _vitriolata_ (alum) native; contaminated by ſulphur and
+vitriolic acid.
+
+At the places about Wedneſbury and Bilſton, in Staffordſhire, where the
+coal pits are on fire, this ſubſtance ſublimes to the ſurface, and may
+be collected in conſiderable quantity during dry or froſty weather. I
+cannot be certain that this is a true chemical union, but the eye cannot
+diſtinguiſh the parts. Perhaps the ſulphur volatilizes the alum and ſo
+becomes intimately mixed with it. The exceſs of vitriolic acid keeps it
+in a deliqueſcent ſtate.
+
+I believe a ſimilar compound ſubſtance ſublimes at the Solfaterra near
+Naples. W.
+
+
+                                 § 79.
+
+ARGILLIA _vitriolata_ (alum) native, contaminated by _vitriol of
+cobalt_. In the mines of Herregrund and Idra this may be ſeen, ſhooting
+out into long ſlender filaments. Perhaps this is the _trichites_ of the
+Greeks. Diſſolved in water it immediately betrays the preſence of
+vitriolic acid, upon the addition of terra ponderoſa ſalita (muriatic
+acid ſaturated with heavy earth.) By the addition of phlogiſticated
+alkali a precipitate of cobalt is thrown down, which makes a blue glaſs
+with borax or microcoſmic ſalt.
+
+
+                                 § 80.
+
+CUPRUM _vitriolatum_ (vitriol of copper) contaminated by _iron_.
+
+
+                                 § 81.
+
+FERRUM _vitriolatum_ (vitriol of iron) contaminated by _nickel_.
+
+
+                                 § 82.
+
+CUPRUM _vitriolatum_ (vitriol of copper) and vitriol of iron
+contaminated by _zinc_. Such is found at Fahlune.
+
+
+
+
+                               CLASS II.
+                                EARTHS.
+
+
+                                 § 83.
+
+Before we can underſtand the nature of earths, we muſt know their
+component parts. Thoſe earths which cannot be further decompoſed we call
+_primitive_, and thoſe which conſiſt of two or more of theſe intimately
+united, _derivative_. By this union we do not mean a mere mechanical
+diffuſion, at leaſt not ſuch as can be diſtinguiſhed by the eye, as is
+the caſe in ſtones, (_ſaxa_.)
+
+
+                                 § 84.
+
+It is evident that the primitive earths will conſtitute ſo many natural
+Genera, and different mixtures of theſe the Species.
+
+They who would make ſeveral Genera out of one primitive earth, muſt
+ſeparate the glaſſy, red, white, horny ſilver ores, and other different
+compoſitions into as many Genera, or elſe act inconſiſtently with their
+own principles.
+
+
+                                 § 85.
+
+At preſent we only know five primitive earths. They who reckon fewer,
+reſt their opinions upon fanciful metamorphoſes unſupported by faithful
+experiments[37]. As experiments teach us that there are five primitive
+earths, it is evident that the Species ariſing from the mixture of theſe
+cannot exceed twenty-four, viz. 10 double (conſiſting of two earths) 6
+triple, 3 quadruple, and the 5 primitive.
+
+Although theſe different mixtures are poſſible, and probably do exiſt,
+they have not yet been all found. The natural compoſitions of acids with
+the earths, forming ſubſtances not ſoluble in 1000 times their weight of
+boiling water, and which may be called ſaline earths, muſt be added to
+the ſpecies, as they are certainly chemical combinations.
+
+
+                                 § 86.
+
+The primitive earths hitherto detected are,
+
+                TERRA PONDEROSA, or heavy earth.
+                CALX,               calcareous earth.
+                MAGNESIA,           magneſia.
+                ARGILLA,            argillaceous earth.
+                TERRA SILICEA,      ſiliceous earth.
+
+And we muſt believe theſe to be primitive, until it ſhall appear by
+proper experiments that they may be ſeparated into others ſtill more
+ſimple, or changed into one another by art.
+
+Theſe are firſt to be conſidered in their greateſt ſimplicity and
+purity, although nature never preſents us with ſuch, nor can they even
+by art be rendered abſolutely free from all heterogeneous mixture. Water
+and aerial acid readily unite with the four firſt, and when expelled by
+fire, a little of the matter of heat is added, and remains until driven
+out by a more powerful attraction. But in this ſtate they poſſeſs a
+degree of purity not to be attained by any other known method. Therefore
+it is neceſſary to examine them when ſufficiently burnt in order to
+diſtinguiſh better what properties depend upon adhering heterogeneous
+matters.
+
+
+
+
+                              HEAVY EARTH,
+                                   OR
+                            TERRA PONDEROSA.
+
+
+                                 § 87.
+
+To obtain this as pure as poſſible, the ſpathum ponderoſum § 89 (heavy
+ſpar) muſt be reduced to a fine powder, and with equal parts of fixed
+alkaly and charcoal duſt roaſted for an hour in a covered crucible.
+Powder the maſs, and add nitrous or muriatic acid diluted until all
+efferveſcence ceaſes, and the liquor be ſenſibly acid. To this liquor
+add mild fixed alkaly, and the heavy earth will be precipitated in a
+mild ſtate. If the acids or the alkaline ſalt contain any vitriolic
+acid, the heavy ſpar will immediately be regenerated. What remains
+undiſſolved by the acid is heavy ſpar, not decompoſed. The proceſs may
+be repeated upon this, but the product will then contain ſome martial
+earth and ſome clay from the crucible, therefore the firſt part will be
+the moſt pure.
+
+
+                                 § 88.
+
+TERRA PONDEROSA _aerata_, (heavy earth) has a ſpecific gravity of 3,
+773[38]. 100 parts of it contain about 28 of water, 7 of aerial acid,
+and 65 of pure earth. It efferveſces with acids: with the vitriolic acid
+forms heavy ſpar, not ſoluble in water; with the nitrous and muriatic
+acids, it yields chryſtals, not very readily ſoluble; but with the
+vegetable acid the chryſtals deliqueſce.
+
+When free from all contamination of acid or alkaly it ſcarcely melts in
+the fire, but loſes ³⁵⁄₁₀₀ of its weight. When united with the matter of
+heat, (i. e. rendered cauſtic) it diſſolves in 900 times its weight of
+water; and when this ſolution is expoſed to the atmoſphere, a cream or
+cruſt ſeparates at the top, which efferveſces with acids. After burning,
+it unites to acids without efferveſcence; but heat is produced, and the
+union is more tardy than when it is in a mild ſtate[39].
+
+When cauſtic, it expels the volatile alkaly from ſal ammoniac, and forms
+a hepar with ſulphur, the watery ſolution of which is but imperfectly
+decompoſed by the nitrous or muriatic acids, upon account of the
+remarkable attraction betwixt this earth and the acid of the ſulphur,
+which it even takes from the vegetable alkaly[40].
+
+When we compare theſe properties with thoſe which belong to common
+calcareous earth, mentioned at (§§ 92, 93), we ſhall readily ſee wherein
+they agree, and wherein they differ.
+
+
+                                 § 89.
+
+TERRA PONDEROSA _vitriolata_ (heavy ſpar) is full four times as heavy as
+an equal bulk of water. It diſſolves entirely, though ſparingly, in
+concentrated boiling vitriolic acid, but the addition of a ſingle drop
+of water occaſions a precipitation. The ſame thing happens to gypſum;
+but that requires much leſs acid to diſſolve it, and the precipitation
+is made more ſlowly. If the heavy ſpar contained any ſulphur, it muſt
+certainly have appeared when the whole was diſſolved, but I never could
+find any thing like it.
+
+
+  CRONSTEDT, Min. § 18. 2.
+
+  _Marmor metallicum druſicu_ § 19 C. Ponderous Spar.
+
+
+                                 § 90.
+
+TERRA PONDEROSA _vitriolata_, impregnated with bitumen, and mixed with
+gypſum, alum, and ſiliceous earth.
+
+
+  CRONSTEDT Min. § 24. _Lapis hepaticus._ Liver Stone.
+
+
+A nucleus of this kind, taken out of a piece of alum ore from Andrarum
+in the province of Skone, yielded, in 100 parts, by analyſis, 33 of
+ſiliceous earth, 29 of cauſtic heavy earth, earth of alum about 5, and
+quick-lime from 3 to 7, beſides the water and vitriolic acid. By
+calculation it appears, that theſe baſes, together with vitriolic acid
+enough to ſaturate them, ought to weigh 71, which, with the addition of
+33, exceeds the amount of the original 100. This increaſe points out the
+difference of a maſs newly chryſtallized, and of one carefully dried.
+
+
+                                 § 91.
+
+When we conſider that the terra ponderoſa was altogether unknown before
+the year 1774, and that many mineralogiſts are even now unacquainted
+with it, we cannot wonder that we know ſo few ſpecies of it. I have
+ſcarce a doubt but the _terra ponderoſa aerata_ may be found mixed with
+other earths in many ſpecimens, when they come to be examined by
+chemical means more accurately than they could be heretofore. (See notes
+to §§ 58 and 88.)
+
+
+
+
+                           CALCAREOUS EARTH,
+                                   OR
+                                 CALX.
+
+
+                                 § 92.
+
+As calcareous earth united to the aerial acid is found native, it
+requires but little trouble to have it pure. Let ſelected pieces of
+chalk, reduced to fine powder, be repeatedly boiled in pure water: this
+diſſolves any calx or magneſia ſalita which it may contain. This done,
+it holds no heterogeneous matter but what mechanically adheres to it,
+the quantity of which is generally extremely ſmall. If we deſire to be
+free from this likewiſe, diſſolve the waſhed chalk in diſtilled vinegar,
+precipitate with volatile alkaly, and after waſhing the precipitate
+well, dry it.
+
+
+                                 § 93.
+
+The ſpecific gravity of calcareous earth thus purified, is 2,720. 100
+parts of it contain about 34 of aerial acid, 11 of water, and 55 of pure
+earth.
+
+Acids unite with it efferveſcing, and a centenary (centenarius) excites
+about 22 degrees of heat. The vitriolic acid forms gypſum, difficult to
+diſſolve, (§ 59). The nitrous and muriatic acids form deliqueſcent ſalts
+(§§ 60, 61), and the acetous acid permanent chryſtals.
+
+Pure calcareous earth does not melt in the fire, but loſes ⁴⁵⁄₁₀₀ of its
+weight. It diſſolves in 700 times its weight of water, generating
+heat[41]. Acids diſſolve it, producing from a centenary 252 degrees of
+heat, but without any efferveſcence. This laſt circumſtance may be beſt
+obſerved by immerging the burnt earth in water, to diſſipate a part of
+the heat, which would otherwiſe make the acid boil. The water likewiſe
+expels the atmoſpheric air from the pores of the lime. In this
+ſituation, if nitrous or muriatic acid be poured upon it, and if it was
+previouſly well burnt, no efferveſcence will take place. The ſolution
+proceeds ſlowly[42], but the ſaturation becomes as perfect as if the
+calcareous earth had been in a mild ſtate. This burnt earth, or lime,
+expels the volatile alkaly from ſal ammoniac in a cauſtic ſtate, and it
+diſſolves ſulphur; but this compound is ſeparated upon the addition of
+any acid, even the aerial.
+
+
+                                 § 94.
+
+Amongſt the native Species of this genus, we muſt firſt mention the CALX
+_aerata_ (marble, limeſtone, chalk) which conſtitute immenſe ſtrata. Its
+chief properties are enumerated above (§ 92). It is very rarely found
+entirely free from iron, which exiſts even in the pureſt Icelandic ſpar,
+and indeed in almoſt every foſſil production; upon which account only
+the more remarkable impregnations with iron will be noticed in the
+following pages.
+
+
+  CRONSTEDT Min. §§ 5–12.
+
+
+                                 § 95.
+
+CALX _aerata_ (calcareous earth _mild_), with more or leſs _petroleum_.
+It efferveſces with acids, and diſſolves; with the vitriolic acid
+frequently turning brown. Is fœtid when heated or rubbed. The oil is not
+in ſufficient quantity to be collected, by diſtillation, in drops; it
+only fouls the inſide of the veſſels, unleſs a very great quantity be
+operated upon. In an open fire the colour preſently vaniſhes, from the
+petroleum drying up. It generally contains a portion of martial clay.
+
+
+  CRONSTEDT Min. §§ 22, 23. _Lapis ſuillus._ Fœtid ſtone.
+
+
+                                 § 96.
+
+CALX _fluorata_ (calcareous earth and _fluor acid_), when pure, is
+wholly ſoluble in nitrous and muriatic acids. Expoſed to heat, below
+ignition, it emits a phosphoreſcent light. Fluor acid, dropped into lime
+water, precipitates a powder which has all the properties of the calx
+fluorata. It is ſometimes, but not always, contaminated by a ſmall
+proportion of ſiliceous earth and muriatic acid.
+
+
+  CRONSTEDT Min. §§ 97–101. _Sparry fluor._ Blue John.
+
+
+                                 § 97.
+
+CALX (calcareous earth) ſaturated with a _peculiar acid_, perhaps of a
+metallic nature (§ 33). In acids, particularly in the muriatic, it
+aſſumes a remarkable yellow colour, but is not very ſoluble.
+
+
+  CRONSTEDT Min. § 210. Lapis ponderoſus. Tungſten.
+
+
+                                 § 98.
+
+CALX _aerata_ (calcareous earth _mild_), contaminated by a ſmall
+proportion of _magneſia ſalita_.
+
+                                                               Magneſia.
+
+
+                                 § 99.
+
+CALX _aerata_ (calcareous earth _mild_) contaminated by _clay_.
+
+                                                           Argillaceous.
+
+
+                                 § 100.
+
+CALX _aerata_ (calcareous earth _mild_), contaminated by _ſiliceous
+earth_.
+
+                                                              Siliceous.
+
+
+                                 § 101.
+
+CALX _aerata_ (calcareous earth _mild_), contaminated by _clay_ and
+_ſiliceous earth_. (See § 115.)
+
+
+  CRONSTEDT Min. §§ 25. 28. Calcareous Marle.
+
+
+                                 § 102.
+
+CALX _aerata_ (calcareous earth _mild_), contaminated by _iron_ and
+_manganeſe_. Martial.
+
+
+  CRONSTEDT Min. §30. See alſo §203. _Hæmatites._
+
+
+                                  103.
+
+There can be no doubt that the four firſt (§§ 94–97.), if not the laſt
+(§ 102), are genuine and diſtinct ſpecies; there is ſome difficulty as
+to the reſt, dependent, perhaps, only upon mechanical mixtures. If the
+heterogeneous matters can be diſcerned by the eye, we cannot heſitate to
+refer the ſubſtance to the ſaxa (ſtones); but in theſe the eye cannot
+diſcern them. Moreover, we know that the earths have a mutual attraction
+to each other, and form combinations more intimate than mechanical ones.
+Earth of alum, precipitated by a cauſtic alkali, and thrown into lime
+water, preſently loſes its pellucid and ſpongy texture, turns white, and
+condenſes, abſorbing the lime from the water, and forming an union not
+to be ſeparated but by chemical means.
+
+From theſe conſiderations, I dare not venture to exclude doubtful
+ſpecies.
+
+We ſay a thing is _contaminated_ by another, when the mixture is of the
+mechanical kind; but when things are joined by the ſtronger power of
+attraction, we ſay they are _united_.
+
+
+
+
+                               MAGNESIA.
+
+
+                                 § 104.
+
+Magnesia, called in the diſpenſatories, and by apothecaries _magneſia
+alba_, is a precipitation from its union with vitriolic acid, called
+Epſom ſalt. If this earthy precipitate be wanted in the greatest degree
+of purity, the Epſom ſalt must be taken chryſtallized, and well
+depurated, diſſolved in distilled water, and precipitated by volatile
+alkaly. Let the liquor be boiled for a few minutes, in order that what
+is kept in ſolution by the aerial acid may ſubside.
+
+
+                                 § 105.
+
+Magneſia, thus obtained, has a ſpecific gravity of 2,155. 100 parts of
+it contain about 25 of aerial acid, 30 of water, and 45 of earth[43]. It
+diſſolves in acids, with a violent efferveſcence, but without heat. It
+again forms Epſom ſalt, with the vitriolic acid; with the nitrous acid
+it chryſtallizes, but the chryſtals are deliqueſcent; with the muriatic
+and vegetable acids it does not chryſtallize, and after drying, greedily
+attracts moiſture from the atmoſphere.
+
+It does not melt in a moderate heat, but loſes ⁵⁵⁄₁₀₀ of its weight, and
+then has no attraction for water; diſſolves ſlowly, even in acids, and
+that without efferveſcence, but with ſome degree of heat. After
+calcination, it expels the volatile alkaly from ſal ammoniac, and unites
+to ſulphur, though very feebly.
+
+MAGNESIA _aerata_ (common magneſia) is never found native and
+unconnected, unleſs in waters, when it is diſſolved by an exceſs of
+aerial acid. (§ 66.)
+
+
+                                 § 106.
+
+MAGNESIA _aerata_ (common magneſia) united with _ſiliceous_ matter. This
+efferveſces with acids, and not unfrequently ſtrikes fire with ſteel.
+
+
+                                 § 107.
+
+MAGNESIA intimately united with _ſiliceous_ matter. The ſoluble part is
+ſlowly taken up by acids, without efferveſcence.
+
+
+  CRONSTEDT Min. §§79–83. and perhaps § 102–105 alſo; but I have not yet
+  ſubmitted the aſbeſti to the liquid analyſis.
+
+                                         _Soaprock._       _Serpentine._
+
+
+                                 § 108.
+
+MAGNESIA united to _argillaceous_, _ſiliceous_, and _pyritical_ matters.
+
+
+  M. MONNET diſcovered this, and the next ſpecies.
+
+
+                                 § 109.
+
+MAGNESIA united to _argillaceous_, _ſiliceous_, and _pyritical_ matters,
+and likewiſe contaminated by petroleum.
+
+
+  This ſpecies reſembles aluminous ſchiſtus, but upon examination is
+  found to contain more magneſia than clay.
+
+
+                                 § 110.
+
+All the ſpecies, except the firſt, are more or leſs contaminated by
+iron, but they do not owe all their colour to this ſubſtance. The green
+colours altogether vaniſh during ignition, and leave only a white opake
+maſs.
+
+
+
+
+                          ARGILLACEOUS EARTH,
+                                   OR
+                                ARGILLA.
+
+
+                                 § 111.
+
+By earth of alum (argilla) I do not mean common clay, which is never
+free from ſiliceous matter, but a pure clay, unmixed, at leaſt, with any
+other earth. It may be readily obtained by diſſolving Roman or roach
+alum in diſtilled water, filtering, and precipitating by mild volatile
+alkaly.
+
+
+                                 § 112.
+
+The ſpecific gravity of this pure clay, or earth of alum, is 1,305. It
+diſſolves in acids, with a little efferveſcence. With the vitriolic acid
+it forms alum; with the nitrous, muriatic and vegetable acids,
+deliqueſcent ſalts.
+
+When dry, it abſorbs water greedily, becomes ſoft, and, with a due
+quantity of water, gains ſuch a tenacity, that it may be moulded at
+pleaſure. This maſs contracts greatly in the fire, from whence ariſe
+numerous cracks; and with a due degree of heat, it becomes hard enough
+to ſtrike fire with ſteel. By this burning it loſes its glutinous
+tenacity, and the water is excluded by the approach of the particles;
+nor does it again aſſume its former properties, but by ſolution and
+precipitation.
+
+It may be diſſolved in the dry way, by means of fixed alkaline ſalt, as
+well as in the liquid way, by acids. The vitriolic acid is better than
+the others for this purpoſe, becauſe more eaſily concentrated.
+
+Earth of alum neither diſſolves ſulphur, nor decompoſes ſal ammoniac.
+
+
+                                 § 113.
+
+ARGILLA (argillaceous earth) united to _ſiliceous_ matter only.
+
+
+  CRONSTEDT Min. §78. _Argilla porcellana._ Porcelain clay.
+
+                                                              Pipe clay.
+
+
+I never examined any clay which did not contain a large quantity of
+ſiliceous earth; generally more than half its weight[44].
+
+
+                                 § 114.
+
+ARGILLA (argillaceous earth) united to _ſiliceous_ and _irony_ matter.
+
+
+  CRONSTEDT Min. §§ 87 and 90. Bole. Dye-earth.
+
+                                                                   Clay.
+
+
+                                 § 115.
+
+ARGILLA (argillaceous earth) united to _ſiliceous_ and _calcareous_
+matter.
+
+
+  CRONSTEDT Min. §25. _Marga argillacea._ Marle.
+
+
+                                 § 116.
+
+ARGILLA (argillaceous earth) united to _ſiliceous_ earth and _magneſia_.
+
+
+  CRONSTEDT Min. §§ 84, 4. B. Terra lemnia.
+
+
+Its component parts reſemble thoſe of talc, but differ in their
+proportions, and are alſo leſs intimately united.
+
+
+                                § 116*.
+
+ARGILLA (argillaceous earth) united to _ſiliceous_, _calcareous_, and
+_magneſia_ earths.
+
+
+  _Lithomarga._([45]) CRONSTEDT Min. § 84. A.
+
+                                                           Stone marrow.
+
+
+                                 § 117.
+
+ARGILLA (argillaceous earth) contaminated by _vegetable alkaly_ and
+_ſulphur_, or at leaſt by the acid of ſulphur.
+
+
+  CRONSTEDT Min. § 124. 2. b. Minera aluminis romani.
+
+                                                               Alum ore.
+
+
+It certainly contains vitriolic acid[46], and perhaps, alſo, a ſmall
+portion of ſulphur. The vegetable alkaly ſufficiently ſhews its volcanic
+origin.
+
+
+                                 § 118.
+
+ARGILLA (argillaceous earth) contaminated by _ſiliceous_ matter,
+_pyrites_, and _petroleum_.
+
+
+  CRONSTEDT Min. § 124. 2. c. _Schiſtus aluminaris_[47].
+
+                                                             Alum ſlate.
+
+
+§ 119.
+
+ARGILLA (argillaceous earth) intimately united with _leſs than half its
+weight of ſiliceous_ earth, and a ſmall quantity of _mild calcareous_
+earth.
+
+
+  CRONSTEDT Min. §§ 43–48. Gemma.
+
+
+The Gems ſuffer no change under the blowpipe, with foſſil fixed alkaly,
+but are diſſolved by microcoſmic ſalt and borax.
+
+              To this head belong _Rubinus_, the ruby;
+                                  _Saphirus_,    ſapphire;
+                                  _Topazius_,    topaz;
+                                  _Smaragdus_,   emerald.
+
+The _tourmaline_ holds a kind of middle place betwixt the gems and the
+ſcherle. The colour, in all of them, is owing to iron.
+
+
+                                 § 120.
+
+ARGILLA (argillaceous earth) intimately united to _half its weight of
+ſiliceous earth_ (or more), and a little _mild calcareous_ earth.
+Scherle.
+
+
+  CRONSTEDT Min. §§ 68–71. _Granatus et Baſaltes_, which I call
+  _Scherle_.
+
+
+The remote varieties of theſe are eaſily diſtinguiſhed, the near ones
+difficultly.
+
+
+                                 § 121.
+
+ARGILLA (argillaceous earth) looſely united to half its weight, or more,
+of _ſiliceous_ earth, and a little _calcareous_ earth.
+
+
+  CRONSTEDT Min. §§ 108–112. _Zeolithus._ Zeolite.
+
+
+There is a great affinity betwixt this and Scherle; but in the zeolite,
+the component parts cohere ſo looſely, that acids attach and ſeparate
+them without their being previouſly treated with alkalies; but this is
+not the caſe with the ſcherles.
+
+Zeolite, contaminated by magneſia, I have not yet examined.
+
+
+                                 § 122.
+
+ARGILLA (argillaceous earth) intimately united to a large proportion of
+_ſiliceous_ earth, and a ſmall proportion of _magneſia_.
+
+
+  CRONSTEDT Min. §§ 93–96. _Mica. Talcum._ [48]Glimmer. Talc.
+
+
+
+
+                            SILICEOUS EARTH,
+                                   OR
+                             TERRA SILICEA.
+
+
+                                 § 123.
+
+This, like the other primitive earths, is ſeldom found pure. In order to
+have it ſo, reduce clear quartz chryſtals into powder; melt it with four
+times the weight of fixed alkaly; diſſolve the whole in water;
+precipitate by a large quantity of ſtrong acid; carefully waſh and dry
+the precipitate.
+
+The acid muſt be uſed in a ſuperfluous quantity, that any other earths
+contained may be diſſolved.
+
+
+                                 § 124.
+
+The ſpecific gravity of this earth, is 1,975. The particles, when firſt
+precipitated, occupy, in water, at leaſt twelve times the ſpace that
+they do when dried; ſo that, when ſufficiently fine, they may remain
+ſuſpended therein; nay, when vehemently heated in a cloſe veſſel, they
+may be diſſolved. No acid, except that of fluor ſpar (§ 30) has any
+action upon this earth. Fixed alkalies unite with it in the liquid way,
+but in the dry way they ſeize it with great vehemence, and convert twice
+their weight of it into a permanent transparent glaſs. Such is its
+affinity to alkalies, that it imparts to clay, which is always loaded
+with it, the power of ſeparating ſome of the acid from nitre and common
+ſalt. When pure, it is refractory in the fire.
+
+Although ſiliceous earth is not altogether ſimple, yet, in mineralogy,
+it muſt be conſidered as primitive, until deciſive experiments ſhew us
+from which of the preceding earths it is derived[49].
+
+
+                                 § 125.
+
+TERRA SILICEA (ſiliceous earth) united to very ſmall quantities of
+_calcareous_ and _argillaceous_ earth.
+
+
+  CRONSTEDT Min. § 51. _Quartzum._ Quartz.
+
+
+                                 § 126.
+
+TERRA SILICEA (ſiliceous earth) united to _argillaceous_ earth.
+
+
+  CRONSTEDT Min. § 58. _Calcedonius_. Chalcedony.
+
+
+And perhaps the _Opal_. The _Hydrophanus_ is only a variety of theſe.
+
+Whether the _carnelian_, and other _ſiliceæ_, of finer or coarſer
+texture, belong to this or the preceding ſpecies I cannot yet determine
+with certainty.
+
+
+                                 § 127.
+
+TERRA SILICEA (ſiliceous earth), united to an _argillaceous_ and highly
+_martial_ earth.
+
+
+  CRONSTEDT Min. §§ 64, 65. _Jaſpis._ Jaſper.
+
+
+                                 § 128.
+
+TERRA SILICEA (ſiliceous earth), loaded with _martial_ earth.
+
+                                                                Martial.
+
+
+  CRONSTEDT Min. § 53.
+
+
+This ſpecies is often called jaſper, but improperly, becauſe it contains
+no argillaceous earth.
+
+
+                                 § 129.
+
+TERRA SILICEA (ſiliceous earth), united to _argillaceous_ and a ſmall
+quantity of _calcareous_ earth.
+
+
+  CRONSTEDT Min. § 63. Petroſilex. Chert.
+
+
+                                 § 130.
+
+TERRA SILICEA (ſiliceous earth) united to _argillaceous_ earth and a
+little _magneſia_.
+
+
+  CRONSTEDT Min. §66. _Feldſpathum._ Feld ſpat.
+
+
+                                 § 131.
+
+TERRA SILICEA (ſiliceous earth), united to _magneſia_, mild _calcareous_
+earth, _fluor ſpar_ and alſo to the _calxes_ of _copper_ and _iron_.
+Chryſopraſius. I have not examined this, but inſert it upon the
+experiments of Mr. Achard.
+
+To determine accurately the ſpecies of earths is the moſt difficult part
+of mineralogy, for innumerable analyſes yet remain to be made. But that
+which now ſeems intricate and obſcure will become plain and eaſy when
+experiments have been ſufficiently multiplied.
+
+
+
+
+                               CLASS III.
+                             INFLAMMABLES,
+                                   OR
+                               BITUMINA.
+
+
+                                 § 132.
+
+To this head we refer all foſſils containing phlogiſton in ſuch great
+abundance, that under proper management they are inflammable. The Genera
+are obviouſly very few, and accurately ſpeaking there is only one Genus.
+But ſince phlogiſton is so very ſubtle as not by itſelf to become the
+object of our ſenſes, it will perhaps be adviſeable to conſider its more
+ſimple combinations as Genera: this has long been done ſo far as
+reſpects the metals, by univerſal conſent.
+
+
+
+
+                                SULPHUR.
+
+
+                                 § 133.
+
+This name may be given to any acid coagulated by phlogiſton into a ſolid
+form. If all metals conſist of certain radical acids ſaturated with
+phlogiſton, as is highly probable, and with reſpect to arſenic is
+indubitably proved; then metals ought to find a place here. But until
+this theory be eſtabliſhed by numerous experiments, we ſhall only rank
+under this head the compounds which have not a metallic nature.
+
+
+                                 § 134.
+
+PHLOGISTON ſaturated with _vitriolic acid_.
+
+
+  CRONSTEDT, Min. § 151. _Common Brimſtone._ Sulphur.
+
+
+                                 § 135.
+
+PHLOGISTON ſaturated with _aerial acid_.
+
+
+  CRONSTEDT Min. § 154. A. _plumbago_. Black-lead.
+
+
+The true compoſition of this has been detected by Mr. SCHEELE.
+
+
+                                 § 136.
+
+PHLOGISTON united to the _acid_ of _vitriol_ and of _molybdæna_; or what
+amounts to the ſame, ſulphur joined to the acid of molybdæna.
+
+
+  CRONSTEDT Min. § 154. b. c. _Molybdæna._ Molybdæna.
+
+
+The acid of molybdæna has never yet been obtained quite free from
+phlogiſton (§ 32). If this acid be of a metallic origin, molybdæna is a
+mineralized metallic ſubſtance, and ſhould be placed with the other
+minerals.
+
+
+
+
+                               PETROLEUM.
+
+
+                                 § 137.
+
+Phlogiston occurs alſo in the foſſil kingdom, combined in an oily form;
+but many ſuppose this derived from the vegetable kingdom.
+
+
+                                 § 138.
+
+PETROLEUM pure and ſelected.
+
+
+  CRONSTEDT Min. §§ 147–150. Naptha. Rock oil.
+
+
+                                 § 139.
+
+PETROLEUM joined to _argillaceous_ earth.
+
+
+  CRONSTEDT Min. §§ 157–160. _Lithantrax._ Pit Coal.
+
+
+                                 § 140.
+
+PETROLEUM united to _acid_ of _amber_.
+
+
+  CRONSTEDT Min. §§ 133–146. _Succinum._ Amber.
+
+
+Many contend that amber has a vegetable origin; but as the point is not
+very well determined; and as it is found amongſt foſſils, I ſtill retain
+it here.
+
+
+                                 § 141.
+
+
+  AMBERGRISE, according to the aſſertion of Mr. AUBLETT, is nothing more
+  than the juice of a tree inſpiſſated by evaporation into a concrete
+  form. This tree grows in Guyana, and is called Cuma, but has not been
+  inveſtigated by any botaniſt. Pieces of this tree are ſaid to be
+  carried down into the rivers by heavy rains, and the ſpecimens
+  examined by Mr. ROUELLE had the odour and principal qualities of
+  amber[50]. RUMPHIUS, long ſince, mentioned a tree called Nanarium,
+  whoſe juice reſembled amber[51].
+
+
+
+
+                                DIAMOND.
+
+
+                                 § 142.
+
+At firſt ſight I may ſeem to have acted erroneouſly, by ſeparating this
+from the other gems, and inſerting it here; but after due conſideration,
+I know not where to place it better. It has never yet been decompoſed by
+the liquid analyſis[52]; and when expoſed to the fire in an open veſſel,
+it is wholly conſumed, burning with a lambent flame. This deflagration,
+though ſlow, ſhews decidedly its affinity to the inflammables: beſides,
+in the focus of a burning glaſs, it leaves traces of ſoot[53]. When
+further experiments teach us better, I ſhall willingly correct my error.
+
+
+
+
+                               CLASS IV.
+                                METALS.
+
+
+                                 § 143.
+
+I have before mentioned the great affinity betwixt metallic and
+inflammable ſubſtances (§ 133). Zinc and arſenic stand, as it were, upon
+the borders betwixt them; for these, in proper circumſtances, burn with
+a very evident flame. All the metallic ſubſtances contain phlogiſton,
+and when, to a certain degree, deprived of it, fall into a powder like
+an earth; but their attractions for phlogiſton are different. Moſt of
+them, when melted in a common way, and expoſed to the air, have an
+earthy cruſt formed upon the ſurface, which cannot again be reduced to
+metal without the addition of ſome inflammable matter. The _baſe_
+metals, eleven in number, have this property: but the _noble_ metals,
+platina, gold and ſilver, are ſo firmly connected to the phlogiſton,
+that they never calcine under fuſion, however long continued; and after
+being changed into a calx in the liquid way, when melted in the fire,
+they re-aſſume their metallic form, without any other phlogiſton than
+what is contained in the matter of heat.
+
+Quickſilver holds a kind of middle place; for, like the baſe metals, it
+may be calcined, though not readily; and like the noble ones, it may be
+reduced by heat alone.
+
+I have placed each diviſion of the metals in the order of their specific
+gravities.
+
+Thoſe metals, which are found in a perfect metallic ſtate, are called
+_native_; thoſe united to acids, or to ſulphur, are ſaid to be
+_mineralized_; and thoſe which are only deprived of their phlogiſton,
+_calciform_[54].
+
+
+                            TABLE OF METALS.
+            │           │
+            │           │                                    Attraction
+   METALS.  │           │ Specific     Melting   Saturating      to
+            │           │ Gravity.    Heat[55].  Phlogiſton. ſaturating
+            │           │                                    Phlogiſton.
+ Gold       │           │     19,640        1301         394      1 or 2
+ Platina    │           │     21,000                     756      1 or 2
+ Silver     │           │     10,552        1000         100           3
+ Quickſilver│           │     14,110 −39 or −634          74           4
+ Lead       │           │     11,352         595          43          10
+ Copper     │           │      8,876        1450         312           8
+ Iron       │           │      7,800        1601         342          11
+ Tin        │           │      7,264         415         114           9
+ Biſmuth    │           │      9,670         494          57           7
+ ───────────┼───────────┼───────────────────────────────────────────────
+ Nickel     │  common   │      7,000        1301         156          11
+      „     │   pure    │      9,000        1601      „           „
+ ───────────┼───────────┼───────────────────────────────────────────────
+ Arſenic    │           │      8,308                     109           5
+ ───────────┼───────────┼───────────────────────────────────────────────
+ Cobalt     │  common   │      7,700        1450
+      „     │   pure    │     „             1601
+ ───────────┼───────────┼───────────────────────────────────────────────
+ Zinc       │           │      6,862         699         182          11
+ Antimony   │           │      6,860         809         120           6
+ Manganeſe  │           │      6,850  very great         227          11
+
+
+
+
+                                 AURUM,
+                                   OR
+                                 GOLD.
+
+
+                                 § 144.
+
+The ſpecific gravity of this metal, when pure, is 19,640. Aqua regia
+diſſolves it; but except the dephlogiſticated muriatic acid, and in
+certain circumſtances the nitrous, no ſimple acid acts upon it, unleſs
+it has been previouſly calcined[56]. The quantity of phlogiſton
+neceſſarily taken away in the ſolution of 100 parts of gold, I eſtimate
+at about 394; whilſt the ſame quantity of ſilver, loſes by ſolution in
+the nitrous acid, 100[57]. Gold retains the phlogiſton neceſſary to its
+metallic form, more obſtinately than any other metal, except, perhaps,
+platina. It melts and calcines in the focus of a burning glaſs at 1301
+degrees of heat.
+
+
+                                 § 145.
+
+AURUM _nativum_ (gold native) united to _ſilver_.
+
+                                                                 Native.
+
+I do not know that gold has ever yet been found perfectly pure.
+
+
+                                 § 146.
+
+AURUM _nativum_ (gold native) united to _copper_.
+
+                                                                 Native.
+
+
+                                 § 147.
+
+AURUM _nativum_ (gold native) united to _ſilver_ and _copper_.
+
+                                                                 Native.
+
+
+                                 § 148.
+
+AURUM _nativum_ (gold native) united to _ſilver_, _copper_, and _iron_.
+
+                                                                 Native.
+
+
+                                 § 149.
+
+AURUM (gold), mineralized by _ſulphur_, by means of iron.
+
+                                                              Pyritical.
+
+
+  CRONSTEDT Min; § 166. a. _Pyrites aureus._
+
+
+But ſome doubt may be made about the mineralization of gold[58].
+
+
+                                 § 150.
+
+AURUM (gold) mineralized by _ſulphur_, together with _ſilver_, _lead_,
+and _iron_.
+
+
+  Minera aurifera Nagyayenſis.
+
+
+I have not yet fully examined this[59].
+
+
+
+
+                               PLATINUM,
+                                   OR
+                                PLATINA.
+
+
+                                 § 151.
+
+Its ſpecific gravity is 18,000[60], when very pure. It diſſolves in aqua
+regia, and the loſs of phlogiſton during the ſolution, according to the
+experiments hitherto made may be expreſſed by 756. Beſides the muriatic
+acid, which when dephlogiſticated diſſolves every metal, no acid acts
+upon platina without it has undergone a previous calcination. It ſeems
+to retain its phlogiſton more obſtinately than any other metal. To melt
+it requires a heat greater than that at which iron melts.
+
+
+                                 § 152.
+
+PLATINA _native_ united to _iron_. Native.
+
+
+  CRONSTEDT Min. § 179.
+
+
+I believe it has never been found quite free from iron, but this can be
+ſeparated by art[61].
+
+
+
+
+                               ARGENTUM,
+                                   OR
+                                SILVER.
+
+
+                                 § 153.
+
+Its ſpecific gravity is 10,552. The nitrous acid readily diſſolves it,
+the vitriolic muſt be boiling hot; the muriatic attracts its calx very
+ſtrongly, but cannot remove its phlogiſton and therefore cannot diſſolve
+it in its metallic ſtate. The quantity of this phlogiſton which cauſes
+the difference betwixt its metallic and its calciform ſtate I before
+expreſſed as 100 in 100 parts of ſilver. But the force with which it
+retains this portion of its phlogiſton is leſs than that of gold; that
+is, it occupies the third place in a ſeries of all the metals. It melts
+at 1000 degrees of heat.
+
+
+                                 § 154.
+
+ARGENTUM _nativum_ (ſilver native) united to _gold_. Native.
+
+
+                                 § 155.
+
+ARGENTUM _nativum_ (ſilver native), united to _copper_. Native.
+
+
+                                 § 156.
+
+ARGENTUM _nativum_ (ſilver native), united both to _gold_ and _copper_.
+Native.
+
+
+                                 § 157.
+
+ARGENTUM _nativum_ (ſilver native), united to _iron_. Native.
+
+
+                                 § 158.
+
+ARGENTUM _nativum_ (ſilver native), united to _arſenic_. Native.
+
+The arſenic hardly exceeds ⁶⁄₁₀₀.
+
+
+                                 § 159.
+
+ARGENTUM _nativum_ (ſilver native), united to _antimony_. Native.
+
+When melted, it ſmokes but has no ſmell of arſenic.
+
+
+                                 § 160.
+
+ARGENTUM _nativum_ (ſilver native), united to _arſenic_ and _iron_.
+Native.
+
+The three metallic ingredients are nearly in equal proportions.
+
+All the ſpecies hitherto mentioned have metallic properties and
+appearances. The contaminating matters are ſometimes extremely ſmall,
+but not to be neglected when they exceed ¹⁄₃₀₀ part of the maſs.
+
+
+                                 § 161.
+
+ARGENTUM (ſilver) mineralized by the _vitriolic_ and _muriatic_ acids.
+Hornlike.
+
+
+  CRONSTEDT Min. §177. _Minera argenti cornea._ Horn-ſilver.
+
+
+Mr. WOULFE[62], detected the preſence of the vitriolic acid. The ſilver
+ſeldom exceeds ⁷⁰⁄₁₀₀. I know not whether it is ever altogether free
+from vitriolic acid.
+
+
+                                 § 162.
+
+ARGENTUM (ſilver), mineralized by the _vitriolic_ and _muriatic_ acids,
+and _ſulphur_.
+
+I doubt whether this be a diſtinct ſpecies, ſince the ſulphur and the
+ſalts ſcarcely admit of any other than a mechanical union.
+
+
+                                 § 163.
+
+ARGENTUM (ſilver), mineralized by ſulphur. Glaſſy.
+
+
+  CRONSTEDT Min. § 169. _Minera argenti vitrea._
+
+
+It ſometimes contains ⁷³⁄₁₀₀ of ſilver, or more.
+
+
+                                 § 164.
+
+ARGENTUM (ſilver), mineralized by _ſulphur_ and _iron_. Marcaſitical.
+
+
+  CRONSTEDT Min. § 176, 10. _Pyrites argenteus._
+
+
+                                 § 165.
+
+ARGENTUM (ſilver), mineralized by _ſulphur_ and _lead_. Potters.
+
+
+  CRONSTEDT Min. § 176, 8. _Galena._
+
+
+The ſilver is only a few half ounces in a hundred weight.
+
+
+                                 § 166.
+
+ARGENTUM (ſilver), mineralized by _ſulphur_ and _arſenic_. Red.
+
+
+  CRONSTEDT Min. § 170. _Minera argenti rubra._
+
+
+It contains about ⁷⁰⁄₁₀₀ of ſilver. Iron is frequently preſent, as in
+moſt other ſpecies but not always.
+
+
+                                 § 167.
+
+ARGENTUM (ſilver), mineralized by _ſulphur_, _arſenic_, and _iron_.
+Glittering.
+
+
+  CRONSTEDT Min. § 172.
+
+
+I have examined ſome ſpecimens from Saxony which ſometimes contain no
+ſilver. May we not therefore ſuppoſe that the ſilver is native and not
+mineralized?
+
+
+                                 § 168.
+
+ARGENTUM (ſilver), mineralized by _ſulphur_, _arſenic_, _iron_ and
+_cobalt_.
+
+The ſilver is ſometimes more than ⁵⁰⁄₁₀₀.
+
+
+                                 § 169.
+
+ARGENTUM (ſilver), mineralized by _ſulphur_, _arſenic_, _copper_ and
+_iron_. White ore.
+
+
+  CRONSTEDT Min. § 171. _Minera argenti alba._
+
+
+The proportion of ſilver varies much, ſometimes it is ¹⁰⁄₁₀₀ or more.
+
+
+                                 § 170.
+
+ARGENTUM (ſilver), mineralized by _ſulphur_, _arſenic_, _copper_,
+_iron_, and _antimony_. Grey ore.
+
+
+  CRONSTEDT Min. § 173. 6. Minera argenti griſea. In the province of
+  Dal[63].
+
+
+It contains ²⁴⁄₁₀₀ of copper, ſeldom ⁵⁄₁₀₀ ſilver.
+
+
+                                 § 171.
+
+ARGENTUM (ſilver), mineralized by _ſulphur_, _arſenic_, _antimony_ and
+_iron_. Plumoſe.
+
+
+  CRONSTEDT Min. §173. 5. _Federertz of the_ Germans[64].
+
+
+It ſeldom contains more than a few half ounces of ſilver in the hundred
+weight.
+
+It is abſurd to found ſpecies upon the differences of the matrix: theſe
+ought to be conſidered elſewhere.
+
+
+
+
+                              HYDRARGYRUM,
+                                   OR
+                              QUICKSILVER.
+
+
+                                 § 172.
+
+Its ſpecific gravity is 14,110. It has been erroneouſly ranked among the
+brittle metals, for at 654 degrees below 0 it freezes[65], and then
+ſpreads under the hammer like lead. But as ſuch an extreme degree of
+cold rarely happens unleſs artificially produced, we ceaſe to wonder why
+it is always liquid or rather melted.
+
+Nitrous acid diſſolves it readily, vitriolic acid requires to be
+aſſiſted by a boiling heat; muriatic acid does not act upon it all,
+unleſs previouſly deprived of as much phlogiſton as in 100 parts may be
+called 74. The attractive power wherewith it retains this portion of
+phlogiſton occupies the fourth place in the ſeries; that is, it holds it
+leſs ſtrongly than the noble but more ſtrongly than the baſe metals.
+
+
+                                 § 173.
+
+HYDRARGYRUM _nativum_ (quickſilver native). Native.
+
+
+  CRONSTEDT Min. § 217.
+
+
+Whether it be entirely free from every metallic contamination I have not
+yet tried.
+
+
+                                 § 174.
+
+HYDRARGYRUM (quickſilver), united to _ſilver_. Amalgamated.
+
+
+  CRONSTEDT Min. § 217.
+
+
+                                 § 175.
+
+HYDRARGYRUM (quickſilver), mineralized by _muriatic_ and _vitriolic_
+acids. Hornlike.
+
+Mineralogy owes the diſcovery of this to Mr. WOULFE. Phil. Tranſ.
+
+
+                                 § 176.
+
+HYDRARGYRUM (quickſilver), mineralized by _ſulphur_. Cinnabarine.
+
+
+  CRONSTEDT Min. § 218. _Cinnabaris._
+
+
+                                 § 177.
+
+HYDRARGYRUM (quickſilver), mineralized by _ſulphur_ and _iron_. Martial.
+
+I am doubtful whether this be a diſtinct ſpecies. The iron perhaps is
+only mechanically diffuſed.
+
+
+                                 § 178.
+
+HYDRARGYRUM (quickſilver), mineralized by _ſulphur_ and _copper_.
+Cuprous.
+
+
+  CRONSTEDT Min. § 219.
+
+
+
+
+                                PLUMBUM,
+                                   OR
+                                 LEAD.
+
+
+                                 § 179.
+
+Its ſpecific gravity is 11,352, greater than that of any other of the
+baſe metals. The nitrous acid perfectly diſſolves it; the muriatic more
+difficultly; the vitriolic hardly at all, for the vitriol of lead being
+inſoluble in water incruſts the metal, and prevents its ſolution. After
+calcination the weakeſt vegetable acids diſſolves it, and acquire a
+ſweet taſte. The phlogiſton neceſſary to be taken away in order that it
+may diſſolve may be called 43, which is leſs than that of any other
+metal. Hence we underſtand why the calx of lead may be reduced with a
+very minute quantity of inflammable matter. With reſpect to the force
+wherewith it retains this phlogiſton it occupies the tenth place. It
+melts at 595 degrees of heat.
+
+
+                                 § 180.
+
+PLUMBUM _nativum_ (lead), though many mineralogiſts doubt whether it has
+ever yet been found. Native.
+
+
+                                 § 181.
+
+PLUMBUM (lead), mineralized by _vitriolic acid_. Vitriol of.
+
+Originating from the decompoſition of Galena. It is rarely met with. It
+was firſt obſerved by Mr. MONNET. It does not efferveſce with acids. It
+may be reduced by the blowpipe upon charcoal.
+
+
+                                § 181*.
+
+PLUMBUM (lead), mineralized by _vitriolic acid_ and _iron_.
+
+Exiſting in immenſe quantity in the iſland of Angleſea. It does not
+reduce with the blowpipe upon charcoal, but melts to a black glaſs[66].
+W.
+
+
+                                 § 182.
+
+PLUMBUM (lead), mineralized by the _acid_ of _phoſphorus_. Phoſphorated.
+
+This was diſcovered by Mr. GAHN. It does not efferveſce with acids. It
+melts upon charcoal with the blowpipe, but is not perfectly reduced.
+
+
+                                 § 183.
+
+PLUMBUM (lead), mineralized by the _aerial_ acid. Aerated.
+
+
+  CRONSTEDT Min. § 185.
+
+
+It efferveſces with acids, and is readily reduced upon charcoal[67].
+
+
+                                 § 184.
+
+PLUMBUM (lead), mineralized by _ſulphur_. Sulphurated.
+
+
+  CRONSTEDT Min. § 187.
+
+
+                                 § 185.
+
+PLUMBUM (lead), mineralized by _ſulphur_ and _ſilver_. Galena.
+
+
+  CRONSTEDT Min. § 188.
+
+
+                                 § 186.
+
+PLUMBUM (lead), mineralized _ſulphur_, with _ſilver_ and _iron_.
+
+
+  CRONSTEDT Min. § 189.
+
+
+                                 § 187.
+
+PLUMBUM (lead), mineralized by _ſulphur_, with _ſilver_ and _antimony_.
+Radiated.
+
+
+  CRONSTEDT Min. § 190.
+
+
+
+
+                                CUPRUM,
+                                   OR
+                                COPPER.
+
+
+                                 § 188.
+
+Its ſpecific gravity is 8,876. Nitrous acid diſſolve it readily,
+muriatic acid ſlowly, and the vitriolic requires intenſe boiling. The
+phlogiſton, ſeparated in the ſolution of 100 parts, may be expreſſed by
+312. The weakeſt vegetable acids act upon it, eſpecially after
+calcination, and ſo do alkalies, the volatile alkaly eſpecially. With
+reſpect to the power with which it retains the phlogiſton, copper holds
+the eighth place. It melts with 1450 degrees of heat.
+
+
+                                 § 189.
+
+CUPRUM _nativum_ (copper native). Native.
+
+
+  CRONSTEDT Min. § 193.
+
+
+It’s rarely found without ſome alloy of gold, ſilver or iron; but I have
+not yet fully examined it.
+
+
+                                 § 190.
+
+CUPRUM _calciforme_ (copper), ſimply deprived of its phlogiſton.
+Calciform.
+
+
+  CRONSTEDT Min. § 195.
+
+
+                                 § 191.
+
+CUPRUM (copper), mineralized by _muriatic acid_ and _argillaceous
+earth_. Micaceous.
+
+Mr. WERNER, in his tranſlation of Cronſtedt’s Mineralogy, part 1, page
+217, has deſcribed it accurately, and kindly ſent me a ſpecimen of it,
+which I analyſed[68].
+
+
+                                 § 192.
+
+CUPRUM (copper), mineralized by the _aerial acid_. Aerated.
+
+
+  CRONSTEDT Min. §§ 194, 196. b. 3.
+
+
+Mr. FONTANA firſt pointed out its true compoſition. It contains about ⅔
+of copper, ⅓ or ¼ of aerial acid, and a little water[69].
+
+
+                                 § 193.
+
+CUPRUM (copper), mineralized by _ſulphur_. Vitreous.
+
+
+  CRONSTEDT, Min. § 197. _Minera cupri vitrea_; a common, but improper
+  name.
+
+
+It generally contains ſome alloy of iron.
+
+
+                                 § 194.
+
+CUPRUM (copper), mineralized by _ſulphur_, and a ſmall proportion of
+_iron_.
+
+
+  CRONSTEDT Min. § 198, b. Minera cupri lazurea.
+
+
+By a _ſmall proportion_ of iron, I mean leſs than the weight of the
+copper; by a large proportion, more. This contains from 40 to 50 per
+cent. of copper.
+
+
+                                 § 195.
+
+CUPRUM (copper), mineralized by _ſulphur_, and a large proportion of
+_iron_. Pyritical.
+
+
+  CRONSTEDT Min. § 198. _Pyrites Cupri._
+
+
+The quantity of copper varies greatly, but ſeldom exceeds ⁴⁰⁄₁₀₀.
+
+
+                                 § 196.
+
+CUPRUM (copper), mineralized by _ſulphur_, _iron_ and _arſenic_. Grey.
+
+
+  CRONSTEDT Min. § 198. a. _Pyrites cupri griſeus._
+
+
+This frequently contains an alloy of ſilver. The copper rarely exceeds
+⁶⁰⁄₁₀₀.
+
+
+
+
+                                FERRUM,
+                                   OR
+                                 IRON.
+
+
+                                 § 197.
+
+Its ſpecific gravity is 7,800. All the acids readily diſſolve it; but
+the vitriolic muſt be diluted, otherwiſe it may be boiled almoſt to
+dryneſs, without effecting it. The phlogiſton, diſlodged from centenary
+of ductile iron, may, as experiments now ſtand, be called 342; and this
+is ſo feebly retained, that this metal, with a few others, holds the
+eleventh, or loweſt place in the ſeries.
+
+It requires an intenſe degree of heat to fuſe it, viz. 1601, if the
+uſual compariſon betwixt the mercurial thermometer, and the metallic one
+of MORTIMER, be true. Iron is red hot at 1050 degrees of heat.
+
+
+                                 § 198.
+
+FERRUM _nativum_ (iron) _native_. Native.
+
+It can hardly be doubted, but that the great maſs of iron, brought by
+PALLAS, from Siberia, into Europe, is the product of nature. Its
+compoſition reſembles that of forged iron; for 100 parts of it yield, by
+means of the muriatic acid, 49 cubic inches of inflammable air; and from
+many experiments upon ductile iron, that is found to yield from 48 to
+51[70].
+
+
+                                 § 199.
+
+FERRUM _nativum_ (iron) _native_, united to arſenic. Arſenical.
+
+
+  CRONSTEDT Min. § 243. B. _Miſspickel._
+
+
+                                 § 200.
+
+FERRUM (iron), with the power of attracting other iron. Loadſtone.
+
+
+  CRONSTEDT Min. § 211. b. _Magnes._
+
+
+The cauſe of this property is yet unknown.
+
+
+                                 § 201.
+
+FERRUM (iron), with phlogiſton enough to render it magnetic. Magnetic.
+
+
+  CRONSTEDT Min. §§ 212, 213.
+
+
+But the quantity of phlogiſton is far ſhort of that which is neceſſary
+to render it ductile, for a centenary hardly contains more than three
+cubic inches of inflammable air.
+
+
+                                 § 202.
+
+FERRUM _calciforme_ (iron calciform), ſimply deprived of phlogiſton.
+Ochrous.
+
+
+  CRONSTEDT Min. §§ 202–206. _Bloodſtone._
+
+
+                                 § 203.
+
+FERRUM (iron), mineralized by _aerial acid_, _calcareous earth_, and
+_manganeſe_. White.
+
+
+  CRONSTEDT Min. § 20. _Minera ferri alba._
+
+
+                                 § 204.
+
+FERRUM (iron), mineralized by _ſulphur_. Pyritical.
+
+
+  CRONSTEDT Min. § 152. _Pyrites._
+
+
+                                 § 205.
+
+FERRUM (iron) intimately united to a new brittle metal[71], or to a
+peculiar modification of iron, rendering it brittle when cold.
+Cold-ſhort.
+
+In cold-ſhort iron, a brittle metal exiſts, readily uniting to ductile
+iron, by the aſſiſtance of heat, but rendering it brittle when cold.
+This ſubſtance, diſſolved in acids, forms Pruſſian blue with
+phlogiſticated alkaly, but it is not magnetic: it affords a white calx,
+richer in phlogiſton than the yellow calx of good iron.
+
+I hope, by more experiments, ſoon to become better acquainted with it.
+
+
+                                 § 206.
+
+FERRUM _calciforme_ (iron calciform), _phlogiſticated_ in a peculiar
+manner. Blue.
+
+
+  CRONSTEDT Min. § 208. _Cæruleum Berolinenſe nativum._
+
+
+Clay and mould are sometimes coloured ſuperficially by a dilute blue,
+and ſometimes the former, when newly dug up, is found to acquire this
+colour upon expoſure to the air. It is evident that the baſis of this
+colour is an irony matter, full of phlogiſton; for, by ignition upon a
+charcoal fire, it flames, turns red, and becomes magnetic. With a gentle
+heat it becomes green, but when melted gives black ſcoriæ.
+
+Alkalies, as well as acids, diſſolve it, and the colour vaniſhes, but
+appears again, if precipitated from the former by acids, and from the
+latter by alkalies; but it has then a greenish caſt, and ſoon becomes
+white. This white ſediment, immerſed in an infuſion of galls, or of tea,
+recovers its former colour.
+
+From what has been ſaid, it appears that this colour, although analogous
+to the artificial Pruſſian blue, differs from it in its intensity, in
+the mode of its production, and in various properties. It keeps its
+colour in water, but turns black with oil.
+
+
+
+
+                                STANNUM,
+                                   OR
+                                  TIN.
+
+
+                                 § 207.
+
+Its ſpecific gravity is 7,264. Vitriolic, muriatic, acetous acids, and
+aqua regia, diſſolve it, but the nitrous, eſpecially when ſtrong,
+attacks it ſo violently, that it ſoon reduces it to the ſtate of an
+inſoluble calx.
+
+The quantity of phlogiſton it loſes by ſolution, may be called 114; and
+this it retains with a force that gives it the ninth place in the
+ſeries. It melts eaſier than any metal, except quickſilver, viz. at 415
+degrees.
+
+
+                                 § 208.
+
+STANNUM _nativum_ (tin). Native.
+
+This I have not ſeen. Some doubts are entertained of its true nature,
+and, perhaps, not without reaſon.
+
+
+                                § 208*.
+
+STANNUM _ſulphuratum_ (tin), mineralized by _ſulphur_. Sulphurated.
+
+
+  [See the Preface.]
+
+
+                                 § 209.
+
+STANNUM _calciforme_ (tin) calciform, contaminated by _iron_. Calciform.
+
+
+
+
+                               VISMUTUM,
+                                   OR
+                                BISMUTH.
+
+
+                                 § 210.
+
+The heaviest of all the brittle metals that follow it, its ſpecific
+gravity being 9,670. Nitrous acid, and aqua regia diſſolve it perfectly.
+The vitriolic acid muſt be boiled nearly to dryneſs before it acts upon
+it, and the muriatic acid only attacks its calx. The quantity of
+phlogiſton which reſists the action of menſtrua, is expreſſed by 57; and
+its power of retaining it ranks it in the ſeventh place. It melts at the
+heat of 494 degrees.
+
+
+                                 § 211.
+
+VISMUTUM _nativum_ (biſmuth). Native.
+
+
+  CRONSTEDT Min. § 222.
+
+
+                                 § 212.
+
+VISMUTUM _calciforme_ (biſmuth). Calciform.
+
+
+  CRONSTEDT Min. § 223.
+
+
+I am not able to ſay whether this is merely deprived of its phlogiſton,
+or whether it is not alſo mineralized by aerial acid.
+
+
+                                 § 213.
+
+VISMUTUM (biſmuth) mineralized by _ſulphur_. Sulphurated.
+
+
+  CRONSTEDT Min. § 224.
+
+
+                                 § 214.
+
+VISMUTUM (biſmuth) mineralized by _ſulphur_ and _iron_. Pyritical.
+
+
+  CRONSTEDT Min. § 225.
+
+
+
+
+                               NICCOLUM,
+                                   OR
+                                NICKEL.
+
+
+                                 § 215.
+
+The regulus, when depurated, has a ſpecific gravity of 9,000, or more;
+but the common regulus, obtained by the firſt reduction, little exceeds
+7,000. Aqua regia, and nitrous acid, diſſolve it perfectly; muriatic
+acid, ſlowly; vitriolic acid, not without boiling almoſt to dryneſs and
+the acetous acid does not act upon it, unleſs in a calciform ſtate. The
+quantity of phlogiſton ſeparated by ſolution, may be called 156; and
+this it retains with a force about equal to that with which iron retains
+its phlogiſton (§ 197).
+
+The heat neceſſary to melt it, is about equal to that which gold
+requires; but when depurated, it is almoſt as difficult to melt as iron.
+
+The properties of it are more fully examined elſewhere[72].
+
+
+                                 § 216.
+
+NICCOLUM _nativum_ (nickel) native, united to _iron_ and _arſenic_.
+Native.
+
+It ſometimes, perhaps, contains cobalt. As it contains neither ſulphur
+nor mineralizing acid, and is perfectly in its metallic form, it muſt be
+called _native_, although joined to other metals.
+
+
+                                 § 217.
+
+NICCOLUM _aeratum_ (nickel) mineralized by _aerial acid_. Aerated.
+
+
+  CRONSTEDT Min. § 255.
+
+
+                                 § 218.
+
+NICCOLUM (nickel) mineralized by _ſulphur_, _arſenic_, _cobalt_, and
+_iron_. Mineralized.
+
+
+  CRONSTEDT Min. § 256. Cuprum Nicolai. Kupfer nickel.
+
+
+
+
+                               ARSENICUM,
+                                   OR
+                                ARSENIC.
+
+
+                                 § 219.
+
+The ſpecific gravity of the radical acid, is 3,391; of white arſenic,
+3,706; of its glaſſy ſtate, 5,000; and its regulus, 8,308. Aqua regia,
+and muriatic acid, diſſolve it perfectly; the vitriolic acid requires
+boiling; the acetous acts only upon its calx: the nitrous acid not only
+takes away as much phlogiſton as may be expreſſed by 109, deprived of
+which the regulus is reduced to the ſtate of a calx, but in a large
+quantity, aſſiſted by a proper degree of heat, it at length so far
+dephlogiſticates this calx, as to leave the acid of arſenic alone. Theſe
+phænomena are well worthy of obſervation, as they ſeem to lay open the
+nature of metals in general. From analogy, it is probable that every
+metal contains a radical acid of a peculiar nature, which, with a
+certain quantity of phlogiſton, is coagulated into a metallic calx; but
+with a larger quantity, ſufficient to ſaturate it, forms a compleat
+metal. The radical acid retains the coagulating phlogiſton much more
+ſtrongly than that which is neceſſary to the ſaturation. But different
+metallic acids retain both with different degrees of attraction. Hence
+the noble metals cannot be calcined in the dry way; it is only by acid
+menſtrua that they can be brought into that form; but all the others
+loſe their ſaturating phlogiſton in the fire, though with more or leſs
+difficulty. I have diſtinctly obſerved eleven different degrees of
+reſiſtance: thus, gold may be precipitated by all the other metals,
+except perhaps platina, which I think may thus be explained. The calx of
+gold having the greateſt attraction for phlogiſton, takes it from all
+other metals, and thus loſing its ſolubility falls down in a metallic
+ſtate. Therefore gold in the ſeries of metals, occupies at leaſt the
+ſecond place. Platina is precipitated by all, but leſs evidently than
+gold. To this therefore, I think we muſt give the firſt place, and so on
+of the others as I have remarked in the character of each metal. As
+nickel, cobalt, iron, manganeſe and zinc, do not precipitate one
+another, they are put together in the laſt and eleventh place[73].
+
+
+In order to obtain the radical acids we muſt ſeparate them from the
+coagulating phlogiſton. If the induſtry of chemiſts ever effects this, I
+am confident that metallurgy will be wonderfully elucidated. This
+therefore is a taſk to which our labours muſt be directed. I know that
+analogy muſt be cautiously trusted, but it at leaſt leads us to new
+experiments. Hitherto this operation has only ſucceeded with arſenic;
+and it is worth notice, that this metal which holds the fifth place with
+reſpect to its quantity of phlogiſton, ſhould be inferior to all others
+with regard to the attraction by which the coagulating quantity is
+retained.
+
+Arſenic melts, but the moment it ſuffers heat enough to melt it, it
+volatilizes, unleſs it be firſt calcined. The regulus thrown upon a
+plate of iron properly heated, preſently takes fire and calcines,
+diffuſing a ſmell like garlic[74].
+
+
+                                 § 220.
+
+ARSENICUM _nativum_ (arſenic), native, united to iron. Native.
+
+
+  CRONSTEDT Min. § 239.
+
+
+I have never found it free from martial impregnation.
+
+
+                                 § 221.
+
+ARSENICUM _nativum_ (arſenic), native, united to ſilver.
+
+
+                                 § 222.
+
+ARSENICUM _calciforme_ (arſenic), deprived of phlogiſton. Calciform.
+
+
+  CRONSTEDT Min. § 240.
+
+
+                                 § 223.
+
+ARSENICUM (arſenic), mineralized by _ſulphur_. Yellow.
+
+
+  CRONSTEDT Min. § 241. _Auripigmentum._ _Riſigallum._
+
+
+                                 § 224.
+
+ARSENICUM (arſenic), mineralized by _ſulphur_ and _iron_. Pyritical.
+
+
+  CRONSTEDT Min. § 243. A. _Pyrites arſenicalis._
+
+
+
+
+                               COBALTUM,
+                                   OR
+                                COBALT.
+
+
+                                 § 225.
+
+Its ſpecific gravity is 7,700. Nitrous acid and aqua regia readily
+diſſolve it. The vitriolic acid requires to be boiled nearly to dryneſs.
+The muriatic and acetous acids do not act upon it unleſs previouſly
+calcined. 270 expreſſes the quantity of ſaturating phlogiſton, which it
+retains with the ſame force that iron does. Common regulus melts in the
+ſame heat that copper does, but when well purified it is hardly eaſier
+to melt than iron.
+
+
+                                 § 226.
+
+COBALTUM _nativum_ (cobalt), native and united to _arſenic_. Native.
+
+
+  CRONSTEDT Min. § 249.
+
+
+                                 § 227.
+
+COBALTUM _calciforme_ (cobalt). Calciform.
+
+
+  CRONSTEDT Min. § 247.
+
+
+It is found variouſly mixed, principally with arſenic, iron and copper,
+but whether mechanically or by a more intimate union I know not.
+
+
+                                 § 228.
+
+COBALTUM (cobalt), mineralized by acid of _arſenic_. Red.
+
+
+  CRONSTEDT Min. § 248.
+
+
+The ſmall ſpecimens that I have been able to examine point out ſuch a
+compoſition[75].
+
+
+                                 § 229.
+
+COBALTUM (cobalt), contaminated by _iron_ and _vitriolic acid_.
+Vitriolic.
+
+
+  CRONSTEDT Min. § 250.
+
+
+                                 § 230.
+
+COBALTUM (cobalt), mineralized by _ſulphur_, _arſenic_ and _iron_.
+Glanz-cobalt.
+
+
+  CRONSTEDT Min. § 251.
+
+
+                                 § 231.
+
+COBALTUM (cobalt), mineralized by _ſulphur_, _arſenic_, _iron_ and
+_nickel_. Kupfernickel.
+
+
+  CRONSTEDT Min. § 252.
+
+
+
+
+                                 ZINCUM
+                                   OR
+                                 ZINC.
+
+
+                                 § 232.
+
+Its ſpecific gravity is 6,862. All the acids diſſolve it readily and
+with efferveſcence, which denotes its very lax union with the
+inflammable principle, as was remarked before (§ 219). 182 expreſſes the
+quantity of phlogiſton it loſes in ſolution. It melts in a heat of 699
+degrees; and if the heat be a little increaſed it takes fire; and
+diſſipates in white flowers[76].
+
+
+                                 § 233.
+
+ZINCUM _calciforme_ (zinc), calciform ſimply deprived of its phlogiſton.
+Calciform.
+
+
+  CRONSTEDT Min. § 228. A. _Lapis calaminaris._
+
+
+It is almost always mixed with clay or calciform iron.
+
+
+                                 § 234.
+
+ZINCUM (zinc), mineralized by _aerial acid_. Aerated.
+
+
+  CRONSTEDT Min. § 228. A. 1.
+
+
+                                 § 235.
+
+ZINCUM (zinc) with _aerial acid_ and mixed with _ſiliceous_ matter.
+Siliceous.
+
+D. A. BORN ſent me chryſtals of this ſpecies, which expoſed to the fire
+gave out aerial acid, but they were not wholly ſoluble in acids.
+
+
+                                 § 236.
+
+ZINCUM (zinc), mineralized by _ſulphur_ and _iron_. Black jack.
+
+
+  CRONSTEDT Min. §§ 229. 230. _Pſeudogalena._
+
+
+
+
+                               ANTIMONIUM
+                                   OR
+                               ANTIMONY.
+
+
+                                 § 237.
+
+Its ſpecific gravity is 6,860. Aqua regia diſſolves it well; vitriolic
+acid requires boiling; muriatic and acetous acids act hardly at all upon
+it, unleſs previouſly calcined. The nitrous acid corrodes it ſo as to
+prevent the ſolution. The phlogiſton it loſes in ſolution is expreſſed
+by 120, and with reſpect to the force wherewith it retains this, it
+ſtands in the ſixth place. It melts at a heat of 809 degrees.
+
+
+                                 § 238.
+
+ANTIMONIUM _nativum_ (antimony). Native.
+
+
+  CRONSTEDT Min. § 238.
+
+
+                                 § 239.
+
+ANTIMONIUM (antimony), mineralized by ſulphur. Sulphurated.
+
+
+  CRONSTEDT Min. § 234.
+
+
+                                 § 240.
+
+ANTIMONIUM (antimony) mineralized by ſulphur and arſenic. Red.
+
+
+  CRONSTEDT Min. § 235.
+
+
+
+
+                              MANGANESIUM,
+                                   OR
+                               MANGANESE.
+
+
+                                 § 241.
+
+Its ſpecific gravity is 6,850. This new metal is ſoluble in all the
+acids, and is ſo readily deprived of its ſaturating phlogiſton that with
+iron and ſome others it ſtands the loweſt in the ſeries. 227 expreſſes
+the quantity of phlogiſton it loſes in ſolution. It is very difficult to
+melt, more ſo than iron.
+
+
+                                 § 242.
+
+MANGANESIUM _calciforme_ (manganeſe) ſimply deprived of phlogiſton.
+Calciform.
+
+
+  CRONSTEDT Min. § 114.
+
+
+                                 § 243.
+
+MANGANESIUM (manganeſe) mineralized by _aerial acid_.
+
+                                                                Aerated.
+
+
+  CRONSTEDT Min. § 115. 1. a.
+
+
+
+
+                                APPENDIX
+                               THE FIRST.
+
+
+                                 § 244.
+
+In the preceding pages only the more ſimple combinations occur, whoſe
+principles are either chemically united or at leaſt ſo ſubtly interwoven
+that the texture appears perfectly homogeneous. But if two or more of
+theſe ſpecies, forming little diſtinct maſſes are cemented together,
+theſe mechanical mixtures, diſcernible by the eye ought to conſtitute a
+new ſeries, to be diſtinguiſhed by their component parts as the others
+were by their firſt principles or chemical elements. Such compoſitions
+may well be excluded from the preſent work, but upon account of their
+extenſive phyſical, œconomical and metallurgical uſes, I propoſe to give
+a ſlight ſketch of them here, enumerating the more remarkable Genera.
+
+
+                                 § 245.
+
+In a general view it appears that not only ſeveral ſpecies cemented
+together may be referred to this place, but likewiſe thoſe which are
+mechanically diffuſed in a powdery or an earthy form.
+
+
+                                 §246.
+
+From the laws of combination it is evident, that according to the
+arrangement of foſſils into four claſſes, there can be only TEN Genera
+compoſed of two, FOUR of three, and ONE of four conſtituent parts. And
+although ſo many have not yet been detected, yet it is better to mention
+them here as the induſtry of a future age will probably diſcover more.
+The ſpecies are formed from the differences of the more ſimple ſpecies
+and their component parts.
+
+
+                          Salts _with_ Salts.
+
+
+                                 § 247.
+
+This compoſition can hardly ever conſtitute a genus, if it muſt be made
+in a dry and concrete form; for excepting gypſum, the other native ſalts
+readily diſſolve in water, and by evaporation are ſo mixed together as
+not readily to be diſcerned by the eye. Yet the foſſil alkaly mixed with
+common ſalt will perhaps find a place here. The contents of mineral
+waters may likewiſe be referred here, ſince every material difference in
+them depends upon the particles diſſolved.
+
+
+                          Salts _with_ Earths.
+
+
+                                 § 248.
+
+This mixture is hardly to be found but where bits of gypſum are
+concreted to matters of an earthy nature.
+
+
+                       Salts _with_ Inflammables.
+
+
+                                 § 249.
+
+May perhaps be found in volcanoes.
+
+
+                          Salts _with_ Metals.
+
+
+                                 § 250.
+
+If gypſum forms the matrix of any metal, it muſt be placed here.
+
+
+                         Earths _with_ Earths.
+
+
+                                 § 251.
+
+To this head belong moſt of the _ſaxa_ (ſtones), enumerated by Mr.
+Cronſtedt, which form the immenſe bulk of mountains, and deſerve our
+particular attention, in order that, being better acquainted with the
+nature and ſtructure of the ſhell of the earth, we may be able to point
+out the coverings of minerals, and convert them all to our uſe.
+
+
+                      Earths _with_ Inflammables.
+
+
+                                 § 252.
+
+Lumps of mountain pitch are frequently connected with ſtones, and
+ſulphureous matters are found diffuſed through earthy materials.
+
+
+                         Earths _with_ Metals.
+
+
+                                 § 253.
+
+This genus contains the peculiar _matrices_ of _metals_, a judicious
+conſideration of which would be particularly uſeful to miners.
+
+
+                   Inflammables _with_ Inflammables.
+
+
+                                 § 254.
+
+Perhaps, in ſome places, ſulphureous matters are found mixed with
+mountain pitch.
+
+
+                      Inflammables _with_ Metals.
+
+
+                                 § 255.
+
+If plumbago (black-lead) or common ſulphur, ſhall ever be found mixed
+with metallic ſubſtances, ſuch ſpecies muſt ſtand under this genus.
+
+
+                         Metals _with_ Metals.
+
+
+                                 § 256.
+
+We know that ſome metals, in the boſom of the earth, are almoſt always
+mixed, whilſt others are rarely, or never, found together. A more
+accurate knowledge of theſe things, would illuſtrate phyſical geography,
+as well as metallurgy.
+
+We now proceed to the more compound genera.
+
+
+                Salts _with_ Earths _and_ Inflammables.
+
+
+                                 § 257.
+
+This genus can hardly ever occur but in countries formerly expoſed to
+ſubterranean fires.[77]
+
+
+                   Salts _with_ Earths _and_ Metals.
+
+
+                                 § 258.
+
+To be expected amongſt volcanic productions.
+
+
+                Salts _with_ Inflammables _and_ Metals.
+
+
+                                 §259.
+
+To be ſought for in the productions of volcanoes.
+
+
+                Earths _with_ Inflammables _and_ Metals.
+
+
+                                 § 260.
+
+Obvious amongſt the productions of volcanoes, otherwiſe extremely rare.
+
+
+            Salts _with_ Earths, Inflammables, _and_ Metals.
+
+
+                                 § 261.
+
+Hardly to be expected but in volcanic mountains.
+
+
+
+
+                                APPENDIX
+                              THE SECOND.
+
+
+                                 § 262.
+
+Foſſils externally reſembling animals or vegetables, originate from
+foreign matters, which by ſome peculiar proceſs are changed in the boſom
+of the earth, or are ſo impregnated by mineral particles gradually
+occupying the place of thoſe which have putrified, that they no longer
+reſemble organic ſubſtances, except in figure.—Theſe are commonly called
+PETREFACTIONS.
+
+
+                                 § 263.
+
+The harder ſhells of animals expoſed to the weather, are not always
+exempt from deſtruction; for their gelatinous matter being gradually
+deſtroyed by putrefaction, they become brittle, and in a manner
+calcined. In leſs expoſed ſituations, ſome of them preſerve the nature
+of their materials, but acquire a ſpar-like texture.
+
+
+                                 § 264.
+
+We muſt carefully diſtinguiſh betwixt the foreign bodies themſelves,
+changed or petrified, and their impreſſions upon the ſurrounding
+matrices. Sometimes the body is entirely deſtroyed, forming a cavity in
+the ſurrounding matter, and this cavity afterwards is filled with other
+materials. Nuclei, or kernels, are likewiſe found, formed within the
+cavities of the harder ſhells, and bearing the form of their internal
+ſurface.
+
+
+                                 § 265.
+
+I am far from thinking the knowledge of petrefactions is barren and
+uſeleſs. We may, and ought, to conſider them as medals depoſited by the
+hand of nature, in memory of the more remarkable changes on the ſurface
+of the earth, and from which the time and order of the work may, in ſome
+meaſure, be judged of, whilſt other monuments are ſilent. Theſe, being
+properly interpreted, ſhew us their native ſituations in the former
+ſtate of the ſurface of the earth, and teach us the unbounded empire of
+the ſea, and the conſequent changes. By them we learn to diſtinguiſh the
+ancient and modern foundations of the mineral kingdom; for thoſe which
+are not formed of petrefactions, and never contain them, are doubtleſs
+of greater antiquity than animals or vegetables; and, laſtly, by their
+figure they ſhew us the inhabitants of our globe, eſpecially thoſe of
+the greateſt depths of the ocean.
+
+
+                                 § 266.
+
+Mr. CRONSTEDT has admirably arranged the petrefactions; we think it
+right, therefore, to retain his method. The Genera are built upon the
+Genera of foſſils, and arranged like the four claſſes thereof; the
+ſpecies upon their ſpecies, and the varieties upon the organic
+ſubſtances that have been changed. The following are the Genera hitherto
+diſcovered.
+
+
+           _Saline Calcareous Earth_ with an _organic Form_.
+
+
+                                 § 267.
+
+Gypſeous petrefactions are very rare.
+
+
+                 _Saline Iron_ with an _organic Form_.
+
+
+                                 § 268.
+
+Human bodies have ſometimes been found indurated and penetrated by
+vitriol of iron; so likewiſe have plants, their roots eſpecially. In the
+open air they moulder away.
+
+
+            _Mild Calcareous Earth_ with an _organic Form_.
+
+
+                                 § 269.
+
+This conſtitutes the ſubſtance of moſt petrefactions.
+
+
+                     _Clay_ with an _organic Form_.
+
+
+                                 § 270.
+
+It is remarkable, that petrefactions found in clay are compreſſed,
+although, in ſubjacent calcareous ſtrata, they preſerve their natural
+figure. Similar compreſſed petrefactions are alſo found in the marly
+ſchiſtus.
+
+
+               _Siliceous Earth_ with an _organic Form_.
+
+
+                                 § 271.
+
+Siliceous petrefactions are ſometimes met with, but, in general, this
+material forms only nuclei (§ 264). Trunks of trees are ſometimes found
+changed into agate. The celebrated FERBER has ſeen petrefactions in
+chert and jaſper, and the illuſtrious BORN mentions corallines (porpitæ)
+in ſinople or martial jaſper.
+
+
+                            _Earth organic._
+
+
+                                 § 272.
+
+Animals and vegetables are reſolved by putrefaction into an earth, which
+may be regarded as forming a peculiar genus, until every appearance of
+organization being obliterated, at length it comes to be conſidered as
+common earth.
+
+
+               _Petroleum_ impregnating _organic Bodies_.
+
+
+                                 § 273.
+
+Wood, penetrated by indurated petroleum, forms a remarkable variety of
+coal.
+
+
+                    _Silver_ with an _organic Form_.
+
+
+                                 § 274.
+
+Native ſilver is ſometimes inherent in petrefactions, but never, to my
+knowledge, conſtitutes the ſubſtance of them, unleſs mineralized with
+copper and ſulphur.
+
+
+                  _Quickſilver_ in an _organic Form_.
+
+
+                                 § 275.
+
+When mineralized by ſulphur, it ſometimes, though very rarely,
+conſtitutes petrefactions.
+
+
+                    _Copper_ with an _organic Form_.
+
+
+                                 § 276.
+
+Bones and teeth are ſometimes found replete with the blue calx of
+copper. Bits of copper pyrites often ſtick in petrefactions, but ſeldom
+conſtitute their whole ſubſtance. I have some such from Norway, in a
+matrix of magnetical iron ore.
+
+
+                     _Iron_ with an _organic Form_.
+
+
+                                 § 277.
+
+Calciform iron ſometimes is found in the ſhape of roots and branches of
+trees. When mineralized by ſulphur, it frequently exiſts in
+petrefactions, but ſeldom conſtitutes the whole maſs.
+
+
+                     _Zinc_ with an _organic Form_.
+
+
+                                 § 278.
+
+I have ſeen pſeudo-galena (black jack), in the form of coral.
+
+
+                                 § 279.
+
+Some modern writers, as well as Mr. CRONSTEDT, place the productions of
+_volcanoes_ in an appendix by themſelves; but, I think, to no good
+purpoſe. Things formed by the hand of nature, whether by a liquid or a
+dry proceſs, muſt not be diſjoined; for ſhe frequently avails herſelf of
+both methods in one and the ſame inſtance. And, indeed, the origin of
+many things is ſo very doubtful, every veſtige thereof being
+obliterated, that even an Œdipus could not with certainty determine how
+they were produced. And, on the other hand, many aſſert, that almoſt the
+whole of the mineral kingdom is the product of fire. To avoid error,
+therefore, it is better to claſs foſſil ſubſtances according to their
+conſtituent parts, which proper experiments will lay open to us; for we
+can seldom know their origin or formation.
+
+Homogeneous ſubſtances joined together, but not primitive, will find a
+place among the ſtones, or elſewhere, in the firſt appendix.
+
+
+                                 FINIS.
+
+
+
+
+                                 INDEX.
+
+               N. B. _The Numbers refer to the Sections._
+
+
+ Acids, how known § 25
+
+ Aerial acid 37
+
+ Alkali minerale aeratum 55
+
+ —— —— nitratum 48
+
+ —— —— ſalitum 49, 76
+
+ —— —— vitriolatum 47
+
+ —— vegetabile aeratum 54
+
+ —— —— nitratum 45
+
+ —— —— ſalitum 46
+
+ —— —— vitriolatum 44
+
+ —— volatile aeratum 56
+
+ —— —— nitratum 51
+
+ —— —— ſalitum 52
+
+ —— —— vitriolatum 50
+
+ Alkalies, how known 38
+
+ Alkaly fixed foſſil 41
+
+ —— —— vegetable 40
+
+ —— mild foſſil 55
+
+ —— —— vegetable 54
+
+ —— volatile 42
+
+ —— —— mild 56
+
+ Alum 67, 78, 79
+
+ —— ore 117
+
+ —— ſlate 118
+
+ Amber 140
+
+ —— acid of 36
+
+ Ambergriſe 141
+
+ Ammoniac, fixed 62
+
+ Antimonium (see antimony)
+
+ Antimony, properties of 237
+
+ —— ſpecies of 238–240
+
+ Argentum (ſee ſilver)
+
+ Argilla, what 111
+
+ —— properties of 112
+
+ —— ſpecies of 113, 122
+
+ —— porcellana 113
+
+ Argilla vitriolata 67, 78, 79
+
+ Argillaceous earth, what 111
+
+ —— properties of 112
+
+ —— ſpecies of 113, 122
+
+ Arsenic, properties of 219
+
+ —— ſpecies of 220–224
+
+ Auripigmentum, 223
+
+ Aurum (ſee gold)
+
+
+ Baſaltes 120
+
+ Biſmuth, properties of 210
+
+ —— ſpecies of 211–214
+
+ Bitumina (see inflammables)
+
+ Black jack 236
+
+ Black-lead 135
+
+ Bloodſtone 202
+
+ Blue John 96, n. 30
+
+ Blue vitriol 69
+
+ Bole 114
+
+ Boracic acid 35
+
+ Borax 53
+
+ Brimſtone 134
+
+
+ Cœruleum Berolinenſe nativum 206
+
+ Calcareous earth pure 92
+
+ —— its properties 93
+
+ —— ſpecies of 94–102
+
+ Calcedonius 126
+
+ Calk 58
+
+ Calx 92, 93
+
+ —— aerata 63, 94, 95
+
+ —— fluorata 96
+
+ —— nitrata 60
+
+ —— ponderoſa 33
+
+ —— ſalita 61
+
+ —— vitriolata 59
+
+ Carnelian 126
+
+ Chalcedony 126
+
+ Chalk 63, 94, 95
+
+ Chert 129
+
+ Choak-damp n. 37
+
+ Chryſopraſius 131
+
+ Cinnaber 176
+
+ Clay 114
+
+ Coal 139
+
+ —— yields vol. alkaly n. 50
+
+ Cobalt properties of 225
+
+ —— ſpecies of 226–231
+
+ Cobaltum (ſee cobalt)
+
+ Common ammoniac 52
+
+ —— ſalt 49, 76
+
+ Copper, its properties 188
+
+ —— ſpecies of 189–196
+
+ Corniſh fluor, n. 30
+
+ Cubic nitre 48
+
+ Cuprum (ſee copper)
+
+ —— nicolai 218
+
+ —— vitriolatum 69, 80, 82
+
+
+ Derbyſhire fluor, n. 30
+
+ Diamond 142
+
+ Digeſtive ſalt 46
+
+ Dyer’s earth 114
+
+
+ Earths properties of 21
+
+ —— have an attraction for each other 103
+
+ —— primitive and derivative 83–86
+
+ —— ſaline 85
+
+ Earthy compounds 251–253, 260
+
+ Emerald 119
+
+ Epſom ſalt 63, 77, 104, 105
+
+
+ Federertz 171
+
+ Fœtid ſtone 95
+
+ Feldſpath 130
+
+ Feldſpathum 130
+
+ Ferrum (ſee iron)
+
+ —— aeratum 71
+
+ —— nitratum 71
+
+ —— ſalitum 71
+
+ —— vitriolatum 70, 81, 82
+
+ Fixed air 37
+
+ —— ammoniac 62
+
+ Fluor acid 30
+
+ Fluor ſpar 96
+
+ —— Corniſh, n. 30
+
+ —— Derbyſhire, n. 30
+
+
+ Galena 165, 185
+
+ Garnet 120
+
+ Gemma 119
+
+ Gems 119
+
+ Glanz-cobalt 230
+
+ Glauber’s ſalt 47
+
+ Glimmer 122
+
+ Gold, properties of 144
+
+ —— ſpecies of 145–150
+
+ Granatus 120
+
+ Gypſum 59
+
+
+ Hæmatites 102
+
+ Heavy earth (ſee the preface)
+
+ —— —— how obtained pure 87
+
+ —— —— properties of 88
+
+ —— —— ſpar 58, 89, 90
+
+ Heliotropium, n. 25
+
+ Horn-ſilver 161
+
+ Hydrargyrum (ſee quickſilver)
+
+ Hydrophanus 126
+
+
+ Jaſper 127
+
+ Jaſpis 127
+
+
+ Inflammables, definition of, 22, 132
+
+ —— ſpecies of 133–136
+
+ Inflammable compounds 254, 255
+
+ Iron, properties of, 197
+
+ —— ſpecies of, 198–206
+
+
+ Kupfernickel 218, 231
+
+
+ Lapis calaminaris 233
+
+ —— hepaticus 90
+
+ —— ponderoſus 97
+
+ —— ſuillus 95
+
+ Lead, its properties 179
+
+ —— ſpecies of, 180–187
+
+ —— vitriol of, 181
+
+ Limeſtone 63, 94, 95
+
+ Lithantrax 139
+
+ Lithomarga 116, and n.
+
+ Litmus, n. 25
+
+ Liver ſtone 90
+
+ Loadſtone 200
+
+
+ Magnes 200
+
+ Magneſia, how got pure, 104
+
+ —— properties of, 105
+
+ —— ſpecies of 105–109
+
+ —— aerata 66
+
+ —— common 66
+
+ —— nitrata 64
+
+ —— ſalita 65
+
+ —— vitriolata, 63, 77
+
+ Manganeſe, properties of, 241
+
+ —— ſpecies of, 242, 243
+
+ Manganeſium (ſee manganeſe)
+
+ —— ſalitum 74
+
+ Marle 115
+
+ —— calcareous 101.
+
+ Marble 63, 94, 95
+
+ Marmor metallicum 58, 89
+
+ Metals, definition of, 23
+
+ —— properties of, 143
+
+ —— table of, 143, page 71
+
+ Metallic compounds, 256
+
+ —— ſalts, how known, 68
+
+ Mica 122
+
+ Minera argenti alba, 169
+
+ —— —— cornea 161
+
+ —— —— griſea 170
+
+ —— —— rubra 166
+
+ —— —— vitrea 163, 193
+
+ —— cupri vitrea 193
+
+ —— —— lazurea 194
+
+ —— ferri alba 203
+
+ Miſspickel 199
+
+ Molybdæna 136
+
+ —— acid of, 32
+
+ Muriatic acid 29
+
+
+ Naptha 138
+
+ Natron 55
+
+ Neutral ſalts, what 43
+
+ —— —— perfect 43
+
+ —— —— imperfect 43
+
+ Nevilholt water, n. 29, n. 67
+
+ Niccolum (ſee nickel)
+
+ —— vitriolatum 72
+
+ Nickel, properties of 215
+
+ —— ſpecies of 216–218
+
+ Nitre, common 45
+
+ Nitre of lime 60
+
+ —— of the ancients 55
+
+ Nitrous acid 28
+
+ —— ammoniac 51
+
+
+ Opal 126
+
+
+ Petrefactions, what, 262–265
+
+ —— genera of 266–270
+
+ —— calcareous 269
+
+ —— cinnabarine 275
+
+ —— cupreous 276
+
+ —— gypſeous 267
+
+ —— inflammable 273
+
+ —— irony 277
+
+ —— ſiliceous 271
+
+ —— ſilvery 274
+
+ —— vitriolic 268
+
+ —— pſeudo-galena 278
+
+ Petroleum 137
+
+ —— ſpecies of, 138–141
+
+ Petroſilex 129
+
+ Phoſphoric acid 34
+
+ Pipe clay 113
+
+ Pit coal 139
+
+ Platina, properties of, 151
+
+ —— how made malleable, n. 151
+
+ —— ſpecies of, 152
+
+ Platinum (ſee platina)
+
+ Plumbago 135
+
+ Plumbum (ſee lead)
+
+ Porcelain clay 113, and n.
+
+ Pruſſian blue, native 206
+
+ Pſeudogalena 236
+
+ Pyrites 204
+
+ —— argenteus 164
+
+ —— arſenicalis 224
+
+ —— aureus 149
+
+ —— cupri 195, 196
+
+
+ Quartz 125
+
+ Quartzum 125
+
+ Quickſilver, properties of 172
+
+ —— ſpecies of 173–178
+
+
+ Riſigallum 223
+
+ Rock Oil 138
+
+ Rubinus 119
+
+ Ruby 119
+
+
+ Sal ammoniac 52
+
+ —— gem 76
+
+ Saline compounds 247–250, 257–261
+
+ Salt common 49
+
+ Salts definition of 20
+
+ —— metallic how diſtinguiſhed 68
+
+ Salts native 24
+
+ —— triple, quadruple, &c. 75
+
+ Sapphire 119
+
+ Saphirus 119
+
+ Saxa 251
+
+ Scherle 120
+
+ Schiſtus aluminaris 118
+
+ Sedative ſalt 35
+
+ Selenite 59
+
+ Serpentine 107
+
+ Sideritis 205
+
+ Siliceous earth 123
+
+ —— properties of, 124
+
+ —— ſpecies of, 125–131
+
+ Silver, properties of, 153
+
+ —— ſpecies of 154–171
+
+ Smaragdus 119
+
+ Soaprock 107
+
+ Spar 63
+
+ —— ponderous 89
+
+ Sparry fluor, 30, 96
+
+ Stannum (ſee tin)
+
+ —— ſulphuratum, (ſee preface)
+
+ Stones 251
+
+ Stone marrow 116
+
+ Succinum 140
+
+ Sulphur 133, 134
+
+
+ Talc 122
+
+ Tartar of vitriol, 44
+
+ Terra Lemnia 116
+
+ —— ponderoſa, (ſee preface)
+
+ —— —— 87
+
+ —— properties of, 87
+
+ —— aerata 58
+
+ —— native, n. 88
+
+ —— nitrata 58
+
+ —— ſalita 58
+
+ —— vitriolata 58, 89, 90
+
+ Terra Silicea 123
+
+ —— properties of, 124
+
+ —— ſpecies of, 125–131
+
+ Terrene nitre 60
+
+ Tin, properties of, 207
+
+ —— ſpecies of 208, 209
+
+ Tinkal 53
+
+ Topaz 119
+
+ Tourmaline 119
+
+ Trichites 79
+
+ Tungſten 97
+
+
+ Viſmutum (ſee Biſmuth)
+
+ Vitriol blue 69
+
+ —— green 70
+
+ —— white 73
+
+ —— of copper 69, 80, 82
+
+ —— —— iron 70, 81, 82
+
+ —— —— nickel 72
+
+ —— —— zinc 73
+
+ Vitriolic acid 27
+
+ —— —— phlogiſticated 27
+
+ —— ammoniac 50
+
+ Volatile alkaly, mild 56
+
+ Volcanic productions 279
+
+
+ Zeolite 121
+
+ Zinc, properties of, 232
+
+ —— ſpecies of, 233–236
+
+ Zincum vitriolatum 73.
+
+
+
+
+                                ERRATA.
+
+
+  Page  9, n. for Dr. WERNER, read Profeſſor WERNER.
+
+       15, line 23, for VANDELL, read VANDELLI.
+
+       21, line 10, for red, read green.
+
+       41, line 9, for acidor, read acid or.
+
+       71, line 5, for 27,500, read 21,000.
+
+       75, note —— 27,500, read 21,000.
+
+       95, line 1, for 100 parts, read centenary.
+
+       97, line 7, for berolineuſe read, Berolinenſe.
+
+-----
+
+Footnote 1:
+
+  In this tranſlation they are introduced in their proper places. W.
+
+Footnote 2:
+
+  There is no difficulty in doing this: either the foſſil, or the
+  vegetable fixed alkaly phlogiſticated, precipitate the terra
+  ponderoſa, inſtantly and entirely, out of the nitrous, muriatic, or
+  vegetable acids. W.
+
+Footnote 3:
+
+  Opuſc. chemica, vol. II. page 2–10.
+
+Footnote 4:
+
+  Conſult particularly Profeſſor WERNER’S treatiſe on the _external
+  characters of foſſils_ printed in German in the year 1774.
+
+Footnote 5:
+
+  The latter part of this definition does not apply perfectly well to
+  ſome of the ſimple ſalts. I ſhall therefore offer another, given by
+  Dr. Cullen, viz. “_Saline bodies_ are ſapid, miſcible with water, and
+  not inflammable.” I am ſenſible too that this definition is not
+  perfectly unexceptionable, ſince it has been found that vol. alkaly in
+  an aerial ſtate is in a certain degree inflammable. W.
+
+Footnote 6:
+
+  As the tincture of heliotropium is the niceſt known teſt of the
+  preſence of an acid, it may not be amiſs to mention that it may be had
+  from dyers under the name of litmus. It is very cheap, and generally
+  requires to be greatly diluted with diſtilled water before it can be
+  uſed. W.
+
+Footnote 7:
+
+  De thermis pativinis.
+
+Footnote 8:
+
+  The moſt highly coloured and fuming nitrous acid may readily be
+  rendered colourleſs by boiling it haſtily in an open veſſel. Part of
+  the acid flies off, carrying the ſuperabundant phlogiſton along with
+  it, in the form of nitrous air. W.
+
+Footnote 9:
+
+  N. Acta Upſ. vol. II. p. 202.
+
+Footnote 10:
+
+  M. Margraaf.
+
+Footnote 11:
+
+  I have ſome reaſon to believe that the Nevil Holt water does contain
+  ſome of this acid in an uncombined ſtate. W.
+
+Footnote 12:
+
+  Opuſcul: vol. II. p. 40.
+
+Footnote 13:
+
+  Called Derbyſhire fluor; Corniſh fluor, blue John. W.
+
+Footnote 14:
+
+  D. SCHEELE Act. Stockh. 1778.
+
+Footnote 15:
+
+  It has been lately obtained in great abundance from bones. W.
+
+Footnote 16:
+
+  Opuſc. chem. vol. II. p. 424.
+
+Footnote 17:
+
+  De Sale ſedativo naturali, 1778.
+
+Footnote 18:
+
+  It is found in a ſeparate ſtate in large quantities in ſome of our
+  mines and wells, and is called the _choak_ damp. In the famous Grotto
+  del Cano too it exiſts tolerably pure. W.
+
+Footnote 19:
+
+  D. D. MARGRAAF, WEIGLEB.
+
+Footnote 20:
+
+  Opuſc. chem. vol. II. p. 368.
+
+Footnote 21:
+
+  MARGRAAF Opuſc.
+
+Footnote 22:
+
+  CAVENDISH Phil. Trans. 1767.
+
+Footnote 23:
+
+  Dr. Home, in his eſſay on bleaching, ſays it is found in coal mines in
+  this iſland, and a friend aſſures me that he has obtained it from the
+  water iſſuing out of coal pits. W.
+
+Footnote 24:
+
+  As volatile alkaly may be obtained in large quantities from pit coal,
+  and produced by proceſſes not dependant upon putrefaction, there is
+  reaſon to believe that the vitriolic ammoniac may be formed in ſeveral
+  ways not noticed by the author. W.
+
+Footnote 25:
+
+  Acta Stockh. 1772.
+
+Footnote 26:
+
+  From ſome experiments lately made I found that both tinkal and
+  purified borax, required twice their weight of ſedative ſalt, to
+  neutralize them perfectly ſo that they would no longer change
+  vegetable blues to a green. W.
+
+Footnote 27:
+
+  Baumé mem. des ſc. etr. tom. iv.
+
+Footnote 28:
+
+  Phil. Tranſ. 1767.
+
+Footnote 29:
+
+  HENCHEL Betheſda port.
+
+Footnote 30:
+
+  BOMARE Dictionaire.
+
+Footnote 31:
+
+  I have lately diſcovered a ſpecimen of TERRA PONDEROSA _aerata_ got
+  out of a mine in this kingdom. It is very pure, and in a large maſs.
+  As this ſubſtance is a new acquiſition to mineralogy, and may be
+  turned to uſeful purpoſes in Chemiſtry, I intend ſhortly to preſent a
+  more particular account of it to the Royal Society. W.
+
+Footnote 32:
+
+  Conf. Præl. SCHEFFERI, § 188, not. 2.
+
+Footnote 33:
+
+  Margraaf Kl. Schrift. tom. II. p. 191.
+
+Footnote 34:
+
+  I found it in conſiderable quantity in the Nevil Holt water, when I
+  analyzed it ſix years ago; and it is probable that the Ballycaſtle
+  water in Ireland, likewiſe contains it. W.
+
+Footnote 35:
+
+  In the original the word is MAGNESIUM, but it is here changed, by the
+  advice of Dr. Swediar and the concurrence of profeſſor Bergman to
+  MANGANESIUM, in order to prevent confuſion from its ſimilarity to
+  Magneſia. W.
+
+Footnote 36:
+
+  Mr. MONNET de aquis mineralibus.
+
+Footnote 37:
+
+  Opusc. chem. vol. I. p. 394–399.
+
+Footnote 38:
+
+  The author ſpeaks here of ſuch as he obtained by precipitation from
+  acids, but the _native_ TERRA PONDEROSA _aerata_ (ſee note at page 28)
+  has a ſpecific gravity of nearly 4, 338. W.
+
+Footnote 39:
+
+  Opuſc. vol. i. p. 21, 398.
+
+Footnote 40:
+
+  N. Acta Upſ. Vol. II. page 198.
+
+Footnote 41:
+
+  Opuſc. chem. vol. I, page 23.
+
+Footnote 42:
+
+  Opuſc. chem. vol. I, page 398.
+
+Footnote 43:
+
+  Opuſc. chem. vol. II. p. 29, 373.
+
+Footnote 44:
+
+  Profeſſor _Bergman_ does not here ſeem to be ſufficiently aware of the
+  difference between our Devonſhire pipe clay, and that which is uſed in
+  the manufacture of porcelain. The former, in an open fire, burns to a
+  blueiſh grey, or pidgeon colour; the latter remains white. The former
+  ſeems to be the ſame as the Cologne and Maeſtricht pipe clay, of
+  Cronſtedt, §78; the latter is a decayed Feldſpath, and conſequently,
+  according to our author, (§ 130) contains magneſia. Our porcelain
+  clay, likewiſe, has quartz, chryſtals, and mica mixed with it, parts
+  of the granite which it originally compoſed. Before it is uſed the
+  quartz is ſeparated, but the mica remains. I am indebted to my friend
+  Mr. Watt for theſe obſervations. W.
+
+Footnote 45:
+
+  I have taken the liberty to add this ſpecies upon our author’s own
+  authority. See BERGMAN Diff. de Lithomarga, page 13.
+
+Footnote 46:
+
+  N. Acta Upſal. vol. III, page 121.
+
+Footnote 47:
+
+  Opuſc. vol. I, page 291, 292.
+
+Footnote 48:
+
+  It is probable, that in another edition, the author may ſee reaſon to
+  ſeparate the _mica_ from the _talc_; as ſome experiments I have made,
+  though yet too imperfect for publication, ſeem to indicate the
+  neceſſity of ſuch a meaſure. W.
+
+Footnote 49:
+
+  Opuſc. vol. ii. p. 49.
+
+Footnote 50:
+
+  Hiſt. des Plantes de la Gujane. 1774.
+
+Footnote 51:
+
+  Dr. SWEDIAR lately preſented a paper to the Royal Society, from which
+  it appears highly probable that Ambergriſe is nothing but the
+  indurated fæces of the Sperma Ceti whale, who feeds upon the cuttle
+  fiſh. He has found the beaks of that fiſh intermixed with the
+  ambergriſe, in the form of black ſpots. W.
+
+Footnote 52:
+
+  Opuſc. Vol. II, page 112.
+
+Footnote 53:
+
+  _Lavoiſier_, Mem. de l’Acad. de Paris.
+
+Footnote 54:
+
+  Opusc. vol. II. page 275.
+
+Footnote 55:
+
+  The degrees of heat here expreſſed, are according to Farenheit’s
+  ſcale.
+
+  By _ſaturating phlogiſton_, Profeſſor Bergman means to expreſs the
+  proportionate quantities taken away from each metallic ſubſtance, when
+  diſſolved by means of acids, and of courſe reduced to a calciform
+  ſtate. The laſt column only expreſſes their attractions to this part
+  of their phlogiſton, not to that which ſtill remains united to them in
+  a calciform ſtate. W.
+
+Footnote 56:
+
+  Opuſc. Vol. II. page 374–376.
+
+Footnote 57:
+
+  Diſſertatio de quantitate Phlogiſti in diverſis metallis.
+
+Footnote 58:
+
+  Opuſc. chem. vol. II, page 411.
+
+Footnote 59:
+
+  Opuſc. chem. Vol. II, page 413.
+
+Footnote 60:
+
+  From ſome late experiments made upon platina by the Count de SIKENGEN,
+  and publiſhed in German by profeſſor Succow, it appears that the
+  ſpecific gravity of pure platina is 21,000. When perfectly pure and in
+  its metallic ſtate it was not calcined by deflagration with nitre, it
+  did not admit of being hardened or ſoftened by tempering, like ſteel
+  or other metals; it was drawn into a wire ¹⁄₁₉₄₀ of a line in
+  diameter; this wire admitted of being flattened, and had more ſtrength
+  than a wire of gold or ſilver of the ſame ſize. This platina is not
+  fuſible by the ſtrongeſt fire, but melts in the focus of a burning
+  glaſs; its colour white, ſhining like fine ſilver.
+
+  From conſidering the very intereſting experiments of the Count de
+  Sikengen, I apprehend the following method to obtain pure and
+  malleable platina will be found a good one.
+
+  Diſſolve the grains of native platina that are leaſt magnetic, in aqua
+  regia. Precipitate the iron by means of phlogiſticated fixed alkaly.
+  Then precipitate whatever elſe will fall, by cauſtic vegetable alkaly.
+  Saturate the liquor with cauſtic foſſil alkaly, and ſet it by to
+  chryſtallize. The yellow chryſtals thus obtained are to be hammered
+  together at a welding heat, and the metallic parts will unite. W.
+
+Footnote 61:
+
+  Opuſc. chem. vol. II, page 181.
+
+Footnote 62:
+
+  Phil. Tranſ.
+
+Footnote 63:
+
+  This reference is not to be found in the Engliſh edition of Cronſtedt.
+  I imagine it ſhould be § 174. 6. where it is called the Dal Falertz.
+  W.
+
+Footnote 64:
+
+  In this reference too I ſuſpect a miſtake. It ought I believe to be
+  173, 6. W.
+
+Footnote 65:
+
+  Some late experiments made at Hudſon’s Bay ſeem to prove that
+  Quickſilver congeals and becomes malleable at 39 degrees below 0. See
+  Lond. Med. Journal, page 205, for the year 1783. W.
+
+Footnote 66:
+
+  When I introduce a new _ſpecies_ I repeat the preceding number, with
+  the addition of an aſteriſk, rather than break in upon the order of
+  the author’s numbers. I intend ſhortly to publiſh an exact analyſis of
+  this ſubſtance. W.
+
+Footnote 67:
+
+  Opuſc. chem. vol. II, page 426.
+
+Footnote 68:
+
+  Opuſc. vol. II. page 431.
+
+Footnote 69:
+
+  Opuſc. chem. vol. II. p. 429.
+
+Footnote 70:
+
+  Diſſ. de Analyſi. ferri.
+
+Footnote 71:
+
+  Called Sideritis, from its reſemblance to iron. W.
+
+Footnote 72:
+
+  Opuſc. chem. vol. II. p. 231.
+
+Footnote 73:
+
+  Diſſ. de quantitate phlogiſti in metallis.
+
+Footnote 74:
+
+  Opuſc. chem. vol. II, p. 272.
+
+Footnote 75:
+
+  Opuſc. chem. vol. II, p. 446.
+
+Footnote 76:
+
+  Opuſc. Vol. II, page 309.
+
+Footnote 77:
+
+  Some of the ſulphur and alum, ſublimed by the ſubterranean fires near
+  Bilſton, contain ſiliceous earth. W.
+
+------------------------------------------------------------------------
+
+
+
+
+                          TRANSCRIBER’S NOTES
+
+
+ Page           Changed from                      Changed to
+
+   50 of 2,155. 100 parts of contain   of 2,155. 100 parts of it
+      about 25 of                      contain about 25 of
+
+ ● Typos fixed; non-standard spelling and dialect retained.
+ ● Corrected Errata.
+ ● Used numbers for footnotes, placing them all at the end of the last
+     chapter.
+ ● Enclosed italics font in _underscores_.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK OUTLINES OF MINERALOGY ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

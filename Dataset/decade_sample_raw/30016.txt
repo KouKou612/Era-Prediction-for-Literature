@@ -1,0 +1,2184 @@
+﻿The Project Gutenberg eBook of Medical investigation in seventeenth century England
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Medical investigation in seventeenth century England
+
+Author: Charles W. Bodemer
+        Lester S. King
+
+
+        
+Release date: September 18, 2009 [eBook #30016]
+                Most recently updated: October 24, 2024
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/30016
+
+Credits: Produced by Gerard Arthus, Stephanie Eason, and the Online
+        Distributed Proofreading Team at https://www.pgdp.net.
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK MEDICAL INVESTIGATION IN SEVENTEENTH CENTURY ENGLAND ***
+
+  Medical Investigation
+  in Seventeenth Century
+  England
+
+  Charles W. Bodemer
+
+  Lester S. King
+
+  William Andrews Clark Memorial Library
+
+
+
+  Medical Investigation
+  in Seventeenth Century
+  England
+
+  Embryological Thought in
+  Seventeenth Century England
+
+  _by Charles W. Bodemer_
+
+  Robert Boyle as an Amateur Physician
+
+  _by Lester S. King_
+
+  Papers Read at a Clark Library Seminar,
+  October 14, 1967
+
+  William Andrews Clark Memorial Library
+  _University of California, Los Angeles/1968_
+
+
+
+
+_Foreword_
+
+
+Although the collection of scientific literature in the Clark Library
+has already served as the background for a number of seminars, in the
+most recent of them the literature of embryology and the medical aspects
+of Robert Boyle's thought were subjected to a first and expert
+examination. Charles W. Bodemer, of the Division of Biomedical History,
+School of Medicine, University of Washington, evaluated the
+embryological ideas of that remarkable group of inquiring Englishmen,
+Sir Kenelm Digby, Nathaniel Highmore, William Harvey, and Sir Thomas
+Browne. Lester S. King, Senior Editor of the _Journal of the American
+Medical Association_, dealt with the medical side of Robert Boyle's
+writings, the collection of which constitutes one of the chief glories
+of the Clark Library. It was a happy marriage of subject matter and
+library's wealth, the former a noteworthy oral presentation, the latter
+a spectacular exhibit. As usual, and of necessity, the audience was
+restricted in size, far smaller in numbers than all those who are now
+able to enjoy the presentations in their present, printed form.
+
+C. D. O'MALLEY
+
+_Professor of Medical History, UCLA_
+
+
+
+
+I
+
+_Embryological Thought in Seventeenth
+Century England_
+
+CHARLES W. BODEMER
+
+
+To discuss embryological thought in seventeenth-century England is to
+discuss the main currents in embryological thought at a time when those
+currents were both numerous and shifting. Like every other period, the
+seventeenth century was one of transition. It was an era of explosive
+growth in scientific ideas and techniques, suffused with a creative urge
+engendered by new philosophical insights and the excitement of
+discovery. During the seventeenth century, the ideas relating to the
+generation and development of organisms were quite diverse, and there
+were seldom criteria other than enthusiasm or philosophical predilection
+to distinguish the fanciful from the feasible. Applying a well-known
+phrase from another time to seventeenth-century embryological theory,
+"It was the best of times, it was the worst of times, it was the age of
+wisdom, it was the age of foolishness."[1]
+
+Embryology underwent some very significant changes during the
+seventeenth century. At the beginning of the century, embryology was
+descriptive and clearly directed toward morphological goals; by the end
+of the century, a dynamic, more physiological attitude was apparent, and
+theories of development derived from an entirely different philosophic
+base. During this time, English investigators contributed much, some of
+ephemeral, some of lasting importance to the development of embryology.
+For this discussion, we will divide the seventeenth century into three
+overlapping, but generally distinct, periods; and, without pretence of
+presenting an exhaustive exposition, we will concentrate upon the
+concepts and directions of change characteristic of each period, with
+primary reference to those individuals who best reveal the character of
+seventeenth-century English embryology.
+
+An understanding of the characteristics of embryological thought at the
+beginning of the seventeenth century may enhance appreciation of later
+developments. During the latter part of the sixteenth century, the study
+of embryology was, for obvious reasons, most often considered within the
+province of anatomy and obstetrics. From Bergengario da Capri to Jean
+Riolan the Younger, study of the fetus was recommended as an adjunct of
+these subjects, and it required investigation by direct observation, as
+decreed by the "restorers" of anatomy. Embryonic development was,
+however, also studied independently of other disciplines by a smaller
+group of individuals, and the study of chick development by Aldrovandus,
+Coiter, and Fabricius ab Aquapendente laid the basic groundwork of
+descriptive embryology. In either case, during the last half of the
+sixteenth century the attempt of the embryologist to break with the
+traditions of the past was overt, although consistently unsuccessful.
+When dealing with the fetus, the investigators of this period were,
+almost to a man, Galenists influenced to varying degrees by Hippocrates,
+Aristotle, and Avicenna. Each felt compelled to challenge the immediate
+authority, and yet their intellectual isolation from the past was
+incomplete, and their views on embryogeny corresponded with more often
+than they differed from those of the person they railed against.
+
+Embryology emerged as a distinct scientific discipline during the last
+half of the sixteenth century and early years of the seventeenth century
+as a result of the aforementioned investigations of Aldrovandus, Coiter,
+and Fabricius. Concerned with description and depiction of the anatomy
+of the embryo, they established a period of macro-iconography in
+embryology. The macro-iconographic era was empirical and based upon
+first-hand observation; it was concerned more with the facts than with
+the theories of development. This empiricism existed in competition with
+a declining, richly vitalistic Aristotelian rationalism which had
+virtually eliminated empiricism during the scholastic period. However,
+the decline of this vitalistic rationalism coincided with the rise of a
+mechanistic rationalism which had its roots in ancient Greek atomistic
+theories of matter. The empiricism comprising the _leitmotif_ of the
+macro-iconographic movement then became blended with, or, more often,
+submerged within, the new variety of rationalism; hence, mechanistic
+rationalism, divorced entirely or virtually from empiricism,
+characterizes embryology during the first half of the seventeenth
+century. It is a particularly vigorous strain of seventeenth-century
+English embryological thought, well illustrated in the writings of that
+English man of affairs, Sir Kenelm Digby.
+
+Digby, whose name, according to one biographer, "is almost synonymous
+with genius and eccentricity,"[2] could claim our attention not only as
+a scientist of talent, but also as a statesman, soldier, pirate, lover,
+and a Roman Catholic possessed of sufficient piety and naked courage to
+attempt the conversion of Oliver Cromwell. Like his father, who was
+hanged for participation in the Gunpowder Plot, Digby was a political
+creature, and during the Civil War he was imprisoned for several years.
+When freed, Digby left England to settle in France. Spending much time
+at the court of the Queen Dowager, who had been instrumental in securing
+his release, and exposed to the vigorous intellectual currents of Paris
+and Montpellier, Digby labored upon a treatise of greater scientific
+substance and merit than his more famous work on "the powder of
+sympathy." Published in 1644 under the title _Two Treatises, in the One
+of Which, The Nature of Bodies; in the Other, the Nature of Mans Soule;
+is Looked_ _into, in Way of Discovery of the Immortality of Reasonable
+Soules_, the book consists of a highly individual survey of the entire
+realms of metaphysics, physics, and biology.
+
+Digby's cannons were aimed at scholasticism, which, despite "greatly
+exaggerated" reports, did not die with the Middle Ages. The spirit of
+scholasticism was alive in many quarters well into the seventeenth
+century, and although many scholars worked in pursuit of original
+knowledge, they did not always disturb the scholastic philosophic basis
+from which their work derived. For example, in his impressive _De
+formato foetu_, published in 1604, when Sir Kenelm Digby was one year
+old, Fabricius all too often submerges a substantial body of
+observations within a dense tangle of philosophical discussion. Thus, in
+the same treatise that contains the first illustrations and commendably
+accurate descriptions of the daily progress of the chick's development,
+Fabricius devotes an inordinate amount of space to tedious discussions
+of material and efficient causes in development, emphasizing thereby the
+supremacy of the logical framework to the observations. In 1620, Digby's
+last year of study at Oxford University, Fienus published a work, _De
+Formatrice Foetus_, designed to demonstrate that the human embryo
+receives the rational soul on the third day after conception and to
+discuss at length such subjects as the efficient cause of embryogeny and
+the proposition that the conformation of the fetus is a vital, not a
+natural, action. Various expressions of Aristotelian and scholastic
+biology were clearly abroad during the first half of the seventeenth
+century, and there is reason, then, for Digby's attack upon Aristotelian
+ideas of form and matter and of the persistence of "qualities" in
+physics and "faculties" in biology.
+
+Expressing his disdain of word-spinning, Digby attempts to explain all
+phenomena by two "virtues" only, rarity and density working by local
+motion. In discussing embryonic development, Digby writes, "...our
+maine question shall be, Whether they be framed entirely at once; or
+successively, one part after another? And, if this later way, which
+part first?"[3] Toward this end, Digby makes some direct observations
+upon the development of the chick embryo, incubating the eggs so that
+the "creatures ... might be continually in our power to observe in them
+the course of nature every day and houre."[4] His description of chick
+development is of epigenetic bent:
+
+     ...you may lay severall egges to hatch; and by breaking them at
+     severall ages you may distinctly observe every hourely mutation in
+     them, if you please. The first will bee, that on one side you shall
+     find a great resplendent clearnesse in the white. After a while, a
+     little spott of red matter like bload, will appeare in the middest
+     of that clearnesse fastened to the yolke: which will have a motion
+     of opening and shutting; so as sometimes you will see it, and
+     straight againe it will vanish from your sight; and indeede att the
+     first it is so litle, that you can not see it, but by the motion of
+     it; for att every pulse, as it openeth, you may see it, and
+     immediately againe, it shutteth in such sort, as it is not to be
+     discerned. From this red specke, after a while there will streame
+     out, a number of litle (almost imperceptible) red veines. Att the
+     end of some of which, in time there will be gathered together, a
+     knotte of matter which by litle and litle, will take the forme of a
+     head; and you will ere long beginne to discerne eyes and a beake in
+     it. All this while the first red spott of blood, groweth bigger and
+     solider; till att the length, it becometh a fleshy substance; and
+     by its figure, may easily be discerned to be the hart: which as yet
+     hath no other enclosure but the substance of the egge. But by litle
+     and litle the rest of the body of an animal is framed out of those
+     red veines which streame out all aboute from the hart. And in
+     processe of time, that body incloseth the hart within it by the
+     chest, which groweth over on both sides, and in the end meeteth,
+     and closeth it selfe fast together. After which this litle creature
+     soone filleth the shell, by converting into severall partes of it
+     selfe all the substance of the egge. And then growing weary of so
+     straight an habitation, it breaketh prison, and cometh out, a
+     perfectly formed chicken.[5]
+
+
+Despite this observational effort, Digby's experience with the embryo is
+quite limited, and his theory of development relates more to his
+philosophical stance than to the facts of development. Indeed, the
+theory he propounds is not necessarily consistent. On the one hand, it
+posits a strictly mechanistic epigenesis, and on the other hand, it
+incorporates the notion of "specificall vertues drawne by the bloud in
+its iterated courses, by its circular motion, through all the severall
+partes of the parents body."[6] Digby rejects an internal agent,
+entelechy, or the Aristotelian formal and efficient causes. Similarly,
+he disposes of the idea that the embryonic parts derive from some part
+of each part of the parent's body or an assemblage of parts. This
+possibility is eliminated, he contends, by the occurrence of spontaneous
+generation. If a collection of parts was necessary, he asks, "how could
+vermine breed out of living bodies, or out of corruption?... How could
+froggs be ingendered in the ayre?"[7] Generation in plants and animals
+must, then, according to Digby, proceed from the action of an external
+agent, effecting the proper mingling of the rare and dense bodies with
+one another, upon a homogeneous substance and converting it into an
+increasingly heterogeneous substance. "Generation," he says,
+
+     is not made by aggregation of like partes to presupposed like ones:
+     nor by a specificall worker within; but by the compounding of a
+     seminary matter, with the juice which accreweth to it from without,
+     and with the streames of circumstant bodies; which by an ordinary
+     course of nature, are regularly imbibed in it by degrees; and which
+     att every degree do change it into a different thing.[8]
+
+Digby argues that the animal is made of the juices that later nourish
+it, that the embryo is generated from superfluous nourishment coming
+from all parts of the parent body and containing "after some sort, the
+perfection of the whole living creature."[9] Then, through digestion and
+other degrees of heat and moisture, the superfluous nourishment becomes
+an homogeneous body, which is then changed by successive transformations
+into an animal.
+
+Digby is frankly deterministic in his description of embryonic
+development:
+
+     Take a beane, or any other seede, and putt it into the earth, and
+     lett water fall upon it; can it then choose but that the beane must
+     swell? The beane swelling, can it choose but breake the skinne? The
+     skinne broken can it choose (by reason of the heate that is in it)
+     but push out more matter, and do that action which we may call
+     germinating.... Now if all this orderly succession of mutations be
+     necessarily made in a beane, by force of sundry circumstances and
+     externall accidents; why may it not be conceived that the like is
+     also done in sensible creatures; but in a more perfect manner....
+     Surely the progresse we have sett downe is much more reasonable,
+     then to conceive that in the meale of the beane, are contained in
+     litle, severall similar substances.... Or, that in the seede of the
+     male, there is already in act, the substance of flesh, of bone, of
+     sinewes, of veines, and the rest of those severall similar partes
+     which are found in the body of an animall; and that they are but
+     extended to their due magnitude, by the humidity drawne from the
+     mother, without receiving any substantiall mutation from what they
+     were originally in the seede. Lett us then confidently conclude,
+     that all generation is made of a fitting, but remote, homogeneall
+     compounded substance: upon which, outward Agents working in the due
+     course of nature, do change it into an other substance, quite
+     different from the first, and do make it lesse homogeneall then the
+     first was. And other circumstances and agents, do change this
+     second into a thirde; that thirde, into a fourth; and so onwardes,
+     by successive mutations (that still make every new thing become
+     lesse homogeneall, then the former was, according to the nature of
+     heate, mingling more and more different bodies together) untill
+     that substance be produced, which we consider in the periode of all
+     these mutations....[10]
+
+
+Digby thus makes a good statement of epigenetic development. He
+attempts, without success, a physiochemical explanation of the
+mechanisms of development, finally admitting:
+
+     I persuade my selfe it appeareth evident enough, that to effect
+     this worke of generation, there needeth not be supposed a forming
+     vertue ... of an unknowne power and operation.... Yet, in
+     discourse, for conveniency and shortnesse of expression we shall
+     not quite banish that terme from all commerce with us; so that what
+     we meane by it, be rightly understood; which is, the complexe,
+     assemblement, or chayne of all the causes, that concurre to produce
+     this effect; as they are sett on foote, to this end by the great
+     Architect and Moderatour of them, God Almighty, whose instrument
+     Nature is.[11]
+
+Digby's general theory thus represents a strange mixture of epigenesis
+and pangenesis, and is not entirely devoid of "virtues." It is, however,
+a bold attempt to explain embryonic development in terms commensurate
+with his time, and it embodies the same optimistic belief that the
+mechanism of embryogenesis lay accessible to man's reason and logical
+faculties that similarly led Descartes and Gassendi to comprehensive
+interpretations of embryonic development comprising a maximum of logic
+and minimum of observations.
+
+The traditionalist reaction to the attack upon treasured and
+intellectually comfortable interpretations of development was not slow
+to set in. A year after the appearance of Digby's _Nature of Bodies_,
+Alexander Ross published a treatise with a title indicating its goals
+and content: _The Philosophicall Touch-Stone; or Observations upon Sir
+Kenelm Digbie's Discourses of the nature of Bodies, and of the
+reasonable Soule: In which his erroneous Paradoxes are refuted, the
+Truth, and Aristotelian Philosophy vindicated, the immortality of mans
+Soule briefly, but sufficiently proved_.[12] Ross supports the Galenist
+tradition that the liver, not, as Digby claimed, the heart, forms first
+in development. It can be no other way, he says, since the blood is the
+source of nourishment and the liver is necessary for formation of the
+blood. Furthermore, he contends, "the seed is no part of the ... aliment
+of the body ... the seed is the quintessence of the blood."[13] Ross is
+an epigeneticist, to be sure, but so was Aristotle, and Ross prefers to
+maintain the supremacy of logic and the concepts of the Aristotelian
+tradition as a guide to the interpretation of development.
+
+In 1651, Nathaniel Highmore, a physician at Sherborne in Dorset,
+published _The History of Generation_, which, he informs us, is an
+answer to the opinions expressed by Digby in _The Nature of Bodies_.
+Highmore's book is an important one in the history of embryology, since
+it is the first treatment of embryogeny from the atomistic viewpoint and
+because it contains the first published observations based upon
+microscopic examination of the chick blastoderm. Admittedly, the
+drawings illustrating Highmore's observations upon generation are, to
+use a word often applied to modern art, "interesting," but they do
+derive from actual observations of developing plant and animal embryos.
+His observations on the developing chick embryo are quite full,
+complete, and exact, and he also records some interesting facts
+regarding development of plant seeds.
+
+Highmore's theory of development appears to have emerged directly out of
+his observations of development. In this sense, his theory rests upon a
+more solid base than does the developmental theory of Digby. His theory
+is a mixture of vitalism and atomism, designed to eliminate the "fortune
+and chance"[14] resident in Digby's concept. "Generation," he says,
+
+     ...is performed by parts selected from the generators, retaining
+     in them the substance, forms, properties, and operations of the
+     parts of the generators, from whence they were extracted: and this
+     Quintessence or Magistery is called the seed. By which the
+     Individuals of every Species are multiplied...
+
+
+From this, All Creatures take their beginning; some laying up the like
+matter, for further procreation of the same Species.
+
+In others, some diffus'd Atomes of this extract, shrinking themselves
+into some retired parts of the Matter; become as it were lost, in a
+wilderness of other confused seeds; and there sleep, till by a
+discerning corruption they are set at liberty, to execute their own
+functions. Hence it is, that so many swarms of living Creatures are from
+the corruption of others brought forth: From our own flesh, from other
+Animals, from Wood, nay, from everything putrified, these imprisoned
+seminal principles are muster'd forth, and oftentimes having obtained
+their freedom, by a kinde of revenge feed on their prison; and devour
+that which preserv'd them from being scatter'd.[15] Accounting thus for
+sexual and spontaneous generation, Highmore defines two types of seminal
+atoms in the seed--"Material Atomes, animated and directed by a
+spiritual form, proper to that species whose the seed is; and given to
+such matter at the creation to distinguish it from other matters, and to
+make it such a Creature as it is."[16] The seminal atoms come from all
+parts of the body, the spiritual atoms from the male, and the material
+atoms from the female. The atoms of Democritus are thus transmuted into
+the "substantial forms" and endowed either with the efficient cause of
+Aristotle or, permitted to remain material, with Aristotle's material
+cause. According to Highmore, the atoms are circulated in the blood,
+which is a "tincture extracted from those things we eat," and these
+various atoms retain their formal identity despite corruption. The
+testicles abstract some spiritual atoms belonging to each part and, "As
+the parts belonging to every particle of the Eye, the Ear, the Heart,
+the Liver, etc. which should in nutrition, have been added ... to every
+one of these parts, are compendiously, and exactly extracted from the
+blood, passing through the body of the Testicles." Being here "cohobated
+and reposited in a tenacious matter," the particles finally pass out of
+the testes.[17] A similar extraction of the female seed occurs in the
+ovaries. The female seed
+
+     ...containing the same particles, but cruder and lesse digested,
+     from a cruder matter, by lesse perfect Organs, is left more
+     terrene, furnished with more material parts; which being united in
+     the womb, with the spiritual particles of the masculine seed;
+     everyone being rightly, according to his proper place, disposed and
+     ordered with the other; fixes and conjoynes those spiritual Atomes,
+     that they still afterwards remain in that posture they are placed
+     in.[18]
+
+
+The theories of development promulgated by Digby and Highmore reveal the
+chief formulations of mechanistic rationalism, more or less free of
+empiricism, that were emerging as the vitalism of the sixteenth and
+seventeenth centuries waned. There was little new in these theories:
+both Digby's and Highmore's theories included different combinations of
+elements of ancient lineage. Digby's concept was essentially free of
+vitalistic coloring; akin to the embryological efforts of Descartes in
+its virtual independence from observations of the developing embryo, it
+was similarly vulnerable to Voltaire's criticism of Descartes, that he
+sought to interpret, rather than study, Nature. This criticism is not so
+applicable to Highmore, whose theory of development is more vitalistic
+than Digby's, and is more akin to the concepts developed by Gassendi
+than those of Descartes. Highmore had experience with the embryo itself,
+and his actual contribution as an observer of development, although
+hardly epochal, is worthy of note. But despite this empirical base,
+Highmore has final recourse to a hypothesis blending many ancient ideas
+and substituting the Aristotelian material and efficient causes for the
+"fortune and chance" he objected to in Digby's hypothesis. It was _not_
+easy in the seventeenth century to avoid falling back upon some variety
+of cause or force.
+
+In 1651, about two months before publication of Highmore's _History of
+Generation_, a work appeared which marks another period in
+seventeenth-century English embryology. William Harvey, _De Motu Cordis_
+almost a quarter of a century behind him, now published _De Generatione
+Animalium_, the work he said was calculated "to throw still greater
+light upon natural philosophy."[19] This book is, perhaps, not as well
+known as Harvey's treatise demonstrating circulation of the blood, but
+it is an important work in the history of embryology and it occupies a
+prominent position in the body of English embryological literature.
+
+In _De Generatione_, Harvey provides a thorough and quite accurate
+account of the development of the chick embryo, which, in particular,
+clarified that the chalazae, those twisted skeins of albumen at either
+end of the yolk, were not, as generally believed, the developing embryo,
+and he demonstrated that the cicatricula (blastoderm) was the point of
+origin of the embryo. The famous frontispiece of the treatise shows Zeus
+holding an egg, from which issue animals of various kinds. On the egg is
+written _Ex ovo omnia_, a legend since transmuted to the epigram _Omne
+vivum ex ovo_. The legend illustrates Harvey's principal theme, repeated
+constantly throughout the text, "that all animals were in some sort
+produced from eggs."[20]
+
+If Harvey made no contribution beyond emphasizing the origin of animals
+from eggs, he would deserve a prominent place in the history of
+embryology. But the work is also significant in its espousal of
+epigenesis, and, supported as his argument was by observation and logic,
+it became the prime formulation of that concept of development during
+the seventeenth and eighteenth centuries. His statement of epigenetic
+development is clear:
+
+     In the egg ... there is no distinct part or prepared matter
+     present, from which the fetus is formed ... an animal which is
+     created by epigenesis attracts, prepares, elaborates, and makes use
+     of the material, all at the same time; the processes of formation
+     and growth are simultaneous ... all its parts are not fashioned
+     simultaneously, but emerge in their due succession and order ...
+     Those parts, I say, are not made similar by any successive union of
+     dissimilar and heterogeneous elements, but spring out of a similar
+     material through the process of generation, have their different
+     elements assigned to them by the same process, and are made
+     dissimilar ... all its parts are formed, nourished, and augmented
+     out of the same material.[21]
+
+Actually, Harvey's exposition of epigenesis, albeit clear, is not
+totally impressive, since it is largely a reflection of Aristotle's
+influence. The main importance of Harvey's vigorous and cogent defense
+of epigenesis is that it provided some kind of counterbalance to the
+increasingly dominant preformationist interpretations of embryonic
+development.
+
+Harvey did not break with Aristotelianism; on the contrary, he lent
+considerable authority to it. Unable to escape the past, he was not
+completely objective in his study of generation. Everywhere the pages of
+his book reveal his indebtedness to past authorities. Robert Willis, who
+provided the 1847 translation of _De Generatione_, expresses this well:
+
+     [Harvey] ... begins by putting himself in some sort of harness of
+     Aristotle, and taking the bit of Fabricius between his teeth; and
+     then, either assuming the ideas of the former as premises, or those
+     of the latter as topics of discussion or dissent, he labours on
+     endeavouring to find Nature in harmony with the Stagyrite, or at
+     variance with the professor of Padua--for, in spite of many
+     expressions of respect and deference for his old master, Harvey
+     evidently delights to find Fabricius in the wrong. Finally, so
+     possessed is he by scholastic ideas, that he winds up some of his
+     opinions upon animal reproduction by presenting them in the shape
+     of logical syllogisms.[22]
+
+
+Even Harvey's concept of the egg reveals a strong Aristotelian bias.
+Actually, Harvey attained to his conclusion that all animals derive from
+eggs by assuming that
+
+     on the same grounds, and in the same manner and order in which a
+     chick is engendered and developed from an egg, is the embryo of
+     viviparous animals engendered from a pre-existing conception.
+     Generation in both is one and identical in kind: the origin of
+     either is from an egg, or at least something that by analogy is
+     held to be so. An egg is, as already said, a conception exposed
+     beyond the body of the parent, whence the embryo is produced; a
+     conception is an egg remaining within the body of the parent until
+     the foetus has acquired the requisite perfection; in everything
+     else they agree; they are both alike primordially vegetables,
+     potentially they are animals.[23]
+
+The ovum, for Harvey, is in essence "the primordium vegetable or
+vegetative incipience, understanding by this a certain corporeal
+something having life in potentia; or a certain something existing _per
+se_, which is capable of changing into a vegetative form under the
+agency of an internal principle."[24] The ovum is for Harvey more a
+concept than an observed fact, and, as stated by one student of
+generation, "The _dictum ex ovo omnia_, whilst substantially true in the
+modern sense, is neither true nor false as employed by Harvey, since to
+him it has no definite or even intelligible meaning."[25]
+
+Harvey's treatise on generation is clearly a product of his time. It
+advances embryology by its demonstration of certain facts of
+development, by its aggressive espousal of epigenesis and the origin of
+all animals from eggs, and by its dynamic approach stressing the
+temporal factors in development and the initial independent function of
+embryonic organs. However, the strong Aristotelian cast of Harvey's
+treatise encouraged continued discussion of long outdated questions in
+an outdated manner and, combined with his expressed disdain for
+"chymistry" and atomism, discouraged close cooperation between
+embryologists of different persuasions. It is perhaps easy to
+underestimate the impact and general importance of Harvey's work in view
+of these qualifications, and so it should be remarked that both positive
+and negative features of _De Generatione_ influenced profoundly
+subsequent embryological thought.
+
+It will be recalled that the title of _The Philosophicall Touch-Stone_
+identified Digby as the object of Alexander Ross's ire. In comparable
+manner, the latter's _Arcana Microcosmi_, published in 1652, declares
+its purpose to be "a refutation of Dr. Brown's Vulgar Errors, the Lord
+Bacon's Natural History, and Dr. Harvy's book _De Generatione_." Let us
+pause a brief moment in memory of a man so intrepid as to undertake the
+refutation of three of England's great intellects in one small volume,
+and then proceed to examine the embryological concepts of one of the
+trio, Sir Thomas Browne.
+
+Browne's _Religio Medici_, composed as a private confession of faith
+around 1635, is known to all students of English literature, as is his
+later, splendid work on death and immortality, _Hydrotaphia,
+Urne-Buriall_. One of the greatest stylists of English prose, Browne was
+also a physician and a student of generation who deserves our attention
+as an early chemical embryologist pointing the way to a form of
+embryological investigation prominent in the last half of the
+seventeenth century.
+
+Browne's embryological opinions are found particularly in _Pseudodoxia
+Epidemica_, _The Garden of Cyrus_, and in his unpublished _Miscellaneous
+Writings_. Browne, a well-read man, was educated at Oxford, Montpellier,
+Padua, and Leyden, and he was thoroughly imbued with the teaching of the
+prophets of the "new learning." This is evident throughout his writings,
+as witness his admonition to the reader of the _Christian Morals_:
+
+     Let thy Studies be free as thy Thoughts and Contemplations, but fly
+     not only upon the wings of Imagination; Joyn Sense unto Reason, and
+     Experiment unto Speculation, and so give life unto Embryon Truths,
+     and Verities yet in their Chaos.[26]
+
+
+Browne greatly admired Harvey's work on generation, considering it "that
+excellent discourse ... So strongly erected upon the two great pillars
+of truth, experience and solid reason."[27] Browne carried out a variety
+of studies upon animals of all kinds, in them joining Sense unto Reason,
+and "Experiment unto Speculation." Thus in his studies of generation, he
+made observations and also performed certain simple chemical
+experiments. Noting that "Naturall bodyes doe variously discover
+themselves by congelation,"[28] Browne studied experimentally the
+chemical properties of those substances providing the raw material of
+development. He observed the effects of such agents as heat and cold,
+oil, vinegar, and saltpeter upon eggs of various animals, recording such
+facts as the following:
+
+     Of milk the whayish part, in eggs wee observe the white, will
+     totally freez, the yelk with the same degree of cold growe thick &
+     clammy like gumme of trees; butt the sperme or tredde hold its
+     former body, the white growing stiff that is nearest it.... Egges
+     seem to have their owne coagulum within themselves manifested in
+     the incrassations upon incubation.... Rotten egges will not bee
+     made hard by incubation or decoction, as being destitute of that
+     spiritt, or having the same vitiated.... How far the coagulating
+     principle operateth in generation is evident from eggs wch will
+     never incrassate without it. From the incrassation upon incubation
+     when heat diffuseth the coagulum, from the _chalaza_ or gallatine
+     wh. containeth 3 nodes, the head, heart, & liver.[29]
+
+
+It cannot be said that Browne attained to any great generalizations
+regarding embryogeny on the basis of his rather naive experiments, but
+they are indicative of the effects of the "new learning" in one area of
+biology. Actually, Browne appears more comfortable in the search for
+patterns conforming to the quincunx, as in _The Garden of Cyrus_, and
+although he may well have been in search of something like the later
+Unity of Type, he uses his amassed details of scientific knowledge most
+effectively in support of nonscientific propositions. Thus, he uses the
+facts of embryonic development, alchemy, and insect metamorphosis as a
+part of his argument for the immortality of the human soul:
+
+     ...for we live, move, have a being, and are subject to the actions
+     of the elements, and the malice of diseases in that other world,
+     the truest Microcosme, the wombe of our mother; for besides that
+     generall and common existence wee are conceived to hold in our
+     Chaos, and whilst wee sleepe within the bosome of our causes, wee
+     enjoy a being and life in three distinct worlds, wherin we receive
+     most manifest graduations: In that obscure world and wombe of our
+     mother, our time is short, computed by the Moone, yet longer than
+     the dayes of many creatures that behold the Sunne; our selves being
+     yet not without life, sense, and reason; though for the
+     manifestation of its actions it awaits the opportunity of objects;
+     and seemes to live there but in its roote and soule of vegetation;
+     entring afterwards upon the scene of the world, wee arise up and
+     become another creature, performing the reasonable actions of man,
+     and obscurely manifesting that part of Divinity in us, but not in
+     complement and perfection, till we have once more cast our
+     secondine, that is, this slough of flesh, and are delivered into
+     the last world, that ineffable place of Paul, that proper _ubi_ of
+     spirits. The smattering I have [in the knowledge] of the
+     Philosophers stone ... hath taught me a great deale of Divinity,
+     and instructed my beliefe, how the immortall spirit and
+     incorruptible substance of my soule may lye obscure, and sleepe a
+     while within this house of flesh. Those strange and mysticall
+     transmigrations that I have observed in Silkewormes, turn'd my
+     Philosophy into Divinity. There is in those workes of nature, which
+     seeme to puzzle reason, something Divine, and [that] hath more in
+     it then the eye of a common spectator doth discover.[30]
+
+To affirm that Sir Thomas Browne was the founder of chemical embryology
+or, indeed, to contend that he made a great impress upon the progress of
+embryology is to humour our fancy. As Browne himself reminds us, "a good
+cause needs not to be patron'd by a passion."[31] His work and
+interpretations of generation are most important for our purposes as an
+indication of the rising mood of the times and an emerging awareness of
+the physiochemical analysis of biological systems. Although this mood
+and awareness coexist in Browne's writings with a continued reverence
+for some traditional attitudes, they mark a point of departure toward a
+variety of embryological thought prominent in England during the second
+half of the seventeenth century.
+
+Browne did no more than analyze crudely the reaction of the egg to
+various physical and chemical agents. This static approach was later
+supplanted by a more dynamic one concerned primarily with the
+physicochemical aspects of embryonic development. This is first apparent
+in a report by Robert Boyle in the _Philosophical Transactions of the
+Royal Society_ in 1666 entitled, "A way of preserving birds taken out of
+the egge, and other small foetus's." Boyle, unlike Browne, exposed
+embryos of different ages to the action of "Spirit of Wine" or "Sal
+Armoniack," demonstrating thereby the chemical fixation of embryos as an
+aid to embryology. A year later, Walter Needham, a Cambridge physician
+who studied at Oxford in the active School of Physiological Research,
+which included such men as Christopher Wren and Thomas Willis, published
+a book reporting the first chemical experiments upon the developing
+mammalian embryo.[32] Needham's approach and goals are more dynamic than
+those of Browne, and he attempts to analyze various embryonic fluids by
+coagulation and distillation procedures. His experiments reveal, for
+example, that "coagulations" effected by different acids vary according
+to the fluid; thus, the addition of "alumina" to bovine amniotic fluid
+produced a few, fine precipitations, whereas the allantoic fluid was
+precipitated like urine. By such means Needham was able to demonstrate,
+however crudely, that there are considerable differences in the various
+fluids occurring within and around the fetus. Furthermore, it is with
+the results of chemical analyses that he supports his other arguments,
+such as his contention that the egg of elasmobranchs is not, as
+believed, composed of only one humour, but has separate white and yolk.
+
+Needham's book contains many splendid observations, including an
+accurate description of the placenta and its vessels, the relationship
+of the various fetal membranes to the embryonic fluids, and rather
+complete directions for dissection of various mammals. These need not
+detain us, since the important aspect of Needham's work relevant to our
+purpose is his continuation of the chemical analysis of the developing
+embryo and its demonstration that, although Harvey might have despised
+the "chymists" and been contemptuous of the "mechanical, corpuscular
+philosophy," this system and approach was not to be denied.
+
+Needham's book is dedicated to Robert Boyle, whose _Sceptical Chymist_
+set the cadence for subsequent research based upon the "mechanical or
+corpuscularian" philosophy and quantitative procedures. It is
+appropriate for us, then, to terminate our discussion with a
+consideration of this current in English embryological thought.
+
+John Mayow was the first to realize that "nitro-aerial" vapour, or
+oxygen, is essential to respiration of a living animal, and he was soon
+led to inquire "how it happens that the foetus can live though
+imprisoned in the straits of the womb and completely destitute of
+air."[33] As a consequence of this interest, the third of his _Tractatus
+Quinque medico-physici_, published in 1674, is devoted to the
+respiration of the fetus _in utero_. He shows truly remarkable insight
+when he concludes therein that
+
+     It is very probable that the spermatic portions of the uterus and
+     its carunculae are naturally suited for separating aerial particles
+     from arterial blood.
+
+     These observations premised, we maintain that the blood of the
+     embryo, conveyed by the umbilical arteries to the placenta or
+     uterine carunculae transports to the foetus not only nutritious
+     juice, but also a portion of the nitro-aerial particles: so that
+     the blood of the infant seems to be impregnated with nitro-aerial
+     particles by its circulation through the umbilical vessels in the
+     same manner as in the pulmonary vessels. Therefore, I think that
+     the placenta should no longer be called a uterine liver, but rather
+     a uterine lung.[34]
+
+Although Mayow's attempted analysis of respiration of the chick embryo
+_in ovo_ is less than successful, his views on fetal respiration were
+soon accepted by many, and his tract stands as a great contribution to
+physiological embryology.
+
+The studies of such individuals as John Standard reporting the weight of
+various parts of the hen's egg, e.g., the shell, the yolk, the white,
+reveal the wing of embryological investigation that was increasingly
+obsessed with quantification and the physicochemical analysis of the
+embryo and its vital functions. In this they were following the
+injunction of Boyle, who used the developing embryo as a vehicle in an
+attack upon the idea that mixed bodies are compounded of three
+principles, the obscurities of which operated to discourage
+quantification:
+
+     How will this hypothesis teach us, how a chick is formed in the
+     egg, or how the seminal principles of mint, pompions, and other
+     vegetables ... can fashion water into various plants, each of them
+     endowed with its peculiar and determinate shape, and with divers
+     specifick and discriminating qualities? How does this hypothesis
+     shew us, how much salt, how much sulphur, and how much mercury must
+     be taken to make a chick or a pompion? And if we know that, what
+     principle it is, that manages these ingredients, and contrives, for
+     instance, such liquors, as the white and yolk of an egg into such a
+     variety of textures, as is requisite to fashion the bones, veins,
+     arteries, nerves, tendons, feathers, blood, and other parts of a
+     chick? and not only to fashion each limb, but to connect them all
+     together, after that manner, that is most congruous to the
+     perfection of the animal, which is to consist of them?[35]
+
+
+The emphasis upon quantification and the physicochemical analysis of
+vital processes was to continue into the eighteenth century and to
+contribute to the great stress upon precision in that period. It was
+not, however, destined to become immediately the main stream of
+embryological investigation. For even as the studies of Mayow were in
+progress, embryology was embarked upon a course leading to
+preformationism. By the end of the seventeenth century, the idea that
+the embryo was encased in miniature in either egg or sperm was elevated
+to a position of Doctrine, and thereafter there was little encouragement
+to quantitative study of development. Many embryological investigations
+were performed during the eighteenth century, but most relate to the
+controversy regarding epigenesis and preformationism as the true
+expression of embryonic development. Withal, the seventeenth-century
+embryologists, and particularly the embryologists of seventeenth-century
+England, had contributed much to the progress of the discipline. They
+had introduced new ideas, applied new techniques, and created new
+knowledge; they had effectively advanced the study of development beyond
+the stage of macro-iconography; they had freed the discipline from much
+of its traditional baggage of causes, virtues, and faculties. Various
+English embryologists had varying success with developmental theory, but
+as a group they had made great impact upon the development of
+embryology. In the course of their century, they had, in the words of
+one of them, "called tradition unto experiment."[36]
+
+
+
+
+_Notes_
+
+
+[1] Charles Dickens, _A Tale of Two Cities_, London, 1859, p. 1.
+
+[2] Kenelm Digby, _Private Memoirs of Sir Kenelm Digby, Gentleman of the
+Bedchamber to King Charles the First_, London, 1827, Preface, p. i.
+
+[3] Kenelm Digby, _Two Treatises, in the One of Which, The Nature of
+Bodies; in the Other, the Nature of Mans Soule; is Looked into_, Paris,
+1644, p. 213.
+
+[4] _Ibid._, p. 220.
+
+[5] _Ibid._, pp. 220-221.
+
+[6] _Ibid._, p. 222.
+
+[7] _Ibid._, p. 215.
+
+[8] _Ibid._, p. 219.
+
+[9] _Ibid._, p. 213.
+
+[10] _Ibid._, pp. 217-219.
+
+[11] _Ibid._, p. 231.
+
+[12] Alexander Ross, _The Philosphicall Touch-Stone; or Observations
+upon Sir Kenelm Digbie's Discourses of the nature of Bodies, and of the
+reasonable Soule_, London, 1645.
+
+[13] Alexander Ross, _Arcana Microcosmi: or, The hid secrets of Man's
+Body disclosed ... In an anatomical duel between Aristotle and Galen
+concerning the parts thereof_, London, 1652, p. 87.
+
+[14] Nathaniel Highmore, _The History of Generation, Examining the
+several Opinions of divers Authors, expecially that of Sir Kenelm Digby,
+in his Discourse of Bodies_, London, 1651, p. 4.
+
+[15] _Ibid._, pp. 26-27.
+
+[16] _Ibid._, pp. 27-28.
+
+[17] _Ibid._, p. 45.
+
+[18] _Ibid._, Pp. 90-91.
+
+[19] William Harvey, _Opera omnia: a Collegio Medicorum Londinensi
+edita_, Londini, 1766, p. 136.
+
+[20] William Harvey, _Anatomical Excercises on the Generation of
+Animals_, trans. Robert Willis, London, 1847, p. 462.
+
+[21] _Ibid._, pp. 336-339.
+
+[22] _Works of William Harvey_, trans. Robert Willis, London, 1847, pp.
+lxx-lxxi.
+
+[23] Harvey, _op. cit._, pp. 462-463.
+
+[24] _Ibid._, p. 457.
+
+[25] F. J. Cole, _Early Theories of Sexual Generation_, Oxford, 1930, p.
+140.
+
+[26] Thomas Browne, _The Works_, ed. Geoffrey Keynes, Chicago, 1964, I,
+261-262.
+
+[27] _Ibid._, II, 265.
+
+[28] _Ibid._, III, 442.
+
+[29] _Ibid._, III, 442-452.
+
+[30] _Ibid._, I, 50.
+
+[31] _Ibid._, I, 14.
+
+[32] Walter Needham, _Disquisitio anatomica de formato foetu_, London,
+1667.
+
+[33] John Mayow, "De Respiratione foetus in utero et ovo," in _Tractatus
+Quinque Medico-Physici_, Oxonii, 1674, p. 311.
+
+[34] _Ibid._, pp. 319-320.
+
+[35] Robert Boyle, _The Works_, London, 1772, I, 548-549.
+
+[36] Browne, _op. cit._, II, 261.
+
+
+
+
+II
+
+_Robert Boyle as an Amateur Physician_
+
+LESTER S. KING
+
+
+
+Robert Boyle was not a physician. To be sure, he had engaged in some
+casual anatomical studies,[37] but he had not formally studied medicine
+and did not have a medical degree. Nevertheless, he engaged in what we
+would call medical practice as well as medical research and exerted a
+strong influence on the course of medicine during the latter seventeenth
+century, an influence prolonged well into the eighteenth. He lived
+during the period of exciting yet painful transition when medical theory
+and practice were undergoing a complete transformation towards what we
+may call the "early modern" form. The transition, naturally gradual,
+extended over three centuries, but I wish to examine only a very small
+fragment of this period, namely, the third quarter of the seventeenth
+century.
+
+Boyle's first major work which dealt extensively with medical problems
+was the _Usefulness of Experimental Philosophy_. This work, although
+published in 1663, had been written in two parts, the first much earlier
+than the second. Fulton[38] indicates it had been drafted around 1650,
+while Hall[39] ascribes it to the period 1647-1648. This first part has
+relatively little to do with medicine; the references are few and rather
+incidental, and have significance only for the light they throw on
+"natural philosophy" and "natural religion." The second part, however,
+written apparently not too long before publication, has a great deal to
+do with medicine and constitutes one of the important medical documents
+of the century.
+
+Deserving of mention is an earlier and minor work of Boyle, indeed, his
+first published writing, only recently identified. This work, apparently
+written in 1649, bore the title "An Invitation to a free and generous
+communication of Secrets and Receits in Physick," and appeared
+anonymously in 1655 as part of a volume entitled _Chymical, Medicinal
+and Chirurgical Addresses Made to Samuel Hartlib, Esquire_.[40] For our
+purposes, it is significant as emphasizing his early interest in
+medicine.
+
+Boyle seems to have acquired most of his medical knowledge between, say,
+1649 and 1662. It is worth recalling some of the trends and conflicts
+that formed the medical environment during this period. Among the major
+trends, first place, perhaps, must be given to Galenic doctrine, which
+had come under progressively severe attack. Molière, who lived from 1622
+to 1673, showed in his comedies the popular reaction to a system which,
+although dominant, was clearly crumbling. The cracks in the edifice even
+the layman could readily see. Nevertheless, Galenism had its strong
+supporters. Riverius, who lived from 1589 to 1655, was a staunch
+Galenist. An edition of his basic and clinical works[41] was translated
+into English in 1657, and Latin editions continued to be published well
+into the eighteenth century.[42]
+
+Galenism, of course, had to withstand the great new discoveries in
+anatomy and physiology made by Vesalius, Aselli, Sanctonius, Harvey, and
+others, not to mention the host of great investigators who were more
+strictly contemporaries of Boyle.
+
+Galenism also faced the rivalry of chemistry. The so-called "antimony
+war" in the earlier part of the century marked an important assault on
+Galenism, and the letters of the arch-conservative Guy Patin (who died
+in 1672) help us appreciate this period.[43] However, even more
+important was the work of van Helmont, who developed and extended the
+doctrines of Paracelsus and represented a major force in
+seventeenth-century thought. Boyle was well acquainted with the
+writings of van Helmont, who, although his works fell into disrepute as
+the mechanical philosophy gradually took over, nevertheless in the
+middle of the seventeenth century was a highly significant figure. In
+1662 there appeared the English translation of his _Oriatrike_,[44]
+while Latin editions continued to be published later in the century.
+
+In this connection I might also mention the subject of "natural magic,"
+which had considerable significance for medicine. The best-known name
+is, perhaps, Giovanni Battista della Porta (1545-1615), whose books[45]
+continued to be published, in Latin and English, during this period when
+Boyle was achieving maturity.
+
+Profound developments, of course, arose from the new mechanics and
+physics and their metaphysical background, for which I need only mention
+the names of Descartes, who died in 1650, and Gassendi, who died in
+1655. And then there was also the new methodological approach, that
+critical empiricism whose most vocal exponent was Francis Bacon, which
+led directly to the founding of the Royal Society in 1660 and its
+subsequent incorporation. These phases of seventeenth-century thought
+and activity I do not intend to take up.
+
+In this turbulent riptide of intellectual currents, Robert Boyle,
+without formal medical education, performed many medical functions, as a
+sometime practitioner, consultant, and researcher. Repeatedly he speaks
+of the patients whom he treated, and repeatedly he refers to
+practitioners who consulted him, or to whom he gave advice. In addition,
+through his interest in chemistry, he became an important experimental
+as well as clinical pharmacologist, and his researches in physiology
+indicate great stature in this field. If we were to draw a present-day
+comparison, we might point to investigators who had both the M.D. and
+the Ph.D. degrees, who had both clinical and laboratory training, and
+who practiced medicine partly in the clinical wards, partly in the
+experimental laboratories. Boyle, of course, did not have either degree,
+but he did have a status as the leading virtuoso of his day.
+
+The virtuoso has been the subject of a most extensive literature.[46] He
+aroused considerable contemporary hostility and satire and his overall
+significance for medical science is probably slight, with a few striking
+exceptions. Robert Boyle is one of the great exceptions.
+
+First of all, the virtuoso was an amateur. In the literal sense the
+amateur loves the activities in which he engages, and in the figurative
+sense he remains independent of any Establishment. Not trained in any
+rigorous, prescribed discipline, he was not committed to any set
+doctrine. Furthermore, he was not restricted by the regulations which
+all Establishments employed to preserve their status, block opposition,
+and prevent competition. In many fields the Establishment took the form
+of a guild organization--in medicine, the Royal College of
+Physicians.[47]
+
+Boyle was a wealthy and highly talented man who could pursue his own
+bent without needing to make concessions merely to earn a living. He
+remained quite independent of the cares which oppressed those less well
+endowed in worldly goods or native talent. Sometimes, of course,
+necessity can impose a discipline and rigor which ultimately may serve
+as a disguised benefit, but in the seventeenth century, when Boyle was
+active, the lack of systematic training and rigorous background seemed
+actually an advantage. Clinical chemistry and the broad areas which we
+can call experimental medicine had no tradition. Work in clinical
+chemistry, clinical pharmacology, and experimental physiology was
+essentially innovation. And since innovations are often made by those
+who are outside the Establishment and not bound by tradition, we need
+feel no surprise that the experimental approach could make great
+progress under the aegis of amateurs. Necessarily the work was rather
+unsystematic and undisciplined, but system and discipline could arise
+only when the new approach had already achieved some measure of success.
+Through the casual approach of amateurs this necessary foundation could
+be built.
+
+Boyle, as a clinician, remained on excellent terms with medical
+practitioners. For one thing, he took great care not to compete with
+them. As stated,[48] he "was careful to decline the occasions of
+entrenching upon their profession." Physicians would consult him freely.
+As a chemist and experimental pharmacologist, he prepared various
+remedies. Some of these he tried out on patients himself, others he gave
+to practitioners who might use them. Boyle seems to have abundantly
+provided what we today call "curbstone consultations."
+
+In no way bound by guild rules and conventions or by rigid educational
+standards, Boyle was free to learn from whatever sources appealed to
+him. Repeatedly he emphasized the importance of learning from
+experience, both his own and that of others, and by "others" he included
+not only physicians and learned gentlemen, but even the meanest of
+society, provided they had experience in treating disease. This
+experience need not be restricted to treatment of humans but should
+include animals as well. Thus, in speaking of even the "skilfullest
+physicians," he indicated that many of them "might, without
+disparagement to their profession, do it an useful piece of service, if
+they would be pleased to collect and digest all the approved experiments
+and practices of the farriers, graziers, butchers, and the like, which
+the ancients did not despise...; and ... which might serve to
+illustrate the _methodus medendi_."[49] He was quite critical of
+physicians who were too conservative even to examine the claims of the
+nonprofessionals, especially those who were relatively low in the social
+or intellectual scale. This casts an interesting sidelight on the
+snobbishness of the medical profession.
+
+Boyle's willingness and ability to ignore the restrictions of an
+Establishment represent the full flowering of what I might call the
+Renaissance spirit--the drive to go outside accepted bounds, to
+explore, to _try_, to avoid commitment, and to investigate for oneself.
+
+What internal and external factors permit a successful breakaway from
+tradition? Rebels there have always been, yet successful rebels are
+relatively infrequent. The late seventeenth century was a period of
+successful rebellion, and the virtuosi were one of the factors which
+contributed to the success. Robert Boyle played a significant part in
+introducing new methods into science and new science into medicine.
+
+We must realize that Boyle was primarily a chemist and not a biologist.
+He thought in chemical terms, drawing his examples from physics and
+chemistry; he did not think in terms of the living creature or the
+organism, and as a mechanist he passed quite lightly over the concept or
+organismic behavior. His basic anti-Aristotelianism prevented his
+appreciating the biologically oriented thought of Aristotle. Instead,
+Boyle talked about the inorganic world, of water, of metals and
+elements, of physical properties. He ignored that inner drive which
+Spinoza called the _conatus_; or the _seeds_ of Paracelsus or van
+Helmont; or the persistence over a time course of any "essence" or
+"form." Since he dealt with phenomena relatively simple when compared
+with living phenomena, he could, for this very reason, make progress, up
+to a point. As a chemist, he could seek fairly specific and precise
+correlations of various concrete environmental factors, and then assume
+that living beings behaved as did the inorganic objects which he
+investigated. However, he always excepted the soul of man, as outside
+his investigations.
+
+But while Boyle was a skillful chemist, judged by the standards of his
+time, we cannot call him a skillful medical investigator. This
+represents, however, the fault of the era in which he lived rather than
+any fault peculiar to him. Boyle's medical studies fall into at least
+two categories. These were the purely physiological experiments, such as
+those on respiration or on blood, and the more clinical experiments,
+concerned with pharmaceuticals, clinical pharmacology, and clinical
+medicine. The purely physiological experiments have great merit and were
+profoundly influential in shaping modern physiology. The clinical
+experiments throw great light on the development of critical judgment in
+medical history, and the relations of judgment and faith.
+
+In 1775, John Hunter wrote a letter to Jenner that has become quite
+famous. Hunter had just thanked Jenner for an "experiment on the
+hedgehog." But, continued Hunter, "Why do you ask me a question by way
+of solving it? I think your solution is just, but why think? Why not try
+the experiment?"[50] The word "just," of course, in its
+eighteenth-century sense, means exact or proper, precise or correct. A
+"just solution" is one that is logically correct. The "think" refers to
+Hunter's own uncertainty. He is not content with a verbal or logical
+solution to a problem, he wants empirical demonstration. Why, he is
+asking, should we be content with merely a logically correct solution
+when we can have an experiential demonstration. _Try the experiment._
+Put the logical inference to the test of experience.
+
+This empirical attitude, not at all infrequent in the latter
+eighteenth-century medicine, was quite unusual in the seventeenth-century
+medicine. This was precisely the attitude that Robert Boyle exhibited in
+his clinical contacts.
+
+Medicine, at least textbook medicine, was rationalistic. Textbooks
+started with definitions and assertions regarding the fundamentals of
+health. This we see particularly in a Galenic writer such as Riverius.
+Medicine, he said, "stands upon the basis of its own principles, axioms
+and demonstrations, repeated by the demonstration of nature."[51] In his
+text, Riverius first expounded a groundwork concerning the elements,
+temperaments and humors, spirits and innate heat, the faculties and
+functions; then the nature of the diseases which resulted from
+disturbances of these; and finally the signs of disease and the
+treatment that was appropriate. All were beautifully interdigitated in a
+logical fashion, and for any recommended therapy a good reason could be
+found. There was, however, a serious difficulty. If anyone were so bold
+as to ask, _But how do you know?_ only a rather lame answer would come
+forth. The exposition rested in large part on authority or else largely
+on reasoning from accepted premises--a "just" reasoning. And while much
+keen observation was duly recorded and a considerable mass of fact
+underlay the theoretical superstructure, the idea of empirical proof was
+not current. Riverius chopped logic vigorously and drew conclusions from
+unsupported assertions in a way that strikes us as reckless.
+
+For a body of knowledge to be a science, it must indicate a logical
+connection between first principles, which were "universal," and the
+particular case. The well-educated physician could always give a logical
+reason for what he did. The empiric, however, was one who carried out
+his remedies or procedures without being able to tell _why_. That is, he
+could not trace out the logical connection between first principles and
+the particular case.
+
+Galenism suffered especially from logical systematization, and the
+system of van Helmont, while far less orderly, also had its own basic
+principles on which all else depended. Boyle, however, practiced
+medicine on a thoroughly different basis. He did not depend on system or
+logic. In the words that Hunter used to Jenner over a hundred years
+later, other physicians would _think_ the answers to their problems.
+Boyle, however, preferred to _try the experiment_. He wanted _facts_.
+
+But this attitude, which sounds so modern, so praiseworthy and
+enlightened, had one serious flaw. What _was_ a fact? And how did you
+know? This important problem, so significant for the growth of
+scientific medicine, we can study quite readily in the works of Robert
+Boyle.
+
+The problem, in a sense, resolves around the notion of credulity. What
+shall we believe? Boyle makes some distinctions between what he has seen
+with his own eyes and what other people report to have seen. Thus, he
+mentions "a very experienced and sober gentleman, who is much talked of"
+who cured cancer of the female breast "by the outward application of an
+indolent powder, some of which he also gave me." But, he adds
+cautiously, he has not yet "had the opportunity to make trial of
+it."[52] Clearly, since he cannot make the trial himself, Boyle
+withholds judgment, even though the material came from a "very
+experienced" gentleman. Or again, he talks about "sober travelers" who
+made certain claims regarding the treatment of poisons. But, he says,
+"having not yet made any trial of this my self, I dare not build upon
+it."[53]
+
+There are numerous such instances, scattered throughout his works, where
+he reports an alleged cure but specifically indicates his own mental
+reservations. Clearly, he is quite cautious in accepting the statements
+of others, even though they were "sober" or "experienced" or even
+"judicious." On the other hand, he is extremely uncritical when he
+himself uses the term "cure" and when he attributes cures to particular
+medicines.
+
+His skepticism he indicates in references, for example, to Paracelsus
+and van Helmont. Their specific remedy against "the stone," he says, and
+their claims that they can reduce stones to "insipid water, is so
+strange (not to say incredible) that their followers must pardon me, if
+I be not forward to believe such unlikely things, til sufficient
+experience hath convinced me of their truth."[54] Here, of course, we
+see further a feature of critical acumen. A claim is made, but if this
+claim runs counter to Boyle's own accepted body of knowledge, or to
+logical doctrines derived from other directions, mere assertion cannot
+carry conviction. "Sufficient experience" must play its part, and just
+what constitutes "sufficient" we are not quite sure.
+
+In judging the effectiveness of a remedy or the credibility of a
+statement, one of the most important weapons was _analogy_. Direct
+observation of a phenomenon was good. Next best was direct observation
+of some _analogous_ phenomenon whereby one body acted upon another to
+alter its properties or induce significant changes. Boyle drew his
+analogies largely from chemistry, but he had no hesitation in applying
+them to medicine.
+
+Claims that medicines swallowed by mouth could dissolve stones in the
+bladder seemed a priori unlikely. Yet there was considerable authority
+that this took place; many persons had reported that this was a _fact_.
+Boyle kept an open mind. He might be highly skeptical in regard to the
+claims for any particular medication, but he did not deny the principle
+involved. The possibility that some fluid, when swallowed, could have a
+particular specific action on stones in the bladder, without affecting
+the rest of the body, he considered quite plausible through the analogy
+that quicksilver has an affinity with gold but has no effect upon iron.
+Furthermore, a substance than can corrode a solid body may nevertheless
+be unable to "fret" a different body which is considerably softer and
+thinner, if the "texture" does not admit the small particles.[55]
+Reasoning by analogy served to explain the logical plausibility. In
+other words, he was very open-minded. He refused to dismiss all such
+claims, and provided analogy as a reason for keeping his mind open; yet
+he refused to accept particular claims of medicine that dissolved
+stones, because the evidence was not convincing. We could scarcely ask
+for more.
+
+An important seventeenth-century medical document was the report of Sir
+Kenelm Digby, regarding the so-called "weapon salve." The essay
+describing this famous powder was written in 1657, and I have discussed
+it at some length elsewhere.[56] Here again Boyle keeps an open mind,
+saying, "and if there be any truth in what hath been affirmed to me by
+several eye-witnesses, as well physicians as others, concerning the
+_weapon-salve_, and _powder of sympathy_, we may well conclude, that
+nature may perform divers cures, for which the help of chirurgery is
+wont to be implored, with much less pain to the patient, than the
+chirurgeon is wont to put him to."[57]
+
+One great advantage of chemistry, thought Boyle, lay in the help it
+provided in investigating the _materia medica_. Chemistry, he thought,
+could help to purify many of the inorganic medicines and make them
+safer, without impairing their medicinal properties. Furthermore,
+chemistry could help investigate various medications customarily
+employed in medicine, where "there hath not yet been sufficient proof
+given of their having any medical virtues at all."[58] Boyle believed
+that by proper chemical analysis he could isolate active components, or,
+contrariwise, by failing to extract any valuable component, he could
+eliminate that medicine from use. While a major interest, perhaps, was a
+desire to provide inexpensive medicines, he was well aware that much of
+what went into prescriptions probably had no value. Furthermore, he felt
+that his chemical analysis could indicate whether value and merit were
+present or not.
+
+The same skepticism applies to remedies that, far from being expensive,
+were common and yet rather disgusting. The use of feces and urine as
+medication was widespread. The medical virtues of human urine represent,
+he believed, a topic far too great to be considered in a brief compass.
+But he declared that he knew an "ancient gentlewoman" suffering from
+various "chronical distempers" who every morning drank her own urine,
+"by the use of which she strangely recovered."[59] Boyle was quite
+skeptical of the reports of others, which he had not had opportunity to
+try himself. But in therapeutic trials that he himself had witnessed, he
+seemed utterly convinced that the medication in question was responsible
+for the cure and was quite content to accept the evidence of a single
+case.
+
+He discussed the "efficacy" of millepedes, which he found to be "very
+diuretical and aperitive." And he indicated, on the evidence of a single
+patient whom he knew, that the millepedes had great medicinal value in
+suffusions of the eyes.[60]
+
+Many remedies of this type, the so-called old wives' remedies, were
+those of empirics. As mentioned previously, Boyle felt deeply concerned
+because physicians tended to ignore the alleged remedies of those who
+had not had formal training in medicine. He believed that great specific
+virtue probably lurked in many of these remedies, and he maintained that
+the chemists should investigate them without the prejudice that the
+medical professions exhibited. As part of this view, he felt that
+"simples" should be more carefully studied, because medicinal virtues
+inhered in single substances and that complicated combinations were
+unnecessary.
+
+We find innumerable examples scattered through Boyle's writings
+regarding the relations between chemistry and medication, numerous
+descriptions of cures, and skepticism regarding other alleged cures. As
+an important example, I would indicate Boyle's discussion of one of van
+Helmont's alleged cures.[61]
+
+Van Helmont described the remarkable cures brought about by a man
+identified only by the name of Butler. Apart from van Helmont's
+discussion, we can find no trace of him in medical annals, and van
+Helmont's own account is extremely skimpy. There are no dates given, and
+the only temporal clue is that Butler apparently knew King James--King
+James I, naturally. Butler was an Irishman who suddenly came into world
+view while in jail. A fellow prisoner was a Franciscan monk who had a
+severe erysipelas of the arm. Butler took pity on him, and to cure him
+took a very special stone which he had and dipped it briefly in a
+spoonful of "almond milk." This he gave to the jailer, bidding him
+convey a small quantity of it into the food of the monk. Almost
+immediately thereafter, the monk, not aware of the medicine, noted an
+extremely rapid improvement.
+
+Van Helmont related other cures. For example, a laundress who had a
+"megrim" [migraine] for sixteen years was cured by partaking of some
+olive oil, into a spoonful of which Butler dipped the stone. Other cures
+for which van Helmont vouched included a man who was exceedingly fat; he
+touched the stone every morning with the tip of his tongue and very
+speedily lost weight. Van Helmont's own wife was cured of a marked
+edema of the leg. Similarly, a servant maid who had had severe attacks
+of erysipelas which were "badly cured," and the leg leaden colored and
+swollen, was cured almost immediately. An abbess, whose arm had been
+swollen for eighteen years, partly paralyzed, was also cured. Van
+Helmont, however, indicates that he himself, when he thought he was
+being poisoned by an enemy, did not secure any benefit from the use of
+the stone. Later, however, it turned out that, because of the nature of
+the illness, he should have touched the stone with his tongue, to take
+its virtue internally, rather than merely anointing the skin with oil
+into which the stone had been dipped.
+
+Van Helmont makes it very clear that this is not magic or sorcery; there
+is no diabolic influence, no necromancy. He drew attention to the
+overwhelming effects which might result from a cause which was so minute
+that it could not be perceived by the senses. We cannot here go into the
+theoretical background which underlay van Helmont's conceptions, but we
+must mention at least briefly his idea of a basic mechanism. Van Helmont
+considered the action to be that of a ferment, where an extremely minute
+quantity can produce a tremendous effect. He gives the analogy of the
+tooth of a mad dog, which, although any saliva has been carefully wiped
+off, can nevertheless sometimes induce madness. The effect of the stone
+seems to be comparable. Its power becomes manifest even in enormous
+dilution and can multiply, for it can import its remedial virtue to a
+vast quantity of oil. Moreover, the stone had a sort of universal power
+against all diseases. Such a virtue could not be vegetable in its
+nature, but was, he thought, connected with metals. He pointed to the
+well-accepted medicinal virtues which inhered in gems. Metals also had
+great medicinal potency. Antimony, lead, iron, mercury, were well known,
+and of special importance was copper, the _Venus_ of the early chemists.
+
+The medicinal virtue which inhered in Butler's stone and in other
+powerful fermental remedies, van Helmont designated as "drif," which he
+said means, in the vernacular, virgin sand or earth. This virtue
+requires a metallic body in which to inhere. The general concept is not
+unfamiliar, of a virtue or power or ferment which was attached to a
+material object, and it is this type of explanation which was so
+preponderant in, for example, Porta's _Natural Magick_. Van Helmont
+speaks of the "first being," which translates the Latin _Ens_, of Venus
+or copper. Vitriol is the basic substance, and for purification of the
+virtue we require a "sequestration of its Venus from the dregs of the
+vitriol."[62]
+
+This was the background from which Boyle set about to secure a potent
+remedy. Van Helmont had discussed his experiments whereby he tried to
+create a medicine which would have the virtues of Butler's stone. Boyle
+attempted to improve on van Helmont's technique. Copper--Venus--was the
+basic metal, and Boyle started with vitriol or copper sulfate. He gave
+fairly explicit directions for the preparation, including calcination,
+boiling, drying, adding sal armoniack, subliming twice. The resulting
+chemical represented a purified medicine which he prescribed in variable
+dosage, from two or three grains, up to twenty or thirty at the maximum.
+He declared it to be a "potent specifick for the rickets," since he, and
+others to whom he had given it for use, had "cured" a hundred or more
+children of that disease. The medicine he also prescribed in fevers and
+headache, and he thought it "hath done wonders" in obstinate
+suppressions of the menses. It also improved the appetite. It worked, he
+declared, through the sweat and, to some extent, the urine.[63] It is
+noteworthy that Boyle did not claim to have cured the same illnesses
+than van Helmont reports as having been cured by Butler's stone.
+
+As another example, he gave directions for preparing essence of
+hartshorn--prepared, literally, from the horn itself. The preparation,
+strongly alkaline, he prescribed in small doses of eight to ten drops.
+The medicine "resists malignity, putrefaction, and acid humours," for
+it destroys the acidity. He used it "in fevers, coughs, pleurisies,
+obstructions of the spleen, liver, or womb, and principally in
+affections of the brain...."[64]
+
+While Boyle was a far more skillful chemist than van Helmont, he did not
+have any greater diagnostic acumen. And clearly, from the standpoint of
+scientific method, he lacked any sharp criterion of cure. Various
+patients were ill with various diseases; he gave them one or another
+preparation; the patients recovered. Controls there were none. Boyle,
+with great enthusiasm, believed that through natural philosophy we would
+eventually discover "the true causes and seats of diseases" and also
+find out effective remedies which would quickly free the patient from
+the disease.[65] But faith and enthusiasm did not compensate for the
+_post hoc propter hoc_ attitude.
+
+According to Galenic concepts, if diseases are due to alterations of
+humors either in their quality or in their proportions, then the
+suitable remedy will restore the appropriate quality or proportion. In
+Galenic doctrine, the disturbance of the humors should be perceptible,
+and a sound Galenic remedy should work by perceptibly changing the
+nature and proportion of the humors back to normal. However, side by
+side with the Galenic medical doctrines, there were the other prevalent
+doctrines, among which I can mention the idea of "specifics." I can
+emphasize three features: the specific remedy was active against a
+particular disease, in a quite specific fashion, in the same way that an
+antidote acted against a specific poison; second, the effectiveness was
+a matter of direct experience, based on empirical observation; and
+third, the mode of action remained relatively obscure, but nevertheless
+the medicines did not seem to behave as did the so-called "Galenicals."
+Thus, whether they acted by "sympathy," or by a special hidden virtue,
+or by a peculiar microcosmic energy, we cannot say. But the _fact_
+remains that many people asserted the specific effectiveness[66] of this
+or that remedy against a specific disease--e.g., that snakeweed was an
+effective cure for the bite of a serpent.
+
+Learned physicians, unfortunately, refused in large part to accept the
+validity of these alleged cures. Their hesitancy rested not on
+statistical evidence or on niceties of scientific method, but on the
+grounds that the alleged mode of operation was quite unintelligible and
+not at all in accord with accepted doctrine.
+
+Boyle, as a chemist, insisted on keeping an open mind in regard to
+so-called specifics. He objected strongly to the argument that simply
+because we cannot account for their mode of action, we should conclude
+that they were not effective. In a passage of great importance, he
+declared, "Why should we hastily conclude against the efficacy of
+specificks, taken into the body, upon the bare account of their not
+operating by any obvious quality, if they be recommended unto us upon
+their own experience by sober and faithful persons?" Thus, his chain of
+reasoning is, first of all, these remedies work, as attested by direct
+experience; we are not able to explain why or how they work; we must
+not, however, fly in the face of experience and deny their effectiveness
+simply because of our inability to explain the workings. He gives the
+example of a "leaven," which in minute amounts is able to "turn the
+greatest lump of dow [dough] into leaven."[67]
+
+Boyle strongly supported the well-known quotation of Celsus, that the
+important thing is not what causes the disease but what removes it. In
+strong terms he criticized "many learned physicians" who rejected
+specifics on the ground "that they cannot clearly conceive the distinct
+manner of the specificks working; and think it utterly improbable, that
+such a medicine, which must pass through digestions in the body, and be
+whirled about with the mass of blood to all the parts, should,
+neglecting the rest, shew it self friendly to the brain (for instance)
+or the kidneys, and fall upon this or that juice or humour rather than
+any other."[68] Boyle then went into considerable detail to show how
+this can take place through the action of ferments, combined with a
+theoretical exposition of atomistic philosophy, which we do not have
+time to go into at present. He gave in great detail an exposition of how
+these specifics _may_ operate, but did not in any way produce cogent
+evidence that they do in fact operate in such fashion.
+
+As a physician, Boyle insisted on facts over theory. He was constantly
+pleading for physicians to enlarge their experience, to try new
+medicines, even though these were not based on traditional doctrine.
+Where observed fact conflicts with theory, the fact cannot be ignored.
+Credulity of physicians, he indicated, may do the world "more mischief"
+than any other profession, but nevertheless he condemned those who would
+try to "circumscribe, or confine the operations of nature, and not so
+much as allow themselves or others to try, whether it be possible for
+nature, excited and managed by art, to perform divers things, which they
+never yet saw done, or work by divers ways, differing from any, which by
+the common principles, that are taught in the schools, they are able to
+give a satisfactory account of."[69] Surely, this is not a model of
+elegant English style, but the message is clear. Boyle was emphasizing
+the message taught earlier in the century by Francis Bacon, that we must
+judge the theory by the fact, and not the facts by the theory. It is the
+same philosophy that Hamlet expounded, that there are more things in
+heaven and earth than are dreamed of in our philosophy.
+
+We see, thus, that Boyle had taken a mighty step toward modern
+scientific medicine, but he covered only a small part of the total
+distance. He insisted that we should accept facts, but he did not
+realize the difficulties attendant on defining a fact and making it
+credible. He indicated that when strange results are alleged, "these
+need good proof to make a wary man believe so strange a thing,"[70] but
+what constitutes proof was a problem which he was not able to wrestle
+with and, indeed, a problem which he did not clearly perceive.
+
+I would emphasize that Boyle was in essence a man of great faith. He had
+great faith in religion, and was a deeply religious man. He was a great
+supporter of so-called "natural religion" and tried to reconcile the
+doctrines of natural philosophy with those of traditional religion.
+Westfall[71] has considered in detail the religious attitudes of late
+seventeenth-century writers, Robert Boyle in particular. The "proofs"
+alleged by the proponents of natural religion have, of course, little
+cogency. As Westfall points out, they examined nature in order to find
+what they already believed.
+
+Nevertheless, religious faith was only one part of the total faith which
+Boyle exhibited. He had as much faith in the capabilities, the future
+progress, and the promise of science as he did in traditional religion.
+Throughout all his works we see great evidence of his religious piety.
+But his faith in science, particularly as it affected medicine, we see
+with utmost clarity in the essay "The Usefulness of Natural Philosophy."
+He had great vision of the benefits that science would eventually bring
+to the healing arts. Unlike many of his contemporaries, particularly
+persons such as Glanvill or Spratt, he realized that many anatomical
+discoveries, for example, were of little practical value, but he felt
+that such discoveries would, "in process of time (when the _historia
+facti_ shall be fully and indisputably made out, and the theories
+thereby suggested clearly established) highly conduce to the improvement
+of the therapeutical part of physick...."[72] And with extraordinary
+perceptiveness he indicated the different ways in which he expected
+progress to be made through the proper application of mechanical
+philosophy. He was clear-sighted enough to realize that the discoveries
+made hitherto were not of great practical value but that the future was
+indeed bright, and he provided a remarkable blueprint of progress to
+come.
+
+The measure of progress is, perhaps, the quantity of faith which moves
+mankind. The study of Robert Boyle emphasizes some divisions among
+mankind. Some are content to look backward, to be satisfied with the
+achievements of the past, to rely on accepted systematization, doctrine,
+and explanation. Others, while dissatisfied with the past, have no guide
+to lead them anywhere. Still others, however, have a strong faith in the
+new course which they are pursuing, a faith which can guide them over
+great difficulties. Boyle was such a man of faith--a word which is
+really synonymous with "attitude." He marked the transition between the
+old and the new, and pointed up the difficulties which transition always
+involves.
+
+
+
+
+_Notes_
+
+
+[37] Thomas Birch, _The Life of the Honourable Robert Boyle_, in Robert
+Boyle, _The Works of the Honourable Robert Boyle_, ed. Thomas Birch,
+London; 1772, I, liv, reprinted Hildesheim, 1965, I, Introduction,
+viii-ix; Marie Boas Hall, _Robert Boyle on Natural Philosophy: An Essay
+with Selections from His Writings_, Bloomington, Indiana, 1965, p. 16.
+
+[38] John F. Fulton, _A Bibliography of the Honourable Robert Boyle_,
+2nd ed., Oxford, 1961, p. 37.
+
+[39] Hall, _op. cit._, p. 47.
+
+[40] Margaret E. Rowbottom, "The Earliest Published Writing of Robert
+Boyle," _Annals of Science_, VI (1950), 376-389; R. E. W. Maddison, "The
+Earliest Published Writing of Robert Boyle," _Annals of Science_, XVII
+(1961), 165-173.
+
+[41] Lazarus Riverius, _The Universal Body of Physick, in five books,...
+Exactly translated into English by William Carr_, London, 1657.
+
+[42] Lazari Riverii, _Opera Medica Universa_, Geneva, 1727.
+
+[43] J.-H. Reveillé-Parise, ed., _Lettres de Gui Patin_, Paris, 1846.
+
+[44] Jean Baptiste van Helmont, _Oriatrike or Physick Refined ...
+faithfully rendered into English by J. C._, London, 1662, and _Ortus
+Medicinae_, Editio Quarta, Lugduni, 1667.
+
+[45] Giovanni Battista della Porta, _Natural Magick_, London, 1658,
+reprinted New York, 1957, and _Magiae Naturalis Libri Viginti_,
+Rothomagi, 1650.
+
+[46] Richard F. Jones, _Ancients and Moderns: A Study of the Rise of the
+Scientific Movement in Seventeenth-Century England_, 2nd ed., St. Louis,
+1961; Richard S. Westfall, _Science and Religion in Seventeenth-Century
+England_, New Haven, 1958; Marjorie Hope Nicolson, _Pepys' Diary and the
+New Science_, Charlottesville: The University Press of Virginia, 1965;
+Walter E. Houghton, "The English Virtuoso in the Seventeenth Century,"
+_Journal of the History of Ideas_, III (1942), 51-73, 190-219; and
+Dorothy Stimson, _Scientists and Amateurs: A History of the Royal
+Society_, New York, 1948. See also, for an entertaining primary source,
+Thomas Shadwell, _The Virtuoso_, ed., Marjorie Hope Nicolson and David
+Stuart Rodes, London, 1966.
+
+[47] Sir George Clark, _A History of the Royal College of Physicians of
+London_, Oxford, Volume I, 1964, Volume II, 1966.
+
+[48] Boyle, "Memoirs for the Natural History of Human Blood," _Works_,
+IV, 637.
+
+[49] Boyle, "On the Usefulness of Natural Philosophy," _Works_, II, 169.
+
+[50] Stephen Paget, _John Hunter_, London, 1897, p. 126.
+
+[51] Riverius, _Opera_, trans. Lester S. King, p. 1.
+
+[52] Boyle, "Usefulness," pp. 74-75. See also pp. 115-116.
+
+[53] _Ibid._, p. 87.
+
+[54] _Ibid._, p. 97.
+
+[55] _Ibid._, p. 98. See also "Of the Reconcileableness of Specific
+Medicines to the Corpuscular Philosophy," _Works_, V, 85-86.
+
+[56] Lester S. King, "The Road to Scientific Therapy: 'Signatures,'
+'Sympathy,' and Controlled Experiment," _Journal of the American Medical
+Association_, CXCVII (1966), 250-256.
+
+[57] Boyle, "Usefulness," p. 115.
+
+[58] _Ibid._, p. 127.
+
+[59] _Ibid._, p. 130.
+
+[60] _Ibid._, p. 131.
+
+[61] Van Helmont, "Butler," _Ortus Medicinae_, pp. 358-365, and
+_Oriatrike_, pp. 585-596. See also Boyle, "Usefulness," p. 102.
+
+[62] Van Helmont, _Ortus_, p. 365; _Oriatrike_, p. 596.
+
+[63] Boyle, "Usefulness," pp. 135-136.
+
+[64] _Ibid._, p. 138.
+
+[65] _Ibid._, p. 144.
+
+[66] Boyle, "Reconcileableness of Specific Medicines," pp. 80-81.
+
+[67] Boyle, "Usefulness," p. 183.
+
+[68] _Ibid._, p. 190.
+
+[69] _Ibid._, p. 194.
+
+[70] _Ibid._, p. 195.
+
+[71] Westfall, _op. cit._
+
+[72] Boyle, "Usefulness," pp. 163-164.
+
+
+
+
+_Members of the Seminar_
+
+  L. R. C. Agnew
+  Theodore Alexander
+  M. Peter Amacher
+  Lawrence Badash
+  Stephen Dow Beckham
+  Charles S. Bodemer
+  Hilda Boheme
+  John G. Burke
+  Seymour L. Chapin
+  Jack H. Clark
+  William E. Conway
+  Louise Darling
+  Edna C. Davis
+  Dr. & Mrs. John Field
+  Waldo H. Furgason
+  Martha Gnudi
+  Doris Haglund
+  Karl Hufbauer
+  Samisa Jadon
+  Dieter Jetter
+  Roy Kidman
+  Irving J. King
+  Lester S. King
+  Leslie Koepplin
+  Elizabeth Lomax
+  Patrick McCloskey
+  Nancy McNeil
+  Edgar Mauer
+  David S. Maxwell
+  Robert Moes
+  C. D. O'Malley
+  Ynez O'Neill
+  Marilyn Paul
+  Ladislao Reti
+  Sally Rutherford
+  Edward Shapiro
+  Hans H. Simmer
+  Ingrid Simmer
+  John E. Smith
+  Joan Starkweather
+  Betsey Starr
+  John M. Steadman
+  Annette Terzian
+  Lelde Trapans
+  Richard F. Trucken
+  Frances Valadez
+  Virginia Weiser
+  Fred N. White
+  Maxine White
+  Virginia Wong
+  Jacob Zeitlin
+
+
+
+  _William Andrews Clark
+  Memorial Library
+  Seminar Papers_
+
+
+_Editing Donne and Pope._ 1952.
+
+    Problems in the Editing of Donne's Sermons, by George R. Potter.
+
+    Editorial Problems in Eighteenth-Century Poetry, by John Butt.
+
+_Music and Literature in England in the Seventeenth and Eighteenth
+Centuries._ 1953.
+
+    Poetry and Music in the Seventeenth Century, by James E. Phillips.
+
+    Some Aspects of Music and Literature in the Eighteenth Century, by
+    Bertrand H. Bronson.
+
+_Restoration and Augustan Prose._ 1956.
+
+    Restoration Prose, by James R. Sutherland.
+
+    The Ironic Tradition in Augustan Prose from Swift to Johnson, by Ian
+    Watt.
+
+_Anglo-American Cultural Relations in the Seventeenth and Eighteenth
+Centuries._ 1958.
+
+    The Puritans in Old and New England, by Leon Howard.
+
+    William Byrd: Citizen of the Enlightenment, by Louis B. Wright.
+
+_The Beginnings of Autobiography in England_, by James M. Osborn. 1959.
+
+_Scientific Literature in Sixteenth and Seventeenth Century England._
+1961.
+
+    English Medical Literature in the Sixteenth Century, by C. D. O'Malley.
+
+    English Scientific Literature in the Seventeenth Century, by Rupert
+    Hall.
+
+_Francis Bacon's Intellectual Milieu._ A Paper delivered by Virgil K.
+    Whitaker at a meeting at the Clark Library, 18 November 1961,
+    celebrating the 400th anniversary of Bacon's birth.
+
+_Methods of Textual Editing_, by Vinton A. Dearing. 1962.
+
+_The Dolphin in History._ 1963.
+
+    The History of the Dolphin, by Ashley Montagu.
+
+    Modern Whales, Dolphins, and Porpoises, as Challenges to Our
+    Intelligence, by John C. Lilly.
+
+_Thomas Willis as a Physician_, by Kenneth Dewhurst. 1964.
+
+_History of Botany._ 1965.
+
+    Herbals, Their History and Significance, by George H. M. Lawrence.
+
+    A Plant Pathogen Views History, by Kenneth F. Baker.
+
+_Neo-Latin Poetry of the Sixteenth and Seventeenth Centuries._ 1965.
+
+    Daniel Rogers: A Neo-Latin Link between the Pléiade and Sidney's
+    'Areopagus,' by James E. Phillips.
+
+    Milton as a Latin Poet, by Don Cameron Allen.
+
+_Milton and Clarendon: Papers on Seventeenth-Century English
+Historiography._ 1965.
+
+    Milton as Historian, by French R. Fogle.
+
+    Clarendon and the Practice of History, by H. R. Trevor-Roper.
+
+_Some Aspects of Seventeenth Century English Printing with Special
+Reference to Joseph Moxon_, by Carey S. Bliss. 1965.
+
+_Homage to Yeats, 1865-1965._ 1966.
+
+    Yeats and the Abbey Theatre, by Walter Starkie.
+
+    Women in Yeats's Poetry, by A. Norman Jeffares.
+
+_Alchemy and Chemistry in the Seventeenth Century._ 1966.
+
+    Renaissance Chemistry and the Work of Robert Fludd, by Allen G. Debus.
+
+    Some Nonexistent Chemists of the Seventeenth Century, by Robert P.
+    Multhauf.
+
+_The Uses of Irony._ 1966.
+
+    Daniel Defoe, by Maximillian E. Novak.
+
+    Jonathan Swift, by Herbert J. Davis.
+
+_Bibliography._ 1966.
+
+    Bibliography and Restoration Drama, by Fredson Bowers.
+
+    In Pursuit of American Fiction, by Lyle Wright.
+
+_Words to Music._ 1967.
+
+    English Song and the Challenge of Italian Monody, by Vincent Duckles.
+
+    Sound and Sense in Purcell's 'Single Songs,' by Franklin B. Zimmerman.
+
+_John Dryden._ 1967.
+
+    Challenges to Dryden's Biographer, by Charles E. Ward.
+
+    Challenges to Dryden's Editor, by H. T. Swedenberg.
+
+_Atoms, Blacksmiths, and Crystals._ 1967.
+
+    The Texture of Matter as Viewed by Artisan, Philosopher, and Scientist
+    in the Seventeenth and Eighteenth Centuries, by Cyril Stanley Smith.
+
+    Snowflakes and the Constitution of Crystalline Matter,
+    by John G. Burke.
+
+_Laplace as a Newtonian Scientist_, by Roger Hahn. 1967.
+
+_Modern Fine Printing._ 1967.
+
+    The Private Press: Its Essence and Recrudescence, by H. Richard Archer.
+
+    Tradition and Southern California Printers, by Ward Ritchie.
+
+
+
+
+Transcriber's Notes:
+
+  Passages in italics are indicated by _underscore_.
+
+  Additional spacing after some of the quotes is intentional to indicate
+  both the end of a quotation and the beginning of a new paragraph as
+  presented in the original text.
+
+  The following misprints have been corrected:
+    "acessible" corrected to "accessible" (page 10)
+    "Futhermore" corrected to "Furthermore" (page 10)
+    "histroy" corrected to "history" (page 14)
+    "wordly" corrected to "worldly" (page 32)
+
+
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK MEDICAL INVESTIGATION IN SEVENTEENTH CENTURY ENGLAND ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

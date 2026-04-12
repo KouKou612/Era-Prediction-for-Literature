@@ -1,0 +1,1052 @@
+﻿The Project Gutenberg eBook of An Attempt to Analyse the Automaton Chess Player of Mr. De Kempelen
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: An Attempt to Analyse the Automaton Chess Player of Mr. De Kempelen
+
+Author: Robert Willis
+
+
+        
+Release date: February 15, 2020 [eBook #61410]
+                Most recently updated: October 17, 2024
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/61410
+
+Credits: Produced by Paul Marshall and the Online Distributed
+        Proofreading Team at http://www.pgdp.net (This file was
+        produced from images generously made available by The
+        Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK AN ATTEMPT TO ANALYSE THE AUTOMATON CHESS PLAYER OF MR. DE KEMPELEN ***
+
+Transcriber’s Notes:
+
+  Underscores “_” before and after a word or phrase indicate _italics_
+    in the original text.
+  Small capitals have been converted to SOLID capitals.
+  Old or antiquated spellings have been preserved.
+  Typographical errors have been silently corrected.
+
+
+
+
+                         AN ATTEMPT TO ANALYSE
+                                  THE
+                        AUTOMATON CHESS PLAYER.
+
+
+                          HOWLETT and BRIMMER,
+                   Printers, 10, Frith Street, Soho.
+
+[Illustration: _Plate 1. To face the Title. Fig. 1._]
+
+[Illustration: _Fig. 2._
+
+_Drawn on Stone by the Author. Printed by C. Hullmandel._]
+
+                         AN ATTEMPT TO ANALYSE
+                                  THE
+                        AUTOMATON CHESS PLAYER,
+                                   OF
+                            MR. DE KEMPELEN.
+
+         WITH AN EASY METHOD OF IMITATING THE MOVEMENTS OF THAT
+                           CELEBRATED FIGURE.
+
+                   ILLUSTRATED BY ORIGINAL DRAWINGS.
+
+               TO WHICH IS ADDED, A COPIOUS COLLECTION OF
+                           THE KNIGHT’S MOVES
+                         OVER THE CHESS BOARD.
+
+                               _LONDON_:
+                         PRINTED FOR J. BOOTH,
+                      DUKE STREET, PORTLAND PLACE.
+                                 1821.
+
+      Mine eyes are made the fools o’ the other senses.
+                                            SHAKSPEARE.
+
+      I had not thought to have unlockt my lips
+      In this unhallowed air, but that this juggler
+      Would think to charm my judgment, as mine eyes.
+                                              MILTON.
+
+
+
+
+AN ATTEMPT TO ANALYSE, &c.
+
+
+The Automaton Chess Player was first introduced into England by Mr. de
+Kempelen, its inventer, about the year 1783. It was brought again into
+this country two years ago, and exhibited under the direction of a very
+ingenious gentleman, Mr. Maelzel.
+
+The annexed drawings, (plate 1, figs. 1 and 2,) represent the general
+appearance of the machine. It runs on castors, and is either seen
+on the floor when the doors of the apartment are thrown open, or is
+wheeled into the room at the commencement of the exhibition.
+
+The exhibiter, in order to shew the mechanism, as he informs the
+spectators, unlocks the door (A, fig. 1.) of the chest, which exposes
+to view a small cupboard, lined with black or dark coloured cloth, and
+containing different pieces of machinery, which seem to occupy the
+whole space. He next opens the door (B, fig. 2.) at the back of the
+same cupboard, and, holding a lighted candle at the opening, still
+further exposes the machinery within. The candle being withdrawn, the
+door (B) is then locked. The drawer (G G, fig. 1.) in the front of the
+chest is next opened, and a set of chess men, a small box of counters,
+and a cushion for the support of the Automaton’s arm, are taken out
+of it. The exhibiter now opens the two front doors (C C, fig. 1.) of
+the large cupboard, and the back door (D, fig. 2.) of the same, and
+applies a candle as in the former case. This cupboard is lined with
+cloth like the other, but it contains only a few pieces of machinery.
+The chest is now wheeled round, the garments of the figure are lifted
+up, and the door (E, fig. 2,) in the trunk, and another (F,) in the
+thigh, are opened. But it must be observed that the doors (B and D) are
+closed. The circumstance is mentioned, because Mr. de Windisch, in his
+letters on this subject, has a passage which would seem to imply that
+Mr. Maelzel’s mode of exhibiting the interior differs from that which
+Mr. de Kempelen employed. “But do not imagine,” says De Windisch, “like
+many others, that the inventer shuts one door as he opens another;
+the entire Automaton is seen at the same time uncovered, his garments
+turned up, and the drawer opened, as well as all the doors of the
+chest.”
+
+Now a reference to De Kempelen’s second drawing, published by Mechel,
+and annexed to De Windisch’s letters, will shew that, when the chest
+was turned round, the doors (B and D) were actually closed, as they
+always have been under the direction of Mr. Maelzel. In the chest of
+the latter gentleman, indeed, the doors in question are suspended by
+hinges attached to the upper part, (as in fig. 2), and consequently
+close by their own gravity. But the fact is, that the exhibiter never
+fails to lock them, though he leaves the keys in one of the locks. The
+other doors are allowed to swing about whilst the chest is wheeled
+round.
+
+The chest is now restored to its former position on the floor; the
+doors in front, and the drawer, are closed and locked; and the
+exhibiter, after he has occupied some time at the back of the chest, in
+apparently adjusting the machinery, removes the pipe from the hand of
+the figure, winds up the works, and the Automaton begins to move.
+
+These movements, resulting as they appear to do, from mere mechanism,
+yet strongly impressed with the distinctive character of an intellectual
+guidance, have excited the admiration of the curious during a period
+little short of forty years. In that time various conjectures have
+been offered to the world as solutions of the problem; but no one, as
+far as I know, have attempted to imitate the movements, it is fair to
+conclude, either that the means proposed are inadequate to the end, or
+that the description of them is too imperfect to enable a workman to
+complete the machinery.
+
+Automata may be divided into three classes—the simple—the compound—and
+the spurious.
+
+The first class comprises those insulated Automata whose movements
+result from mechanism alone; by the aid of which they perform certain
+actions, and continue them, so long as the moving force is kept in an
+active state.
+
+The second class includes those Automata, which, like the former, are
+moved by machinery; but, possessing at the same time a communication,
+not immediately apparent, with human agency, are enabled to change the
+regular order and succession of their movements, according to existing
+circumstances; and hence, in some measure, to assume the character of
+living beings.
+
+The third class contains those Automata which, under the semblance only
+of mechanism, are wholly directed and controlled by a concealed human
+agent.
+
+The phenomena of the Chess Player are inconsistent with the effects
+of mere mechanism; for, however great and surprising the powers of
+mechanism may be, the movements that spring from it, are necessarily
+limited and uniform: it cannot usurp and exercise the faculties of
+mind; it cannot be made to vary its operations, so as to meet the
+ever-varying circumstances of a game of chess. This is the province of
+intellect alone; and the Chess Player must consequently relinquish all
+claim to be admitted into the first division. Let us examine its title
+to be ranked in the second class.
+
+       *       *       *       *       *
+
+The chess board contains sixty-four squares, and in order to execute
+the movements of the Chess Player, distinct trains of machinery must be
+formed, which shall be capable, when set in motion, of conveying the
+hand of the Automaton to each, and to any, of these several squares.
+Having arrived at a square, and taken up a chess man, it will be
+requisite, either to withdraw the hand towards the side, and without
+the limits of the board, for the purpose of letting drop the chess man
+there, and thence to proceed to another square, and remove a chess man
+to a third square; or it may be required to pass at once from the first
+square to any other on the board, and there to deposit the man. These
+movements must be promptly performed, and repeated as often as the
+circumstances of the game may call for them.
+
+Setting aside a great variety of minor details, it will be evident
+to any person, even slightly acquainted with mechanics, that the
+execution of these movements, so extensive, so complicated, and so
+variable, would be attended with difficulties almost insurmountable;
+but we will suppose for a moment that these obstacles are overcome;
+let it be conceded that a machine has been constructed so perfect,
+that, on giving motion to the respective trains, the required movement
+shall be instantly performed. What then? The main object will be
+still unattained! Where is the intelligence and the “promethean heat”
+that can animate the Automaton and direct its operations? Not only
+must an intellectual agent be provided, but between such an agent
+and his deputy, the Automaton, a direct communication must be formed
+and preserved, liable to no interruption, and yet so secret that the
+penetrating eye of the most inquisitive observer may not be able to
+detect it. Till this be done, the Chess Player’s title to be admitted
+into the second division will, at any rate, continue in abeyance.
+
+I am aware that on this part of the subject conjecture has been busy,
+and different plans have been devised for the maintenance of the
+intercourse alluded to. The task has been imposed on the exhibiter of
+the machine, he being the only person on whom it could devolve with
+even a shadow of probability; and to effect his purpose it has been
+suggested that he might touch certain springs, or pull “a wire not
+much thicker than a hair,” or be furnished with a powerful magnet. But
+such conjectures are unworthy of serious refutation; for besides the
+uncertainty and constant liability to interruption of such modes of
+communication, they are actually at variance with the uniform conduct
+of the exhibiter. Whoever has witnessed the exhibition will have seen
+that the exhibiter is not confined to a particular spot in the room,
+but, on the contrary, that he is frequently, during the progress of the
+game, at a distance from the chest, far beyond the sphere of influence
+of any of these proposed modes; and if, at such times, the Automaton
+can move a single joint, it is proof decisive that its action springs
+from another source.
+
+Having now shewn how difficult, and perhaps impossible, it would be to
+execute the movements of the Chess Player by mechanism, and maintain,
+at the same time, a communication with the agent, who would be required
+to give life, as it were, and intelligence to the operations, it
+becomes necessary to inquire whether the prevailing opinion, which
+attributes these movements to machinery, be, or be not, established
+in fact; for, if this opinion should be found, on examination, to
+originate merely in the artful management and display of some parts of
+the apparatus, and to rest on no solid basis, there would be no longer
+any embarrassment in appreciating the real value of the Chess Player,
+nor in apportioning a proper station for it, considered as a work of
+art.
+
+At the commencement of the exhibition the spectators are gratuitously
+made acquainted with the interior of the chest, which is divided into
+two unequal compartments, and occupied by pieces of machinery, so
+arranged, as apparently to render the concealment of any human being
+impossible. When the movements of the Automaton begin, the beholders,
+in the first moments of surprise, and in the absence of any ostensible
+living cause, very naturally refer the effect to the mechanism, which
+has been exhibited; and with likelihood enough, for the movements
+immediately follow the familiar action and well known sound of winding
+up clockwork, and are moreover very skillfully accompanied by the
+grating noise of moving wheels. But, these indications excepted,
+where is the evidence that the machinery moves, or that the slightest
+influence is exerted by it on the arm of the Automaton? The whole is
+excluded from view, and a moment’s reflection will convince any one
+that no stress can be laid on the winding up, nor on the accompanying
+sounds, which are imitable in various ways.
+
+If, however, no proof can be given of the actual movement of the
+machinery, the following considerations will tend to shew that it
+remains quiescent, and is probably not formed for motion.
+
+An artist, whose talents had enabled him to contrive machinery capable
+of executing the varied and extensive movements displayed by the
+Automaton, would surely be desirous of laying open to view as much of
+the mechanism of his contrivance, while in actual motion, as he could
+do, consistently with the reservation of his secret; if for no other
+reason, at least to convince the lookers-on that deception formed no
+part of his plan. Now it cannot be reasonably urged, in vindication
+of the inventer’s forbearance, in the instance of the Chess Player,
+that even a glance at any part of the machinery in motion would betray
+the secret; for a question will immediately arise, Why then is the
+machinery at rest so freely exposed? On that score no apprehension
+seems to be entertained; the chest is ostentatiously opened, and the
+semblance, at least, of wheels, and pullies, and levers, is submitted
+to inspection without reserve: but when their reality should appear,
+and their connection with the Automaton be made manifest, the doors
+are carefully closed, and the spectators are required to pay large
+drafts on their credulity, without any means of further examination.
+The glaring contradiction between eager display on the one hand, and
+studied concealment on the other, can only be reconciled by considering
+the exhibition of the mechanism as a mere stratagem, calculated to
+distract the attention, and mislead the judgment, of the spectators.
+
+The truth of this opinion receives additional support from the regular
+and undeviating mode of disclosing the interior of the chest. If the
+mechanism were the real object in view, the whole being quiescent, it
+would be matter of indifference which part was first laid open; and
+accident alone, unless powerful reasons operated against it, would lead
+occasionally to some variation. But no variation has ever been observed
+to take place. One uniform order, or routine, is strictly adhered to,
+and this circumstance alone is sufficient to awaken suspicion, for it
+shews plainly that more is intended by the disclosure than is permitted
+to meet the eye.
+
+It has already been suggested, that little stress could be laid on the
+winding up: indeed the simple act of turning round a key or winder
+can offer no argument in proof of the efficiency of the machinery,
+unless at the same time it could be shewn that the key, in turning,
+either acted upon a spring, or pulled up a weight, for the purpose of
+giving motion to the machinery in question. But unluckily for the Chess
+Player, the phenomena afford positive proof that the axis turned by the
+key is quite free, and unconnected, either with a spring, or a weight,
+or any system of machinery.
+
+In all machines requiring to be wound up, two consequences are
+inseparable from their construction: the first is, that, in winding up
+the machinery, the key is limited in the number of its revolutions;
+and the second is, that some relative proportion must be constantly
+maintained betwixt the winding up and the work performed, in order to
+enable the machine to continue its movements. Now these results are
+not observable in the Chess Player; for the Automaton will sometimes
+execute sixty-three moves with only one winding up; at other times
+the exhibiter has been observed to repeat the winding up after seven
+moves, and even three moves; and once, probably from inadvertence,
+without the intervention of a single move; whilst, in every instance
+and the circumstance, though trifling, calls for particular attention,
+(for, in these matters, be it remembered, “trifles light as air, are
+confirmations strong,”) the key appeared to perform the same number of
+revolutions; evincing thereby, that the revolving axis was unconnected
+with machinery, except, perhaps, a ratchet-wheel and click, or some
+similar apparatus, to enable it to produce the necessary sounds,
+consequently that the key, like that of a child’s watch, might be
+turned, whenever the purposes of the exhibition seemed to require it.
+
+       *       *       *       *       *
+
+I shall now pass on to the third division, and point out a method by
+which any person, well skilled in the game, and not exceeding the
+ordinary bulk or stature, may secretly animate the Automaton, and
+successfully imitate the movements of Mr. De Kempelen’s Chess Player.
+
+The general plan and dimensions of the chest will be understood by
+inspecting the plates, but some particulars, relative to the interior,
+will require further explanation.
+
+The drawer (GG, plate 5,) when closed, does not reach to the back of
+the chest; it leaves a space (O) behind it, about 1 foot 2 inches
+broad, 8 inches high, and 3 feet 11 inches long. This space is never
+exposed to view.
+
+The small cupboard is divided into two parts by the door or screen (I,
+fig. 6,) which is moveable on a hinge, and is so contrived that when B
+is closed, this screen may be closed also. The machinery (H) occupies
+the whole of the front division as far as I; the hinder division is
+nearly empty, and communicates with the space behind the drawer, the
+floor of this division being removed.
+
+The back of the great cupboard is double, and the part (P Q,) to which
+the quadrants, &c. are attached, moves on a joint (Q), at the upper
+part, and forms, when raised, an opening (S) between the two cupboards,
+by carrying with it part of the partition (R), which is composed of
+cloth stretched tight. Fig. 10 shews the false back closed. Fig. 11
+shews the same raised, forming the opening (S) between the chambers.
+
+When the trunk of the figure is exposed by lifting up the dress, it
+will be seen that a great part of it is occupied by an inner trunk (N),
+which passes off towards the back in the form of an arch, (fig. 2), and
+conceals a portion of the interior from the view of the spectators.
+This inner trunk opens to the chest by an aperture (T, fig. 9), about 1
+foot 3 inches high, by 1 foot broad.
+
+When the false back is raised, the two chambers, the trunk, and the
+space behind the drawer, are all connected together.
+
+The player may be introduced into the chest through the sliding panel
+(U, fig. 6), at the end. He will then elevate the false back of the
+large cupboard, and assume the position represented by the dotted
+lines in figs. 3 and 4. Every thing being thus prepared, “the charm’s
+wound up,” and the exhibiter may begin his operations by opening the
+door (A). From the crowded and very ingenious disposition of the
+machinery in this cupboard, the eye is unable to penetrate far beyond
+the opening, and the spectator is led to conclude that the whole space
+is occupied with a similar apparatus. This illusion is strengthened
+and confirmed by observing the glimmering light which plays among the
+intricacies of the machinery, and occasionally meets the eye, when the
+lighted candle is held at the door (B). A fact, too, is ascertained,
+which is equally satisfactory, though indeed for opposite reasons,
+to the spectator and the exhibiter, viz. that no opake body of any
+magnitude is interposed between the light and the spectator’s eye.
+The door (B) must now be locked, and the screen (I) closed, which
+being done at the moment the light is withdrawn, will wholly escape
+observation.
+
+It has already been mentioned, that the door (B), from its
+construction, closes by its own weight; but as the player’s head will
+presently be very near it, the secret would be endangered, if, in
+turning round the chest, this door were, by any accident, to fly open;
+it becomes necessary, therefore, “to make assurance double sure,” and
+turn the key. If the circumstance should be observed, it will probably
+be considered as accidental, the keys being immediately wanted for the
+other locks.
+
+The opening (B) being once secured, and the screen (I) closed, the
+success of the experiment may be deemed complete. The secret is no
+longer exposed to hazard; and the exhibiter is at liberty to shape his
+conduct in any way, he may think, most likely to secure the confidence
+of the spectators, and lead them insensibly from the main object of
+pursuit. The door (A) may be safely left open; and this will tend to
+confirm the opinion, which the spectators probably formed on viewing
+the candle through this cupboard, that no person was concealed within
+it: it will further assure them that nothing can pass in the interior
+without their knowledge, so long as this door continues open.
+
+The drawer stands next in the order of succession: it is opened,
+_apparently_, for the purpose of taking out the chess men, cushion, &c.
+but _really_ to allow time for the player to change his position, (see
+fig. 5.) and to replace the false back and the partition, preparatory
+to the opening of the great cupboard.
+
+The machinery is so thinly scattered over this cupboard, that the eye
+surveys the whole space at one glance, and it might seem unnecessary
+to open a door at the back, and to hold a lighted candle there, as in
+the former instance; but the artifice is dictated by sound policy,
+which teaches that the exhibiter cannot be too assiduous in affording
+facilities to explore every corner and recess, which, he well knows,
+contain nothing that he is desirous of concealing.
+
+The chest may now be wheeled round for the purpose of shewing the trunk
+of the figure; leaving, however, the front doors of the great chamber
+open. The bunch of keys, too, should be suffered to remain in the door
+(D); for the apparent carelessness of such a proceeding will serve
+to allay any suspicion, which the circumstance of locking the door
+(B) might have excited, more especially as the two doors resemble one
+another in point of construction.
+
+When the drapery has been lifted up, and the doors in the trunk and
+thigh opened, the chest may be returned to its former situation, and
+the doors be closed. In the mean-time the player should withdraw his
+legs from behind the drawer, as he will not so easily effect this
+movement after the drawer has been pushed in.
+
+Here let us pause awhile, and compare the real state of the chest
+at this time, with the impression which, at a similar period of an
+exhibition of the Chess Player, has generally been left on the minds
+of the spectators; the bulk of whom have concluded that each part of
+the chest had been successively exposed; and that the whole was at that
+time open to inspection: whereas, on the contrary, it is evident that
+some parts had been entirely withheld from view, others but obscurely
+shewn, and that nearly half of the chest was then excluded from their
+sight. Hence we learn how easily, in matters of this sort, the judgment
+may be led astray by an artful combination of circumstances, each
+assisting the other towards the attainment of one object.
+
+When the doors in front have been closed, the exhibiter may occupy as
+much time, as he finds necessary, in apparently adjusting the machinery
+at the back, whilst the player is taking the position described
+in figs. 7 and 8. In this position he will find no difficulty in
+executing every movement required of the Automaton: his head being
+above the table, he will see the chess board through the waistcoat,
+as easily as through a veil; and his left hand extending beyond the
+elbow of the figure, he will be enabled to guide its hand to any part
+of the board, and to take up and let go a chess man with no other
+“delicate mechanism” than a string communicating with the fingers. His
+right hand being within the chest, may serve to keep in motion the
+contrivance for producing the noise, which is heard during the moves,
+and to perform the other tricks of moving the head, tapping on the
+chest, &c.
+
+In order to facilitate the introduction of the player’s left arm into
+the arm of the figure, the elbow of the latter is obliged to be drawn
+backwards; and to account for, and conceal, this strained attitude, a
+pipe is ingeniously placed in the Automaton’s hand. This pipe must not
+be removed till the other arrangements are completed.
+
+When all is ready, and the pipe removed, the exhibiter may turn round
+the winder, or key, to give the impression to the spectators of
+winding up a spring, or weight, and to serve as a signal to the player
+to set the head of the Automaton in motion.
+
+The above process is simple, feasible, and effective; shewing
+indisputably that the phenomena may be produced without the aid of
+machinery, and thereby rendering it probable that the Chess Player
+belongs in reality to the third class of Automata, and derives its
+merit solely from the very ingenious mode by which the concealment of a
+living agent is effected.
+
+In conducting this analysis, the author disclaims even the slightest
+wish or intention to depreciate, or detract from, the real merits of
+Mr. De Kempelen: those merits have long since received the stamp of
+public approbation; indeed, a more than ordinary share of skill and
+ingenuity must have fallen to his lot, who could imagine and execute a
+machine (it matters not by what means the phenomena are brought about)
+which has never failed to delight the spectators, by exciting and
+maintaining, above all other contrivances of the kind, that pleasing
+delusion in the mind, which the Roman poet has so happily denominated
+“_Mentis gratissimus error_.”
+
+    _December, 1820._
+
+
+
+
+                 EXPLANATION OF THE PLATES.
+
+
+                          PLATE I.
+    Fig. 1.   A perspective view of the Automaton, seen in
+                front, with all the doors thrown open.
+    Fig. 2.   An elevation of the back of the Automaton.
+
+                         PLATE II.
+    Fig. 3.   An elevation of the front of the chest, the
+                dotted lines representing the player in
+                the first position.
+    Fig. 4.   A side elevation, shewing the player in the
+                same position.
+
+                         PLATE III.
+    Fig. 5.   A front elevation, shewing the second position.
+    Fig. 6.   An horizontal section through the line WW. fig. 5.
+
+                         PLATE IV.
+    Fig. 7.   A front elevation, shewing the third position.
+    Fig. 8.   A side elevation of the same position.
+
+                          PLATE V.
+    Fig. 9.   A vertical section through the line XX, fig. 8.
+    Fig. 10.  A vertical section through the line YY, fig. 7,
+                shewing the false back closed.
+    Fig. 11. A similar section, shewing the false back raised.
+
+
+               THE FOLLOWING LETTERS OF REFERENCE ARE
+                    EMPLOYED IN ALL THE PLATES.
+
+    A    Front door of the small cupboard.
+    B    Back door of ditto.
+    CC   Front doors of the large cupboard.
+    D    Back door of ditto.
+    E    Door in the trunk.
+    F    Door in the thigh.
+    GG   The drawer.
+    H    Machinery in front of the small cupboard.
+    I    Screen behind the machinery.
+    K    Opening caused by the removal of part of the
+           floor of the small cupboard.
+    L    A box which serves to conceal an opening in the
+           floor of the large cupboard, made to facilitate
+           the first position; and which also serves as a
+           seat for the player in the third position.
+    M    A similar box to receive the toes of the player in
+           the first position.
+    N    The inner chest, filling up part of the trunk.
+    O    The space behind the drawer.
+    PQ   The false back, turning on a joint at Q.
+    R    Part of the partition formed of cloth stretched
+           tight, which is carried up by the false back,
+           to form the opening between the chambers.
+    S    The opening between the chambers.
+    T    The opening connecting the trunk and chest,
+           which is partly concealed by the false back.
+    U    Panel which is slipped aside to admit the player.
+
+[Illustration: _Plate 2. Fig. 3._]
+
+[Illustration: _Fig. 4._
+
+_Drawn on Stone by the Author. Printed by C. Hullmandel_.]
+
+[Illustration: _Plate 3. Fig. 5._]
+
+[Illustration: _Fig. 6._
+
+_Drawn on Stone by the Author. Printed by C. Hullmandel._]
+
+[Illustration: _Plate 4. Fig. 7._]
+
+[Illustration: _Fig. 8._
+
+_Drawn on Stone by the Author. Printed by C. Hullmandel._]
+
+[Illustration: _Plate 5. Fig. 9._]
+
+[Illustration: _Fig. 10._]
+
+[Illustration:_Fig. 11._
+
+_Drawn on Stone by the Author. Printed by C. Hullmandel._]
+
+
+
+
+                     APPENDIX.
+
+
+The Knight’s move over the chess board has engaged the attention of so
+many scientific men, that I cannot doubt that a collection of different
+solutions of the problem will prove acceptable to all admirers of chess.
+
+The Knight’s path is of two kinds—terminable and interminable—it is
+interminable, whenever the last, or concluding, move of a series be
+made on a square, which lies within the Knight’s reach of that from
+which he originally set out—and terminable in every other instance.
+
+Euler published a paper in the Memoirs of the Academy of Berlin, 1759,
+which contains a method of filling up all the squares, setting out from
+one of the corners. It also contains an endless or interminable route;
+and explains a principle by which these routes may be varied so as to
+end upon any square. Montmort, Demoivre, and Mairan, have severally
+given solutions of the same problem. These solutions will be found in
+the following collection.
+
+Observing that the Automaton, under the direction of Mr. Maelzel,
+occasionally traversed half the board, I was induced to pursue
+the subject, and I found that the move might be performed on any
+_parallelogram_ consisting of _twelve_ squares and upwards, with the
+exception of _fifteen_ and _eighteen_ squares. The whole board admits
+of a great variety both in the terminable and interminable routes.
+
+In describing the Knight’s path, I have preferred lines to figures;
+the former giving a clearer idea of the plan pursued, and affording a
+greater facility of comparing one route with another, than the latter.
+
+DIRECTIONS FOR PLACING THE PLATES.
+
+        _Plate_  1 _to face the Title._
+        _Plates_ 2 _to_ 5 — _Page_ 36.
+           ——    6 _to_ 10    ——   38.
+
+[Illustration: _Plate 6._]
+
+[Illustration: _Plate 7._]
+
+[Illustration: _Plate 8._]
+
+[Illustration: _Plate 9._]
+
+[Illustration: _Plate 10._]
+
+
+
+
+LIST OF THE KNIGHT’S MOVES
+
+Contained in Plates 6, 7, 8, 9, and 10.
+
+
+_Methods of performing the Move on Parallelograms less than the whole
+Board._
+
+           No. 1 the Move on 12 Squares
+           —   2  -   -   -  20    -
+           —   3  -   -   -  25    -
+           —   4  -   -   -  21    -
+           —   5  -   -   -  24    -
+           —   6  -   -   -  24    -
+           —   7  -   -   -  30    -
+           —   8  -   -   -  36    -
+           —   9  -   -   -  28    -
+           —  10  -   -   -  32    -
+           —  11  -   -   -  35    -
+           —  12  -   -   -  40    -
+           —  13  -   -   -  42    -
+           —  14  -   -   -  48    -
+           —  15  -   -   -  49    -
+           —  16  -   -   -  56    -
+           —  17 an Interminable Route on 48 Squares
+           —  18       Do.         Do.    56    -
+
+     _Terminable Routes over the whole Board._
+
+                  No. 20  By Euler
+                   —  21  -    Do.
+                   —  22  -    Do.
+                   —  23  -    Do.
+                   —  24  By Demoivre
+                   —  25  -    Do.
+                   —  26  By Mairan
+                   —  27  By Montmort
+                   —  28  By the Author
+                   —  29  -    Do.
+
+    _Interminable Routes over the whole Board._
+
+                  No. 30   By Euler
+                   —  31   By Mons. W.
+                   —  32   By the Author
+                   —  33   -    Do.
+                   —  34   -    Do.
+                   —  35   -    Do.
+                   —  36   -    Do.
+                   —  37   -    Do.
+                   —  38   -    Do.
+                   —  39   -    Do.
+
+
+HOWLETT AND BRIMMER,
+
+Printers, 10, Frith Street, Soho.
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK AN ATTEMPT TO ANALYSE THE AUTOMATON CHESS PLAYER OF MR. DE KEMPELEN ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

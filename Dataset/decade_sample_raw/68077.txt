@@ -1,0 +1,2837 @@
+﻿The Project Gutenberg eBook of Observations on the Operation and Use of Mercury in the Venereal Disease
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Observations on the Operation and Use of Mercury in the Venereal Disease
+
+Author: Andrew Duncan
+
+
+        
+Release date: May 14, 2022 [eBook #68077]
+                Most recently updated: October 18, 2024
+
+Language: English
+
+Original publication: United Kingdom: A. Kincaid and W. Creech, 1772
+
+Other information and formats: www.gutenberg.org/ebooks/68077
+
+Credits: Barry Abrahamsen, and The Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK OBSERVATIONS ON THE OPERATION AND USE OF MERCURY IN THE VENEREAL DISEASE ***
+
+                  *       *       *       *       *
+
+                              OBSERVATIONS
+
+                                   ON
+
+                               +MERCURY+.
+
+                  *       *       *       *       *
+
+
+
+
+------------------------------------------------------------------------
+
+
+                              OBSERVATIONS
+                                 ON THE
+                           OPERATION AND USE
+                                   OF
+                                MERCURY
+                                 IN THE
+                           VENEREAL DISEASE.
+
+
+                                   BY
+
+                          ANDREW DUNCAN, M.D.
+
+         Fellow of the Royal College of Physicians, Edinburgh.
+
+                                   ❦
+
+         _Longe mihi potior cura est veritatis quam novitatis._
+
+                                                               MORGAGNI.
+
+
+                              +EDINBURGH:+
+
+                 Printed for A. KINCAID and W. CREECH;
+                  and for T. CADELL in the Strand, and
+                   J. MURRAY in Fleetstreet, London.
+
+                               ----------
+
+                              M,DCC,LXXII.
+
+
+------------------------------------------------------------------------
+
+
+
+
+To DR WILLIAM CULLEN,
+
+
++SIR+,
+
+AN address of this nature can add nothing to your reputation. And
+professions of gratitude are but an inadequate return for real services.
+When, therefore, I inscribe this performance to you, it is neither my
+intention to enlarge upon your character, nor to recount the many
+obligations for which I am indebted to you. But, as I am happy in being
+favoured with your countenance, and proud of the honour it does me,
+allow me to take this opportunity of expressing it.
+
+As I have long since adopted the wish, permit me, on this occasion, to
+use the language of a celebrated English Poet:
+
+              O! while along the stream of time thy name
+              Expanded flies and gathers all its fame;
+              Say, shall my little bark attendant sail,
+              Pursue the triumph and partake the gale?
+              And shall this verse to future age pretend
+              Thou wert my guide, philosopher, and friend?
+
+     I am SIR,
+
+       With unfeigned esteem,
+
+         And sincere regard,
+
+           Your much obliged,
+
+             And most obedient Servant,
+
+               THE AUTHOR.
+
+
+------------------------------------------------------------------------
+
+
+
+
+                               CONTENTS.
+
+
+                                                   PAGE.
+
+                PREFACE                                i
+
+               CHAP. I. Of the general Properties     13
+                          of Mercury
+
+                    II. Concerning the opinion,       22
+                          that Mercury cures Lues
+                          Venerea by the
+                          Evacuation which it
+                          produces
+
+                   III. Concerning the opinion        57
+                          that Mercury cures Lues
+                          Venerea, by acting as
+                          an Antidote to the
+                          Venereal Matter
+
+                    IV. Of the different              86
+                          Mercurial Preparations
+                          employed in Medicine
+
+                     V. Of the Mercurial              98
+                          Preparations intended
+                          to act immediately upon
+                          the Parts affected with
+                          Lues Venerea
+
+                    VI. Of the Mercurial             117
+                          Preparations intended
+                          to act in the cure of
+                          Lues Venerea, by
+                          entering the System
+
+                   VII. Of the Cautions to be        146
+                          observed in the
+                          Employment of Mercury
+                          in Lues Venerea
+
+
+------------------------------------------------------------------------
+
+
+
+
+                                PREFACE.
+
+
+THE chief purpose of the study of medicine is to acquire the knowledge
+of a safe and effectual method of curing diseases. The attainment of
+this end is intimately connected with the public good. Every endeavour
+to promote it, therefore, may be considered as having some claim to a
+candid examination. In this persuasion, I submit the following
+observations to public inspection.
+
+Few diseases are at present more common than _lues venerea_. For its
+cure, mercury is a medicine which is almost universally employed; and
+the efficacy with which it operates has long been confirmed by
+unquestionable experience. But the successful employment of mercury in
+this disease requires very particular attention; and it is to be
+regreted, that, while many suffer from the distemper, not a few fall
+victims to what is used as the remedy: All therefore that has hitherto
+been said on this subject by no means supersedes farther attempts to
+improvement. To advance the practice of medicine in this particular, is
+the intention of the present publication.
+
+Nothing contributes more to safe and effectual practice, than an
+acquaintance with those principles on which remedies operate. Hence,
+inquiries concerning the operation of medicines have been, and ever will
+be, prosecuted by those who mean to practise on a solid or rational
+foundation. Many practitioners, indeed, hold every thing that is in the
+least theoretical, in great contempt. They alledge, that a physician
+possesses all the knowledge requisite in medicine, who is acquainted
+with particular remedies which will infallibly cure particular diseases.
+Could such remedies be discovered, their reasoning would indeed hold
+good; and medicine, which, of all arts, is in reality the most
+difficult, would be the easiest. But it is incumbent on those who reason
+in this manner, to shew, that any such remedies actually do exist. This,
+however, is a point by no means determined; and, with regard to it, very
+great doubts may justly be entertained.
+
+With certain limitations, some few such remedies may perhaps be allowed
+to exist. But no one will pretend, that these can, in every case, be
+employed with equal success; or that, in all circumstances, they are to
+be used in the same manner. By a knowledge of the principles upon which
+a medicine operates in curing a disease, we can alone be enabled to
+accommodate its use to particular circumstances. He therefore who knows,
+not only that a certain remedy will cure a particular disease, but is
+likewise acquainted with the manner in which it acts in producing that
+effect, has at least a double advantage.
+
+Errors in theory, indeed, often mislead in practice; and opinions,
+supported by numerous arguments, after being long believed, have at
+length been discovered to be without foundation. But this imperfect
+state of theory, in place of being any objection to its utility, is an
+additional inducement to continue, with unremitting ardour, a pursuit in
+which so much still remains to be done. It is by unwearied assiduity
+alone that improvement can be expected in any art. The imperfection of
+theory, then, can be no argument for discontinuing farther attempts to
+render it more perfect.
+
+Theory in medicine is principally despised by two sets of practitioners,
+the ignorant and the lazy; the last are unwilling, and the first are
+unable, to acquire the knowledge of it; and, amidst all their boasted
+contempt, it will be found, that they principally differ from others in
+implicitly adopting whatever opinions they first receive. Theory is
+natural to the human mind; and those who are accustomed to think cannot
+be satisfied without assigning a reason for every phænomenon which falls
+under their observation. Theory by no means precludes observations: On
+the contrary, it leads to a more minute attention to facts; and in this
+way opinions, of themselves ill founded, have often given rise to useful
+discoveries in practice. For these reasons, in treating of mercury in
+the venereal disease, I have esteemed it necessary to begin with some
+observations on its operations.
+
+There are few medicines, with regard to the operation of which all
+practitioners are agreed. Mercury, as well as others, has, in this
+respect, been a subject of dispute. It is indeed the misfortune of
+medicine, that many points of great consequence still remain in a very
+doubtful state. But it affords at least some chance of arriving at
+truth, that, in the present age, it is never esteemed criminal to differ
+even from the highest authorities: On the contrary, those whose
+authority should deservedly have the greatest weight, are unwilling that
+any farther deference should be paid to their opinion than arises from
+conviction. He therefore who imagines, that an ill-grounded opinion is
+generally received, has nothing to restrain him from a candid inquiry.
+But arguments adduced in favour of any opinion will have little weight,
+if another be previously received as true. To ensure therefore a fair
+examination, it is, in the first place, requisite to remove
+prepossession. These remarks will sufficiently account for the attention
+I have here bestowed in attempting to refute an opinion different from
+that which I endeavour to establish.
+
+It is an opinion taught, and at this place very generally received, with
+regard to the operation of mercury, that the good effects it produces,
+in the cure of _lues venerea_, are to be ascribed to the evacuation
+which it occasions. After attentively examining this hypothesis, I
+cannot help thinking that it is ill founded. Notwithstanding, therefore,
+the authority by which it is supported, I have, with freedom, stated
+what to me seem strong objections against it.
+
+After having endeavoured to overturn one hypothesis, I have attempted to
+establish another. The opinion I support is by no means new. The honour
+of invention therefore must be totally resigned to others; but the
+praise of broaching novelties is always to be relinquished when it comes
+in competition with the support of truth; and I should consider myself
+as having done a great deal, were I able to give satisfactory evidence
+of any important but doubtful point.
+
+After this inquiry concerning the operation of mercury in the venereal
+disease, I next proceed to make some observations with regard to its
+use.
+
+Mercury has been employed in the cure of the venereal disease in a great
+variety of forms. Most of these, upon their first introduction into
+practice, have been extolled as the safest and most effectual method of
+using it in every case. Experience, however, sufficiently demonstrates,
+that this holds with regard to no mercurial preparation hitherto
+discovered. Whether such a preparation may yet be discovered, is
+difficult to say. In this treatise, I have not proposed any mercurial
+which was not formerly in use. But if, on the one hand, I have no title
+to lay claim to the merit of a discovery, I cannot, on the other, be
+charged with being the first proposer of any dangerous practice.
+
+In treating of the use of mercurials in _lues venerea_, my aim has been
+different from that of most authors. What I have principally had in
+view, is not so much to recommend any particular preparation, as to
+determine the comparative advantages of some of the most effectual ones
+at present in common use. I have likewise endeavoured to point out those
+circumstances to which each is best adapted. To this I have subjoined
+the principal cautions to be observed in the employment of mercurials;
+those more especially which respect the nature of the medicine, the
+condition of the patient, and the necessary regimen.
+
+On these subjects, a good collection of observations would
+unquestionably be of the highest utility. How far I have succeeded, must
+be left to others to determine. To those who imagine I have not
+altogether failed, I need offer no excuse for having published. To those
+who are of a contrary opinion, it will be sufficient to observe, that
+every attempt to be serviceable should apologise for itself.
+
+------------------------------------------------------------------------
+
+
+
+
+                                CHAP. I.
+
+                _Of the General Properties of Mercury._
+
+
+MERCURY is a production of the mineral kingdom. In its natural state, it
+is of an opaque metallic substance, of very considerable specific
+gravity. To the eye, it appears like melted lead, or silver; from which
+it has derived the name of _quicksilver_. In this condition, when freed
+from every admixture, it has neither any perceptible smell nor taste;
+and, as its application to the most sensible parts of the body occasions
+no irritation, we may conclude, that it is void of all acrimony.
+
+By very intense cold, artificially excited, mercury may be brought to a
+solid form; but, in the greatest natural cold hitherto known, it remains
+always in a fluid state. By heat it is rendered very volatile, exhaling
+totally in fumes; these fumes, upon being exposed to cold, condense
+again into running mercury.
+
+Mercury, like most other metallic substances, is found in the earth,
+either in a pure state, or in that of an ore. The first has been called
+_virgin-mercury_, and is in general found by the miners in drops or
+small grains; sometimes indeed it is observed in larger quantities, and
+forms the appearance of small streams. In the state of ore, it is most
+frequently combined either with sulphur, or with earthy matters; from
+which it is readily extracted by distillation. It is found in both these
+states in different places of Europe, particularly in Spain and in
+Hungary; but Britain is principally supplied with it from the
+East-Indies.
+
+Mercury was not unknown to the antients. In the early ages of medicine,
+indeed, it seems to have been esteemed a virulent poison; but it has
+now, for some centuries past, been much, and successfully, employed for
+the purposes of medicine, as well as of other arts.
+
+The Arabians were the first who employed it in the cure of diseases; but
+they seem to have used it externally only, and applied it for discussing
+tumors, cleansing ulcers, and curing cutaneous eruptions. Soon after the
+introduction of the venereal disease into Europe, mercury was found to
+be the most expeditious and most effectual, if not the only certain,
+remedy. The advantages which are to be derived from its employment in
+this disease, both when applied externally, and taken internally, have
+now been confirmed for a length of time too considerable for allowing
+the least foundation either to doubt its efficacy, when properly used,
+or to dread its deleterious effects, when judiciously managed.
+
+The effects of mercury on the human system in a sound state are very
+various. When mercury, in its crude state, is introduced by the mouth
+into the alimentary canal, it passes off by stool, without producing any
+effect. It has indeed been alledged, that in this state, in some morbid
+affections, it may be useful in removing obstructions by its weight. But
+it is to be remembered, that, in a great part of its passage through the
+intestines, it rises in opposition to gravity, and that it is very apt
+to divide in such a manner as to make its way through very small
+openings. This effect, then, is perhaps in general, if not always, to be
+disregarded.
+
+When mercury is prepared in such a manner as to be readily soluble in
+the fluids of the human body, the effects it produces are much
+diversified. Its action is often immediately exerted upon the stomach;
+in which case vomiting is produced. This effect is observed from the use
+of many mercurial preparations. The brown and green precipitates and
+calcined mercury act as rough and strong emetics; but the preparation
+principally used, where it is intended to act as an emetic, is the
+yellow precipitate, or Turpeth mineral.
+
+Many of those mercurials, which have not such an influence upon the
+stomach as to produce vomiting, upon entering the intestinal tube, act
+as purgatives. This effect of mercurials is, among other preparations,
+particularly remarkable on the use of the Coralline mercury, Prince’s
+powder, or calomel.
+
+Mercurials, which fail in producing either purgative or emetic effects,
+frequently act as diaphoretics. Diaphoresis, or even a profuse sweat, is
+often the consequence of many of the mercurials already mentioned. But
+when this effect is wanted, by means of mercurials, it is most commonly
+obtained by the use of a solution of corrosive sublimate.
+
+Mercury entering the circulating system exerts particular effects on
+different excretories; but in a more especial manner on those of the
+saliva. Salivation is an effect which may be obtained from the proper
+administration of almost every mercurial preparation; but for this
+purpose either the mercurial pills, or friction with mercurial ointment,
+are most frequently employed.
+
+Mercury may enter the system, exist in considerable quantity there, and
+be carried off by the different excretories, without producing any
+remarkable evacuation, or other apparent change, on the sound state of
+the body. That it is actually present in the system in such cases, is
+demonstrated by a general tendency to an increase in all the secretions.
+Mercury in this way, although it produces no visible effect on a healthy
+person, often procures the removal of a diseased state. Its action,
+therefore, in such circumstances, is termed _alterative_; an effect
+which may be obtained from most of the mild mercurials, especially when
+used in small doses.
+
+From these various modes of operating, it may readily be concluded, that
+mercury must be a powerful remedy in the cure of many diseases. The
+undoubted effects which it produces on the human system, when labouring
+under the venereal distemper, it would be both difficult and unnecessary
+fully to enumerate. It heals ulcers, removes swellings, alleviates
+pains, and cures eruptions. In short, the almost infinite variety of
+symptoms under which this disease makes its appearance may, by a proper
+application of mercury, be effectually eradicated from the constitution.
+
+From these effects, it is not surprising, that, in this distemper,
+mercury is the almost universal remedy. But, while it cannot be denied
+that peculiar advantages may be reaped from the employment of mercury in
+the venereal disease, it must at the same time be acknowledged, that,
+from the injudicious use of this medicine, very great evils have been
+produced. Whatever, therefore, relates to its proper administration,
+must be esteemed of importance. But to determine this, it is in the
+first place requisite to ascertain the principles upon which it
+operates. In treating of the present subject, then, an examination of
+the most probable opinions, with regard to the mode of its operation in
+the venereal disease, first claim our attention.
+
+
+------------------------------------------------------------------------
+
+
+
+
+                               CHAP. II.
+
+  _Concerning the Opinion, that Mercury cures the Lues Venerea by the
+    evacuation it produces._
+
+
+THERE are few medicines with regard to the operation of which all
+practitioners are agreed. It is, however, by no means incumbent on him
+who means to establish the truth of any one opinion to overturn every
+hypothesis advanced on the same subject. But, as the arguments urged in
+favour of any hypothesis will have much less weight when another is
+previously believed to be true, and as the regulation of practice is, in
+every case, to a certain extent, founded upon theory, no inconsiderable
+advantage may be derived from overturning an ill-founded opinion,
+especially when it is generally received. The theory of the action of
+mercury, as well as of other substances, has afforded room for a
+diversity of opinions. For the reasons mentioned above, then, although
+it is by no means intended, that every opinion, with regard to the
+operation of that medicine, should here be considered; yet, as it is a
+very prevailing opinion, that the good effects obtained from mercury in
+the cure of _lues venerea_, depend upon its action as an evacuant; and,
+as a variety of seemingly strong arguments have been adduced in favour
+of that hypothesis, it will be necessary to examine how far they are
+sufficient to establish its truth.
+
+In favour of the opinion, that mercury cures _lues venerea_ by acting as
+an evacuant, the following arguments have been employed. It is alledged,
+that the good effects obtained from mercury in the cure of this disease,
+are in proportion to the evacuation which it produces; that the cure
+produced by mercury depends more upon the stimulant power of the
+preparation which is employed, than upon the quantity taken; and that
+the same good effects are obtained from other evacuants as from mercury;
+particularly, that the venereal disease is cured in a similar manner
+from the employment of guaiac. The arguments here enumerated, if not the
+only ones upon which this opinion is founded, are at least those which
+are principally employed. To examine, then, how far these are well
+founded, will be sufficient.
+
+The first argument here adduced is, that the good effects of mercury are
+proportioned to the evacuation which it produces. This assertion, if
+allowed to be true, might, at first sight, appear to be a very strong
+argument in favour of the theory here adopted. But it is strong in
+appearance only; for, although it should be admitted, it in fact proves
+nothing.
+
+But, even previous to this, it might be made a question, how far what is
+here assumed as a fact is well founded? And if it should appear, that
+mercury does not cure _lues venerea_ in proportion to the evacuation
+which it produces, a strong argument might from thence be brought
+against this theory. But what may be said on this question will, with
+greater propriety, occur when the objections to the theory come to be
+adduced, than in attempting to refute and invalidate the arguments
+brought in its favour. At present, it will be sufficient to show, that,
+even allowing it to be true, it is no argument in favour of the
+supposition.
+
+If it be true, that mercury cures _lues venerea_ in proportion to the
+evacuation it produces, it may indeed, with some degree of probability,
+be concluded, that the evacuation and cure are not unconnected. And, if
+the evacuation is not the cause of the cure, it might at least from
+thence be inferred, that both of them depend upon the same cause; but it
+no more, unquestionably, follows from thence, that the evacuation is the
+cause of the cure, than that the cure produces the evacuation.
+
+The degree of evacuation which, in any case, arises from the employment
+of mercury, will, it is natural to imagine, be proportioned to the
+quantity of active mercury which is introduced into the system. But, in
+whatever way mercury acts in the cure of the venereal disease, it may
+then be supposed to act most powerfully when it is present in the system
+in most considerable quantity. In this point of view, then, the
+evacuation which arises from the use of mercury is to be considered
+merely as an index of the quantity of the medicine which is introduced
+into the system in an active state; and the cure may be proportioned to
+the evacuation, only as pointing out the degree in which the mercury
+exists in the habit. Even supposing, then, that the foundation upon
+which this argument is built were not to be called in question, yet,
+taken in its greatest latitude, it is still at best but doubtful; and
+from it no conclusion can be drawn in favour of the theory which it is
+brought to support.
+
+The second argument mentioned in proof of the supposition that mercury
+acts, in the cure of _lues venerea_, as an evacuant, was, that the cure
+produced by mercury depends more upon the stimulant power of the
+preparation employed, than upon the quantity of mercury which is used.
+
+This argument may be answered in the same manner with the preceeding. It
+is indeed true, that different preparations of mercury, when used in
+equal quantities, have by no means equal influence in the cure of _lues
+venerea_. There is seldom an opportunity of observing what would be the
+effects of the most stimulant preparations, as, in the venereal disease,
+they are by no means in common use; and as, from their action on the
+alimentary canal, they exert very violent effects, without entering the
+circulating system. They, in general, operate very roughly, both as
+emetics and purgatives; but it is not clear that, in the venereal
+disease, any benefit has been obtained from their effects in either of
+these ways. It can therefore by no means be allowed, that the foundation
+of this argument, in its full extent, is strictly true. It cannot indeed
+be denied, that some preparations of mercury, which possess a
+considerable stimulant power, have a greater influence in the cure of
+_lues venerea_, than several others which are less stimulant. So far,
+then, the foundation upon which this argument is built, must be allowed
+to be just, and its weight, as tending to establish this theory,
+requires a refutation.
+
+But, even admitting it to be just, without any reserve, still, no more
+than from the former, can any conclusion be drawn from this in favour of
+the theory which it is meant to support. It has already been observed,
+that, in whatever way mercury operates in the cure of _lues venerea_,
+its good effects may always be supposed to be proportioned to the
+quantity of the medicine which enters the system in such a state as to
+become active there. But the quantity of active mercury entering the
+system can in no case be judged of from the quantity of the preparation
+which is employed. One preparation of mercury much more readily admits
+of a mixture with the animal fluids than another; in consequence of
+this, it will find a more ready entrance into the system. And further,
+this variety in the facility of access into the system, not only holds
+in different preparations, but even in the same preparation at different
+times.
+
+In proof of the first of these propositions, we have a convincing
+example in the difference which is observable between the effects
+arising from the use of crude mercury, and of this metallic substance,
+when no other means are used to render it active than simple
+trituration. It is well known, that even a very inconsiderable quantity,
+taken in this last way, will soon shew its effects at the most remote
+excretories of the body; in the other, although swallowed to the
+quantity of many pounds, it is a very rare occurrence that any effects
+can be observed from which it can be concluded, that it has, in any
+degree, entered the mass of circulating fluids.
+
+But it was likewise alledged, that mercury, used at different times,
+although given in equal quantities and in the same form, produces very
+different effects. Crude mercury, as has already been observed, although
+swallowed in considerable quantities, rarely produces any other effect
+on the body, than what arises from the passage through the alimentary
+canal. This, however, although generally, is not universally the case.
+On some occasions, when taken in this way, it operates with as great
+activity as when used in any other form; and, from many well attested
+instances, it appears, that, by being swallowed even in a crude state, a
+high salivation has been excited. In this we have an instance in which a
+remarkable difference of effect arises from the employment of the same
+preparation at different times. This difference cannot arise from the
+quantity of mercury employed; for while, in some cases, no operation of
+the nature here mentioned takes place from the use of a large quantity,
+in others, it will be excited where an inconsiderable quantity only has
+been taken. The difference of effects here observed, then, must be
+ascribed to some other cause; and it is most reasonable to refer it to
+particular accidents in the constitution at the time the medicine is
+used. In these cases, where no operation takes place from its use, it
+may be concluded, that the whole quantity of mercury swallowed has
+passed through the alimentary canal in the same state in which it was
+taken in. When, on the other hand, an operation upon the salivary
+glands, or any other excretory remote from the alimentary canal, is
+observed from the use of crude mercury, it may be concluded, that part
+of the mercury, from some peculiarity in the habit at the time, such,
+for example, as the presence of superabundant acid in the stomach, has
+been brought into such a state as to be capable of entering the
+circulating system. From these instances, then, it evidently appears,
+that the facility with which mercury enters the system, admits of very
+great variety. And from this a strong objection may be adduced against
+the argument here brought to support the hypothesis that mercury cures
+_lues venerea_ by its evacuant power.
+
+It is alledged, that mercury cures _lues venerea_ by the evacuation it
+occasions; because the good effects derived from its employment are
+observed to be more in proportion to the stimulant power of the
+preparation which is used, than to the quantity of mercury taken. The
+data, however, here assumed by no means lead to the conclusion deduced
+from thence. The most stimulant preparations of mercury, by their action
+on the _primæ viæ_, are in general immediately expelled from the system.
+When this happens, they have no influence in the cure of venereal
+complaints. When they are not thus expelled, their nature is such that
+they most readily enter the system. Their superior action, then, may be
+accounted for without supposing that it depends on their producing the
+most considerable evacuation.
+
+From the facts as here stated, it indeed follows, that the good effects
+obtained from mercury are greatest in those cases in which the mercury
+enters the system in most considerable quantity. The evacuation, it is
+true, is then likewise greatest. But this will unquestionably follow as
+the necessary consequence of the presence of active mercury in the
+system, and can by no means be concluded to be the cause of the cure.
+The evacuation which occurs in this case, then, as was observed in the
+objections adduced against the last argument, can be considered only as
+an index of the quantity of active mercury which is present in the
+system. The superior activity, therefore, which some stimulant
+preparations possess, when compared with those of a milder nature, is by
+no means a proof of the supposition that mercury cures _lues venerea_ by
+means of the evacuation which it produces; and this argument, as well as
+the former, may be set aside.
+
+The third argument mentioned in favour of this theory, and the last
+which we proposed to consider, is, that the same good effects, in the
+cure of _lues venerea_, may be obtained from the employment of other
+evacuants, as from that of mercury; and particularly, that the venereal
+disease is cured in a similar manner by the use of guaiac.
+
+This argument, if well founded, would indeed be a conclusive proof of
+the theory, in support of which it is here adduced. Evacuation may be
+occasioned by a great variety of other means besides mercury. The
+influence of any discharge, as tending to cure _lues venerea_, will fall
+more particularly to be considered in stating the objections against
+this theory. A full answer, then, to the first part of this argument,
+would at present be superfluous: But it may be observed, that it is by
+no means a common practice to attempt the cure of _lues venerea_ by the
+safest and most effectual evacuants now in use; and that, when evacuants
+are employed for the cure of other diseases, while a venereal infection
+at the same time exists in the system, it is never found to yield to
+them. This first part of the argument, then, may be shortly answered, by
+denying it to be true.
+
+It is indeed true, that much benefit has been alledged to be obtained
+from guaiac in the cure of the _lues venerea_. Experience, however, has
+sufficiently demonstrated, that these testimonies are not altogether to
+be relied upon. The influence of guaiac may perhaps be very considerable
+in certain stages of _lues venerea_, when the malignity of the disease
+is already overcome by means of mercury; or in particular climates,
+where the nature of this infection seems to be in some degree different
+from what it is in this country. But, how far the good effects of guaiac
+are established by facts in this climate, and before a cure has been
+attempted by mercury, is still a matter of great doubt. And, at any
+rate, even the most sanguine advocates for the use of guaiac will allow,
+that the good effects obtained from its use are by no means to be put in
+competition with those which are derived from the employment of mercury.
+
+But, even admitting all that has been said in favour of guaiac to be
+strictly true, still it does not follow, that it cures the _lues
+venerea_ by evacuation. Many medicines which operate much more
+powerfully as evacuants have no such effect. And, what was formerly said
+with regard to the cure of _lues venerea_, being proportioned to the
+evacuation produced by mercury, may perhaps, with equal justice, be
+applied to guaiac. It cannot be, with certainty, concluded, that the
+evacuation in either case is to be looked upon as the cause of the cure,
+since, in both, it may only be its concomitant. From this argument,
+then, nothing can be inferred, which has any tendency to establish the
+truth of the theory in support of which it is adduced.
+
+Thus have we examined the different arguments used in favour of the
+supposition, that mercury cures _lues venerea_ by acting as an evacuant.
+And, from this examination, it appears, that they admit of satisfactory
+answers. What has then been said in proof of the theory, can by no means
+be considered as sufficient to establish its truth. But the
+insufficiency of the arguments adduced in support of it, is not the only
+reason for not adopting it. There are many objections to this
+hypothesis, which would have been sufficient for rejecting it, even
+supposing that the arguments brought to prove it had been such, that no
+falacy in them could have been detected. That this theory, then, may,
+with less hesitation, be set aside, it will be necessary to mention a
+few of these objections.
+
+It obviously occurs as a first objection to this theory, that
+evacuation, from its nature, cannot easily be supposed capable of
+producing a cure of _lues venerea_. The changes which evacuation may
+produce upon the fluids of the body, can only be conceived to be of two
+kinds. They must either depend on a diminution of the quantity of the
+fluids, or on a change of their quality. But, it is not easy to conceive
+how the effects of the _venereal virus_ should be removed, or on what
+footing this virus should be expelled from the system, by either of
+these changes, when induced by evacuation.
+
+A mere diminution of the quantity of circulating fluids, is certainly
+insufficient for the cure of _lues venerea_. The venereal matter, as
+present in the body, must either be diffused through the whole mass of
+fluids, or confined to particular parts only. If it be diffused through
+the whole mass, the taint, even after the most considerable evacuations,
+will remain equally strong in the fluids still left in the body. And, as
+the venereal virus evidently possesses a power of assimulation, when in
+the human system, the whole mass of fluids would soon return to its
+former state. This being the case, then, it must be allowed, that an
+inconsiderable diminution of quantity cannot reasonably be supposed to
+counteract an infection which exists in the remaining mass.
+
+If, on the other hand, the venereal poison be supposed to exist only as
+a noxious matter in the body, when collected at particular parts, it is
+equally difficult to conceive, how evacuation from its nature should
+produce a cure. It never has been observed, that mercury particularly
+encreases the discharge by those parts where the venereal matter appears
+actually to exist. In almost every case where it is used only
+internally, there is no encrease of evacuation by venereal ulcerations.
+It cannot, however, be imagined, that a discharge which takes place by
+the salivary glands or skin, will particularly evacuate what is lodged
+in the genitals, or extremities. We may therefore, with certainty,
+conclude that evacuation does not at least cure _lues venerea_ by any
+change arising merely from a diminution of the quantity of circulating
+fluids.
+
+Evacuants may perhaps be alledged to operate in the cure of _lues
+venerea_ in another manner. It may be supposed, that they remove the
+distemper from a change which they produce in the quality of the
+circulating mass. But, from the smallest consideration, it will appear,
+that this supposition is equally unsatisfactory as the former. If, from
+evacuation, a diminution takes place equally from every part of the mass
+of circulating fluids, no change of quality will ensue. If, however,
+this proportion is not properly observed, a change of quality will
+indeed take place. But that change will consist merely in the diminution
+of particular parts in a compound mass, and can never be supposed to
+remove a contagious matter of any kind, even supposing it to be lodged
+in the particular part of that mass thus diminished. Much less will it
+remove an infectious matter uniformly diffused through the whole parts
+of the compound mass, or existing as a morbid matter in particular parts
+of the body only. From the nature of evacuation, then, whether it be
+supposed to operate by a diminution of the quantity of circulating
+fluids, or by any change it can produce in point of quality, it may
+readily be concluded, that it is by no means fitted for the cure of
+_lues venerea_.
+
+Another and more conclusive objection against the supposition that
+mercury cures _lues venerea_ by evacuation, is, that this disease is by
+no means cured by evacuation taking place in an equal, or even in a
+greater degree, from other causes. This, however, should of necessity be
+the case, were the former supposition well founded. Effectually to
+overturn this theory, then, it will be necessary only to establish the
+truth of this assertion.
+
+It cannot perhaps be alledged, that any fair trial has ever been made of
+evacuation, instituted solely with a view to cure the venereal disease,
+and that in such cases it has been found to fail. But, without any such
+trial, there are sufficient arguments to shew, that for this purpose it
+really is ineffectual.
+
+_Lues venerea_ would never, upon its first introduction, have been
+considered as so unconquerable a disease, could it have been cured by
+evacuation. Various modes of evacuation were then in common use in
+medicine, and considered as the most effectual means of cure in many
+diseases. The venereal distemper, till the introduction of mercury,
+resisted the power of almost all the medicines employed against it; and,
+in some parts, it was at that time reckoned so incurable, that the
+police of the country obliged the unhappy sufferers who laboured under
+it to separate themselves from all intercourse with the rest of mankind.
+While this was the condition of the distemper, is it to be imagined that
+every method of cure was not tried? May we not, then, conclude, that,
+upon the first introduction of this disease, evacuation, by every known
+means, and carried to the greatest height, was had recourse to, but
+without effect?
+
+But, to prove that evacuation will not cure the distemper, it is
+needless to travel back to the first periods of this disease, or to rest
+the evidence even upon the highest probability. From what occurs in many
+morbid cases, we have every day evident proof of the insufficiency of
+any discharge for producing a cure of the venereal disease. _Lues
+venerea_ often exists at the same time with diseases in which an
+increase of natural evacuations takes place. None of these diseases,
+whether the evacuation happens by the salivary glands, as in small-pox,
+by stool, as in dysentery, or by the skin, as in intermittents, have
+ever been found to break its force, much less to produce a perfect cure.
+
+Besides what happens in natural evacuations, we have likewise proofs of
+the insufficiency of artificial evacuations for the cure of this
+disease. Although evacuation, at least by other means than by the use of
+mercury, is never now employed as a cure for the venereal disease; yet
+venereal complaints are often complicated with others, for which various
+evacuations are proper. And while evacuations are, with success,
+employed for the cure of these, it is found, that the venereal taint
+either remains unchanged, or is even increased in force. It cannot here
+be alledged, that the difference of effect depends upon the mode of
+evacuation. On such occasions, every mode of evacuation has been tried
+with equal want of success. Even salivation, which was long considered
+as the only effectual discharge, when excited by other means than by
+mercury, or even by mercury itself, when externally applied to the
+organs secreting saliva, has not been found more effectual than other
+modes of evacuation. In some cases, indeed, mercury received into the
+mouth by steam, or otherwise, has had good effects; but these were
+either to be accounted for from its application to the diseased part, or
+from its introduction into the system. It is, then, sufficiently
+evident, that evacuation, at least by other means than mercury, does not
+cure _lues venerea_.
+
+To this theory it may be urged as a third, and not less powerful
+objection than any of the former, that where the evacuation arising from
+the use of mercury in _lues venerea_ is the greatest, the cure is often
+retarded; and that mercury never more frequently fails than in those
+cases where it begins to evacuate upon its first introduction into the
+system.
+
+That these assertions are true, at least of the obvious discharge
+produced by mercury, will not be refused by any advocate for its action
+as an evacuant. To this, indeed, they may think it a satisfactory
+answer, that the influence of mercury as an evacuant cannot be judged of
+from the apparent discharge. It may be alledged, and indeed with some
+appearance of reason, that the greatest discharge produced by mercury is
+by insensible perspiration; that mercury, in consequence of this, is a
+more powerful evacuant than many other medicines by which a greater
+obvious evacuation is produced; and that it has the effect to increase
+perspiration in a more remarkable degree, when it increases no other
+discharge than when it induces the greatest obvious evacuation. But
+although it cannot be denied, that the use of mercury does increase
+insensible perspiration; and that evacuation in this way may, on some
+occasions, be greater than what would arise from salivation or any other
+obvious discharge; yet these facts by no means tend to any conclusion
+which will remove the difficulty formerly stated. Nor can it from thence
+be supposed, that mercury always evacuates most powerfully in those
+cases where it produces the most successful cure.
+
+The degree of evacuation which takes place from the employment of any
+medicine cannot indeed, in every case, be ascertained by the obvious
+discharge. But, where the judgment formed from this test would be
+fallacious, the marks of inanition consequent upon the use of any
+medicine are always certain tests for determining the degree of
+evacuation. From these it is evident, that the suppositions here
+advanced, that mercury operates more powerfully as an evacuant than any
+other medicine, and that it always produces a greater discharge when it
+acts by the skin, than when it affects the salivary glands, or any other
+excretory, are entirely without foundation.
+
+From the marks of inanition appearing in the system, it is
+demonstratively proved, that, from a variety of other means, a greater
+evacuation can be produced than from mercury. In such circumstances,
+however, by mercury the venereal disease is cured, by these other
+evacuants it is not. And farther, where the cure of _lues venerea_ has
+been retarded by a salivation occurring early, or where no cure has
+taken place after salivation has been continued for a considerable time,
+there is every mark of a much higher degree of inanition than when the
+disease has been removed by mercury without any sensible evacuation.
+There can remain no doubt, then, that the cure of _lues venerea_ is by
+no means in proportion to the evacuation which it produces. This,
+however, should necessarily be the case, were the cure effected by
+evacuation.
+
+Upon the whole, then, from what has been said of this theory of the
+action of mercury in the cure of the _lues venerea_, it appears, that
+the cure can by no means be referred to the evacuation. The different
+arguments adduced in favour of that theory, we have endeavoured to shew,
+either proceed on wrong principles, or, although admitted in their
+greatest latitude, can afford no ground for any conclusion to support
+it. Evacuation, from its nature, whether supposed to operate by
+diminishing the quantity of circulating fluids, or by any change it can
+induce in their quality, can scarce be conceived to be a cause adequate
+to the cure of _lues venerea_. Evacuation does not produce a cure of the
+venereal disease, when it takes place in an equal, or even in a much
+greater degree, from the employment of other medicines, than when the
+disease is effectually removed from the use of mercury. And, _lastly_,
+the venereal disease is never more effectually cured by mercury, than
+when it is evident, from every mark by which the degree of evacuation
+can be determined, that the evacuation arising from it is least
+considerable. It may, therefore, with confidence be asserted, that
+mercury does not cure _lues venerea_ by evacuation.
+
+
+------------------------------------------------------------------------
+
+
+
+
+                               CHAP. III.
+
+  _Concerning the Opinion, that Mercury cures Lues Venerea, by acting as
+    an Antidote to the Venereal Matter._
+
+
+IT is an undoubted fact, that mercury, by proper management, cures _lues
+venerea_. From the arguments already adduced, it has been concluded,
+that the cure, thus obtained, is not the consequence of evacuation.
+Having rejected this prevalent opinion, then, it next remains to say, in
+what manner a cure is produced.
+
+It has long been an opinion, very generally received, that mercury is a
+substance capable of destroying the venereal virus; or that, from being
+united with this virus, possesses a power of rendering it inactive. Many
+arguments tend to prove, that this is in reality the case; and that in
+this manner it cures _lues venerea_. But, at the same time, this theory
+is not to be considered as without difficulties. The first that occurs,
+is, with regard to the mode in which an opportunity is afforded for a
+mixture of the mercury with the virus.
+
+It is, in general, imagined, that mercury may destroy the venereal virus
+in the mass of circulating fluids. The venereal virus is unquestionably
+taken into the human system by the absorbent vessels to which it is
+applied; and, before it can reach various parts of the body, in which it
+evidently manifests itself, it must enter the general mass of fluids. We
+cannot, then, consider it as a supposition totally absurd, that mercury,
+if it be capable of destroying the activity of the venereal matter, may
+produce that effect while the virus is present in the general mass of
+fluids. Many objections, however, may be urged against this supposition;
+and, if it be adopted, it must be allowed to be with difficulties.
+
+If mercury destroy the venereal virus, while it exists in the mass of
+circulating fluids, it must produce this effect, either by an alteration
+of the general mass; or by acting more particularly on the venereal
+matter itself. The whole mass of circulating fluids, taken collectively,
+is a very considerable quantity of matter. The action, therefore, of a
+small proportion of mercury, as producing any change upon it, cannot be
+very great. It is not easy to conceive, then, how a destruction of the
+venereal virus should arise from any alteration which the mercury is
+capable of producing on the general mass.
+
+The difficulty occurring to the first supposition here made, would
+naturally lead us to consider the second. But that the action of
+mercury, while it exists in the mass of circulating fluids, should be
+exerted on the venereal virus alone, is a supposition equally
+unsatisfactory as the former. Before this can be imagined to be the
+case, it is necessary to suppose, that there exists, between mercury and
+the venereal virus, some particular attraction. Such an attraction,
+however, is a thing as yet by no ways proved to exist; nor indeed does
+there seem to be any shadow of reason to suppose that it does exist.
+
+Although, then, it cannot be denied, that mercury and the venereal virus
+may exist in the mass of circulating fluids at the same time; yet, from
+what has been said, the supposition, that the activity of the virus is
+then destroyed, will appear to be attended with many difficulties. It
+cannot, it is true, be alledged, that, from any thing which has been
+urged, this supposition is refuted. That it may perhaps, in some degree,
+act in this way, is by no means impossible. But it is to be remembered
+that this is a hypothesis supported by no proof; and the more imaginary
+any opinion is, the less easily can it be overturned. The present
+opinion, then, may be set aside, for reasons, which, in other respects,
+would be insufficient for its being rejected; and this the more readily,
+if another and more probable hypothesis can be advanced which is not
+liable to the same objections.
+
+To determine the manner in which mercury acts on the venereal virus, it
+might seem requisite that the nature of this poison should first be
+ascertained. In what the activity of the venereal virus consists, it is
+difficult, perhaps impossible, to say. Various conjectures have indeed
+been offered with regard to it. But what has hitherto been advanced upon
+that subject is so hypothetical as scarce to deserve a serious
+refutation. What could, therefore, be derived from an inquiry of this
+nature, without a more perfect knowledge of the subject than has
+hitherto been attained, would be but of little utility.
+
+But, although the peculiar nature of the venereal virus, and those
+principles in consequence of which it becomes active, are unknown, yet
+its general effects, as acting on different parts of the human body, are
+sufficiently obvious. The parts morbidly affected by the venereal virus,
+at different times, put on different appearances. This, however, is in
+common to all of them, that, when reduced to the state of an open ulcer,
+they discharge an infectious matter capable of propagating the disease.
+It cannot therefore be doubted, that the venereal matter occasions the
+morbid affections there observed from its actual existence at these
+places.
+
+As the places evidently affected by the venereal poison are frequently
+very distant from those to which the poison has been first applied, and
+do not lie in the course of the absorbents, it can only be carried to
+them in the course of circulation. But, even while the poison is present
+in the circulating system, no change can be detected on the general mass
+of fluids; nor in by much the greater part of the solids in the body.
+Many changes may take place in the fluids of the human body which cannot
+be said to constitute a diseased state. That such changes may be
+esteemed morbid, it is necessary that they should manifest themselves
+over the system in general. If, then, we are to judge by these
+principles, it follows, that the venereal poison does not produce a
+morbid state in the general mass of fluids. It evidently acts as a cause
+of disease in particular parts, whether it first comes to be applied to
+these by immediate contact with external objects, or arrives at them in
+the course of circulation. Probably it acts as a morbid cause in these
+places, from being, by some accident, detained there, in consequence of
+which the quantity of the poison is increased by assimilation. This
+opinion, with regard to the influence of the venereal virus in producing
+the disease, will lead to a different conjecture concerning the
+operation of mercury, as tending to destroy it.
+
+If this opinion be true, the venereal poison may be supposed to be
+productive of disease, only when collected at particular parts. This
+would lead us to conclude, that, if mercury possess a power of
+destroying the venereal virus when it comes in contact with it, it can
+only produce a cure of _lues venerea_ from being topically applied to
+the poison collected at particular parts of the body. Mercury, however,
+unquestionably does produce a cure of the venereal disease. If, then, it
+can be shewn, that mercury in reality is an antidote to the venereal
+virus; and that, previous to its producing a cure, it is topically
+applied to those parts in which the venereal virus is lodged, we may
+reasonably conclude, that the cure obtained from its use is to be
+referred to its action as an antidote from topical application. To
+establish this supposition, then, it is first necessary to show, that
+the mercury is in reality topically applied to the venereal matter.
+
+Many medicines, taken into the alimentary canal, are known to have the
+most powerful effects in the cure of diseases very remote from thence.
+While this happens, there are the strongest reasons for believing, that
+the medicine itself never passes the alimentary canal, or is in any
+respect introduced into the system. In such cases, therefore, it
+evidently produces a good effect on parts to which it is never applied.
+It may then occur, as a possible supposition at least, that this
+likewise may be the case with mercury.
+
+Mercury indeed produces many good effects by its action on the _primæ
+viæ_. But, when it is given in any of those forms in which it is of
+service in the venereal disease, those cases excepted where it is
+immediately applied to the diseased part itself, various phænomena tend
+to prove, that it actually does enter the mass of circulating fluids. It
+is only, from the introduction of mercury into the system, that various
+actions which it exerts in different parts of the body can be accounted
+for. Thus, for example, when it excites salivation, whether from being
+taken by the mouth, or from being rubbed upon the extremities most
+remote from the salivary glands, there is every proof which can be
+required that the mercury is actually present at these glands. The taste
+alone is sufficient to evince this. From the same mark also, we may be
+assured of the presence of mercury in the mouth, even when it is not
+introduced into the system in such a quantity as to excite salivation.
+
+In all these cases, the mercury can only reach the mouth in the course
+of circulation. But, if it enter the mass of circulating fluids, it
+must, from the known and established laws of circulation, be equally
+carried to every different part of the body; and, among others, it
+cannot fail to be applied to those parts in which the venereal matter
+does exist. This first assertion, then, may be considered as
+sufficiently established; and, it remains only to show, that mercury,
+when it comes in contact with the venereal matter, has a power of
+destroying it.
+
+That mercury, when it is exhibited in such a manner as to be capable of
+conjunction with the venereal matter, has a power of rendering it
+inactive, is an assertion, which, it might be imagined, could be put to
+the test of experiment. But, experiments of this nature could not be
+performed without hazard; and, in the end, would perhaps be only
+undecisive. Although, however, no certain criterion has in this manner
+been obtained, there are not wanting arguments to render the opinion at
+least highly probable.
+
+In favour of the supposition, that mercury, in reality, possesses a
+power of rendering the venereal virus inactive, it may be observed, that
+an action in this manner is at least conceivable; and that it is
+analogous to what we have an opportunity of observing in other cases of
+nature. Many substances which possess the most active powers in nature,
+have these entirely destroyed, or totally altered, from combination with
+other substances. This holds remarkably of mercury itself, when united
+with sulphur. These, taken separately, are each of them substances of a
+most active nature; conjoined, the mixture becomes inert, or acts only
+as sulphur.
+
+From what has been said, then, it appears, that, in some cases, mercury
+by combination loses its active powers. But this fact will appear less
+singular, if such a destruction of powers holds not of mercury alone,
+but of other substances likewise. That it does, is exemplified in the
+mixture of sulphur with different metallics, as in the case of antimony.
+In the mixture of acids with alcalines, there is, if not a destruction
+of activity, at least a total change of properties. But to multiply
+instances of this kind, would be superfluous. Enough has been said to
+show, that there is at least nothing inconsistent with the common course
+of nature, in supposing, that such a mutual relation takes place betwixt
+mercury and the venereal virus. It may then be considered at least as a
+possible supposition, that, from the addition of the former, the latter
+is destroyed, or rendered inactive.
+
+But the proof of this antidotal power to the venereal virus in mercury,
+need not be rested upon a mere possibility. That mercury, in reality,
+does possess a power of destroying the activity of this poison, is
+rendered, if not certain, at least highly probable, from the
+circumstance of its curing venereal ulcers in consequence of topical
+application. In daily practice, we have undeniable proof, that mercury,
+topically applied, does cure venereal ulcers. This holds not only of
+those ulcers to which dressings can be applied, and continued for a
+considerable length of time, but of others also more out of reach, where
+its application can only be temporary. The advantages obtained from the
+different modes of applying mercury to ulcers in the throat, whether in
+the form of steam or gargle, sufficiently shew the truth of this
+assertion.
+
+The cure produced in all the cases of ulcers to which mercury is
+topically applied, is unquestionably to be referred to an immediate
+action upon the part. It takes place without any marks of the mercury
+having entered the system. And it can by no means be alledged, that, in
+such cases, any general affection, such, for example, as an increased
+discharge, is produced. But it is perhaps needless to insist on this, as
+in those instances the cure is never attributed to any other mode of
+operation than that of immediate action. As far, then, as the assertion,
+that mercury cures ulcers from topical application, can prove any thing
+in favour of its possessing an antidotal power, it may be assumed as an
+undeniable fact.
+
+It has indeed been alledged, that the cure here arising from the topical
+application of mercury, is entirely to be referred to its action as a
+stimulus to those parts to which it is applied. But this is an opinion,
+which, for many reasons, can by no means be admitted. Other stimuli
+which operate more immediately and more strongly, have by no means an
+equal effect. When mercury stimulates in the highest degree, the best
+consequences are by no means observed to arise from it. And it often
+produces a cure from topical application, where no effects of its
+operating as a stimulus can be observed. From these facts, it is
+evident, that the cure of venereal ulcers, produced by the topical
+application of mercury, can by no means be referred to its stimulant
+power. This naturally leads us to ascribe it to some other cause.
+
+In the venereal disease, different parts of the body are ulcerated, and
+kept in that state, from the activity of the venereal poison. When,
+therefore, these ulcers come to be healed, the natural conclusion is,
+that the activity of the virus, which occasioned and supported the
+ulceration, is destroyed. But if mercury applied to venereal ulcers does
+cure them, when that cure cannot be ascribed to any action of mercury,
+either upon the system in general as an evacuant, or upon the part
+particularly affected, as a stimulant, may we not, with justice, say,
+that it possesses a power of destroying the activity of this virus? in
+other words, that mercury is an antidote to the venereal poison? From
+this, then, it follows, that the action of mercury as an antidote, is
+not merely a thing possible, and analogous to what happens in other
+cases of nature; but that the real existence of such a power is
+incontestably proved.
+
+To this argument, it may indeed occur as an objection, that mercury does
+not in every case, from topical application, produce a cure of venereal
+ulcers. This, it might be imagined, should happen, did it operate in the
+manner here alledged. But it is to be remembered, that the venereal
+virus may often be so situated, while it produces an external sore, as
+to be totally out of the reach of any application made to the surface of
+that sore. And, even in cases where the seat of the virus is
+superficial, the mercury may be applied in such a form as will not
+readily admit of a conjunction with the virus. Those cases, therefore,
+in which mercury has failed of producing a cure, can never afford any
+sufficient reason for setting aside this argument. But, on the other
+hand, any one well vouched instance, in which mercury, by being
+topically applied, has produced a cure in the manner here alledged, is a
+sufficient foundation, for every thing which has been advanced from this
+fact, to prove the supposition of its being an antidote to the venereal
+poison.
+
+From what has been said, it appears, that mercury is an antidote to the
+venereal virus; and that, whether it be introduced into the circulating
+system, or used externally only, it comes in contact with the venereal
+virus in those parts in which it is lodged, previous to its producing a
+cure. It may, then, be reasonably concluded, that the theory formerly
+suggested is well founded; and that mercury cures _lues venerea_ from
+its power as an antidote, in consequence of its being actually applied
+to the venereal matter.
+
+In favour of this hypothesis, it may farther be urged, that it is
+confirmed by a proper attention to many phænomena attending the cure of
+_lues venerea_ by mercury; while at the same time it is not equally
+liable to objection, as the other theories which have been mentioned.
+
+From the supposition of a topical action in the manner here supposed,
+the fluid to be acted upon is, as it were, separate and distinct from
+the general mass. In this case, then, the objection, that the effects of
+the mercury will be taken off from the quantity of matter upon which it
+has to act, will not apply. At the same time there is here no necessity
+for having recourse to any hypothetical attraction between mercury and
+the venereal virus.
+
+It cannot, indeed, be alledged, that, in this case more than in the
+former, any obvious change occurs in the appearance of the venereal
+matter in consequence of the use of mercury. But the venereal matter,
+even in the most detached state in which it ever exists in the human
+body, is always blended with a certain proportion of pus and other
+humours. From this circumstance, we can never become acquainted with
+what is its real appearance. It cannot, therefore, be reasonably
+expected, that any changes which take place in it should become the
+object of observation. But observation sufficiently demonstrates a
+manifest difference in the effects produced by this virus, after the use
+of mercury, when compared with those which that virus before produced.
+That, therefore, in consequence of the employment of mercury, its nature
+is in reality changed, is but a reasonable conclusion.
+
+It was formerly adduced, as an argument in favour of another
+supposition, that the cure of _lues venerea_ produced by mercury was
+proportioned to the quantity of discharge which the mercury occasions.
+This assertion we have already attempted to show is by no means, in
+every case, true. It must, however, be allowed, that in some cases it
+does hold, and in those cases more especially where the discharge takes
+place from the system in general. To account for this on the theory here
+advanced, it is only necessary to consider in what manner such a
+discharge arises from the internal use of mercury.
+
+These evacuations are, without doubt, to be referred to the mercury
+reaching and acting upon the excretories by which they are made. The
+quantity of these discharges, then, will, in many cases, serve as a
+standard by which to determine the quantity of active mercury
+circulating in the system. But, in proportion to the quantity of mercury
+which circulates in the general mass of fluids, a greater or less
+quantity will come to be applied to every part in the body; and, among
+others, to those places in which the venereal matter exists. Upon the
+supposition, then, that mercury acts in the cure of _lues venerea_ as an
+antidote, it is easy to see how the cure should, in such cases, come to
+be proportioned to the quantity of the discharge.
+
+Mercury, as was already observed, does not always produce a cure from
+external application. Where this fails, the cure is often effected by
+internal use. Mercury, from being used internally, comes to be applied
+to parts otherwise inaccessible, and even to the interior surface of
+superficial sores, to which, from external application, it cannot
+penetrate. From this, it is obvious on what principles the internal use
+of mercury co-operates in the cure of _lues venerea_ with external
+application; or produces a cure alone where it is not used externally at
+the same time.
+
+Although the cure of _lues venerea_ from mercury may often correspond
+with the quantity of the evacuation, yet it frequently happens, that,
+from the early increase of any one particular discharge, the cure is
+frustrated. This is particularly experienced in those patients in whom
+the almost immediate effect of mercury is to excite salivation. While
+this fact is a very strong objection against the supposition that
+mercury cures by operating as an evacuant, it can readily be accounted
+for upon the theory here adopted. In such habits, the quantity of
+mercury accumulated in the circulating fluids can never be very great,
+as it finds a ready outlet from the system.
+
+Besides these phænomena, this theory affords a ready solution for many
+others also. From hence it is easy to account for the obstinacy of this
+disease after it has affected the bones. When that has happened, the
+application of mercury to the part affected, whether it be externally
+applied, or taken internally, can only be obtained after long continued
+use.
+
+From this also we can learn the reason why the venereal disease will
+sometimes return, without any new infection, after a seemingly complete
+cure by means of mercury. The disease will be apparently cured, because
+the mercury may have totally destroyed the poison at some particular
+parts; but it will return from the virus still remaining lodged in
+others, to which, from a course sufficient to destroy it in more
+accessible parts, the mercury could never penetrate.
+
+It appears then, that to the other arguments formerly adduced in favour
+of this theory, may be added, the ready solution it affords for various
+phænomena observed with respect to the cure. And, from all the arguments
+taken together, it may be concluded, that this theory is to be adopted,
+if not as absolutely certain, at least, as less embarassed with
+difficulties, and as supported by more probable arguments than any
+other.
+
+
+------------------------------------------------------------------------
+
+
+
+
+                               CHAP. IV.
+
+  _Of the different Mercurial Preparations employed in Medicine._
+
+
+METALLIC substances in general, when employed for the purposes of
+medicine, have been used in many different forms: But none of them,
+perhaps, has been exhibited in a greater diversity of preparations than
+mercury. Some mercurial preparations have never been employed in the
+cure of _lues venerea_; and many formerly in use are entirely banished
+from the present practice in this disease. All these may be considered
+as unconnected with the subject here treated of. But that the nature of
+those preparations which are at present most frequently employed, may be
+more clearly understood, there will be no impropriety in taking a
+general view of all the preparations of mercury.
+
+The mercurial preparations admitted by the Colleges of London and
+Edinburgh, contain the most useful and most elegant forms employed in
+practice, at the time when the last editions of their Pharmacopœias were
+published. But even at that time they were by no means to be considered
+as compleat lists. And, since that time, other preparations of utility
+in practice have been discovered.
+
+A more full view of mercurial preparations than can be obtained from
+these lists, and, at the same time, some information with regard to the
+circumstances in which they differ from each other, may be had from a
+table of mercurials lately published by Dr Saunders of London. In that
+table, which, with a very few inconsiderable alterations, is the same
+with one formerly given out by Dr Cullen, when professor of chemistry at
+Edinburgh, the different mercurial preparations are reduced to general
+heads, according to the means employed to render them active. From it,
+the following is almost entirely copied. The names of the different
+preparations are here printed in Italics, and taken from the London and
+Edinburgh Dispensatories, from the new Dispensatory, and from the
+Edinburgh Pharmacopœia Pauperum. To these are added, some mercurials
+introduced by Boerhaave, Astruc, Keyser, and Plenck. From the letters
+subjoined to each, it will appear from whence the preparations are
+taken; and, where an asterisk is prefixed to any one, it denotes, that
+it is to be considered as perfectly analogous to that immediately
+preceeding.
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+                                   A
+
+                                +TABLE+
+
+                                  +OF+
+
+                        MERCURIAL PREPARATIONS.
+
+
+I. Mercury rendered active by triture.
+
+     a. Without any addition. _Tragea Keyserii._
+
+     b. With honey. _Pilulae mercuriales._ E. 1744.
+
+     c. With balsam.
+       _Pilulae mercuriales._ L.
+       _Unguentum caeruleum fortius et mitius._ L.
+       _Emplastrum commune cum mercurio._ L.
+       * _Emplastrum mercuriale._ E.
+       _Ceratum mercuriale._ L.
+
+     d. With resin.
+       _Pilulae mercuriales._ E.
+       _Pilulae Æthiopicae._ E.
+
+     e. With gum.
+       _Solutio mercurialis._ Plenck.
+       _Pilulae mercuriales._ P.
+       _Syrupus mercurialis._ P.
+
+     f. With suet.
+       _Unguentum mercuriale._ E.
+
+     g. With absorbent earths.
+       _Mercurius alcalizatus._
+
+     h. With sugar. _Mercurius saccharatus._ E.
+
+     i. With sulphur.
+       _Æthiops mineralis._ L. E.
+       _Æthiops antimonialis._ Ph. Paup. E.
+
+     k. With bread.
+       _Pilulae mercuriales._
+
+     l. With conserve of roses.
+       _Bolus caeruleus._
+
+II. Mercury calcined by heat.
+
+     a. Alone.
+       _Mercurius calcinatus._ L.
+       * _Mercurius praecipitatus per se._
+
+     b. With gold.
+       _Mercurius praecipitatus solaris._ Ast.
+
+III. Mercury sublimed with sulphur.
+
+       _Cinnabaris factitia._ L.
+     _Cinnabaris antimonii._
+
+IV. Mercury rendered saline.
+
+     a. By vitriolic acid.
+       _Mercurius emeticus flavus._ L.
+       * _Mercurius praecipitatus flavus._ E.
+       * _Turpethum minerale._ E.
+
+     b. By nitrous acid.
+       _Solutio mercurii._ E.
+       _Calx mercurii._ E.
+
+     c. By muriatic acid.
+       _Mercurius sublimatus corrosivus_, E. L.
+       _Mer. praecipitatus albus._ Boer.
+       _Aqua aluminosa._ E.
+       _Aqua phagedænica._ E.
+       _Mercurius violaceus diaphoreticus._ Ast.
+       * _Flores ammoniaco-mercuriales._
+       _Solutio mercurii per deliquium._ Ast.
+
+     d. By vegetable acid.
+       _Mercurius tartarizatus._
+       _Pilulae Keyserii._
+
+V. Saline preparations of mercury rendered milder.
+
+    A. By abstracting acid.
+
+      a. By calcination.
+
+         _Mercurius corrosivus ruber._ L.
+         * _Mercurius calcinatus._ E.
+         * _Mercurius praecipitatus ruber._ E.
+
+      b. By attraction.
+
+            _a._ Of water.
+
+            _Pulvis principis._ N. D.
+
+           _b._ Of alcohol.
+
+            _Mercurius corallinus._ L.
+            _Panacaea mercurii._ E. 1744.
+
+           _c._ Of water and alcohol.
+
+            _Arcanum corallinum._ N. D.
+            _Panacaea mercurii rubra._N. D.
+
+         _d._ Of camphire.
+
+            _Pilulae e turpetho minerali._ Ph. Paup. E.
+
+      c. By attraction and precipitation.
+
+         _a._ Of fixed alkali.
+
+            _Mercurius praecipitatus fuscus._ E. 1744.
+
+         _b._ Of volatile alkali.
+
+            _Mercurius praecipitatus._ L.
+            _Unguentum e mercurio praecipitato._ L.
+
+         _c._ Of volatile alkali and copper.
+
+            _Mercurius praecipitatus viridis._ E.
+
+    B. By addition of mercury.
+
+      _Mercurius sublimatus dulcis._ L. E.
+      * _Calomelas._
+      * _Aquila alba._
+
+    C. By addition of unguent.
+
+      _Unguentum citrinum._ E.
+
+VI. Saline preparations of mercury rendered acrid, or kept so.
+
+   a. By redissolving precipitate.
+
+      _Mercurius praecipitatus solutus._
+
+   b. By addition of acid.
+
+      _Solutio sublimati cum spiritu salis._
+
+   c. By suspending with ammoniacal salt.
+
+      _Mercurius corrosivus nitrosus._
+      * _Ward’s white drop._
+      _Mercurius corrosivus muriaticus._
+
+
+------------------------------------------------------------------------
+
+
+
+
+                                CHAP. V.
+
+  _Of the Mercurial Preparations intended to act immediately on the
+    Parts affected with Lues Venerea._
+
+
+EVERY preparation of mercury may perhaps, under proper management, be
+successfully employed in the cure of the venereal disease. But by much
+the greatest number of these preparations neither are, nor ever have
+been, in common use for that purpose. To treat, at any considerable
+length, of all that are at present in use, would lead to prolixity and
+repetition. A few observations on those which, from their being most
+successful, are at present most frequently employed, will afford
+sufficient data for determining the choice of one preparation in
+preference to another.
+
+The different modes in which mercury has been exhibited have very
+universally been reduced to two general heads, and referred either to
+its employment externally or internally. This division, however, is not
+without some degree of inaccuracy. Mercury, when taken internally, is
+very universally thrown into the system in general, without any
+particular attention to the affected part. When it is used externally,
+it is for the most part meant to act immediately on the diseased part.
+This, however, is not always the case; and sometimes the only thing
+intended by external application is its introduction into the system.
+But, when this is the case, its external employment is on precisely the
+same footing with its internal use. The proper distinction, then,
+depends not so much upon its being used either externally, or taken by
+the mouth, as upon the mode in which it is meant to act. Mercury, in
+every case, is intended either to act immediately upon the affected
+part, or to enter the circulating system.
+
+If there be any truth in what has been said with regard to the action of
+mercury, the manner in which, in each of these ways, it comes to produce
+a cure, can readily be conceived, and is, at bottom, very similar. But,
+at the same time, these different modes of using the medicine are, in
+some measure, fitted for different purposes; and the influence which is
+exerted in the one way demands attention, which is not always requisite
+in the other. These methods of using mercury, then, may, with greater
+advantage, be considered separately than together. And what would claim
+consideration, in the first place, are those modes of application, in
+which the mercury is intended to act immediately upon the affected part.
+
+From the opinion which was long entertained, that mercury, in every
+form, was a substance highly poisonous, it is not surprising, that, upon
+its first introduction into medicine, it should have been used
+externally only. In this way it seems also to have been first employed
+in the venereal disease. But, from the tendency which mercury has to
+enter the system, when used in any form, it is not surprising that its
+effects, as exciting salivation, should soon have appeared from its use
+externally. To a salivation thus excited, it was but natural to
+attribute the cure. Hence, from its external employment on its first
+introduction, there are few clear instances of its efficacy as acting
+immediately upon the venereal virus.
+
+It is not, however, improbable, that, even in these early periods, some
+part of the influence which mercury had in the cure of _lues venerea_
+was to be ascribed to an immediate action on the venereal matter. In
+this way the good effects, in many cases, reaped from fomentations of
+cinnabar, one of the modes of applying mercury first put in practice,
+were certainly, in some measure, to be accounted for. It may, then, be
+affirmed, that the use of mercury, so as to act immediately upon the
+affected part, is a mode of applying it as early as its first
+introduction in the venereal disease. And, from examining the history of
+this distemper, as well as the various means which have, at different
+times, been employed in the cure, it will appear, that the immediate
+action of mercury on parts affected by _lues venerea_, particularly in
+places most easily reached, such, for example, as chancres, has always
+been a common intention in practice.
+
+But enough has perhaps been said concerning the history of the immediate
+application of mercury. The present inquiry is with regard to the
+preparations now employed in this way, and the comparative advantage of
+each.
+
+Among the first, and perhaps the most common forms in which mercury has
+been, and still is applied, with a view of acting immediately upon the
+affected part, are the mercurial ointments, cerates, and plasters. In
+this, as will appear from the table which has been given, the mercury is
+rendered active by division. Little difference can arise from the
+substance with which the mercury is combined during the triture. All
+these preparations, therefore, may, with propriety, be considered
+together. To this head may be referred, the blue ointments, mercurial
+cerate, and common plaster with mercury, of the London College; and the
+mercurial ointment, and plaster, of the Edinburgh.
+
+These preparations seem to contain a very large proportion of mercury;
+and certainly, in their composition, a considerable quantity is blended.
+But it by no means follows, that the whole of that quantity is in an
+active state, or is in such a condition as to be capable of an union
+with the venereal virus. From late observations, it appears, that by
+much the greatest part of the mercury, although here rendered invisible,
+is still in its crude state. The effect, therefore, to be expected from
+them is by no means to be judged of from the quantity of mercury which
+has been employed in making them. And they are in reality much weaker
+preparations than might be imagined.
+
+These are often employed as dressings to open sores. But the oily nature
+of the substances with which the mercury is here conjoined, prevents it
+from admitting of a ready union with the venereal virus. On this
+account, their power will be still farther diminished than from the
+cause formerly mentioned. Hence it may be concluded, that they are not
+the most proper mercurial applications for open ulcers. And indeed an
+examination of the state of the fact confirms this conjecture. For, upon
+inquiry, it will be found, that in such circumstances greater benefit
+may be reaped from other mercurial applications.
+
+Mercury is often meant to act in the venereal disease, without any
+general affection of the system, or without entering the mass of
+circulating fluids, where it cannot come into immediate contact with the
+affected parts. These parts are often deep seated, and, at the same
+time, the integuments above them are unbroken. In such cases, mercury,
+applied in a form capable of penetrating, or of being absorbed, promises
+to be of service. That mercury, in the forms here mentioned, is in this
+situation, cannot be denied. And, in such cases, these forms have the
+peculiar advantage, which many others want, of admitting of an easy,
+gradual, and long continued application. Hence it is, that singular
+benefit is obtained from them in the resolution of nodes and buboes.
+
+It may not be improper here to observe, that, for these intentions,
+particularly the last, which is an affection of the lymphatic glands, it
+is a very effectual mode of using the mercury, to apply it in the form
+of unction to those places from which the lymphatic vessels passing
+through the diseased gland take their rise. In this way, equal if not
+greater benefit will, in general, be reaped, than from immediately
+applying it to the tumor itself. By this means, the mercury will be
+carried with more certainty, and in greater quantity, to the affected
+gland, than it would be from pervading the substance of the integuments.
+
+Another form in which mercury was very antiently used, and still
+continues to be applied with an intention of acting immediately upon
+affected parts, is, its being reduced into a state of vapour, by which
+means it acquires a very high degree of activity. This mode of applying
+mercury is attended with many inconveniencies, and, in this form, its
+application, while it is very sudden, can at best be but temporary. It
+must, however, be allowed, that the active form which the mercury here
+assumes is a very subtile one. By this means, it becomes capable of
+penetrating and resolving hard and indurated tumors, which cannot be
+pervaded by mercury in other forms. On this account, in such tumors,
+especially if they have been of long standing, and in obstinate ulcers
+which have resisted other mercurial preparations, the form of vapour may
+often be tried with peculiar advantage. For this purpose, cinnabar has
+commonly been employed. From its being resolved into fume, the mercury
+and sulphur are disunited, and the activity of the medicine totally
+depends upon the former arising in a state of vapour.
+
+Mercury, in whatever way it is used, is most active in these forms in
+which, from the addition of acids, it is reduced to a saline state. Some
+of these are in their nature so extremely corrosive, that they can
+scarcely, with safety, be used even as external applications. This
+peculiarly holds of those preparations which are formed by a combination
+of mercury with the nitrous acid. That they may be fitted for use,
+therefore, various means are employed to render them milder. Among other
+methods, one frequently practised, is, the abstraction of acids by
+calcination. In this manner are prepared the _mercurius corrosivus
+ruber_ of the London college, and the _praecipitatus ruber_ or
+_calcinatus_ of the Edinburgh. These are forms of employing mercury
+which are every day in use, for application to the part immediately
+affected.
+
+These preparations, even after having their action in this manner
+diminished, still possess a very considerable degree of corrosive power.
+On this account, they become particularly useful in many cases of
+venereal complaints, where corrosives are required. And hence it is easy
+to learn the foundation for the frequent and advantageous employment of
+these preparations in cases of fungous edged ulcers, of warts, and other
+such tumors.
+
+That these preparations may be applied more commodiously, they are
+frequently mixed with different ointments, particularly with basilicon;
+but, by this means, their power of action is greatly diminished. Where
+it is intended they should act as escharotics, it is perhaps in every
+case most proper to employ them in the form of dry powders. Such
+dressings may then be applied above them as are best fitted to the
+nature of the complaint.
+
+It may naturally be imagined, that, from mercury in this form, not only
+an escharotic power can be obtained, but that likewise, from its action
+as an antidote against the venereal virus, parts kept ulcerated, from
+the activity of this poison, may be healed. That, in some degree, it is
+fitted for this purpose likewise, is not to be doubted. But, to its
+employment in this way, its corrosive power is often an objection. In
+many cases, where it is required that an ulcer should be healed, a
+destruction of solid parts would be highly prejudicial. And when, in
+order to avoid this, the corrosive power of the mercury is diminished,
+from its being united with an ointment, the precipitate becomes liable
+to the same objection which was formerly urged against the efficacy of
+mercurial ointment. It is then in a state which does not admit of a
+ready union with the venereal virus. It may therefore, upon the whole,
+be concluded, that mercury in this form is principally useful in those
+cases, where, with the effect of an antidote against the venereal virus,
+it is necessary to conjoin an escharotic power.
+
+Mercury may be rendered saline by being united with other acids as well
+as the nitrous. These likewise are, in general, active preparations; but
+they do not possess a caustic power, at least in so high a degree as the
+nitrous preparations. Among the most active of the other saline
+preparations, are those prepared with the muriatic acid, and especially
+the corrosive sublimate. This is a mercurial preparation which, in many
+cases, may be employed to act immediately on parts affected by the
+venereal virus; it falls, therefore, to be considered also under this
+head.
+
+The stimulant power of corrosive sublimate is so great that it is never,
+even for external purposes, used in a solid form. But the _aqua
+phagedænica_ of the Edinburgh College, which is a solution of it in
+lime-water, is a mercurial preparation which has often been used
+externally, both in venereal and other foul ulcers. This form, however,
+contains so large a proportion of the mercury, that it is by much too
+stimulant for the greatest part of sores. A more dilute solution, in
+common spring-water, is free from this inconvenience, while, at the same
+time, it serves every purpose which can be expected from the other.
+
+The mercury in this solution is in a state sufficiently active to
+destroy the venereal virus, and is, at the same time, in a condition
+which will admit of a ready union with it. Good effects, therefore,
+might naturally be expected from it, especially as the form is such that
+it can with ease be applied.
+
+The efficacy of this preparation has not indeed, as far as I know, been
+confirmed by long or extensive practice. But, where it is proper to heal
+superficial ulcers, no application is of greater service than dressings
+of lint dipt in a solution of the corrosive sublimate in the proportion
+of half a grain to an ounce of water. The addition of a small quantity
+of compound spirit of lavender to this solution will give it a colour
+and smell different from those of common water, which, with some
+patients, are necessary conditions to an effectual application. In some
+circumstances already mentioned, the other modes of applying mercury to
+act immediately upon the diseased part may be preferable to this. But,
+where the only requisite to the healing of an ulcer is the destruction
+of that venereal virus at the part which supports a diseased state
+there, no application will answer the purpose with greater facility,
+safety, and expedition, than this solution.
+
+
+------------------------------------------------------------------------
+
+
+
+
+                               CHAP. VI.
+
+  _Of the Mercurial Preparations intended to act in the cure of Lues
+    Venerea by entering the System._
+
+
+AN attempt has already been made to explain the operation of mercury,
+and the manner in which the venereal poison may be supposed to exist as
+a cause of disease. From these it might perhaps be concluded, that the
+introduction of mercury into the system was seldom requisite. And it
+might seem reasonable to infer, that all the advantage which could be
+obtained from mercury, might be had from its application in one or other
+of the ways already mentioned. So far, however, is this from being the
+case, that it is no uncommon thing with practitioners to inveigh, in the
+most express terms, against all external applications, those excepted
+which are of the mildest and most inactive nature. Mercurials have not
+been excluded, and the healing up of sores, by whatever external means
+it may be effected, has been considered as highly prejudicial.
+
+It can by no means be asserted, that these accusations against the
+external use of mercury are entirely without foundation. If properly
+understood, however, they may be true, without being any objection to
+the theory. It can never be imagined, that, from the destruction of the
+venereal virus at a particular part, by any application made there, it
+should be destroyed in the rest of the system. When, therefore, the
+venereal virus has already been absorbed, a radical cure cannot be
+expected from the healing of an ulcer. It may even sometimes happen,
+that, from a partial destruction of the virus in an ulcer, it may be
+healed externally, and, at the same time, absorption more considerably
+promoted than if it had remained open.
+
+From these circumstances it is easy to see, that, upon the theory
+formerly adopted, the introduction of mercury into the system is, in
+many cases, not only proper, but even necessary. But, at the same time,
+the advantages which, from that theory, we are led to expect from the
+immediate application of mercury to parts affected by the venereal virus
+are not less true.
+
+As the first method of using mercury was by external application, for an
+action on the parts affected; so external application was likewise the
+first means employed for introducing it into the system. For that
+purpose, all the various modes of applying mercury, which have already
+been mentioned, have, at different times, been used. Applications of
+mercury to the surface of the body by unction, plaster, fumigation, and
+lotion, have each, at different times, and by different practitioners,
+been recommended as the safest and most effectual method of introducing
+it into the system. But, after longer and more accurate observation than
+could at first be obtained, the application of mercury in the form of
+unction is the only method of introducing it into the system, by
+external application, which is now in practice.
+
+Whatever may be the means used for introducing mercury into the system,
+it is certain, that, if it do enter it in an active state, it will cure
+the disease. Its introduction by unction is still by no means an
+uncommon practice. By several modern practitioners, this method of
+introducing it into the system is still recommended, as preferable to
+every other. When properly viewed, however, it must be allowed, that if
+it be attended with advantages on the one hand, it is by no means free
+from inconvenience on the other, and in certain circumstances only is a
+preferable practice.
+
+In the mercurial ointment, the preparation which is here used, the
+mercury, as was formerly observed, is rendered active from division by
+triture. The mercurials prepared in this manner are in general the
+mildest in which mercury is in an active state. It may be laid down as
+an undoubted fact, without pretending in this place to assign any cause
+for it, that the milder mercurial preparations have a greater tendency
+to operate by salivation than the more acrid. But there is perhaps no
+method of exhibiting mercury in which it more certainly operates by
+salivation, than when it is applied externally in the way of unction.
+
+After what has been said by the greatest authorities in medicine against
+salivation, it would be unnecessary to add any thing here. It may be
+sufficient to observe, that it has been pronounced to be a practice not
+only attended with very great inconvenience, and no inconsiderable
+danger, but even unnecessary. The tendency, therefore, which this mode
+of introducing mercury into the system has of exciting salivation, may
+be considered as no small objection to its being put in practice.
+
+But, while it cannot be denied, that salivation is attended with many
+inconveniencies, it must at the same time be allowed, that the degree in
+which it takes place, is, in general, proportioned to the quantity of
+active mercury which enters the system. And it occurs chiefly in those
+cases where the medicine is not so acrid as to find an outlet by some
+other excretory. When, therefore, the disease has been of long standing,
+and obstinately rooted in the system, altho’ salivation may not be
+necessary for a cure, yet it will be the unavoidable consequence of the
+employment of that quantity of mercury which is requisite in the system
+for overcoming the disease. This mode of employing mercury, then, is not
+in every case to be rejected from the tendency which it has to excite
+salivation.
+
+But, it may further be objected to this mode of employing mercury, that
+the quantity of active mercury, which in this way is introduced into the
+system, cannot be easily ascertained. And that, even before any obvious
+effect is produced, a much greater quantity may be thrown in, than is
+really necessary for a cure, from which troublesome consequences will
+afterwards ensue. These indeed are facts which cannot be denied; and it
+must even farther be allowed, that all the good effects in the cure of
+_lues venerea_, which can be obtained from this method of introducing
+mercury into the system, may be had from the internal use of other
+preparations equally mild, and from which the patient is not exposed to
+the same inconveniences.
+
+From these circumstances, it may be concluded, that the introduction of
+mercury into the system in the way of unction, is neither proper in
+slight cases, nor in the greatest number of obstinate ones. There are,
+however, constitutions in which mercury, in any form, is very apt to
+produce an immediate and violent action upon the alimentary canal.
+Sometimes it excites vomiting, but more frequently it induces looseness.
+In such constitutions, these effects do indeed often follow, even when
+the mercury is introduced by the absorbents on the skin. But they are
+more certainly the consequence of the immediate application of mercury
+to the alimentary canal itself. Besides this, when these effects happen
+from the immediate application of mercury to the alimentary canal, the
+introduction of the medicine into the system, is often in a great
+measure, if not entirely, frustrated. And farther, the effects of
+mercury on the alimentary canal not only less certainly follows, from
+its introduction by the surface, than from immediate application, but
+may likewise be more easily obviated. In such circumstances, therefore,
+a cure of venereal complaints may, with greater certainty and ease, be
+affected, from the introduction of mercury by the surface in the form of
+unction than from any other mode of using it.
+
+Perhaps the most common form of exhibiting mercury in this place, with a
+view of entering the system, is that of the mercurial pills. These, when
+properly prepared, seem, in most cases, to be justly entitled to the
+preference, which is here so frequently given them. The mercury, in this
+preparation, is rendered active by the same means, and is in the same
+state as in the preceeding one. Its operation likewise in this form is
+very analogous to what it is in the one formerly mentioned. It is here
+equally apt to salivate as in the form of unction. But the salivation
+induced by the mercurial pills very rarely arises to so high a degree,
+at least so suddenly, as from unction. The quantity of mercury
+introduced into the system in this form, admits of being more certainly
+ascertained than by unction. The principal ambiguity which takes place
+with regard to the pills, arises from the difference of care with which
+they are prepared, and the degree of solubility in the stomach which
+those substances possess with which the mercury is combined.
+
+The mercurial pills affect the guts less than many other preparations of
+this metal. This indeed might be inferred from considering that the
+mercury is here in a very mild state.
+
+From the use of mercurial pills, mercury may be introduced into the
+system in very considerable quantities. But, as in this form it is not
+readily discharged by the different emunctories, it is apt to be
+accumulated in a greater quantity than is requisite for slight cases. In
+these, therefore, the pills are not so advisable as some other
+preparations. But, where the alimentary canal can bear mercury with
+ease, the mercurial pills are perhaps preferable to any other form, for
+those obstinate cases where it is requisite, that a considerable
+quantity of the medicine in an active state should be introduced into
+the system. And they are particularly proper in those cases which are
+only to be overcome by a gradual and long continued use of mercury.
+
+To the forms of exhibiting mercury which have already been mentioned,
+those lately introduced by Mr Plenck of Vienna may properly be
+subjoined. Of the various preparations which he has proposed, what he
+seems chiefly to have used himself, and what has been principally
+employed here, is his simple mercurial solution. What is to be said,
+then, concerning his preparations, as they are all very similar in their
+nature, may be confined to this form.
+
+This gummous solution is, in the table of mercurials, reduced to the
+same general head with the two preparations last treated of; the mercury
+in this case likewise being rendered active by division from triture.
+Although the use of this preparation is but a late proposal, yet, since
+its introduction, it has been a good deal employed, and the facts which
+may be had with regard to it cannot be alledged to be few. That general
+observations, however, may, with justice, be made, numerous facts are
+requisite; and perhaps what can as yet be had on this subject are still
+an insufficient foundation for any certain conclusions.
+
+It may, however, with regard to this medicine, be confidently asserted,
+that the opinions upon which its superior efficacy is founded are
+without foundation. It is a mistake to suppose, that any peculiar
+affinity, or specific elective attraction, takes place betwixt mercury
+and vegetable mucilage. And mercury with gum, as well as in other forms,
+if, from triture, it be rendered sufficiently active, and if it be
+introduced into the system in sufficient quantity, will also excite
+salivation. This preparation, then, is still to be considered as, in a
+great measure, on the same footing with the two others already
+mentioned.
+
+But, united with vegetable mucilage, mercury seems to act less upon the
+intestines than the mercurial pill. This is probably to be referred to
+the viscidity of the substance with which the mercury is here combined.
+Vegetable gum possesses a remarkable power of sheathing and defending
+those parts to which it is applied against acrimony of any kind.
+
+This preparation, taken in what would seem an equal proportion with the
+mercurial pill, shows a less powerful action on the system, both in its
+effects on the excretions, and in its influence on the morbid symptoms.
+This diminution of action may perhaps, in some degree, be accounted for
+from the mercury being less readily absorbed into the system, after
+entering the alimentary canal, in consequence of the viscidity of the
+gum with which it is united. But as vegetable mucilage, when taken by
+itself, is observed to diminish the action of mercury, in whatever way
+it be introduced into the system, this effect must be principally
+accounted for from some other cause. Probably it depends upon the
+influence of the mucilage, after having entered the system, in defending
+the excretories against the violence of the stimulus from the mercury.
+
+This form may, upon the whole, be esteemed, although not a powerful,
+yet, in many cases, an useful preparation. It is chiefly preferable to
+other mercurials in those recent cases of _lues venerea_ where a weak
+preparation will answer the purpose; and where, at the same time, it
+seems most adviseable that the mercury should be slowly introduced into
+the system.
+
+The three preparations of mercury which have already been treated of,
+when compared with many others, may be esteemed mild. There are a
+different set, which, in opposition to these, may be termed _acrid_. Of
+the acrid preparations, not a few have likewise been used in the cure of
+_lues venerea_, and for this purpose introduced into the system in
+different forms. To treat of all of these would not only be deviating
+from our first intended plan, but would lead to many unnecessary
+repetitions, and needless inquiries, with regard to medicines which are
+now by no means in common use. Calomel and corrosive sublimate may be
+esteemed the two extremes of the acrid preparations; the first being the
+mildest, the last the most stimulant, which is, in the present practice,
+ever used internally. These two are, at the same time, the acrid
+preparations which are perhaps most frequently employed in the cure of
+_lues venerea_. To treat of these therefore will be sufficient.
+
+Calomel, it has been observed, may be considered as the mildest of the
+saline preparations of mercury. In this preparation, the basis of which
+is the corrosive sublimate, the mercury is reduced to the form of a
+saline compound, by means of the muriatic acid. But it is afterwards
+rendered less acrid, from the addition of fresh mercury in repeated
+sublimations. It has by many been esteemed the most useful of the
+mercurial preparations, not less for other purposes for which mercury
+may be employed than for the cure of the venereal disease. The good
+effects which may be obtained from its use in this complaint are
+confirmed by undoubted experience. And, when it is introduced into the
+system, there can be no question with regard to its efficacy in
+destroying the venereal virus.
+
+Calomel acts as a more general stimulant in the system than the milder
+preparations of mercury. And it discharges itself by the different
+excretories, when present in the mass of circulating fluids, in no very
+considerable quantity. Hence, it can be less accumulated in the system
+than the other preparations formerly mentioned. To this circumstance it
+is probably owing, that it less frequently excites salivation than these
+do. If, indeed, it be given in large doses frequently repeated, and does
+not at the same time affect the intestinal canal, it will excite
+salivation. From this, it may be concluded, that then the active mercury
+is present in the system in a very considerable quantity. But, when in
+this way, even such an accumulation can be obtained, it is to be
+considered only as on the same footing with the milder mercurial
+preparations, in those constitutions which are readily salivated. Here,
+therefore, as in habits naturally disposed to salivation, the presence
+of any quantity of mercury in the system will be very transient, and a
+salivation occurring will often frustrate the cure to be expected from
+it.
+
+Calomel, from its general stimulant power, may readily be supposed to
+affect the intestines more considerably than the milder mercurial
+preparations; and, in fact, it is found, that, in many cases, it much
+more readily excites looseness than they do. From this circumstance, it
+can be less easily introduced into the system, especially if the
+alimentary canal possess uncommon irritability.
+
+If these assertions with regard to this mercurial preparation be well
+founded, it will be easy to determine in what cases calomel is
+preferable to other mercurials, and in what it is to be considered as
+less proper. It cannot be considered as well adapted for those
+inveterate and obstinate cases in which a long and gradual use of
+mercury is requisite, and to overcome which it is necessary that a
+considerable quantity of mercury should be accumulated in the
+circulating system. On the other hand, if the intestines are not very
+irritable, it will be particularly serviceable, in many recent cases, in
+which a speedy action of mercury is adviseable; and, in those where the
+venereal virus has not yet made its way into the circulating system, but
+is detained in the lymphatic, or in the mucous glands. From its sudden
+evacuant power, it may likewise be of great service where mercurials in
+the venereal disease are intended to be conjoined with an antiphlogistic
+course, or to make a part of it.
+
+What has been said of calomel may be considered as sufficient, with
+regard to the milder part of the saline preparations. It now only
+remains, then, that some observations should be offered on corrosive
+sublimate, which is the most acrid of these that is usually employed
+internally.
+
+Corrosive sublimate, it has already been observed, is the basis of the
+preparation last treated of. But, in this preparation, the mercury, from
+the proportion of muriatic acid which is united with it, is in a very
+acrid state. When taken in substance, even in a very inconsiderable
+quantity, it proves a virulent poison to the human frame. To this
+circumstance it was probably owing, that, for a very long time, it was
+used only for external purposes, and even then, from its high stimulant
+power, not without the greatest caution. But the many inconveniencies
+attending salivation, which was at the same time found to be by no means
+absolutely necessary to a cure, induced practitioners to make trial of
+preparations less apt to have that effect, than those which had formerly
+been used. As every preparation of mercury, in proportion to its
+acrimony, has a greater tendency to act upon the surface, and less to
+affect the salivary glands, it is not surprising that corrosive
+sublimate should at length have been proposed.
+
+The violence with which corrosive sublimate acts, has always been a
+sufficient reason to prevent its being thrown in, either in large
+quantities, or in substance. Of late years, however, a weak solution in
+ardent spirits has been recommended as an efficacious remedy, and often
+used with success. But, as it has been found that the mercury is apt to
+precipitate from this menstruum, if the solution is kept for any time,
+water has often been substituted to the spirits. Water is perhaps, in
+every case, even by itself, a better menstruum than spirits; but,
+besides this, it may be much improved, from having its solvent power
+increased by the addition of sal ammoniac. By this means, the
+precipitation of the mercury may be, in a great measure, if not totally,
+prevented.
+
+Corrosive sublimate, when introduced into the system, is, as well as
+calomel, very universally stimulant. But its chief tendency, unless
+prevented by some accident, is to operate upon the surface. For the most
+part, it powerfully excites diaphoresis, and in this way is speedily
+evacuated from the system. But, if there is in the patient’s
+constitution a want of disposition to diaphoresis, or if the discharge
+by the surface is suddenly checked by the application of cold, it
+frequently acts upon the salivary glands, inducing salivation.
+
+From the success with which the use of corrosive sublimate has been
+attended, it cannot be doubted that it is highly active in destroying
+the venereal virus. And, either from the circumstance of its entering
+the system more readily, or from its greater activity, it produces an
+equal effect, in the cure of _lues venerea_, to what arises from most
+other mercurials, even when it is employed in a less considerable
+quantity.
+
+This preparation, in proportion to its superior acrimony, is more apt to
+affect the bowels than any of the other mercurials already treated of.
+This circumstance is, in many cases, an unsurmountable objection to its
+use. From its high stimulant power, it can never be lodged in the system
+in any considerable quantity. Notwithstanding its activity, therefore,
+it is not well fitted to eradicate obstinate complaints. From its
+influence upon the alimentary canal, its use cannot with safety be
+continued for any considerable length of time. It is not, therefore,
+well adapted for those cases which require a long and gradual use of
+mercury.
+
+As this is a form in which a quantity of very active mercury may
+suddenly be introduced into the body, it may be supposed well adapted
+for producing some alleviation in urgent symptoms. From the tendency it
+has to act upon the surface of the body, it may be presumed to be a
+preparation of great utility against cutaneous affections from a
+venereal cause. If recourse is had to the examination of facts, it will
+be found, that the conclusion, which would here be drawn from reasoning,
+is confirmed by experience; and that, in reality, the solution of
+corrosive sublimate may be employed with peculiar advantage in both
+these cases.
+
+Thus much with regard to calomel and corrosive sublimate. Many other
+preparations, of an intermediate degree of acrimony between these, such,
+for example, as the _mercurius calcinatus_, are likewise in common use.
+But the cases to which we would be inclined to suppose these best
+adapted, may easily be learned from what has been said of the two
+extremes.
+
+
+------------------------------------------------------------------------
+
+
+
+
+                               CHAP. VII.
+
+  _Of the Cautions to be observed in the Employment of Mercury in Lues
+    Venerea._
+
+
+FEW medicines, from which any considerable advantages can be obtained in
+the cure of diseases, are of such a nature that they can, in every
+circumstance, be exhibited without any inconveniency. On the contrary,
+the greater activity any medicine possesses, the more reason there is to
+apprehend disagreeable accidents from its being improperly used. When
+active medicines, therefore, are employed, it becomes, in every case, an
+object of particular attention, while we endeavour to obtain all the
+good effects which may be derived from them, to avoid those bad
+consequences which they are most apt to induce.
+
+These ends are to be obtained only by careful attention to many
+circumstances. Of the accidents most to be guarded against, not a few
+are, in a great measure, the natural consequence of the medicine itself.
+Although, in some constitutions, and with particular treatment, they
+will arise more readily than in others; yet they may happen in any
+constitution, and with any treatment. As occurring, therefore, most
+generally, they deservedly claim to be first considered.
+
+It has already been observed, that every medicine, in proportion to its
+activity, is more apt to be followed by consequences not always to be
+wished for. It may therefore be laid down as a general rule, that active
+medicines should be employed only in cases where they are absolutely
+requisite. If this rule is proper with regard to any medicine, it must
+be so of mercury.
+
+It is however but too true, that mercury is frequently employed in cases
+where its use might readily be dispensed with. And this holds not more
+of its employment in other diseases, than in some venereal complaints.
+When, indeed, the venereal virus has actually entered the system,
+perhaps a cure, by means of mercury, is in every case at least to be
+attempted. And a cure without it, by any medicine at present in use, is
+seldom, if ever, to be depended on. But, where the matter occasioning
+the affection is still in a state of topical application only, as
+happens in the case of gonorrhoea, the introduction of mercury into the
+system is totally unnecessary. And a cure may be effected by other
+means, not only with greater safety and ease, but likewise with more
+expedition.
+
+Mercury, in an active state, when introduced into the system, has, in
+every case, more or less a tendency to affect the intestines. This
+action, while it seldom co-operates with its other effects in curing the
+disease, frequently produces the most mischievous consequences in the
+constitution. When it occurs, therefore, it is but natural to think of
+checking it. This may often be successfully done, by the employment of
+means fitted to promote a determination to the surface. Where this
+method fails, it may frequently be obviated, by giving opium at the same
+time with the mercurial.
+
+Another consequence which often arises from active mercury, when
+introduced into the system in any considerable quantity, is its exciting
+salivation. This discharge is attended with numberless inconveniencies,
+and it is at the same time no farther necessary to a cure, than as it is
+a proof of the quantity of active mercury which is in the system. But,
+where mercury in the greatest quantity is requisite to a cure, to keep
+the patient upon the verge of a salivation is all that is necessary.
+Salivation, then, on its first appearance, is always to be restrained.
+For this purpose, it is necessary, that the use of the medicine should
+for a little be intermitted. Where that is insufficient, determination
+to the surface, by means of diluent diaphoretics, has a tendency to
+restrain this discharge as well as the former, and may often, for this
+purpose, be used with advantage. But, in general, salivation will be
+most successfully checked, by increasing the determination to the
+intestines by means of cooling purgatives.
+
+As well as other discharges, that by sweat may likewise, from the use of
+mercurials, take place in a degree not to be wished for. Although this
+discharge is attended with much less inconvenience than either of the
+two already mentioned, yet it may often be proper to restrain it. This
+may be done by keeping the patient more thinly clothed, and in a cooler
+temperature than before, and by a cautious exposure to open air.
+
+The accidents already enumerated are the most common ones which can be
+considered as depending on the nature of the medicine itself. But,
+besides these, a variety of others, although less frequently occurring,
+might likewise be referred to this source. Independent of that affection
+of the gums and mouth, which, for the most part, is the forerunner of
+salivation, it sometimes happens, even where no particular exposure to
+cold can be blamed as a cause, that the whole head is remarkably
+swelled. Where this takes place, it is in general the consequence of
+throwing in the mercury too suddenly, and may best be avoided by a more
+sparing and gradual use of the medicine.
+
+From continuing the use of mercury for a considerable time, in some
+cases, febrile complaints will arise. These, if they admit of a cure,
+while the use of the mercury is continued, will most readily be overcome
+by the means commonly employed for the relief of hectic fever. But it
+seldom happens, that these symptoms can be removed without omitting the
+use of the mercury. In such cases, therefore, even although from the
+remaining appearance of a venereal taint, the farther continuance of
+mercury would seem adviseable, yet, when these febrile symptoms
+supervene, it is for the most part necessary, to trust the cure to other
+means.
+
+The action of every medicine, and consequently the circumstances
+claiming attention in its employment, are considerably varied by
+peculiarities in the habit in which it is given. What, in this respect,
+therefore, is chiefly to be attended to in the use of mercury, falls
+next to be considered.
+
+Although it has been observed, that the accidents already mentioned may
+happen in any habit; yet it is certain, that in some particular habits,
+they will much more readily take place than in others. Where
+constitutions, therefore, naturally exposed to these accidents do occur,
+it is necessary, that the means to be employed for preventing the
+inconveniencies which would arise from thence, should be had recourse
+to, more early than in patients of a different constitution.
+
+Mercury, when introduced into the system, has always a tendency to
+produce evacuation. At particular periods of life, evacuation is less
+easily born than at others. Hence, the long continued use of this
+medicine, or its employment in a considerable quantity, are always
+particularly to be avoided with people much advanced in life, or with
+infants.
+
+During infancy, mercury may likewise produce inconvenience, from its
+stimulant power. On this account, the more acrid preparations are,
+during that period of life, to be avoided. If, however, their use should
+be esteemed necessary, they are to be employed only in small doses.
+
+Stimulants are not more dangerous in irritable habits than they are in
+plethoric ones; or in those in whom the force of the circulating fluids
+is very great. On this account, with patients in the vigour of life,
+evacuation is often requisite previous to the use of mercury.
+
+These observations suggested by the age of patients using mercury, would
+naturally lead to the consideration of such as result from sex. From the
+laws of the male system, few, if any directions which will not fall
+under other heads, are peculiar to men; but, in the female œconomy,
+there are many circumstances which require particular notice.
+
+Mercury promotes menstruation, and is apt to produce it in an excessive
+degree. On this account, it is always proper to intermit its use for
+some time previous to the flow of the menses, and during the continuance
+of this discharge. From the influence it has upon this evacuation, its
+use to any considerable degree during the term of pregnancy, is totally
+inadmissible. When mercury is used during nursing, it has such an effect
+upon the milk, that a child suckled by a woman who takes it, may by that
+means be cured of the venereal disease.
+
+In different diseases, where the child is healthful, the influence of
+mercury on the milk would be an objection to its use, during nursing,
+for any particular complaints of the woman. But, where a nurse labours
+under the venereal disease, since in this situation she can never be
+supposed to suckle a child not likewise infected, as the remedy is
+equally necessary for both, there is no reason for delaying to attempt a
+cure during that period.
+
+The different temperaments of patients, as far as they are marked by
+obvious signs, and have been distinguished by medical writers, afford
+little ground for particular observations with regard to the use of
+mercury. What has been said with regard to the prime of life, holds more
+especially with those of a sanguine habit; and the observation made
+concerning old age, in some degree, applies to the melancholic. But,
+with all temperaments, mercurials may in general be used without any
+peculiar preparation; and, during their use in such cases, no particular
+cautions are necessary which will not be suggested by other
+circumstances.
+
+But, although it is necessary to say little with regard to temperaments
+obviously distinguishable; yet it is well known, that very great
+varieties in the operation of mercury arise from peculiarities in
+constitution. And this happens where there are no particular marks
+indicating such a singularity. Some constitutions are affected by
+mercury with very great ease, whether as acting on the alimentary canal,
+or as entering the system, and exerting its effects there. In cases,
+therefore, where the constitution of the patient is not previously
+known, some degree of preference is, on this account, due to the mildest
+forms. And, in those cases for which the more acrid ones seem best
+fitted, it is necessary to begin with the employment of small doses;
+and, if the action of these shall be found to be too violent, to have
+recourse to the different means of taking off sensibility. The most
+immediate, and perhaps the most effectual, means of removing or
+diminishing sensibility, is by the use of opium. But the same end may,
+in many cases, be obtained with equal ease, and less hazard, from the
+use of emollient and mild diluents; such as decoctions and emulsions,
+abounding with vegetable mucilage.
+
+While some constitutions are easily affected by mercury, others, on the
+contrary, are acted upon with difficulty only. With these last, after
+the use of even a very considerable quantity of mercury, little, or
+perhaps no obvious action on the system can be observed. This is to be
+ascribed to one of two causes; either it arises from the mercury’s never
+having entered the system; or from its being accumulated there without
+proving a stimulus to any secretion. In the latter of these cases, all
+the effects wanted from the use of mercury may be obtained with greater
+ease than in any other.
+
+The only thing, then, which is necessary in such cases is to proceed
+with caution, and not to throw into the system an unnecessary quantity
+of mercury, by which the patient may be exposed to those inconveniencies
+which, in a greater or less degree, accompany every increased excretion.
+
+But it is not always an easy matter to distinguish betwixt this and the
+case first mentioned, in which it was alledged, that the want of obvious
+action arose from the mercury’s not having entered the system. When this
+happens, a gradual and slow procedure would not only be losing time to
+the patient, but allowing the disease to gain ground. The only certain
+mark for distinguishing betwixt these two cases, is the change produced
+in the morbid symptoms. In the one, the disease remains either unaltered
+or increased; in the other, all the symptoms are manifestly changed for
+the better.
+
+If, from this test, it appear, that the want of obvious action after the
+use of mercury proceeds from its not having entered the system, a very
+different treatment is necessary from what was proposed in the former
+case. Here it is requisite, without loss of time, to have recourse
+either to a different preparation of mercury from what was formerly
+used, or to a different method of introducing the medicine.
+
+The circumstances already mentioned as claiming attention, regard
+peculiarities of constitution where no other disease except _lues
+venerea_ can properly be said to exist. But it often happens, that the
+venereal disease exists in patients who are, at the same time, affected
+with other complaints. This affords a very extensive field for
+particulars to be attended to in the employment of mercury. To treat of
+the variety of diseases which may, in any degree, be affected by it,
+would be an almost endless task. In some, the mercury will be of
+service, as tending to a cure; many others, on the contrary, are by its
+use rendered evidently worse. Its influence in aggravating complaints
+has been said to hold, among a variety of other diseases, in cases of
+epilepsy, gout, and rheumatism. But on this subject attention is chiefly
+requisite to scurvy and hæmoptoe.
+
+In scurvy, mercury very generally occasions a quicker progress of all
+the complaints. Hence, when, in such circumstances, it easily can be
+avoided, it is a medicine never to be employed. Cases, however, will
+occur, in which, although scurvy actually does exist, the use of mercury
+will be adviseable. In such cases, if the mercury is used slowly and
+cautiously, a cure of the venereal symptoms may be obtained, without
+rendering the scorbutic complaints much worse; but, if the mercury be
+suddenly thrown in, disagreeable symptoms will often arise. Of these,
+the principal are fœtid gangrenous ulcers, affecting the inside of the
+cheeks, the tongue, the palate, or the gums. It may farther be observed,
+that, although these are in general the consequences of the imprudent
+use of mercury; yet they will sometimes arise where it has been used
+even with the greatest caution. When they do happen, let their cause be
+what it will, there is, in every case, so much danger as to make it
+necessary to discontinue the use of mercury. Recourse is then first to
+be had to the employment of such means as are best calculated for the
+removal of scurvy. If this can once be effected, the removal of the
+venereal complaints may be attempted, either by the employment of other
+means of cure, or even by resuming the use of mercury.
+
+Another complaint, which may be complicated with the venereal disease,
+and during the existence of which particular caution is necessary in the
+use of mercury, is hæmoptoe. That habit of body which particularly
+disposes to hæmoptoe is well known, and, even where the disease has
+never existed, can be detected by obvious marks. Many patients, after
+having been once attacked with hæmoptoe, are seemingly cured, and have
+every appearance of being restored to perfect health. Both these
+situations may be considered as, in a great measure, the same: In
+either, hæmoptoe will be induced from very trifling causes. Among
+others, the use of mercury has frequently been observed to have this
+effect. In all such cases, then, it is necessary that mercury should be
+used in small doses, and introduced slowly into the system.
+
+Notwithstanding every precaution, it sometimes will happen, that
+hæmoptoe will arise from the use of mercury. When this is the case, it
+is necessary not only to abstain from the use of the medicine, but to
+have recourse to those means which are found to be most effectual in the
+cure of so dangerous a symptom. For this purpose, bleeding,
+refrigerants, and astringents, must be employed, as the circumstances of
+the patient direct. While the hæmoptoe continues, the use of mercury is
+not to be attempted. And although, by these means, it should happen to
+be removed, this medicine, unless in cases where the venereal symptoms
+are very urgent, is not to be ventured upon for some time, even in the
+most gentle forms.
+
+We have now pointed out the principal circumstances claiming attention
+in the employment of mercurials, which depend either on the nature of
+the medicine itself, or on the condition of the patient in whom it is
+employed. It now only remains, then, to offer some observations with
+regard to the necessary regimen. What is to be said on this subject will
+respect either diet, temperature, or exercise; each of which may be
+considered in order.
+
+It has been alledged, that mercury operates in the cure of _lues
+venerea_ by acting as an antidote to the virus which produces the
+disease. If this is the case, it is difficult to see how any particular
+diet can have the least tendency to promote its operation. In adapting
+the diet to the medicine, then, the principal thing to be attended to,
+in this case, is, to order such a one as will most readily counteract
+those accidents which the medicine is apt to induce. The accidents
+chiefly to be guarded against, from the use of mercury, are those
+arising from its stimulant power. In diet, therefore, it is in the first
+place requisite, that every thing stimulant should be avoided. And then,
+if it can be done, such substances are to be employed as, when taken
+into the system, have a tendency to counteract a stimulus.
+
+From these general principles, it is easy to see what diet is in this
+case to be recommended. The use of butcher-meat, and indeed of animal
+food in general, of wine, and of spirits of all kinds, are, from their
+stimulant quality, if not to be totally forbid, at least to be used
+sparingly. Food of every kind much salted, or highly seasoned, is to be
+discharged. And all such substances as would act upon the mercury, while
+yet in the stomach, are particularly to be avoided. The diet should be
+of the mildest and blandest nature, consisting chiefly of farinaceous,
+and mucilaginous vegetables, and of milk. The drink should be such as
+will quench thirst and dilute, if at the same time the patient will take
+what will act likewise as a demulcent, it is often preferable to such
+fluids as will answer only the two first intentions. For these purposes,
+water with toast, milk and water, barley-water, mucilaginous emulsions,
+or the like, may be employed with advantage.
+
+The diet here pointed out as most suited to the nature of the medicine,
+is likewise best adapted to that of the complaint. As the venereal
+disease depends upon the introduction of a peculiar virulent matter into
+the system, it will scarce be imagined, that any species of diet can
+have great influence in the cure. But, when it is considered, that the
+manner in which this matter acts, is, in the first instance, by exciting
+inflammation, it may readily be conceived, that, from a particular diet,
+its action may be rendered less violent than it would be otherwise. As,
+for this purpose, the antiphlogistic regimen is unquestionably the most
+proper, it is only necessary to add to what has already been observed,
+that the diet above recommended should be used sparingly.
+
+It has very universally been esteemed necessary, that those who use
+mercury should be kept in a warm temperature. And it is an undoubted
+fact, that no medicine renders the body more susceptible of injury from
+cold than mercury. In consequence of a sudden exposure to cold during
+the use of this medicine, the most fatal accidents have been observed to
+arise. He therefore who has taken mercury cannot be too cautious in
+guarding against this extreme.
+
+But, to avoid the inconvenience which may be produced by cold, there is
+no necessity for running into the opposite extreme. Confinement to a
+very warm chamber, and the use of a number of flannels, produce a
+temperature which, although not so dangerous as cold, is equally
+improper. The cure of _lues venerea_, if not frustrated by the
+discharges thus promoted, is often retarded, and less easily obtained
+than it would otherwise be. After a patient has for some time been kept
+warm, a sudden exposure to cold is hurtful, because the parts are unable
+to bear the stimulus which it occasions. The same effect does not follow
+upon a change from a cold to a hot temperature, not only because this is
+seldom so sudden, but because it likewise promotes many different
+evacuations.
+
+There appears then an evident cause why the one extreme is more
+dangerous than the other. But the inconvenience from either is a
+sufficient objection to it. What is required of temperature during the
+use of mercury, is, that it be such as to support a proper balance
+betwixt the different excretions. To obtain this, a temperature
+inclining to neither extreme is in general the most proper. When,
+however, there appears in the constitution a peculiar disposition to the
+augmentation of any excretion, the temperature in which the patient is
+kept should incline to the extreme least apt to encourage it.
+
+From what has been said of temperature, it will appear, that it is not
+necessary in every case, and at every season of the year, that those who
+take mercury should be confined to a chamber. But, when the
+circumstances are such as to admit of a patient’s going abroad, all
+violent exercise is to be avoided. From violent exercise, the patient is
+liable to the same inconveniencies as from a hot temperature, and
+frequently to all the dangers resulting from a sudden exposure to cold.
+Of exercise, as of temperature, it may be observed, that it should be so
+regulated, as to support a proper balance among the different
+excretions. For this purpose, when the patient is abroad, moderate
+exercise is in general requisite. For the same reason also, even when
+the patient is confined to his chamber, such moderate exercise as can
+there be obtained, is for the most part proper.
+
+
+                                +FINIS+.
+
+
+------------------------------------------------------------------------
+
+
+                          _Lately Published_,
+
+                         By the same +AUTHOR+,
+
+                         In one Volume, OCTAVO,
+
+                        PRICE in Boards, 4 _sh._
+
+
+
+                               +ELEMENTS+
+
+                                  +OF+
+
+                            +THERAPEUTICS+.
+
+
+
+IN this Treatise, the Author endeavours to point out the means by which
+the different classes of medicines operate in the cure of diseases; the
+indications they are fitted to fulfil; the cautions to be observed in
+their employment; and the morbid conditions forbidding their use.
+
+
+------------------------------------------------------------------------
+
+
+
+
+ ● Transcriber’s Notes:
+    ○ Missing or obscured punctuation was silently corrected.
+    ○ Typographical errors were silently corrected.
+    ○ Inconsistent spelling and hyphenation were made consistent only
+      when a predominant form was found in this book.
+    ○ Text that:
+      was in italics is enclosed by underscores (_italics_);
+      was in bold by is enclosed by “equal” signs (=bold=)
+      had extra character spacing by “plus” signs (+stretched+).
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK OBSERVATIONS ON THE OPERATION AND USE OF MERCURY IN THE VENEREAL DISEASE ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

@@ -1,0 +1,1530 @@
+﻿The Project Gutenberg eBook of A history of English poetry
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: A history of English poetry
+        an unpublished continuation
+
+Author: Thomas Warton
+
+Editor: Rodney M. Baine
+
+
+        
+Release date: September 6, 2010 [eBook #33658]
+                Most recently updated: January 6, 2021
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/33658
+
+Credits: Produced by David Starner, Josephine Paolucci and the
+        Online Distributed Proofreading Team at https://www.pgdp.net.
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK A HISTORY OF ENGLISH POETRY ***
+
+
+
+
+Produced by David Starner, Josephine Paolucci and the
+Online Distributed Proofreading Team at https://www.pgdp.net.
+
+
+
+
+
+
+
+The Augustan Reprint Society
+
+THOMAS WARTON
+
+_A History of English Poetry_: an Unpublished Continuation
+
+Edited, with an Introduction, by Rodney M. Baine
+
+Publication Number 39
+
+Los Angeles
+William Andrews Clark Memorial Library
+University of California
+1953
+
+GENERAL EDITORS
+
+H. RICHARD ARCHER, _Clark Memorial Library_
+RICHARD C. BOYS, _University of Michigan_
+RALPH COHEN, _University of California, Los Angeles_
+VINTON A. DEARING, _University of California, Los Angeles_
+
+ASSISTANT EDITOR
+
+W. EARL BRITTON, _University of Michigan_
+
+ADVISORY EDITORS
+
+EMMETT L. AVERY, _State College of Washington_
+BENJAMIN BOYCE, _Duke University_
+LOUIS BREDVOLD, _University of Michigan_
+JOHN BUTT, _King's College, University of Durham_
+JAMES L. CLIFFORD, _Columbia University_
+ARTHUR FRIEDMAN, _University of Chicago_
+EDWARD NILES HOOKER, _University of California, Los Angeles_
+LOUIS A. LANDA, _Princeton University_
+SAMUEL H. MONK, _University of Minnesota_
+EARNEST MOSSNER, _University of Texas_
+JAMES SUTHERLAND, _University College, London_
+H. T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+CORRESPONDING SECRETARY
+
+EDNA C. DAVIS, _Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+
+Among the unpublished papers of Thomas and Joseph Warton at Winchester
+College the most interesting and important item is undoubtedly a
+continuation of Thomas Warton's _History of English Poetry_. This
+continuation completes briefly the analysis of Elizabethan satire and
+discusses the Elizabethan sonnet. The discussion offers material of
+interest particularly for the bibliographer and the literary historian.
+The bibliographer, for example, will be intrigued by a statement of
+Thomas Warton that he had examined a copy of the _Sonnets_ published in
+1599--a decade before the accepted date of the first edition. The
+literary historian will be interested in, inter alia, unpublished
+information concerning the university career of Samuel Daniel and in the
+theory that Shakespeare's sonnets should be interpreted as if addressed
+by a woman to her lover.
+
+Critically appraised, Warton's treatment of the Elizabethan sonnet seems
+skimpy. To dismiss the sonnet in one third the amount of space devoted
+to Joseph Hall's _Virgidemiarum_ seems to betray a want of proportion.
+Perhaps even more damaging may seem the fact that Warton failed to
+mention more sonnet collections than he discussed. About twenty years
+later, in 1802, Joseph Ritson listed in his _Bibliographia Poetica_ the
+sonnet collections of Barnaby Barnes, Thomas Lodge, William Percy, and
+John Soowthern--all evidently unknown to Warton. But Warton was not
+particularly slipshod in his researches. In his immediately preceding
+section, on Elizabethan satire, he had stopped at 1600; and in the
+continuation he deliberately omitted the sonnet collections published
+after that date. Thus, though he had earlier in the _History_ (III, 264,
+n.) promised a discussion of Drayton, he omitted him here because his
+sonnets were continually being augmented until 1619. Two sixteenth
+century collections which Warton had mentioned earlier in the _History_
+(III, 402, n.) he failed to discuss here, William Smith's _Chloris_
+(1596) and Henry Lock's _Sundry Christian Passions, contayned in two
+hundred Sonnets_ (1593). Concerning Lock he had quoted significantly
+(IV, 8-9) from _The Return from Parnassus_: "'Locke and Hudson, sleep
+you quiet shavers among the shavings of the press, and let your books
+lie in some old nook amongst old boots and shoes, so you may avoid my
+censure.'" A collection which certainly did not need to avoid censure
+was Sir Philip Sidney's _Astrophel and Stella_; and for Warton's total
+neglect of Sidney's sonnets it seems difficult to account, for in this
+section on the sonnet Sidney as a poet would have been most aptly
+discussed. The _Astrophel and Stella_ was easily available in
+eighteenth-century editions of Sidney's works, and Warton admired the
+author. Both Thomas and Joseph Warton, however, venerated Sidney mainly
+for his _Arcadia_ and his _Apology for Poetry_. For Joseph Warton,
+Sidney was the prime English exhibit of great writers who have not, he
+thought, "been able to express themselves with beauty and propriety in
+the fetters of verse."[1] And Thomas Warton quoted evidently only once
+from Sidney's verse,[1] and then only by way of _England's
+Helicon_.[2] The omission of Sidney, then, is the glaring defect; of the
+dozen or so other Elizabethan sonnet collections which escaped Warton,
+most were absolutely or practically unknown, and none seem to have been
+available to him in the Bodleian or the British Museum.
+
+At the time of his death, on 21 May 1790, there were in print only
+eleven sheets,[3] or eighty-eight pages, of the fourth and final volume,
+which was scheduled to bring the history of English poetry down to the
+close of the seventeenth century. For four years after the publication
+of the third volume in 1781 Warton repeatedly promised to complete the
+work,[4] and a notice at the end of his edition of Milton's _Minor
+Poems_ advertised in 1785 the "speedy publication" of the fourth volume.
+But to his printer Warton evidently sent nothing beyond Section XLVIII.
+The present continuation was probably written during or shortly after
+1782: it contains no reference to any publication after William Hayley's
+_Essay on Epic Poetry_, which appeared in 1782; and according to Thomas
+Caldecott, Warton for the last seven years of his life discontinued work
+upon the _History_.[5]
+
+The notes which Thomas Warton had made for the completion of the
+_History_ were upon his death commandeered by his brother, Joseph, at
+that time headmaster of Winchester College. Joseph Warton made some
+halfhearted efforts to get on with the volume,[6] but neither Winchester
+nor Wickham, whither he retired in 1793, was a proper place in which to
+carry on the necessary research. Moreover he was much more interested in
+editing Pope and Dryden; and securing advantageous contracts to edit
+these poets whom he knew well, he let the _History_ slide.
+
+Joseph Warton appears, however, to have touched up the present
+continuation, for a few expansions seem to be in his script rather than
+in his brother's. It is difficult to be positive in the discrimination
+of hands here, as Thomas Warton's hand in this manuscript is quite
+irregular. Pens of varying thicknesses were used; black ink was used for
+the text and red ink for footnotes, and one note (16) was pencilled.
+Moreover, certain passages appear to have been written during periods of
+marked infirmity or haste and are legible only with difficulty if at
+all. In any case, those additions which were presumably made by Joseph
+Warton merely expand the original version; they do not alter or modify
+any of Thomas Warton's statements.
+
+In the text of the present edition the expansions which appear to be in
+Joseph Warton's hand are placed within parentheses, which were not used
+for punctuation in the text of the manuscript itself. Because of the
+difficulties of reproduction, all small capitals have been translated
+into lover case italics.
+
+This continuation, discovered by the editor among the Warton papers in
+the Moberly Library at Winchester College, is here published with the
+kind permission of the Right Honorable Harold T. Baker and Sir George
+Henry Gates, retired and present Wardens of Winchester College, and of
+the Fellows of the College. The editor is indebted also to the Reverend
+Mr. J. d'E. Firth, Assistant Master and Chaplain; and Mr. C. E. R.
+Claribut and Mr. J. M. G. Blakiston, past and present Assistant Fellows'
+Librarians. The Richmond Area University Center contributed a generous
+grant-in-aid.
+
+Rodney M. Baine
+
+The University of Richmond
+
+Richmond, Virginia
+
+
+
+
+NOTES TO THE INTRODUCTION
+
+[1] Joseph Warton, _An Essay on the Writings and Genius of Pope_
+(London, 1756-1782), I, 270-271.
+
+[2] John Milton, _Poems upon Several Occasions_ (London, 1785), ed.
+Thomas Warton, p. 331, n.
+
+[3] Nineteenth-century editions of the _History_ give the false
+impression that the eight sheets were prepared from manuscript material
+left at Thomas Warton's death, but these sheets were certainly printed
+before Thomas died, and probably in the early 1780's. See John Nichols,
+_Literary Anecdotes of the Eighteenth Century_ (London, 1812-1816), III,
+702-703. They contain no reference postdating that to Isaac Reed's
+revised edition of Robert Dodsley's _Collection of Old Plays_, published
+in 1780.
+
+[4] Thomas Warton to Richard Price, 13 October 1781, in Thomas Warton,
+_Poetical Works_, ed. Richard Mant (Oxford, 1802), I, lxxviii; Daniel
+Prince to Richard Gough, 4 August 1783, in Nichols, _Literary
+Anecdotes_, III, 702.
+
+[5] Thomas Caldecott to Bishop Percy, 21 March 1803, in Nichols,
+_Illustrations of the Literary History of the Eighteenth Century_
+(London, 1817-1858), VIII, 372.
+
+[6] Joseph Warton to William Hayley, 12 March 1792, in John Wooll,
+_Biographical Memoirs of the late Revd. Joseph Warton_ (London, 1806),
+p. 404.
+
+
+
+
+A HISTORY OF ENGLISH POETRY: AN UNPUBLISHED CONTINUATION
+
+
+(In enumerating so many of these petty Epigrammatists, I may have been
+perhaps too prolix,--but I did it to shew the taste & turn of writing at
+this time; & now proceed to observe, that, in the year, 1614,)[1] the
+vogue which satire had acquired from Hall and Marston, probably
+encouraged Barten Holiday of Christ-Church in Oxford, to translate
+Persius, when he was scarcely twenty years of age. The first edition is
+dated 1616. This version had four editions from its publication to the
+year 1673 inclusive, notwithstanding the versification is uncommonly
+scabrous. The success of his Persius induced Holiday to translate
+Juvenal, a clearer & more translatable satirist. But both versions, as
+Dryden has justly observed,[2] were written for scholars, and not for
+the world: and by treading on the heels of his originals, he seems to
+have hurt them by too near an approach. He seized the meaning but not
+the spirit of his authors. Holiday, however, who was afterwards
+graduated in divinity and promoted to an archdeaconry, wrote a comedy
+called the _Marriage of the Arts_, acted before the court at
+Woodstock-palace, which was even too grave and scholastic for king James
+the first.
+
+I close my prolix review of these pieces by remarking, that as our old
+plays have been assembled and exhibited to the public in one uniform
+view,[3] so a collection of our old satires and epigrams would be a
+curious and useful publication. Even the dull and inelegant productions,
+of a remote period which have real Life for their theme, become valuable
+and important by preserving authentic pictures of antient popular
+manners: by delineating the gradations of vice and folly, they furnish
+new speculation to the moral historian, and at least contribute to the
+illustration of writers of greater consequence.
+
+
+_Sect._ XLIX.
+
+The _Sonnet_, together with the _Ottava Rima_, seems to have been the
+invention of the Provincial bards, but to have been reduced to its
+present rhythmical prosody by some of the earliest Italian poets. It is
+a short monody, or Ode of one stanza containing fourteen lines, with
+uncommonly frequent returns of rhymes more or less combined. But the
+disposition of the rhymes has been sometimes varied according to the
+caprice or the convenience of the writer. There is a sonnet of the
+regular construction in the Provincial dialect, written by Guglielmo de
+gli Amalricchi, on Robert king of Naples who died in 1321.[4] But the
+Italian language affords earlier examples. (The multitude of identical
+cadences renders it a more easy and proper metre to use in Italian than
+in English verse.)
+
+No species of verse appears to have been more eagerly and universally
+cultivated by the Italian poets, from the fourteenth century to the
+present times. Even the gravest of their epic and tragic writers have
+occasionally sported In these lighter bays. (A long list of them is
+given in the beginning of the fourth Volume of Quadrios History of
+Italian Poetry.) But perhaps the most elegant Italian sonnets are yet to
+be found in Dante. Petrarch's sonnets are too learned (metaphysical) and
+refined. Of Dante's compositions in this style I cannot give a better
+idea, than in (the ingenious) Mr. Hayley's happy translation of Dante's
+beautiful sonnet to his friend Guido Calvacanti [sic], written in his
+youth, and probably before the year 1300.
+
+    Henry! I wish that you, and Charles, and I,
+      By some sweet spell within a bark were plac'd,
+      A gallant bark with magic virtue grac'd,
+      Swift at our will with every wind to fly:
+
+    So that no changes of the shifting sky
+      No stormy terrors of the watery waste,
+      Might bar our course, but heighten still our taste
+      Of sprightly joy, and of our social tie:
+
+    Then, that my Lucy, Lucy fair and free,
+      With those soft nymphs on whom your souls are bent,
+      The kind magician might to us convey,
+
+    To talk of love throughout the livelong day:
+      And that each fair might be as well content
+      As I in truth believe our hearts would be.[5]
+
+We have before seen, that the _Sonnet_ was imported from Italy into
+English poetry, by lord Surrey and Wyat, about the middle of the
+sixteenth century. But it does not seem to have flourished in its
+legitimate form, till towards the close of the reign of queen Elisabeth.
+What I call the legitimate form, in which it now appeared, was not
+always free from licentious innovations in the rythmical arrangement.
+
+To omit Googe, Tuberville [sic], Gascoigne, and some other petty writers
+who have interspersed their miscellanies with a few sonnets, and who
+will be considered under another class, our first professed author in
+this mode of composition, after Surrey and Wyat, is Samuel Daniel. His
+_Sonnets_ called _Delia_, together with his _Complaint of Rosamond_,
+were printed for Simon Waterson, in 1591.[6] It was hence that the name
+of Delia, suggested to Daniel by Tibullus, has been perpetuated in the
+song of the lover as the name of a mistress. These pieces are dedicated
+to Sir Philip Sydney's sister, the general patroness, Mary countess of
+Pembroke. But Daniel had been her preceptor.[7] It is not said in
+Daniel's Life, that he travelled. His forty-eighth sonnet is said to
+have been "made at the authors being in Italie."[8] Delia does not
+appear to have been transcendently cruel, nor were his sufferings
+attended with any very violent paroxysms of despair. His style and his
+expressions have a coldness proportioned to his passion. Yet as he does
+not weep seas of tears, nor utter sighs of fire, he has the merit of
+avoiding the affected allusions and hyperbolical exaggerations of his
+brethren. I cannot in the mean time, with all these concessions in his
+favour, give him the praise of elegant sentiment, true tenderness, and
+natural pathos. He has, however, a vigour of diction, and a volubility
+of verse, which cover many defects, and are not often equalled by his
+contemporaries. I suspect his sonnets were popular. They are commended,
+by the author of the _Return from Parnassus_, in a high strain of
+panegyric.
+
+    Sweet honey-dropping Daniel doth wage
+    War with the proudest big _Italian_
+    That melts his heart in sugar'd sonnetting.[9]
+
+But I do not think they are either very sweet, or much tinctured with
+the Italian manner. The following is one of the best; which I the rather
+chuse to recite, as it exemplifies his mode of compliment, and contains
+the writer's opinion of Spenser's use of obsolete words.
+
+    Let others sing of knights & Paladines,
+      In aged accents, and untimely words,
+      Paint shadowes in imaginarie lines,
+      Which well the reach of their high wit records;
+
+    But I must sing of thee, and those faire eyes
+      Autentique shall my verse in time to come,
+      When yet th' vnborne shall say "Loe, where she lyes,
+      Whose beauty made Him speak that els was dombe."
+
+    These are the arkes, the trophies I erect,
+      That fortifie thy name against old age,
+      And these thy sacred vertues must protect
+      Against the Darke, & Times consuming rage.
+    Though th' errour of my youth they shall discouer,
+    Suffise, they shew I liu'd, and was thy louer.[10]
+
+But, to say nothing more, whatever wisdom there may be in allowing that
+love was the errour of his youth, there was no great gallantry in
+telling this melancholy truth to the lady.
+
+Daniel is a multifarious writer, and will be mentioned again. I shall
+add nothing more of him here than the following anecdote. When he was a
+young student at Magdalen-Hall in Oxford, about the year 1580,
+notwithstanding the disproportion of his years, and his professed
+aversion to the severer acadamical [sic] studies, the Dean and Canons of
+Christchurch, by a public capitular act now remaining, gave Daniel a
+general invitation to their table at dinner, merely on account of the
+liveliness of his conversation.[11]
+
+About the same time, Thomas Watson published his _Hecatompathia, Or the
+passionate century of love_, a hundred sonnets.[12] I have not been able
+to discover the date of this publication:[13] but his _First set of
+Italian Madrigals_ appeared at London, in 1590.[14] I have called them
+_sonnets_: but they often wander beyond the limits, nor do they always
+preserve the conformation [or] constraint,[15] of the just Italian
+_Sonetto_.[16] Watson is more brilliant than Daniel: but he is
+encumbered with conceit and the trappings of affectation. In the
+love-songs of this age, a lady with all her load of panegyric, resembles
+one of the unnatural factitious figures which we sometimes see among the
+female portraits at full length of the same age, consisting only of
+pearls, gems, necklaces, earings, embroidery, point-lace, farthingale,
+fur, and feathers. The blooming nymph is lost in her decorations.
+Watson, however, has sometimes uncommon vigour and elegance. As in the
+following description.
+
+    Her yellow locks exceed the beaten gold,
+    Her sparkling eyes in heau'n a place deserue;
+    Her forehead high and faire, of comelie mould,
+      Her wordes are musical, of syluer sound, &c.
+    Her eye-browe hangs like Iris in the skies,
+    Her eagle's nose is straite, of stately frame;
+    On either cheeke a rose and lillie lyes;
+    Her breathe is sweet perfvme, or holie flame:
+      Her lippes more red than any coral-stone, &c.
+    Her breast transparent is, like cristal rock,
+    Her fingers long, fit for Apollo's lute,
+    Her slipper such, as Momus dare not mock,
+      Her virtues are so great, as make me mute, &c.[17]
+
+Spenser's Sonnets were printed with his _Epithalamium_. They are
+entered, in the year 1593, under this title to William Ponsonby,
+"_Amoretti_, and _Epithalamium_, written not long since by Edmond
+Spencer."[18] In a recommendatory sonnet prefixed, by G. W. senior, it
+appears that Spenser was now in Ireland. Considered under the idea which
+their title suggests, undoubtedly these pieces are too classical,
+abstracted, and even philosophical. But they have many strokes of
+imagination and invention, a strength of expression, and a stream of
+versification, not unworthy of the genius of the author of the _Faerie
+Queene_.[19] On the whole however, with the same metaphysical flame
+which Petrarch felt for the accomplished Laura, with more panegyric
+than passion, Spenser in his sonnets seldom appeals to the heart, and
+too frequently shews more of the poet and the scholar than of the lover.
+The following, may be selected in illustration of this opinion.
+
+    When those renowned noble peers of Greece,
+      Through stubborne pride among themselues did iar,
+      Forgetful of the famous golden fleece,
+      Then _Orpheus_ with his harp their strife did bar.
+    But this continual, cruel, civil war,
+      The which myselfe against myselfe doe make,
+      Whilst my weake powres of passions warried arre,
+      No skill can stint, nor reason can aslake.
+    But when in hand my tunelesse harpe I take,
+      Then doe I more augment my foes despight,
+      And grief renew, and passion doe awake
+      To battaile fresh against myselfe to fight.
+    Mongst whom, the more I seeke to settle peace,
+    The more I find their malice to increase.[20]
+
+But the following is in a more intelligible and easy strain, and has
+lent some of its graces to the storehouse of modern compliment. The
+thought on which the whole turns is, I believe, original, for I do not
+recollect it in the Italian poets.
+
+    Ye tradeful Merchants, that with weary toyle,
+      Doe seek most precious things, to make your gaine,
+      And both the Indias of their treasure spoile;
+      What needeth you to seeke so farre in vaine?
+    For lo, my Love doth in herselfe containe
+      All this worlds riches that may farre be found:
+      If saphyres, loe, her eyes be saphyres plaine;
+      If rubies, loe, her lips be rubies sound;
+    If pearles, her teeth be pearles both pure & round;
+      If iuorie, her forehead iuorie were [wene];
+      If gold, her locks are finest gold on ground;
+      If siluer, her faire hands are siluer sheene:
+    But that which fairest is, but few behold,
+    Her mind adornd with vertues manifold.[21]
+
+The last couplet is platonic, but deduced with great address and
+elegance from the leading idea, which Gay has apparently borrowed in his
+beautiful ballad of _Black-eyed Susan_.
+
+Among the sonnet-writers of this period, next to Spenser I place
+Shakespeare. Perhaps in brilliancy of imagery, quickness of thought,
+variety and fertility of allusion, and particularly in touches of
+pastoral painting, Shakespeare is superiour. But he is more incorrect,
+indigested, and redundant: and if Spenser has too much learning,
+Shakespeare has too much conceit. It may be necessary however to read
+the first one hundred & twenty six sonnets of our divine dramatist as
+written by a lady:[22] for they are addressed with great fervency yet
+delicacy of passion, and with more of fondness than friendship, to a
+beautiful youth.[23] Only twenty six, the last bearing but a small
+proportion to the whole number, and too manifestly of a subordinate
+cast, have a female for their object. But under the palliative I have
+suggested, many descriptions or illustrations of juvenile beauty,
+pathetic endearments, and sentimental declarations of hope or
+disappointment, which occur in the former part of this collection, will
+lose their impropriety and give pleasure without disgust. The following,
+a few lines omitted, is unperplexed and elegant.
+
+      How like a winter has my absence been
+      From thee, the pleasure of the fleeting year!
+      What freezings have I felt, what dark days seen!
+      What old December's bareness every where!
+      And yet this time, remov'd,[24] was summer's time;
+      The teeming autumn big with rich increase,
+      Bearing the wanton burden of the prime, &c.
+      For summer and his pleasures wait on thee,
+      And thou away, the very birds are mute:
+    Or, if they sing, 'tis with so dull a chear,
+    That leaues look pale, dreading the winter's near.[25]
+
+In the next, he pursues the same argument in the same strain.
+
+      From you have I been absent in the spring,
+      When proud-pied April dress'd in all his trim,
+      Has put a sprite of youth in euery thing;
+      That heauy Saturn laugh'd and leap'd with him.
+      Yet not the lays of birds, nor the sweet smell
+      Of different flowers in odour and in hue,
+      Could make me any summer's story tell,
+      Or from their proud lap pluck them where they grew:
+      Nor did I wonder at the lilies white,
+      Nor praise the deep vermilion of the rose:
+      They were but sweet, but figures of delight,
+      Drawn after thee, thou pattern of all those![26]
+    Yet seem'd it winter still, and, you away,
+    As with your shadow, I with these did play.[27]
+
+Here are strong marks of Shakespeare's hand and manner. In the next, he
+continues his _play_ with the flowers. He chides the _forward_ violet, a
+_sweet thief_, for stealing the fragrance of the boy's breath, and for
+having died his veins with too rich a purple. The lilly is condemned for
+presuming to emulate the whiteness of his hand, and _buds_ of _marjoram_
+for stealing the ringlets of his hair. Our lover is then seduced into
+some violent fictions of the same kind; and after much ingenious
+absurdity concludes more rationally,
+
+    More flowres I noted, yet I none could see,
+    But sweet or colour it had stolne from thee.[28]
+
+Shakespeare's _Sonnets_ were published in the year 1599.[29] I remember
+to have seen this edition, I think with _Venus and Adonis_ and the _rape
+of Lucrece_, a very small book, in the possession of the late Mr Thomson
+of Queen's College Oxford, a very curious and intelligent collector of
+this kind of literature.[30] But they were circulated in manuscript
+before the year 1598. For in that year, they are mentioned by Meres.
+"Witness his [Shakespeare's] _Venus and Adonis_, his _Lucrece_, his
+sugred _Sonnets_ among his priuate friends, &c."[31] They were reprinted
+in the year 1609; one hundred & fifty four in number. They were first
+printed under Shakespeares name, among his _Poems_, in the year 1717, by
+Sewel, who had no other authority than tradition.[32] But that they were
+undoubtedly written by Shakespeare, the frequent intermixture of
+thoughts and expressions which now appear in his plays, and, what is
+more, the general complexion of their phraseology & sentiment,
+abundantly demonstrate, Shakespeare cannot be concealed. Their late
+ingenious editor is of opinion, that Daniel was Shakespeare's model.[33]
+
+I have before incidentally mentioned Barnefield's Sonnets,[34] which,
+like Shakespeare's, are adressed [sic] to a boy. They are flowery and
+easy. Meres recites Barnefelde among the pastoral writers.[35] These
+sonnets, twenty in number, are written in the character of a shepherd:
+and there are other pieces by Barnefield which have a pastoral turn, in
+_Englands Helicon_. Sir Philip Sydney had made every thing Arcadian. I
+will cite four of this authors best lines, and such as will be least
+offensive.
+
+    Some talk of Ganymede th' Idalian boy,
+      And some of faire Adonis make their boast;
+      Some talke of him whom louely Leda lost
+    And some of Echo's loue that was so coy, &c.[36]
+
+Afterwards, falling in love with a lady, he closes these sonnets with a
+palinode.[37]
+
+I have before found occasion to cite the Sonnets of H. C. called _Diana_
+printed in 1592.[38] As also _Dieella_ [sic], or _Sonnets_ by R. L.
+printed in 1596.[39] With these may be mentioned a set of Sonnets,
+entitled _Fidessa more chaste than kinde_. By B. Griffin, Gent. At
+London. Printed by the Widow Orwin for Matthew Lownes, 1596.[40] They
+are dedicated to Mr William Essex of Lambourne in Berkshire. Then
+follows a deprecatory address to the gentlemen of the Inns of Court, who
+are earnestly requested to protect at least to approve this first
+attempt of a stranger; and who promises, if now successful, to publish a
+pastoral the next time. It is possible that some other writers of this
+class may have escaped my searches. I do not wish to disturb their
+repose, which is likely to be lasting.
+
+
+
+
+NOTES TO THE TEXT
+
+
+Warton's notes, which in the manuscript are designated by letters or
+symbols, have been numbered. Brackets enclose all the editor's
+corrections, expansions, and comments. The parentheses are Warton's.
+
+[1] [Thomas Warton's original version began "The temporary vogue which
+..." The final version, here parenthesized in the text, represents, it
+seems fairly certain, Joseph Warton's expansion. Although this
+deprecatory comment seems rather abrupt coming after five sections
+devoted to the Elizabethan satirists, Joseph Warton is not disparaging
+where his brother praised. Thomas Warton had already (IV, 69) belittled
+the "innumerable crop of _satirists_, and of a set of writers differing
+but little more than in name, and now properly belonging to the same
+species, _Epigrammatists_."]
+
+[2] [Warton here combined several remarks in Dryden's essay "The Original
+and Progress of Satire." See John Dryden, _Essays_, ed. W. P. Ker
+(Oxford, 1900), II, 111-112. There were six, not four editions of
+Holiday's _Persius_.]
+
+[3] [Warton refers presumably to Isaac Reed's _Collection of Old Plays_
+(London, 1780).]
+
+[4] [Jehan de] Nostredam [e]. _[Les] Vies des [...] Poet[es]
+Provens[aux]._ [Lyon, 1575] n. 59. pag. 199.
+
+[5] [William Hayley. _An] Ess[ay]_ on _Epic Poetry_. [London, 1782]
+_Notes, Ess._ iii. v. 81. p. 171.
+
+[6] They are entered to him, feb. 4, under that year [1591/92]. Registr.
+_Station._ B. fol. 284. a. In sixteens. I have a copy. Wh[ite] Lett[er
+i. e., roman]. With vignettes.
+
+[7] [Daniel was tutor to her son William Herbert and preceptor to Ann
+Clifford, Countess of Pembroke, but Sidney's sister seems to have been
+the patroness rather than the pupil of Daniel.]
+
+[8] His sister married John Florio, author of a famous Italian
+dictionary, and tutor to queen Anne, consort of James the first, in
+Italian, under whom Daniel was groom of the Privy-Chamber. [Anthoney a]
+Wood, _Ath[enae]_ _Oxon[ienses]_. [London, 1691-92.] i. 379. col. 1.
+[Warton's mention of "Daniel's Life" refers presumably to the brief
+biography by Wood, here cited.]
+
+[9] A. i. _Sc._ i[i]. [Warton was evidently quoting from the edition
+prepared by Thomas Hawkins and sold by his own printer, Prince--_The
+Origin of the English Drama_ (Oxford, 1773), III, 213.]
+
+[10] _Sonn._ 50. [To show how "One of Spenser's cotemporary poets has
+ridiculed the obsolete language of _The Fairy Queen_" Warton had already
+quoted the first two lines of this sonnet in the second edition of his
+_Observations on the Faerie Queene_ (London, 1762), I, 122, n.]
+
+[11] From a manuscript note by bishop Tanner inserted in Wood's _Athen.
+Oxon._ i. 379. Bibl. Bodl. ["Aug. 9. Jac. 1. The Dean and Chapter of
+Cht. Ch. by grant under their Common Seal out of regard for the learning
+wit and good conversation of Sam. Daniel gent. gave him leave to eat and
+drink at the Canons Table whenever he thought fit to come."--Tanner's
+marginal note (I, col. 447) in his copy (Bodleian MS. Top. Oxon. b. 8)
+of the second, 1721, edition of Wood. Although Philip Bliss in his
+edition of _Athenae Oxonienses_ (London, 1813) incorporated many of the
+marginalia inserted by Tanner in his copy of Wood, Bliss evidently
+overlooked this particular note. The editor is grateful to the Bodleian
+Library for a photostat and for permission to quote. According to Mr. W.
+G. Hiscock, Deputy Librarian at Christ Church, no mention of the "act"
+concerning Daniel is now to be found in the records under his care.]
+
+[12] See supr. iii. [433]. [Warton used Greek capitals in his title.]
+
+[13] At London in quarto [1582]. There is a fine manuscript copy, at
+present, in the British Museum. Watson has many pieces in _Englands
+Helicon_, 1600.
+
+[14] In quarto.
+
+[15] [Above the word "conformation" Warton added "constraint." It is not
+clear whether he intended both to stand.]
+
+[16] I have discovered, says Mr Steevens, in a Letter to me, that
+Watson's Sonnets, which were printed without date, were entered on the
+books of the Stationer's Company, in 1581: under the Title of, "Watsons
+Passions, manifesting the true frenzy of Love". The Entry is to Gabriel
+Cawood, who afterwards published them. [See _A Transcript of the
+Registers of the Company of Stationers of London_, ed. Edward Arber
+(London, 1875-1894), II, 409.] Ad Lectorem Hexasticon is prefixed
+"Green's Tullie's Love", & subscribed "Tho. Watson. Oxon."--[Robert
+Greene, _Ciceronis Amor. Tullies Love_ (London, 1601), Sig. A3 verso.]
+
+I find in [Joseph] _Ames' Typographical Antiquities_. [London, 1749]
+page 423. Amintae Gaudia. Authore Tho. Watsono. Londinensi. Juris
+studiosi [sic]. 4.'to. 1592 [This unique pencilled annotation seems to
+be in Joseph Warton's hand.]
+
+[17] [A note to accompany this Sonnet No. VII has been almost completely
+destroyed by the excision, unique in the notebook, of what was
+originally folio 17. The mutilated line ends of the note read thus: "...
+nd/ ... on/... omas/... s _Tr._" This note presumably referred to Thomas
+Watson and cited Section XI of "A Comparative Discourse of our English
+Poets," in Francis Meres's _Palladis Tamia: Wit's Treasury_ (London,
+1598, fol. 280), where among those praised for their Latin verse are
+Christopher Ocland, Thomas Watson, Thomas Campion, Walter Haddon, and
+"Thomas Newton with his Leyland."]
+
+[18] Novemb. 19. [1594, not 1595.] Registr. _Station_. B. fol. 315. a.
+
+[19] There is [a] Sonnet by Spenser, never printed with his works,
+prefixed to Gabriel Harveys "Foure Letters, &c. Lond. 1592." I have much
+pleasure in drawing this little piece from obscurity, not only as it
+bears the name of Spenser, but as it is at the same time a natural
+unaffected effusion of friendship ... [four words illegible]. (See
+_Observations_ on Spenser's _Fair. Qu._ [II]. [245-247?].)
+
+    "_Harvey_, the happy aboue happiest men,
+    I read: that sitting like a looker-on
+    of this worldes stage, doest note with critique pen
+      The sharpe dislikes of each condition;
+      And, as one carelesse of suspition,
+    Ne fawnest for the favour of the great,
+    Ne fearest foolish reprehension
+        of faulty men, which daunger to thee threat;
+        But freely doest, of what thee list, entreat,
+    Like a great lord of peerlesse liberty:
+        Lifting the good vp to high honours seat,
+    And th' euil damning euermore to dy.
+    For life and death is in thy doomefull writing
+    So thy renowme liues euer by endighting.
+
+_Dublin_ this 18 of July, 1586. _Your devoted Friend during life, Edmund
+Spencer._"
+
+I avail myself of an opportunity of throwing together a few particulars
+of the life and writings of this very intimate friend of Spenser, more
+especially as they will throw general light on the present period. He
+was born at Saffron-Walden in Essex, [John] Strype's [_Life of the
+Learned Sir Thomas] Smith_. [London, 1698] p. 18. He was a fellow of
+Pembroke-Hall, Spenser's college: and was one of the proctors of the
+university of Cambridge, in 1583. [Thomas] Fuller's [_History of the
+University of] Cambridge_, p. 146. [in his] _Ch[urch] Hist[ory of
+Britain_]. [London, 1655.] Wood says, he was first of Christ's college,
+and afterwards fellow of Trinity-Hall, _Ath. Oxon._ F[asti, I, col.
+755]. But Wood must be mistaken, for in the _Epilogus_ to his _Smithus_,
+addressed to John Wood Smith's amanuensis, Harvey dates from
+Pembroke-Hall. _Smithus_, Signat. G. iij. [G4 verso.] [Warton probably
+did not intend to deny that Harvey was a fellow of Trinity, but
+evidently felt that Wood was ignorant of the intermediate fellowship at
+Pembroke.] He was doctorated in jurisprudence at both universities. With
+his brother Henry, he was much addicted to Astrology. (See supr. [Vol.
+IV], p. 23.)
+
+He seems to have been a reader in rhetoric at Cambridge from his
+_Ciceronianus, vel Oratio post reditum habita Cantabrigiae ad suos
+auditores_. Lond. 1577. 4to. It is dedicated to William Lewin, I suppose
+of Christ's college. (See Wood, ubi supr.) He published also _Rhetor,
+vel duorum dierum oratio de natura arte et exercitatione_ rhetorica,
+Lond. 1577. 4'o. It is dedicated to Bartholomew Clark, the elegant
+translator of Castilios _Courtier_, who has also prefixed an address to
+our author's _Rhetor_, dated at Mitcham in Surrey, Cal. Sept. 1577. He
+published in four books, a set of Latin poems called _Gabrielis Harveii
+Gratulationum Valdinensium Libri quatuor_, &c. Lond. 1578. 4to. This
+book he wrote in honour of queen Elisabeth, while she was on a progress
+at Audley-end in Essex, "afterwards presenting the same in print to her
+Highnesse at the worshipfull Maister Capels in Hertfordshire." _Notes_
+to Spenser's _September_. He mentions a most perfect and elegant
+delineation or engraving of all England, _perartificiose expressa_,
+procured by his friend M. Saccoford, to which the queen's effigy,
+_accuratissime depicta_, was prefixed. Lib. i. p. 13. In his character
+of an accomplished _Maid of Honour_ of the queen's court, some curious
+qualifications are recited. One of the first, to make her truly amiable,
+is what he calls _Affectatio_.
+
+She is to understand painting her cheeks, to have a collection of good
+jokes, to dance, draw, write verses, sing, and play on the lute, and
+furnish her library with some approved recipt-books. She is to be
+completely skilled in cosmetics. "_Deglabret_, lavet, atque ungat, &c."
+Lib. iiii. p. 21. 22. (See supr. ii[i]. [426, n].) Another book of
+Harvey's Latin poetry is his _Smithus, vel Musarum Lacrymae_, on the
+death of Seceretary [sic] Sir Thomas Smith, Lond. 1578. 4to. The
+dedication is to Sir Walter Mildmay. When Smith died, he says, Lord
+Surrey broke his lyre. _Cant._ v. He wishes on this mournful occasion,
+that More, Surrey, and Gascoigne, would be silent. _Cant._ vi. Ascham,
+Carr, Tonge, Bill, Goldwell, Watson, and Wilson, are panegyrised as
+imitators of Smith. [Nicholas Carr, 1524-1568, was Regius Professor of
+Greek at Cambridge. William Bill, d. 1561, was Master of Trinity
+College, Cambridge. Perhaps Tonge is the Barnaby Tonge who matriculated
+at Christ Church, Cambridge, in 1555. There were two John Goldwell's at
+Cambridge in Smith's day: one was a fellow at Queen's from 1538 to 1542;
+the other was named fellow of Trinity in 1546. For Wilson see Warton's
+discussion earlier in the _History_ (III, 331-344), where this very
+praise in Harvey's _Smithus_ is quoted.] _Cant._ vii. Signat. D. iij.
+See also, Sign. L. i. And C. ij. Wilson, the author of the _Art of
+Rhetoric_, is again commended. Ibid. Sign. E. ij. Again, Sign. F. i. F.
+ij. He thinks it of consequence to remember, that Smith gave a Globe,
+_mira arte politum_, to Queens College Library at Cambridge. Ibid, Sign.
+E. iij. [E4 verso.] He praises Lodovice Dolci's odes, and Ronsard.
+_Cant._ ii. Sign. C. i. His iambics are celebrated by his cotemporaries.
+See Meres, _Wits Tr._ fol. 280. 282. [283 verso.] (See supr. ii [i].
+[401, n].) Nothing can be more unclassical than Harvey's Latin verse. He
+is _Hobbinol_ in Spenser's Pastorals. Under that name, he has prefixed
+two recommendatory poems to the first and second parts of the _Faerie
+queene_. [There was only one such poem, but in some folio editions it
+was inadvertently printed twice.] The old annotator on Spenser's
+Pastorals prefaces his commentary, with an address, dated 1579, "To the
+most excellent and learned both oratour and poet master _Gabriel
+Harvey_, &c." In the notes to _September_, he is said to have written
+many pieces, "partly vnder vnknowne titles, and partly vnder counterfeit
+names: as his _Tyrannomastix_, his _old [ode] Natalitia_, his
+_Rameidos_, and especially that part of _Philomusus_ his divine
+_Anticosmopolite_, &c." He appears to have been an object of the petty
+wits & pamphlet-critics of his times. His chief antagonists were Nash
+and Greene. In the _Foure Letters_ abovementioned, may be seen many
+anecdotes of his literary squabbles. To these controversies belong his
+_Pierces supererogation_, Lond. 1593. Sub-Joined, is a _New Letter of
+notable contents with a strange sound sonnet called_ Gorgon. To this is
+sometimes added _An Advertisement for Pap-Hatchet_ &c. Nash's _Apology
+of Pierce Penniless_, printed 1593, is well known. Nash also attacks
+Harvey, as a fortune-teller & ballad maker, in _Have with you to
+Saffron-Walden_. Nash also wrote a confutation of Harvey's _Foure
+Letters_, 1592. [_Strange News, of the Intercepting Certaine Letters_,
+to which Warton evidently refers, is actually the early title of the
+_Apology_.] I pass over other pieces of the kind. The origin of the
+dispute seems to have been, that Nash affirmed Harvey's father to have
+been a rope-maker at Saffron-Walden. Harvey died, aged about 90, at
+Saffron Walden, in 1630.
+
+[20] Sonn. xliii.
+
+[21] Sonn. xv.
+
+[22] Except in in [sic] such a passage as when he calls this favourite
+by "The master-mistress of my passion," _Sonn._ 20. And in a few others,
+where the expressions literally shew the writer to be a man. [Warton of
+course wanted to preserve Shakespeare's sonnets from the charge of
+homosexuality. In the eighteenth century the distaste for conceits and
+an acute sensitivity to the suspicion of homosexuality made the
+_Sonnets_ so unpopular that they were omitted from the editions of
+Shakespeare by, among others, Rowe, Pope, Theobald, Warburton, Capell,
+and Johnson.]
+
+[23] The last of these is that which begins, "O thou, my lovely Boy."
+_Sonn._ 126.
+
+[24] "When _absent_ from thee".
+
+[25] _Sonn._ 97.
+
+[26] They were _sweet_ indeed, but they wanted animation; and, in
+appearance, they were nothing more than beautiful resemblances or copies
+of you.
+
+[27] _Sonn._ 98.
+
+[28] _Sonn._ 99.
+
+[29] [Warton originally wrote "1609," but immediately scored it out and
+replaced it with "1599."]
+
+[30] In 16mo. With vignettes. Never entered in the Register of the
+Stationers. [Possibly Warton saw a volume registered by Eleazer Edgar on
+3 January 1599/1600 as "A booke called _Amours_ by J. D. with certen
+oy'r sonnetes by W. S. vj'd" (Arber's _Stationers Register_, III, 153).
+This entry may indicate that Edgar held manuscripts of some of
+Shakespeare's sonnets, and some copies of the book so registered may
+have been published. However, if Warton had seen this hypothetical
+volume he should have correctly identified it: he had already (III, 402,
+n.) printed the Edgar entry from the Stationers Register.
+
+If this volume which Warton mentions ever actually existed, it cannot
+now be located. Concerning Warton's statement Mr. G. B. Oldham,
+Principal Keeper of Printed Books, British Museum, wrote as follows: "I
+have examined the sale catalogue which contains books from the library
+of the Reverend William Thomson of Queens College, Oxford, but have
+failed to find anything at all corresponding with the volume which
+Warton describes. There are not, in fact, many really scarce books in
+this catalogue and it rather looks as though the rarer items in
+Thomson's collection were otherwise disposed of. In any case I think
+there is a strong presumption that Warton's memory betrayed him."
+
+Thus, in the absence of any evidence concerning a 1599 edition of the
+_Sonnets_ and in the light of Thorpe's claim in 1609 that they were
+"Never before Imprinted," it seems probable that what Warton was vaguely
+recalling was actually a copy of Shakespeare's _Passionate Pilgrim_.
+This book, printed for Jaggard in 1599, my have misled Warton by its
+separate title page, _Sonnets to Sundry Notes of Musicke_. Such a volume
+as Warton describes was, it seems evident from surviving copies,
+frequently bound up to contain _The Passionate Pilgrim_, _Venus and
+Adonis_, and other small collections of poetry. The fact that Warton
+recollected the book as a l6mo. does not argue much against this
+identification. Though _The Passionate Pilgrim_ is actually an octavo,
+surviving copies measure about 4-1/2 by 3-1/4 inches, and as late as
+1911 William Jaggard, in his _Shakespeare Bibliography_ (p. 429),
+described it as a 16mo.
+
+In explanation of Warton's probable error two extenuating facts should
+be remembered. First, since Thomson died about 1766, Warton's
+recollection was at least fifteen years old; and second, only in 1780
+did Edmond Malone edit the _Sonnets_ and _The Passionate Pilgrim_ as
+discriminate texts comprising Shakespeare's lyrics. Even then Malone
+omitted without comment the separate title page _Sonnets to Sundry Notes
+of Musicke_. Previously, except in George Steevens's edition of the
+_Sonnets_, Shakespeare's poems were lumped together, with lyrics of
+several other Elizabethan poets, and printed as Shakespeare's _Poems on
+Several Occasions_. Moreover, Warton was not the first to write of a
+1599 edition of the _Sonnets_. His friend Bishop Percy may have helped
+to create this false impression in Warton's memory. In his interleaved
+copy of Langbaine's _Account of the English Dramatick Poets_,
+immediately after Oldys's statement that Shakespeare's _Sonnets_ were
+not printed until 1609, Percy commented, "But this is a mistake. Lintot
+republished Shakespeare's Sonnets from an edition in 1599." Malone, in
+his transcript of Steevens's transcript of Percy, corrected Percy's
+mistake: "This is a mistake of Dr. Percy's. Lintot republished from old
+ed's but not from any ed. of 1599, except a very _few_ sonnets called
+the _Passionate Pilgrim_ printed in that year." (Photostat of Bergen
+Evans's transcript of Bodleian Malone 129-132.) Warton, however, may
+well have been misled by Percy's comment, for in the winter of 1769 he
+had borrowed and used Percy's annotated copy of Langbaine. (_The Percy
+Letters, The Correspondence of Thomas Percy and Thomas Warton_, ed. M.
+G. Robinson and Leah Dennis [Baton Rouge, 1951], pp. 135, 137.) It is
+unfortunate that the matter was not cleared up in discussion with
+Malone, whom at some time during the 1780's Warton furnished with a copy
+of the 1596 _Venus and Adonis_ and with whom he corresponded around 1785
+concerning sonnets in general and Shakespeare in particular. (William
+Shakespeare, _Plays and Poems_, ed. Edmond Malone [London, 1790] X, 13,
+n. 1; and James Prior, _The Life of Edmond Malone_ [London, 1860], pp.
+122-123.)]
+
+[31] _Wits Tr._ fol. 281. b. [The brackets in the text are Warton's.]
+
+[32] [Warton was of course much mistaken. Following the 1640 edition of
+Benson, Gildon had reprinted them under Shakespeare's name in 1709
+(dated 1710) and again in 1714. The two Sewell editions appeared in 1725
+and 1728. Invariably the poems seem to have been printed under
+Shakespeare's name, though perhaps not always in a collected edition of
+his complete poems. See Hyder Rollins's New Variorum edition of the
+_Sonnets_ (Philadelphia, 1944).]
+
+[33] [See Malone's _Supplement to the Edition of Shakespeare's Plays_
+(London, 1780), I, 581.]
+
+[34] See supr. vol. iii. [p. 405].
+
+[35] _Wits Tr._ fol. 284. a. He is again mentioned by Meres for his
+distich on king James's _Furies_ & _Lepanto_. fol. 284. b. [The distich,
+printed by Meres, is the final couplet of Barnfield's Sonnet II.]
+
+[36] _Sonn._ xii.
+
+[37] It begins thus.
+
+    Nights were short, and daies were long,
+    Blossoms on the hauthorns hong;
+    Philomel, night-musickes kinge,
+    Tolde the comming of the springe, &c.
+
+He does not scruple to insert these lines,
+
+    Loue I did the fairest boy,
+    That these fields did ere enioy.
+    Loue I did faire Ganymed,
+    Venus darling, beauties bed, &c.
+
+This piece was afterwards inserted in _Englands Helicon_.
+
+[38] See supr. vol. iii. p. [292, n.] I [am] now most inclined to think,
+that these initials mean Henry Constable, and not Henry Chettle. The
+Sonnets do not justify the applauses paid to Constable, by his
+contemporaries, Edmond Bolton, Meres, the author of the _Return_ from
+_Parnassus_, and many others. Some of his sonnets are prefixed to
+Sydney's _Apology for Poetry_. The initials H. C. often occur in
+_Englands Helicon_. I take this opportunity of saying that some pieces
+of Chettle were among Mr. Beauclerc's books. (See supr. iii. [291-292,
+n.?]) [Indeed the annotations in the Harvard Library copy of the
+_Bibliotheca Beauclerkiana_ (p. 102) suggest that either Thomas Warton
+or, more probably, his brother may have purchased the copy of Chettle's
+_Englands Mourning Garment_ owned by Thomas Warton's former student. It
+was sold to "Dr. W."]
+
+[39] See supr. iii. [480.] [R. L. was Richard Lynch.]
+
+[40] In 16'mo. With vignettes. They are sixty two in number. The best is
+that which begins,
+
+    Venus, and yong Adonis sitting by her,
+      Vnder a myrtle shade began to woe him
+      She told the yongling, &c. Sonn. iii.
+
+He calls Sleep, "Balme of the brused heart." Sonn. xv.
+
+
+
+
+PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+
+
+FIRST YEAR (1946-47)
+
+     Numbers 1-6 out of print.
+
+
+SECOND YEAR (1947-1948)
+
+     7. John Gay's _The Present State of Wit_ (1711); and a
+     section on Wit from _The English Theophrastus_ (1702).
+
+     8. Rapin's _De Carmine Pastorali_, translated by Creech
+     (1684).
+
+     9. T. Hanmer's (?) _Some Remarks on the Tragedy of Hamlet_
+     (1736).
+
+     10. Corbyn Morris' _Essay towards Fixing the True Standards
+     of Wit, etc._ (1744).
+
+     11. Thomas Purney's _Discourse on the Pastoral_ (1717).
+
+     12. Essays on the Stage, selected, with an Introduction by
+     Joseph Wood Krutch.
+
+
+THIRD YEAR (1948-1949)
+
+     13. Sir John Falstaff (pseud.), _The Theatre_ (1720).
+
+     14. Edward Moore's _The Gamester_ (1753).
+
+     15. John Oldmixon's _Reflections on Dr. Swift's Letter to
+     Harley_ (1712); and Arthur Mainwaring's _The British
+     Academy_ (1712).
+
+     16. Nevil Payne's _Fatal Jealousy_ (1673).
+
+     17. Nicholas Rowe's _Some Account of the Life of Mr. William
+     Shakespeare_ (1709).
+
+     18. "Of Genius," in _The Occasional Paper_, Vol. III, No. 10
+     (1719); and Aaron Hill's Preface to _The Creation_ (1720).
+
+
+FOURTH YEAR (1949-1950)
+
+     19. Susanna Centlivre's _The Busie Body_ (1709).
+
+     20. Lewis Theobold's _Preface to The Works of Shakespeare_
+     (1734).
+
+     21. _Critical Remarks on Sir Charles Grandison, Clarissa,
+     and Pamela_ (1754).
+
+     22. Samuel Johnson's _The Vanity of Human Wishes_ (1749) and
+     Two _Rambler_ papers (1750).
+
+     23. John Dryden's _His Majesties Declaration Defended_
+     (1681).
+
+     24. Pierre Nicole's _An Essay on True and Apparent Beauty in
+     Which from Settled Principles is Rendered the Grounds for
+     Choosing and Rejecting Epigrams_, translated by J. V.
+     Cunningham.
+
+
+FIFTH YEAR (1950-51)
+
+     25. Thomas Baker's _The Fine Lady's Airs_ (1709).
+
+     26. Charles Macklin's _The Man of the World_ (1792).
+
+     27. Frances Reynolds' _An Enquiry Concerning the Principles
+     of Taste, and of the Origin of Our Ideas of Beauty, etc._
+     (1785).
+
+     28. John Evelyn's _An Apologie for the Royal Party_ (1659);
+     and _A Panegyric to Charles the Second_ (1661).
+
+     29. Daniel Defoe's _A Vindication of the Press_ (1718).
+
+     30. Essays on Taste from John Gilbert Cooper's _Letters
+     Concerning Taste_, 3rd edition (1757), & John Armstrong's
+     _Miscellanies_ (1770).
+
+
+SIXTH YEAR (1951-1952)
+
+     31. Thomas Gray's _An Elegy Wrote in a Country Church Yard_
+     (1751); and _The Eton College Manuscript_.
+
+     32. Prefaces to Fiction; Georges de Scudery's Preface to
+     _Ibrahim_ (1674), etc.
+
+     33. Henry Gally's _A Critical Essay_ on
+     Characteristic-Writings (1725).
+
+     34. Thomas Tyers' A Biographical Sketch of Dr. Samuel
+     Johnson (1785).
+
+     35. James Boswell, Andrew Erskine, and George Dempster.
+     _Critical Strictures on the New Tragedy of Elvira, Written
+     by Mr. David Malloch_ (1763).
+
+     36. Joseph Harris's _The City Bride_ (1696).
+
+     37. Thomas Morrison's _A Pindarick Ode on Painting_ (1767).
+
+     38. John Phillips' _A Satyr Against Hypocrites_.
+
+
+William Andrews Clark Memorial Library: University of California
+
+THE AUGUSTAN REPRINT SOCIETY
+
+
+_General Editors_
+
+    H. RICHARD ARCHER
+      Wm. Andrews Clark Memorial Library
+
+    R. C. BOYS
+      University of Michigan
+
+    RALPH COHEN
+      University of California, Los Angeles
+
+    VINTON A. DEARING
+      University of California, Los Angeles
+
+_Corresponding Secretary_: MRS. EDNA C. DAVIS, Wm. Andrews Clark
+Memorial Library
+
+
+The Society exists to make available inexpensive reprints (usually
+facsimile reproductions) of rare seventeenth and eighteenth century
+works. The editorial policy of the Society remains unchanged. As in the
+past, the editors welcome suggestions concerning publications. All
+income of the Society is devoted to defraying cost of publication and
+mailing.
+
+All correspondence concerning subscriptions in the United States and
+Canada should be addressed to the William Andrews Clark Memorial
+Library, 2205 West Adams Boulevard, Los Angeles 18, California.
+Correspondence concerning editorial matters may be addressed to any of
+the general editors. The membership fee is $3.00 a year for subscribers
+in the United States and Canada and 15/- for subscribers in Great
+Britain and Europe. British and European subscribers should address B.
+H. Blackwell, Broad Street, Oxford, England.
+
+       *       *       *       *       *
+
+Publications for the seventh year [1952-1953]
+
+(At least six items, most of them from the following list, will be
+reprinted.)
+
+    _Selections from the Tatler, the Spectator, the Guardian._ Introduction
+    by Donald F. Bond.
+
+    BERNARD MANDEVILLE: _A Letter to Dion_ (1732). Introduction by
+    Jacob Viner.
+
+    M. C. SARBIEWSKI: _The Odes of Casimire_ (1646), Introduction
+    by Maren-Sofie Roestvig.
+
+    _An Essay on the New Species of Writing Founded by Mr. Fielding_ (1751).
+    Introduction by James A. Work.
+
+    [THOMAS MORRISON]: _A Pindarick Ode on Painting_ (1767).
+    Introduction by Frederick W. Hilles.
+
+    [JOHN PHILLIPS]: _Satyr Against Hypocrits_ (1655). Introduction
+    by Leon Howard.
+
+    _Prefaces to Fiction._ Second series. Selected with an introduction by
+    Charles Davies.
+
+    THOMAS WARTON: _A History of English Poetry: An Unpublished
+    Continuation_. Introduction by Rodney M. Baine.
+
+Publications for the first six years (with the exception of NOS. 1-6,
+which are out of print) are available at the rate of $3.00 a year.
+Prices for individual numbers may be obtained by writing to the Society.
+
+       *       *       *       *       *
+
+THE AUGUSTAN REPRINT SOCIETY
+
+_WILLIAM ANDREWS CLARK MEMORIAL LIBRARY_
+
+2205 WEST ADAMS BOULEVARD, LOS ANGELES 18, CALIFORNIA
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA.
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK A HISTORY OF ENGLISH POETRY ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

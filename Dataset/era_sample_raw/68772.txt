@@ -1,0 +1,2088 @@
+﻿The Project Gutenberg eBook of An inaugural dissertation on pulmonary consumption
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: An inaugural dissertation on pulmonary consumption
+
+Author: Edward Delafield
+
+
+        
+Release date: August 17, 2022 [eBook #68772]
+                Most recently updated: October 19, 2024
+
+Language: English
+
+Original publication: United States: John Forbes & co, 1816
+
+Other information and formats: www.gutenberg.org/ebooks/68772
+
+Credits: Sonya Schermann and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK AN INAUGURAL DISSERTATION ON PULMONARY CONSUMPTION ***
+
+  AN
+
+  Inaugural Dissertation
+
+  ON
+
+  PULMONARY CONSUMPTION.
+
+  BY EDWARD DELAFIELD, A. B.
+
+            ----For want of timely care,
+  Millions have died of medicable wounds.     ARMSTRONG.
+
+  _NEW-YORK_:
+
+  PRINTED BY JOHN FORBES & CO.
+  78 WALL-STREET.
+
+  1816.
+
+
+
+
+  TO
+
+  SAMUEL BORROWE, M. D.
+
+  ONE OF THE SURGEONS OF THE NEW-YORK HOSPITAL,
+
+  THIS DISSERTATION
+
+  IS DEDICATED,
+
+  AS A TESTIMONY OF GRATITUDE
+
+  FOR THE MANY VALUABLE PRACTICAL LESSONS
+
+  RECEIVED FROM HIM
+
+  BY HIS FRIEND AND PUPIL,
+
+  EDWARD DELAFIELD.
+
+
+
+
+INTRODUCTION.
+
+
+The attention of Physicians has for several years past been excited
+to the consideration of that inveterate enemy of the human race, the
+CONSUMPTION. Several works have been published, new remedies proposed,
+and the practice of former physicians revived with modifications
+and amendments, in the treatment of this disease. At one period,
+Consumption had been so long considered without the reach of remedies,
+that it had almost ceased to excite the enquiries of the learned in
+medicine. Fortunately, however, the spirit of enquiry has revived; and
+it is believed that the treatment of this dreadful malady has been so
+far improved, that many are rescued from its grasp, and the sufferings
+of those who are still its victims, are materially mitigated.
+Notwithstanding, it appears that in this city the mortality from
+Consumption has increased rapidly of late years. Formerly, its climate
+was considered remarkably salubrious, and diseases of the lungs were
+rare. Lieutenant Governor Colden, in a series of remarks on the climate
+and diseases of New-York, made seventy years ago, has the following
+observations: “The air of the country being almost always clear, and
+its spring strong, we have few consumptions or diseases of the lungs.
+People inclined to be consumptive in England, are often perfectly cured
+by our fine air; but if there be ulcers formed, they die. The climate
+grows every day better, as the country is cleared of the woods; and
+more healthy, as all the people that have lived long here testify. This
+has even been sensible to me, though I have lived but about twelve
+years in this country; I therefore doubt not but it will in time,
+become one of the most agreeable and healthy climates on the face of
+the earth.”[1]
+
+These anticipations have not been realized; but, on the contrary,
+Consumption has become the prevailing disease of our city. The causes
+of this increase of the disease are numerous. We are told by Dr.
+Rush, that it is unknown among the Indians of North America; that it
+is scarcely known by those citizens of the United States who live in
+the first stage of civilized life, and are generally called the first
+settlers; that it is less common in country places than in cities, and
+increases in both, with intemperance and sedentary modes of life; that
+ship and house-carpenters, smiths, and all those artificers, whose
+business requires great exertion of strength in the open air, in all
+seasons of the year, are less subject to this disease than men who
+work under cover, and at occupations which do not require the constant
+action of their lungs. By applying these facts to the situation of
+this city, the causes which have produced the increased mortality from
+consumption, become evident.
+
+1. The growth of the city, and consequent state of the atmosphere, most
+distant from that of the pure air of the country.
+
+2. The increase of all those causes which have enervated the bodies of
+men, and rendered them more susceptible to the influence of a variable
+climate. Among these are, augmentation of wealth, and consequently,
+luxury; increased dissipation, with its accompaniment, imprudence in
+dress; and extension of manufactures, affording greater opportunity for
+sedentary employments, and exposure to an insalubrious atmosphere. In
+general, the causes are, all those circumstances which tend to remove
+man farthest from that situation, in which the body is possessed of
+the greatest vigour, and of course, least subject to disease, that of
+the savage. In proportion as the city has enlarged, these causes have
+continued to increase, and probably still will do so. But in Great
+Britain, they appear already to have attained their acme, and as a
+consequence of the improvements in medicine, the causes not increasing,
+the disease is on the decline.[2]
+
+The following statement will show the proportion, which the number of
+those who die from consumption, bears to the whole number of deaths, in
+this city, during the last twelve years.
+
+In 1804, 499 persons died from Consumption, and were to the whole
+number of deaths, 2125 as 1 to 4.25.
+
+  In 1805      462      2352      1      5.09
+     1806      354      2225      1      6.28
+     1807      464      2312      1      4.94
+     1808      429      2014      1      4.69
+     1809      413      2108      1      5.1
+     1810      569      2158      1      3.79
+     1811      595      2524      1      4.24
+     1812      669      2553      1      3.81
+     1813      562      2229      1      3.96
+     1814      618      2507      1      4.04
+     1815      572      1974      1      3.8
+
+From this statement it appears, that the number of deaths from
+Consumption has gradually increased. The average proportion during the
+period mentioned, is as 1 to 4.36. Nearly one fourth of all those who
+die in this city are destroyed by this fatal disease.
+
+These facts prove indeed that the power of medicine has little control
+over so destructive a malady. But it should not therefore paralyse our
+exertions. From what has been done already, in improving our knowledge
+of its nature and treatment, a hope may be indulged that consumption
+may one day, like many other maladies formerly deemed incurable, be
+placed no longer among that number.
+
+
+
+
+INAUGURAL DISSERTATION
+
+ON
+
+PULMONARY CONSUMPTION.
+
+
+The term Phthisis, or Consumption, in its broadest sense, is applied
+to all those diseases, in which the system sinks under a gradual
+waste of the powers of life. These diseases may be divided into two
+great classes--1. That form of Consumption in which the lungs are
+unaffected.--2. Phthisis Pulmonalis, properly so called, where the
+lungs are the seat of the disease.
+
+Under the first class are included,
+
+1. Atrophia, or Consumption from want of nourishment, or excessive
+evacuations, but without hectic fever; excluding all those forms of
+disease produced by immoderate evacuations, in which the lungs become
+affected.
+
+2. Tabes, accompanied with hectic fever, frequently attended with
+disease of the mesenteric glands, and produced most commonly by
+scrophula.
+
+The second class, Phthisis Pulmonalis, to the consideration of which
+this essay will be more immediately confined, may be also subdivided
+into,
+
+1. Primary, where the lungs are the original seat of the disease, and
+as a consequence, the general system becomes affected.
+
+2. Secondary, where the system being first reduced by any debilitating
+cause, the lungs become secondarily affected, as a symptom of the
+general disease.
+
+These two forms of Consumption, although somewhat similar in their
+symptoms, yet proceed from opposite causes, and require opposite
+treatment. The one is a disease of pure inflammation; the other of
+unmixed debility. In the one, an active antiphlogistic treatment is
+necessary; in the other, the system requires all the support, which
+tonics and good nourishment can afford.
+
+Phthisis Pulmonalis is thus defined by Dr. Cullen, “_Corporis
+emaciatio et debilitas, cum tussi, febre hectica, et expectoratione
+purulenta_.” This definition is peculiarly incorrect, because it leads
+us to neglect, the first stage of the disease; if the symptoms of an
+Incipient Phthisis were stated to us, and we were asked, what was the
+disease, from this definition we would be perfectly at a loss for an
+answer. Except the cough, none of the symptoms there stated are to be
+found in the first stage of Consumption. And yet that is as truly a
+part of it, and of as much importance to the practitioner, as the last
+stage, which alone is included in Cullen’s definition.[3]
+
+Agreeably to this definition, in his view of Phthisis Pulmonalis, Dr.
+Cullen makes ulceration of the lungs and hectic fever essential to its
+existence, and seems rather to consider the preceding symptoms a cause
+of this ulceration and fever, than as constituting an integrant part of
+the disease.
+
+Nor is the place assigned by him to Phthisis Pulmonalis, in his
+Nosological Arrangement, more correct than his definition of it. He
+places it in the order Hæmorrhagiæ, and considers it merely as a
+consequence of Hæmoptysis. Even if it were always excited by hæmorrhage
+from the lungs, it would be improperly thus placed; but as that, even
+by Dr. Cullen, is considered merely as one among many exciting causes,
+the arrangement is altogether inadmissible. But if it be admitted,
+according to the view which will be hereafter taken of Hæmoptysis in
+this treatise, that it is rather a symptom than a cause of Consumption,
+the propriety of another arrangement will be evident. Accordingly
+Phthisis Pulmonalis is placed by Dr. Hosack, as one of the Phlegmasiæ.
+This disposition appears to be the most proper that has hitherto been
+suggested, and as such I shall adopt it. But before we can ascertain
+the character and treatment of any diseases, it is necessary minutely
+to examine their causes and symptoms.
+
+Primary Phthisis Pulmonalis first claims our attention. Its
+predisposing causes may be mostly arranged into five classes, as they
+depend on organization, age, sex, occupation and climate.
+
+Organization predisposes to Consumption, by mal-conformation of the
+chest, which may be either natural or accidental; and an hereditary
+internal structure not depending on the external form of the thorax.
+For it is observed, that in some instances, those who have every
+part of the external configuration, such as is generally attributed
+to persons predisposed to Consumption, yet shall be free from this
+disease; while on the other hand, some whose chests are externally
+perfectly well formed, have been subject to catarrhal and inflammatory
+complaints of the lungs, terminating in Phthisis. The form of chest
+peculiar to many Phthisical patients, “is occasioned by the sternal
+or breast-bone being pressed too much in upon the substance of the
+lungs: thus the clavicles and shoulder-blades are thrust out of their
+proper position, and made to assume, in some measure, the form of
+wings, to which indeed they have been with propriety compared, just
+raised from the body and about to expand for flight. By this internal
+direction of the sternum, the full expansion and proper sweep of the
+ribs is likewise prevented, and an unnatural curvature or prominence is
+occasioned on either side of the breast, with a corresponding central
+depression.”[4] This is the peculiar form to which the term narrow
+chest is generally applied. A flattened or any other unnatural figure
+of the chest may produce the same injury.
+
+The thorax may become accidentally malformed from any violence done to
+it, particularly during infancy. A frequent source of it is the mode of
+fashionable dress adopted by females. The corset, to which I allude,
+when worn only with moderate firmness, and by those not otherwise
+predisposed to Phthisis, serves but to add elegance and beauty to the
+female figure; but when applied with the object of converting into a
+delicate and slender waist, one naturally otherwise, it cannot but do
+injury. By immoderate pressure, it converts a well formed chest into
+the deformed and narrow one, or at least an approximation to it, which
+has just been described. In our own city and time, too many fatal
+examples of the deleterious effects of this fashion have occurred, to
+permit us to retain any doubts on the subject.
+
+The internal constitution of the body predisposing to Phthisis,
+independent of external form, has been generally attributed to
+scrophula. English authors are particularly fond of making Consumption
+another form of that Protæan disease. We are much disinclined to concur
+in this opinion from the fact, that the mass of those who labour under
+the disease in question, and cases too, which, after death show that
+tuberculated state of the lungs, generally ascribed to scrophula,
+evince no other of the numerous symptoms of that disorder. The
+supposition that tubercles were scrophulous, probably originated from
+the opinion that they are diseased glands; an idea now sufficiently
+exploded. This hereditary predisposition we know to exist, but of its
+mode of action we are totally ignorant. In this city there are many
+melancholy examples of whole families successively falling victims to
+Consumption, and sufficiently proving its hereditary nature. But an
+hereditary predisposition does not necessarily produce Consumption. It
+is not uncommon for parents who inherit this taint, to remain free from
+disease of the lungs, by the pursuit of laborious occupations. Nor is
+it more uncommon that the children of these very parents, whose active
+industry had preserved their lives, and amassed them wealth, should
+by being enabled to indulge in ease and luxury, fall victims to an
+inherited Consumption.
+
+So the females of a family are sometimes all consumptive, while the
+males are free from pulmonary disease, in consequence of the more
+sedentary mode of life of the former.
+
+Although no period of life, from infancy to old age, is exempt from
+Consumption, but all are liable to its attack, yet at a particular age,
+it is observed to appear more frequently than at any other. This period
+commences about, or soon after the age of puberty, and terminates at
+thirty-six; the period at which inflammatory diseases most generally
+occur.
+
+Sex also gives a predisposition to Consumption. Females are more
+frequently affected by it than males. This may be attributed to
+their greater delicacy of constitution, and nervous temperament.
+Their comparatively sedentary habits of life add to this peculiar
+constitution. But improper compliance with the requisitions of fashion
+and taste constitutes not a small part of the greater susceptibility
+of females to Phthisis. Independent of the use of corsets, the small
+quantity of clothing frequently worn by them, under circumstances when
+it is most necessary, is a fruitful source of mischief to their health.
+In the coldest of our winter nights, will these fair devotees of
+fashion issue from rooms, heated to a degree never experienced in our
+hottest weather, into the chilling air of midnight, with less clothing
+than they use at noon, when the sun exerts his greatest power. The next
+day brings with it “a violent cold,” and this cold is too frequently
+the foundation of the Consumption which destroys them.
+
+Occupation in life is another source of the ravages of this disease.
+Particular occupations subject those engaged in them to the respiration
+of air impregnated with foreign materials, irritating the lungs, either
+by their chemical or mechanical action. Substances acting mechanically
+upon the lungs, are inhaled by stone-cutters, millers, hair-dressers,
+bolters, coal-heavers, scythe-grinders, persons engaged in pointing
+needles, chimney-sweepers, dressers of flax and feathers, spinners
+in wool, and others employed in similar occupations. Chemical agents
+are taken into the lungs by manufacturers of acids, and all other
+volatile corroding substances. These materials constantly acting upon
+the lungs, produce irritation and slight inflammation, terminating
+in Phthisis. The operation of any of these causes is favoured when
+the occupation requires a stooping or other awkward posture of the
+body to be maintained. This cause may act independently of the former
+also, and hence, students, and clerks writing at their desks, taylors,
+shoemakers, &c. are liable to this disease. To the same causes are
+frequently added, a sedentary life, and confinement in hot rooms;
+hence “a surgeon of London whose opportunities of observation are very
+extensive, relates of the gilders of that city, who work in heated
+rooms, that six out of seven are said to die consumptive in their
+apprenticeship.” Sedentary habits of life, accompanied with hard
+study, and too intense application of mind, predispose literary men to
+Consumption. Loud public speaking, blowing on wind instruments, glass
+blowing and other circumstances requiring a laborious and continued
+action of the lungs, produce the same effect. Any one of these causes
+may frequently exist without injury, but their combined action seldom
+fails to produce pulmonary disease.
+
+Climate was enumerated under the predisposing causes of Phthisis. That
+of our own latitude affords an example. Its variableness, increased
+by contiguity to the ocean, together with the prevalence of the moist
+and chilling north-east winds, is probably the agent which produces
+this effect. The climate of Great Britain is not less unfavourable
+to health, from similar causes, with the addition of its greater
+moisture; for it is observed that cold combined with moisture is
+peculiarly dangerous to the consumptive. On the other hand, inland
+countries, not exposed to the moist winds from the ocean, are free
+from this disease. Hence, the inhabitants of Russia and other parts of
+the north of Europe, notwithstanding the severity of their climate,
+are very little affected by Consumption. The habits of the people,
+probably assist in producing this immunity from pulmonary disease.
+Sir John Sinclair, in a communication to Dr. Reid, attributes it in
+a great measure to the employment of furs, cloaks and other modes of
+clothing, which preserve an uniformity of warmth throughout the body;
+to the great care taken by all classes of people to preserve their feet
+from cold and damp; to the different modes of communicating heat to
+their apartments; and to the constant use of the vapour bath. Similar
+observations were made by Dr. Cogan, who in a letter to Dr. Beddoes,
+remarks that the people of Holland are exempt in a great degree
+from this disease, so prevalent among the English, and ascribes the
+difference to the contrast observable between the two countries, in the
+construction of their habitations, and in the peculiarities of dress.
+
+Debility from the want of accustomed stimuli, is mentioned by Dr.
+Hosack as another cause of consumption, and he instances those confined
+in the State Prison. The want of accustomed air and exercise, the
+deprivation of the use of spirituous liquors and good diet, to which
+the prisoners had been accustomed before their confinement, was
+observed by him to have produced this disease.
+
+Depressing passions of the mind, and a consequent too free use of
+spirituous liquors have also been noticed by authors among the
+predisposing causes of Consumption.
+
+The last of these causes which I shall notice, is the disposition
+of the system to form calculous deposits in the lungs, generally in
+consequence of a plethoric habit. Phthisis from this cause however is
+rare; of nine hundred patients examined by Bayle, only four were of
+this description.
+
+These various causes having either separately or conjointly predisposed
+the body to Phthisis, are most frequently excited into action by a
+common catarrh; which becomes the more active by frequent repetition.
+The danger arising from catarrh is not a little increased by the
+popular mode of treating it: stimulating spirituous drinks, and a vast
+variety of remedies of the same class are the usual prescriptions.
+Almost every body has an infallible remedy for a cold; some of
+them innocent, but many injurious. The common prejudice in favour
+of “feeding a cold” increases the mischief, and unfortunately, the
+disease not generally affecting the system sufficiently to destroy
+the appetite, as in many other maladies, nature does not prevent
+the practice. Abstinence, cooling acidulous drinks, with perhaps a
+gentle saline cathartic, are the safest and most effectual remedies in
+curing a common catarrh, when of its usual slight form. At the same
+time, inhaling warm air, by means of Mudge’s apparatus, is a valuable
+and grateful auxiliary to this treatment. Catarrh is so common and
+generally so easily cured without any consequent ill effects, that it
+is too apt to be neglected. Many a patient, labouring under incipient
+Phthisis, has been supposed to be affected by merely a “trifling
+cold,” and the only opportunity for curing the disease has been lost.
+“The evil becomes irremediable before it calls either the attention
+of the parents, the friends, or even the physician, who has not been
+familiarly conversant with the fatal consequences of this disease.”[5]
+
+Pneumonia is not unfrequently an exciting cause of Phthisis. Like
+catarrh, its frequent repetition is more dangerous than a single
+attack. Pneumonia may indeed act merely as a predisposing cause of
+Consumption, by leaving the lungs in a debilitated and irritable
+condition, favourable to the production of that disease; but it is
+an exciting cause, when in consequence of inflammation of the lungs,
+suppuration follows, and vomica or empyema is the consequence. This
+shews the close analogy between Phthisis Pulmonalis and ordinary
+Pneumonia. In the first, the inflammation being seated in the cellular
+and comparatively insensible portion of the lungs, is slow and
+gradual, and the consequent suppuration forms in the same manner;
+while in Pneumonia, the membranous as well as cellular portion of the
+lungs being involved in the disease, the inflammation is rapid and
+violent, and must soon terminate in either resolution or suppuration.
+Hence Phthisis Pulmonalis was appropriately called by Dr. Rush a
+“_Pneumonicula_.” No word could more accurately describe the nature
+of the disease. That acute observer has drawn an excellent parallel
+between the two diseases, and concludes with observing, “In short the
+pneumony and Consumption are alike in so many particulars, that they
+appear to resemble shadows of the same substance. They differ only as
+the protracted shadow of the evening does from that of the noon-day
+sun.” It is remarked, however, that all cases of Pneumonia terminating
+in suppuration are not necessarily fatal. If a predisposition to
+Phthisis do not exist, or the constitution be not too much debilitated,
+a vomica may burst and be discharged, and the patient recover.
+
+A third exciting cause of Phthisis, is the suppression of accustomed
+evacuations. These evacuations are the menses, the lochiae, the
+discharges in Leucorrhæa, and from ulcers, fistulæ and issues.
+Retention of the menses producing Chlorosis, being a consequence
+of debility, does not excite primary Phthisis Pulmonalis, but the
+secondary form of the disease. Suppression of the menses, however, not
+unfrequently excites a Consumption, bearing all the characters and
+requiring the treatment of primary Phthisis. The plethora, consequent
+on the cessation of the menses, has often the same effect.
+
+Asthma, by the constant irritation to which it subjects the lungs,
+becomes an exciting cause of Consumption.
+
+Several eruptive diseases, as Scarlatina, Small-Pox and measles, often
+produce the same disease.
+
+Morton also enumerates stone in the kidneys and bladder, gout and
+rheumatism, as causes of Consumption.
+
+By the same author, contagion is supposed to communicate this disease.
+Morgagni, Van Swieten, Home and Heberden all hold this opinion. And
+Morgagni relates that Valsalva, who was predisposed to Consumption, was
+so satisfied of its contagious nature, that he constantly avoided being
+present at the dissection of the lungs of persons who had died of that
+disorder.
+
+Dr. Rush maintains the same doctrine, and relates that the late Dr.
+Beardsley of Connecticut, informed him that he had known several black
+slaves affected by a Consumption, which had previously swept away
+several of the white members of the family to which they belonged.
+In these slaves no suspicion was entertained of the most distant
+relationship to the persons from whom they had contracted the disease:
+nor had grief nor fatigue, been supposed to have had the least share
+in debilitating their bodies. The force of so much authority with
+the evidence adduced, constrains us to admit the communicability
+of Consumption by contagion. But if this agent has any effect, its
+action must be extremely limited, and extend no farther than to those
+previously predisposed to the disease. For daily examples without
+number occur of the constant attendants upon those labouring under
+Phthisis remaining perfectly free from that malady.
+
+Violence done to the lungs by blows or other injuries of the chest, has
+in some instances, excited Consumption.[6]
+
+Foreign bodies conveyed accidentally into the lungs has produced the
+same effect. Morton relates a curious case where three nails had passed
+into a person’s trachea and destroyed him, by inducing Consumption.
+
+Bayle also enumerates a form of Phthisis, which he calls cancerous,
+arising in patients in whom the cancerous disposition has become
+constitutional. It is, however, extremely rare; only three cases having
+occurred to him among the 900 whom he had examined.
+
+Hæmoptysis and tubercles are mentioned by most authors as exciting
+causes of Consumption, and remain to be examined. So frequently did Dr.
+Cullen consider Hæmoptysis the cause of Phthisis, that he placed the
+latter disease in his Nosology, merely as a consequence of the former.
+The impropriety of this arrangement has been already touched upon.
+
+On this subject, I would suggest the following facts. Hæmoptysis
+occurring in persons not predisposed to Consumption, except the
+quantity of blood lost be so great as to produce it by mere debility,
+very frequently may be easily cured without danger of any consequent
+disease. Indeed not only in such cases consumption is not induced by
+it, but that disease has actually been prevented, by the occurrence of
+hæmorrhage from the lungs, relieving that inflammation, which the inert
+physician, by withholding the lancet, would have suffered to destroy
+his patient. Dr. Rush relates two cases of inflammatory Consumption
+attended by a hæmorrhage of a quart of blood from the lungs, in which
+the patient recovered; and ascribes their recovery entirely to the
+loss of blood. Wounds and other injuries of the lungs frequently heal,
+when no predisposition to Phthisis exists, as easily as in other parts
+of the body. Of this fact also Dr. Rush affords an example. A British
+officer informed him, a few days after the battle of Brandywine, in
+September 1777, that the surgeon general of the royal army had assured
+him, that out of twenty four soldiers admitted into the hospitals,
+during the campaign of 1776, with wounds of their lungs, twenty-three
+recovered. These facts prove sufficiently that the constant motion of
+the lungs does not prevent the healing process taking place in them as
+easily as in other parts of the body.
+
+In most instances, the spitting of blood which is supposed to have
+produced the Consumption, has occurred a considerable period before
+the Phthisical symptoms appeared. During this interval perhaps the
+patient was perfectly well. Can it be supposed, that the inflammation
+necessary to form an ulcer, and the process of ulceration itself, could
+so long be going on unperceived, without producing any irritation of
+the lungs? Is it not more probable, that the Hæmoptysis was recovered
+from, and that the same cause which produced it, at length produced the
+Consumption?
+
+Hæmoptysis, then, I would consider, as very seldom, perhaps, never,
+being the cause of Consumption; but in all those cases in which it
+is assigned as the cause, merely a symptom of the incipient stage of
+the disease. The symptoms accompanying hæmorrhage from the lungs, are
+no other than those of incipient Phthisis. They are thus accurately
+described by Dr. Reid. “When subsequent to a sense of weight and
+oppression in the breast, which scarcely amounts to a feeling of pain,
+together with cough, difficult respiration, and general lassitude, a
+quantity of blood is suddenly, and in a convulsive manner, discharged
+from the mouth, there can remain small doubt respecting the part from
+which it proceeds. If the discharged blood be of a florid colour, and
+together with the above symptoms, a saltish taste be perceived in the
+mouth, and the patient become sensible of a degree of irritation in
+the upper part of the trachea, the nature of the affection is rendered
+altogether unequivocal.” Every symptom here enumerated, occurs in the
+early periods of Consumption.
+
+Nor have we any better reason for believing tubercles to be an exciting
+cause of Phthisis. These appearances are indeed very frequently found
+in dissections of the lungs of those who have died of Consumption.
+Of the nine hundred patients examined by Bayle, 624 had tuberculated
+lungs. Tubercles were formerly considered as indurated glands, and
+generally attributed to a scrophulous constitution; but we are assured
+by Baillie, in his morbid Anatomy, “that there is no glandular
+structure in the cellular connecting membrane of the lungs; and on
+the inside of the branches of the trachea, where there are follicles,
+tubercles have never been seen.” These tubercles are roundish bodies,
+of a firm consistence, and frequently a cartilaginous structure, but
+often containing decidedly purulent matter. By the union of several
+of them, vomicæ are formed, which are only larger tubercles. May not
+the formation of these bodies be sufficiently accounted for by the
+preceding inflammation, and they be considered therefore a consequence,
+rather than a cause of Consumption? Dr. Rush insists that tubercles are
+the effects, and not the cause of pulmonary Consumption; and remarks as
+a farther evidence of this opinion, that similar tumours are suddenly
+formed on the intestines by dysentery, and on the omentum by a yellow
+fever. He refers to cases of the former in the dissections of Sir John
+Pringle, and one of the latter mentioned by Dr. Mackittrick, in his
+inaugural dissertation on the yellow fever, published in Edinburgh,
+in the year 1776. Dr. Hosack, in his Lectures on the Theory and
+Practice of Physic, advocates the same doctrine, and enforces it, by
+remarking, that similar tubercles are formed in the parenchyma of
+the brain, the liver, and the kidneys, in which no small glands have
+yet been detected, and where, as in the lungs, there is nothing but
+cellular membrane and vessels. It is his opinion, that it is an union
+of a number of these cells in a state of congestion that constitutes
+tubercles or vomicæ--that in some instances they heal, the matter is
+absorbed, and they remain in a scirrhous state, the patient becoming
+perfectly restored to health; and hence the remark of Dr. Simmons,
+that tubercles may exist without Phthisis.
+
+These are all the principal predisposing and exciting causes of
+Phthisis Pulmonalis. Some few others are mentioned by authors, but they
+are of either very doubtful agency, or too rare to deserve notice.
+
+The disease having been excited into action, produces a succession
+of symptoms which are now to be detailed. Its attack is frequently
+extremely insidious and slow; at other times, well marked and rapid in
+its progress. It is to this insidious and gradual mode of attack, that
+Consumption owes much of its fatal character. Before the unfortunate
+patient suspects himself to be seriously indisposed, it but too
+frequently happens, that his fate is sealed, and death is inevitable.
+This arrives in part from the resemblance that Incipient Phthisis
+bears to a long continued catarrh. It frequently is only marked in
+its earliest periods by a slight, dry, hacking cough, trivial during
+the day, increased at evening, and most troublesome at night; a sense
+of weight about the breast, and some little difficulty of breathing,
+increased on taking any unusual exercise, or ascending a height; the
+pulse is slightly accelerated, and sometimes only so after taking food:
+occasionally, burning hands and feet, and a slight flush in the cheek
+are the only symptoms of fever. These symptoms may be so slight as
+hardly to attract the patient’s notice; at other times they are more
+severe and distressing. Frequently, on any little unusual exercise,
+the cough is increased, the patient feels a pain in the side, and
+expectorates a frothy mucus, and blood is discharged from the lungs.
+This, perhaps, is the first symptom which excites the alarm of the
+patient. Expectoration of blood is generally preceded by a saltish
+taste in the mouth, and a sense of irritation at the upper part of the
+trachea. It is known to come from the lungs and not the stomach, by its
+frothy appearance and admixture with mucus, while that from the stomach
+is generally dark coloured and mixed with the food; and by being
+brought up by coughing and not vomiting. The blood coming from the
+stomach too, is generally in larger quantity than that from the lungs.
+
+In addition to these symptoms, the patient is often affected by an
+increased sensibility of the lungs, observable on any exposure to
+cold, change of dress, or going from a warm to a cool apartment.
+There is a sense of soreness in the lungs attended with a sensation
+of stricture about the chest. Pain is felt in the side or breast, and
+the patient lies with difficulty on the side affected. The pain is
+frequently lancinating, and shooting through the breast, sometimes in
+the direction of the mediastinum, at others, confined to one side.
+
+As the disease advances, the symptoms of fever become more marked. The
+tongue is dry, attended with thirst, loss of appetite, nausea, and
+occasional vomiting, and a desire for acids. The secretions generally
+are checked. Perspiration is diminished, and the skin is hot and dry.
+The urine is at first diminished in quantity, and high coloured. The
+menses, in females, are either suppressed or very irregular. The
+bowels are frequently costive. The patient passes restless nights,
+and is prevented sleeping by a tormenting cough, or if he sleeps, is
+troubled with dreams. In consequence of indigestion, pain is felt in
+the situation of the stomach, attended with flatulence. The patient
+begins to have a pallid countenance, and emaciation gradually takes
+place.
+
+These symptoms may continue a length of time, gradually debilitating
+the patient. But the expectoration which at first was frothy, in
+small quantity, and coughed up with difficulty and pain, increases,
+and gradually passing through all the stages between mucus and pus,
+at length becomes decidedly purulent. A new train of symptoms follow.
+Hectic fever makes its appearance, commencing with irregular cold and
+shivering fits, returning frequently during the day. It soon, however,
+assumes a decided character, and has two marked exacerbations, the
+one at noon, the other at night. These exacerbations begin with a
+sense of coldness, succeeded by heat, and at night terminating in
+profuse perspiration. During the chill and hot fit, the cough, pain,
+and dyspnœa are aggravated, but relieved by the sweating. The pulse
+before the paroxysm is accelerated and weak, during its continuance
+quick and strong, but abates as the perspiration flows. The countenance
+is generally pale, but during the exacerbation is marked by a
+circumscribed crimson flush, which occurs mostly at noon, but may be
+produced by taking food or any other cause of excitement. The profuse
+sweats do not occur after the exacerbation at noon, but in the morning,
+while the patient is warm in bed, with the system relaxed by sleep.
+The perspiration is principally confined to the superior parts of the
+body, as the neck, breast, and about the shoulders. The tongue is often
+very clean during hectic fever, but sometimes furred. The bowels are
+generally torpid, alternating with diarrhœa.
+
+The disease continuing to advance, the cough and dyspnæa increase, and
+the hectic symptoms become more marked and violent. Emaciation rapidly
+goes on, the face looks sharp and haggard, and the absorption of fat
+makes the eyes appear remarkably large and prominent. At the same time,
+the teeth appear unusually white and beautiful. The appetite becomes
+extremely irregular, the pulse more accelerated and diminished in
+strength. The mind is extremely vacillating, at one time depressed, at
+another, elated with hopes of recovery. Profuse diarrhœas, alternated
+with obstinate torpor of the bowels, exhaust the patient; the eyes
+assume a ghastly and pearly whiteness; the mouth becomes filled with
+apthous eruptions; sometimes hiccup ensues; the patient’s mind becoming
+more and more disturbed, delirium comes on, which soon terminates in
+death.
+
+An assemblage of some or all these symptoms, constitutes Phthisis
+Pulmonalis, differing however very materially in number, degree and
+violence in different patients. They are variously modified by a number
+of attending circumstances, which require some attention.
+
+Many authors declare, that an expectoration of pus does not always
+attend this disease. The matter may be confined in a vomica, and the
+patient die with the symptoms of Phthisis before it bursts. Nor does a
+purulent expectoration necessarily indicate the existence of an ulcer
+in the lungs. The matter may be poured out from the secreting surfaces
+of the lungs without ulceration, precisely as it comes from the adnata
+of the eye after opthalmia, or the urethra in gonorrhœa, where no
+ulcer is suspected. In the New-York hospital, dissections of numerous
+patients who have died of Phthisis, sufficiently prove the fact in
+question.
+
+Nor does pain in the side or breast, always accompany this disease. Dr.
+Reid remarks that many cases have occurred in his practice, where no
+pain in any part of the chest has been observed during the whole course
+of the disorder. “I have witnessed,” says Dr. Heberden, “many deaths
+from genuine pulmonary consumption, where dissection has demonstrated
+an entire destruction of the substance of the lungs, and where through
+the whole course of the disease, neither expectoration of blood,
+difficulty of breathing, nor pain in the side had been present.” On
+the other hand, pain in the side may occur merely as a consequence of
+the debilitated or irregular action of the muscles, as in walking, and
+should not be mistaken for a symptom of Consumption.
+
+In the course of the disease, dropsical effusions, constituting
+Ascites, Hydrothorax and Anasarca, are not unusual, as in other
+diseases where great debility is produced.
+
+In the advanced periods of Consumption, diarrhœa constitutes a
+prominent and troublesome symptom. This is sometimes produced by any
+cause which checks the profuse sweats; while on the other hand, if the
+diarrhœa be checked, the cough and dyspnœa, which perhaps had been
+relieved by it, frequently return with redoubled violence. Under these
+circumstances, the condition of the patient is hopeless indeed.
+
+The approach of summer frequently mitigates the sufferings of the
+consumptive, and gives them hopes of returning health; but when winter
+returns, these hopes are blasted; the patient sinks again into his
+former condition, and most generally is cut off during the cold season.
+
+The symptoms of Phthisis are frequently suspended or mitigated by any
+cause producing a new determination in the system. The most prominent
+of these causes is pregnancy. It almost invariably happens that
+the symptoms of Consumption are relieved by the occurrence of this
+event; but after parturition the disease returns with all its former
+violence. The occurrence of mania has produced the same effect, and
+has even entirely cured the disease; but generally, when the mania is
+removed, the symptoms of Consumption return. An attack of rheumatism
+has frequently relieved phthisical complaints. Dr. Rush refers to three
+clinical patients in the hospital of Pennsylvania to exemplify this
+observation. In the same manner gout is observed to alternate with
+Consumption, and during its paroxysms, the complaint of the lungs is
+relieved. Frequent cases are related, in works on this subject, of
+eruptions on the skin alternating with Phthisis Pulmonalis.
+
+Long continued ulcers, or fistulæ in ano not unfrequently relieve
+pulmonic complaints in phthisical patients; while the healing of these
+ulcers or fistulæ reproduces the disease with tenfold violence.
+
+A farther circumstance worthy of remark in this disease is, the
+willingness with which the patient suffers himself to be flattered with
+hopes of recovery. Notwithstanding he sees daily victims of Consumption
+falling around him; notwithstanding the perfect assurance he has of the
+small number of those who recover from it; to the last his hopes are
+not abandoned. Although depressed at night by the evening exacerbation
+of hectic fever; in the morning, from his comparatively comfortable
+situation, his hopes revive. Happy is it for these miserable sufferers
+that they do not despair. In a disease whose progress is frequently so
+slow, and whose event is but too often so sure, fortunate it is, that a
+solace remains to cheer the unhappy patient.
+
+The duration of Consumption is extremely various; from a few weeks to
+fifty years have patients laboured under it. In Bayle’s statement of
+the duration of the disease in two hundred cases in which the patients
+were destroyed by it, it was between two months and two years in 168
+cases, four were less than two months, and 28 remained more than two
+years.
+
+From the detail of symptoms which has just been given, it is evident,
+that there are two distinct stages of Phthisis Pulmonalis, each
+characterised by peculiar symptoms, and requiring peculiar treatment.
+The first, incipient, or acute stage as it is variously termed
+by authors, is the stage of inflammation, and terminates as soon
+as purulent expectoration and hectic fever commence. The second,
+confirmed, or chronic stage commences where the first terminates, and
+ends most generally in death. We would not however assert, that these
+stages can always be accurately distinguished, and a line drawn between
+them. On the contrary, hectic fever may occur early in the disease,
+before any expectoration of pus takes place, and inflammatory symptoms
+frequently attend its advanced stage. In general, the distinction can
+be made, and must necessarily guide the prudent physician.
+
+Having taken a view of the causes and symptoms of Phthisis Pulmonalis,
+we are now prepared to investigate the proximate cause of the disease.
+From the nature and extent of these symptoms, it appears evidently a
+disease of the whole system, and not confined merely to the lungs.
+The proximate cause, as taught by Dr. Hosack, in his lectures, is, an
+inflammation of the lungs, terminating either in a purulent secretion,
+or ulceration in their substance. This opinion is much strengthened by
+the analogy before remarked between Phthisis Pulmonalis and Pneumonia.
+It is a little singular that Dr. Rush, notwithstanding he had remarked
+this close analogy, and although he speaks of inflammatory fever as a
+part of the disease, and prescribes blood-letting in its treatment,
+should yet have made debility its proximate cause. This is only one
+instance among many, of physicians arriving at precisely the same
+modes of treatment by directly opposite routes. If that theory of
+inflammation be admitted, which makes debility its cause, so far it
+is also the proximate cause of Phthisis Pulmonalis. In the secondary
+species of Phthisis, hereafter to be considered, debility may be fairly
+ranked as the proximate cause, and the indications of cure correctly
+drawn from it. But in the primary disease under consideration, if we
+were to found our indications on this basis, and thence deduce the
+propriety of exhibiting powerful tonics in the first stage of the
+disease, when brought to the test of practice, its error would soon
+become sufficiently glaring.
+
+Various other causes have been successively treated of by authors,
+but to shew their inconsistency and absurdity, it is only necessary
+to observe that, “the existence of an acid or an alkali, of chemical
+acrimony, or mechanical changes in the blood, of corroding volatile
+particles, and even of animalcula in the lungs, have been vaguely
+conjectured to be the cause of pulmonary ulcer and hectic fever.[7]”
+
+Assuming then, inflammation of the lungs, and consequent ulceration
+of their substance as the proximate cause of Phthisis Pulmonalis, we
+naturally deduce the following indications in the treatment of the
+disease.
+
+1. To endeavour to relieve the inflammation of the lungs, and promote
+its resolution.
+
+2. If, notwithstanding all our efforts, suppuration takes place, to
+give sufficient support and tone to the system to enable the ulcers to
+heal.
+
+In fulfilling these indications, our first object is to remove the
+remote causes, where it is possible. If the patient’s occupation is
+one of those which predisposes to Consumption, unless it be abandoned,
+or at least so modified as to correct the objectionable parts of it,
+we cannot hope to cure the disease. If the disease arise from the
+suppression of an accustomed evacuation, our utmost endeavours must
+be made to restore it. Should suppression of the menses be the cause,
+means calculated to produce their return must be resorted to. If an
+ulcer or fistula has healed up, they must be re-opened, or issues
+established in more convenient situations. In short, the rule is plain
+and simple. Remove the remote causes, wherever it is practicable.
+
+Among the remedies which are necessary to fulfil the first indication,
+the most prominent is Blood-letting. This remedy has been strongly
+advocated by many of the most distinguished authors who have written
+on Consumption; and its propriety admitted by all under certain
+circumstances. Probably, most of the injurious effects attributed
+to it, may be accounted for by a proper distinction not having
+been made between Primary and Secondary Phthisis Pulmonalis. When
+bleeding has been practised in the secondary form of the disease,
+it has been generally injurious, and hence an odium has been cast
+upon its employment in any circumstances. In the same manner, it
+has done mischief, when used too late in Primary Phthisis, and thus
+another groundless argument furnished against the remedy. But the
+indiscriminate use of blood-letting is not here contended for. Its
+judicious and cautious use, when inflammatory action is evident, alone
+is intended to be advocated. On the other hand, too timid practice
+may induce us to withhold the lancet when it is necessary; and we
+may thus do as much injury by losing the proper time for action, as
+we would have done by pushing the remedy too far. It is difficult to
+fix the period beyond which it is improper to bleed in Consumption.
+Dr. Hosack insists that as long as there is any pain or soreness on
+taking a full inspiration, the lancet is necessary. This rule is not
+applicable to practice; for if we adopt it, we may bleed the patient
+until he dies. Until that moment will the pain in some instances
+continue. It is not unfrequent, after the patient has been exhausted
+by colliquative sweats, and profuse diarrhœa, for pain in the breast
+to recur at intervals, a few days before death: and what practitioner,
+under such circumstances, would feel himself justified in using the
+lancet? But this rule is incorrect in another point of view. In some
+cases, it will prevent our using this valuable remedy, when it is
+necessary. On the authority of Dr. Reid, it is asserted, that pain
+is not always present in Phthisis Pulmonalis; and may not occur
+during the whole course of the disease. A reference has been already
+made to Dr. Heberden to prove the same fact. On this subject it is
+impossible to fix any precise rule. The strength and habit of the
+patient, the urgency of the symptoms, and state of the pulse, must all
+be recollected and adverted to in making up our judgment as to the
+propriety of the remedy. In general, perhaps we may say, that after the
+formation of matter is perfectly ascertained, it is improper to bleed.
+This, however, is not without exceptions. Cases sometimes occur, after
+this period, in which the symptoms of high inflammatory action arise,
+and where the lancet is indicated. It is now generally admitted that
+the buffy appearance of the blood is by no means an infallible evidence
+of the necessity of the repetition of blood-letting. Nor is its cupped
+form a better proof of the existence of inflammation. Many writers have
+observed, that the buffy coat appears in the blood drawn in Consumption
+at the latest periods of the disease. A remarkable and decided case of
+Enteritis, occurred during the last winter, in the New-York Hospital,
+in which very large and repeated bleedings were made use of, with
+the good effect of curing the patient: and yet, neither buff nor the
+cuplike form appeared in the smallest degree in the blood drawn. This
+case alone is sufficient to prove, how equivocal are these appearances
+of the blood, as tests of inflammation. Nevertheless, the judicious
+practitioner will not fail to observe these circumstances, and as they
+so frequently accompany inflammation, will consider them, when attended
+with other evidences, as properly influencing his judgment on the
+propriety of bleeding.
+
+If the abstraction of blood from the system generally is useful, no
+less so is it when drawn from the part itself, by the application
+of cupping-glasses, and the scarificator to the chest. This mode of
+obtaining blood is peculiarly useful in those frequent cases, where the
+patient is too much debilitated to bear the loss of much blood, but the
+existence of inflammatory action makes its abstraction necessary.
+
+Emetics are a powerful remedy in the treatment of Phthisis. They not
+only promote expectoration, and relieve the distressing cough in the
+first stage of the disease, but by their general relaxing effects
+upon the system, are useful in reducing inflammatory action. The use
+of this remedy, however, should not in general be commenced until
+blood-letting has been premised; otherwise in plethoric habits, full
+vomiting might induce hæmoptysis. Practitioners have differed very
+much in the choice of emetics proper in this disease. The antimonial
+preparations and ipecacuanha, as acting more generally upon the system
+in reducing excitement, and from their good effects in other febrile
+diseases, appear to be the most proper. But in the last stage of
+Consumption, where our object is to relieve the pulmonary symptoms,
+without debilitating the patient, the sulphates of zinc and copper are
+preferable.
+
+Emetics are not only useful when exhibited for the purpose of full
+vomiting, but medicines of the same class given as diaphorectics are
+also proper. With this view the various preparations of antimony are in
+use. Small doses of the Antimonial powder combined with calomel have
+been found, perhaps, one of the best sudorifics that can be employed,
+and as such are frequently useful in Phthisis. No medicine is superior
+to this combination in reducing inflammatory action; and it frequently
+has a better effect by proving both emetic and purgative.
+
+As a sudorific, warm bathing may be very useful, and is an agreeable
+remedy in the inflammatory stage of Phthisis. As the warm bath is
+useful in relaxing the surface of the body generally; in a similar
+manner inhaling warm air, by means of Mudge’s apparatus, relaxes the
+inflamed membrane of the bronchiæ, and acts as a fomentation there,
+with the same good effect as is produced by warmth and moisture upon
+any other inflamed surface of the body. This remedy gives great relief
+in the cough and hoarseness so distressing in Phthisis Pulmonalis.
+
+With the same view of counteracting inflammation, cathartics may be
+prescribed. As in other febrile diseases, so in Phthisis, the bowels
+are frequently torpid, and require the frequent use of aperient
+medicines. Saline and mercurial cathartics, possessing the greatest
+power in diminishing excitement, are perhaps the most proper in this
+disease. But as it is an object not to induce too much debility, the
+use of drastic purgatives should be avoided as much as possible, and be
+confined to the earliest periods of the disease. During its advanced
+stage, the bowels should be kept open by mild laxatives and enemata,
+which tend least to debilitate the patient.
+
+Blisters, Setons and Issues relieve the inflammation of the lungs, and
+produce a new determination to the surface with the happiest effects.
+Most writers agree in recommending repeated blisters to the chest, as
+an useful remedy, and with reason. But it is to be regretted that they
+have been suffered to usurp the place of a more powerful remedy of the
+same class, viz. Issues. If we may judge from the effect of ulcers and
+fistulæ, which palliate all the symptoms of confirmed Phthisis, while
+they continue, but whose healing restores the disease, it would appear
+that the establishment of similar drains, in the form of issues, ought
+to have a good effect. In caries of the spine, and disease of the hip
+joint, where the inflammation in the cellular structure of the bones
+seems to be very analogous to that in the cells of the lungs, issues
+are used with the greatest benefit. In these cases, they are uniformly
+preferred to repeated blistering, and experience has sanctioned the
+preference. Issues are preferable to blisters by their constant and
+uniform action, whereas the latter remedy has its effect continually
+interrupted by healing up and requiring renewal. In general, blisters
+appear to be more useful in acute diseases, which may soon be subdued:
+but in Phthisis Pulmonalis, which continues so long, and whose progress
+is so slow, issues appear to be the better remedy. Dr. Mudge was so
+well convinced of their efficacy, that he assures us, he cured himself
+of an Incipient Consumption, by a large issue between the shoulders.
+Beddoes also recommends them, and relates several cases, in which
+they were used with the best effect. But if this remedy be tried, it
+should not be done timidly, and with the fear of giving pain; when
+used at all, issues should be large and effectual, not only sufficient
+to contain a single pea, but at least a dozen. This is not the only
+remedy which has fallen into disrepute by a trifling and inefficient
+mode of employing it. But as blisters are preferred by many of the most
+judicious practitioners, their use may easily and with advantage be
+combined with that of issues. While a large issue is kept open between
+the shoulders, successive blisters may be applied to the chest. Many
+patients, perhaps, would not submit to so severe a mode of treatment;
+but it is only by such active and efficient practice, that we can hope
+to cure this formidable malady.
+
+It is only in the first stage of Consumption that much benefit is to
+be expected from this class of remedies, or at all events, before the
+patient is much debilitated. In its latest periods, they would tend
+rather to add to the debility already induced by the disease. At any
+time, however, when the patient is not too much reduced, they may be
+prescribed with advantage.
+
+Mercury, given until it produce salivation has frequently cured
+Phthisis Pulmonalis. It is used with greatest advantage in its first
+stage, but after the inflammatory action has been in some measure
+reduced, by means of blood-letting, and the other remedies proposed.
+Before these evacuations have been premised, it would tend rather to
+increase the inflammation; while in the advanced stage it would add too
+much to the debility of the patient. It generally succeeds only when
+it affects the mouth, and therefore to secure this effect and prevent
+its running off by the bowels, it should be combined with opium. But
+the best form of exhibiting mercury, is one much in use with my worthy
+friend and preceptor, Dr. Borrowe. Calomel, combined with small doses
+of antimonial powder, given morning and evening, until it affect the
+mouth, is the form proposed. In this way it may be given at an earlier
+period of the disease, than would otherwise be proper, by the constant
+determination to the skin kept up by the antimonial powder, obviating
+the tendency which mercury has to increase inflammatory action. At the
+same time it serves to keep the bowels open, and makes almost every
+other medicine unnecessary. On the other hand, if it acts too much
+on the bowels, it may be usefully combined with opium, which adds to
+its diaphoretic effect. The good effects of this mode of exhibiting
+mercury, is strikingly illustrated by the result of the following case,
+which occurred in the practice of Dr. Borrowe within a few months past.
+
+“Miss ------, aged about 14 years, had been for six months past,
+afflicted with some cough, pain in the chest and difficulty of
+breathing. She was affected with loss of appetite, emaciation and
+profuse sweats at night. Her pulses were frequent; she had the peculiar
+pearl-like appearance of the adnata; frequent attacks of diarrhœa, and
+an expectoration much resembling pus. She was attacked with chills
+about the middle of the day, followed by considerable excitement,
+aversion to motion and drowsiness; succeeded by great prostration of
+strength; palpitation and hurried breathing on ascending a height or
+engaging in any considerable bodily exertion; attended with a livid
+appearance of the lips, evidencing a difficulty in the passage of blood
+through the lungs.
+
+It was determined to put her upon the use of Calomel and Pulv: Jacob:
+which were given in small doses every night and morning; a blistering
+plaister was also applied to the chest, and kept in an irritable
+state for a considerable length of time. The diet was ordered to be
+soft, mild and nutritious. The mercury and antimonial medicine were
+occasionally omitted when they acted more on the bowels than the skin,
+or occasional anodynes were administered to restrain their action on
+the alimentary canal.
+
+Some weeks elapsed before the mercury produced any effect upon the
+salivary glands, which was one of the objects aimed at. As soon as the
+mouth became sensibly affected, the symptoms were generally mitigated.
+A temporary suspension of the use of the remedies became necessary, in
+consequence of the considerable effect produced by the mercury. When
+the soreness of the mouth abated, small and less frequent doses of the
+calomel were given so as to keep up a tenderness of the gums several
+weeks longer. The affection of the chest became now entirely relieved,
+and it was thought advisable to suspend the use of the mercurial
+treatment, the effects of which were suffered to pass off, rather than
+be relieved or cured.
+
+From this time no medicines were employed, except a small quantity of
+a weak infusion of colombo as a tonic. Long before the patient’s mouth
+enabled her to eat, her appetite became craving. She was indulged in
+eating moderately of such food as she had a particular desire for;
+and she soon was enabled to take exercise without inconvenience. She
+did not now complain of any pain in the chest, the cough left her,
+the bowels became regular, there was no recurrence of night sweats,
+she began to gain flesh, the countenance assumed the healthy aspect,
+and the peevishness under which she had long laboured was effectually
+cured. She now slept well, and gradually returning to her former
+habits, is at the end of five months after discontinuing her remedies,
+in perfect health.”
+
+Digitalis is a remedy in Phthisis, which has excited much acrimonious
+controversy among practitioners of medicine. As always happens in
+these contests, it has been praised too highly by one party, and
+condemned too severely by the other. When first introduced, it seemed
+to promise the complete eradication of Consumption: and it almost
+appeared that digitalis was as specific in the cure of that disease,
+as mercury, in syphilis. Dr. Magennis of the Royal Navy Hospital
+at Plymouth, England, published a paper, containing an account of
+seventy-two cases of incipient or confirmed Consumption, in seamen and
+marines, treated with digitalis. Of these, twenty-five with ulcerated
+lungs recovered; and fifteen from the stage previous to ulceration.
+Thirteen of the seventy-two in an early stage of ulceration were
+discharged, greatly relieved; and nine in the previous stage. In ten
+cases, the medicine failed; but in some of these it gave considerable
+relief. Beddoes assures us, that three cases out of five of tubercular
+consumption, in his practice, had recovered under the use of digitalis.
+Kinglake insists that one in three cases of the tubercular stage of
+Consumption, may be cured by this medicine. Dr. Currie informs us,
+that digitalis may be used with safety and success in cases where the
+lancet can no longer be employed. These results in the practice of men,
+distinguished in their profession, although they may be somewhat warped
+by prejudice, are extremely flattering, and prove at least that the
+medicine has some power. But like all other new remedies, digitalis has
+been rated too highly by those who first used it. Delighted that they
+had discovered a medicine, which, in some cases would cure a disease,
+which they had been accustomed to look upon as totally incurable, these
+physicians have suffered themselves to attend too exclusively to its
+successful results, and to neglect cases in which it has failed. Other
+practitioners, on reading their exaggerated statements, have tried the
+remedy, but finding themselves frequently disappointed, have gone into
+the other extreme and condemned it entirely. Their representations
+are to be admitted with as much qualification as those of their
+opponents, and the judicious physician will not suffer himself to be
+exclusively guided by either. That in certain cases, digitalis will
+cure Consumption, cannot be doubted; but we have also to regret, that
+it very frequently fails. It was prescribed in the New-York Hospital,
+under the direction of Dr. Hamersley, during the last winter, in six
+cases which I have witnessed, of evident and well marked Phthisis. Of
+these, two patients were perfectly cured; one has nearly recovered, and
+is only retained in the Hospital for a slight cough, which is yielding;
+a fourth was discharged at his own request, but evidently relieved; the
+fifth commenced the use of digitalis, at a very advanced period of the
+disease, and soon died; in the last it failed entirely, and appeared
+rather to have done injury.
+
+Having ascertained that digitalis does sometimes succeed in curing
+Phthisis Pulmonalis, it remains to discover what are the cases in
+which we may exhibit it with success. For this purpose it would be
+desirable to ascertain the _modus operandi_ of the medicine. Here
+writers have differed as widely as in their account of its success
+in practice. One author determines it to act by diminishing the force
+and frequency of the circulation, and reducing inflammatory action; a
+second attributes its salutary effect to its operation on the kidneys;
+while a third believes it no longer to be of advantage, when it
+increases the discharge by urine, excites nausea, vomiting, purging
+or any undue excitement, but attributes its beneficial effects to its
+stimulant efficiency, in invigorating the arterial and muscular energy
+of the system: and a fourth insists that by promoting the action of
+the absorbents it cures Consumption. These conflicting and opposite
+opinions constrain us to admit, that farther enquiry is necessary,
+before we can rest satisfied as to the mode in which digitalis acts.
+It must be confessed that this medicine is extremely uncertain in
+its operation. Its most evident effect, and that most insisted on,
+of reducing the frequency of the pulse, is by no means certain; and
+indeed, it is the opinion of Dr. Beddoes, that the force and strength
+of the pulse are increased by it. In the N. Y. Hospital I have
+witnessed frequent cases in which its continued exhibition produced no
+effect in reducing either the force or frequency of the pulse; and in
+some instances no effect at all seemed to be produced by it. A case
+occurred in that institution in October last, in which a patient, by
+his own carelessness took six drachms of Tinct: Digitalis with no
+evident injury. In examining the effect of this medicine on the pulse,
+it is necessary to recollect the remark of Beddoes, that it is very
+different in the recumbent and erect posture; the pulse frequently
+being found to be reduced in frequency and irregular in the former,
+but recovering its frequency and regularity in the latter situation.
+From the same author we learn, that if this remedy do not produce any
+good effect within three weeks, we can expect no advantage from it at
+all. It is generally admitted that digitalis will succeed only in the
+first stage of Phthisis Pulmonalis; in the last or ulcerated stage of
+that malady, it will not save our patient, but we are apprehensive,
+will rather hasten his dissolution. As it is acknowledged to be an
+uncertain medicine, we should not place our whole dependence upon it,
+nor suffer it to take the place of blood-letting and the rest of the
+antiphlogistic treatment before recommended: it should be used rather
+as an auxiliary than a principal remedy. From its uncertainty of
+operation it requires a cautious exhibition. The dose for an adult is
+from ten to fifteen drops of the saturated tincture, three times a day,
+and gradually increased until some effect is produced.
+
+The use of factitious airs in Consumption is now very much abandoned.
+No essential benefit has ultimately appeared to be derived from them;
+although in the first instance, they produced some apparently good
+effect.
+
+Of much more advantage is a sea-voyage and a mild climate. The benefit
+evidently derived from sea-voyages has been attributed to various
+causes. The nausea and vomiting from sea-sickness, the uniform motion
+and gentle regular exercise produced by sailing, and the uniformity
+and mildness of the atmosphere of the ocean, so evident at a distance
+from the land, probably all combine in producing these happy results.
+We can hardly suppose, however, with Dr. Mudge, that the exhalations
+from the tar and pitch about the ship, taken into the lungs in
+respiration, have any agency in the effect produced. But whatever be
+the cause, it is not at all unfrequent for consumptive patients to
+experience immediate relief after having been a few days at sea. A
+sea-voyage to produce permanent benefit, should be long continued, and
+what is of still more importance, terminate in a mild climate. Every
+winter, instances occur in this city, of consumptive patients being
+restored to health by a voyage to the south of France, or some other
+country of similar temperature. The climate most grateful to these
+patients is one whose temperature is uniform, not subject to any sudden
+variations, and where the atmosphere is dry and pure. The island of
+Madeira possesses all these requisites. The part of it best adapted to
+the purpose in question is thus described by Dr. Adams, a physician of
+that island, in a letter to his friend in London:--
+
+“The valley of Funchall is defended by immense hills from every wind
+but the south, where it is open to the sea-breeze; this preserves a
+temperature so even, as is unknown in any other part of the world. Our
+winters may be compared to your summers in every thing but the length
+of days, and those sudden changes from heat to cold, to which you are
+subject. The thermometer with us is often steady within doors, or
+varies scarcely a degree for weeks together. During winter its whole
+range is from 58 to 65; and in summer, from 70 to 75, rarely amounting
+to 80; the heat being always tempered by a breeze in proportion to the
+force of the sun. The dryness of our atmosphere is not less remarkable.”
+
+If this description be correct, Madeira has a climate possessing every
+requisite to make it most favourable to phthisical patients. The
+southern parts of the United States are frequently resorted to, also,
+by the consumptive with great benefit. I have had the satisfaction
+of seeing a young friend return from Charleston, a short time since,
+perfectly restored to health, who, during the last autumn, was attacked
+with repeated hæmoptysis and other symptoms of Incipient Phthisis.
+
+It is to be regretted, that change of climate, a remedy of so much
+advantage in the early stage of Consumption, should so often be
+postponed, until no possibility of recovery remains. It is too often
+the fate of such patients, to leave their homes in quest of health,
+merely to find a foreign grave; resorting to that remedy which should
+have been first, as the last effort of despair. To this cause alone,
+may we attribute its frequent inefficiency, and unfortunately the same
+cause has contributed too much to bring the remedy into disrepute.
+
+Where from any circumstances, change of climate is impracticable, it
+may to some extent be imitated, by confining the patient to apartments
+whose temperature is kept constant and uniform. This has been tried and
+with some success; and is probably, the remedy of the same class, next
+in power, but much inferior to a warm climate. Beddoes made use of it
+in several cases with relief to his patients, but it has not yet been
+sufficiently tested to establish its character as a remedy in Phthisis
+Pulmonalis.
+
+Besides the use of the remedies which have been enumerated, with the
+view of effecting a radical cure of this disease, there are some
+symptoms occurring in its first stage, which require immediate relief.
+Hæmoptysis sometimes comes on in such a manner as to be very alarming
+to the patient. Blood-letting in large quantities, and repeated in
+proportion to the strength and habit of the patient and violence of
+the symptoms, is then absolutely necessary. Unless the plethora, which
+is oppressing the system, and exciting the hæmorrhage from the lungs,
+be relieved by general blood-letting, blood will not cease to pour
+out from that viscus. At the same time the free exhibition of saline
+cathartics, a blister to the chest, a rigidly abstemious diet and a
+strict adherence to the antiphlogistic regimen must accompany this
+treatment. Peruvian Bark, Chalybeates and Elixir of Vitriol so often
+used, in active hæmorrhage during the inflammatory stage of Consumption
+cannot but be injurious. They increase the force of the circulation and
+consequently the disposition to hæmorrhage. In the same symptom arising
+from an opposite cause, they may be prescribed with advantage. Common
+salt, administered dry in the manner directed by Dr. Rush, has been
+found by experience to be very useful in abating hæmorrhage from either
+cause; but it should not be depended on alone, nor suffered to take the
+place of the treatment just detailed.
+
+If possible, we should anticipate the occurrence of hæmoptysis with
+our remedies, and thus prevent the formation of a habit of spitting
+blood, which when once established, is difficult to destroy. The usual
+precursors of this symptom are, a saltish taste in the mouth, a sense
+of irritation at the upper part of the trachea, and some oppression
+and difficulty of breathing. At this time, before the hæmorrhage has
+commenced, blood-letting and the rest of the remedies mentioned above
+should be actively exhibited. “_Venienti occurrite morbo._”
+
+A distressing cough at this period also requires the attention of
+the physician. From its occurrence more particularly at night, it
+disturbs the rest and adds much to the sufferings of the patient. It
+should be alleviated by Opiates, accompanied with any of the mild
+demulcent remedies, generally denominated Pectorals. Mudge’s Apparatus
+for inhaling the steam of warm water, may also be used with relief,
+especially on going to bed.
+
+When all inflammation is gone and the second stage of Consumption has
+decidedly formed, a different mode of treatment becomes necessary.
+Little indeed is now to be hoped for from any treatment, as a radical
+cure; but our patient is not to be abandoned; if he cannot be cured,
+his sufferings may be materially mitigated, and he may be directed to
+avoid such things as may increase his malady. Nor should we entirely
+despair of performing a radical cure; for solitary cases are related by
+many authors of consumptive patients being cured in every stage of the
+disease. Many of these cases, perhaps, have been mistaken for Phthisis
+Pulmonalis; but of some of them we cannot doubt. The authority from
+which they come is too high to permit us to hesitate.
+
+The remedies last mentioned in the treatment of the first stage of
+Consumption may yet be proper, and although with not so great a
+prospect of success, should still be tried. These are a sea-voyage,
+change of climate, and confinement to apartments whose temperature
+is regulated. But all the debilitating remedies before recommended,
+are now to be avoided. The lancet in general is improper, although
+in some few instances, the occurrence of acute inflammation at this
+period, still requires its cautious use. Drastic Cathartics should not
+be used; the bowels if torpid must be kept open by gentle laxatives
+and Enemata. Antimonial and other debilitating Emetics should not
+now be exhibited, but the Vitriol Emetics may still be prescribed
+with advantage. The Sulphate of Zinc given in such doses as to excite
+occasional vomiting, is frequently very useful, and especially where
+much irritation is present. It was introduced and strongly recommended
+by Dr. Mosely in his Treatise on Tropical Diseases &c. His Vitriolic
+solution[8] is certainly an useful remedy in relieving dyspnœa and
+promoting expectoration. Instead of debilitating as antimonials do, he
+assures us, that its emetic effects are instantaneous, not harassing
+the patient, but always leaving the stomach strongly invigorated. Mr.
+Warburton, the present House Physician of the New-York Hospital, has
+assured me, that he has frequently prescribed it in that Institution
+with evident benefit. With similar intentions, Dr. Senter, in the
+Medical and Chirurgical Review, published in 1793, recommends the
+sulphate of copper.
+
+At this time blisters will be preferable to either setons or issues,
+as they relieve the local symptoms without producing a constant
+debilitating discharge. Indeed they should be used in such a manner,
+as to produce as little discharge as possible. With this view, they
+should not be kept open by stimulating dressings, but be healed up, and
+occasionally renewed. With the same intention, stimulating plaisters
+may be applied to the chest with advantage, and in general are
+preferable to blisters.
+
+To support the patient’s strength, as was proposed in the second
+indication, tonics are necessary. Of these some of the simple bitters
+are preferable, as columbo, gentian, boneset, chamomile, &c. But
+we should be careful not to exhibit them during the paroxysms of
+hectic fever, but during its intervals. Peruvian bark has not been
+found admissible. It produces a sense of stricture and oppression of
+breathing, adds to the cough, makes the pulse quick and hard, and
+hæmoptysis is not unfrequently the consequence of its exhibition.
+Dr. Fothergill dwells particularly on the abuse of this medicine in
+Consumption.
+
+As stimulating and bitter medicines, the Polygala Seneka and
+Aristolochia Serpentaria have been recommended in this stage of
+Phthisis Pulmonalis.
+
+The stimulating balsams and gums are also proper in this stage. They
+have been highly recommended by Morton; and myrrh in particular is
+prescribed with great confidence by Simmons. They are objected to by
+Fothergill, on the ground, that by their stimulating properties, they
+increase the inflammation of the lungs. His objection appears well
+founded, while symptoms of acute inflammation still exist; but after
+they have subsided, the cough and other distressing symptoms of the
+last stage of Phthisis, may be much alleviated by these medicines. By
+their stimulating effects upon the whole system, also, they may be
+useful at a time when the patient is sinking under great debility.
+
+As stimulating applications are frequently found necessary and useful
+to indolent ulcers on the surface of the body, it naturally occurred
+that similar applications might be made with advantage to ulcers of
+the lungs. With this view, the steam of tar water, and the vapour of
+sulphuric æther inhaled in respiration, have been used in the treatment
+of Consumption.[9] With the same restrictions as are necessary with
+the stimulating gums and balsams, these remedies may be beneficial. It
+is not probable, however, that any permanent relief can be derived from
+them; they can only mitigate symptoms.
+
+To check the profuse sweats, which occur at this period, and add
+materially to the debility of the patient, the elixir of vitriol is an
+useful medicine. As a general tonic it acts beneficially also upon the
+whole system.
+
+With the view of quietting the cough and procuring rest at night,
+opiates are necessary; and fortunate are we that we have in our
+possession, a remedy, which although it will not permanently cure the
+disease, palliates the symptoms, at least for a time; and makes more
+smooth the path to death. It is true that opium produces some ill
+effects. It debilitates the stomach, and injures the appetite; but when
+the symptoms are urgent, it cannot for these reasons be dispensed with.
+By lulling pain, and giving rest to the watchful patient, it more than
+counterbalances these disadvantages. The humulus lupulus or common
+hops, does not possess the objectionable properties of opium, but with
+its anodyne combines some tonic powers, and promises to be an excellent
+substitute for that medicine.
+
+The large and frequent use of syrups in the form of expectorant
+mixtures and linctuses, to alleviate cough, is very injurious. They
+cloy the appetite, destroy the tone of the stomach, and prevent the
+taking of nutritious aliment, which is now so necessary; and frequently
+without producing any material relief of the symptom for which they are
+prescribed.
+
+The use of opiates is necessary also, to check the profuse diarrhœas,
+which now alternate with costiveness, and reduce the already
+debilitated patient. With the same view, the chalk mixture may be used
+with advantage, and the astringent medicines, Kino and Catechu, with
+others of the same class.
+
+It is not unfrequent for hæmoptysis to occur at this period, as well
+as in the earlier stages of Consumption. Sometimes it is the effect of
+some temporary excitement, and may be relieved by the loss of a few
+ounces of blood. But frequently this evacuation cannot be borne; and
+the hæmorrhage proceeds rather from debility in the vessels of the
+lungs, than any increased force of the circulation. We must then trust
+to astringents--muriate of soda, sulphuric acid, and alum.
+
+We come now to speak of the diet and regimen of patients labouring
+under Phthisis Pulmonalis; a subject no less important than the
+remedies to be exhibited. In the first stage, the diet should be
+perfectly simple, and such as will least tend to increase the
+inflammatory action of the system. For this purpose nothing is better
+than milk. So sensible have physicians, at all times, been of its
+propriety, that in many cases, they have trusted the cure entirely
+to a milk diet. It is highly spoken of by almost every author who
+has written on this subject, and with reason. It is light, easily
+digested, and does not produce any excitement. Many have preferred
+Asses’ to Cows’ milk, but it does not appear that there is any material
+difference, which should influence our choice. The former is thinner
+and less nutritious, and perhaps, to very delicate stomachs, may
+be more acceptable; but in general, the latter is as useful. Milk,
+however, is very offensive to some stomachs, and not so easily digested
+as other food; in such cases it must necessarily be prohibited.
+
+As a general rule, with regard to diet, in this stage, animal food is
+improper, and the patient should be confined to the use of vegetables.
+Fresh sub-acid fruits are proper; and, indeed, of so much importance
+have they been considered, that Hoffman mentions a case of confirmed
+phthisis, cured by confining the patient to the use of fruits, and
+particularly strawberries. Mucilaginous and diluent drinks, as those
+formed from barley, sago and flaxseed are also useful. Among these
+may be classed, the Lichen Islandicus, which has gained with some the
+reputation of curing Consumption. Weak is the foundation for hope of
+those who depend on it. As an article of diet, from its mucilaginous
+property, it is useful; and in the last stage, from its possessing
+slightly better and tonic virtues, it is also proper; but as a
+remedy for phthisis it is altogether inert. Nor are its tonic powers
+sufficiently great, to render it injurious in the early stage of the
+disease.
+
+The dress of the patient should also be regulated by the Physician. He
+should be clothed in flannel, and this frequently changed. A constant
+determination is thus kept up to the surface, and to some extent,
+diverted from the chest. At the same time, all exposure to cold,
+moisture, or sudden alternations of temperature must be studiously
+avoided. As in many cases, they lay the foundation for consumption, so
+after it has commenced, their repetition aggravates it.
+
+Mental distress and consequent despondence, impedes the cure of
+those who otherwise might recover, and should be obviated as much as
+possible. Happily, patients labouring under Phthisis, generally with
+difficulty, resign hopes of recovery, and despondence from that source
+does not often depress them. But mental anxiety, produced by other
+causes, is very injurious. It should be relieved, as much as possible,
+by pleasant amusements, a journey, a sea-voyage or any other method
+most suited to the particular circumstances of the patient.
+
+In the second stage of Consumption, the diet of the patient must be
+altered, as well as the medical treatment. The most nutritious articles
+of food are then to be chosen, and such as are at the same time the
+most easily digested. It is well ascertained that the older meats,
+as beef and mutton, possess these properties in a higher degree than
+veal or lamb; and generally, the brown more than white meats. With the
+same view, wild fowl and game generally, form nutritious articles of
+diet, proper for consumptive patients. Eggs combine a large quantity
+of nourishment in a small compass, and may be freely used. They should
+be taken either quite raw, or boiled a very few minutes. When boiled
+hard, they form one of the most indigestible and offensive substances,
+to the delicate stomach, that are used in diet. The various culinary
+preparations, of which eggs form a principal part, are for the same
+reasons proper. Jellies also contain a great quantity of nutritious
+matter, and are very acceptable to patients, who, as in Consumption,
+have little appetite. Oysters and some other of the testacea, are also
+extremely nutritious. Isinglass boiled in milk is frequently in use,
+and with advantage, in these cases. Of the vegetable nourishments,
+those should be chosen which are most nutritious and abounding in
+mucilage, as rice, sago, arrowroot and Tapioca. Chocolate, when
+prepared in such a manner as to be free from oily matter, is a very
+pleasant article of diet.
+
+The drinks of the patient should also be stimulating and nutritious.
+Malt liquors combine both these properties with some tonic virtues,
+which they obtain from the bitter of the hops infused in them, and
+therefore constitute the best drink for consumptive patients. Wine,
+also, may be used moderately with advantage, but requires some caution;
+and should be immediately abandoned, if any undue excitement be
+produced by it.
+
+In this, as in every other stage of Consumption, while the patient has
+sufficient strength, exercise is necessary to the recovery of health.
+Of so much importance is exercise, that in many cases, it has alone
+cured this disease. Dr. Rush relates many such cases, and particularly,
+three instances of persons in confirmed consumptions, perfectly cured
+by the hardships of a military life. Of so much consequence was it
+in the eyes of Sydenham, that he pronounced riding on horseback, as
+certain a cure for consumptions, as bark for an intermittent fever.
+Indeed, all writers on this disease join in recommending it, not only
+as a part of the regimen, but as a principal remedy in the treatment.
+The mode of exercise to be chosen, should depend entirely on the
+situation of the patient, at the time. While much pain and soreness
+subsist, denoting the presence of active inflammation, the most gentle
+exercise only should be used: at that time riding in a carriage or
+on horseback, would be as improper as for a patient labouring under
+pleurisy. The swing, so highly recommended by Dr. Carmichael Smyth, is
+the least fatiguing, and most gentle mode that can be adopted. It may
+be serviceable, too, when the patient is too much debilitated to bear
+other more fatiguing exercise. But I would, by no means, adopt the
+opinion of Carmichael Smyth, that the swing, in itself, and unassisted
+by other remedies, will cure Consumption. Experience has proved the
+contrary; and has taught us that it is only useful as an article
+of regimen, while the patient is under the influence of other more
+powerful remedies. When there is sufficient strength to bear it, and
+not too much excitement, riding in an easy carriage is the next mode of
+gestation which may be used. But when the patient is enabled to ride
+on horseback, we have more to expect from it, than any other species
+of exercise. To attain the greatest benefit from it, it should be made
+use of regularly and constantly; not during the cold air of early
+morning, nor the dews of the evening, but rather during the day, after
+the sun exerts some influence. A long journey on horseback affords the
+most useful method of obtaining all the advantages that can be derived
+from exercise. It is then made constant and regular; and the amusement
+afforded by travelling serves to divert the patient’s mind from his
+own feelings, and adds to its beneficial effects.
+
+Secondary Phthisis Pulmonalis remains yet to be treated of. Under
+this order, should be included every form of Consumption, in which
+the system has become debilitated by any cause, and the lungs in
+consequence become affected. I would exclude from it that form of the
+disease occurring after measles, scarlatina, and some other eruptive
+diseases, which I would consider as primary Phthisis Pulmonalis;
+because, in those cases, the lungs do not become affected merely in
+consequence of debility, but these diseases seem rather to act as
+exciting causes, in constitutions already predisposed to Consumption;
+while in secondary Phthisis, the affection of the lungs is only one
+symptom of the general disease, which is wasting the body. Nor would
+the treatment, which will be advocated in the latter form, be proper
+in the cases alluded to. They require that, which should be used in
+the first species of Phthisis, and which has already been detailed.
+The reason, why the lungs become affected in consequence of debility
+induced by particular causes, I would not attempt to explain. It is
+one of those laws of the constitution, not better understood, than why
+particular parts are successively affected in consequence of syphilis,
+or that the breasts and lower extremities are more liable to disease
+than other parts, except the uterus, in females after parturition. Many
+laws of this kind exist in the human constitution, of whose effects, we
+are every day made sensible, but of the cause of which we are totally
+ignorant.
+
+One of the most frequent causes of Secondary Phthisis, is Chlorosis,
+that disease which occurs in young females, in consequence of Retention
+of the menses. The constitution not having sufficient vigour to produce
+this evacuation at the proper period, if any predisposition to Phthisis
+exist, a determination takes place to the lungs, producing Phthisical
+disease. This case is not analogous to Consumption produced by
+Suppression of the menses, after they have been once established; for
+in that instance the suppression is not generally induced by debility,
+but by cold, or some other cause, not acting merely by weakening the
+patient; and it produces active inflammation of the lungs. But in the
+case before us, the affection of the lungs is merely a symptom of the
+want of vigour in the constitution, which shews itself in retention
+of the menses. Accordingly, in the treatment of this disease, our
+attention must not be directed primarily to the affection of the lungs,
+but to the state of the system, the cause of that affection.
+
+Profuse evacuations, of any kind, may be the cause of Secondary
+Phthisis. Hæmorrhages from the Nose, Lungs, Stomach, Kidneys and wounds
+are all mentioned by Morton, as having induced Pulmonary disease. Mr.
+Hey, in his work on Surgery, observes, that he has seen a great many
+cases of pulmonary Consumption, the consequence of debility, induced
+by violent hæmorrhages, and in persons who had no apparent tendency to
+Consumption. In the same manner, loss of blood from Hæmorrhoids and
+in Menorrhagia, may act as causes. Debilitating evacuations, by means
+of Diarrhœa, Diabetes, Salivation, and Sweating, have had the same
+effect. But the most frequent causes of this class are, immoderate
+discharges by fluor albus, and too long suckling by delicate woman
+of robust children. They are particularly mentioned by Morton and
+Fothergill, and have been adverted to by most authors, who have written
+since.
+
+Chronic Catarrh, terminating in Phthisis, may be ranked also in this
+class. The profuse and long continued discharge from the membrane
+lining the trachea and bronchiæ, is the debilitating agent in that case.
+
+Long continued Fevers, and particularly Intermittent fevers, not
+unfrequently leave behind them, a state of debility, sufficient to
+induce Consumption.
+
+In the New-York Hospital, frequent instances occur of Consumption
+induced by intemperance in the use of ardent spirits. This habit
+destroys the tone of the stomach, which becomes primarily affected, and
+in consequence the whole system becomes debilitated, terminating in
+disease of the Lungs.
+
+Secondary Consumption has also been induced by some other preceeding
+diseases, such as Scurvy and Syphilis, and requires the attention of
+the Physician, to the primary disease rather than to the affection of
+the Lungs.
+
+In the treatment of Pulmonary Consumption, arising from any of these or
+analogous causes, our attention is first called to the removal of the
+primary source of the disease. If it be Chlorosis, remedies, calculated
+to cure that malady, must be prescribed. If profuse evacuations are the
+cause, all the means in our power, must be employed in restraining
+those evacuations. If the disease has been induced by the long
+continued suckling of a vigorous child, by a delicate mother, another
+nurse must be provided, or the child must be weaned. If Scurvy or
+Syphilis have produced it, the proper remedies for those disorders must
+be employed.
+
+Our next object is to remove the debility, the cause of the pulmonary
+symptoms. For this purpose, Tonics are indicated, and at their head
+stands the Peruvian Bark. In the other species of Phthisis, this
+medicine has been much abused, but in the present one, its use is
+sanctioned by experience. In the cases proceeding from Leucorrhœa,
+and long suckling, it is highly recommended by Dr. Fothergill; but he
+cautions us against persevering in its use, longer than while it is
+doing good; and remarks, that if the breathing become more oppressed,
+the cough dry, the pulse more quick and hard, and especially, if slight
+transitory pains or stitches about the thorax, are more frequently
+complained of, a perseverance in the use of the bark will increase
+the disease. If, in consequence of this increase of symptoms, we
+are obliged to desist in the use of the Bark, other Tonics must be
+substituted. The combination of bitter and tonic medicines in the
+Infus: Amar: of the dispensatories may be then usefully prescribed.
+Columbo, which is sometimes an ingredient in that formula, is
+particularly recommended by Dr. Thomas Percival, as not possessing any
+of the injurious properties of bark.
+
+The Elixir of Vitriol is also an excellent tonic, and may be usefully
+given at the same time with the remedies just proposed. But it
+requires to be administered with the same cautious hand as the bark,
+and to be discontinued, if the symptoms appear to be at all aggravated
+by its use. In general, no ill effects arise from it, but if the
+determination to the chest be so great, as to produce much inflammatory
+action, it may do injury. Independent of its tonic powers, it will be
+serviceable in checking any disposition, which may exist, to profuse
+sweating.
+
+Iron, in its various officinal preparations, is also a good remedy,
+in this form of phthisis. Although, highly dangerous in the primary
+disease, there is now little danger of increasing the inflammation,
+which in that form, made it improper. Mineral chalybeate waters, will
+in this instance, be useful, not only by the journey to them, and the
+amusement derived at watering places, but may be drank with advantage
+by the patient.
+
+In addition to these remedies, the diet and regimen should be such as
+is most invigorating to the constitution. A nutritious diet and the
+moderate use of wine will be proper; and country air and exercise with
+the same rules as were mentioned in the treatment of primary phthisis,
+are very important circumstances in the cure of the secondary form.
+A long journey, a sea-voyage and change of climate are also equally
+proper.
+
+       *       *       *       *       *
+
+The prominent feature and primary object of this essay has been, to
+establish the distinction between primary and secondary Phthisis
+Pulmonalis. Although, perhaps, the minute parts of the arrangement may
+not have been distributed, in every instance, with perfect accuracy, I
+feel confident that the general plan is correct. Farther observation
+and experience will probably suggest a more accurate disposition of the
+varieties of Phthisis, under the two orders which I have proposed.
+
+Probably from the want of the distinction between primary and
+secondary Phthisis, may be explained the various and contradictory
+practice, proposed by physicians of deserved eminence. A more
+frequent opportunity of observing one or the other form of the
+disease, has determined with each, his mode of treatment: and hence
+in diseases bearing the same name, we may see blood-letting and a
+rigid antiphlogistic regimen adopted by one party, and bark, iron, and
+a nutritious diet by another. Any error which may arise from these
+contradictions, may be corrected by the distinction, which has been
+proposed.
+
+It has also been my object, to call the attention of the practitioner,
+to the earliest symptoms and first dawnings of Consumption. Were they
+not so much neglected by the physician, as well as the patient, our
+bills of mortality would not continue to present so frightful a picture
+of the ravages of this disease; while, on the other hand, a prompt
+attention to these incipient symptoms, and the interference of an
+active practice, would afford a reasonable prospect of saving many from
+Consumption, who are now its victims.
+
+
+FOOTNOTES:
+
+[1] Amer. Med. and Phil. Reg. Vol. I.
+
+[2] Dr. Lettsom observes, that Consumption is decreasing in Great
+Britain.
+
+  _Med. and Phil. Reg._
+
+
+[3] The following judicious remarks on this subject are made by Bayle,
+in his “Recherches sur la Phthisie Pulmonaire, D’après la notion que
+j’ai donnée de la Phthisie Pulmonaire, on voit que je dois regarder
+comme Phthisiques des individus qui n’ont ni fièvre, ni maigreur, ni
+expectoration purulente: il suffit que les poumons soient affectés
+d’une lésion qui tend à les désorganiser et à les ulcérer. On ne doit
+pas regarder cette lésion une simple cause de la Phthisie, mais comme
+le premier temps de cette maladie, puisque la Phthisie est cette lésion
+même dont la continuation et le developement successif amènent la
+mort. Il seroit donc bien peu raisonnable de vouloir attendre, pour
+reconnoitre la Phthisie Pulmonaire, qu’elle fut constamment parvenue à
+son dernier degré qui est le moment où ses symptômes pathognomoniques
+sont bien marqués.”
+
+[4] Dr. Reid.
+
+[5] Dr. Hosack.
+
+[6] Dr. Lind states, that out of 360 patients whom he attended between
+July 1, 1758, and July 1, 1760, in consumption, the disease was brought
+on one fourth of them by falls, bruises and strains, received a year or
+two before it made its appearance.
+
+[7] Dr. Reid.
+
+[8]
+
+  ℞   Vitriol: alb: Ʒ iij
+        Alum: rup: Ʒ j
+        Coccinnel: pulv: griij
+        Aq: ferveut: ℔j. Misce in mortareo marmoreo. Solutio
+  a fæculantia vel residendo expurgetur, vel per chartam bibulam
+  fittretur. Dos. ℥ss.--
+
+
+[9] Dr. Borrowe formerly had a patient labouring under Consumption, a
+manufacturer of tin ware, who was uniformly relieved of his phthisical
+symptoms when engaged in soldering tin, a process in which a great deal
+of resin is used, and constantly inhaled in respiration.
+
+
+
+
+ERRATA.
+
+
+  Page 10  Note, for _d’après_ read _D’après_.
+       22, line 25, for _which like the inert physician_,
+        read _which the inert physician_.
+       25, line 13, for _dysentary_, read _dysentery_.
+
+
+
+
+Transcriber’s Notes
+
+The errata have been fixed.
+
+Punctuation errors and omissions have been fixed.
+
+Page 10: “peculiary incorrect” changed to “peculiarly incorrect”
+
+Page 40: “very analagous” changed to “very analogous”
+
+Page 54: “frequenty prescribed” changed to “frequently prescribed”
+
+Page 60: “acceptible to patients” changed to “acceptable to patients”
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK AN INAUGURAL DISSERTATION ON PULMONARY CONSUMPTION ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

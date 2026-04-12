@@ -1,0 +1,2798 @@
+﻿The Project Gutenberg eBook of The Grecian Daughter
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Grecian Daughter
+
+Author: Arthur Murphy
+
+Commentator: Mrs. Inchbald
+
+
+        
+Release date: October 16, 2009 [eBook #30271]
+                Most recently updated: October 24, 2024
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/30271
+
+Credits: Produced by Steven desJardins and the Online Distributed
+        Proofreading Team at https://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE GRECIAN DAUGHTER ***
+
+[Illustration: GRECIAN DAUGHTER
+
+EUPHRASIA.--BEHOLD ALL SICILY BEHOLD!
+THE POINT GLOWS WITH THE TYRANTS BLOOD
+
+PAINTED BY B. COOK. PUBLISH'D BY LONGMAN AND CO. ENGRAV'D BY A. SMITH. A.
+1806]
+
+
+
+
+THE GRECIAN DAUGHTER;
+
+A TRAGEDY,
+IN FIVE ACTS;
+
+BY ARTHUR MURPHY, ESQ.
+
+AS PERFORMED AT THE
+THEATRE ROYAL, COVENT GARDEN.
+
+
+PRINTED UNDER THE AUTHORITY OF THE MANAGERS
+FROM THE PROMPT BOOK.
+
+WITH REMARKS
+BY MRS. INCHBALD.
+
+LONDON:
+
+PRINTED FOR LONGMAN, HURST, REES, AND ORME,
+PATERNOSTER ROW.
+
+WILLIAM SAVAGE, PRINTER,
+BEDFORD BURY, LONDON.
+
+
+
+
+REMARKS.
+
+
+This tragedy has been so rapturously applauded on the stage, and so
+severely criticised in the closet, that it is a task of peculiar
+difficulty to speak either of its beauties or its defects, with any
+degree of certainty. To conciliate both the auditor and the reader, both
+the favourable and the unfavourable critic, the "Grecian Daughter"
+demands a set of Remarks for each side of the question--and the
+good-natured side shall have precedence.
+
+This play had, on its first appearance, the most brilliant success, and
+still holds a place in the list of dramas performed during every season.
+There is a splendour of decoration, a glow of martial action, events of
+such deep interest, and, above all, a moral of such excellent tendency,
+which concludes the performance, that its attraction can readily be
+accounted for, without the slightest imputation upon the judgment of the
+public.
+
+Perhaps, of all the events recorded in history, that filial piety, on
+which the fable of this play is founded, may be classed among the most
+affecting--yet it was one the most hazardous for a dramatist to adopt;
+for nothing less than complete skill could have given to this singular
+occurrence effectual force, joined to becoming delicacy. In this arduous
+effort Mr. Murphy has evinced the most exact judgment, and the nicest
+execution.
+
+If this tragedy has not the smooth flowing verse of Otway, Thomson, or
+Rowe, it possesses, in energy and fire, charms more theatrical; nor does
+the heroic so wholly engross every scene, but that it yields, at times,
+to melting pathos.
+
+Another praise due to this production is, that wonderful events take
+place by the most natural agency. Incidents arise progressively from
+each other, till the last great incident of all, fills every mind with
+enthusiasm in the cause of virtue and justice--in the joy of an empire
+made free by the overthrow of its tyrant.
+
+       *       *       *       *       *
+
+It is hardly possible to read this tragedy of the "Grecian Daughter,"
+without laughing as well as crying. Some passages excite tears, whilst
+certain high-sounding sentences, with meaning insignificant, are
+irresistibly risible.
+
+The popular story, from which the fable of this tragedy is produced, and
+the surprising event in the last scene--where a woman performs that
+which a whole army has in vain attempted--together with the powerful
+acting of Mrs. Barry in the part of Euphrasia, rendered this play
+greatly attractive when it was first performed; and as those causes of
+attraction still remain, or rather, an improvement is introduced by Mrs.
+Siddons's appearance in the Grecian Daughter, the play is still of use
+to the theatre.
+
+The men's characters have been all sacrificed by the author to the
+valour of the woman--he has made his female do the deed of a man, and
+his best man perform the act of a child.
+
+Though Evander ranks as the first male character in this play, no actor
+likes to appear in the part. He would rather be inferior, and less
+infirm.
+
+As Mr. Murphy had much theatrical experience as well as taste, it is
+astonishing that the personage most talked of, most praised, and by far
+the most perfect character in the whole drama, should never make his
+appearance!
+
+Timoleon is a great warrior and a good man; and it seems wonderful how
+the audience, on the first night of the play, would quit the theatre
+without seeing him. Yet it was but modesty and respect in the author,
+not to bring so magnanimous a hero on the scene, to speak bad poetry.
+
+The great tragic dramatist, Otway, wrote miserable comedies: Let it be
+no disgrace to Murphy that he has written an indifferent tragedy. By the
+merit of his comic scenes, his tragic ones are perhaps judged, and in
+the comparison lose half their value.
+
+
+
+
+DRAMATIS PERSONÆ.
+
+
+DIONYSIUS        _Mr. Cory._
+EVANDER          _Mr. Kemble._
+PHILOTAS         _Mr. C. Kemble._
+MELANTHON        _Mr. Hull._
+PHOCION          _Mr. Brunton._
+ARCAS            _Mr. Davenport._
+GREEK HERALD     _Mr. Creswell._
+CALIPPUS         _Mr. Klanert._
+GREEK SOLDIER    _Mr. Field._
+OFFICER
+
+EUPHRASIA        _Mrs. Siddons._
+ERIXENE          _Mrs. Humphries._
+
+_SCENE,--Syracuse._
+
+
+
+
+THE GRECIAN DAUGHTER.
+
+ACT THE FIRST.
+
+SCENE I.
+
+
+_Enter MELANTHON and PHILOTAS._
+
+_Mel._ Yet, yet a moment; hear, Philotas, hear me.
+
+_Phil._ No more; it must not be.
+
+_Mel._ Obdurate man;
+Thus wilt thou spurn me, when a king distress'd,
+A good, a virtuous, venerable king,
+The father of his people, from a throne
+Which long with ev'ry virtue he adorn'd,
+Torn by a ruffian, by a tyrant's hand,
+Groans in captivity? In his own palace
+Lives a sequester'd prisoner? Oh! Philotas,
+If thou hast not renounc'd humanity;
+Let me behold my sovereign; once again
+Admit me to his presence; let me see
+My royal master.
+
+_Phil._ Urge thy suit no further;
+Thy words are fruitless; Dionysius' orders
+Forbid access; he is our sov'reign now;
+'Tis his to give the law, mine to obey.
+
+_Mel._ Thou canst not mean it: his to give the law!
+Detested spoiler!--his! a vile usurper!
+Have we forgot the elder Dionysius,
+Surnam'd the Tyrant? To Sicilia's throne
+The monster waded through whole seas of blood.
+Sore groan'd the land beneath his iron rod,
+Till rous'd at length Evander came from Greece,
+Like Freedom's Genius came, and sent the tyrant,
+Stript of the crown, and to his humble rank
+Once more reduc'd, to roam, for vile subsistence,
+A wandering sophist through the realms of Greece.
+
+_Phil._ Whate'er his right, to him in Syracuse
+All bend the knee; his the supreme dominion,
+And death and torment wait his sovereign nod.
+
+_Mel._ But soon that pow'r shall cease: behold his walls
+Now close encircled by the Grecian bands;
+Timoleon leads them on; indignant Corinth
+Sends her avenger forth, array'd in terror,
+To hurl ambition from a throne usurp'd,
+And bid all Sicily resume her rights.
+
+_Phil._ Thou wert a statesman once, Melanthon; now,
+Grown dim with age, thy eye pervades no more
+The deep-laid schemes which Dionysius plans.
+Know then, a fleet from Carthage even now
+Stems the rough billow; and, ere yonder sun,
+That now declining seeks the western wave,
+Shall to the shades of night resign the world,
+Thou'lt see the Punic sails in yonder bay,
+Whose waters wash the walls of Syracuse.
+
+_Mel._ Art thou a stranger to Timoleon's name?
+Intent to plan, and circumspect to see
+All possible events, he rushes on
+Resistless in his course! Your boasted master
+Scarce stands at bay; each hour the strong blockade
+Hems him in closer, and ere long thou'lt view
+Oppression's iron rod to fragments shiver'd!
+The good Evander then----
+
+_Phil._ Alas, Evander
+Will ne'er behold the golden time you look for!
+
+_Mel._ How! not behold it! Say, Philotas, speak;
+Has the fell tyrant,--have his felon murderers----
+
+_Phil._ As yet, my friend, Evander lives.
+
+_Mel._ And yet
+Thy dark half-hinted purpose--lead me to him;
+If thou hast murder'd him----
+
+_Phil._ By Heav'n, he lives.
+
+_Mel._ Then bless me with one tender interview.
+Thrice has the sun gone down, since last, these eyes
+Have seen the good old king; say, why is this?
+Wherefore debarr'd his presence? Thee, Philotas,
+The troops obey, that guard the royal pris'ner;
+Each avenue to thee is open; thou
+Canst grant admittance; let me, let me see him.
+
+_Phil._ Entreat no more; the soul of Dionysius
+Is ever wakeful; rent with all the pangs
+That wait on conscious guilt.
+
+_Mel._ But when dun night----
+
+_Phil._ Alas! it cannot be: but mark my words.
+Let Greece urge on her general assault.
+Despatch some friend, who may o'erleap the walls,
+And tell Timoleon, the good old Evander
+Has liv'd three days, by Dionysius' order,
+Lock'd up from ev'ry sustenance of nature,
+And life, now wearied out, almost expires.
+
+_Mel._ If any spark of virtue dwell within thee,
+Lead me, Philotas, lead me to his prison.
+
+_Phil._ The tyrant's jealous care hath mov'd him thence.
+
+_Mel._ Ha! mov'd him, say'st thou?
+
+_Phil._ At the midnight hour,
+Silent convey'd him up the steep ascent,
+To where the elder Dionysius form'd,
+On the sharp summit of the pointed rock,
+Which overhangs the deep, a dungeon drear:
+Cell within cell, a labyrinth of horror,
+Deep cavern'd in the cliff, where many a wretch,
+Unseen by mortal eye, has groan'd in anguish,
+And died obscure, unpitied, and unknown.
+
+_Mel._ Clandestine murderer! Yes, there's the scene
+Of horrid massacre. Full oft I've walk'd,
+When all things lay in sleep and darkness hush'd.
+Yes, oft I've walk'd the lonely sullen beach,
+And heard the mournful sound of many a corse
+Plung'd from the rock into the wave beneath,
+That murmurs on the shore. And means he thus
+To end a monarch's life? Oh! grant my pray'r;
+My timely succour may protect his days;
+The guard is yours----
+
+_Phil._ Forbear; thou plead'st in vain;
+And though I feel soft pity throbbing here;
+Though each emotion prompts the gen'rous deed,
+I must not yield; it were assur'd destruction!
+Farewell, despatch a message to the Greeks;
+I'll to my station; now thou know'st the worst.
+
+[_Exit._
+
+_Mel._ Oh, lost Evander! Lost Euphrasia too!
+How will her gentle nature bear the shock
+Of a dear father, thus in ling'ring pangs
+A prey to famine, like the veriest wretch
+Whom the hard hand of misery hath grip'd!
+In vain she'll rave, with impotence of sorrow;
+Perhaps, provoke her fate: Greece arms in vain,
+All's lost; Evander dies!
+
+_Enter CALIPPUS._
+
+_Cal._ Where is the King?
+Our troops, that sallied to attack the foe,
+Retire disordered; to the eastern gate
+The Greeks pursue: Timoleon rides in blood!
+Arm, arm, and meet their fury!
+
+_Mel._ To the citadel
+Direct thy footsteps; Dionysius there
+Marshals a chosen band.
+
+_Cal._ Do thou call forth
+Thy hardy veterans; haste, or all is lost!      [_Exit._
+
+[_Warlike Music._
+
+_Mel._ Now, ye just gods, now look propitious down;
+Now give the Grecian sabre tenfold edge,
+And save a virtuous king!      [_Warlike Music._
+
+_Enter EUPHRASIA._
+
+_Eup._ War on, ye heroes,
+Ye great assertors of a monarch's cause!
+Let the wild tempest rage. Melanthon, ha!
+Did'st thou not hear the vast tremendous roar?
+Down tumbling from its base the eastern tow'r,
+Burst on the tyrant's ranks, and on the plain
+Lies an extended ruin.
+
+_Mel._ Still new horrors
+Increase each hour, and gather round our heads.
+
+_Eup._ The glorious tumult lifts my tow'ring soul.
+Once more, Melanthon, once again, my father
+Shall mount Sicilia's throne.
+
+_Mel._ Alas! that hour
+Would come with joy to ev'ry honest heart,
+Would shed divinest blessings from its wing;
+But no such hour in all the round of time,
+I fear, the fates averse will e'er lead on.
+
+_Eup._ And still, Melanthon, still does pale despair
+Depress thy spirit? Lo! Timoleon comes
+Arm'd with the pow'r of Greece; the brave, the just,
+God-like Timoleon! ardent to redress,
+He guides the war, and gains upon his prey.
+A little interval shall set the victor
+Within our gates triumphant.
+
+_Mel._ Still my fears
+Forbode for thee. 'Would thou hadst left this place,
+When hence your husband, the brave Phocion, fled,
+Fled with your infant son!
+
+_Eup._ In duty fixed,
+Here I remain'd, while my brave, gen'rous Phocion,
+Fled with my child, and from his mother's arms
+Bore my sweet little one. Full well thou know'st
+The pangs I suffer'd in that trying moment.
+Did I not weep? Did I not rave and shriek,
+And by the roots tear my dishevell'd hair?
+Did I not follow to the sea-beat shore,
+Resolv'd with him, and with my blooming boy,
+To trust the winds and waves?
+
+_Mel._ Deem not, Euphrasia,
+I e'er can doubt thy constancy and love.
+
+_Eup._ Melanthon, how I loved, the gods, who saw
+Each secret image that my fancy form'd,
+The gods can witness how I lov'd my Phocion,
+And yet I went not with him. Could I do it?
+Could I desert my father? Could I leave
+The venerable man, who gave me being,
+A victim here in Syracuse, nor stay
+To watch his fate, to visit his affliction,
+To cheer his prison hours, and with the tear
+Of filial virtue bid ev'n bondage smile?
+
+_Mel._ The pious act, whate'er the fates intend,
+Shall merit heartfelt praise.
+
+_Eup._ Yes, Phocion, go,
+Go with my child, torn from this matron breast,
+This breast that still should yield its nurture to him,
+Fly with my infant to some happier shore,
+If he be safe, Euphrasia dies content.
+Till that sad close of all, the task be mine
+To tend a father with delighted care,
+To smooth the pillow of declining age,
+See him sink gradual into mere decay,
+On the last verge of life watch ev'ry look,
+Explore each fond unutterable wish,
+Catch his last breath, and close his eyes in peace.
+
+_Mel._ I would not add to my afflictions; yet
+My heart misgives; Evander's fatal period----
+
+_Eup._ Still is far off; the gods have sent relief,
+And once again I shall behold him king.
+
+_Mel._ Alas! those glitt'ring hopes but lend a ray
+To gild the clouds, that hover o'er your head,
+Soon to rain sorrow down, and plunge you deeper
+In black despair.
+
+_Eup._ The spirit-stirring virtue,
+That glows within me, ne'er shall know despair.
+No, I will trust the gods. Desponding man!
+Hast thou not heard with what resistless ardour
+Timoleon drives the tumult of the war?
+Hast thou not heard him thund'ring at our gates?
+The tyrant's pent up in his last retreat;
+Anon thou'lt see his battlements in dust,
+His walls, his ramparts, and his tow'rs in ruin;
+Destruction pouring in on ev'ry side,
+Pride and oppression at their utmost need,
+And nought to save him in his hopeless hour.
+
+[_A flourish of Trumpets._
+
+_Mel._ Ha! the fell tyrant comes.--Beguile his rage,
+And o'er your sorrows cast a dawn of gladness.
+
+_Enter DIONYSIUS, CALIPPUS, OFFICERS, &c._
+
+_Dio._ The vain presumptuous Greek! His hopes of conquest,
+Like a gay dream, are vanish'd into air.
+Proudly elate, and flush'd with easy triumph
+O'er vulgar warriors, to the gates of Syracuse
+He urg'd the war, till Dionysius' arm
+Let slaughter loose, and taught his dastard train
+To seek their safety by inglorious flight.
+
+_Eup._ O, Dionysius, if distracting fears
+Alarm this throbbing bosom, you will pardon
+A frail and tender sex. Should ruthless war
+Roam through our streets, and riot here in blood,
+Where shall the lost Euphrasia find a shelter?
+In vain she'll kneel, and clasp the sacred altar.
+O let me then, in mercy let me seek
+The gloomy mansion, where my father dwells;
+I die content, if in his arms I perish.
+
+_Dio._ Thou lovely trembler, hush thy fears to rest.
+The Greek recoils; like the impetuous surge
+That dashes on the rock, there breaks, and foams,
+And backward rolls into the sea again.
+All shall be well in Syracuse: a fleet
+Appears in view, and brings the chosen sons
+Of Carthage. From the hill that fronts the main,
+I saw their canvass swelling with the wind,
+While on the purple wave the western sun
+Glanc'd the remains of day.
+
+_Eup._ Yet till the fury
+Of war subside, the wild, the horrid interval
+In safety let me sooth to dear delight
+In a lov'd father's presence: from his sight,
+For three long days, with specious feign'd excuse
+Your guards debarr'd me. Oh! while yet he lives,
+Indulge a daughter's love; worn out with age
+Soon must he seal his eyes in endless night,
+And with his converse charm my ear no more.
+
+_Dio._ Why thus anticipate misfortune? Still
+Evander mocks the injuries of time.
+Calippus, thou survey the city round;
+Station the centinels, that no surprise
+Invade the unguarded works, while drowsy night
+Weighs down the soldier's eye. Afflicted fair,
+Thy couch invites thee. When the tumult's o'er,
+Thou'lt see Evander with redoubled joy.
+Though now unequal to the cares of empire
+His age sequester him, yet honours high
+Shall gild the ev'ning of his various day.
+
+_Eup._ For this benignity accept my thanks.
+They gush in tears, and my heart pours its tribute.
+
+_Dio._ Perdiccas, ere the morn's revolving light
+Unveil the face of things, do thou despatch
+A well-oar'd galley to Hamilcar's fleet;
+At the north point of yonder promontory,
+Let some selected officer instruct him
+To moor his ships, and issue on the land.
+Then may Timoleon tremble: vengeance then
+Shall overwhelm his camp, pursue his bands,
+With fatal havoc, to the ocean's margin,
+And cast their limbs to glut the vulture's famine,
+In mingled heaps upon the naked shore.
+
+[_Exit DIONYSIUS._
+
+_Eup._ What do I hear? Melanthon, can it be?
+If Carthage comes, if her perfidious sons
+List in his cause, the dawn of freedom's gone.
+
+_Mel._ Woe, bitt'rest woe, impends; thou wouldst not think----
+
+_Eup._ How? speak! unfold.
+
+_Mel._ My tongue denies its office.
+
+_Eup._ How is my father? Say, Melanthon----
+
+_Mel._ He,
+I fear to shock thee with the tale of horror!
+Perhaps he dies this moment.--Since Timoleon
+First form'd his lines round this beleagur'd city,
+No nutriment has touch'd Evander's lips.
+In the deep caverns of the rock imprison'd
+He pines in bitterest want.
+
+_Eup._ Well, my heart,
+Well do your vital drops forget to flow.
+
+_Mel._ Despair, alas! is all the sad resource
+Our fate allows us now.
+
+_Eup._ Yet, why despair?
+Is that the tribute to a father due?
+Blood is his due, Melanthon; yes, the blood,
+The vile, black blood, that fills the tyrant's veins,
+Would graceful look upon my dagger's point.
+Come, vengeance, come, shake off the feeble sex,
+Sinew my arm, and guide it to his heart.
+And thou, O filial piety, that rul'st
+My woman's breast, turn to vindictive rage;
+Assume the port of justice; show mankind
+Tyrannic guilt hath never dar'd in Syracuse,
+Beyond the reach of virtue.
+
+_Mel._ Moderate your zeal,
+Nor let him hear these transports of the soul,
+These wild upbraidings.
+
+_Eup._ Shall Euphrasia's voice
+Be hush'd to silence, when a father dies?
+Shall not the monster hear his deeds accurst?
+Shall he not tremble, when a daughter comes,
+Wild with her griefs, and terible with wrongs;
+Fierce in despair, all nature in her cause
+Alarm'd and rous'd with horror?
+Melanthon come; my wrongs will lend me force;
+The weakness of my sex is gone; this arm
+Feels tenfold strength; this arm shall do a deed
+For Heav'n and earth, for men and gods to wonder at!
+This arm shall vindicate a father's cause.
+
+
+
+
+ACT THE SECOND.
+
+SCENE I.
+
+
+_A wild romantic Scene amidst overhanging Rocks; a Cavern on one side._
+
+_ARCAS, with a Spear in his Hand._
+
+_Arcas._ The gloom of night sits heavy on the world;
+And o'er the solemn scene such stillness reigns,
+As 'twere a pause of nature; on the beach
+No murmuring billow breaks; the Grecian tents
+Lie sunk in sleep; no gleaming fires are seen;
+All Syracuse is hush'd; no stir abroad,
+Save ever and anon the dashing oar,
+That beats the sullen wave. And hark!--Was that
+The groan of anguish from Evander's cell,
+Piercing the midnight gloom?--It is the sound
+Of bustling prows, that cleave the briny deep.
+Perhaps at this dead hour Hamilcar's fleet
+Rides in the bay.
+
+_Enter PHILOTAS, from the Cavern._
+
+_Phil._ What, ho! brave Arcas! ho!
+
+_Arcas._ Why thus desert thy couch?
+
+_Phil._ Methought the sound
+Of distant uproar chas'd affrighted sleep.
+
+_Arcas._ At intervals the oar's resounding stroke
+Comes echoing from the main. Save that report,
+A death-like silence through the wide expanse
+Broods o'er the dreary coast.
+
+_Phil._ Do thou retire,
+And seek repose; the duty of thy watch
+Is now perform'd; I take thy post.
+
+_Arcas._ How fares
+Your royal pris'ner?
+
+_Phil._ Arcas, shall I own
+A secret weakness? My heart inward melts
+To see that suffering virtue. On the earth,
+The cold, damp earth, the royal victim lies;
+And while pale famine drinks his vital spirit,
+He welcomes death, and smiles himself to rest.
+Oh! 'would I could relieve him!
+
+_Arcas._ May no alarm disturb thee.      [_Exit._
+
+_Phil._ Some dread event is lab'ring into birth.
+At close of day the sullen sky held forth
+Unerring signals. With disastrous glare,
+The moon's full orb rose crimson'd o'er with blood;
+And lo! athwart the gloom a falling star
+Trails a long tract of fire!--What daring step
+Sounds on the flinty rock? Stand there; what, ho!
+Speak, ere thou dar'st advance. Unfold thy purpose:
+Who and what art thou?
+
+_Eup._ [_Within._] Mine no hostile step;
+I bring no value to alarm thy fears:
+It is a friend approaches.
+
+_Phil._ Ha! what mean
+Those plaintive notes?
+
+_Eup._ [_Within._] Here is no ambush'd Greek,
+No warrior to surprise thee on the watch.
+An humble suppliant comes--Alas, my strength
+Exhausted quite forsakes this weary frame.
+
+_Phil._ What voice thus piercing thro' the gloom of night--
+What art thou? what thy errand? quickly say,
+Wherefore alarm'st thou thus our peaceful watch?
+
+_Eup._ [_Within._] Let no mistrust affright thee--
+
+_Enter EUPHRASIA._
+
+                               Lo! a wretch,
+The veriest wretch that ever groan'd in anguish,
+Comes here to grovel on the earth before thee,
+To tell her sad, sad tale, implore thy aid,
+For sure the pow'r is thine, thou canst relieve
+My bleeding heart, and soften all my woes.
+
+_Phil._ Euphrasia!----
+Why, princess, thus anticipate the dawn?
+Still sleep and silence wrap the weary world;
+The stars in mid career usurp the pole;
+The Grecian bands, the winds, the waves are hush'd;
+All things are mute around us; all but you
+Rest in oblivious slumber from their cares.
+
+_Eup._ Yes; all, all rest: the very murd'rer sleeps;
+Guilt is at rest: I only wake to misery.
+
+_Phil._ How didst thou gain the summit of the rock?
+
+_Eup._ Give me my father; here you hold him fetter'd;
+Oh! give him to me----If ever
+The touch of nature throbb'd within your breast,
+Admit me to Evander. In these caves
+I know he pines in want; let me convey
+Some charitable succour to a father.
+
+_Phil._ Alas, Euphrasia! 'would I dare comply!
+
+_Eup._ It will be virtue in thee. Thou, like me,
+Wert born in Greece:--Oh! by our common parent--
+Nay, stay; thou shalt not fly; Philotas, stay;--
+You have a father too; think, were his lot
+Hard as Evander's; if by felon hands
+Chain'd to the earth, with slow-consuming pangs
+He felt sharp want, and with an asking eye
+Implor'd relief, yet cruel men deny'd it,
+Wouldst thou not burst thro' adamantine gates,
+Thro' walls and rocks, to save him? Think, Philotas,
+Of thy own aged sire, and pity mine.
+Think of the agonies a daughter feels,
+When thus a parent wants the common food,
+The bounteous hand of nature meant for all.
+
+_Phil._ 'Twere best withdraw thee, princess; thy assistance
+Evander wants not; it is fruitless all;
+Thy tears, thy wild entreaties, are in vain.
+
+_Eup._ Ha!--thou hast murder'd him; he is no more;
+I understand thee;--butchers, you have shed
+The precious drops of life.
+
+_Phil._ Alas! this frantic grief can nought avail.
+Retire and seek the couch of balmy sleep,
+In this dead hour, this season of repose.
+
+_Eup._ And dost thou then, inhuman as thou art!
+Advise a wretch like me to know repose?
+This is my last abode:--these caves, these rocks,
+Shall ring for ever with Euphrasia's wrongs.
+Here will I dwell, and rave, and shriek, and give
+These scatter'd locks to all the passing winds;
+Call on Evander lost;--
+And cruel gods, and cruel stars invoking,
+Stand on the cliff in madness and despair.
+
+_Phil._ By Heav'n,
+My heart in pity bleeds.
+No other fear assails this warlike breast.
+I pity your misfortunes; yes, by Heav'n,
+My heart bleeds for you.--Gods! you've touch'd my soul!
+The gen'rous impulse is not giv'n in vain.
+I feel thee, Nature, and I dare obey.
+Oh! thou hast conquer'd.--Go, Euphrasia, go,
+Behold thy father.
+
+_Eup._ Raise me, raise me up;
+I'll bathe thy hand with tears, thou gen'rous man!
+
+_Phil._ Yet, mark my words; if aught of nourishment
+Thou wouldst convey, my partners of the watch
+Will ne'er consent.
+
+_Eup._ I will observe your orders:
+On any terms, oh! let me, let me see him.
+
+_Phil._ Yon lamp will guide thee thro' the cavern'd way.
+
+_Eup._ My heart runs o'er in thanks; the pious act
+Timoleon shall reward; the bounteous gods,
+And thy own virtue shall reward the deed.
+
+[_Goes into the Cave._
+
+_Phil._ Prevailing, powerful virtue!--Thou subdu'st
+The stubborn heart, and mould'st it to thy purpose.
+'Would I could save them!--But tho' not for me
+The glorious pow'r to shelter innocence,
+Yet for a moment to assuage its woes,
+Is the best sympathy, the purest joy
+Nature intended for the heart of man,
+When thus she gave the social gen'rous tear.      [_Exit._
+
+
+SCENE II.
+
+
+_The Inside of the Cavern._
+
+_Enter ARCAS and EUPHRASIA._
+
+_Arcas._ No; on my life, I dare not.
+
+_Eup._ But a small,
+A wretched pittance; one poor cordial drop
+To renovate exhausted drooping age,
+I ask no more.
+
+_Arcas._ Not the smallest store
+Of scanty nourishment must pass these walls.
+Our lives were forfeit else: a moment's parley
+Is all I grant; in yonder cave he lies.
+
+_Eva._ [_Within the Cell._] Oh, struggling nature! let thy conflict end.
+Oh! give me, give me rest.
+
+_Eup._ My father's voice!
+It pierces here! it cleaves my very heart.
+I shall expire, and never see him more.
+
+_Arcas._ Repose thee, princess, here, [_Draws a Couch_] here rest thy
+      limbs,
+Till the returning blood shall lend thee firmness.
+
+_Eup._ The caves, the rocks, re-echo to his groans!
+And is there no relief?
+
+_Arcas._ All I can grant,
+You shall command. I will unbar the dungeon,
+Unloose the chain that binds him to the rock,
+And leave your interview without restraint.
+
+[_Opens a Cell in the back Scene._
+
+_Eup._ Hold, hold my heart! Oh! how shall I sustain
+The agonizing scene? [_Rises._] I must behold him;
+Nature, that drives me on, will lend me force.
+Is that my father?
+
+_Arcas._ Take your last farewell.
+His vigour seems not yet exhausted quite.
+You must be brief, or ruin will ensue.      [_Exit._
+
+_Eva._ [_Raising himself._] Oh! when shall I get free?
+--These ling'ring pangs--
+
+_Eup._ Behold, ye pow'rs, that spectacle of woe!
+
+_Eva._ Despatch me, pitying gods, and save my child!
+I burn, I burn; alas! no place of rest:
+
+[_Rises and comes out._
+
+A little air; once more a breath of air;
+Alas! I faint; I die.
+
+_Eup._ Heart-piercing sight!
+Let me support you, sir.
+
+_Eva._ Oh! lend your arm.
+Whoe'er thou art, I thank thee: that kind breeze
+Comes gently o'er my senses--lead me forward:
+And is there left one charitable hand
+To reach its succour to a wretch like me?
+
+_Eup._ Well may'st thou ask it. O! my breaking heart!
+The hand of death is on him.
+
+_Eva._ Still a little,
+A little onward to the air conduct me;
+'Tis well;--I thank thee; thou art kind and good,
+And much I wonder at this gen'rous pity.
+
+_Eup._ Dost thou not know me, sir?
+
+_Eva._ Methinks I know
+That voice: art thou--alas! my eyes are dim!
+Each object swims before me--No, in truth
+I do not know thee.
+
+_Eup._ Not your own Euphrasia?
+
+_Eva._ Art thou my daughter?
+
+_Eup._ Oh! my honour'd sire!
+
+_Eva._ My daughter, my Euphrasia? come to close
+A father's eyes! Giv'n to my last embrace!
+Gods! do I hold her once again? Your mercies
+Are without number.      [_Falls on the Couch._
+This excess of bliss
+O'erpow'rs; it kills; Euphrasia--could I hope it?
+I die content--Art thou indeed my daughter?
+Thou art; my hand is moisten'd with thy tears:
+I pray you do not weep--thou art my child:
+I thank you, gods! in my last dying moments
+You have not left me--I would pour my praise;
+But oh! your goodness overcomes me quite!
+You read my heart; you see what passes there.
+
+_Eup._ Alas, he faints! the gushing tide of transport
+Bears down each feeble sense: restore him, Heaven!
+
+_Eva._ All, my Euphrasia, all will soon be well.
+Pass but a moment, and this busy globe,
+Its thrones, its empires, and its bustling millions,
+Will seem a speck in the great void of space.
+Yet, while I stay, thou darling of my age!--
+Nay, dry those tears.
+
+_Eup._ I will, my father.
+
+_Eva._ Where,--
+I fear to ask it, where is virtuous Phocion?
+
+_Eup._ Fled from the tyrant's pow'r.
+
+_Eva._ And left thee here
+Expos'd and helpless?
+
+_Eup._ He is all truth and honour:
+He fled to save my child.
+
+_Eva._ My young Evander!
+Your boy is safe, Euphrasia?--Oh! my heart!
+Alas! quite gone; worn out with misery;
+Oh! weak, decay'd old man!
+
+_Eup._ Inhuman wretches!
+Will none relieve his want? A drop of water
+Might save his life; and even that's deny'd him.
+
+_Eva._ These strong emotions--Oh! that eager air--
+It is too much--assist me; bear me hence;
+And lay me down in peace.
+
+_Eup._ His eyes are fix'd!
+And those pale, quiv'ring lips! He clasps my hand:
+What, no assistance! Monsters, will you thus
+Let him expire in these weak, feeble arms?
+
+_Enter PHILOTAS._
+
+_Phil._ Those wild, those piercing shrieks will give th'alarm.
+
+_Eup._ Support him; bear him hence; 'tis all I ask.
+
+_Evan._ [_As he is carried off._] O Death! where art thou? Death, thou
+      dread of guilt,
+Thou wish of innocence, affliction's friend,
+Tir'd nature calls thee; come, in mercy come,
+And lay me pillow'd in eternal rest.
+My child--where art thou? give me; reach thy hand,
+Why dost thou weep?--My eyes are dry--Alas!
+Quite parch'd, my lips--quite parch'd, they cleave together.
+[_Exeunt._
+
+_Enter ARCAS._
+
+_Arcas._ The grey of morn breaks thro' yon eastern clouds.
+'Twere time this interview should end: the hour
+Now warns Euphrasia hence: what man could dare,
+I have indulg'd--Philotas!--ha! the cell
+Left void!--Evander gone!--What may this mean?
+Philotas, speak.
+
+_Enter PHILOTAS._
+
+_Phil._ Oh! vile, detested lot,
+Here to obey the savage tyrant's will,
+And murder virtue that can thus behold
+Its executioner, and smile upon him.
+That piteous sight!
+
+_Arcas._ She must withdraw, Philotas;
+Delay undoes us both. The restless main
+Glows with the blush of day.
+The time requires
+Without or further pause, or vain excuse,
+That she depart this moment.
+
+_Phil._ Arcas, yes;
+My voice shall warn her of th' approaching danger.      [_Exit._
+
+_Arcas._ 'Would she had ne'er adventur'd to our guard!
+I dread th' event; and hark!--the wind conveys
+In clearer sound the uproar of the main.
+The fates prepare new havoc; on th' event
+Depends the fate of empire. Wherefore thus
+Delays Euphrasia? Ha! what means, Philotas,
+That sudden haste, that pale, disorder'd look?
+
+_Enter PHILOTAS._
+
+_Phil._ O! I can hold no more; at such a sight
+Ev'n the hard heart of tyranny would melt
+To infant softness. Arcas, go, behold
+The pious fraud of charity and love;
+Behold that unexampled goodness; see
+Th' expedient sharp necessity has taught her;
+Thy heart will burn, will melt, will yearn to view
+A child like her.
+
+_Arcas._ Ha!--say what mystery
+Wakes these emotions?
+
+_Phil._ Wonder-working virtue!
+The father foster'd at his daughter's breast!
+O! filial piety!--The milk design'd
+For her own offspring, on the parent's lip
+Allays the parching fever.
+
+_Arcas._ That device
+Has she then form'd, eluding all our care,
+To minister relief?
+
+_Phil._ On the bare earth
+Evander lies; and as his languid pow'rs
+Imbibe with eager thirst the kind refreshment,
+And his looks speak unutterable thanks,
+Euphrasia views him with the tend'rest glance,
+Ev'n as a mother doating on her child;
+And, ever and anon, amidst the smiles
+Of pure delight, of exquisite sensation,
+A silent tear steals down; the tear of virtue,
+That sweetens grief to rapture. All her laws
+Inverted quite, great nature triumphs still.
+
+_Arcas._ The tale unmans my soul.
+
+_Phil._ Ye tyrants, hear it,
+And learn, that, while your cruelty prepares
+Unheard-of torture, virtue can keep pace
+With your worst efforts, and can try new modes
+To bid men grow enamour'd of her charms.
+
+_Arcas._ Philotas, for Euphrasia, in her cause,
+I now can hazard all. Let us preserve
+Her father for her.
+
+_Phil._ Oh! her lovely daring
+Transcends all praise. By Heav'n, he shall not die.
+
+_Arcas._ And yet we must be wary; I'll go forth,
+And first explore each avenue around,
+Lest the fix'd sentinel obstruct your purpose.
+
+[_Exit ARCAS._
+
+_Phil._ I thank thee, Arcas; we will act like men
+Who feel for other's woes--She leads him forth,
+And tremblingly supports his drooping age.
+
+[_Goes to assist him._
+
+_Enter EUPHRASIA and EVANDER._
+
+_Eva._ Euphrasia, oh! my child! returning life
+Glows here about my heart. Conduct me forward;
+At the last gasp preserved! Ha! dawning light!
+Let me behold; in faith I see thee now;
+I do indeed: the father sees his child.
+
+_Eup._ I have reliev'd him--Oh! the joy's too great;
+'Tis speechless rapture!
+
+_Eva._ Blessings, blessings on thee!
+
+_Eup._ My father still shall live. Alas! Philotas,
+Could I abandon that white hoary head,
+That venerable form? Abandon him
+To perish here in misery and famine?
+
+_Phil._ Thy tears, thou miracle of goodness.
+Have triumph'd o'er me.
+Take him, take your father;
+Convey him hence; I do release him to you.
+
+_Eva._ What said Philotas! Do I fondly dream?
+Indeed my senses are imperfect; yet
+Methought I heard him! did he say release me?
+
+_Phil._ Thou art my king, and now no more my pris'ner;
+Go with your daughter, with that wond'rous pattern
+Of filial piety to after times.
+Yes, princess, lead him forth; I'll point the path,
+Whose soft declivity will guide your steps
+To the deep vale, which these o'erhanging rocks
+Encompass round. You may convey him thence
+To some safe shelter. Yet a moment's pause;
+I must conceal your flight from ev'ry eye.
+Yes, I will save 'em, or perish in their cause.
+
+[_Exit PHILOTAS._
+
+_Eva._ Whither, oh! whither shall Evander go?
+I'm at the goal of life; if in the race
+Honour has follow'd with no ling'ring step,
+But there sits smiling with her laurel wreath,
+To crown my brow, there would I fain make halt,
+And not inglorious lay me down to rest.
+
+_Eup._ And will you then refuse, when thus the gods
+Afford a refuge to thee?
+
+_Eva._ Oh! my child,
+There is no refuge for me.
+
+_Eup._ Pardon, sir:
+Euphrasia's care has form'd a safe retreat;
+There may'st thou dwell; it will not long be wanted.
+Soon shall Timoleon with resistless force,
+Burst yon devoted walls.
+
+_Eva._ Timoleon!
+
+_Eup._ Yes.
+The brave Timoleon, with the pow'r of Greece;
+Another day shall make this city his.
+
+_Eva._ Timoleon come to vindicate my rights!
+Oh! thou shalt reign in Sicily! my child
+Shall grace her father's throne. Indulgent Heaven!
+Pour down your blessings on this best of daughters;
+To her and Phocion give Evander's crown;
+Let them, oh! let them both in virtue wear it,
+And in due time transmit it to their boy!
+
+_Enter PHILOTAS._
+
+_Phil._ All things are apt; the drowsy sentinel
+Lies hush'd in sleep; I'll marshall thee the way
+Down the steep rock.
+
+_Eup._ Oh! let us quickly hence.
+
+_Eva._ The blood but loiters in these frozen veins:
+Do you, whose youthful spirit glows with life,
+Do you go forth, and leave this mould'ring corpse.
+To me had Heav'n decreed a longer date,
+It ne'er had suffer'd a fell monster's reign,
+Nor let me see the carnage of my people.
+Farewell, Euphrasia; in one lov'd embrace
+To these remains pay the last obsequies,
+And leave me here to sink to silent dust.
+
+_Eup._ And will you, then, on self destruction bent,
+Reject my prayer, nor trust your fate with me.
+
+_Eva._ Trust thee, Euphrasia? Trust in thee, my child?
+Though life's a burden I could well lay down,
+Yet I will prize it, since bestow'd by thee.
+Oh! thou art good; thy virtue soars a flight
+For the wide world to wonder at; in thee,
+Hear it all nature, future ages hear it,
+The father finds a parent in his child.      [_Exeunt._
+
+
+
+
+ACT THE THIRD.
+
+SCENE I.
+
+
+_A Rampart near the Harbour._
+
+_Enter DIONYSIUS._
+
+_Dio._ Base deserters!
+Curse on their Punic faith! did they once dare
+To grapple with the Greek? Ere yet the main
+Was ting'd with blood, they turn'd their ships averse.
+May storms and tempests follow in their rear,
+And dash their fleet upon the Lybian shore!
+
+_Enter CALIPPUS._
+
+_Cal._ My liege, Timoleon, where the harbour opens,
+Has storm'd the forts, and even now his fleet
+Pursues its course, and steers athwart the bay.
+
+_Dio._ Ruin impends; and yet, if fall it must,
+I bear a mind to meet it undismay'd,
+Unconquer'd ev'n by Fate.
+
+_Cal._ Through ev'ry street
+Despair and terror fly. A panic spreads
+From man to man, and superstition sees
+Jove arm'd with thunder, and the gods against us.
+
+_Dio._ With sacred rites their wrath must be appeas'd.
+Let instant victims at the altar bleed:
+Let incense roll its fragrant clouds to Heav'n,
+And pious matrons, and the virgin train,
+In slow procession to the temple bear
+The image of their gods.
+The solemn sacrifice, the virgin throng,
+Will gain the popular belief, and kindle
+In the fierce soldiery religious rage.
+Away, my friends, prepare the sacred rites.
+
+[_Exeunt CALIPPUS, &c._
+
+Philotas, thou draw near: how fares your pris'ner?
+Has he yet breath'd his last?
+
+_Phil._ Life ebbs apace;
+To-morrow's sun sees him a breathless corse.
+
+_Dio._ Curse on his ling'ring pangs! Sicilia's crown
+No more shall deck his brow; and if the sand
+Still loiter in the glass, thy hand, my friend,
+May shake it thence.
+
+_Phil._ It shall, dread sir; that task
+Leave to thy faithful servant.
+
+_Dio._ Oh! Philotas,
+Thou little know'st the cares, the pangs of empire.
+The ermin'd pride, the purple that adorns
+A conqueror's breast, but serves, my friend, to hide
+A heart that's torn, that's mangled with remorse.
+Each object round me wakens horrid doubts;
+The flatt'ring train, the sentinel that guards me,
+The slave that waits, all give some new alarm,
+And from the means of safety dangers rise.
+Ev'n victory itself plants anguish here,
+And round my laurels the fell serpent twines.
+
+_Phil._ Would Dionysius abdicate his crown,
+And sue for terms of peace?
+
+_Dio._ Detested thought!
+No, though ambition teem with countless ills,
+It still has charms of pow'r to fire the soul.
+Though horrors multiply around my head,
+I will oppose them all. The pomp of sacrifice,
+But now ordain'd, is mockery to Heav'n.
+'Tis vain, 'tis fruitless; then let daring guilt
+Be my inspirer, and consummate all.
+Where are those Greeks, the captives of my sword,
+Whose desperate valour rush'd within our walls,
+Fought near our person, and the pointed lance
+Aim'd at my breast?
+
+_Phil._ In chains they wait their doom.
+
+_Dio._ Give me to see 'em; bring the slaves before me.
+
+_Phil._ What, ho! Melanthon, this way lead your prisoners.
+
+_Enter MELANTHON, with GREEK OFFICERS and SOLDIERS._
+
+_Dio._ Assassins, and not warriors! do ye come,
+When the wide range of battle claims your sword,
+Thus do ye come against a single life
+To wage the war? Did not our buckler ring
+With all your darts, in one collected volley,
+Shower'd on my head? Did not your swords at once
+Point at my breast, and thirst for regal blood?
+
+_G. Off._ We sought thy life. I am by birth a Greek.
+An open foe in arms, I meant to slay
+The foe of human kind. With rival ardour
+We took the field; one voice, one mind, one heart;
+All leagu'd, all covenanted: in yon camp
+Spirits there are who aim, like us, at glory.
+Whene'er you sally forth, whene'er the Greeks
+Shall scale your walls, prepare thee to encounter
+A like assault. By me the youth of Greece
+Thus notify the war they mean to wage.
+
+_Dio._ Thus, then, I warn them of my great revenge.
+Whoe'er in battle shall become our pris'ner,
+In torment meets his doom.
+
+_G. Off._ Then wilt thou see
+How vile the body to a mind that pants
+For genuine glory. Twice three hundred Greeks
+Have sworn like us, to hunt thee through the ranks;
+Ours the first lot; we've fail'd; on yonder plain
+Appear in arms, the faithful band will meet thee.
+
+_Dio._ Vile slave, no more. Melanthon, drag 'em hence
+To die in misery. Impal'd alive,
+The winds shall parch them on the craggy cliff.
+Selected from the rest, let one depart
+A messenger to Greece, to tell the fate
+Her chosen sons, her first adventurers met.
+
+[_Exit DIONYSIUS._
+
+_Mel._ Unhappy men! how shall my care protect
+Your forfeit lives? Philotas, thou conduct them
+To the deep dungeon's gloom. In that recess,
+'Midst the wild tumult of eventful war
+We may ward off the blow. My friends, farewell:
+That officer will guide your steps.
+
+[_All follow PHILOTAS, except PHOCION._
+
+_Phoc._ Satisfy my doubts; how fares Euphrasia?
+
+_Mel._ Euphrasia lives, and fills the anxious moments
+With every virtue. Wherefore venture hither?
+Why with rash valour penetrate our gates?
+
+_Phoc._ Could I refrain? Oh! could I tamely wait
+Th' event of ling'ring war? With patience count
+The lazy-pacing hours, while here in Syracuse
+The tyrant keeps all that my heart holds dear;
+For her dear sake, all danger sinks before me?
+For her I burst the barriers of the gate,
+Where the deep cavern'd rock affords a passage.
+A hundred chosen Greeks pursu'd my steps,
+We forc'd an entrance; the devoted guard
+Fell victims to our rage; but in that moment
+Down from the walls superior numbers came.
+The tyrant led them on. We rush'd upon him,
+If we could reach his heart, to end the war.
+But Heav'n thought otherwise. Melanthon, say,--
+I fear to ask it, lives Evander still?
+
+_Mel._ Alas, he lives imprisoned in the rock.
+Thou must withdraw thee hence; regain once more
+Timoleon's camp! alarm his slumb'ring rage;
+Assail the walls; thou with thy phalanx seek
+The subterraneous path; that way at night
+The Greeks may enter, and let in destruction
+On the astonish'd foe.
+
+_Phoc._ By Heav'n I will;
+My breath shall wake his rage; this very night
+When sleep sits heavy on the slumb'ring city,
+Then Greece unsheaths her sword, and great revenge
+Shall stalk with death and horror o'er the ranks
+Of slaughter'd troops a sacrifice to freedom!
+But first let me behold Euphrasia.
+
+_Mel._ Hush
+Thy pent-up valour: to a secret haunt
+I'll guide thy steps; there dwell, and in apt time
+I'll bring Euphrasia to thy longing arms.
+
+_Phoc._ Oh! lead me to her; that exalted virtue
+With firmer nerve shall bid me grasp the javelin;
+Shall bid my sword with more than lightning's swiftness.
+Blaze in the front of war, and glut its rage
+With blow repeated in the tyrant's veins.      [_Exeunt._
+
+
+SCENE II.
+
+
+_A Temple, with a Monument in the Middle._
+
+_Enter EUPHRASIA, ERIXENE, and other Female Attendants._
+
+_Eup._ This way, my virgins, this way bend your steps.
+Lo! the sad sepulchre where, hears'd in death,
+The pale remains of my dear mother lie.
+There, while the victims at yon altar bleed,
+And with your pray'rs the vaulted roof resounds.
+There let me pay the tribute of a tear,
+A weeping pilgrim o'er Eudocia's ashes.
+
+_Erix._ Forbear, Euphrasia, to renew your sorrows.
+
+_Eup._ My tears have dry'd their source; then let me here,
+Pay this sad visit to the honour'd clay,
+That moulders in the tomb. These sacred viands
+I'll burn an offering to a parent's shade,
+And sprinkle with this wine the hallow'd mould.
+That duty paid, I will return, my virgins.
+
+[_She goes into the Tomb._
+
+_Erix._ Look down, propitious pow'rs! behold that virtue,
+And heal the pangs that desolate her soul.
+
+_Enter PHILOTAS._
+
+_Phil._ Mourn, mourn, ye virgins; rend your scatter'd garments:
+Some dread calamity hangs o'er our heads.
+In vain the tyrant would appease with sacrifice
+Th' impending wrath of ill-requited Heav'n.
+Ill omens hover o'er us: at the altar
+The victim dropp'd, ere the divining seer
+Had gor'd his knife. The brazen statues tremble,
+And from the marble, drops of blood distil.
+
+_Erix._ Now, ye just gods, if vengeance you prepare,
+Now find the guilty head.
+
+_Enter EUPHRASIA, from the Tomb._
+
+_Eup._ Virgins, I thank you--Oh! more lightly now
+My heart expands; the pious act is done,
+And I have paid my tribute to a parent.
+Ah! wherefore does the tyrant bend his way?
+
+_Phil._ He flies the altar; leaves th' unfinish'd rites.
+No god there smiles propitious on his cause.
+Fate lifts the awful balance; weighs his life,
+The lives of numbers, in the trembling scale.
+
+_Eup._ Despair and horror mark his haggard looks.
+Do you retire,
+Retire, Philotas; let me here remain,
+And give the moments of suspended fate
+To pious worship and to filial love.
+
+_Phil._ Alas! I fear to yield: awhile I'll leave thee,
+And at the temple's entrance wait thy coming.      [_Exit._
+
+_Eup._ Now, then, Euphrasia, now thou may'st indulge
+The purest ecstacy of soul. Come forth,
+Thou man of woe, thou man of every virtue.
+
+_Enter EVANDER, from the Monument._
+
+_Eva._ And does the grave thus cast me up again,
+With a fond father's love to view thee? Thus
+To mingle rapture in a daughter's arms?
+
+_Eup._ How fares my father now?
+
+_Eva._ Thy aid, Euphrasia,
+Has giv'n new life. Thou from this vital stream
+Deriv'st thy being; with unheard-of duty
+Thou hast repaid it to thy native source.
+
+_Eup._ Sprung from Evander, if a little portion
+Of all his goodness dwell within my heart,
+Thou wilt not wonder.
+
+_Eva._ Joy and wonder rise
+In mix'd emotions!--Though departing hence,
+After the storms of a tempestuous life,
+Tho' I was entering the wish'd-for port,
+Where all is peace, all bliss, and endless joy,
+Yet here contented I can linger still
+To view thy goodness, and applaud thy deeds,
+Thou author of my life?--Did ever parent
+Thus call his child before?--my heart's too full,
+My old fond heart runs o'er; it aches with joy.
+
+_Eup._ Alas! too much you over-rate your daughter;
+Nature and duty call'd me--Oh! my father,
+How didst thou bear thy long, long suff'rings? How
+Endure their barb'rous rage?
+
+_Eva._ My foes but did
+To this old frame, what Nature's hand must do.
+In the worst hour of pain, a voice still whisper'd me,
+"Rouse thee, Evander; self-acquitting conscience
+"Declares thee blameless, and the gods behold thee."
+I was but going hence by mere decay,
+To that futurity which Plato taught.
+Thither, oh! thither was Evander going,
+But thou recall'st me; thou!
+
+_Eup._ Timoleon too
+Invites thee back to life.
+
+_Eva._ And does he still
+Urge on the siege?
+
+_Eup._ His active genius comes
+To scourge a guilty race. The Punic fleet,
+Half lost, is swallow'd by the roaring sea.
+The shatter'd refuse seek the Lybian shore,
+To bear the news of their defeat to Carthage.
+
+_Eva._ These are thy wonders, Heaven! Abroad thy spirit
+Moves o'er the deep, and mighty fleets are vanish'd.
+
+_Eup._ Ha!--hark!--what noise is that!
+Some busy footstep beats the hallow'd pavement.
+Oh! sir, retire--Ye pow'rs!--Philotas!--ha!
+
+_Enter PHILOTAS._
+
+_Phil._ For thee, Euphrasia, Dionysius calls.
+Some new suspicion goads him. At yon gate
+I stopp'd Calippus, as with eager haste
+He bent his way to seek thee.--Oh! my sovereign,
+My King, my injur'd master, will you pardon
+The wrongs I've done thee?      [_Kneels to EVANDER._
+
+_Eva._ Virtue such as thine,
+From the fierce trial of tyrannic pow'r,
+Shines forth with added lustre.
+
+_Phil._ Oh! forgive
+My ardent zeal? there is no time to waste.
+You must withdraw; trust to your faithful friends.
+Pass but another day, and Dionysius
+Falls from a throne usurp'd.
+
+_Eva._ But ere he pays
+The forfeit of his crimes, what streams of blood
+Shall flow in torrents round! Methinks I might
+Prevent this waste of nature--I'll go forth
+And to my people show their rightful king.
+
+_Eup._ Banish that thought; forbear; the rash attempt
+Were fatal to our hopes; oppress'd, dismay'd,
+The people look aghast, and, wan with fear,
+None dare espouse your cause.
+
+_Eva._ Yes, all will dare
+To act like men;--their king, I gave myself
+To a whole people. I made no reserve;
+My life was theirs; each drop about my heart
+Pledg'd to the public cause; devoted to it;
+That was my compact; is the subjects' less?
+If they are all debas'd, and willing slaves,
+The young but breathing to grow grey in bondage,
+And the old sinking to ignoble graves,
+Of such a race no matter who is king.
+And yet I will not think it; no! my people
+Are brave and gen'rous; I will trust their valour.
+
+_Eup._ Yet stay; yet be advis'd.
+
+_Phil._ As yet, my liege,
+No plan is fix'd, and no concerted measure.
+The fates are busy: wait the vast event.
+Trust to my truth and honour. Witness, gods,
+Here, in the temple of Olympian Jove,
+Philotas swears----
+
+_Eva._ Forbear: the man like thee,
+Who feels the best emotions of the heart,
+Truth, reason, justice, honour's fine excitements,
+Acts by those laws, and wants no other sanction.
+
+_Eup._ Again th'alarm approaches; sure destruction
+To thee, to all, will follow:--hark! a sound
+Comes hollow murm'ring through the vaulted aisle.
+It gains upon the ear. Withdraw, my father;
+All's lost, if thou art seen.
+
+_Phil._ And lo! Calippus
+Darts with the lightning's speed across the aisle.
+
+_Eva._ Thou at the senate house convene my friends.
+Melanthon, Dion, and their brave associates,
+Will show, that liberty has leaders still.
+Anon I'll meet them there: my child, farewell;
+Thou shalt direct me now.
+[_Exit PHILOTAS.--EVANDER enters the Tomb.
+Eup. Coming forward._] How my distracted heart throbs wild with fear!
+What brings Calippus? wherefore? save me, Heaven!
+
+_Enter CALIPPUS._
+
+_Cal._ This sullen musing in these drear abodes
+Alarms suspicion: the king knows thy plottings,
+Thy rooted hatred to the state and him.
+His sov'reign will commands thee to repair
+This moment to his presence.
+
+_Eup._ Ha! what means
+The tyrant?--I obey. [_Exit CALIPPUS._] And, oh! ye pow'rs,
+Ye ministers of Heaven, defend my father;
+Support his drooping age; and when anon
+Avenging justice shakes her crimson steel,
+Oh! be the grave at least a place of rest;
+That from his covert, in the hour of peace,
+Forth he may come to bless a willing people,
+And be your own just image here on earth.      [_Exit._
+
+
+
+
+ACT THE FOURTH.
+
+SCENE I.
+
+
+_Enter DIONYSIUS, CALIPPUS, &c._
+
+_Dio._ Away each vain alarm; the sun goes down:
+Nor yet Timoleon issues from his fleet.
+There let him linger on the wave-worn beach;
+Here the vain Greek shall find another Troy,
+A more than Hector here. Though Carthage fly,
+Ourself, still Dionysius, here remains.
+And means the Greek to treat of terms of peace?
+By Heav'n, this panting bosom hop'd to meet
+His boasted phalanx on the embattled plain.
+And doth he now, on peaceful councils bent,
+Despatch his herald?--Let the slave approach.
+
+_Enter the HERALD._
+
+Now speak thy purpose; what doth Greece impart?
+
+_Her._ Timoleon, sir, whose great renown in arms
+Is equall'd only by the softer virtues
+Of mild humanity, that sway his heart,
+Sends me his delegate to offer terms,
+On which ev'n foes may well accord; on which
+The fiercest nature, though it spurns at justice,
+May sympathize with his.
+
+_Dio._ Unfold thy mystery;
+Thou shalt be heard.
+
+_Her._ The gen'rous leader sees,
+With pity sees, the wild destructive havoc
+Of ruthless war; he hath survey'd around
+The heaps of slain that cover yonder field,
+And, touch'd with gen'rous sense of human woe,
+Weeps o'er his victories.
+
+_Dio._ Your leader weeps!
+Then let the author of those ills thou speak'st of,
+Let the ambitious factor of destruction,
+Timely retreat, and close the scene of blood.
+Why doth affrighted peace behold his standard
+Uprear'd in Sicily? and wherefore here
+The iron ranks of war, from which the shepherd
+Retires appall'd, and leaves the blasted hopes
+Of half the year, while closer to her breast
+The mother clasps her infant?
+
+_Her._ 'Tis not mine
+To plead Timoleon's cause; not mine the office
+To justify the strong, the righteous motives
+That urge him to the war: the only scope
+My deputation aims at, is to fix
+An interval of peace, a pause of horror,
+That they, whose bodies, on the naked shore,
+Lie weltering in their blood, from either host
+May meet the last sad rites to nature due,
+And decent lie in honourable graves.
+
+_Dio._ Go tell your leader, his pretexts are vain.
+Let him, with those that live, embark for Greece,
+And leave our peaceful plains; the mangled limbs
+Of those he murder'd, from my tender care
+Shall meet due obsequies.
+
+_Her._ The hero, sir,
+Wages no war with those, who bravely die.
+'Tis for the dead I supplicate; for them
+We sue for peace; and to the living too
+Timoleon would extend it, but the groans
+Of a whole people have unsheath'd his sword.
+A single day will pay the funeral rites.
+To-morrow's sun may see both armies meet
+Without hostility, and all in honour;
+You to inter the troops who bravely fell;
+We, on our part, to give an humble sod
+To those, who gain'd a footing on the isle,
+And by their death have conquer'd.
+
+_Dio._ Be it so;
+I grant thy suit: soon as to-morrow's dawn
+Illume the world, the rage of wasting war
+In vain shall thirst for blood.
+Thou know'st my last resolve, and now farewell.
+Some careful officer conduct him forth.
+
+[_Exit HERALD._
+
+By Heav'n, the Greek hath offered to my sword
+An easy prey; a sacrifice to glut
+My great revenge. Calippus, let each soldier
+This night resign his wearied limbs to rest,
+That ere the dawn, with renovated strength,
+On the unguarded, unsuspecting foe,
+Disarm'd, and bent on superstitious rites,
+From every quarter we may rush undaunted,
+Give the invaders to the deathful steel,
+And by one carnage bury all in ruin.
+My valiant friends, haste to your several posts,
+And let this night a calm unruffled spirit
+Lie hush'd in sleep: away, my friends, disperse.
+Philotas, waits Euphrasia as we order'd?
+
+_Phil._ She's here at hand.
+
+_Dio._ Admit her to our presence.
+Rage and despair, a thousand warring passions,
+All rise by turns, and piecemeal rend my heart.
+Yet ev'ry means, all measures must be tried,
+To sweep the Grecian spoiler from the land,
+And fix the crown unshaken on my brow.
+
+_Enter EUPHRASIA._
+
+_Eup._ What sudden cause requires Euphrasia's presence?
+
+_Dio._ Approach, fair mourner, and dispel thy fears.
+Thy grief, thy tender duty to thy father,
+Has touch'd me nearly. In his lone retreat,
+Respect, attendance, every lenient care
+To sooth affliction, and extend his life,
+Evander has commanded.
+
+_Eup._ Vile dissembler!
+Detested homicide! [_Aside._]--And has thy heart
+Felt for the wretched?
+
+_Dio._ Urgencies of state
+Abridg'd his liberty; but to his person
+All honour hath been paid.
+
+_Eup._ The righteous gods
+Have mark'd thy ways, and will in time repay
+Just retribution.
+
+_Dio._ If to see your father,
+If here to meet him in a fond embrace,
+Will calm thy breast, and dry those beauteous tears,
+A moment more shall bring him to your presence.
+
+_Eup._ Ha! lead him hither! Sir, to move him now,
+Aged, infirm, worn out with toil and years--
+No, let me seek him rather--If soft pity
+Has touch'd your heart, oh! send me, send me to him.
+
+_Dio._ Control this wild alarm; with prudent care
+Philotas shall conduct him; here I grant
+The tender interview.
+
+_Eup._ Disastrous fate!
+Ruin impends!--This will discover all!
+I'll perish first.      [_Aside._
+Though much I languish to behold my father,
+Yet now it were not fit--the sun goes down;
+Night falls apace; soon as returning day--
+
+_Dio._ This night, this very hour, you both must meet.
+Together you may serve the state and me.
+Thou seest the havoc of wide wasting war;
+And more, full well you know, are still to bleed.
+Thou may'st prevent their fate.
+
+_Eup._ Oh! give the means,
+And I will bless thee for it.
+
+_Dio._ From a Greek
+Torments have wrung the truth. Thy husband, Phocion--
+
+_Eup._ Oh! say, speak of my Phocion.
+
+_Dio._ He; 'tis he
+Hath kindled up this war; with treacherous arts
+Inflam'd the states of Greece; and now the traitor
+Comes with a foreign aid to wrest my crown.
+
+_Eup._ And does my Phocion share Timoleon's glory?
+
+_Dio._ With him invests our walls, and bids rebellion
+Erect her standard here.
+
+_Eup._ Oh! bless him gods!
+Where'er my hero treads the paths of war,
+List on his side; against the hostile javelin
+Uprear his mighty buckler; to his sword
+Lend the fierce whirlwind's rage, that he may come
+With wreaths of triumph, and with conquest crown'd,
+And a whole nation's voice
+Applaud my hero with a love like mine!
+
+_Dio._ Ungrateful fair! Has not our sovereign will
+On thy descendants fix'd Sicilia's crown?
+Have I not vow'd protection to your boy?
+
+_Eup._ From thee the crown! from thee! Euphrasia's children
+Shall on a nobler basis found their rights;
+On their own virtue, and a people's choice.
+
+_Dio._ Misguided woman!
+
+_Eup._ Ask of thee protection!
+The father's valour shall protect his boy.
+
+_Dio._ Rush not on sure destruction; ere too late
+Accept our proffer'd grace. The terms are these;
+Instant send forth a message to your husband;
+Bid him draw off his Greeks! unmoor his fleet,
+And measure back his way. Full well he knows
+You and your father are my hostages;
+And for his treason both may answer.
+
+_Eup._ Think'st thou then
+So meanly of my Phocion?--Dost thou deem him
+Poorly wound up to a mere fit of valour,
+To melt away in a weak woman's tear?
+Oh! thou dost little know him; know'st but little
+Of his exalted soul. With gen'rous ardour
+Still will he urge the great, the glorious plan,
+And gain the ever honour'd bright reward,
+Which fame entwines around the patriot's brow,
+And bids for ever flourish on his tomb,
+For nations freed, and tyrants laid in dust.
+
+_Dio._ By Heav'n, this night Evander breathes his last.
+
+_Eup._ Better for him to sink at once to rest,
+Than linger thus beneath the gripe of famine,
+In a vile dungeon, scoop'd with barb'rous skill
+Deep in the flinty rock; a monument
+Of that fell malice, and that black suspicion,
+That mark'd your father's reign; a dungeon drear,
+Prepar'd for innocence!--Vice liv'd secure,
+It flourish'd, triumph'd, grateful to his heart;
+'Twas virtue only could give umbrage; then,
+In that black period, to be great and good
+Was a state crime; the pow'rs of genius then
+Were a constructive treason.
+
+_Dio._ Now your father's doom
+Is fix'd; irrevocably fix'd.
+
+_Eup._ Thy doom, perhaps,
+May first be fix'd; the doom that ever waits
+The fell oppressor, from a throne usurp'd
+Hurl'd headlong down. Think of thy father's fate
+At Corinth, Dionysius!
+
+_Dio._ Ha! this night
+Evander dies; and thou, detested fair!
+Thou shalt behold him, while inventive cruelty
+Pursues his wearied life through every nerve.
+I scorn all dull delay. This very night
+Shall sate my great revenge.      [_Exit._
+
+_Eup._ This night, perhaps,
+Shall whelm thee down, no more to blast creation.
+My father, who inhabit'st with the dead,
+Now let me seek thee in the lonely tomb,
+And tremble there with anxious hope and fear.      [_Exit._
+
+
+SCENE II.
+
+
+_The Inside of the Temple._
+
+_Enter PHOCION and MELANTHON._
+
+_Phoc._ Each step I move, a grateful terror shakes
+My frame to dissolution.
+
+_Mel._ Summon all
+Thy wonted firmness; in that dreary vault
+A living king is number'd with the dead.
+I'll take my post, near where the pillar'd aisle
+Supports the central dome, that no alarm
+Surprise you in the pious act.      [_Exit._
+
+_Phoc._ If here
+They both are found; if in Evander's arms
+Euphrasia meets my search, the fates atone
+For all my suff'rings, all afflictions past.
+Yes, I will seek them--ha!--the gaping tomb
+Invites my steps--now, be propitious Heaven!
+
+[_He enters the Tomb._
+
+_Enter EUPHRASIA._
+
+_Eup._ All hail, ye caves of horror!--In this gloom
+Divine content can dwell, the heartfelt tear,
+Which, as it falls, a father's trembling hand
+Will catch, and wipe the sorrows from my eye,
+Thou Pow'r supreme! whose all-pervading mind
+Guides this great frame of things; who now behold'st me,
+Who, in that cave of death, art full as perfect
+As in the gorgeous palace, now, while night
+Broods o'er the world, I'll to thy sacred shrine,
+And supplicate thy mercies to my father.
+Who's there?--Evander?----Answer----tell me----speak----
+
+_Enter PHOCION, from the Tomb._
+
+_Phoc._ What voice is that?--Melanthon!
+
+_Eup._ Ha! those sounds!--
+Speak of Evander; tell me that he lives,
+Or lost Euphrasia dies.
+
+_Phoc._ Heart-swelling transport!
+Art thou Euphrasia? 'tis thy Phocion, love;
+Thy husband comes.
+
+_Eup._ Support me;--reach thy hand.
+
+_Phoc._ Once more I clasp her in this fond embrace!
+
+_Eup._ What miracle has brought thee to me?
+
+_Phoc._ Love
+Inspir'd my heart, and guided all my ways.
+
+_Eup._ Oh, thou dear wanderer! But wherefore here?
+Why in this place of woe? My tender little one,--
+Say, is he safe? Oh! satisfy a mother;
+Speak of my child, or I go wild at once!
+Tell me his fate, and tell me all thy own.
+
+_Phoc._ Your boy is safe, Euphrasia; lives to reign
+In Sicily: Timoleon's gen'rous care
+Protects him in his camp:--dispel thy fears;
+The gods once more will give him to thy arms.
+
+_Eup._ My father lives sepulchred ere his time,
+Here in Eudocia's tomb; let me conduct thee.
+
+_Phoc._ I came this moment thence.
+
+_Eup._ And saw Evander?
+
+_Phoc._ Alas! I found him not.
+
+_Eup._ Not found him there?--
+And have they then--Have the fell murderers--Oh!
+
+[_Faints away._
+
+_Phoc._ I've been too rash; revive, my love, revive;
+Thy Phocion calls; the gods will guard Evander,
+And save him to reward thy matchless virtue.
+
+_Enter EVANDER and MELANTHON._
+
+_Eva._ Lead me, Melanthon; guide my aged steps;
+Where is he? let me see him.
+
+_Phoc._ My Euphrasia;
+Thy father lives;--thou venerable man!
+Behold!--I cannot fly to thy embrace.
+
+_Eup._ These agonies must end me--ah, my father!
+Again I have him, gracious pow'rs! again
+I clasp his hand, and bathe it with my tears.
+
+_Eva._ Euphrasia!--Phocion, too!--Yes, both are here!
+Oh, let me thus, thus strain you to my heart.
+
+_Phoc._ Protected by a daughter's tender care,
+By my Euphrasia sav'd! That sweet reflection
+Exalts the bliss to rapture.
+
+_Eup._ Why, my father,
+Why thus adventure forth! The strong alarm
+O'erwhelm'd my spirits.
+
+_Eva._ I went forth, my child,
+When all was dark, and awful silence round,
+To throw me prostrate at the altar's foot,
+And crave the care of Heav'n for thee and thine.
+Melanthon there----
+
+_Enter PHILOTAS._
+
+_Phil._ Inevitable ruin hovers o'er you:
+The tyrant's fury mounts into a blaze;
+Unsated yet with blood, he calls aloud
+For thee, Evander! thee his rage hath order'd
+This moment to his presence.
+
+_Eva._ Lead me to him:
+His presence hath no terror for Evander.
+
+_Eup._ Horror! It must not be.
+
+_Phil._ No, never, never:
+I'll perish rather! But the time demands
+Our utmost vigour. His policy has granted
+A day's suspense from arms; yet even now
+His troops prepare, in the dead midnight hour,
+With base surprise to storm Timoleon's camp.
+
+_Eva._ And doth he grant a false insidious truce,
+To turn the hour of peace to blood and horror?
+
+_Eup._ I know the monster well: when specious seeming
+Becalms his looks, the rankling heart within
+Teems with destruction.
+
+_Mel._ Now, Phocion, now, on thee our hope depends.
+Fly to Timoleon; I can grant a passport:
+Rouse him to vengeance; on the tyrant turn
+His own insidious arts, or all is lost.
+
+_Phoc._ Evander thou, and thou, my best Euphrasia,
+Both shall attend my flight.
+
+_Mel._ It were in vain;
+Th'attempt would hazard all.
+
+_Eup._ Together here
+We will remain, safe in the cave of death;
+And wait our freedom from thy conqu'ring arm.
+
+_Eva._ Oh, would the gods roll back the stream of time,
+And give this arm the sinew that it boasted
+At Tauromenium, when its force resistless
+Mow'd down the ranks of war: I then might guide
+The battle's rage, and, ere Evander die,
+Add still another laurel to my brow.
+
+_Eup._ Enough of laurell'd victory your sword
+Hath reap'd in earlier days.
+
+_Eva._ And shall my sword,
+When the great cause of liberty invites,
+Remain inactive, unperforming quite?
+Youth, second youth, rekindles in my veins:
+Tho' worn with age, this arm will know its office;
+Will show, that victory has not forgot
+Acquaintance with this hand.--And yet--O shame
+It will not be: the momentary blaze
+Sinks, and expires: I have survived it all;
+Surviv'd my reign, my people, and myself.
+
+_Eup._ Fly, Phocion, fly; Melanthon will conduct thee.
+
+_Mel._ And, when th'assault begins, my faithful cohorts
+Shall form their ranks around this sacred dome.
+
+_Phoc._ And my poor captive friends, my brave companions
+Taken in battle, wilt thou guard their lives?
+
+_Mel._ Trust to my care: no danger shall assail them.
+
+_Phoc._ By Heav'n, the glorious expectation swells
+This panting bosom! Yes, Euphrasia, yes;
+A while I leave you to the care of Heaven.
+Fell Dionysius tremble; ere the dawn
+Timoleon thunders at your gates! the rage,
+The pent-up rage, of twenty thousand Greeks,
+Shall burst at once; and the tumultuous roar,
+Alarm th'astonish'd world.
+
+_Eva._ Yet, ere thou go'st, young man,
+Attend my words: Tho' guilt may oft provoke,
+As now it does, just vengeance on its head,
+In mercy punish it. The rage of slaughter
+Can add no trophy to the victor's triumph;
+Bid him not shed unnecessary blood.
+Conquest is proud, inexorable, fierce;
+It is humanity ennobles all.
+So thinks Evander, and so tell Timoleon.
+
+_Phoc._ Farewell;--the midnight hour shall give you freedom.
+
+[_Exit, with MELANTHON and PHILOTAS._
+
+_Eup._ Ye guardian deities, watch all his ways.
+
+_Eva._ Come, my Euphrasia, in this interval
+Together we will seek the sacred altar,
+And thank the God, whose presence fills the dome,
+For all the wond'rous goodness lavish'd on us.
+
+[_Exeunt._
+
+
+
+
+ACT THE FIFTH.
+
+SCENE I.
+
+
+_Enter DIONYSIUS and CALIPPUS._
+
+_Dio._ Ere the day clos'd, while yet the busy eye
+Might view their camp, their stations, and their guards,
+Their preparations for approaching night;--
+Didst thou then mark the motions of the Greek?
+
+_Cal._ From the watch-tower I saw them: all things spoke
+A foe secure, and discipline relax'd.
+
+_Dio._ Their folly gives them to my sword. Are all
+My orders issued?
+
+_Cal._ All.
+
+_Dio._ The troops retir'd
+To gain recruited vigour from repose?
+
+_Cal._ The city round lies hush'd in sleep.
+
+_Dio._ Anon
+Let each brave officer, of chosen valour,
+Forsake his couch, and with delib'rate spirit,
+Meet at the citadel. An hour, at furthest,
+Before the dawn; 'tis fix'd to storm their camp;
+Haste, Calippus,
+Fly to thy post, and bid Euphrasia enter.
+
+[_Exit CALIPPUS._
+
+Evander dies this night:--Euphrasia too
+Shall be dispos'd of. Curse on Phocion's fraud,
+That from my pow'r withdrew their infant boy.
+In him the seed of future kings were crush'd,
+And the whole hated line at once extinguish'd.
+
+_Enter EUPHRASIA._
+
+Once more approach and hear me; 'tis not now
+A time to waste in the vain war of words.
+A crisis big with horror is at hand.
+I meant to spare the stream of blood, that soon
+Shall deluge yonder plains. My fair proposals
+Thy haughty spirit has with scorn rejected.
+And now, by Heav'n, here, in thy very sight,
+Evander breathes his last.
+
+_Eup._ If yet there's wanting
+A crime to fill the measure of thy guilt,
+Add that black murder to the dreadful list;--
+With that complete the horrors of thy reign.
+
+_Dio._ Woman, beware: Philotas is at hand,
+And to our presence leads Evander. All
+Thy dark complottings, and thy treach'rous arts,
+Have prov'd abortive.
+
+_Eup._ Ha!--What new event?
+And is Philotas false?--Has he betray'd him?
+
+[_Aside._
+
+_Dio._ What, ho! Philotas!
+
+_Enter PHILOTAS._
+
+_Eup._ How my heart sinks within me!
+
+_Dio._ Where's your pris'ner?
+
+_Phil._ Evander is no more.
+
+_Dio._ Ha!--Death has robb'd me
+Of half my great revenge.
+
+_Phil._ Worn out with anguish,
+I saw life ebb apace. With studied art
+We gave each cordial drop, alas, in vain;
+He heav'd a sigh, invok'd his daughter's name,
+Smil'd, and expir'd.
+
+_Dio._ Bring me his hoary head!
+
+_Phil._ You'll pardon, sir, my over-hasty zeal.
+I gave the body to the foaming surge,
+Down the steep rock despis'd.
+
+_Dio._ Now rave and shriek,
+And rend your scatter'd hair. No more Evander
+Shall sway Sicilia's sceptre.
+Now then, thou feel'st my vengeance.
+
+_Eup._ Glory in it;
+Exult and triumph. Thy worst shaft is sped.
+Yet still th'unconquer'd mind with scorn can view thee;
+With the calm sunshine of the breast can see,
+Thy pow'r unequal to subdue the soul,
+Which virtue form'd, and which the gods protect.
+
+_Dio._ Philotas, bear her hence; she shall not live;
+This moment, bear her hence!--you know the rest:--
+Go, see our will obey'd; that done, with all
+A warrior's speed, attend me at the citadel;--
+There meet the heroes, whom this night shall lead
+To freedom, victory,--to glorious havoc,
+And the destruction of the Grecian name.      [_Exit._
+
+_Eup._ Accept my thanks, Philotas;--generous man!
+These tears attest th'emotions of my heart.
+But, oh! should Greece defer----
+
+_Phil._ Dispel thy fears;
+Phocion will bring relief; or should the tyrant
+Assault their camp, he'll meet a marshall'd foe.
+Let me conduct thee to the silent tomb.
+
+_Eup._ Ah! there Evander, naked and disarm'd,
+Defenceless quite, may meet some ruffian stroke.
+
+_Phil._ Lo here's a weapon; bear this dagger to him.
+In the drear monument, should hostile steps
+Dare to approach him, they must enter singly;
+This guards the passage; man by man they die.
+There may'st thou dwell amidst the wild commotion.
+
+_Eup._ Ye pitying gods, protect my father there!
+
+[_Exeunt._
+
+
+SCENE II.
+
+
+_The Citadel._
+
+_Enter CALIPPUS, and several OFFICERS: DIONYSIUS meeting them._
+
+_Dio._ Ye brave associates, who so oft have shar'd
+Our toil and danger in the field of glory,
+My fellow warriors, what no god could promise,
+Fortune hath giv'n us. In his dark embrace
+Lo! sleep envelops the whole Grecian camp.
+Against a foe, the outcasts of their country,
+Freebooters, roving in pursuit of prey,
+Success by war or covert stratagem
+Alike is glorious. Then, my gallant friends,
+What need of words? The gen'rous call of freedom,
+Your wives, your children, your invaded rights,
+All that can steel the patriot breast with valour,
+Expands and rouses in the swelling heart.
+Follow th'impulsive ardour; follow me,
+Your king, your leader: in the friendly gloom
+Of night, assault their camp; your country's love,
+And fame eternal, shall attend the men
+Who march'd through blood and horror, to redeem,
+From the invader's pow'r, their native land.
+
+_Cal._ Lead to the onset; Greece shall find we bear
+Hearts prodigal of blood, when honour calls,
+Resolv'd to conquer or to die in freedom.
+
+_Dio._ Thus I've resolv'd: When the declining moon
+Hath veil'd her orb, our silent march begins.
+The order thus:--Calippus thou lead forth
+Iberia's sons with the Numidian bands,
+And line the shore.--Perdiccas, be it thine
+To march thy cohorts to the mountain's foot,
+Where the wood skirts the valley; there make halt
+Till brave Amyntor stretch along the vale.
+Ourself with the embodied cavalry
+Clad in their mail'd cuirass, will circle round
+To where their camp extends its furthest line;
+Unnumber'd torches there shall blaze at once,
+The signal of the charge; then, oh, my friends!
+On every side let the wild uproar loose,
+Bid massacre and carnage stalk around,
+Unsparing, unrelenting; drench your swords
+In hostile blood, and riot in destruction.
+Away, my friends!
+Rouse all the war! fly to your sev'ral posts,
+And instant bring all Syracuse in arms!
+
+[_Exeunt.--Warlike music._
+
+
+Scene III.
+
+_The Inside of the Temple._
+
+_A Monument in the Middle._
+
+_EUPHRASIA, ERIXENE, and FEMALE ATTENDANTS._
+
+_Eup._ Which way, Erixene, which way, my virgins,
+Shall we direct our steps? What sacred altar
+Clasp on our knees?
+
+_Erix._ Alas, the horrid tumult
+Spreads the destruction wide. On ev'ry side
+The victor's shouts, the groans of murder'd wretches,
+In wild confusion rise. Once more descend
+Eudocia's tomb; there thou may'st find a shelter.
+
+_Eup._ Anon, Erixene, I mean to visit,
+Perhaps for the last time, a mother's urn.
+This dagger there, this instrument of death,
+Should fortune prosper the fell tyrant's arms,
+This dagger then may free me from his pow'r,
+And that drear vault intomb us all in peace.
+
+[_Puts up the Dagger._
+
+The din
+Of arms with clearer sound advances. Hark!
+That sudden burst!--Again!--They rush upon us!
+The portal opens; lo!--see there!--behold,
+War, horrid war, invades the sacred fane!
+No altar gives a sanctuary now.      [_Warlike Music._
+
+_Enter DIONYSIUS and CALIPPUS, with several SOLDIERS._
+
+_Dio._ Here will I mock their siege; here stand at bay,
+And brave them to the last.
+
+_Cal._ Our weary foes
+Desist from the pursuit.
+
+_Dio._ Tho' all betray me,
+Tho' ev'ry god conspire, I will not yield.
+If I must fall, the temple's pond'rous roof,
+The mansion of the gods combin'd against me,
+Shall first be crush'd, and lie in ruin with me.
+Euphrasia here! Detested, treach'rous woman!
+For my revenge preserv'd!--By Heaven, 'tis well;
+Vengeance awaits thy guilt, and this good sword
+Thus sends thee to atone the bleeding victims
+This night has massacred.
+
+_Cal._ [_Holding DIONYSIUS'S Arm._] My liege, forbear;
+Her life preserv'd may plead your cause with Greece,
+And mitigate your fate.
+
+_Dio._ Presumptuous slave!
+My rage is up in arms;--by Heav'n, she dies.
+
+_Enter EVANDER, from the Tomb._
+
+_Eva._ Horror! forbear!--Thou murd'rer, hold thy hand!
+The gods behold thee, horrible assassin!
+Restrain the blow; it were a stab to Heav'n;
+All nature shudders at it!--Will no friend
+Arm in a cause like this a father's hand?
+Strike at this bosom rather. Lo! Evander
+Prostrate and groveling on the earth before thee!
+He begs to die:--exhaust the scanty drops
+That lag about his heart;--but spare my child.
+
+_Dio._ Evander!----Do my eyes once more behold him?--
+May the fiends seize Philotas! Treach'rous slave!
+'Tis well thou liv'st; thy death were poor revenge
+From any hand but mine.      [_Offers to strike._
+
+_Eup._ No, tyrant no;      [_Rushing before EVANDER._
+I have provok'd your vengeance; through this bosom
+Open a passage; first on me, on me
+Exhaust your fury. Ev'ry pow'r above
+Commands thee to respect that aged head:
+His wither'd frame wants blood to glut thy rage:
+Strike here; these veins are full; here's blood enough;
+The purple tide will gush to glad thy sight.
+
+_Dio._ Amazement blasts and freezes ev'ry pow'r!
+Ha! the fierce tide of war      [_A flourish of Trumpets._
+This way comes rushing on.
+
+[_Goes to the Top of the Stage._
+
+_Eup._ [_Embracing EVANDER._] Oh! thus, my father,
+We'll perish thus together.
+
+_Dio._ Bar the gates;
+Close ev'ry passage, and repel their force.
+
+_Eva._ And must I see thee bleed? Oh, for a sword!
+Bring, bring me daggers!
+
+_Eup._ Ha!
+
+_Dio._ Guards, seize the slave,
+And give him to my rage.
+
+_Eva._ [_Seized by the GUARDS._] Oh!
+Inhuman villains!
+
+_Eup._ Now, one glorious effort!--
+
+_Dio._ Let me despatch; thou traitor, thus my arm--
+
+_Eup._ A daughter's arm, fell monster, strikes the blow.
+[_Stabs DIONYSIUS._
+Yes, first she strikes; an injur'd daughter's arm
+Sends thee devoted to th' infernal gods.      [_He falls._
+
+_Dio._ May curses blast thy arm! May Ætna's fires
+Convulse the land; to its foundation shake
+The groaning isle! May civil discord bear
+Her flaming brand through all the realms of Greece;
+And the whole race expire in pangs like mine!      [_Dies._
+
+_Eup._ Behold, all Sicily behold!--The point
+Glows with the tyrant's blood. Ye slaves, [_To the GUARDS._] look there;
+Kneel to your rightful king: the blow for freedom
+Gives you the rights of men! And, oh, my father,
+My ever honour'd sire, it gives thee life!
+
+_Eva._ My child--my daughter--sav'd again by thee!
+[_He embraces her._
+
+_A Flourish of Trumpets. Enter PHOCION, MELANTHON, PHILOTAS, &c._
+
+_Phoc._ Now let the monster yield.--My best Euphrasia!
+
+_Eup._ My lord!--my Phocion!--welcome to my heart.--
+Lo! there the wonders of Euphrasia's arm!
+
+_Phoc._ And is the proud one fall'n! The dawn shall see him
+A spectacle for public view. Euphrasia!
+Evander too!--Thus to behold you both----
+
+_Eva._ To her direct thy looks; there fix thy praise,
+And gaze with wonder there. The life I gave her,
+Oh, she has us'd it for the noblest ends!
+To fill each duty; make her father feel
+The purest joy, the heart-dissolving bliss
+To have a grateful child.--But has the rage
+Of slaughter ceas'd?
+
+_Phoc._ It has.
+
+_Eva._ Where is Timoleon?
+
+_Phoc._ He guards the citadel; there gives his orders
+To calm the uproar, and recal from carnage
+His conqu'ring troops.
+
+_Eup._ Oh! once again, my father,
+Thy sway shall bless the land. Not for himself
+Timoleon conquers; to redress the wrongs
+Of bleeding Sicily, the hero comes.
+Thee, good Melanthon, thee, thou gen'rous man,
+His justice shall reward. Thee too, Philotas,
+Whose sympathizing heart could feel the touch
+Of soft humanity, the hero's bounty,
+His brightest honours, shall be lavish'd on thee.
+Evander, too, will place you near his throne;
+And show mankind, ev'n on this shore of being,
+That virtue still shall meet its sure reward.
+
+_Phil._ I am rewarded: feelings, such as mine,
+Are worth all dignities; my heart repays me.
+
+_Eva._ Come, let us seek Timoleon; to his care
+I will commend ye both: for now, alas!
+Thrones and dominions now no more for me.
+To thee I give my crown: yes, thou, Euphrasia;
+Shalt reign in Sicily. And, oh! ye Pow'rs,
+In that bright eminence of care and peril,
+Watch over all her ways; conduct and guide
+The goodness you inspir'd; that she may prove,
+If e'er distress like mine invade the land,
+A parent to her people; stretch the ray
+Of filial piety to times unborn,
+That men may hear her unexampled virtue,
+And learn to emulate "The Grecian Daughter."
+
+
+THE END.
+
+
+
+
+[Transcriber's Note: The following typographical errors in the original
+edition have been corrected. "Dia." has been changed to "Dio." in the
+speech beginning "Perdiccas, ere the morn's revolving light"; "Enp." has
+been changed to "Eup." in the speech beginning "Give me my father; here
+you hold him fetter'd;"; "Couduct me forward" has been changed to
+"Conduct me forward"; and a missing bracket has been added before the
+stage direction "_To the GUARDS._".]
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE GRECIAN DAUGHTER ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

@@ -1,0 +1,4340 @@
+﻿The Project Gutenberg eBook of The Gamester (1753)
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Gamester (1753)
+
+Author: Edward Moore
+
+Commentator: Charles H. Peake
+        Phillip R. Wikelund
+
+
+        
+Release date: July 12, 2005 [eBook #16267]
+                Most recently updated: December 12, 2020
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/16267
+
+Credits: Produced by David Starner, Louise Hope and the Online
+        Distributed Proofreading Team at https://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE GAMESTER (1753) ***
+
+
+
+
+Produced by David Starner, Louise Hope and the Online
+Distributed Proofreading Team at https://www.pgdp.net
+
+
+
+
+
+
+                  Series Five:
+
+                    _Drama_
+
+
+                     No. 1
+
+      Edward Moore, _The Gamester_ (1753)
+
+
+            With an Introduction by
+               Charles H. Peake
+
+                      and
+
+           a Bibliographical Note by
+              Philip R. Wikelund
+
+
+         The Augustan Reprint Society
+                  July, 1948
+               _Price: 75 cents_
+
+       *       *       *       *       *
+
+               _GENERAL EDITORS_
+
+RICHARD C. BOYS, _University of Michigan_
+EDWARD NILES HOOKER, _University of California, Los Angeles_
+H. T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+
+              _ASSISTANT EDITOR_
+
+W. EARL BRITTON, _University of Michigan_
+
+
+              _ADVISORY EDITORS_
+
+EMMETT L. AVERY, _State College of Washington_
+BENJAMIN BOYCE, _University of Nebraska_
+LOUIS I. BREDVOLD _University of Michigan_
+CLEANTH BROOKS, _Yale University_
+JAMES L. CLIFFORD, _Columbia University_
+ARTHUR FRIEDMAN, _University of Chicago_
+SAMUEL H. MONK, _University of Minnesota_
+ERNEST MOSSNER, _University of Texas_
+JAMES SUTHERLAND, _Queen Mary College, London_
+
+
+  Lithoprinted from copy supplied by author
+                      by
+            Edwards Brothers, Inc.
+          Ann Arbor, Michigan, U.S.A.
+                     1948
+
+       *       *       *       *       *
+
+
+
+
+INTRODUCTION
+
+
+This reprint of Edward Moore's _The Gamester_ makes available to
+students of eighteenth century literature a play which, whatever its
+intrinsic merits, is historically important both as a vehicle for a
+century of great actors and as a contribution to the development of
+middle-class tragedy which had considerable influence on the Continent.
+_The Gamester_ was first presented at the Drury Lane Theatre February 7,
+1753 with Garrick in the leading role, and ran for ten successive
+nights. Up to the middle of the nineteenth century it remained a popular
+stock piece--John Philip Kemble, Mrs. Siddons, Mrs. Barry, the Keans,
+Macready, and others having distinguished themselves in it--and in
+America from 1754 to 1875 it enjoyed even more performances than in
+England. (J.H. Caskey, _The Life and Works of Edward Moore_, 96-99).
+Moore's middle-class tragedy is the only really successful attempt
+to follow Lillo's decisive break with tradition in England in the
+eighteenth century. His background, like Lillo's, was humble, religious,
+and mercantile. The son of a dissenting pastor, Moore received his early
+education in dissenters' academies, and then served an apprenticeship to
+a London linen-draper. After a few years in Ireland as an agent for a
+merchant, Moore returned to London to join a partnership in the linen
+trade. The partnership was soon dissolved, and Moore turned to letters
+for a livelihood. Among his works are _Fables for the Female Sex_ (1744)
+which went through three editions, _The Foundling_ (1748), a successful
+comedy, and _Gil Blas_ (1751), an unsuccessful comedy. In 1753, with
+encouragement and some assistance from Garrick, he produced _The
+Gamester_, upon which his reputation as a writer depends.
+
+It is impossible, of course, to review here all the factors involved in
+the development of middle-class tragedy in England in the eighteenth
+century. However, certain aspects of that movement which concern Moore's
+immediate predecessors and which have not been adequately recognized
+might be mentioned briefly. Aside from Elizabethan and Jacobean attempts
+to give tragic expression to everyday human experience, historians have
+noted the efforts of Otway, Southerne, and Rowe to lower the social
+level of tragedy; but in this period middle-class problems and
+sentiments and domestic situations appear in numerous tragedies,
+long-since forgotten, which in form, setting, and social level present
+no startling deviations from traditional standards. Little or no
+attention has been given to some of these obscure dramatists who in the
+midst of the Collier controversy attempted to illustrate in tragedy the
+arguments advanced in the third part of John Dennis's _The Usefulness of
+the Stage, to the Happiness of Mankind, to Government, and to Religion_
+(1698). Striving to demonstrate the usefulness of the stage, these
+avowed reformers produced essentially domestic tragedies, by treating
+such problems as filial obedience and marital fidelity in terms of
+orthodox theology. The argument that the stage can be an adjunct of
+the pulpit is widespread, and appears most explicitly in Hill's preface
+to his _Fatal Extravagance_ (1721), sometimes regarded as the first
+middle-class tragedy in the eighteenth century, and in Lillo's
+dedication to _George Barnwell_ (1731). The line from these obscure
+dramatists at the turn of the century to Lillo is direct and clear. Of
+these forgotten plays we can note here only _Fatal Friendship_ (1698)
+by Mrs. Catherine Trotter whom John Hughes hailed as "the first of
+stage-reformers"
+
+(_To the Author of Fatal Friendship, a Tragedy_), an unquestionably
+domestic tragedy inculcating a theological "lesson". To this play,
+which was acted with "great applause" (_Biographica Dramatica_,
+107), Aaron Hill was, I am convinced, considerably indebted for his
+_Fatal Extravagance_, which is, in turn, one of the sources of _The
+Gamester_.
+
+In the early eighteenth century, then, there is clearly discernible a
+two-fold tendency toward middle-class tragedy which reaches its fullest
+expression in Lillo: the desire to lower the social level of the
+characters in order to make the tragedy more moving; and the desire to
+defend the stage by demonstrating its religious and moral utility. In
+his prologue to _The Fair Penitent_ (l703), Rowe gave expression to the
+first: the "fate of kings and empires", he argues, is too remote to
+engage our feelings, for "we ne'er can pity that we ne'er can share";
+therefore he offers "a melancholy tale of private woes". In his
+prologue, Lillo repeats this idea, but in his dedication he shows
+himself primarily concerned with the second tendency. Specifically
+challenging those "who deny the lawfulness of the stage", he argues
+that "the more extensively useful the moral of any tragedy is, the more
+excellent that piece must be of its kind"; the generality of mankind is
+more liable to vice than are kings; therefore "plays founded on moral
+tales in private life may be of admirable use... by stifling vice in its
+first principles". Dramatists who were concerned only or primarily with
+the first of these tendencies (the emotional effect), produced domestic
+or pseudo-domestic tragedies in the manner of Otway and Rowe. But those
+who stressed the second (moral and religious utility), seeking practical
+themes of widespread applicability, quite logically moved toward genuine
+middle-class tragedy. Thus Hill's _Fatal Extravagance_ is concerned with
+the "vice" of gambling; while Charles Johnson's _Caelia, or The Perjur'd
+Lover_ (1732) attacks fashionable libertinism of the day, telling the
+story which Richardson was later to retell in seven ponderous volumes.
+In _Caelia_ the religious rationalization of the tragic action is
+subdued, Johnson apparently preferring to stress the social and moral
+aspects of his subject, and to this end he resolutely refused to
+expunge or modify the boldly realistic brothel scenes, against which
+a fastidious audience had protested.
+
+A comparison of _The Gamester_ with its predecessor, _Fatal
+Extravagance_, reflects certain developments in the intellectual
+background of the first half of the eighteenth century. Hill anticipated
+Lillo in repeating Rowe's argument for lowering the social level of
+tragedy and in stating vigorously his desire to defend the stage by
+demonstrating its religious and moral utility. An admirer of Dennis's
+critical writings, Hill repeats Dennis's argument that the stage can
+affect those whom the pulpit falls to reach, and he offers his play
+as proof that "sound and useful instruction may be drawn from the
+_Theatre_", challenging the enemies of the stage to test his play "by
+the rules of religion and virtue" (Preface). Taking a "hint", as he
+says, from _A Yorkshire Tragedy_, Hill endeavored to show the "private
+sorrows" that result from gaming.
+
+At the opening of the play, the hero, having gambled away his fortune,
+faces poverty. His friend who signed his bond is in jail and a kindly
+uncle has failed to secure the needed relief. In a fit of passion
+growing out of despair, the hero kills the villainous creditor, and
+decides to poison his (the hero's) wife and children, and then stab
+himself. In his dying moments he learns that the uncle has substituted
+a harmless cordial for the poison and that a long-lost brother has died
+leaving him a fortune. This bare outline gives no indication of Hill's
+careful theological rationalization of character and plot which he
+promised in his preface. Hill incorporated in his play the teachings of
+orthodox divines; there is nothing 'revolutionary' in his analytical
+presentation of human nature. The theological significance of Hill's
+play has not, to my knowledge, been recognized; thematic passages tend
+to be dismissed as tiresome and gratuitous moralizing and the plot
+is often regarded as empty melodrama or the representation of some
+ambiguous 'fate'. It is in this deliberate theological rationalization
+of his materials that Hill owes most to Mrs. Trotter's domestic tragedy
+and that he differs significantly from Moore.
+
+As with Hill and Lillo, Moore's desire to write a play with an
+extensively useful 'moral' led him to middle-class realism and prose.
+To attack the widespread fashion of gaming which he regarded as a "vice",
+Moore attempted to present "a natural picture" in language adapted "to
+the capacities and feelings of every part of the audience" (Preface,
+1756). That he should have treated this social problem tragically is to
+be explained, perhaps, by his sources and by his religious background.
+He justified the "horror of its catastrophe" on the grounds that "so
+prevailing and destructive a vice as Gaming" warranted it. _The
+Gamester_ has been justly credited with superior dramatic qualities in
+comparison with Hill's _Fatal Extravagance,_, but we might perhaps note
+briefly certain aspects of the two plays which reflect changes in the
+intellectual background. In both plays theological ideas are involved
+in the treatment of the fall of the hero, partially in Moore's play,
+completely In Hill's. Not recognizing ideas common to early eighteenth
+century sermons, the modern reader may perhaps puzzle over the steadily
+increasing moral paralysis and despondency in Moore's hero, Beverly.
+Vice, preached the divines, beclouds the reason, leaving it
+progressively incapable of controlling the passions:
+
+  Follies, if uncontroul'd, of every kind,
+  Grow into passions, and subdue the mind. (V, 4)
+
+Further each commission of sin causes progressive loss of grace, without
+which man cannot act rightly. In prison Beverly is incapable of prayer
+("I cannot pray--Despair has laid his iron hand upon me, and seal'd me
+for perdition..."). However, a benevolent deity touches him with the
+finger of grace, enabling him to repent ("I wish'd for ease, a moment's
+ease, that cool repentance and contrition might soften vengeance"). He
+can now pray for mercy and in his dying moments is vouchsafed assurance
+of forgiveness ("Yet Heaven is gracious--I ask'd for hope, as the bright
+presage of forgiveness, and like a light, blazing thro' darkness, it
+came and chear'd me...").
+
+In this aspect Moore is working along the lines laid down by Hill, but
+there is a significant difference, attributable perhaps to the weakening
+of orthodox theology and the spreading influence of the Shaftesburian
+school of ethical theorists. In the older theology, man's progressive
+loss of grace correspondingly releases his natural propensity for evil,
+and working in these concepts neither Hill nor Lillo hesitated to show
+his hero descending to murder. Moore, influenced perhaps by the ethical
+sentiments of the day, compromised his theological concepts and
+permitted his hero no really evil act (excluding of course his suicide),
+and stressed instead Beverly's mistaken trust in Stukely, who is, as
+Elton has pointed out, a "Mandevillian man" (_Survey of English
+Literature: 1730-1760_, I, 329-30).
+
+There is another significant difference between the two plays which
+reflects the development of religious thought in the first half of the
+eighteenth century. Commenting on the too-late arrival of the news of
+the uncle's death, Elton remarks that "this _too-lateness_... which
+is in the nature of an accident, is a common and mechanical device of
+Georgian tragedy" (I, 330). Hill employed the device, the good news
+coming as a complete surprise, but he made it part of a carefully
+ordered plot designed to reveal the direct intervention and mysterious
+workings of a particular Providence, making characterization and action
+consistent, and giving his play a precise theological significance. In
+Moore's day, however, under the impact of deism and the developing
+rationalism, the concept of a particular Providence in orthodox theology
+had become so subtilized that the older idea of direct and striking
+intervention in human affairs all but disappeared. By mid-eighteenth
+century, deity, as Leslie Stephen points out, "appears under the
+colourless shape of Providence--a word which may be taken to imply
+a remote divine superintendence, without admitting an actual divine
+interference" (_History of English Thought In the Eighteenth Century_,
+II, 336). The references to Providence in Moore's play are of this type,
+pious labels on prudential morality. Moore carefully avoids the various
+devices employed by Hill to indicate direct divine intervention;
+consequently the late arrival of the news of the uncle's death (which
+was expected throughout the play) is without special meaning, and serves
+only as a theatrical device intended to heighten the emotional effect.
+_The Gamester_, then, is a clear reflection of the state of English
+thought in the middle of the eighteenth century, in which a declining
+theology becomes suffused with the ideas and sentiments of the moralists
+of the age.
+
+Despite the popularity of their plays, neither Lillo nor Moore inspired
+any significant followers in England. On the Continent, however, their
+influence was considerable. In his introduction to his edition of _The
+London Merchant_, A.W. Ward traces Lillo's influence on the Continent,
+and Caskey gives a detailed account of Moore's (119-134). _The Gamester_
+was translated into German, French, Dutch, Spanish, and Italian. It was
+first acted at Breslau in 1754 and retained its stage popularity for
+more than two decades. A German translation appeared in 1754, and for
+more than twenty years numerous editions and translations continued to
+appear. In France, Diderot admired the play and translated it in 1760
+(not published until 1819); Saurin's translation and adaptation (1767)
+proved popular on the French stage (he later provided an alternate happy
+ending which was frequently played).
+
+_The Gamester_ is reproduced, with permission, from a copy owned by the
+University of Michigan.
+
+  Charles H. Peake
+
+    University of Michigan
+
+
+
+
+BIBLIOGRAPHICAL NOTE
+
+
+The first edition of Moore's _The Gamester_ appeared in 1753 shortly
+after the opening of Garrick's performance of the play on February 7.
+This edition is in many respects a good text; it has seemed desirable
+for several reasons, however, to reprint this work from the 1756 edition
+of _Poems, Fables, and Plays_ (often referred to as the "Collected
+Works"). The 1756 text often corrects that of 1753 and is generally
+superior to later printings; it contains passages and improved readings
+not present in other editions; it aims at formal correctness, employing
+classical scene division; as a "Works" edition it exhibits excellent
+editorial and typographical treatment; it enjoys a superior general
+readability advantageous to classroom use; and, finally, it contains
+Moore's vindicatory preface, which, as far as an examination of
+available copies shows, does not appear in other editions. Inasmuch
+as the 1756 printing is somewhat late, standing between the fourth and
+fifth editions of the play, a brief bibliographical account of _The
+Gamester_ is offered.
+
+The play was printed separately many times in the eighteenth century.
+The first edition, in the University of Michigan copy, bears the title:
+THE / GAMESTER. / A / TRAGEDY. / As it is Acted at the / _Theatre-Royal_
+in _Drury-Lane_. / [rule] / ornament / [rule] / _LONDON_: / Printed for
+R. FRANCKLIN, in _Russel-Street_, / _Covent-Garden_; and Sold by
+R. DODSLEY, / in _Pall-Mall_. M.DCC.LIII. / The anonymity of the
+titlepage is half-hearted, for the dedication to Henry Pelham is
+signed "Edw. Moore." A prologue written by Garrick, an epilogue,
+and the cast of the original performance precede the eighty-four page
+text. Francklin and Dodsley brought out a second edition in the same
+year and a fourth edition in 1755; presumably a third edition had
+been issued in the interim. In 1771 a fifth and a sixth edition
+appeared, and in 1776 another London edition came out. In 1784 two
+more editions made an appearance, the first printed for R. Butters
+(John H. Caskey, _The Life and Works of Edward Moore_, Yale Studies
+in English, LXXV [New Haven, 1927], p. 174), the second printed for
+a group of four booksellers--Thomas Davies, W. Nicoll, Samuel Bladon,
+and John Bew. The same combination of booksellers, with W. Lowndes
+taking the place of Davies, issued in 1789 an inferior reprinting of
+their 1784 text. The editions of 1784 and 1789 are interesting because
+they identify by inverted commas the cuts made in contemporary stage
+versions. Before the end of the century three editions were printed
+outside London: two Dublin imprints of 1763 and 1783, and an American
+imprint of 1791 by Henry Taylor in Philadelphia.
+
+In addition to these separate publications, _The Gamester_ was included
+in two collections of Moore's works. The 1756 edition has already been
+noticed. THE DRAMATIC WORKS OF Mr. Edward Moore, as the 1788 titlepage
+describes the volume, was issued by the Lowndes-Nicoll-Bladon-Bew group
+and was actually an assembled text made up of the 1784 printing of _The
+Gamester_, the 1786 _The Foundling_, and the 1788 _Gil Blas_.
+
+The play was a favorite in many popular dramatic collections of the
+late eighteenth and early nineteenth century; it appeared in Bell's
+_British Theatre_ in 1776 and thereafter, in Mrs. Inchbald's _The
+British Theatre_ in 1808, in Dibdin's _London Theatre_ in 1815, and in
+Cumberland's _British Theatre_ in 1826. According to Caskey and other
+sources the play was thus reprinted more than a dozen times by the
+middle of the nineteenth century. Since then it has declined in favor
+and has seldom been reprinted, even in textbook anthologies covering
+representative literature of the period.
+
+The 1756 text of the play and the plates from the Davies-Nicoll-
+Bladon-Bew 1784 edition have been reproduced through the cooperation of
+the University of Michigan Library from copies of these editions in its
+possession. Because of its lack of significance, the dedication to
+Henry Pelham has not been reprinted.
+
+  Philip R. Wikelund
+
+    University of Michigan
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+
+                      THE
+                   GAMESTER.
+
+
+                       A
+                    TRAGEDY.
+
+
+             As it is Acted at the
+                 Theatre-Royal
+                      in
+                  Drury-Lane.
+
+
+
+
+    [Illustration: MRS SIDDONS and MR KEMBLE as
+       _Mr. & Mrs. Beverley Act 5. Sc. 4_.
+     Bev. _O! for a few short Moments to tell you
+       how my Heart bleeds for you._]
+
+
+
+
+
+PREFACE.
+
+
+It having been objected to this tragedy, that its language is prose, and
+its catastrophe too horrible, I shall entreat the reader's patience for
+a minute, that I may say a word or two to these objections.
+
+The play of the GAMESTER was intended to be a natural picture of that
+kind of life, of which all men are judges; and as it struck at a vice so
+universally prevailing, it was thought proper to adapt its language to
+the capacities and feelings of every part of the audience: that as some
+of its characters were of no higher rank than _Sharpers_, it was
+imagined that (whatever good company they may find admittance to in the
+world) their speaking blank verse upon the stage would be unnatural,
+if not ridiculous. But though the more elevated characters also speak
+prose, the judicious reader will observe, that it is a species of prose
+which differs very little from verse: in many of the most animated
+scenes, I can truly say, that I often found it a much greater difficulty
+to avoid, than to write, _measure_. I shall only add, in answer to this
+objection, that I hoped to be more interesting, by being more natural;
+and the event, as far as I have been a witness of it, has more than
+answered my expectations.
+
+As to the other objection, the horror of its catastrophe, if it be
+considered simply what that catastrophe is, and compared with those of
+other tragedies, I should humbly presume that the working it up to any
+uncommon degree of horror, is the _merit_ of the play, and not its
+_reproach_. Nor should so prevailing and destructive a vice as GAMING be
+attacked upon the theatre, without impressing upon the imagination all
+the horrors that may attend it.
+
+I shall detain the reader no longer than to inform him, that I am
+indebted for many of the most popular passages in this play to the
+inimitable performer, who, in the character of the_ Gamester, _exceeded
+every idea I had conceived of it in the writing.
+
+
+
+
+PROLOGUE.
+
+Written and spoken by Mr. GARRICK.
+
+  Like fam'd La Mancha's knight, who launce in hand,
+  Mounted his steed to free th' enchanted land,
+  Our Quixote bard sets forth a monster-taming,
+  Arm'd at all points, to fight that hydra--GAMING.
+  Aloft on Pegasus he waves his pen,
+  And hurls defiance at the caitiff's den.
+  The _First_ on fancy'd giants spent his rage,
+  But _This_ has more than windmills to engage:
+  He combats passion, rooted in the soul,
+  Whose pow'rs, at once delight ye, and controul;
+  Whose magic bondage each lost slave enjoys,
+  Nor wishes freedom, though the spell destroys.
+  To save our land from this MAGICIAN's charms,
+  And rescue maids and matrons from his arms,
+  Our knight poetic comes. And Oh! ye fair!
+  This black ENCHANTER's wicked arts beware!
+  His subtle poison dims the brightest eyes,
+  And at his touch, each grace and beauty dies:
+  Love, gentleness and joy to rage give way,
+  And the soft dove becomes a bird of prey.
+  May this our bold advent'rer break the spell,
+  And drive the _demon_ to his native hell.
+    Ye slaves of passion, and ye dupes of chance,
+  Wake all your pow'rs from this destructive trance!
+  Shake off the shackles of this tyrant vice:
+  Hear other calls than those of cards and dice:
+  Be learn'd in nobler arts, than arts of _play_,
+  And other debts, than those of _honour_ pay:
+  No longer live insensible to shame,
+  Lost to your country, families and fame.
+    Could our romantic muse this work atchieve,
+  Would there one honest heart in _Britain_ grieve?
+  Th' attempt, though wild, would not in vain be made,
+  If every honest hand would lend its aid.
+
+
+
+
+  Dramatis Personae.
+
+    MEN.
+
+  Beverley,          Mr. GARRICK.
+  Lewson,            Mr. MOSSOP.
+  Stukely,           Mr. DAVIES.
+  Jarvis,            Mr. BERRY.
+  Bates,             Mr. BURTON.
+  Dawson,            Mr. BLAKES.
+  Waiter,            Mr. ACKMAN.
+
+
+    WOMEN
+
+  Mrs. Beverley,     Mrs. PRITCHARD.
+  Charlotte,         Miss. HAUGHTON.
+  Lucy,              Mrs. PRICE.
+
+
+    SCENE, LONDON.
+
+
+
+
+                      THE
+                   GAMESTER.
+
+                       A
+                    TRAGEDY.
+
+
+
+
+ACT I. SCENE I.
+
+
+_Enter Mrs. BEVERLEY, and CHARLOTTE._
+
+_Mrs. Beverley._ Be comforted, my dear; all may be well yet.
+And now, methinks, the lodgings begin to look with another face.
+O sister! sister! if these were all my hardships; if all I had
+to complain of were no more than quitting my house, servants,
+equipage and show, your pity would be weakness.
+
+_Char._ Is poverty nothing then?
+
+_Mrs. Bev._ Nothing in the world, if it affected only Me. While we
+had a fortune, I was the happiest of the rich: and now 'tis gone,
+give me but a bare subsistance, and my husband's smiles, and I'll be
+the happiest of the poor. To Me now these lodgings want nothing but
+their master. Why d'you look so at me?
+
+_Char._ That I may hate my brother.
+
+_Mrs. Bev._ Don't talk so, Charlotte.
+
+_Char._ Has he not undone you? Oh! this pernicious vice of gaming!
+But methinks his usual hours of four or five in the morning might
+have contented him; 'twas misery enough to wake for him till then:
+need he have staid out all night? I shall learn to detest him.
+
+_Mrs. Bev._ Not for the first fault. He never slept from me
+before.
+
+_Char._ Slept from you! No, no; his nights have nothing to do with
+sleep. How has this one vice driven him from every virtue! nay, from
+his affections too!--The time _was_, sister--
+
+_Mrs. Bev._ And _is_. I have no fear of his affections. Would I knew
+that he were safe!
+
+_Char._ From ruin and his companions. But that's impossible. His
+poor little boy too! What must become of Him?
+
+_Mrs. Bev._ Why, want shall teach him industry. From his father's
+mistakes he shall learn prudence, and from his mother's resignation,
+patience. Poverty has no such terrors in it as you imagine. There's
+no condition of life, sickness and pain excepted, where happiness is
+excluded. The needy peasant, who rises early to his labour, enjoys
+more welcome rest at night for't. His bread is sweeter to him; his
+home happier; his family dearer; his enjoyments surer. The sun that
+rouses him in the morning, sets in the evening to release him. All
+situations have their comforts, if sweet contentment dwell in the
+heart. But my poor Beverley has none. The thought of having ruined
+those he loves, is misery for ever to him. Would I could ease his
+mind of That!
+
+_Char._ If He alone were ruined, 'twere just he should be punished.
+He is my brother, 'tis true; but when I think of what he has done;
+of the fortune You brought him; of his own large estate too,
+squandered away upon this vilest of passions, and among the vilest
+of wretches! O! I have no patience! My own little fortune is
+untouched, he says: would I were sure on't!
+
+_Mrs. Bev._ And so you may; 'twould be a sin to doubt it.
+
+_Char._ I will be sure on't. 'Twas madness in me to give it to his
+management. But I'll demand it from him this morning. I have a
+melancholy occasion for't.
+
+_Mrs. Bev._ What occasion?
+
+_Char._ To support a sister.
+
+_Mrs. Bev._ No; I have no need on't. Take it, and reward a lover
+with it. The generous Lewson deserves much more. Why won't you make
+him happy?
+
+_Char._ Because my sister's miserable.
+
+_Mrs. Bev._ You must not think so. I have my jewels left yet. I'll
+sell them to supply our wants; and when all's gone these hands shall
+toil for our support. The poor should be industrious--Why those
+tears, Charlotte?
+
+_Char._ They flow in pity for you.
+
+_Mrs. Bev._ All may be well yet. When he has nothing to lose,
+I shall fetter him in these arms again; and then what is it to be
+poor?
+
+_Char._ Cure him but of this destructive passion, and my uncle's
+death may retrieve all yet.
+
+_Mrs. Bev._ Ay, Charlotte, _could_ we cure him. But the disease of
+play admits no cure but poverty; and the loss of another fortune
+would but encrease his shame and his affliction. Will Mr. Lewson
+call this morning?
+
+_Char._ He said so last night. He gave me hints too, that he had
+suspicions of our friend Stukely.
+
+_Mrs. Bev._ Not of treachery to your Brother? That he loves play I
+know; but surely he is honest.
+
+_Char._ He would fain be thought so; therefore I doubt him. Honesty
+needs no pains to set itself off.
+
+_Mrs. Bev._ What now, Lucy?
+
+
+SCENE II.
+
+_Enter LUCY._
+
+_Lucy_. Your old steward, madam. I had not the heart to deny him
+admittance, the good old man begged so hard for it.
+    [_Exit._
+
+
+SCENE III.
+
+_Enter JARVIS._
+
+_Mrs. Bev._ Is this well, Jarvis? I desired you to avoid me.
+
+_Jar._ Did you, madam? I am an old man, and had forgot. Perhaps too
+you forbad my tears; but I am old, madam, and age will be forgetful.
+
+_Mrs. Bev._ The faithful creature! how he moves me!
+    [_To Charlotte._
+
+_Char._ Not to have seen him had been cruelty.
+
+_Jar._ I have forgot these apartments too. I remember none such in
+my young master's house; and yet I have lived in't these five and
+twenty years. His good father would not have dismissed me.
+
+_Mrs. Bev._ He had no reason, Jarvis.
+
+_Jar._ I was faithful to him while he lived, and when he died, he
+bequeathed me to his son. I have been faithful to Him too.
+
+_Mrs. Bev._ I know it, I know it, Jarvis.
+
+_Char._ We both know it.
+
+_Jar._ I am an old man, madam, and have not a long time to live.
+I asked but to have died with him, and he dismissed me.
+
+_Mrs. Bev._ Prithee no more of this! 'Twas his poverty that
+dismissed you.
+
+_Jar._ Is he indeed so poor then? Oh! he was the joy of my old
+heart. But must his creditors have all? And have they sold his house
+too? His father built it when He was but a prating boy. The times I
+have carried him in these arms! And, Jarvis, says he, when a beggar
+has asked charity of me, why should people be poor? You shan't be
+poor, Jarvis; if I was a king, nobody should be poor. Yet He is
+poor. And then he was so brave!--O, he was a brave little boy! And
+yet so merciful, he'd not have killed the gnat that stung him.
+
+_Mrs. Bev._ Speak to him, Charlotte; for I cannot.
+
+_Char._ When I have wiped my eyes.
+
+_Jar._ I have a little money, madam; it might have been more, but I
+have loved the poor. All that I have is yours.
+
+_Mrs. Bev._ No, Jarvis; we have enough yet. I thank you though, and
+will deserve your goodness.
+
+_Jar._ But shall I see my master? And will he let me attend him in
+his distresses? I'll be no expence to him: and 'twill kill me to be
+refused. Where is he, madam?
+
+_Mrs. Bev._ Not at home, Jarvis. You shall see him another
+time.
+
+_Char._ To-morrow, or the next day. O, Jarvis! what a change is here!
+
+_Jar._ A change indeed, madam! My old heart akes at it. And yet
+methinks--But here's somebody coming.
+
+
+SCENE IV.
+
+_Enter LUCY with STUKELY._
+
+_Lucy._ Mr. Stukely, Madam.
+    [_Exit._
+
+_Stu._ Good morning to you, Ladies. Mr. Jarvis, your servant.
+Where's my friend, madam?
+    [_To Mrs. Beverley._
+
+_Mrs. Bev._ I should have asked that question of You. Have not you
+seen him to-day?
+
+_Stu._ No, madam.
+
+_Char._ Nor last night?
+
+_Stu._ Last night! Did not he come home then?
+
+_Mrs. Bev._ No. Were not you together?
+
+_Stu._ At the beginning of the evening; but not since. Where can he
+have staid?
+
+_Char._ You call yourself his friend, Sir; why do you encourage him
+in this madness of gaming?
+
+_Stu._ You have asked me that question before, madam; and I told you
+my concern was that I could not save him. Mr. Beverley is a man,
+madam; and if the most friendly entreaties have no effect upon him,
+I have no other means. My purse has been his, even to the injury of
+my fortune. If That has been encouragement, I deserve censure; but I
+meant it to retrieve him.
+
+_Mrs. Bev._ I don't doubt it, Sir; and I thank you. But where did
+you leave him last night?
+
+_Stu._ At Wilson's, madam, if I ought to tell; in company I did not
+like. Possibly he may be there still. Mr. Jarvis knows the house,
+I believe.
+
+_Jar._ Shall I go, madam?
+
+_Mrs. Bev._ No; he may take it ill.
+
+_Char._ He may go as from himself.
+
+_Stu._ And if he pleases, madam, without naming Me. I am faulty
+myself, and should conceal the errors of a friend. But I can refuse
+nothing here.
+    [_Bowing to the ladies._
+
+_Jar._ I would fain see him, methinks.
+
+_Mrs. Bev._ Do so then. But take care how you upbraid him. I have
+never upbraided him.
+
+_Jar._ Would I could bring him comfort!
+    [_Exit._
+
+_Stu._ Don't be too much alarmed, madam. All men have their errors,
+and their times of seeing them. Perhaps my friend's time is not come
+yet. But he has an uncle; and old men don't live for ever. You
+should look forward, madam: we are taught how to value a second
+fortune by the loss of a first.
+    [_A knocking at the door._
+
+_Mrs. Bev._ Hark!--No; that knocking was too rude for Mr. Beverley.
+Pray heaven he be well!
+
+_Stu._ Never doubt it, madam. You shall be well too: every thing
+shall be well.
+    [_Knocking again._
+
+_Mrs. Bev._ The knocking is a little loud though. Who waits there?
+Will none of you answer?--None of you, did I say? Alas! I thought
+myself in my own house, surrounded with servants.
+
+_Char._ I'll go, sister--But don't be alarmed so.
+    [_Exit._
+
+_Stu._ What extraordinary accident have you to fear, madam?
+
+_Mrs. Bev._ I beg your pardon; but 'tis ever thus with me in Mr.
+Beverley's absence. No one knocks at the door, but I fancy 'tis a
+messenger of ill news.
+
+_Stu._ You are too fearful, madam; 'twas but one night of absence;
+and if ill thoughts intrude (as love is always doubtful) think of
+your worth and beauty, and drive them from your breast.
+
+_Mrs. Bev._ What thoughts? I have no thoughts that wrong my
+husband.
+
+_Stu._ Such thoughts indeed would wrong him. The world is full of
+slander; and every wretch that knows himself unjust, charges his
+neighbour with like passions; and by the general frailty, hides his
+own. If you are wise, and would be happy, turn a deaf ear to such
+reports: 'tis ruin to believe them.
+
+_Mrs. Bev._ Ay, worse than ruin. 'Twould be to sin against
+conviction. Why was it mentioned?
+
+_Stu._ To guard you against rumour. The sport of half mankind is
+mischief; and for a single error they make men devils. If their
+tales reach you, disbelieve them.
+
+_Mrs. Bev._ What tales? By whom? Why told? I have heard nothing; or
+if I had, with all his errors, my Beverley's firm faith admits no
+doubt. It is my safety; my seat of rest and joy, while the storm
+threatens round me. I'll not forsake it. (_Stukely sighs, and looks
+down_) Why turn you from me? And why that sigh?
+
+_Stu._ I was attentive, madam; and sighs will come we know not why.
+Perhaps I have been too busy. If it should seem so, impute my zeal
+to friendship, that meant to guard you against evil tongues. Your
+Beverley is wronged; slandered most vilely. My life upon his truth.
+
+_Mrs. Bev._ And mine too. Who is't that doubts it? But no matter--I
+am prepared, Sir.--Yet why this caution?--You are my husband's
+friend; I think you mine too; the common friend of both. (_Pauses_)
+I had been unconcerned else.
+
+_Stu._ For heaven's sake, madam, be so still! I meant to guard you
+_against_ suspicion, not to alarm it.
+
+_Mrs. Bev._ Nor have you, Sir. Who told you of suspicion? I have a
+heart it cannot reach.
+
+_Stu._ Then I am happy--I would say more, but am prevented.
+
+
+SCENE V.
+
+_Re-enter CHARLOTTE._
+
+_Mrs. Bev._ Who was it, Charlotte?
+
+_Char._ What a heart has that Jarvis!--A creditor, sister. But the
+good old man has taken him away. Don't distress his wife! Don't
+distress his sister! I could hear him say. 'Tis cruel to distress
+the afflicted. And when he saw me at the door, he begged pardon that
+his friend had knocked so loud.
+
+_Stu._ I wish I had known of this. Was it a large demand, madam?
+
+_Char._ I heard not that; but visits such as these, we must expect
+often. Why so distressed, sister? This is no new affliction.
+
+_Mrs. Bev._ No, Charlotte; but I am faint with watching;
+
+quite sunk and spiritless. Will you excuse me, Sir? I'll to my
+chamber, and try to rest a little.
+
+_Stu._ Good thoughts go with you, madam.
+    [_Exit Mrs. Beverley._
+My bait is taken then. (_Aside._) Poor Mrs. Beverley! How my heart
+grieves to see her thus!
+
+_Char._ Cure her, and be a friend then.
+
+_Stu._ How cure her, madam?
+
+_Char._ Reclaim my brother.
+
+_Stu._ Ay; give him a new creation; or breathe another soul into
+him. I'll think on't, madam. Advice, I see, is thankless.
+
+_Char._ Useless I am sure it is, if through mistaken friendship, or
+other motives, you feed his passion with your purse, and sooth it by
+example. Physicians, to cure fevers, keep from the patient's thirsty
+lip the cup that would inflame him; You give it to his hands. (_A
+knocking._) Hark, Sir! These are my brother's desperate symptoms.
+Another creditor.
+
+_Stu._ One not so easily got rid of--What, Lewson!
+
+
+SCENE VI.
+
+_Enter LEWSON._
+
+_Lew._ Madam, your servant. Yours, Sir. I was enquiring for you at
+your lodgings.
+
+_Stu._ This morning? You had business then?
+
+_Lew._ You'll call it by another name, perhaps. Where's Mr.
+Beverley, madam?
+
+_Char._ We have sent to enquire for him.
+
+_Lew._ Is he abroad then? He did not use to go out so early.
+
+_Char._ No; nor to stay out so late.
+
+_Lew._ Is that the case? I am sorry for it. But Mr. Stukely,
+perhaps, may direct you to him.
+
+_Stu._ I have already, Sir. But what was your business with
+Me?
+
+_Lew._ To congratulate you upon your late successes at play. Poor
+Beverley! But You are his friend; and there's a comfort in having
+successful friends.
+
+_Stu._ And what am I to understand by this?
+
+_Lew._ That Beverley's a poor man, with a rich friend; that's all.
+
+_Stu._ Your words would mean something, I suppose. Another time,
+Sir, I shall desire an explanation.
+
+_Lew._ And why not now? I am no dealer in long sentences. A minute
+or two will do for me.
+
+_Stu._ But not for Me, Sir. I am slow of apprehension, and must have
+time and privacy. A lady's presence engages my attention. Another
+morning I may be found at home.
+
+_Lew._ Another morning then, I'll wait upon you.
+
+_Stu._ I shall expect you, Sir. Madam, your servant.
+    [_Exit._
+
+_Char._ What mean you by this?
+
+_Lew._ To hint to him that I know him.
+
+_Char._ How know him? Mere doubt and supposition!
+
+_Lew._ I shall have proof soon.
+
+_Char._ And what then? Would you risk your life to be his punisher?
+
+_Lew._ My life, madam! Don't be afraid. And yet I am happy in your
+concern for me. But let it content you that I know this Stukely.
+'Twould be as easy to make him honest as brave.
+
+_Char._ And what d'you intend to do?
+
+_Lew._ Nothing, till I have proof. Yet my suspicions are well-grounded.
+But methinks, madam, I am acting here without authority. Could I
+have leave to call Mr. Beverley brother, his concerns would be my
+own. Why will you make my services appear officious?
+
+_Char._ You know my reasons, and should not press me. But I am cold,
+you say: and cold I will be, while a poor sister's destitute. My
+heart bleeds for her! and till I see her sorrows moderated, love has
+no joys for me. _Lew._ Can I be less a friend by being a brother?
+I would not say an unkind thing; but the pillar of your house is
+shaken. Prop it with another, and it shall stand firm again. You
+must comply.
+
+_Char._ And will, when I have peace within myself. But let us change
+the subject. Your business here this morning is with my sister.
+Misfortunes press too hard upon her: yet till to day she has borne
+them nobly.
+
+_Lew._ Where is she?
+
+_Char._ Gone to her chamber. Her spirits failed her.
+
+_Lew._ I hear her coming. Let what has passed with Stukely be a
+secret. She has already too much to trouble her.
+
+
+SCENE VII.
+
+_Enter Mrs. BEVERLEY._
+
+_Mrs. Bev._ Good morning, Sir. I heard your voice, and, as I
+thought, enquiring for me. Where's Mr. Stukely, Charlotte?
+
+_Char._ This moment gone. You have been in tears, sister; but here's
+a friend shall comfort you.
+
+_Lew._ Or if I add to your distresses, I'll beg your pardon, madam.
+The sale of your house and furniture was finished yesterday.
+
+_Mrs. Bev._ I know it, Sir. I know too your generous reason for
+putting me in mind of it. But you have obliged me too much
+already.
+
+_Lew._ There are trifles, madam, which you have set a value on:
+those I have purchased, and will deliver. I have a friend too that
+esteems you; he has bought largely, and will call nothing his, till
+he has seen you. If a visit to him would not be painful, he has
+begged it may be this morning.
+
+_Mrs. Bev._ Not painful in the least. My pain is from the kindness
+of my friends. Why am I to be obliged beyond the power of return?
+
+_Lew._ You shall repay us at your own time. I have a coach waiting
+at the door. Shall we have Your company, madam?
+    [_To Charlotte._
+
+_Char._ No. My brother may return soon; I'll stay and receive him.
+
+_Mrs. Bev._ He may want a comforter, perhaps. But don't upbraid him,
+Charlotte. We shan't be absent long. Come, Sir, since I _must_ be so
+obliged.
+
+_Lew._ 'Tis I that am obliged. An hour or less will be sufficient
+for us. We shall find you at home, madam? (_To Charlotte._)
+    [_Exit with Mrs. Beverley._
+
+_Char._ Certainly. I have but little inclination to appear abroad.
+O! this brother! this brother! to what wretchedness has he reduced
+us!
+    [_Exit._
+
+
+SCENE VIII. _Changes to _STUKELY'S_ lodgings._
+
+_Enter STUKELY._
+
+_Stu._ That Lewson suspects me, 'tis too plain. Yet why should he
+suspect me? I appear the friend of Beverley as well as he. But I am
+rich it seems: and so I am; thanks to another's folly and my own
+wisdom. To what use is wisdom, but to take advantage of the weak?
+This Beverley's my fool: I cheat him, and he calls me friend. But
+more business must be done yet. His wife's jewels are unsold;
+
+so is the reversion of his uncle's estate. I must have these too.
+And then there's a treasure above all. I love his wife. Before she
+knew this Beverley, I loved her; but like a cringing fool, bowed at
+a distance, while He stept in and won her. Never, never will I
+forgive him for it. My pride, as well as love, is wounded by this
+conquest. I must have vengeance. Those hints, this morning, were
+well thrown in. Already they have fastened on her. If jealousy
+should weaken her affections, want may corrupt her virtue. My hate
+rejoyces in the hope. These jewels may do much. He shall demand them
+of her; which, when mine, shall be converted to special purposes.--What
+now, Bates?
+
+
+SCENE IX.
+
+_Enter BATES._
+
+_Bates._ Is it a wonder then to see me? The forces are in readiness,
+and only wait for orders. Where's Beverley?
+
+_Stu._ At last night's rendezvous, waiting for Me. Is Dawson with you?
+
+_Bates._ Dressed like a nobleman; with money in his pocket, and a
+set of dice that shall deceive the devil.
+
+_Stu._ That fellow has a head to undo a nation. But for the rest,
+they are such low-mannered, ill-looking dogs, I wonder Beverley has
+not suspected them.
+
+_Bates._ No matter for manners and looks: do You supply them with
+money, and they are gentlemen by profession. The passion of gaming
+casts such a mist before the eyes, that the nobleman shall be
+surrounded with sharpers, and imagine himself in the best company.
+
+_Stu._ There's that Williams too: it was He, I suppose, that called
+at Beverley's with the note this morning. What directions did you
+give him?
+
+_Bates._ To knock loud, and be clamorous. Did not you see him?
+
+_Stu._ No. The fool sneaked off with Jarvis. Had he appeared
+within-doors, as directed, the note had been discharged. I waited
+there on purpose. I want the women to think well of me; for Lewson's
+grown suspicious; he told me so himself.
+
+_Bates._ What answer did you make him?
+
+_Stu._ A short one. That I would see him soon, for farther
+explanation.
+
+_Bates._ We must take care of him. But what have we to do with
+Beverley? Dawson and the rest are wondering at you.
+
+_Stu._ Why let them wonder. I have designs above Their narrow reach.
+They see me lend him money; and they stare at me. But they are
+fools. I want him to believe me beggared by him.
+
+_Bates._ And what then?
+
+_Stu._ Ay, there's the question; but no matter. At night you may
+know more. He waits for me at Wilson's. I told the women where to
+find him.
+
+_Bates._ To what purpose?
+
+_Stu._ To save suspicion. It looked friendly; and they thanked me.
+Old Jarvis was dispatched to him.
+
+_Bates._ And may intreat him home.
+
+_Stu._ No; he experts money from me: but I'll have none. His wife's
+jewels must go. Women are easy creatures, and refuse nothing where
+they love. Follow me to Wilson's; but besure he sees you not. You
+are a man of character, you know; of prudence and discretion. Wait
+for me in an outer room; I shall have business for you presently.
+Come, Sir.
+
+  Let drudging fools by honesty grow great;
+  The shorter road to riches is deceit.
+
+    [_Exeunt._
+
+
+
+
+ACT II.
+
+
+_SCENE a gaming house, with a table, box, dice, &c._
+
+_BEVERLEY is discovered sitting._
+
+_Beverley_. Why, what a world is this! The slave that digs for gold,
+receives his daily pittance, and sleeps contented; while those, for
+whom he labours, convert their good to mischief; making abundance
+the means of want. O shame! shame! Had fortune given me but a
+little, that little had been still my own. But plenty leads to
+waste; and shallow streams maintain their currents, while swelling
+rivers beat down their banks, and leave their channels empty. What
+had I to do with play? I wanted nothing. My wishes and my means were
+equal. The poor followed me with blessings; love scattered roses on
+my pillow, and morning waked me to delight.--O, bitter thought! that
+leads to what I was, by what I am! I would forget both--Who's there?
+
+
+SCENE II.
+
+_Enter a WAITER._
+
+_Wait._ A gentleman, Sir, enquires for you.
+
+_Bev._ He might have used less ceremony. Stukely I suppose?
+
+_Wait._ No, Sir; a stranger.
+
+_Bev._ Well, shew him in. (_Exit Waiter._) A messenger from Stukely
+then. From Him that has undone me! Yet all in friendship; and now he
+lends me from his little, to bring back fortune to me.
+
+
+SCENE III.
+
+_Enter JARVIS._
+
+Jarvis! Why this intrusion?--Your absence had been kinder.
+
+_Jar._ I came in duty, Sir. If it be troublesome--
+
+_Bev._ It is. I would be private; hid even from myself. Who sent you
+hither?
+
+_Jar._ One that would persuade you home again. My mistress is not
+well; her tears told me so.
+
+_Bev._ Go with thy duty there then. But does she weep? I am to blame
+to let her weep. Prithee begone; I have no business for thee.
+
+_Jar._ Yes, Sir; to lead you from this place. I am your servant
+still. Your prosperous fortune blessed my old age. If That has left
+you, I must not leave you.
+
+_Bev._ Not leave me! Recall past time then; or through this sea of
+storms and darkness, shew me a star to guide me. But what can'st
+Thou?
+
+_Jar._ The little that I can, I will. You have been generous to me.
+I would not offend you, Sir--but--
+
+_Bev._ No. Think'st thou I'd ruin Thee too? I have enough of shame
+already. My wife! my wife! Would'st thou believe it, Jarvis? I have
+not seen her all this long night; I, who have loved her so, that
+every hour of abscence seemed as a gap in life. But other bonds have
+held me. O! I have played the boy; dropping my counters in the
+stream, and reaching to redeem them, have lost Myself. Why wilt Thou
+follow misery? Or if thou wilt, go to thy mistress--She has no guilt
+to sting her, and therefore may be comforted.
+
+_Jar._ For pity's sake, Sir! I have no heart to see this change.
+
+_Bev._ Nor I to bear it. How speaks the world of me, Jarvis?
+
+_Jar._ As of a good man dead. Of one, who walking in a dream, fell
+down a precipice. The world is sorry for you.
+
+_Bev._ Ay, and pities me. Says it not so? But I was born to infamy.
+I'll tell thee what it says. It calls me villain; a treacherous
+husband; a cruel father; a false brother; one lost to nature and her
+charities--Or to say all in one short word, it calls me--Gamester.
+Go to thy mistress; I'll see her presently.
+
+_Jar._ And why not now? Rude people press upon her; loud, bawling
+creditors; wretches, who know no pity. I met one at the door; he
+would have seen my mistress--I wanted means of present payment, so
+promised it to-morrow. But others may be pressing; and she has grief
+enough already. Your absence hangs too heavy on her.
+
+_Bev._ Tell her I'll come then. I have a moment's business. But what
+hast Thou to do with My distresses? Thy honesty has left thee poor;
+and age wants comfort. Keep what thou hast for cordials; left
+between thee and the grave, misery steal in. I have a friend shall
+counsel me--This is that friend.
+
+
+SCENE IV.
+
+_Enter STUKELY._
+
+_Stu._ How fares it, Beverley? Honest Mr. Jarvis, well met; I hoped
+to find you here. That viper Williams! Was it not He that troubled
+you this morning?
+
+_Jar._ My mistress heard him then? I am sorry that she heard him.
+
+_Bev._ And Jarvis promised payment.
+
+_Stu._ That must not be. Tell him I'll satisfy him.
+
+_Jar._ Will you, Sir? Heaven will reward you for't.
+
+_Bev._ Generous Stukely! Friendship like yours, had it ability like
+will, would more than ballance the wrongs of fortune.
+
+_Stu._ You think too kindly of me. Make haste to Williams; his
+clamours may be rude else.
+    [_To Jarvis._
+
+_Jar._ And my master will go home again. Alas! Sir, we know of
+hearts there breaking for his absence.
+    [_Exit._
+
+_Bev._ Would I were dead!
+
+_Stu._ Or turned hermit; counting a string of beads in a dark cave;
+or under a weeping willow, praying for mercy on the wicked. Ha! ha!
+ha! Prithee be a man, and leave dying to disease and old age.
+Fortune may be ours again; at least, we'll try for't.
+
+_Bev._ No, it has fooled us on too far.
+
+_Stu._ Ay, ruined us; and therefore we'll sit down contented. These
+are the despondings of men without money; but let the shining ore
+chink in the pocket, and folly turns to wisdom. We are fortune's
+children. True, she's a fickle mother; but shall We droop because
+She's peevish? No; she has smiles in store. And these her frowns are
+meant to brighten them.
+
+_Bev._ Is this a time for levity? But You are single in the ruin,
+and therefore may talk lightly of it. With Me 'tis complicated misery.
+
+_Stu._ You censure me unjustly. I but assumed these spirits to chear
+my friend. Heaven knows he wants a comforter.
+
+_Bev._ What new misfortune?
+
+_Stu._ I would have brought you money; but lenders want securities.
+What's to be done? All that was mine is yours already.
+
+_Bev._ And there's the weight that sinks me. I have undone my friend
+too; one, who to save a drowning wretch, reached out his hand, and
+perished with him.
+
+_Stu._ Have better thoughts.
+
+_Bev._ Whence are they to proceed? I have nothing left.
+
+_Stu. (Sighing) _Then we're indeed undone. What, nothing? No
+moveables? nor useless trinkets? Bawbles, locked up in caskets, to
+starve their owners? I have ventured deeply for you.
+
+_Bev._ Therefore this heart-ake; for I am lost beyond all hope.
+
+_Stu._ No : means may be found to save us. Jarvis is rich. Who made
+him so? This is no time for ceremony.
+
+_Bev._ And is it for dishonesty? The good old man! Shall I rob Him
+too? My friend would grieve for't. No; let the little that he has,
+buy food and cloathing for him.
+
+_Stu._ Good morning then.
+    [_Going._
+
+_Bev._ So hasty! Why, then good morning.
+
+_Stu._ And when we meet again, upbraid me. Say it was I that tempted
+you. Tell Lewson so; and tell him I have wronged you: he has
+suspicions of me, and will thank you.
+
+_Bev_, No; we have been companions in a rash voyage, and the same
+storm has wrecked us both. Mine shall be self-upbraidings.
+
+_Stu._ And will they feed us? You deal unkindly by me. I have sold
+and borrowed for you, while land or credit lasted; and now, when
+fortune should be tried, and my heart whispers me success, I am
+deserted; turned loose to beggary, while You have hoards.
+
+_Bev._ What hoards? Name them, and take them.
+
+_Stu._ Jewels.
+
+_Bev._ And shall this thriftless hand seize Them too? My poor, poor
+wife! Must she lose all? I would not wound her so.
+
+_Stu._ Nor I, but from necessity. One effort more, and fortune may
+grow kind. I have unusual hopes.
+
+_Bev._ Think of some other means then.
+
+_Stu._ I have; and you rejected them.
+
+_Bev._ Prithee let me be a man.
+
+_Stu._ Ay, and your friend a poor one. But I have done. And for
+these trinkets of a woman, why, let her keep them to deck out pride
+with, and shew a laughing world that she has finery to starve
+in.
+
+_Bev._ No; she shall yield up all. My friend demands it. But need he
+have talked lightly of her? The jewels that She values are truth and
+innocence: those will adorn her ever; and for the rest, she wore
+them for a husband's pride, and to his wants will give them. Alas!
+you know her not. Where shall we meet?
+
+_Stu._ No matter. I have changed my mind. Leave me to a prison; 'tis
+the reward of friendship.
+
+_Bev._ Perish mankind first! Leave you to a prison! No: fallen as
+you see me, I'm not that wretch. Nor would I change this heart,
+overcharged as 'tis with folly and misfortune, for one most prudent
+and most happy, if callous to a friend's distresses.
+
+_Stu._ You are too warm.
+
+_Bev._ In such a cause, not to be warm is to be frozen. Farewell.
+I'll meet you at your lodgings.
+
+_Stu._ Reflect a little. The jewels may be lost. Better not hazard
+them. I was too pressing.
+
+_Bev._ And I ungrateful. Reflection takes up time. I have no leisure
+for't. Within an hour expect me.
+    [_Exit._
+
+_Stu._ The thoughtless, shallow prodigal! We shall have sport at
+night then--But hold--the jewels are not ours yet. The lady may
+refuse them. The husband may relent too. 'Tis more than probable--I'll
+write a note to Beverley, and the contents shall spur him to demand
+them. But am I grown this rogue through avarice? No; I have warmer
+motives: love and revenge. Ruin the husband, and the wife's virtue
+may be bid for. 'Tis of uncertain value, and sinks, or rises in the
+purchase, as want, or wealth, or passion governs. The poor part
+cheaply with it; rich dames, though pleased with selling, will have
+high prices for't; your love-sick girls give it for oaths and lying;
+but wives, who boast of honour and affections, keep it against a
+famine. Why, let the famine come then; I am in haste to purchase.
+
+
+SCENE V.
+
+_Enter BATES._
+
+Look to your men, Bates; there's money stirring. We meet to-night
+upon this spot. Hasten and tell them so. Beverley calls upon me at
+my lodgings, and we return together. Hasten, I say; the rogues will
+scatter else.
+
+_Bates._ Not till their leader bids them.
+
+_Stu._ Come on then. Give them the word, and follow me; I must
+advise with you. This is a day of business.
+    [_Exeunt._
+
+
+SCENE VI. _changes to _BEVERLEY'S_ lodgings_.
+
+_Enter BEVERLEY, and CHARLOTTE._
+
+_Char._ Your looks are changed too; there's wildness in them. My
+wretched sister! how will it grieve her to see you thus!
+
+_Bev._ No, no; a little rest will ease me. And for your Lewson's
+kindness to her, it has my thanks: I have no more to give him.
+
+_Char._ Yes; a sister and her fortune. I trifle with him; and he
+complains. My looks, he says, are cold upon him. He thinks
+too--
+
+_Bev._ That I have _lost_ your fortune--He dares not think
+so.
+
+_Char._ Nor does he--You are too quick at guessing. He cares not if
+you had. That care is mine. I lent it you to husband; and now I
+claim it.
+
+_Bev._ You have suspicions then?
+
+_Char._ Cure them, and give it me.
+
+_Bev._ To stop a sister's chiding.
+
+_Char._ To vindicate her brother.
+
+_Bev._ How if he needs it not?
+
+_Char._ I would fain hope so.
+
+_Bev._ Ay, would and cannot. Leave it to time then; 'twill satisfy
+all doubts.
+
+_Char._ Mine are already satisfied.
+
+_Bev._ 'Tis well. And when the subject is renewed, speak to me like
+a sister, and I will answer like a brother.
+
+_Char._ To tell me I'm a beggar. Why, tell it now. I that can bear
+the ruin of those dearer to me, the ruin of a sister and her infant,
+can bear that too.
+
+_Bev._ No more of this--You wring my heart.
+
+_Char._ Would that the misery were all your own! But innocence must
+suffer. Unthinking rioter! whose home was heaven to him: an angel
+dwelt there, and a little cherub, that crowned his days with
+blessings--How has he lost this heaven, to league with devils!
+
+_Bev._ Forbear, I say; reproaches come too late; they search, but
+cure not. And for the fortune you demand, we'll talk to-morrow on't;
+our tempers may be milder.
+
+_Char._ Or if 'tis gone, why, farewel all. I claimed it for a
+sister. She holds my heart in hers; and every pang She feels, tears
+it in pieces--But I'll upbraid no more. What heaven permits, it may
+ordain; and sorrow then is sinful. Yet that the husband! father!
+brother! should be its instrument of vengeance!--'Tis grievous to
+know that.
+
+_Bev._ If you're my sister, spare the remembrance--It wounds too
+deeply. To-morrow shall clear all; and when the worst is known, it
+may be better than your fears. Comfort my wife; and for the pains of
+absence, I'll make atonement. The world may yet go well with
+us.
+
+_Char._ See where she comes!--Look chearfully upon her. Affections,
+such as hers, are prying; and lend those eyes that read the
+soul.
+
+
+SCENE VII.
+
+_Enter Mrs. BEVERLEY, and LEWSON._
+
+_Mrs. Bev._ My life!
+
+_Bev._ My love! How fares it? I have been a truant husband.
+
+_Mrs. Bev._ But we meet now, and that heals all. Doubts and alarms I
+have had; but in this dear embrace I bury and forget them. My friend
+here (_pointing to Lewson_) has been indeed a friend. Charlotte,
+'tis You must thank him: your brother's thanks and mine are of too
+little value.
+
+_Bev._ Yet what we have, we'll pay. I thank, you, Sir, and am
+obliged. I would say more, but that your goodness to the wife,
+upbraids the husband's follies. Had I been wise, She had not
+trespassed on your bounty.
+
+_Lew._ Nor has she trespassed. The little I have done, acceptance
+over-pays.
+
+_Char._ So friendship thinks--
+
+_Mrs. Bev._ And doubles obligations, by striving to conceal
+them--We'll talk another time on't. You are too thoughtful,
+love.
+
+_Bev._ No; I have reason for these thoughts.
+
+_Char._ And hatred for the cause. Would you had that too!
+
+_Bev._ I have. The cause was avarice.
+
+_Char._ And who the tempter?
+
+_Bev._ A ruined friend. Ruined by too much kindness,
+
+_Lew._ Ay, worse than ruined; stabbed in his fame; mortally stabbed.
+Riches can't cure him.
+
+_Bev._ Or if they could, those I have drained him of. Something of
+this he hinted in the morning--that Lewson had suspicions of
+him--Why these suspicions?
+    [_Angrily._
+
+_Lew._ At school we knew this Stukely. A cunning plodding boy he
+was, sordid and cruel. Slow at his talk, but quick at shifts and
+tricking. He schemed out mischief, that others might be punished;
+and would tell his tale with so much art, that for the lash he
+merited, rewards and praise were given him. Shew me a boy with such
+a mind, and time that ripens manhood in him, shall ripen vice too.
+I'll prove him, and lay him open t'you. Till then be warned. I know
+him, and therefore shun him.
+
+_Bev._ As I would those that wrong him. You are too busy, Sir.
+
+_Mrs. Bev._ No, not too busy--Mistaken perhaps--That had been milder.
+
+_Lew._ No matter, madam. I can bear this, and praise the heart that
+prompts it. Pity such friendship should be so placed!
+
+_Bev._ Again, Sir!--But I'll bear too. You wrong him, Lewson, and
+will be sorry for't.
+
+_Char._ Ay, when 'tis proved he wrongs him. The world is full of
+hypocrites.
+
+_Bev._ And Stukely one--So you'd infer, I think. I'll hear no more
+of this--My heart akes for him--I have undone him.
+
+_Lew._ The world says otherwise.
+
+_Bev._ The world is false then. I have business with you, love. (_To
+Mrs. Beverley._) We'll leave them to their rancour.
+    [_Going._
+
+_Char._ No. We shall find room within for't. Come this way,
+Sir.
+    [_To Lewson._
+
+_Lew._ Another time my friend will thank me; that time is hastening
+too.
+    [_Exit with Charlotte._
+
+_Bev._ They hurt me beyond bearing. Is Stukely false? Then honesty
+has left us!
+
+'Twere sinning against heaven to think so.
+
+_Mrs. Bev._ I never doubted him.
+
+_Bev._ No; You are charity. Meekness and ever-during patience live
+in that heart, and love that knows no change--Why did I ruin you?
+
+_Mrs. Bev._ You have not ruined me. I have no wants when You are
+present, nor wishes in your absence, but to be blest with your
+return. Be but resigned to what has happened, and I am rich beyond
+the dreams of avarice.
+
+_Bev._ My generous girl!--But memory will be busy; still crowding on
+my thoughts, to sour the present by the past. I have another pang too.
+
+_Mrs. Bev._ Tell it, and let me cure it.
+
+_Bev._ That friend, that generous friend, whose fame they have
+traduced--I have undone Him too. While he had means, he lent me
+largely; and now a prison must be his portion.
+
+_Mrs. Bev._ No; I hope otherwise.
+
+_Bev._ To hope must be to act. The charitable wish feeds not the
+hungry. Something must be done.
+
+_Mrs. Bev._ What?
+
+_Bev._ In bitterness of heart he told me, just now he told me, I had
+undone him. Could I hear that, and think of happiness? No; I have
+disclaimed it, while He is miserable.
+
+_Mrs. Bev._ The world may mend with us, and then we may be grateful.
+There's comfort in that hope.
+
+_Bev._ Ay; 'tis the sick man's cordial, his promised cure; while in
+preparing it, the patient dies.--What now?
+
+
+SCENE VIII.
+
+_Enter LUCY._
+
+_Lucy._ A letter, Sir.
+    [_Delivers it, and exit._
+
+_Bev._ The hand is Stukely's.
+    [_Opens, and reads it to himself._
+
+_Mrs. Bev._ And brings good news--at least I'll hope so--What says
+he, love?
+
+_Bev._ Why, this--too much for patience. Yet he directs me to
+conceal it from you.
+    [_Reads._
+
+  Let your haste to see me be the only proof of your esteem for
+  me. I have determined, since we parted, to bid adieu to England;
+  chusing rather to forsake my country, than to owe my freedom in
+  it to the means we talked of. Keep this a secret at home, and
+  hasten to the ruined
+      R. STUKELY
+
+Ruined by friendship! I must relieve, or follow him.
+
+_Mrs. Bev._ Follow him, did you say? Then I am lost indeed!
+
+_Bev._ O this infernal vice! how has it sunk me! A vice, whose
+highest joy was poor to my domestic happiness. Yet how have I
+pursued it! Turned all my comforts to bitterest pangs! and all Thy
+smiles to tears. Damned, damned infatuation!
+
+_Mrs. Bev._ Be cool, my life! What are the means the letter talks
+of? Have You, have I those means? Tell me, and ease me. I have no
+life while You are wretched.
+
+_Bev._ No, no; it must not be. 'Tis I alone have sinned; 'tis I
+alone must suffer. You shall reserve those means, to keep my child
+and his wronged mother from want and wretchedness.
+
+_Mrs. Bev._ What means?
+
+_Bev._ I came to rob you of them; but cannot--dare not; those jewels
+are your sole support--I should be more than monster to request them.
+
+_Mrs. Bev._ My jewels! Trifles, not worth the speaking of, if
+weighed against a husband's peace; but let them purchase That, and
+the world's wealth is of less value.
+
+_Bev._ Amazing goodness! How little do I seem before such virtues!
+
+_Mrs. Bev._ No more, my love. I kept them till occasion called to
+use them; now is the occasion, and I'll resign them chearfully.
+
+_Bev._ Why, we'll be rich in love then--But this excess of kindness
+melts me. Yet for a friend one would do much. He has denied Me
+nothing.
+
+_Mrs. Bev._ Come to my closet--But let him manage wisely. We have no
+more to give him.
+
+_Bev._ Where learnt my love this excellence? 'Tis heaven's own
+teaching; that heaven, which to an angel's form, has given a mind
+more lovely. I am unworthy of you, but will deserve you better.
+
+  Henceforth my follies and neglects shall cease,
+  And all to come be penitence and peace;
+  Vice shall no more attract me with her charms,
+  Nor pleasure reach me, but in these dear arms.
+
+    [_Exeunt._
+
+
+
+
+ACT III.
+
+
+SCENE I. _STUKELY'S lodgings_.
+
+_Enter STUKELY, and BATES._
+
+_Stukely_. So runs the world, Bates. Fools are the natural prey of
+knaves; nature designed them so, when she made lambs for wolves. The
+laws that fear and policy have framed, nature disclaims: she knows
+but two; and those are force and cunning. The nobler law is force;
+but then there's danger in't; while cunning, like a skilful miner,
+works safely and unseen.
+
+_Bat._ And therefore wisely. Force must have nerves and sinews;
+cunning wants neither. The dwarf that has it, shall trip the giant's
+heels up.
+
+_Stu._ And bind him to the ground. Why, we'll erect a shrine for
+nature, and be her oracles. Conscience is weakness; fear made, and
+fear maintains it. The dread of shame, inward reproaches, and
+fictitious burnings, swell out the phantom. Nature knows none of
+this; Her laws are freedom.
+
+_Bat._ Sound doctrine, and well delivered!
+
+_Stu._ We are sincere too, and practice what we teach. Let the grave
+pedant say as much--But now to business. The jewels are disposed of;
+and Beverley again worth money. He waits to count his gold out, and
+then comes hither. If my design succeeds, this night we finish with
+him. Go to your lodgings, and be busy. You understand conveyances,
+and can make ruin sure.
+
+_Bat._ Better stop here. The sale of this reversion may be talked
+of; there's danger in't.
+
+_Stu._ No; 'tis the mark I aim at. We'll thrive, and laugh. You are
+the purchaser, and there's the payment. (_Giving a pocket book._) He
+thinks you rich; and so you shall be. Enquire for titles, and deal
+hardly; 'twill look like honesty.
+
+_Bat._ How if he suspects us?
+
+_Stu._ Leave it to Me. I study hearts, and when to work upon them.
+Go to your lodgings; and if we come, be busy over papers. Talk of a
+thoughtless age, of gaming and extravagance, you have a face
+for't.
+
+_Bat._ A feeling too that would avoid it. We push too far; but I
+have cautioned you. If it ends ill, you'll think of me; and so adieu.
+    [_Exit._
+
+_Stu._ This fellow sins by halves; his fears are conscience
+to him. I'll turn these fears to use. Rogues that dread shame, will
+still be greater rogues to hide their guilt--This shall be thought
+of. Lewson grows troublesome--we must get rid of him--he knows too
+much. I have a tale for Beverley; part of it truth too. He shall
+call Lewson to account. If it succeeds, 'tis well; if not, we must
+try other means--But here he comes--I must dissemble.
+
+
+SCENE II.
+
+_Enter BEVERLEY._
+
+Look to the door there! (_In a seeming fright._)--My friend!--I
+thought of other visitors.
+
+_Bev._ No: these shall guard you from them. (_Offering notes_) Take
+them, and use them cautiously. The world deals hardly by us.
+
+_Stu._ And shall I leave you destitute? No: Your wants are greatest.
+Another climate may treat me kinder. The shelter of to-night takes
+me from this.
+
+_Bev._ Let these be your support then. Yet is there need of parting?
+I may have means again; we'll share them, and live wisely.
+
+_Stu._ No. I should tempt you on. Habit is nature in me; ruin can't
+cure it. Even now I would be gaming. Taught by experience as I am,
+and knowing this poor sum is all that's left us, I am for venturing
+still. And say I am to blame; yet will this little supply our wants?
+No; we must put it out to usury. Whether 'tis madness in me, or some
+resistless impulse of good fortune, I yet am ignorant; but--
+
+_Bev._ Take it, and succeed then. I'll try no more.
+
+_Stu._ 'Tis surely impulse; it pleads so strongly--But You are
+cold--we'll e'en part here then. And for this last reserve, keep it
+for better uses; I'll have none on't. I thank you though, and will
+seek fortune singly--One thing I had forgot--
+
+_Bev._ What is it?
+
+_Stu._ Perhaps, 'twere best forgotten. But I am open in my nature,
+and zealous for the honour of my friend--Lewson speaks freely of you.
+
+_Bev._ Of You I know he does.
+
+_Stu._ I can forgive him for't; but for my friend I'm angry.
+
+_Bev._ What says he of me?
+
+_Stu._ That Charlotte's fortune is embezzled. He talks on't
+loudly.
+
+_Bev._ He shall be silenced then--How heard you of it?
+
+_Stu._ From many. He questioned Bates about it. You must account
+with him, he says.
+
+_Bev._ Or He with Me--and soon too.
+
+_Stu._ Speak mildly to him. Cautions are best.
+
+_Bev._ I'll think on't--But whither go you?
+
+_Stu._ From poverty and prisons--No matter whither. If fortune
+changes you may hear from me.
+
+_Bev._ May these be prosperous then. (_Offering the notes, which he
+refuses_) Nay, they are yours; I have sworn it, and will have
+nothing. Take them and use them.
+
+_Stu._ Singly I will not. My cares are for my friend; for his lost
+fortune, and ruined family. All separate interests I disclaim.
+Together we have fallen; together we must rise. My heart, my honour,
+both will have it so.
+
+_Bev._ I am weary of being fooled.
+
+_Stu._ And so am I. Here let us part then. These bodings of
+good-fortune shall be stifled; I'll call them folly, and forget
+them. This one embrace, and then farewel.
+    [_Offering to embrace._
+
+_Bev._ No; stay a moment--How my poor heart's distracted! I have
+these bodings too; but whether caught from You, or prompted by my
+good or evil genius, I know not--The trial shall determine--And yet,
+my wife--
+
+_Stu._ Ay, ay, she'll chide.
+
+_Bev._ No; My chidings are all here.
+    [_Pointing to his heart._
+
+_Stu._ I'll not persuade you.
+
+_Bev._ I _am_ persuaded; by reason too; the strongest reason--necessity.
+Oh! could I once regain the height I have fallen from, heaven should
+forsake me in my latest hour, if I again mixed in these scenes, or
+sacrificed the husband's peace, his joy and best affections to
+avarice and infamy!
+
+_Stu._ I have resolved like You; and since our motives are so
+honest, why should we fear success?
+
+_Bev._ Come on then. Where shall we meet?
+
+_Stu_, At Wilson's--Yet if it hurts you, leave me: I have misled you
+often.
+
+_Bev._ We have misled each other--But come! Fortune is fickle, and
+may be tired with plaguing us. There let us rest our hopes.
+
+_Stu._ Yet think a little.
+
+_Bev._ I cannot--Thinking but distracts me.
+
+_When desperation leads, all thoughts are vain;_
+_Reason would lose, what rashness may obtain._
+
+    [_Exeunt._
+
+
+SCENE III. __BEVERLEY'S_ lodgings.
+Enter Mrs. BEVERLEY, and CHARLOTTE._
+
+_Char._ 'Twas all a scheme, a mean one; unworthy of my brother.
+
+_Mrs. Bev._ No, I am sure it was not. Stukely is honest too; I know
+he is. This madness has undone them both.
+
+_Char._ My brother irrecoverably. You are too spiritless a wife--A
+mournful tale, mixt with a few kind words, will steal away your
+soul. The world's too subtle for such goodness. Had I been by, he
+should have asked your life sooner than those jewels.
+
+_Mrs. Bev._ He should have had it then. (_Warmly_) I live but to
+oblige him. She who can love, and is beloved like Me, will do as
+much. Men have done more for mistresses, and women for a base
+deluder. And shall a wife do less? Your chidings hurt me, Charlotte.
+
+_Char._ And come too late; they might have saved you else. How could
+he use you so?
+
+_Mrs. Bev._ 'Twas friendship did it. His heart was breaking for a
+friend.
+
+_Char._ The friend that has betrayed him.
+
+_Mrs. Bev._ Prithee don't think so.
+
+_Char._ To-morrow he accounts with Me.
+
+_Mrs. Bev._ And fairly: I will not doubt it.
+
+_Char._ Unless a friend has wanted--I have no patience--Sister!
+sister! we are bound to curse this friend.
+
+_Mrs. Bev._ My Beverley speaks nobly of him.
+
+_Char._ And Lewson truly--But I displease you with this talk--To-morrow
+will instruct us.
+
+_Mrs. Bev._ Stay till it comes then. I would not think so hardly.
+
+_Char._ Nor I, but from conviction. Yet we have hope of better days.
+My uncle is infirm, and of an age that threatens hourly. Or if he
+lives, You never have offended him; and for distresses so unmerited,
+he will have pity.
+
+_Mrs. Bev._ I know it, and am chearful. We have no more to lose; and
+for what's gone, if it brings prudence home, the purchase is well
+made.
+
+_Char._ My Lewson will be kind too. While he and I have life and
+means, You shall divide with us--And see, he's here.
+
+
+SCENE IV.
+
+_Enter LEWSON._
+
+We were just speaking of you.
+
+_Lew._ 'Tis best to interrupt you then. Few characters will bear a
+scrutiny; and where the bad out-weighs the good, he's safest that's
+least talked of. What say you, madam?
+    [_To Charlotte._
+
+_Char._ That I hate scandal, though a woman; therefore talk seldom
+of you.
+
+_Mrs. Bev._ Or, with more truth, that, though a woman, she loves to
+praise; therefore talks always of you. I'll leave you to decide
+it.
+    [_Exit._
+
+_Lew._ How good and amiable! I came to talk in private with you; of
+matters that concern you.
+
+_Char._ What matters?
+
+_Lew._ First answer me sincerely to what I ask.
+
+_Char._ I will--But you alarm me.
+
+_Lew._ I am too grave, perhaps; but be assured of this, I have no
+news that troubles Me, and therefore should not You.
+
+_Char._ I am easy then. Propose your question.
+
+_Lew._ 'Tis now a tedious twelve-month, since with an open and kind
+heart, you said you loved me.
+
+_Char._ So tedious, did you say?
+
+_Lew._ And when in consequence of such sweet words, I pressed for
+marriage, you gave a voluntary promise, that you would live for
+Me.
+
+_Char._ You think me changed then?
+    [_Angrily._
+
+_Lew._ I did not say so. A thousand times I have pressed for the
+performance of this promise; but private cares, a brother's and a
+sister's ruin, were reasons for delaying it.
+
+_Char._ I had no other reasons--Where will this end?
+
+_Lew._ It shall end presently.
+
+_Char._ Go on, Sir.
+
+_Lew._ A promise, such as this, given freely, not extorted, the
+world thinks binding; but I think otherwise.
+
+_Char._ And would release me from it?
+
+_Lew._ You are too impatient, madam.
+
+_Char._ Cool, Sir--quite cool--Pray go on.
+
+_Lew._ Time, and a near acquaintance with my faults, may have
+brought change: if it be so; or, for a moment, if you have wished
+this promise were unmade, here I acquit you of it. This is my
+question then; and with such plainness as I ask it, I shall entreat
+an answer. Have you repented of this promise?
+
+_Char._ Stay, Sir. The man that can _suspect_ me, shall _find_ me
+changed. Why am I doubted?
+
+_Lew._ My doubts are of myself. I have my faults, and You have
+observation. If from my temper, my words or actions, you have
+conceived a thought against me, or even a wish for separation, all
+that has passed is nothing.
+
+_Char._ You startle me--But tell me--I must be answered first. Is it
+from honour you speak this? or do you wish me changed?
+
+_Lew._ Heaven knows I do not. Life and my Charlotte are so
+connected, that to lose one, were loss of both. Yet for a promise,
+though given in love, and meant for binding; if time, or accident,
+or reason should change opinion, with Me that promise has no force.
+
+_Char._ Why, now I'll answer you. Your doubts are prophecies--I am
+really changed.
+
+_Lew._ Indeed!
+
+_Char._ I could torment You now, as You have Me; but 'tis not in my
+nature. That I am changed I own; for what at first was inclination,
+is now grown reason in me; and from that reason, had I the
+world--nay, were I poorer than the poorest, and You too wanting
+bread; with but a hovel to invite me to--I would be yours, and happy.
+
+_Lew._ My kindest Charlotte! (_Seizing her hand_) Thanks are too
+poor for this, and words too weak! But if we love so, why should our
+union be delayed?
+
+_Char._ For happier times. The present are too wretched.
+
+_Lew._ I may have reasons, that press it now.
+
+_Char._ What reasons?
+
+_Lew._ The strongest reasons; unanswerable ones.
+
+_Char._ Be quick and name them.
+
+_Lew._ No, madam; I am bound in honour to make conditions first;
+I am bound by inclination too. This sweet profusion of kind words
+pains while it pleases. I dread the losing you.
+
+_Char._ Astonishment! What mean you?
+
+_Lew._ First promise, that to-morrow, or the next day, you will be
+mine for ever.
+
+_Char._ I do--though misery should succeed.
+
+_Lew._ Thus then I seize you! and with you every joy on this side
+heaven!
+    [_Embracing her._
+
+_Char._ And thus I seal my promise. (_Returning his embrace._) Now,
+Sir, your secret?
+
+_Lew._ Your fortune's lost.
+
+_Char._ My fortune lost!--I'll study to be humble then. But was my
+promise claimed for this? How nobly generous! Where learnt you this
+sad news?
+
+_Lew._ From Bates, Stukely's prime agent. I have obliged him, and
+he's grateful. He told it me in friendship, to warn me from my
+Charlotte.
+
+_Char._ 'Twas honest in him; and I'll esteem him for't.
+
+_Lew._ He knows much more than he has told.
+
+_Char._ For Me it is enough. And for your generous love, I thank you
+from my soul. If you'd oblige me more, give me a little time.
+
+_Lew._ Why time? It robs us of our happiness.
+
+_Char._ I have a task to learn first. The little pride this fortune
+gave me, must be subdued. Once we were equal; and might have met
+obliging and obliged. But now 'tis otherwise; and for a life of
+obligations, I have not learnt to bear it.
+
+_Lew._ Mine is that life. You are too noble.
+
+_Char._ Leave me to think on't.
+
+_Lew._ To-morrow then you'll fix my happiness?
+
+_Char._ All that I can, I will.
+
+_Lew._ It must be so; we live but for each other. Keep what you know
+a secret; and when we meet to-morrow, more may be known. Farewell.
+    [_Exit._
+
+_Char._ My poor, poor sister! how would this wound her! But I'll
+conceal it, and speak comfort to her. _Exit_.
+
+
+SCENE V. _changes to a room in the gaming-house._
+
+_Enter BEVERLEY, and STUKELY._
+
+_Bev._ Whither would you lead me?
+    [_Angrily._
+
+_Stu._ Where we may vent our curses.
+
+_Bev._ Ay, on yourself, and those damned counsels that have
+destroyed me. A thousand fiends were in that bosom, and all let
+loose to tempt me--I had resisted else.
+
+_Stu._ Go on, Sir. I have deserved this from you.
+
+_Bev._ And curses everlasting. Time is too scanty for them.
+
+_Stu._ What have I done?
+
+_Bev._ What the arch-devil of old did--soothed with false hopes, for
+certain ruin.
+
+_Stu._ Myself unhurt; nay, pleased at your destruction--So your
+words mean. Why, tell it to the world: I am too poor to find a
+friend in't.
+
+_Bev._ A friend! What's he? I had a friend.
+
+_Stu._ And have one still.
+
+_Bev._ Ay; I'll tell you of this friend. He found me happiest of the
+happy; fortune and honour crowned me; and love and peace lived in my
+heart. One spark of folly lurked there; That too he found; and by
+deceitful breath, blew it to flames that have consumed me. This
+friend were You to Me.
+
+_Stu._ A little more perhaps--The friend who gave his all to save
+you; and not succeeding, chose ruin with you. But no matter--I have
+undone you, and am a villain.
+
+_Bev._ No; I think not. The villains are within.
+
+_Stu._ What villains?
+
+_Bev._ Dawson and the rest--We have been dupes to sharpers.
+
+_Stu._ How know you this? I have had doubts, as well as You; yet
+still as fortune changed, I blushed at my own thoughts. But You have
+proofs, perhaps?
+
+_Bev._ Ay, damned ones. Repeated losses: night after night, and no
+reverse. Chance has no hand in this.
+
+_Stu._ I think more charitably; yet I am peevish in my nature, and
+apt to doubt. The world speaks fairly of this Dawson; so does it of
+the rest. We have watched them closely too. But 'tis a right usurped
+by losers, to think the winners knaves. We'll have more manhood in
+us.
+
+_Bev._ I know not what to think. This night has stung me to the
+quick--blasted my reputation too. I have bound my honour to these
+vipers; played meanly upon credit, till I tired them; and now they
+shun me, to rifle one another. What's to be done?
+
+_Stu._ Nothing. My counsels have been fatal.
+
+_Bev._ By heaven! I'll not survive this shame--Traitor! 'tis You
+have brought it on me. (_Taking hold of him._) Shew me the means to
+save me, or I'll commit a murder here, and next upon myself.
+
+_Stu._ Why, do it then, and rid me of ingratitude.
+
+_Bev._ Prithee, forgive this language--I speak I know not what. Rage
+and despair are in my heart, and hurry me to madness. My home is
+horror to me--I'll not return to't. Speak quickly; tell me, if in
+this wreck of fortune, one hope remains? Name it, and be my
+oracle.
+
+_Stu._ To vent your curses on--You have bestowed them liberally.
+Take your own counsel: and should a desperate hope present itself,
+'twill suit your desperate fortune. I'll not advise you.
+
+_Bev._ What hope? By heaven! I'll catch at it, however desperate.
+I am so sunk in misery, it cannot lay me lower.
+
+_Stu._ You have an uncle.
+
+_Bev._ Ay. What of Him?
+
+_Stu._ Old men live long by temperance; while their heirs starve on
+expectation.
+
+_Bev._ What mean you?
+
+_Stu._ That the reversion's yours; and will bring money to pay debts
+with--nay, more; it may retrieve what's past.
+
+_Bev._ Or leave my child a beggar.
+
+_Stu._ And what's his father? A dishonourable one; engaged for sums,
+he cannot pay. That should be thought of.
+
+_Bev._ It is my shame; the poison that inflames me. Where shall we
+go? To whom? I am impatient till all's lost.
+
+_Stu._ All may be yours again. Your man is Bates. He has large funds
+at his command, and will deal justly by you.
+
+_Bev._ I am resolved--Tell them, within, we'll meet them presently;
+and with full purses too--Come, follow me.
+
+_Stu._ No. I'll have no hand in this; nor do I counsel it. Use your
+discretion, and act from that. You'll find me at my lodgings.
+
+_Bev._
+  Succeed what will, this night I'll dare the worst--
+  'Tis loss of fear, to be compleatly curs'd.
+    [_Exit._
+
+_Stu._ Why, lose it then for ever. Fear is the mind's worst evil;
+and 'tis a friendly office to drive it from the bosom. Thus far has
+fortune crowned me--Yet Beverley is rich; rich in his wife's best
+treasure; her honour and affections. I would supplant him there too.
+But 'tis the curse of thinking minds, to raise up difficulties.
+Fools only conquer women: fearless of dangers which they see not,
+they press on boldly, and by persisting, prosper. Yet may a tale of
+art do much. Charlotte is sometimes absent. The seeds of jealousy
+are sown already: If I mistake not, they have taken root too. Now is
+the time to ripen them, and reap the harvest. The softest of her
+sex, if wronged in love, or thinking that she's wronged, becomes a
+tygress in revenge. I'll instantly to Beverley's--No matter for the
+danger--When beauty leads us on, 'tis indiscretion to reflect, and
+cowardice to doubt.
+    [_Exit_.
+
+
+SCENE VI. _changes to _BEVERLEY'S_ lodgings._
+
+_Enter Mrs. BEVERLEY, and _Lucy_._
+
+_Mrs. Bev._ Did Charlotte tell you any thing?
+
+_Lucy_. No, madam.
+
+_Mrs. Bev._ She looked confused methought; said she had business
+with her Lewson; which, when I pressed to know, tears only were her
+answer.
+
+_Lucy._ She seemed in haste too: yet her return may bring you comfort.
+
+_Mrs. Bev._ No, my kind girl; I was not born for't. But why do I
+distress thee? Thy sympathizing heart bleeds for the ills of others.
+What pity that thy mistress can't reward thee! But there's a power
+above, that sees, and will remember all. Prithee, sooth me with the
+song thou sung'st last night: it suits this change of fortune; and
+there's a melancholy in't that pleases me.
+
+_Lucy_. I fear it hurts you, madam. Your goodness too draws tears
+from me: but I'll dry them, and obey you.
+
+SONG.
+
+  When Damon languish'd at my feet,
+  And I believ'd him true,
+  The moments of delight how sweet!
+  But ah! how swift they flew!
+  The sunny hill, the flow'ry vale,
+  The garden and the grove,
+  Have echoed to his ardent tale,
+  And vows of endless love.
+
+  II.
+
+  The conquest gain'd, he left his prize,
+  He left her to complain;
+  To talk of joy with weeping eyes,
+  And measure time by pain.
+  But heav'n will take the mourner's part,
+  In pity to despair;
+  And the last sigh that rends the heart,
+  Shall waft the spirit there.
+
+_Mrs. Bev._ I thank thee, Lucy; I thank heaven too my griefs are
+none of these. Yet Stukely deals in hints--He talks of rumours--I'll
+urge him to speak plainly--Hark?--There's some one entering.
+
+_Lucy._ Perhaps my master, madam.
+    [_Exit._
+
+_Mrs. Bev._ Let him be well too, and I am satisfied. (_Goes to the
+door, and listens._) No; 'tis another's voice; his had been music to
+me. Who is it, Lucy?
+
+
+SCENE VII.
+
+_Re-enter LUCY with STUKELY._
+
+_Lucy._ Mr. Stukely, madam.
+    [_Exit._
+
+_Stu._ To meet you thus alone, madam, was what I wished. Unseasonable
+visits, when friendship warrants them, need no excuse; therefore I
+make none.
+
+_Mrs. Bev._ What mean you, Sir? And where's your friend?
+
+_Stu._ Men may have secrets, madam, which their best friends are not
+admitted to. We parted in the morning, not soon to meet again.
+
+_Mrs. Bev._ You mean to leave us then? To leave your country too?
+I am no stranger to your reasons, and pity your misfortunes.
+
+_Stu._ Your pity has undone you. Could Beverley do this? That letter
+was a false one; a mean contrivance, to rob you of your jewels.
+I wrote it not.
+
+_Mrs. Bev._ Impossible! Whence came it then?
+
+_Stu._ Wronged as I am, madam, I must speak plainly--
+
+_Mrs. Bev._ Do so, and ease me. Your hints have troubled me.
+Reports, you say, are stirring--Reports of whom? You wished me not
+to credit them. What, Sir, are these reports?
+
+_Stu._ I thought them slander, madam; and cautioned you in
+friendship; left from officious tongues the tale had reached you,
+with double aggravation.
+
+_Mrs. Bev._ Proceed, Sir.
+
+_Stu._ It is a debt due to my fame, due to an injured wife too--We
+both are injured.
+
+_Mrs. Bev._ How injured? and who has injured us?
+
+_Stu._ My friend, your husband.
+
+_Mrs. Bev._ You would resent for both then? But know, Sir, My
+injuries are my own, and do not need a champion.
+
+_Stu._ Be not too hasty, madam. I come not in resentment, but for
+acquittance. You thought me poor; and to the feigned distresses of a
+friend gave up your jewels.
+
+_Mrs. Bev._ I gave them to a husband.
+
+_Stu._ Who gave them to a--
+
+_Mrs. Bev._ What? Whom did he give them to?
+
+_Stu._ A mistress.
+
+_Mrs. Bev._ No; on my life he did not.
+
+_Stu._ Himself confessed it, with curses on her avarice.
+
+_Mrs. Bev._ I'll not believe it. He has no mistress--or if he has,
+why is it told to Me?
+
+_Stu._ To guard you against insults. He told me, that to move you to
+compliance, he forged that letter, pretending I was ruined; ruined
+by Him too. The fraud succeeded; and what a trusting wife bestowed
+in pity, was lavished on a wanton.
+
+_Mrs. Bev._ Then I am lost indeed; and my afflictions are too
+powerful for me. His follies I have borne without upbraiding, and
+saw the approach of poverty without a tear. My affections, my strong
+affections supported me through every trial.
+
+_Stu._ Be patient, madam.
+
+_Mrs. Bev._ Patient! The barbarous man! And does he think my
+tenderness of heart is his security for wounding it? But he shall
+find that injuries such as these, can arm my weakness for vengeance
+and redress.
+
+_Stu._ Ha! then I may succeed. (_Aside._) Redress is in your power.
+
+_Mrs. Bev._ What redress?
+
+_Stu._ Forgive me, madam, if in my zeal to serve you, I hazard your
+displeasure. Think of your wretched state. Already want surrounds
+you. Is it in patience to bear That? To see your helpless little one
+robbed of his birth-right? A sister too, with unavailing tears,
+lamenting her lost fortune? No comfort left you, but ineffectual
+pity from the Few, out-weighed by insults from the Many?
+
+_Mrs. Bev._ Am I so lost a creature? Well, Sir, my redress?
+
+_Stu._ To be resolved is to secure it. The marriage vow, once
+violated, is in the sight of heaven dissolved--Start not, but hear
+me! 'Tis now the summer of your youth; time has not cropt the roses
+from your cheek, though sorrow long has washed them. Then use your
+beauty wisely; and, freed by injuries, fly from the cruellest of
+men, for shelter with the kindest.
+
+_Mrs. Bev._ And who is He?
+
+_Stu._ A friend to the unfortunate; a bold one too; who while the
+storm is bursting on your brow, and lightening flashing from your
+eyes, dares tell you that he loves you.
+
+_Mrs. Bev._ Would that these eyes had heaven's own lightening! that
+with a look, thus I might blast thee! Am I then fallen so low? Has
+poverty so humbled me, that I should listen to a hellish offer, and
+sell my soul for bread? O, villain! villain!--But now I know thee,
+and thank thee for the knowledge.
+
+_Stu._ If you are wife, you shall have cause to thank me.
+
+_Mrs. Bev._ An injured husband too shall thank thee.
+
+_Stu._ Yet know, proud woman, I have a heart as stubborn as your
+own; as haughty and imperious: and as it loves, so can it hate.
+
+_Mrs. Bev._ Mean, despicable villain! I scorn thee, and thy threats.
+Was it for this that Beverley was false? That his too credulous wife
+should in despair and vengeance give up her honour to a wretch? But
+he shall know it, and vengeance shall be his.
+
+_Stu._ Why send him for defiance then. Tell him I love his wife; but
+that a worthless husband forbids our union. I'll make a widow of
+you, and court you honourably.
+
+_Mrs. Bev._ O, coward! coward! thy soul will shrink at him. Yet in
+the thought of what may happen, I feel a woman's fears. Keep thy own
+secret, and begone. Who's there?
+
+
+SCENE VIII.
+
+_Enter LUCY._
+
+Your absence, Sir, would please me.
+
+_Stu._ I'll not offend you, madam.
+    [_Exit with Lucy._
+
+_Mrs. Bev._ Why opens not the earth to swallow such a monster? Be
+conscience then his punisher, till heaven in mercy gives him
+penitence, or dooms him in its justice.
+
+
+SCENE IX.
+
+_Re-enter LUCY._
+
+Come to my chamber, Lucy; I have a tale to tell thee, shall make
+thee weep for thy poor mistress.
+
+  Yet heav'n the guiltless sufferer regards,
+  And whom it most afflicts, it most rewards.
+
+    [_Exeunt._
+
+
+
+
+ACT IV.
+
+
+SCENE, __BEVERLEY'S_ lodgings._
+
+_Enter Mrs. BEVERLEY, CHARLOTTE, and LEWSON._
+
+_Charlotte._ The smooth-tongued hypocrite!
+
+_Lew._ But we have found him, and will requite him. Be chearful,
+madam; (_To Mrs. Beverley_) and for the insults of this ruffian, you
+shall have ample retribution.
+
+_Mrs. Bev._ But not by violence--Remember you have sworn it: I had
+been silent else.
+
+_Lew._ You need not doubt me; I shall be cool as patience.
+
+_Mrs. Bev._ See him to-morrow then.
+
+_Lew._ And why not now? By heaven, the veriest worm that crawls is
+made of braver spirit than this Stukely. Yet for my promise, I'll
+deal gently with him. I mean to watch his looks: from those, and
+from his answers to my charge, much may be learnt. Next I'll to
+Bates, and sift him to the bottom. If I fail there, the gang is
+numerous, and for a bribe will each betray the other. Good night;
+I'll lose no time.
+    [_Exit._
+
+_Mrs. Bev._ These boisterous spirits! how they wound me! But
+reasoning is in vain. Come, Charlotte; we'll to our usual watch. The
+night grows late.
+
+_Char._ I am fearful of events; yet pleased--To-morrow may relieve
+us.
+    [_Going._
+
+
+SCENE II.
+
+_Enter JARVIS._
+
+_Char._ How now, good Jarvis?
+
+_Jar._ I have heard ill news, madam.
+
+_Mrs. Bev._ What news? Speak quickly.
+
+_Jar._ Men are not what they seem. I fear me, Mr. Stukely is
+dishonest.
+
+_Char._ We know it, Jarvis. But what's your news?
+
+_Jar._ That there's an action against my master, at his friend's
+suit.
+
+_Mrs. Bev._ O, villain! villain! 'twas this he threatened then. Run
+to that den of robbers, Wilson's--Your master may be there. Entreat
+him home, good Jarvis. Say I have business with him--But tell him
+not of Stukely--It may provoke him to revenge--Haste! haste! good
+Jarvis.
+    [_Exit Jarvis._
+
+_Char._ This minister of hell! O, I could tear him piece-meal!
+
+_Mrs. Bev._ I am sick of such a world. Yet heaven is just; and in
+its own good time, will hurl destruction on such monsters.
+    [_Exeunt._
+
+
+SCENE III. _changes to _STUKELY'S_ lodgings._
+
+_Enter STUKELY, and BATES, meeting_.
+
+_Bates._ Where have you been?
+
+_Stu._ Fooling my time away: playing my tricks, like a tame monkey,
+to entertain a woman--No matter where-- I have been vext and
+disappointed. Tell me of Beverley. How bore he his last shock?
+
+_Bates._ Like one (so Dawson says) whose senses had been numbed by
+misery. When all was lost, he fixed his eyes upon the ground, and
+stood some time, with folded arms, stupid and motionless. Then
+snatching his sword, that hung against the wainscot, he sat him
+down; and with a look of fixt attention, drew figures on the floor.
+At last he started up, looked wild, and trembled; and like a woman,
+seized with her sex's fits, laughed out aloud, while the tears
+trickled down his face--so left the room.
+
+_Stu._ Why, this was madness.
+
+_Bates._ The madness of despair.
+
+_Stu._ We must confine him then. A prison would do well. (_A
+knocking at the door._) Hark! that knocking may be his. Go that way
+down. (_Exit Bates._) Who's there?
+
+
+SCENE IV.
+
+_Enter LEWSON._
+
+_Lew._ An enemy. An open and avowed one.
+
+_Stu._ Why am I thus broke in upon? This house is mine, Sir; and
+should protect me from insult and ill-manners.
+
+_Lew._ Guilt has no place of sanctuary; wherever found, 'tis
+virtue's lawful game. The fox's hold, and tyger's den, are no
+security against the hunter.
+
+_Stu._ Your business, Sir?
+
+_Lew._ To tell you that I know you--Why this confusion? That look of
+guilt and terror? Is Beverley awake? Or has his wife told tales? The
+man that dares like You, should have a soul to justify his deeds,
+and courage to confront accusers. Not with a coward's fear to shrink
+beneath reproof.
+
+_Stu._ Who waits there?
+    [_Aloud, and in confusion._
+
+_Lew._ By heaven, he dies that interrupts us. (_Shutting the door._)
+You should have weighed your strength, Sir; and then, instead of
+climbing to high fortune, the world had marked you for what you are,
+a little paultry villain.
+
+_Stu._ You think I fear you.
+
+_Lew._ I know you fear me. This is to prove it. (_Pulls him by the
+sleeve._) You wanted privacy! A lady's presence took up your
+attention! Now we are alone, Sir.--Why, what a wretch! (_Flings him
+from him._) The vilest insect in creation will turn when trampled
+on; yet has this Thing undone a man--by cunning and mean arts undone
+him. But we have found you, Sir; traced you through all your
+labyrinths. If you would save yourself, fall to confession: no mercy
+will be shewn else.
+
+_Stu._ First prove me what you think me. Till then, your threatenings
+are in vain. And for this insult, vengeance may yet be mine.
+
+_Lew._ Infamous coward! Why, take it now then-- (_Draws, and Stukely
+retires._) Alas! I pity thee. Yet that a wretch like this should
+overcome a Beverley! it fills me with astonishment! A wretch, so
+mean of soul, that even desperation cannot animate him to look upon
+an enemy. You should not thus have soared, Sir, unless, like others
+of your black profession, you had a sword to keep the fools in awe,
+your villainy has ruined.
+
+_Stu._ Villainy! 'Twere best to curb this licence of your tongue;
+for know, Sir, while there are laws, this outrage on my reputation
+will not be borne with.
+
+_Lew._ Laws! Dar'st Thou seek shelter from the laws? those laws,
+which thou and thy infernal crew live in the constant violation of?
+Talk'st thou of reputation too? when under friendship's sacred name,
+thou hast betrayed, robbed, and destroyed?
+
+_Stu._ Ay, rail at gaming; 'tis a rich topic, and affords noble
+declamation. Go, preach against it in the city: you'll find a
+congregation in every tavern. If they should laugh at you, fly to my
+lord, and sermonize it there: he'll thank you and reform.
+
+_Lew._ And will example sanctify a vice? No, wretch; the custom of
+my lord, or of the Cit that apes him, cannot excuse a breach of law,
+or make the gamester's calling reputable.
+
+_Stu._ Rail on, I say. But is this zeal for beggared Beverley? Is it
+for Him that I am treated thus? No; He and His might all have
+groaned in prison, had but the sister's fortune escaped the wreck,
+to have rewarded the disinterested love of honest Mr. Lewson.
+
+_Lew._ How I detest thee for the thought! But thou art lost to every
+human feeling. Yet let me tell thee, and may it wring thy heart!
+that though my friend is ruined by thy snares, thou hast unknowingly
+been kind to Me.
+
+_Stu._ Have I? It was indeed unknowingly.
+
+_Lew._ Thou hast assisted me in love; given me the merit that I
+wanted; since but for Thee, my Charlotte had not known 'twas her
+dear self I sighed for, and not her fortune.
+
+_Stu._ Thank me, and take her then.
+
+_Lew._ And as a brother to poor Beverley, I will pursue the robber
+that has seized him, and snatch him from his gripe.
+
+_Stu._ Then know, imprudent man, he _is_ within my gripe; and should
+my friendship for him be slandered once again, the hand that has
+supplied him, shall fall and crush him.
+
+_Lew._ Why, now there's spirit in thee! This is indeed to be a
+villain! But I shall reach thee yet. Fly where thou wilt, my
+vengeance shall pursue thee--and Beverley shall yet be saved, be
+saved from thee, thou monster; nor owe his rescue to his wife's
+dishonour.
+    [_Exit_.
+
+_Stu._ (_Pausing_) Then ruin has enclosed me. Curse on my coward
+heart! I would be bravely villainous; but 'tis my nature to shrink
+at danger, and he has found me. Yet fear brings caution, and That
+security. More mischief must be done, to hide the past. Look to
+yourself, officious Lewson--there may be danger stirring--How now,
+Bates?
+
+
+SCENE V.
+
+_Enter BATES._
+
+_Bates._ What is the matter? 'Twas Lewson, and not Beverley, that
+left you. I heard him loud: you seem alarmed too.
+
+_Stu._ Ay, and with reason. We are discovered.
+
+_Bates._ I feared as much, and therefore cautioned you; but You were
+peremptory.
+
+_Stu._ Thus fools talk ever; spending their idle breath on what is
+past; and trembling at the future. We must be active. Beverley, at
+worst, is but suspicious; but Lewson's genius, and his hate to Me,
+will lay all open. Means must be found to stop him.
+
+_Bates._ What means?
+
+_Stu._ Dispatch him--Nay, start not--Desperate occasions call for
+desperate deeds. We live but by his death.
+
+_Bates._ You cannot mean it?
+
+_Stu._ I do, by heaven.
+
+_Bates._ Good night then.
+    [_Going._
+
+_Stu._ Stay. I must be heard, then answered. Perhaps the motion was
+too sudden; and human nature starts at murder, though strong
+necessity compels it. I have thought long of this; and my first
+feelings were like yours; a foolish conscience awed me, which soon I
+conquered. The man that would undo me, nature cries out, undo.
+Brutes know their foes by instinct; and where superior force is
+given, they use it for destruction. Shall man do less? Lewson
+pursues us to our ruin; and shall we, with the means to crush him,
+fly from our hunter, or turn and tear him? 'Tis folly even to
+hesitate.
+
+_Bates._ He has obliged me, and I dare not.
+
+_Stu._ Why, live to shame then, to beggary and punishment. You would
+be privy to the deed, yet want the soul to act it. Nay more; had my
+designs been levelled at his fortune, you had stept in the foremost.
+And what is life without its comforts? Those you would rob him of;
+and by a lingering death, add cruelty to murder. Henceforth adieu to
+half-made villains--there's danger in them. What you have got is
+your's; keep it, and hide with it: I'll deal my future bounty to
+those who merit it.
+
+_Bates._ What's the reward?
+
+_Stu._ Equal division of our gains. I swear it, and will be
+just.
+
+_Bates._ Think of the means then.
+
+_Stu._ He's gone to Beverley's-- Wait for him in the street--'tis a
+dark night, and fit for mischief. A dagger would be useful.
+
+_Bates._ He sleeps no more.
+
+_Stu._ Consider the reward! When the deed's done, I have farther
+business with you. Send Dawson to me.
+
+_Bates._ Think it already done--and so farewel.
+    [_Exit._
+
+_Stu._ Why, farewel Lewson then; and farewel to my fears. This night
+secures me. I'll wait the event within.
+    [_Exit._
+
+
+SCENE VI. _changes to the street. Stage darkened._
+
+_Enter BEVERLEY._
+
+_Bev._ How like an out-cast do I wander! Loaded with every curse,
+that drives the soul to desperation! The midnight robber, as he
+walks his rounds, sees by the glimmering lamp my frantic looks, and
+dreads to meet me. Whither am I going? My home lies there; all that
+is dear on earth it holds too; yet are the gates of death more
+welcome to me. I'll enter it no more--Who passes there? Tis Lewson.
+He meets me in a gloomy hour; and memory tells me, he has been
+meddling with my fame.
+
+
+SCENE VII.
+
+_Enter LEWSON._
+
+_Lew._ Beverley! Well met. I have been busy in your affairs.
+
+_Bev._ So I have heard, Sir; and now must thank you for't.
+
+_Lew._ To-morrow I may deserve your thanks. Late as it is, I go to
+Bates. Discoveries are making that an arch villain trembles
+at.
+
+_Bev._ Discoveries are made, Sir, that You shall tremble at. Where
+is this boasted spirit? this high demeanour, that was to call me to
+account? You say I have wronged my sister--Now say as much. But
+first be ready for defence, as I am for resentment.
+    [_Draws._
+
+_Lew._ What mean you? I understand you not.
+
+_Bev._ The coward's stale acquittance. Who, when he spreads foul
+calumny abroad, and dreads just vengeance on him, cries out, what
+mean you, I understand you not.
+
+_Lew._ Coward, and calumny! Whence are these words? But I forgive,
+and pity you.
+
+_Bev._ Your pity had been kinder to my fame. But you have traduced
+it; told a vile story to the public ear, that I have wronged my
+sister.
+
+_Lew._ 'Tis false. Shew me the man that dares accuse me.
+
+_Bev._ I thought you brave, and of a soul superior to low malice;
+but I have found you, and will have vengeance. This is no place for
+argument.
+
+_Lew._ Nor shall it be for violence. Imprudent man! who in
+revenge for fancied injuries, would pierce the heart that loves
+him! But honest friendship acts from itself, unmoved by slander, or
+ingratitude. The life you thirst for, shall be employed to serve you.
+
+_Bev._ 'Tis thus you would compound then! First do a wrong beyond
+forgiveness; and to redress it, load me with kindness unsolicited.
+I'll not receive it. Your zeal is troublesbme.
+
+_Lew._ No matter. It shall be useful.
+
+_Bev._ It will not be accepted.
+
+_Lew._ It must. You know me not.
+
+_Bev._ Yes; for the slanderer of my fame: who under shew of
+friendship, arraigns me of injustice; buzzing in every ear foul
+breach of trust, and family dishonour.
+
+_Lew._ Have I done this? Who told you so?
+
+_Bev._ The world. 'Tis talked of everywhere. It pleased you to add
+threats too: you were to call me to account --Why, do it now then;
+I shall be proud of such an arbiter.
+
+_Lew._ Put up your sword, and know me better. I never injured you.
+The base suggestion comes from Stukely: I see him and his aims.
+
+_Bev._ What aims? I'll not conceal it; _'twas_ Stukely that accused
+you.
+
+_Lew._ To rid him of an enemy: perhaps of two. He fears discovery,
+and frames a tale of falsehood, to ground revenge and murder
+on.
+
+_Bev._ I must have proof of this.
+
+_Lew._ Wait till to-morrow then.
+
+_Bev._ I will.
+
+_Lew._ Good night. I go to serve you. Forget what's past, as I do;
+and chear your family with smiles. To-morrow may confirm them, and
+make all happy.
+    [_Exit._
+
+_Bev._ (_Pausing_) How vile, and how absurd is man! His boasted
+honour is but another name for pride; which easier bears the
+consciousness of guilt, than the world's just reproofs. But 'tis the
+fashion of the times; and in defence of falsehood and false honour,
+men die martyrs. I knew not that my nature was so bad.
+    [_Stands musing._
+
+
+SCENE VIII.
+
+_Enter BATES, and JARVIS._
+
+_Jar._ This way the noise was--and yonder's my poor master.
+
+_Bates._ I heard him at high words with Lewson. The cause I know not.
+
+_Jar._ I heard him too. Misfortunes vex him.
+
+_Bates._ Go to him, and lead him home--But he comes this way--I'll
+not be seen by him.
+    [_Exit._
+
+_Bev._ (_Starting._) What fellow's that? (_Seeing Jarvis_). Art thou
+a murderer, friend? Come, lead the way; I have a hand as mischievous
+as thine; a heart as desperate too--Jarvis!--To bed, old man, the
+cold will chill thee.
+
+_Jar._ Why are you wandering at this late hour?--Your sword drawn
+too!--For heav'n's sake sheath it, Sir; the sight distracts
+Me.
+
+_Bev._ Whose voice was that?
+    [_Wildly_.
+
+_Jar._ 'Twas mine, Sir. Let me intreat you to give the sword to
+me.
+
+_Bev._ Ay, take it; quickly take it--Perhaps I am not so curst, but
+heav'n may have sent thee at this moment to snatch me from
+perdition.
+
+_Jar._ Then I am blest.
+
+_Bev._ Continue so, and leave me. My sorrows are contagious. No one
+is blest that's near me.
+
+_Jar._ I came to seek you, Sir.
+
+_Bev._ And now thou hast found me, leave me. My thoughts are wild,
+and will not be disturbed.
+
+_Jar._ Such thoughts are best disturbed.
+
+_Bev._ I tell thee that they will not. Who sent thee hither?
+
+_Jar._ My weeping mistress.
+
+_Bev._ Am I so meek a husband then? that a commanding wife
+prescribes my hours, and sends to chide me for my absence?
+
+Tell her, I'll not return.
+
+_Jar._ Those words would kill her.
+
+_Bev._ Kill her! Would they not be kind then? But she shall live to
+curse me--I have deserved it of her. Does she not hate me,
+Jarvis?
+
+_Jar._ Alas, Sir! Forget your griefs, and let me lead you to her.
+The streets are dangerous.
+
+_Bev._ Be wise, and leave me then. The night's black horrors are
+suited to my thoughts. These stones shall be my resting-place.
+(_Lies down._) Here shall my soul brood o'er its miseries; till with
+the fiends of hell, and guilty of the earth, I start and tremble at
+the morning's light.
+
+_Jar._ For pity's sake, Sir!--Upon my knees I beg you to quit this
+place, and these sad thoughts. Let patience, not despair, possess
+you. Rise, I beseech you. There's not a moment of your absence, that
+my poor mistress does not groan for.
+
+_Bev._ Have I undone her, and is she still so kind? (_Starting up_)
+It is too much--My brain can't hold it--O, Jarvis! Jarvis! how
+desperate is that wretch's state, which only death or madness can
+relieve!
+
+_Jar._ Appease his mind, good heaven! and give him resignation!
+Alas, Sir, could beings in the other world perceive the events of
+this, how would your parents' blessed spirits grieve for you, even
+in heaven! Let me conjure you by Their honoured memories; by the
+sweet innocence of your yet helpless child, and by the ceaseless
+sorrows of my poor mistress, to rouze your manhood, and struggle
+with these griefs.
+
+_Bev._ Thou virtuous, good old man! thy tears and thy entreaties
+have reached my heart, through all its miseries. O! had I listened
+to Thy honest warnings, no earthly blessing had been wanting to me!
+I was so happy, that even a wish for more than I possessed, was
+arrogant presumption. But I have warred against the power that blest
+me, and now am sentenced to the hell I merit.
+
+_Jar._ Be but resigned, Sir, and happiness may yet be yours.
+
+_Bev._ Prithee be honest, and do not flatter misery.
+
+_Jar._ I do not, Sir--Hark! I hear voices--Come this way; we may
+reach home un-noticed.
+
+_Bev._ Well, lead me then--Un-noticed did'st thou say? Alas! I dread
+no looks, but of those wretches I have made at home.
+    [_Exeunt._
+
+
+SCENE IX. _changes to _STUKELY'S_._
+
+_Enter STUKELY, and DAWSON._
+
+_Stu._ Come hither, Dawson. My limbs are on the rack, and my soul
+shivers in me, till this night's business be complete. Tell me thy
+thoughts: is Bates determined? or does he waver?
+
+_Daw._ At first he seemed irresolute; wished the employment had been
+mine; and muttered curses on his coward hand, that trembled at the
+deed.
+
+_Stu._ And did he leave you so?
+
+_Daw._ No. We walked together; and sheltered by the darkness, saw
+Beverley and Lewson in warm debate. But soon they cooled; and then
+I left them, to hasten hither; but not till 'twas resolved Lewson
+should die.
+
+_Stu._ Thy words have given me life. That quarrel too was fortunate;
+for if my hopes deceive me not, it promises a grave to Beverley.
+
+_Daw._ You misconceive me. Lewson and he were friends.
+
+_Stu._ But My prolific brain shall make them enemies. If Lewson
+falls, he falls by Beverley: an upright jury shall decree it. Ask me
+no questions, but do as I direct. This writ (_Takes out a pocket
+book_) for some days past, I have treasured here, till a convenient
+time called for its use. That time is come. Take it, and give it to
+an officer. It must be served this instant.
+    [_Gives a paper._
+
+_Daw._ On Beverley?
+
+_Stu._ Look at it. 'Tis for the sums that I have lent him.
+
+_Daw._ Must he to prison then?
+
+_Stu._ I asked obedience; not replies. This night a jail must be his
+lodging. 'Tis probable he's not gone home yet. Wait at his door, and
+see it executed.
+
+_Daw._ Upon a beggar? He has no means of payment.
+
+_Stu._ Dull and insensible! If Lewson dies, who was it killed him?
+Why, he that was seen quarrelling with him; and I that knew of
+Beverley's intents, arrested him in friendship--A little late,
+perhaps; but 'twas a virtuous act, and men will thank me for it.
+Now, Sir, you understand me?
+
+_Daw._ Most perfectly; and will about it.
+
+_Stu._ Haste then; and when 'tis done, come back and tell me.
+
+_Daw._ 'Till then farewel.
+    [_Exit._
+
+_Stu._ Now tell thy tale, fond wife! And, Lewson, if again thou
+can'st insult me, I'll kneel and own thee for my master.
+
+_Not av'rice now, but vengeance fires my breast
+And one short hour must make me curst, or blest._
+
+    [_Exit._
+
+
+
+
+ACT V.
+
+
+SCENE I. _Enter STUKELY, BATES, and DAWSON._
+
+_Bates._ Poor Lewson! But I told you enough last night. The thoughts
+of him are horrible to me.
+
+_Stu._ In the street, did you say? And no one near him?
+
+_Bates._ By his own door; he was leading me to his house.
+I pretended business with him, and stabbed him to the heart, while he
+was reaching at the bell.
+
+_Stu._ And did he fall so suddenly?
+
+_Bates._ The repetition pleases you, I see. I told you, he fell
+without a groan.
+
+_Stu._ What heard you of him this morning?
+
+_Bates._ That the watch found him in their rounds, and alarmed the
+servants. I mingled with the crowd just now, and saw him dead in his
+own house. The sight terrified me.
+
+_Stu._ Away with terrors, till his ghost rise and accuse us. We have
+no living enemy to fear--unless 'tis Beverley; and him we have
+lodged safe in prison.
+
+_Bates._ Must He be murdered too?
+
+_Stu._ No; I have a scheme to make the law his murderer. At what
+hour did Lewson fall?
+
+_Bates._ The clock struck twelve, just as I turned to leave him.
+'Twas a melancholy bell, I thought, tolling for his death.
+
+_Stu._ The time was lucky for us. Beverley was arrested at one, you
+say?
+    [_To Dawson._
+
+_Daw._ Exactly.
+
+_Stu._ Good. We'll talk of this presently. The women were with him,
+I think?
+
+_Daw._ And old Jarvis. I would have told you of them last night, but
+your thoughts were too busy. 'Tis well you have a heart of stone,
+the tale would melt it else.
+
+_Stu._ Out with it then.
+
+_Daw._ I traced him to his lodgings; and pretending pity for his
+misfortunes, kept the door open, while the officers seized him.
+'Twas a damned deed--but no matter--I followed my instructions.
+
+_Stu._ And what said he?
+
+_Daw._ He upbraided me with treachery, called You a villain,
+acknowledged the sums you had lent him, and submitted to his fortune.
+
+_Stu._ And the women--
+
+_Daw._ For a few minutes astonishment kept them silent. They looked
+wildly at one another, while the tears streamed down their cheeks.
+But rage and fury soon gave them words; and then, in the very
+bitterness of despair, they cursed me, and the monster that had
+employed me.
+
+_Stu._ And you bore it with philosophy?
+
+_Daw._ Till the scene changed, and then I melted. I ordered the
+officers to take away their prisoner. The women shrieked, and would
+have followed him; but We forbad them. 'Twas then they fell upon
+their knees, the wife fainting, the sister raving, and both, with
+all the eloquence of misery, endeavouring to soften us. I never felt
+compassion till that moment; and had the officers been moved like
+Me, we had left the business undone, and fled with curses on
+ourselves. But their hearts were steeled by custom: the tears of
+beauty, and the pangs of affection, were beneath their pity. They
+tore him from their arms, and lodged him in prison, with only Jarvis
+to comfort him.
+
+_Stu._ There let him lie, till we have farther business with him.
+And for You, Sir, let me hear no more of your compassion. A fellow
+nursed in villainy, and employed from childhood in the business of
+hell, should have no dealings with compassion.
+
+_Daw._ Say you so, Sir? You should have named the devil that tempted
+me.
+
+_Stu._ 'Tis false. I found you a villain; therefore employed
+you--But no more of this--We have embarked too far in mischief to
+recede. Lewson is dead; and we are all principals in his murder.
+Think of that. There's time enough for pity, when ourselves are out
+of danger. Beverley still lives, though in a jail. His ruin will sit
+heavy on him; and discoveries may be made to undo us all. Something
+must be done, and speedily. You saw him quarrelling with Lewson in
+the street last night?
+    [_To Bates._
+
+_Bates._ I did; his steward, Jarvis, saw him too.
+
+_Stu._ And shall attest it. Here's matter to work upon. An unwilling
+evidence carries weight with him. Something of my design I have
+hinted t'you before. Beverley must be the author of this murder; and
+We the parties to convict him. But how to proceed, will require time
+and thought--Come along with Me; the room within is fitter for
+privacy. But no compassion, Sir--(_To Dawson_) We want leisure
+for't--This way.
+    [_Exeunt._
+
+
+SCENE II. _changes to _BEVERLEY'S_ lodgings_.
+
+_Enter Mrs. BEVERLEY, and CHARLOTTE._
+
+_Mrs. Bev._ No news of Lewson yet?
+
+_Char._ None. He went out early, and knows not what has happened.
+
+_Mrs. Bev._ The clock strikes eight--I'll wait no longer.
+
+_Char._ Stay but till Jarvis comes. He has sent twice to stop us
+till we see him.
+
+_Mrs. Bev._ I have no life in this separation. O! what a night was
+last night! I would not pass another such, to purchase worlds by it.
+My poor Beverley too! What must He have felt!--The very thought
+distracts me! To have him torn at midnight from me! A loathsome
+prison his habitation! A cold damp room his lodging! The bleak
+winds, perhaps, blowing upon his pillow! No fond wife to lull him to
+his rest! and no reflections but to wound and tear him!--'Tis too
+horrible! I wanted love for him, or they had not forced him from me.
+They should have parted soul and body first. I was too tame.
+
+_Char._ You must not talk so. All that we could we did; and Jarvis
+did the rest. The faithful creature will give him comfort. Why does
+he delay coming?
+
+_Mrs. Bev._ And there's another fear. His poor master may be
+claiming the last kind office from him--His heart perhaps is breaking.
+
+_Char._ See where he comes!--His looks are chearful too.
+
+
+SCENE III.
+
+_Enter JARVIS._
+
+_Mrs. Bev._ Are tears then chearful? Alas, he weeps! Speak to him
+Charlotte: I have no tongue to ask him questions.
+
+_Char._ How does your master, Jarvis?
+
+_Jar._ I am old and foolish, madam; and tears will come before my
+words--But don't You weep. (_To Mrs. Beverley._) I have a tale of
+joy for you.
+
+_Mrs. Bev._ What tale? Say but he's well, and I have joy enough.
+
+_Jar._ His mind too shall be well; all shalt be well--I have news
+for him that shall make his poor heart bound again!--Fie upon old
+age! how childish it makes me! I have a tale of joy for you, and my
+tears drown it.
+
+_Char._ Shed them in showers then, and make haste to tell it.
+
+_Mrs. Bev._ What is it, Jarvis?
+
+_Jar._ Yet why should I rejoice when a good man dies? Your uncle,
+madam, died yesterday.
+
+_Mrs. Bev._ My uncle!--O heavens!
+
+_Char._ How heard you of his death?
+
+_Jar._ His steward came express, madam: I met him in the street,
+enquiring for your lodgings. I should not rejoice, perhaps; but he
+was old, and my poor master a prisoner--Now he shall live again--O,
+'tis a brave fortune! and 'twas death to me to see him a prisoner.
+
+_Char._ Where left you the steward?
+
+_Jar._ I would not bring him hither, to be a witness of your
+distresses--and besides, I wanted once before I die, to be the
+messenger of joy t'you. My good master will be a man again.
+
+_Mrs. Bev._ Haste, haste then; and let us fly to him!--We are
+delaying our own happiness.
+
+_Jar._ I had forgot a coach, madam; and Lucy has ordered one.
+
+_Mrs. Bev._ Where was the need of that? The news has given me wings.
+
+_Char._ I have no joy, till my poor brother shares it with me. How
+did he pass the night, Jarvis?
+
+_Jar._ Why now, madam, I can tell you. Like a man dreaming of death
+and horrors. When they led him to his cell--for 'twas a poor
+apartment for my master--he flung himself upon a wretched bed, and
+lay speechless till day-break. A sigh now and then, and a few tears
+that followed those sighs, were all that told me he was alive.
+I spoke to him, but he would not hear me; and when I persisted, he
+raised his hand at me, and knit his brow so--I thought he would have
+struck me.
+
+_Mrs. Bev._ O miserable! But what said he, Jarvis? Or was he silent
+all night?
+
+_Jar._ At day-break he started from the bed, and looking wildly at
+me, asked who I was. I told him, and bid him be of comfort--Begone,
+old wretch, says he--I have sworn never to know comfort--My wife! my
+child! my sister! I have undone them all, and will know no
+comfort--Then letting go his hold, and falling upon his knees, he
+imprecated curses on himself.
+
+_Mrs. Bev._ This is too horrible!--But you did not leave him
+so?
+
+_Char._ No, I am sure he did not.
+
+_Jar._ I had not the heart, madam. By degrees I brought him to
+himself. A shower of tears came to his relief; and then he called me
+his kindest friend, and begged forgiveness of me like a child--I was
+a child too, when he begged forgiveness of me; my heart throbbed so,
+I could not speak to him. He turned from me for a minute or two, and
+suppressing a few bitter sighs, enquired after his wretched
+family--Wretched was his word, madam--Asked how you bore the misery
+of last night--If you had goodness enough to see him in prison--And
+then begged me to hasten to you. I told him he must be more himself
+first--He promised me he would; and, bating a few sullen intervals,
+he became composed and easy. And then I left him; but not without an
+attendant; a servant in the prison, whom I hired to wait upon him.
+'Tis an hour since we parted: I was prevented in my haste, to be the
+messenger of joy t'you.
+
+_Mrs. Bev._ What a tale is this?--But we have staid too long--A
+coach is needless.
+
+_Char._ Hark! I hear one at the door.
+
+_Jar._ And Lucy comes to tell us--We'll away this moment.
+
+_Mrs. Bev._ To comfort him, or die with him.
+    [_Exeunt._
+
+
+SCENE IV. _changes to STUKELY's lodgings_.
+
+_Enter STUKELY, BATES, and DAWSON._
+
+_Stu._ Here's presumptive evidence at least: or if we want more,
+why, we must swear more. But all unwillingly: we gain credit by
+reluctance. I have told you how to proceed. Beverley must die. We
+hunt him in view now, and must not slacken in the chace. 'Tis either
+death for Him, or shame and punishment for Us. Think of that, and
+remember your instructions. You, Bates, must to the prison
+immediately: I would be there but a few minutes before you. And you,
+Dawson, must follow in a few minutes after. So here we divide--But
+answer me; are you resolved upon this business like men?
+
+_Bates._ Like villains rather--But you may depend upon us.
+
+_Stu._ Like what we are then--You make no answer, Dawson--Compassion,
+I suppose, has seized you.
+
+_Daw._ No; I have disclaimed it. My answer is Bates's--You may
+depend upon me.
+
+_Stu._ Consider the reward! Riches and security! I have sworn to
+divide with you to the last shilling. So here we separate, till we
+meet in prison. Remember your instructions, and be men.
+    [_Exeunt._
+
+
+SCENE V. _changes to a prison._
+
+_BEVERLEY is discovered sitting. After a short pause, he starts up,
+and comes forward._
+
+_Bev._ Why, there's an end then. I have judged deliberately, and the
+result is death. How the self-murderer's account may stand, I know
+not. But this I know; the load of hateful life oppresses me too
+much. The horrors of my soul are more than I can bear--(_Offers to
+kneel_) Father of mercy!--I cannot pray--Despair has laid his iron
+hand upon me, and sealed me for perdition--Conscience! conscience!
+thy clamours are too loud--Here's that shall silence them. (_Takes a
+vial out of his pocket, and looks at it._) Thou art most friendly to
+the miserable. Come then, thou cordial for sick minds! come to my
+heart! (_Drinks_) O, that the grave would bury memory as well as
+body! For if the soul sees and feels the sufferings of those dear
+ones it leaves behind, the EVERLASTING has no vengeance to torment
+it deeper--I'll think no more on't--Reflection comes too late. Once
+there was a time for't--but now 'tis past--Who's there?
+
+
+SCENE VI.
+
+_Enter JARVIS._
+
+_Jar._ One that hoped to see you with better looks. Why do you turn
+so from me? I have brought comfort with me--And see who comes to
+give it welcome!
+
+_Bev._ My wife and sister! Why, 'tis but one pang more then, and
+farewel world.
+    [_Aside._
+
+
+SCENE VII.
+
+_Enter Mrs. BEVERLEY, and CHARLOTTE._
+
+_Mrs. Bev._ Where is he? (_Runs and embraces him_) O, I have him!
+I have him! And now they shall never part us more! I have news, love,
+to make you happy for ever--but don't look coldly on me.
+
+_Char._ How is it, brother?
+
+_Mrs. Bev._ Alas! he hears us not. Speak to me, love. I have no
+heart to see you thus.
+
+_Bev._ Nor I to bear the sense of so much shame. This is a sad place.
+
+_Mrs. Bev._ We come to take you from it; to tell you that the world
+goes well again; that providence has seen our sorrows, and sent the
+means to heal them--Your uncle died yesterday.
+
+_Bev._ My uncle!--No, do not say so--O! I am sick at heart!
+
+_Mrs. Bev._ Indeed!--I meant to bring you comfort. _Bev._ Tell me he
+lives then--If you would give me comfort, tell me he lives.
+
+_Mrs. Bev._ And if I did, I have no power to raise the dead. He died
+yesterday.
+
+_Bev._ And I am heir to him?
+
+_Jar._ To his whole estate, Sir--But bear it patiently.
+
+_Bev._ Well, well--(_Pausing_) Why, fame says I am rich then?
+
+_Mrs. Bev._ And truly so--Why do you look so wildly?
+
+_Bev._ Do I? The news was unexpected. But has he left me all?
+
+_Jar._ All, all, Sir--He could not leave it from you.
+
+_Bev._ I'm sorry for it.
+
+_Char._ Sorry! Why sorry?
+
+_Bev._ Your uncle's dead, Charlotte.
+
+_Char._ Peace be with his soul then. Is it so terrible that an old
+man should die?
+
+_Bev._ He should have been immortal.
+
+_Mrs. Bev._ Heaven knows I wished not for his death. 'Twas the will
+of providence that he should die. Why are you disturbed so?
+
+_Bev._ Has death no terrors in it?
+
+_Mrs. Bev._ Not an old man's death. Yet if it troubles you, I wish
+him living.
+
+_Bev._ And I, with all my heart.
+
+_Char._ Why, what's the matter?
+
+_Bev._ Nothing. How heard you of his death?
+
+_Mrs. Bev._ His steward came express. Would I had never known
+it!
+
+_Bev._ Or had heard it one day sooner--For I have a tale to tell,
+shall turn you into stone; or if the power of speech, remain, you
+shall kneel down and curse me.
+
+_Mrs. Bev._ Alas! what tale is this? And why are we to curse you?
+I'll bless you for ever.
+
+_Bev._ No; I have deserved no blessings. The world holds not such
+another wretch. All this large fortune, this second bounty of
+heaven, that might have healed our sorrows, and satisfied our utmost
+hopes, in a curst hour I sold last night.
+
+_Char._ Sold! How sold?
+
+_Mrs. Bev._ Impossible! It cannot be!
+
+_Bev._ That devil Stukely, with all hell to aid him, tempted me to
+the deed. To pay false debts of honour, and to redeem past errors,
+I sold the reversion--sold it for a scanty sum, and lost it among
+villains.
+
+_Char._ Why, farewel all then.
+
+_Bev._ Liberty and life. Come, kneel and curse me.
+
+_Mrs. Bev._ Then hear me heaven! (_Kneels_) Look down with mercy on
+his sorrows! Give softness to his looks, and quiet to his heart!
+Take from his memory the sense of what is past, and cure him of
+despair! On Me, on Me, if misery must be the lot of either, multiply
+misfortunes! I'll bear them patiently, so He is happy! These hands
+shall toil for his support! These eyes be lifted up for hourly
+blessings on him! And every duty of a fond and faithful wife, be
+doubly done to chear and comfort him!--So hear me! so reward
+me!
+    [_Rises_.
+
+_Bev._ I would kneel too, but that offended heaven would turn my
+prayers to curses. What have I to ask for? I, who have shook hands
+with hope? Is it for length of days that I should kneel? No; My time
+is limited. Or is it for this world's blessings upon You and Yours?
+To pour out my heart in wishes for a ruined wife, a child and
+sister? O! no! For I have done a deed to make you miserable.
+
+_Mrs. Bev._ Why miserable? Is poverty so miserable?--The real wants
+of life are few: a little industry will supply them all; and
+chearfulness will follow. It is the privilege of honest industry;
+and we'll enjoy it fully.
+
+_Bev._ Never, never! O, I have told you but in part. The irrevocable
+deed is done.
+
+_Mrs. Bev._ What deed? And why do you look so at me?
+
+_Bev._ A deed, that dooms my soul to vengeance; that seals Your
+misery here, and Mine hereafter.
+
+_Mrs. Bev._ No, no; You have a heart too good for't-- Alas! he
+raves, Charlotte--his looks too terrify me--Speak comfort to him--He
+can have done no deed of wickedness.
+
+_Char._ And yet I fear the worst. What is it, brother?
+
+_Bev._ A deed of horror.
+
+_Jar._ Ask him no questions, madam. This last misfortune has hurt
+his brain. A little time will give him patience.
+
+
+SCENE VIII.
+
+_Enter STUKELY._
+
+_Bev._ Why is this villain here?
+
+_Stu._ To give You liberty and safety. There's his discharge, madam.
+(_Giving a paper to Mrs. Beverley_) Let him begone this moment. The
+arrest last night was meant in friendship; but came too late.
+
+_Char._ What mean you, Sir?
+
+_Stu._ The arrest was too late, I say. I would have kept his hands
+from blood, but was too late.
+
+_Mrs. Bev._ His hands from blood! Whose blood?--O, wretch!
+wretch!
+
+_Stu._ From Lewson's blood.
+
+_Char._ No, villain! Yet what of Lewson? Speak quickly!
+
+_Stu._ You are ignorant then! I thought I heard the murderer at
+confession.
+
+_Char._ What murderer? And who is murdered? Not Lewson? Say he
+lives, and I'll kneel down and worship you.
+
+_Stu._ In pity, so I would; but that the tongues of all cry murder.
+I came in pity, not in malice; to save the brother, not kill the
+sister. Your Lewson's dead.
+
+_Char._ O horrible! Why, who has killed him?--And yet it cannot be.
+What crime had He committed that he should die? Villain! he lives!
+he lives! and shall revenge these pangs.
+
+_Mrs. Bev._ Patience, sweet Charlotte!
+
+_Char._ O, 'tis too much for patience!
+
+_Mrs. Bev._ He comes in pity, he says. O! execrable villain! The
+friend is killed then, and this the murderer?
+
+_Bev._ Silence, I charge you. Proceed, Sir.
+
+_Stu._ No. Justice may stop the tale--and here's an evidence.
+
+
+SCENE IX.
+
+_Enter BATES._
+
+_Bates._ The news, I see, has reached you. But take comfort, madam.
+(_To Charlotte_) There's one without, enquiring for you. Go to him,
+and lose no time.
+
+_Char._ O misery! misery!
+    [_Exit_.
+
+_Mrs. Bev._ Follow her, Jarvis. If it be true that Lewson's dead,
+her grief may kill her.
+
+_Bates._ Jarvis must stay here, madam: I have some questions for him.
+
+_Stu._ Rather let him fly. His evidence may crush his master.
+
+_Bev._ Why, ay; this looks like management.
+
+_Bates._ He found you quarrelling with Lewson in the street last
+night.
+    [_To Beverley._
+
+_Mrs. Bev._ No; I am sure he did not.
+
+_Jar._ Or if I did--
+
+_Mrs. Bev._ 'Tis false, old man--They had no quarrel; there was no
+cause for quarrel.
+
+_Bev._ Let him proceed, I say--O! I am sick! sick! Reach me a chair.
+    [_He sits down._
+
+_Mrs. Bev._ You droop, and tremble, love--Your eyes are fixt
+too--Yet You are innocent. If Lewson's dead, You killed him
+not.
+
+
+SCENE X.
+
+_Enter DAWSON._
+
+_Stu._ Who sent for Dawson?
+
+_Bates._ 'Twas I. We have a witness too, you little think of.
+Without there!
+
+_Stu._ What witness?
+
+_Bates._ A right one. Look at him.
+
+
+SCENE XI.
+
+_Re-enter CHARLOTTE, with LEWSON._
+
+_Stu._ Lewson! O--villains! villains!
+    [_To Bates and Dawson._
+
+_Mrs. Bev._ Risen from the dead! Why, this is unexpected happiness!
+
+_Char._ Or is't his ghost? (_To Stukely_) That sight would please
+you, Sir.
+
+_Jar._ What riddle's this?
+
+_Bev._ Be quick and tell it--My minutes are but few.
+
+_Mrs. Bev._ Alas! why so? You shall live long and happily.
+
+_Lew._ While shame and punishment shall rack that viper. (_Pointing
+to Stukely_) The tale is short. I was too busy in his secrets, and
+therefore doomed to die. Bates, to prevent the murder, undertook it.
+I kept aloof to give it credit--
+
+_Char._ And gave Me pangs unutterable.
+
+_Lew._ I felt them all, and would have told you; but vengeance
+wanted ripening. The villain's scheme was but half executed. The
+arrest by Dawson followed the supposed murder: and now, depending on
+his once wicked associates, he comes to fix the guilt on Beverley.
+
+_Mrs. Bev._ O! execrable wretch!
+
+_Bates._ Dawson and I are witnesses of this.
+
+_Lew._ And of a thousand frauds. His friend undone by sharpers and
+false dice; and Stukely sole contriver, and possessor of all.
+
+_Daw._ Had he but stopt on this side murder, we had been villains
+still.
+
+_Mrs. Bev._ Thus heaven turns evil into good; and by permitting sin,
+warns men to virtue.
+
+_Lew._ Yet punishes the instrument. So shall our laws; though not
+with death. But death were mercy. Shame, beggary, and imprisonment,
+unpitied misery, the stings of conscience, and the curses of mankind
+shall make life hateful to him--till at last, his own hand end him.
+How does my friend?
+    [_To Beverley_.
+
+_Bev._ Why, well. Who's he that asks me?
+
+_Mrs. Bev._ Tis Lewson, love. Why do you look so at him?
+
+_Bev._ They told me he was murdered.
+    [_Wildly._
+
+_Mrs. Bev._ Ay; but he lives to save us.
+
+_Bev._ Lend me your hand--The room turns round.
+
+_Mrs. Bev._ O heaven!
+
+_Lew._ This villain here, disturbs him. Remove him from his sight:
+and for your lives, see that you guard him. (_Stukely is taken off
+by Dawson and Bates_) How is it, Sir?
+
+_Bev._ 'Tis here--and here--(_Pointing to his head and heart._) And
+now it tears me!
+
+_Mrs. Bev._ You feel convulsed too--What is't disturbs you?
+
+_Lew._ This sudden turn of joy perhaps. He wants rest too. Last
+night was dreadful to him. His brain is giddy.
+
+_Char._ Ay, never to be cured. Why, brother!--O! I fear!
+I fear!
+
+_Mrs. Bev._ Preserve him, heaven!--My love! my life! look at
+me!--How his eyes flame!
+
+_Bev._ A furnace rages in this heart--I have been too hasty.
+
+_Mrs. Bev._ Indeed!--O me! O me!--Help, Jarvis! Fly, fly for help!
+Your master dies else--Weep not, but fly! (_Exit Jarvis_) What is
+this hasty deed?--Yet do not answer me--My fears have guessed
+it.
+
+_Bev._ Call back the messenger. 'Tis not in medicine's power to help
+me.
+
+_Mrs. Bev._ Is it then so?
+
+_Bev._ Down, restless flames!--(_Laying his hand on his heart_) down
+to your native hell!-- there you shall rack me--O! for a pause from
+pain!
+
+_Mrs. Bev._ Help, Charlotte! Support him, Sir! (_To Lewson_)
+
+_Bev._ What river's this? I'll plunge, and cool me! (_Flings himself
+upon the ground._) O! 'tis a sea of fire!--Lift me! lift me!
+    [_They raise him to his chair._
+
+_Mrs. Bev._ This is a killing fight!
+
+_Bev._ (_Starting_) That pang was well. It has numbed my senses.
+Where's my wife? Can you forgive me, love?
+
+_Mrs. Bev._ Alas! for what?
+
+_Bev._ (_Starting again_) And there's another pang--Now all is
+quiet. Will you forgive me?
+
+_Mrs. Bev._ I will. Tell me for what?
+
+_Bev._ For meanly dying.
+
+_Mrs. Bev._ No--do not say it.
+
+_Bev._ As truly as my soul must answer it. Had Jarvis staid this
+morning, all had been well. But pressed by shame; pent in a prison;
+tormented with my pangs for You; driven to despair and madness;
+I took the advantage of his absence, corrupted the poor wretch he
+left to guard me, and--swallowed poison.
+
+_Mrs. Bev._ O! fatal deed!
+
+_Char._ Dreadful and cruel!
+
+_Bev._ Ay, most accursed--And now I go to my account. This rest from
+pain brings death; yet 'tis heaven's kindness to me. I wished for
+ease, a moment's ease, that cool repentance and contrition might
+soften vengeance. Bend me, and let me kneel. (_They lift him from
+his chair, and support him on his knees_) I'll pray for You too.
+Thou Power that mad'st me, hear me! If for a life of frailty, and
+this too hasty deed of death, thy justice dooms me, here I acquit
+the sentence. But if, enthroned in mercy where thou sitt'st, thy
+pity has beheld me, send me a gleam of hope; that in these last and
+bitter moments, my soul may taste of comfort! And for these mourners
+here, O! let their lives be peaceful, and their deaths happy! Now
+raise me.
+    [_They lift him to the chair._
+
+_Mrs. Bev._ Restore him, heaven! Stretch forth thy arm omnipotent,
+and snatch him from the grave! O save him! save him!
+
+_Bev._ Alas! that prayer is fruitless: already death has seized me.
+Yet heaven is gracious. I asked for hope, as the bright presage of
+forgiveness, and like a light, blazing through darkness, it came and
+cheared me. 'Twas all I lived for, and now I die.
+
+_Mrs. Bev._ Not yet!--Not yet!--Stay but a little, and I'll die too.
+
+_Bev._ No; live, I charge you. We have a little one: though I have
+left him, You will not leave him. To Lewson's kindness I bequeath
+him--Is not this Charlotte? We have lived in love, though I have
+wronged you--Can you forgive me, Charlotte?
+
+_Char._ Forgive you!--O, my poor brother!
+
+_Bev._ Lend me your hand, love. So--raise me--No--'twill not be--my
+life is finished--O! for a few short moments to tell you how my
+heart bleeds for you!--That even now, thus dying as I am, dubious
+and fearful of hereafter, my bosom pang is for Your miseries!--Support
+her heaven!--And now I go--O, mercy! mercy!
+    [_Dies._
+
+_Lew._ Then all is over--How is it, madam? (_To Mrs. Beverley._) My
+poor Charlotte too!
+
+
+SCENE the last.
+
+_Enter JARVIS._
+
+_Jar._ How does my master, madam? Here's help at hand--Am I too late
+then?
+    [_Seeing Beverley._
+
+_Char._ Tears! tears! why fall you not? O wretched sister!--Speak to
+her, Lewson--her grief is speechless.
+
+_Lew._ Remove her from this sight. Go to her, Jarvis; lead and
+support her. Sorrow like hers forbids complaint. Words are for
+lighter griefs. Some ministring angel bring her peace! (_Jarvis and
+Charlotte lead her off._) And Thou, poor breathless corps, may thy
+departed soul have found the rest it prayed for! Save but one error,
+and this last fatal deed, thy life was lovely. Let frailer minds
+take warning; and from example learn, that want of prudence is want
+of virtue.
+
+  Follies, if uncontroul'd, of every kind,
+  Grow into passions, and subdue the mind;
+  With sense and reason hold superior strife,
+  And conquer honour, nature, fame and life.
+
+
+
+
+EPILOGUE.
+
+Written by a FRIEND,
+
+And Spoken by Mrs. PRITCHARD.
+
+  On every GAMESTER in th' Arabian nation,
+  'Tis said, that Mahomet denounc'd damnation;
+  But in return for wicked cards and dice,
+  He gave them black-ey'd girls in paradise.
+  Should he thus preach, good countrymen, to You,
+  His converts would, I fear, be mighty few:
+  So much your hearts are set on sordid gain,
+  The brightest eyes around you shine in vain:
+  Should the most heav'nly beauty bid you take her,
+  You'd rather hold--_two aces and a maker._
+  By your example, our poor sex drawn in,
+  Is guilty of the same unnat'ral sin:
+  The study now of every girl of parts
+  Is how to win your money, not your hearts.
+  O! in what sweet, what ravishing delights,
+  Our beaux and belles together pass their nights!
+  By ardent perturbations kept awake,
+  Each views with longing eyes the other's--stake.
+  The _smiles_ and _graces_ are from Britain flown,
+  Our_ Cupid _is an errant sharper grown,
+  And _Fortune_ sits on _Cytherea_'s throne.
+  In all these things, though women may be blam'd,
+  Sure men, the wiser men, should be asham'd!
+  And 'tis a horrid scandal, I declare,
+  That four strange queens should rival all the fair;
+  Four jilts, with neither beauty, wit nor parts,
+  O shame! have got possession of their hearts;
+  And those bold sluts, for all their queenly pride,
+  Have play'd loose tricks, or else they're much bely'd.
+  Cards were at first for benefits design'd,
+  Sent to amuse, and not enslave the mind:
+  From good to bad how easy the transition!
+  For what was pleasure once, is now perdition.
+  Fair ladies, then these wicked GAMESTERS shun,
+  Whoever weds one, is, you see, undone.
+
+
+FINIS.
+
+
+  [Illustration: Act 5. The Gamester. Sc. 4.
+   Mr. REDDISH as BEVERLEY.
+   Bev.--_Thou art most friendly to the miserable._
+   _Published Octo. 19, 1776, by T. Lowndes & Partners_]
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+
+        _THE AUGUSTAN REPRINT SOCIETY_
+
+                Announces Its
+
+ _Publications for the Third Year (1948-1949)_
+
+[Transcriber's Note:
+Many of the listed titles are or will be available from Project
+Gutenberg. Where possible, the e-text number is given in brackets.]
+
+_At least two_ items will be printed from each of the _three_ following
+groups:
+
+Series IV: Men, Manners, and Critics
+
+Sir John Falstaff (pseud.), _The Theatre _(1720).
+Aaron Hill, Preface to _The Creation_; and Thomas Brereton, Preface to
+  _Esther_. [#15870]
+Ned Ward, Selected Tracts.
+
+Series V: Drama
+
+Edward Moore, _The Gamester _(1753).
+Nevil Payne, _Fatal Jealousy _(1673).
+Mrs. Centlivre, _The Busie Body _(1709).
+Charles Macklin, _Man of the World _(1781).
+
+Series VI: Poetry and Language
+
+John Oldmixon, _Reflections on Dr. Swift's Letter to Harley _(1712); and
+  Arthur Mainwaring, _The British Academy _(1712).
+Pierre Nicole, _De Epigrammate_.
+Andre Dacier, Essay on Lyric Poetry.
+
+
+
+
+        _THE AUGUSTAN REPRINT SOCIETY_
+
+                Makes Available
+
+   _Inexpensive Reprints of Rare Materials_
+
+                      from
+
+          English Literature of the
+     Seventeenth and Eighteenth Centuries
+
+
+Students, scholars, and bibliographers of literature, history, and
+philology will find the publications valuable. _The Johnsonian News
+Letter_ has said of them: "Excellent facsimiles, and cheap in price,
+these represent the triumph of modern scientific reproduction. Be sure
+to become a subscriber; and take it upon yourself to see that your
+college library is on the mailing list."
+
+The Augustan Reprint Society is a non-profit, scholarly organization,
+run without overhead expense. By careful management it is able to offer
+at least six publications each year at the unusually low membership fee
+of $2.50 per year in the United States and Canada, and $2.75 in Great
+Britain and the continent.
+
+Libraries as well as individuals are eligible for membership. Since the
+publications are issued without profit, however, no discount can be
+allowed to libraries, agents, or booksellers.
+
+New members may still obtain a complete run of the first year's
+publications for $2.50, the annual membership fee.
+
+During the first two years the publications are issued in three series:
+I. Essays on Wit; II. Essays on Poetry and Language; and III. Essays on
+the Stage.
+
+
+PUBLICATIONS FOR THE FIRST YEAR (1946-1947)
+
+MAY, 1946:
+Series I, No. 1--Richard Blackmore's _Essay upon Wit_ (1716), and
+Addison's _Freeholder_ No. 45 (1716). [#13484]
+
+JULY, 1946:
+Series II, No. 1--Samuel Cobb's _Of Poetry_ and _Discourse on Criticism_
+(1707). [#14528]
+
+SEPT., 1946:
+Series III, No. l--Anon., _Letter to A.H. Esq.; concerning the Stage_
+(1698) and Richard Willis' _Occasional Paper_ No. IX (1698).
+
+NOV., 1946:
+Series I, No. 2--Anon., _Essay on Wit_ (1748), together with Characters
+by Flecknoe, and Joseph Warton's _Adventurer_ Nos. 127 and 133. [#14973]
+
+JAN., 1947:
+Series II, No. 2--Samuel Wesley's _Epistle to a Friend Concerning
+Poetry_ (1700) and _Essay on Heroic Poetry_ (1693).
+
+MARCH, 1947:
+Series III, No. 2--Anon., _Representation of the Impiety and Immorality
+of the Stage_ (1704) and anon., _Some Thoughts Concerning the Stage_
+(1704). [#15656]
+
+
+PUBLICATIONS FOR THE SECOND YEAR (1947-1948)
+
+MAY, 1947:
+Series I, No. 3--John Gay's _The Present State of Wit_; and a section on
+Wit from _The English Theophrastus_. With an Introduction by Donald Bond.
+[#14800]
+
+JULY, 1947:
+Series II., No. 3--Rapin's _De Carmine Pastorali_, translated by Creech.
+With an Introduction by J.E. Congleton. [#14495]
+
+SEPT., 1947:
+Series III, No. 3--T. Hanmer's (?), _Some Remarks on the Tragedy of
+Hamlet_. With an Introduction by Clarence D. Thorpe. [#14899]
+
+NOV., 1947:
+Series I, No. 4--Corbyn Morris' _Essay towards Fixing the True Standards
+of Wit_, etc. With an Introduction by James L. Clifford. [#16233]
+
+JAN., 1948:
+Series II, No. 4--Thomas Purney's _Discourse on the Pastoral_. With an
+Introduction by Earl Wasserman.
+
+MARCH, 1948:
+Series III, No. 4--Essays on the Stage, selected, with an Introduction
+by Joseph Wood Krutch.
+
+
+
+
+The list of publications is subject to modification in response to
+requests by members. From time to time Bibliographical Notes will
+be included in the issues. Each issue contains an Introduction by a
+scholar of special competence in the field represented.
+
+The Augustan Reprints are available only to members. They will never
+be offered at "remainder" prices.
+
+
+_GENERAL EDITORS_
+
+RICHARD C. BOYS, _University of Michigan_
+EDWARD NILES HOOKER, _University of California, Los Angeles_
+H.T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+
+_ADVISORY EDITORS_
+
+EMMETT L. AVERY, _State College of Washington_
+LOUIS I. BREDVOLD, _University of Michigan_
+BENJAMIN BOYCE, _University of Nebraska_
+CLEANTH BROOKS, _Louisiana State University_
+JAMES L. CLIFFORD, _Columbia University_
+ARTHUR FRIEDMAN, _University of Chicago_
+SAMUEL H. MONK, _University of Minnesota_
+JAMES SUTHERLAND, _Queen Mary College, London_
+
+
+
+
+[Errata Noted by Transcriber:
+
+Editor's Introduction and _Gamester_ text:
+  The main character's name is spelled "Beverly" in the Introduction,
+  "Beverley" in the play as originally printed. This has been left
+  unchanged.
+
+ACT III, SCENE I: opening
+  _STUKELY'S lodgings_.
+    _text reads_ STUKELEY'S...
+
+ACT V, SCENE VIII: opening
+  _Enter STUKELY._
+    _text reads_ STUKLEY. ]
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE GAMESTER (1753) ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

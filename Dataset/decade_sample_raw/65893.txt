@@ -1,0 +1,2468 @@
+﻿The Project Gutenberg eBook of Atoms at the Science Fair: Exhibiting Nuclear Projects
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Atoms at the Science Fair: Exhibiting Nuclear Projects
+
+Author: Robert G. LeCompte
+        Burrell L. Wood
+
+
+        
+Release date: July 21, 2021 [eBook #65893]
+                Most recently updated: October 18, 2024
+
+Language: English
+
+Original publication: United States: U. S. Atomic Energy Commission, 1968
+
+Other information and formats: www.gutenberg.org/ebooks/65893
+
+Credits: Stephen Hutcheson and the Online Distributed Proofreading Team at https://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK ATOMS AT THE SCIENCE FAIR: EXHIBITING NUCLEAR PROJECTS ***
+
+                       Atoms at the Science Fair
+                      EXHIBITING NUCLEAR PROJECTS
+
+
+    U.S. ATOMIC ENERGY COMMISSION/Division of Technical Information
+
+
+Each year more students undertake science fair projects, many of which
+involve some aspect of nuclear science or technology.
+
+The United States Atomic Energy Commission has prepared this booklet to
+help these young exhibitors, their science teachers, project counselors,
+and parents.
+
+The booklet suggests also some of the numerous nuclear topics on which
+students can base meaningful science projects. It offers all
+exhibitors—regardless of age, experience, or project topic—advice on how
+to plan, design, and construct successful exhibits. It describes some
+rewards awaiting those who win their way to the National Science
+Fair-International, including 10 AEC Special Awards offered for the most
+outstanding nuclear exhibits.
+
+Detailed advice on conducting science projects is omitted, partly
+because several earlier publications deal with the subject, but also
+because much of the personal satisfaction gained while doing a science
+project stems from the student investigator’s opportunity to exercise
+his initiative, imagination, and judgment in solving a problem of his
+own choice, in his own way.
+
+We trust this booklet will encourage students to enter science fair
+competition, and hope it will help their advisers guide them toward
+better projects and more successful exhibits.
+
+                                                  {Edward J. Brunenkant}
+                                          Edward J. Brunenkant, Director
+                                       Division of Technical Information
+
+
+
+
+                       Atoms at the Science Fair
+                      Exhibiting Nuclear Projects
+
+
+                               by Robert G. LeCompte and Burrell L. Wood
+
+
+
+
+                                CONTENTS
+
+
+  SCIENCE PROJECTS, EXHIBITS, AND FAIRS                                1
+      Science Projects                                                 1
+      Project Exhibits                                                 2
+      Science Fairs                                                    2
+  YOUR SCIENCE PROJECT                                                 4
+      Choosing the Topic                                               4
+      Where to Get Help                                                8
+      Documenting Your Work                                            9
+  EXHIBITING YOUR SCIENCE PROJECT                                     11
+      Planning the Content of Your Exhibit                            11
+      How Exhibits Are Judged                                         12
+      Designing Your Exhibit                                          16
+      About Color                                                     25
+      Completing Your Exhibit                                         27
+  COMPETITION AND ITS REWARDS                                         30
+  QUO VADIS?                                                          34
+  APPENDIX I—NUCLEAR SCIENCE PROJECT IDEAS                            37
+  APPENDIX II—NUCLEAR ENERGY-RELATED INVESTIGATIONS AND APPLICATIONS  47
+  APPENDIX III—SUGGESTED REFERENCES                                   48
+  APPENDIX IV—WORKING WITH RADIATION AND RADIOACTIVE MATERIALS        50
+  APPENDIX V—SUPPLIERS OF RADIOISOTOPES                               51
+  APPENDIX VI—INTERNATIONAL SCIENCE FAIR RULES                        52
+
+
+                 United States Atomic Energy Commission
+                   Division of Technical Information
+
+           Library of Congress Catalog Card Number: 64-65589
+                                  1968
+
+    [Illustration: Interviews help AEC Special Awards judges identify
+    the most outstanding nuclear-related exhibits entered in each
+    National Science Fair-International. Here, Elizabeth Winstead of
+    Jacksonville, Florida, explains her irradiated fruit flies to Dr.
+    Paul W. McDaniel, AEC Director of Research and a Special Awards
+    judge at the 1963 national fair, Albuquerque, New Mexico. Selected
+    as one of the 10 winners, Miss Winstead and her science teacher
+    spent a week at the Commission’s Argonne National Laboratory near
+    Chicago.]
+
+ROBERT G. LeCOMPTE majored in English (A. B., St. Benedict’s, 1935) and
+has worked primarily as a communicator—reporter, house-organ editor and
+photographer, military-information officer and instructor,
+public-relations consultant, and information and exhibits specialist. He
+joined the Atomic Energy Commission’s staff at Albuquerque, New Mexico,
+in 1951, transferring in 1957 to the AEC’s Headquarters, where he is
+Exhibits and Education Officer in the Division of Technical Information.
+His concern with science stems from aviation writing, World War II
+service as an Air Force pilot and technical-intelligence officer,
+science-news reporting, and requirements for presenting AEC
+scientific-technical developments to the lay public. He has been
+involved in science fair activities since 1960, when he began the study
+which led to establishment of AEC Special Awards for outstanding
+nuclear-related exhibits at the National Science Fair-International.
+
+BURRELL L. WOOD is a chemist (A.B. in French and B.S. in Chemistry,
+Presbyterian College, 1940; M.S. in Chemistry, University of Georgia,
+1942; Ph. D. in Chemistry, University of North Carolina, 1952). In 1953,
+while head of the Chemistry Department at Furman University, Dr. Wood
+organized a statewide science fair program in South Carolina. He moved
+to the New Mexico Institute of Mining and Technology in 1957, and
+expanded that state’s program by organizing four regional science fairs.
+He joined the staff of Science Service in 1960 and edited _Chemistry_
+magazine and “Things of Science” experimental kits. In 1961 he joined
+the Atomic Energy Commission’s Headquarters staff and is now Exhibit
+Coordinator in the Division of Special Projects. He served at the
+National Science Fair-International in 1962 and 1963 as a judge of
+nuclear-related exhibits considered for AEC Special Awards.
+
+
+
+
+                       Atoms at the Science Fair
+                      Exhibiting Nuclear Projects
+
+
+               by ROBERT G. LeCOMPTE and BURRELL L. WOOD
+
+
+
+
+                 SCIENCE PROJECTS, EXHIBITS, AND FAIRS
+
+
+In almost every area of endeavor, we learn best by _doing_. Books and
+lectures provide background, but it is by putting theory into practice
+that we make knowledge truly our own. To learn a language, we read and
+speak it. Our knowledge of mathematics follows practice at problem
+solving, and so it is with science.
+
+
+Science Projects
+
+In conducting a good science project, we work in much the same manner as
+professional scientists. Like them, we observe, experiment, investigate,
+speculate, and check the validity of our speculations with more
+experiments, all in order to learn something. If our work is good,
+others may learn from it too, but only if we present it adequately.
+
+Better understanding of an area of science is the least that we can gain
+from doing a science project. At their best, science projects foster
+habits of effective planning, attention to detail, careful work, and
+high performance standards that will serve us well throughout our lives.
+Moreover, there is always the promise that the project will open the
+door to a satisfying career.
+
+
+Project Exhibits
+
+More and more, scientists are called upon to share their work not only
+with other scientists but also with legislators, administrators,
+sociologists, artists—all kinds of people in all kinds of professions.
+To follow this lead, student scientists also must tell other people
+about their science projects.
+
+When executed properly, exhibits are an effective way to do this.
+Exhibits which combine interesting visual materials with well-written
+messages can communicate much in very limited time and space. Good
+exhibits can speak clearly to a great variety of viewers. Those already
+generally familiar with the subject may absorb the entire message, but
+even the uninitiated will find something of interest.
+
+
+Science Fairs
+
+Fairs have been popular throughout history. Generally they have been
+occasions to display work or feats of which people are proud. Often they
+have stimulated progress and the exchange of goods and ideas.
+
+Early in this century some teachers encouraged their students to
+undertake individual science projects, then exhibit them before their
+classmates and fellow students. Between the two World Wars some
+individual school systems developed citywide science fairs to show the
+most outstanding of these exhibits from each school. The science fair
+movement gained momentum rapidly after World War II, and in 1950 the
+First National Science Fair was held in Philadelphia, drawing exhibitors
+from 13 affiliated area fairs.
+
+Today the national event draws exhibitors from more than 200 affiliated
+state and regional fairs. Recent entry of competitors from several other
+countries has produced its new title—National Science Fair-International
+(NSFI). It is the “Olympic Games” for science fair exhibitors, conducted
+by Science Clubs of America, an activity of Science Service, 1719 N
+Street N. W., Washington, D. C.
+
+    [Illustration: _The growing international flavor of the national
+    science fair is exemplified in contestants like Anders S. Brahme,
+    Sweden’s entrant at Albuquerque in 1963, and the first non-U. S.
+    student to achieve Atomic Energy Commission Special Awards
+    recognition. He was one of 10 alternates to the 10 winners and is
+    shown receiving a Certificate of Achievement from Harry S. Traynor,
+    AEC Assistant General Manager._]
+
+Usually state and regional science fairs are limited, like the national
+event, to the 10th, 11th, and 12th grades, but occasionally they have a
+division for junior high school entrants. In school districts where
+junior high schools hold fairs, the district fair frequently includes
+both senior high and junior high divisions. Some elementary schools
+conduct science fairs for their 4th, 5th, and 6th grade students. In
+both the elementary and junior high school divisions, exhibitors usually
+compete against entrants of their own grade level, for example, 5th
+graders against 5th graders, and 9th graders against 9th graders. In the
+senior division each entrant competes against all others. Although the
+overall quality of exhibits at local fairs is rarely up to that of
+regional, state, and national fairs, the local events are possibly the
+most valuable educational tools because they are viewed by so large a
+“grass-roots” audience of classmates, parents, teachers, and other local
+citizens.
+
+In science fairs—as in athletics or music—top prizes are seldom won by
+first-time competitors. Almost all national fair exhibitors have
+participated in science fairs at various levels for a year or more
+before winning their way into the national event. Both experience in
+science projects and practice in display techniques are required to
+develop outstanding exhibits. Since this is true, the time to start the
+science project which will form the basis for your exhibit is now!
+
+
+
+
+                          YOUR SCIENCE PROJECT
+
+
+Choosing the Topic
+
+Since you will necessarily spend considerable thought, time, physical
+effort, and (sometimes) money on your project, pick a topic from which
+you can expect to learn something. If you can avoid the temptation to
+pick one with which you are already familiar, you will probably get more
+out of it. Your project should be an adventure, not merely a drill!
+
+On the other hand your science project need not be in utterly unexplored
+areas; to be successful you need not come up with data and conclusions
+which will confound professional scientists who have spent their lives
+in similar work. You are a student and a hobbyist, not yet a
+professional research scientist. Primarily your project should advance
+your personal knowledge, and your abilities to observe, speculate,
+hypothesize, experiment, deduce, and conclude.
+
+You should choose a project which you can expect to follow to a
+successful conclusion, but which is enough above your current knowledge
+to make you “stretch” your abilities.
+
+But it is important not to bite off more than you can chew. The project
+should not demand so much time that you neglect other responsibilities.
+However, you need not pass up an interesting topic because covering all
+of it would consume too much time. Instead, zero in on just those
+aspects which interest you most.
+
+    [Illustration: _Sophomore Eileen O’Brien of New Dorp High School,
+    Staten Island, New York, displayed this nuclear-related exhibit at
+    the 13th NSFI at Seattle in 1962, but did not win any AEC
+    recognition._]
+
+    [Illustration: _At the 14th NSFI at Albuquerque in 1963, junior
+    Eileen O’Brien returned with a new and better exhibit of a related
+    but more advanced project..._]
+
+    [Illustration: _... and found herself an AEC Special Awards winner
+    invited, with her science teacher, to spend a week at Argonne
+    National Laboratory._]
+
+    [Illustration: _At the 15th NSFI at Baltimore in 1964, senior Eileen
+    O’Brien qualified again as an AEC Special Awards winner by
+    exhibiting a more advanced project, but one still related to her
+    earlier ones._
+                                                Courtesy Science Service]
+
+You may be able to select a project which will be of continuing interest
+in later years. For example, a 9th-grade general-science student might
+begin by making an _overall survey_ of a topic to discover what is
+already known about it and what remains to be discovered. As a
+10th-grade biology student, he might investigate _biological_ aspects of
+his topic, and then follow with investigations of _chemical_ and
+_physical_ aspects of it while studying 11th grade chemistry and 12th
+grade physics. Some outstanding science fair exhibits have resulted from
+such progressive development of a single project which the exhibitors
+undertook first in junior high school.
+
+Whenever you ask a question about some aspect of nature you have a
+possible project topic. “How does a chicken hatch?” “What is the best
+way to treat a burn?” “How could nuclear energy be used in space
+travel?” You need only examine the questions that occur to you every day
+to find dozens of topics on which to base projects.
+
+You might identify promising topics by reviewing the table of contents
+in your science text, noting chapters or topics of particular interest.
+Or you may find it helpful to consult the references listed in the
+appendix to this booklet. If you are interested in a project related to
+atomic energy, the appendix lists also many nuclear topics and research
+areas.
+
+It is probably wise to select several potential project topics, do a
+little reading on each of them, and then pick one. Before reaching a
+decision, discuss them with your teachers and parents. Your science
+teacher can help you pick a topic that will relate closely to classroom
+work, and may be able to suggest interesting approaches you haven’t
+considered. By talking your project topic over with your parents and
+advisers you can make sure that you will have the time, working space,
+moral support, and financial resources needed to complete it
+successfully.
+
+    [Illustration: _After failing as sophomores to qualify for AEC
+    Special Awards at Seattle, both these Texans came back as juniors to
+    win at Albuquerque with better exhibits of similar, but more refined
+    projects. James L. Ash (below) is from Dallas, and Michael A.
+    Haralson (above) is from Abilene._]
+
+    [Illustration: James L. Ash]
+
+At the outset, the exhibit possibilities of your chosen project may not
+be clearly apparent. You cannot predict exactly what procedures you will
+follow nor what conclusions you will draw. As you proceed, you will
+probably uncover many facts which you will want to tell people about. If
+you choose a good topic, work carefully and accurately, and cover the
+topic fully, you will produce a successful project which can form the
+basis for a good exhibit.
+
+
+Where to Get Help
+
+One mark of a truly educated individual is his willingness to discuss
+his problems with others and profit by their advice and help. One of the
+most important things that you can learn while doing a project is how
+and where to obtain information and assistance.
+
+Your _science teacher_ may be an excellent source. If he cannot provide
+specialized help himself probably he can direct you to those who can.
+
+Your _school librarian_ can point out specialized references such as
+scientific encyclopedias and “reserved” reference books. Scientific
+magazines and journals have good “survey articles” on recent
+developments. Don’t overlook the public, college, and special technical
+libraries near you. Also, academies of science, technical societies, and
+science laboratories may have libraries or publications you can use.
+
+It is to be hoped that your topic is one on which some expert local
+counseling will be available—from your science teacher or one of your
+parents, your family physician or the local pharmacist, your
+agricultural extension agent, or scientific and engineering personnel of
+a nearby manufacturing plant, defense installation, research laboratory,
+or college.
+
+Select a _project adviser_ and try to enlist his cooperation. Explain
+your choice of topic to him and how you plan to develop it. (If you have
+already done background reading you may find him more receptive and more
+helpful.) You may need to consult him on several different occasions.
+You will probably want him to check you project plan to make sure that
+you have not left out an important step, or included some potential
+pitfall. Also, you may want him to review the final written report in
+which you summarize your work and findings.
+
+However, your project must rest upon work done by you. It is permissible
+to obtain assistance from others, but never to the extent that you are
+standing on the sidelines watching someone else do your work. Keep your
+interviews brief and approach each conference with a clear idea of what
+you are seeking and why, and always only after you have already done as
+much as possible—whether by way of reading or project work—to find the
+answer on your own. By doing this you will gain valuable habits of
+self-reliance, and added stature in your adviser’s eyes.
+
+_Special equipment and materials_ may be obtained or borrowed through
+laboratories. College laboratories assist sometimes. Some industrial
+organizations may have surplus equipment and materials that they are
+willing to lend or donate.
+
+
+Documenting Your Work
+
+Project Notebook Every scientist worth his salt keeps detailed notes on
+each project on which he works. You should do likewise. This notebook,
+which could as well be a set of file cards, contains a running,
+day-by-day account of everything that concerns the project—observations,
+speculations, experiments, materials, expenses, procedures, data and
+observations, hypotheses, checks for validity, conclusions, and
+conjectures. From such notebooks comes the information for the
+scientist’s formal report, or “paper”, by which he advises his employers
+and colleagues of the progress of his work.
+
+Since the notebook contains everything pertaining to your project, it
+may become disarranged, no matter how well you organize it in the
+beginning. If so, don’t worry—just keep it up to date.
+
+Project Report But there should be nothing haphazard about the final
+report on your project. In some science fairs, this report is displayed
+in the exhibit and considered in the judging. Even where not required,
+the project report belongs with your exhibit.
+
+After writing your report you will find that much of your exhibit
+planning—and even some of the text which will appear in your exhibit—is
+already accomplished.
+
+If you are doing your project as a classroom assignment, your teacher
+may specify the manner in which your report is to be organized.
+Otherwise, you can follow a format such as this:
+
+  1. TITLE. Keep it short. If accuracy requires more than a few words,
+  consider using a very brief main title and a more definitive subtitle.
+
+  2. ABSTRACT. This is a very brief condensation of the entire report
+  summarizing the objectives of the project, what you did, and the
+  conclusions you came to.
+
+  3. INTRODUCTION. Describe your topic and give some background
+  information such as relevant work done by others. Summarize your
+  purpose, scope, and method of investigation. State the questions or
+  hypotheses your examined. Include the most significant findings of
+  your investigations.
+
+  4. MATERIALS AND METHODS. Describe in detail the materials, equipment,
+  methods, experiments, controls, unforeseen difficulties and remedies.
+
+  5. OBSERVATIONS AND DATA. Describe your observations. Include some of
+  your observational data here as an example. You may wish to put the
+  bulk of it in an appendix.
+
+  6. DISCUSSION OF RESULTS. Give the main conclusions your observations
+  tend to prove or deny. (Disproval of your initial hypothesis may be as
+  important as proof of it!) Include the evidence developed for each
+  main conclusion and any exceptions, or for opposing theories. Offer
+  possible explanations. Compare your results and interpretations with
+  those of other workers in the same field.
+
+  7. NEW QUESTIONS, POSSIBLE APPLICATIONS, AND FUTURE PROJECTS, IF ANY.
+
+  8. APPENDIX. Give more detailed and supplementary information, often
+  including graphs, tables, photographs, and drawings.
+
+  9. BIBLIOGRAPHY. Keep it brief, listing only those books and
+  periodicals which you actually used to provide background information.
+
+  10. ACKNOWLEDGEMENTS. Both prudence and the best traditions of science
+  require that you acknowledge all help which you receive. Usually
+  student scientists do not produce laboratory work of professional
+  quality, nor do student exhibitors match the skill of commercial
+  designers and fabricators. Consequently, when judges encounter very
+  exceptional unacknowledged work, they may reasonably wonder if the
+  exhibitor received some professional help. And if on part, they
+  speculate, on how much more? Result: they might be tempted to
+  disqualify the exhibit entirely, whereas if you had acknowledged
+  frankly—“Professor James Smith, Alpha University, for loan of four
+  color transparencies”, or “My father, who devised the lighting
+  system”—you might lose a point or two on their scorecards, but remain
+  in competition.
+
+Your project notebook and your formal project report are important
+components of your exhibit to follow. If both are completed first, you
+will find planning the rest of your exhibit a much simpler task.
+
+
+
+
+                    EXHIBITING YOUR SCIENCE PROJECT
+
+
+Planning the Content of Your Exhibit
+
+Try to organize your exhibit content so that it will be meaningful to
+viewers who know less about it than you do. The following outline may be
+followed, but is not the only one possible. Don’t be afraid to let the
+unusual aspects of your project influence the organization of its
+exhibit.
+
+Title The same title you chose for your project report may be an
+acceptable exhibit title. It should be brief and as nontechnical as
+possible. A subtitle may explain or amplify the main title.
+
+The Summary Message (or Statement of the Problem) Give the viewer a
+capsule explanation of the project and its significance. You may use a
+simplified version of your abstract, eliminating information and
+language which is not meaningful to the average viewer. Keep it simple.
+
+Hypotheses and Conclusions List these briefly in a manner understandable
+to the average viewer. (Those interested in details can find them in
+your notebook and project report.)
+
+Method and Scope of Investigation Hit only the high points, but
+emphasize instances where you feel you displayed unusual imagination,
+ingenuity, or resourcefulness.
+
+Observations and Data Both are important, but in an exhibit too many
+data can be dull. Select only those which are essential to the capsule
+story of your project.
+
+Photographs and Illustrations Review the foregoing elements to see where
+pictures will tell your story as well as (or better than) words. List
+all photographs you have already taken of your project, ones you can
+still obtain, and drawings which will illustrate or help narrate your
+story. Don’t be selective yet. Later, when you are designing your
+exhibit layout, space limitations will force you to choose.
+
+Equipment and Specimens These also help narrate your story. Select
+objects and apparatus which will provide viewers a good grasp of your
+project work. Have you hit upon a low-cost substitute for expensive
+laboratory equipment? Do some of your specimens present clearly visible
+evidence of points you want to make? Are any of the experimental results
+or specimens particularly unusual, spectacular, or beautiful? List them
+for possible use.
+
+Handout Brochure An important but frequently overlooked exhibit
+component is the “handout brochure” to be distributed to interested
+viewers. Even a single mimeographed page can supply more written
+information than should be displayed in the limited space of the
+exhibit. It can provide serious viewers a condensed version of the
+project report. The brochure provides all viewers a reference when they
+discuss the science fair and your exhibit with others. Consider the
+handout brochure while planning your exhibit’s contents because it can
+contain data and graphs which might otherwise clutter and confuse your
+exhibit proper.
+
+
+How Exhibits Are Judged
+
+Rules for the judging of exhibits vary, but most science fairs stick
+fairly closely to the criteria and point values used by the National
+Science Fair-International, which are:
+
+  I. Creative Ability                                    Total 30 points
+
+  How much of the work appears to show originality of approach or
+  handling? Judge that which appears to you to be original regardless of
+  the expense of purchased or borrowed equipment. Give weight to
+  ingenious uses of materials, if present. Consider collections creative
+  if they seem to serve a purpose.
+
+  II. Scientific Thought                                 Total 30 points
+
+  Does the exhibit disclose organized procedures? Is there a planned
+  system, classification, accurate observation, or controlled
+  experiment? Does exhibit show a verification of laws, or a cause and
+  effect, or present by models or other methods a better understanding
+  of scientific facts or theories? Give weight to probable amount of
+  real study and effort which is represented in the exhibit. Guard
+  against discounting for what might have been added, included, or
+  improved.
+
+  III. Thoroughness                                      Total 10 points
+
+  Score here for how completely the story is told. It is not essential
+  that step-by-step elucidation of construction details be given in
+  working models.
+
+  IV. Skill                                              Total 10 points
+
+  Is the workmanship good? Under normal working conditions, is the
+  exhibit likely to demand frequent repairs? In collections, how skilled
+  is the handling, preparation, mounting or other treatment?
+
+  V. Clarity                                             Total 10 points
+
+  In your opinion, will the average person understand what is being
+  displayed? Are guide marks, labels, and descriptions spelled
+  correctly, and neatly yet briefly presented? Is there sensible
+  progression of the attention of the spectator across or through the
+  exhibit?
+
+  VI. Dramatic Value                                     Total 10 points
+
+  Is this exhibit more attractive than others in the same field? Do not
+  be influenced by “cute” things, lights, buttons, switches, cranks, or
+  other gadgets which contribute nothing to the exhibit.
+
+Such rules leave much to the individual discretion of the judges,
+particularly regarding the distinction between the science project
+itself and the exhibit. Be sure to study your local rules and judging
+criteria carefully. Since usually 60 points pertain to creativity and
+sound scientific thought, a large part of your score depends on the
+original excellence of your science project. The remaining 40 points
+apply to the manner in which you develop your exhibit of that project.
+
+    [Illustration: _AEC Special Award competition is judged by a
+    “blue-ribbon” panel composed of people who head research and
+    development programs at AEC offices and laboratories throughout the
+    United States. At the 14th NSFI at Albuquerque, these judges spent
+    the morning identifying eligible exhibits, “huddled” late in the
+    afternoon to select semifinal choices, and then in the evening
+    talked with each semifinalist before making the final choice of
+    winners and alternates._]
+
+Judges study criteria and point values before evaluating exhibits.
+Although your exhibit should speak for itself, at many fairs the judges
+chat with each exhibitor to determine how well he understands his
+project area. Be prepared to present details concisely and clearly, but
+avoid lengthy explanations unless asked.
+
+
+Designing Your Exhibit
+
+After you have finished your project, documented your work in a project
+report, planned and listed what must go into the exhibit, and
+familiarized yourself with the ground rules under which you will
+compete, you are ready to design your exhibit. The sections which follow
+suggest guidelines and construction hints on exhibit structure; ways of
+presenting information (text, photographs, transparencies, line
+drawings, captions, models, specimens, laboratory equipment, etc.);
+layout and location of exhibit items, exhibit materials, color, and
+lighting.
+
+
+                               STRUCTURE
+
+_Size._ National Science Fair-International rules limit exhibit size to
+48 inches wide and 30 inches deep. The structure may rest on the floor,
+on its own supports, or on a table (normally about 30 inches high)
+supplied by the fair. Even if local rules permit more space, you may
+find it desirable to build to NSFI rules so your structure will be
+eligible at all fairs.
+
+The overall height of your exhibit is limited by practical
+considerations to about 7 feet, since the passing viewer’s eye
+encompasses most easily the area between 30 and 90 inches above the
+floor and the view of someone standing near is even more limited.
+Tabletop structures 48 inches or less in height work out nicely, and can
+conserve materials.
+
+_Shape._ With few exceptions, science fair exhibitors can explain their
+projects adequately within structures similar to those shown in Figures
+1 and 2. Such tabletop “booth” exhibits have these common features: (a)
+a large back wall which can be used for the introductory message, for
+featured illustrations or specimens, or for important conclusions; (b)
+two smaller side walls, angled outward for easier viewing, which can
+contain supplementary text and illustrations; and (c) horizontal display
+space at table height to hold specimens, apparatus, project notebook and
+project report, handout brochures, etc. Some exhibitors fit this space
+with a slanted- or stepped-shelf unit. If the back and side walls are
+fastened to such a base the structure is stronger.
+
+    [Illustration: _These two basic structures are designed for
+    simplicity, flexibility, economy of materials, and repeated use in
+    successive years of science fair competition. Both meet NSFI rules
+    on maximum dimensions. The structure shown in Figure 1 is easiest to
+    build. The one in Figure 2 is a modified Figure 1 designed to
+    accommodate an outsize object which must rest on the floor._]
+
+    [Illustration: Figure 1]
+
+    [Illustration: Figure 2]
+
+Many variations are possible. Very tall objects might be handled by the
+self-supporting structure shown in Figure 2. Some exhibitors extend back
+and side walls to the floor, but this requires more panel material and
+tempts the exhibitor to mount text and illustrations below the level of
+easy viewing.
+
+The title board can be functional as well as attractive, as in Figure 1.
+It puts your main title where it can be seen easily and it conserves
+wall space. It can brace the side walls and serve to shield lights.
+
+_Materials._ Attractive exhibit structures can be built from artboard
+and similar paper products, so for one-time-only elementary school
+exhibits you may not wish to invest in more permanent materials. But if
+you look forward to other projects, exhibits, and fairs, you will be
+wise to consider materials which will hold up in repeated use. Even
+though most fairs do not permit you to compete in successive years with
+the same exhibit material, seldom do they require you to build a new
+structure each year to hold your changing displays.
+
+“Masonite” and similar wood-fiber particle boards are relatively
+inexpensive, take paint and adhesives well, are fairly light, and in
+thicknesses of more than ⅛ inch and lengths of less than 48 inches are
+sufficiently rigid when supported by adjoining panels. They are
+available with rows of holes pre-drilled to accommodate a multiplicity
+of “pegboard” hanger devices. If you hope to use your basic structure
+for other exhibits, pegboard allows you flexibility in rearranging
+three-dimensional exhibit items. Also, the holes facilitate wiring down
+display items that might be dislodged by careless viewers or filched by
+thoughtless souvenir hunters.
+
+One standard 4-by-8 foot sheet of hardboard or plywood will suffice for
+the typical tabletop structure if you divide it as shown in Figure 3.
+
+Plywood and untempered hardboard should be sealed with a primer coat
+before finish painting. If you seal the reverse side of the panels also,
+they warp less. For finish coats, the enamel now available in aerosol
+spray cans will save you some brush work. Always apply spray paints in
+several light coats while the surface is horizontal, to avoid unsightly
+“runs”.
+
+For bracing, framing, and other woodwork, white pine is strong, light,
+easy to work, and unlikely to warp if seasoned properly.
+
+Hinges, washers, bolts, nails, or screws which will be painted may be of
+uncoated steel. Otherwise, you may find brass, stainless steel,
+aluminum, or chrome-plated steel better.
+
+If your exhibit proves to be a winner, you may need to erect and
+dismantle it at several fairs. A little ingenuity and foresight in the
+selection of removable-pin hinges, wing-nut bolt assemblies, and the
+like, may save a lot of time later and help keep your exhibit structure
+in good condition.
+
+    [Illustration: Figure 3]
+
+  CUTTING 4′ × 8′ PLYWOOD OR HARD BOARD FOR MAXIMUM ECONOMY
+    BACK WALL PANEL 34″ × 48″
+    TITLE BOARD OR “HEADER”
+      6″
+    SIDE WALL PANELS (2 ea.) 28″ × 48″
+  OVERHEAD PLAN OF TYPICAL SCIENCE FAIR EXHIBIT STRUCTURE
+    BACK WALL PANEL
+    SIDE WALL PANEL
+    SIDE WALL PANEL
+    BASE UNIT
+    30″ (allowable)
+    LIGHT BEHIND HEADER
+    48″ (allowable)
+  SIDE PLAN OF SAME STRUCTURE
+    CONCEALED LIGHT
+    HEADER
+    BACK PANEL
+    SIDE PANELS
+    ELECTRICAL OUTLET BOX
+    BASE UNIT
+    TABLE
+
+_Lighting and Wiring._ Fluorescent lighting is bulky and hard to conceal
+in the average science fair exhibit. Incandescent showcase lamps work
+well, take up less space, and are less expensive. If you need shielded
+light, consider inexpensive clip-on bed lamps.
+
+Most fairs have rigid rules on electrical wiring and you should study
+them and those of the National Science Fair-International. If you will
+install a fused entry-outlet box on your back wall or base unit, as
+shown in Figure 3, you can run all fixture cords to that one location.
+Most fairs provide power cords reaching to the exhibitor’s electrical
+inlet, but don’t depend on it. Procure 25 to 50 feet of heavy-duty
+extension cord and keep it handy, just in case.
+
+
+                         PRESENTING INFORMATION
+
+After determining the shape and size of your structure, you can decide
+how best to present the information needed to explain your project. Some
+exhibitors prefer to build their structure first, so that they may try
+out different arrangements of illustrations and three-dimensional items
+on the finished display space. Or, you can measure off your back wall,
+side walls, and interior base areas, and then “try out” the size and
+placement of your display items on matching-size sheets of tracing
+paper.
+
+There are many good ways to present the same information. Exhibit design
+is an art with some established principles but with few fixed rules.
+Here are some guidelines which may help you.
+
+_Preliminary Sketches._ Make sketches of all possible layout ideas and
+study each for clarity of content and visual effect.
+
+_Text._ Keep all text to a minimum number of words. Viewers come to see
+an exhibit, not to read it! A good illustration, specimen, or a graphic
+representation (see Figure 4) can save many words. Where text is needed,
+letter it clearly and large enough for easy reading. But avoid
+unnecessarily large or garish lettering—titles and text should only
+explain your exhibit, never dominate it!
+
+    [Illustration: Figure 4]
+
+_Text Placement._ Some exhibitors place captions uniformly over or under
+all illustrations, but text blocks placed at the side may communicate as
+clearly, and help prevent visual monotony (see Figure 5).
+
+_Points of Emphasis._ If you use a series of illustrations or specimens
+to tell a running story, consider enlarging or featuring one of the most
+significant items so it can serve as the focal point of the series, as
+in Figure 5.
+
+_Large Photos._ Unless your photographs can be viewed in detail without
+stooping and squinting, either have them enlarged or discard them.
+
+_Color Photos._ Color photos are expensive, but just one or two will add
+interest to a large group of black-and-white prints.
+
+_Charts and Graphs._ If your exhibit contains charts and graphs, keep
+them simple. Avoid line charts if several curves must cross and recross.
+Logarithmic charts, scatter diagrams, and similar ratio charts are
+confusing to the average viewer. Caption and explain charts and graphs
+adequately. Simple pie, bar, and representational charts, as shown in
+Figure 6, can be particularly meaningful. Often the use of colors will
+make the various factors more discernible.
+
+    [Illustration: Figure 5]
+
+_White Space._ Next to content, the exhibitor’s most valuable tool is
+“white space”—those unoccupied areas of his display panels. Crowded,
+busy panels on which materials and text fill every inch of space are a
+hallmark of the amateur. Worse, they defeat their purpose, for viewers
+usually take one hurried glance, decide that understanding so cluttered
+an exhibit would be a chore, and move on to simpler displays. (As a rule
+of thumb, approximately 40% of your available display space should be
+occupied by absolutely nothing!)
+
+_Organization._ Just as you organize words into sentences and
+paragraphs, your exhibit elements (textual and visual) should be
+organized into groups and subgroups. (See Figures 1 and 2.) Here again
+the “feature” technique may be employed. For example, if you are
+displaying several similar specimens you may emphasize the most unusual
+one by placing it on a raised or differently-colored background as shown
+in Figure 7.
+
+    [Illustration: Figure 6]
+
+    [Illustration: Figure 7]
+
+_Apparatus._ Amateur exhibitors sometimes get carried away with
+enthusiasm for large arrays of mechanical apparatus which are both
+unnecessary and confusing. If your project involved development of a
+unique piece of equipment, consider whether you can display it alone,
+without the entire assembly into which it fits. Sometimes this can be
+done by displaying the featured part alongside a drawing or photograph
+of the complete assembly, as in Figure 4. Again, keep details to a
+minimum; leave them in the project report.
+
+_Mechanical movement._ Usually motion in a science fair exhibit is
+called for only when there is a clear need for it. Thus it is logical to
+use a turntable to revolve different fluorescing mineral specimens under
+“black light”, or to present successive radioactive ore specimens to a
+Geiger-counter probe. But to use such a turntable to present a series of
+photographs would probably be unnecessarily contrived. Usually you may
+spend your efforts better on sound content, clean design, and clear text
+than on mechanical gimmicks.
+
+_Pushbuttons and Such._ Few audience-participation devices in science
+fair exhibits merit the effort, money, and space expended on them. But
+if you do display equipment for viewers to operate, make certain it can
+be operated safely and dependably even when you are absent (as during
+the judging). Nothing frustrates an exhibit viewer more than a
+pushbutton that doesn’t work!
+
+_Demonstrations._ These can be informative and interesting, and you may
+want to include one. But since you cannot be on hand to demonstrate at
+all times, design your exhibit to “stand alone” without the
+demonstration. And when you are absent, you may avoid unsatisfied viewer
+curiosity either by removing the idle demonstration equipment, or by
+posting a “Next demonstration at ____ o’clock” sign.
+
+_Living Things._ Plants or animals which have been employed in the
+science project can often be displayed to lend interest and meaning to
+the exhibit. But since the science fair follows the project, interim
+growth and aging may alter living specimens so that at fair time they
+are considerably less meaningful or attractive than at the peak of your
+project. Also, if you compete in several fairs, you may find
+transportation and special care of your living specimens difficult and
+onerous. If you do plan to exhibit living specimens, familiarize
+yourself with local and national fair regulations governing their use,
+make sure that animals can be housed attractively and comfortably, and
+protect both animals and plants from inquisitive fingers. Then be
+selective and employ the minimum needed to make your point in the
+exhibit.
+
+
+About Color
+
+Properly employed, color is functional as well as aesthetically
+pleasing. You may find the following suggestions helpful in deciding
+which colors to employ in your exhibit, and where.
+
+In a space as small as your science fair exhibit, one or two basic
+colors, plus black and white, should suffice. Use your color in a few
+large blocks, not in many small patches. Different basic colors can be
+used to define different main areas of emphasis; then different shades
+of the basic colors can be used to define subareas.
+
+Life-science project exhibits can rely most safely on pastel shades
+running heavily to greens and yellows, while physical-science projects
+are portrayed frequently against more intense colors. In either case,
+avoid violent contrasts and “paintpot” variety. Your exhibit should
+convey an air of handsome restraint, not flippant prettiness or carnival
+gaudiness. Your colors should attract and enhance, not shock or confuse!
+
+    [Illustration: Figure 8
+
+    _Far too frequently science fair judges are asked to evaluate very
+    poor exhibits of what may have been very worthwhile science
+    projects. Some of the more common mistakes they encounter have been
+    included by our artist in the sketch above. Now that you have read
+    our advice on designing science fair exhibits, how many shortcomings
+    can you identify? (Answers below.)_
+
+    _Answers: Structure extends too high and too low for easy viewing,
+    and width exceeds dimensions usually allowed. The main title is too
+    long. Two words are misspelled. The best display space is wasted on
+    ordinary objects which contribute little new understanding to topic
+    exhibited. There are too many photographs which are too small and
+    poorly positioned for viewing. Specimen boxes positioned on the
+    floor as an afterthought where few viewers will attempt to inspect
+    them. Endless text provides details of little or no interest to the
+    average viewer. More text on introductory topic (“Catching Bugs”)
+    than on the exhibit topic. No logical progression from the original
+    problem and hypothesis through experimentation and observation to
+    conclusions. There is no project notebook, report, or handout
+    brochure. No thought has been given to lighting. No points of
+    emphasis in either text or illustrations. White space has not been
+    exploited._]
+
+  A STEP-BY-STEP ACOUNT OF HOW I MOUNT MY BUGS
+    CATCHING BUGS
+    MOUNTING BUGS
+      SCIZZORS
+      TWEEZERS
+      PIN
+      COTTON
+      NET
+      CHLOROFORM
+  SOME OF MY BUGS
+
+Where desired, visibility and impact of illustrations and specimens can
+be increased by mounting them against contrasting background colors.
+Avoid the amateurish impulse to always tape or paint a border around
+illustrations, specimens, and blocks of type. Placed properly against a
+contrasting background, these provide their own best border.
+
+The final test of color is how it looks in actual use, so experiment
+with your color schemes before making a final choice. And if you have
+any doubts, invite the reactions of your family and friends and also the
+advice of your art teacher.
+
+
+Completing Your Exhibit
+
+Before mounting your exhibit elements on the structure permanently, lay
+them out temporarily. (You will probably want to move them around
+several times to get the best position.) You can then pencil in your
+title, text, and caption blocks in actual size. Use separate sheets of
+paper for each, and try out various locations around the materials they
+explain.
+
+Use of too many letter styles will detract from the attractiveness of
+your exhibit. Headings can be all in capital letters, and subheads in
+smaller “caps”, or in initial caps and “lower case” letters. Statements
+and other text should use caps and lower case. Do not use all caps for a
+paragraph of descriptive material—a mass of capitals is harder to read.
+
+Before completing the lettering, you should try out your layout and text
+on classmates, family, and perhaps your English teacher. Science fair
+exhibits should be understandable to intelligent laymen as well as to
+trained specialists. Technical jargon, pompous adjectives, and stilted
+sentence structure are not scientific. In scientific writing, as in any
+good writing, the simple, direct approach is usually best. Try to use
+short sentences, familiar words, and a minimum of technical terms and
+formulae.
+
+Are your present photographs too small? You can experiment with
+desirable sizes of photos by clipping from old magazines any
+illustrations that appear about the right size, and trying them on your
+layout. You can then have your photos enlarged to the ideal sizes that
+you find most pleasing. Matte-finish photo prints are preferable since
+glossy prints produce “glare”. Before mounting photographs, trim off the
+white border, which detracts from the impact of your pictures and the
+simple unity of your exhibit.
+
+When fully satisfied with your layout, begin the final lettering of your
+text. For hand-lettering, sketch with a soft pencil first, using a ruler
+and eraser freely. A lettering guide, borrowed from your school’s
+graphic arts department, will prove very helpful. Unless you are
+experienced you can save yourself trouble by not lettering directly upon
+the background. Instead, letter each copy block on a separate piece of
+art paper which can be glued into position later. Have a friend or
+teacher double-check your lettering for typographical errors.
+
+With illustrations and copy blocks complete and trimmed to size, you are
+ready to start mounting. For paper products use “rubber cement”,
+obtainable at stationery stores. Coat both surfaces completely, but do
+not press them together until each is dry. To avoid air bubbles, first
+separate the coated surfaces with a “slip sheet” of waxed paper or
+aluminum foil, which can be slipped out when the materials are
+positioned exactly. Then press into place with a soft cloth or rubber
+roller. (Excess cement will rub off when dry, without damage.) Also
+consider using double-coated adhesive tape for mounting. It is
+obtainable at art-supply stores.
+
+Assemble your structure, mount your lighting fixtures, and plug them in.
+Install whatever equipment needs to be displayed. Put your project
+notebook, project report, and handout brochure in place. Your science
+fair exhibit is finished and you are ready to compete!
+
+    [Illustration: _Typical arrival day activities at the 14th National
+    Science Fair-International, Albuquerque, New Mexico, 1963._]
+
+
+
+
+                      COMPETITION AND ITS REWARDS
+
+
+Some of you can look forward to enjoying within the next several years a
+thrilling experience.
+
+Some morning in May you will bid your parents farewell, walk up the
+steps of an airliner, and touch down a few hours later in a distant
+city. For the next five days you will be caught up in the excitement and
+fascination of the National Science Fair-International!
+
+The full impact of your nation’s science fair hits you the morning you
+set up your exhibit in the auditorium. You knew that you had a good
+exhibit when you entered the district fair back home in March. (Since
+this is your second year of serious competition, and you have improved
+both your science project and your exhibit, you weren’t too surprised to
+win there.) But regional and statewide competition is even tougher, so
+you were holding your breath until they finally called your name!
+
+Now here you are, and as you appraise the 400 other exhibits going up
+besides yours, you realize this is the “big league”. These guys and gals
+are really good. But some of your awe evaporates as you talk with your
+neighbors, and while you help the pretty blonde with the guppies
+position her heavy aquaria. Win or not, this is going to be fun!
+
+And so it is—during the tension of the judging the next day, when you
+show your exhibit to the public the day after that, and throughout the
+tours of research laboratories and industrial processing plants that
+follow. In conversations with the judges, in the varied social contacts
+with more than 400 fellow exhibitors from the United States and several
+foreign countries, you get a fresh look at the rewards of serious
+scientific endeavor. One evening you listen enthralled by the startling
+concept being explained by one of the “big men” in science. You’ve seen
+his name and picture in newspapers, textbooks, and technical journals,
+and there he stands, talking seriously to you and your fellow
+exhibitors. As he explains a problem that has puzzled you, you begin to
+see science as a community of kindred minds where every serious
+truth-seeker is welcome, where there is no rank other than that bestowed
+on active intellects, sound procedures, and reasoned, honest
+conclusions.
+
+All too soon, the week is almost over. At the Awards Banquet they are
+calling the names of the winners and you sit unsurprised when the early
+prizes pass you by. You’ve studied those winning exhibits, and you must
+acknowledge that they have the edge on yours—one because of the very
+unusual hypothesis posed and proved, the other because of the masterful
+clarity with which it explains the area of investigation.
+
+But next they name the winners of special awards, presented by the
+American Chemical Society, The American Institute of Biological
+Sciences, the military departments, and similar organizations, for
+outstanding exhibits related to the programs of the sponsors. And here
+you are on the stage, having your photograph taken with the nine other
+winners of the U. S. Atomic Energy Commission’s Special Awards!
+
+After the banquet, the AEC representative explains to you that the AEC
+Special Award includes considerably more than the Certificate of
+Achievement you have just received.
+
+First, a duplicate certificate will be sent to your principal for
+display among the school trophies. Then, in August you and your science
+teacher will fly to Chicago for a week as exciting and rewarding as the
+one you have just completed. You will be guests of the AEC’s Argonne
+National Laboratory—an outstanding center for nuclear research. Your
+group will spend several days behind the scenes in Argonne’s
+laboratories. You will visit outstanding research facilities and science
+museums in downtown Chicago. Best of all, you will have an opportunity
+to discuss your interests and career plans with members of the Argonne
+staff—men and women who are doing professional research in the same
+areas that interest you.
+
+What are the costs of such an experience? Only the attention you pay to
+your science instruction; the thought and care you devote to a project
+related to nuclear science; and the clarity and ingenuity with which you
+explain that project to your classmates, teachers, and the general
+public through your science fair exhibit.
+
+    [Illustration: _First Atomic Energy Commission Special Awards
+    winners, selected at the 13th NSFI at Seattle, photographed during
+    their Nuclear Research Orientation Week at the AEC’s Argonne
+    National Laboratory near Chicago in August 1962. High point of the
+    week, winners report, is the opportunity—pictured here—to talk
+    face-to-face with Argonne scientists who are working in areas of
+    research of particular interest to each student visitor._
+                                    Courtesy Argonne National Laboratory]
+
+    [Illustration: continued]
+
+    [Illustration: _1963 AEC Special Awards winners and their science
+    teachers spent their Nuclear Research Orientation Week at Argonne
+    National Laboratory. Top photograph is of Elizabeth Winstead of
+    Jacksonville, Florida, whose prize-winning exhibit at Albuquerque is
+    pictured on the cover. The photograph below hers is of William E.
+    Murray, Jr., of Bethesda, Maryland, who was also an AEC Special
+    Awards winner at Seattle in 1962._
+                                    Courtesy Argonne National Laboratory]
+
+
+
+
+                               QUO VADIS?
+
+
+Or “where do you go from here?”
+
+First, resolve now to enter science fair competition this year. You may
+not win, but at least you will have started, and you will gain some of
+the experience needed for victory in later years.
+
+Next, choose a science project topic, and discuss your choice with your
+science teacher, science club adviser, or hobby counselor. Especially if
+this is your first attempt, choose a topic which can be investigated
+with materials and equipment available to you at school or at home, and
+which can be finished by mid-February. Also, allocate definite
+times—particularly on weekends and holidays—when you will work on your
+project. (Remember that exams and term papers will probably keep you
+very busy in late January and early February.)
+
+Third, execute your project, keeping careful notes and consulting your
+project counselor from time to time. Then draft your Project Report,
+discuss it with your counselor, revise and edit it as necessary, and get
+it typed in final form. Also verify the date your local science fair
+opens.
+
+Fourth, plan your exhibit content, design and build your exhibit
+structure, select your exhibit components and draft your text, and make
+trial layouts until you arrive at the best possible design, including
+color. Prepare your color backgrounds, letter your text, and install
+text, components, and lighting. Get your handout brochure mimeographed.
+
+Fifth, enter local science fair competition. If you don’t win, find out
+why by comparing your project and your exhibit with the winners’, and by
+discussing it with your parents, classmates, teachers, judges, and
+viewers. If you do win, attempt to understand what made your exhibit
+better than the others.
+
+Finally, continue reading and thinking about your basic project topic,
+so that next year you will know whether you want to continue to work on
+the same topic or to shift your interest to another field.
+
+Above all, have fun, and
+
+
+                               GOOD LUCK!
+
+
+
+
+                               APPENDIX I
+                     NUCLEAR SCIENCE PROJECT IDEAS
+
+
+The following projects related to nuclear science were exhibited at the
+National Science Fair-International from 1950 through 1963.
+
+
+General and Theoretical Topics
+
+  The Review and Future of the Atom
+  Simplified Nuclear Physics
+  Approach to the Study of Nuclear Physics
+  Elementary Particles—an Investigation of the Fundamental Components of
+              Matter and Energy
+  Odd Nucleon Effect
+  A Study of Binding Energies and Nuclear Reactions
+  The Integrated Theory of Atomic Structure Through Inductive and
+              Deductive Reasoning
+  Tools of Nuclear Physics
+  E = MC²—Energy Equals Mass Multiplied by the Speed of Light Squared
+  Downfall of Parity
+  How to Measure the Charge of the Electron
+  How Atoms Are Constructed
+  Formation of Heavy Nuclear Particles
+  Millikan Oil-Drop Experiment
+  Nuclear Magnetic Resonance
+  Third Electrons in Transition-Metal Complexes
+  Probability in Electron Position
+  Stability of Radioactive Equilibria
+  The Electron: Measurement of Its Charge and Mass
+  Experimental Study of Nuclear Structure
+  Fourth State of Matter
+  Project-Observation Satellite
+  Creation of Antimatter
+  Energy Loss of Beta Particles in Lead and Aluminum
+  Stochastic-Radioactive-Equilibria Models
+  Cosmology
+  Controlled Thermonuclear Reaction
+  Electron Chemistry
+  Plasma-Ion Engine
+  Plasma Production by Gaseous Ionization
+  Finite Calculus and Particle Physics
+  Two Applications of the Plasma Discharge
+  Increasing the Efficiency of a Plasma Jet Suitable for Space
+              Propulsion
+  Prediction of Elements 99-118
+  Exact Evaluation of the Charge of the Electron
+  Three-Dimensional Periodic Chart of Atoms
+  Atom Mobiles
+  Weight of an Atom
+  Determination of the Charge of an Electron Using the Millikan-Stokes
+              Effects
+  Atomic-Particles Detection and Analysis
+  Electron-Charge Determination by Oil-Drop Method
+  The Mineral That May Shape Our Destiny: Uranium
+  A Machine to Show Radioactive Materials
+  The Making of Active Metals
+  The Extraction of Uranium from Carnotite
+  The Chemistry of Thorium
+
+
+Special Apparatus Topics
+
+  Construction and Operations of Wilson Cloud Chamber
+  Geiger-Müller Counter: Theory and Construction
+  Experiments with a Homemade Geiger Counter
+  An Experimental High-Voltage Geiger Counter
+  Design and Construction of a Scintillation Counter
+  The Construction and Theory of Radiation Detectors for Radioactive
+              Experiments
+  The Underlying Principles of Accelerators for Positively Charged
+              Particles
+  Electronic-Equipment Construction and Applications to Nuclear Theory
+              and Techniques
+  A Germanium Linear Accelerator
+  Proton Accelerator
+  Construction of a One-Half Million Electron-Volt Proton Cyclotron
+  Construction of Apparatus for Accelerating and Detecting High-Energy
+              Beta Radiation
+  Betatron
+  A Continuous Cloud Chamber
+  Van de Graaff Generator
+  The Mass-Energy Problem of Particle Accelerators
+  Mass Spectrograph for Determining the Mass of Atoms
+  A Liquid-Scintillation Spectrometer for Counting Natural Carbon-14
+              Samples
+  Proton Linear Accelerator
+  Magnetic Thermonuclear Chamber
+  Atom Smasher and Ionic-Drive Reaction Motor
+  Expansion Cloud Chamber for Observation of Tracks of Alpha Particles
+  Nuclear-Magnetic Resonance Spectrometer
+  High-Voltage Particle Acceleration
+  Linear Accelerator
+  Van de Graaff Generator Designed for an Accelerating Tube
+  Wilson Cloud Chamber
+  Low Energy Linear Accelerator
+  Nuclear-Magnetic Resonance and Spectrometry
+  Millikan’s Oil-Drop Experiment
+  Theory, Design, and Construction of a 10½-inch Cyclotron
+  Carbon-14 Counter
+  Proton-Free Precession Magnetometry
+  The Bubble Chamber
+  Electron Accelerator
+  Nuclear-Magnetic Resonance
+  Beta Synchrotron
+  Electrostatic Particle Accelerator with Van de Graaff Generator Power
+              Supply
+  The Cyclotron
+  Linear Alpha-Particle Accelerator
+  The Plasma Jet
+  Beta-Ray Spectrometer
+  Freon-13 B1 Bubble Chamber
+  Wilson Liquid-Piston Cloud Chamber
+  Expansion-Type Cloud Chamber
+  Nuclear-Magnetic Resonance Spectrometer
+  Linear-Subatomic-Particle Accelerator
+  Experimental Linear Accelerator
+  New Design in Microwave Techniques Used in Electron Acceleration
+  Application of Relativity to the Phenomena of a Diffusion Cloud
+              Chamber
+  0.5-Mev Electron Accelerator
+  Radio-Frequency Plasma Torch
+  Design, Construction, and Operation of a 3-inch Freon Bubble Chamber
+  Experiments in Plasma Physics
+  Studies with a 500,000-volt Electron Accelerator
+  An Experimental Plasma Generator
+  The Plasma Torch
+  Using Nuclear Emulsions to Track Ionizing Particles
+  Experimental Study of Nuclear Structure
+  Emission Studies of a Nitrogen Plasma
+  A Combination 3-Mev Neutron Source and Medium-energy X-ray Source
+  Van de Graaff Electron Accelerator
+  Cosmic Rays Studied with a Counter-controlled Cloud Chamber
+  Radio-Frequency Plasma Generator
+  Plasma Acceleration
+  Investigation of High-Temperature Plasma Techniques Necessary for a
+              Controlled Thermonuclear Reaction
+  Atom Smasher—An Electrostatic Particle Accelerator
+  Design, Construction, and Use of a 0.5-Mev Linear Particle Accelerator
+              in Study of Short DeBroglie Wavelengths by
+              Crystal-Diffraction Method
+  Production of Plasma by a High-Frequency Magnetic Field
+
+
+Radiation Topics
+
+  A Cosmic Ray
+  Beta- and Gamma-Ray Analysis
+  Calculating the Angle of Deflection for Beta-Ray Under Normal
+              Atmospheric Conditions in Magnetic Fields of Differing
+              Intensities
+  Effects of Absorption and Geometry on Beta Count Rate
+  Detection and Recording of Cosmic Radiation
+  A Study of Alpha Particles by Means of the Continuous Cloud Chamber
+  Visual Detection of Alpha Particles
+  Detection of Subatomic Particles
+  A Survey of Background Radiation Made with a Geiger Counter
+  ⁵¹Ne as a Radiation Detector
+  Detection of Atomic Radiation
+  Methods of Measuring Radioactivity
+  Preliminary Study of the Effect of Radiation from some Common
+              Radioactive Materials on Photographic Film
+  Carnotite and Radioactivity
+  Study and Analysis of a Sample of Radioactive Sand from the Atomic
+              Explosion at Alamogordo
+  The Use of Ion Exchangers in the Disposal of Radioactive Wastes
+  Radiation Effects on Fruit Flies
+  Effects of Radiation on _Drosophila melanogaster_
+  Investigating Radioactive Minerals with Thick-Emulsion Photography
+  Actions of Gamma Radiation on the Offspring of Irradiated Female
+              Guppies
+  Influence of Beta-Particle Bombardment upon the Embryonic Development
+              of the Chick
+  Autoradiographs of Brain Tumors
+  A Radiation Detector
+  A Study of Cosmic Rays
+  Effects of Atomic Radiation on Rats
+  Atomic Radiation and the Geiger Counter
+  Atomic Radishes
+  Effects of X-Ray Radiation on Plants and Animals
+  Radiation Demonstration
+  Nuclear Radiations
+  Radiation Sterilization
+  X-Ray, Light’s Cousin
+  Effects of Ionizing Radiations on Plants and Animals
+  Roentgen Rays and the Construction of an X-Ray Machine
+  Visual and Aural Detection of Cosmic and Atomic Radiation
+  Radioautography
+  Experimentation with Ionizing Radiation
+  Radiation Hazard?
+  Phosphorus Uptake by Autoradiography
+  Demonstration of Rutherford’s Method of Separating Alpha, Beta, and
+              Gamma Radiation
+  Radiation—Effects and Possible Protection
+  Tired Blood—Production of Anemia by Radioactivity
+  Techniques of Autoradiography
+  Cosmic Radiation and Life
+  Radiation in Plant Breeding
+  Experiments with Induced-Radioactivity Apparatus
+  Effects of Radiation on the Blood in White Rats
+  Radioautographic Study of Tryptophan Metabolism in the Rat
+  The Effects of Beta Rays from ³²P on the Tissues on White Rabbits
+  Radioactivity Around Us
+  Effects of Radiation on Mice
+  Experiment, Design, and Application of Solid Propellant Rockets to
+              Radiation Studies of the Upper Atmosphere
+  Comparative Study of Radiation
+  Alpha and Beta Rays (Photographs)
+  A Laboratory-Scale Neutron Irradiator
+  Colchicine vs. Radiation
+  Mutations in German Millet Induced by Gamma Radiation
+  Cosmic Radiation
+  Cloud Chamber Study of Alpha and Beta Radiation
+  Effects of Radiation on Chick Embryos
+  The Protection of Cystamine and AET on X-Irradiated Mice
+  The Effects of X Ray on the Blood of Guinea Pigs
+  Measurement of Radioactivity in Milk
+  Chemical Modification of Radiation Effects
+  The Absorption of Alpha Particles in Air and Other Cases
+  Mass Absorption of Beta Radiation
+  The Danger of Radioactive Contamination of Kelp
+  Carnotite Radiation on Reproduction and Mortality Rates of _Daphnia
+              magna_
+  Mutations Produced by the Irradiation of German Millet Seeds
+  Spectrometer Analysis of Beta Emitters
+  The Effects of Total-Body X-ray Radiation on the Hematopoietic System
+              of the Guinea Pig
+  Energies of Nuclear Radiations
+  An Analysis of Tracks Formed by Atomic Particles in a Diffusion Cloud
+              Chamber
+  Effects of X-Ray Radiation on the Bacteria _Serratia marcescens_
+  Effects of Prenatal Radiation on Postnatal Learning Behavior of Mice
+  Color Changes in Gemstones by Radiation and Heat Induction
+  Studies in Effects of the Protection from Ionizing Radiations
+  Temperature Variation and Effects of Radiation on Reproduction and
+              Mortality
+  Effects of Irradiated Neoplasmic Extracts on Carcinoma in Cottontail
+              Rabbits
+  Determining Locus of Irradiated Mutant Drosophila “b1-pt-rd”
+  Effects of Radiation on Bacteria
+  Effects of Total-Body Irradiation on Longevity of Tissue Homografts in
+              Rabbits
+  Radiation—Why Be Concerned?
+  Radiation Effects on Drosophila
+  Effect of X rays on Drosophila
+  Effect of Irradiation on Black Shank Fungus
+  Comparative Determination of Radioactivity in Rowan County Soils
+  Lethal and Mutagenic Effects of Radiation on Penicillium
+  The Teratogenetic Effects of X ray on Hamsters
+  Protection from Total-Body Irradiation
+  Effects of Ionizing Radiation from a ⁶⁰Co Source on Ascorbic-Acid
+              Concentration in _Raphanus sativus_
+  Drugs vs. Radiation
+  Radiation Effects on Selected Botanical Specimens
+  Energy Loss of Beta Particles in Lead and Aluminum
+  Radioactive Uptake of ³²P in Animals and Subsequent-Recovery Period
+  Effects of X rays on Living Cells
+  Radiation Effect on Chick Embryos
+  Dietary Defense Against Radiation
+  Irradiation Effects on Gene Mutations in Drosophila
+  A Study in Radioactivity
+  Bacteria Protection from Radiation
+  Damaging Effects of Radiation
+  Effect of X-irradiation on Titration of Influenza Virus
+  Effect of Vitamin-K1 Analogue on Coagulation Time of
+              Cobalt-60-irradiated Mice
+  Effect of Gamma Radiation on Regeneration Rate of Planaria
+  Spirogyra and Cobalt-60
+  Effects of Blood Serum from Irradiated Guinea Pigs on Tissue Cultures
+  Chemical Protection from Radiation in Planaria
+  Induced Mutations in Drosophila
+  Effects of Gamma Rays on Yeast and Aspergillus
+  Radiation-Protective Effects of RNA
+  Radiation, Hematology, and Biochemical Study of Molt-Control Hormones
+              of Crayfish, and Possible Importance to Man
+  Radiation and Mutations
+  Aromatics Possibly Help Determine Plant Radiosensitivity
+  Bone Marrow Transplantation and Recovery
+  Mutation in Tomato Plants Produced by Gamma-Ray Radiation
+  Dietary Control of Ionizing Radiation
+  Effects of Cooling on Radiation Damage to Living Cells
+  Rate of Regeneration of Eyespots in Planaria
+  Effects of Radiation on Transmission of Nerve Impulses
+  Irradiation of Amino Acids
+
+
+Radioisotopes Topics
+
+  Use of Radioactive Salts in Plant and Animal Nutrition Studies
+  The Radioactive Isotopes: Its Uses in Medical Research and Treatment
+  Chemical Activity of Deuterium as Compared with Hydrogen
+  Radioisotopes in Medicine
+  Pinpointing the Past with Carbon-14
+  Algae Uptake of ³²P
+  Radioiodine and Construction of a Geiger-Mueller Counter
+  Radioiodine in Guppies
+  Uses of Radioisotopes
+  Radioisotopes
+  Chelation of a Radioactive Isotope in Rats
+  The Role for Radioactive Testosterone on Hematopoieses
+  Phosphorus-32 Tracer Studies Conducted with the Coleus Plant
+  Tracing the Organ Uptake of Radioisotopes in Animal Tissue
+  Carbon-14 in Photosynthesis
+  Transfer of Radioactive Elements on Succeeding Generations
+  Corrosion and Adsorption Studies Using Radiochemical Techniques
+  The Radioactive Elements—Separation, Detection, and Properties
+  Experiments with Radioisotopes
+  Translocation of Radioactive Phosphorus
+  Assimilation of Radioactive Isotopes in Fish
+  Use of ³²P by Plants
+  Comparative Studies of Isotope Utilization in Tomato Plants
+  Detection of Strontium-90 in Backbones of Fish from Areas of the
+              United States
+  The Circulation of Iodine (¹³¹I) in the Parabiotic Rat
+  Radioactive Zinc and Zinc-Chelates in the Hormone Metabolism of
+              Plant-Tissue Culture
+  Effect of Dietary Calcium on Deposition of Calcium-45 and Strontium-90
+  Autoradiographical Evidences of Cytological-Radioisotope Deposition
+  Tracing the Development of a Chick Embryo with ³²P
+  Radioactive Isotopes as Tracers
+  Beware! Strontium-90 Everywhere
+  Plant Research with Radioactive Phosphorus
+  The Kettleman Hills Formation (Carbon-14 Dating)
+  Radiobiologic Investigations of Contractile Activity and ATP-induced
+              Pinocytosis _in vitro_
+  Determination of the Half-life of ⁶⁵Zn
+  Atomic Farming
+  Nutrient Passage Through Plant Grafts as Tested with Radioisotopes
+  Study of the Period of DNS Synthesis Using Tritiated Thymidine
+  Absorption of Radioactive Iodine by Molds and Bacteria
+  Radioisotopes as Tracers
+  Translocation of ³²P in Plants
+
+
+Nuclear-Change Topics
+
+  Demonstration of Chain Reaction
+  A Study of Chain Reactions
+  The Theory and Construction of an Inexpensive Neutron Source of
+              Moderate Strength
+  A Study of the Reaction ₅B¹⁰(n,a)₃Li⁷ with the Aid of Nuclear Research
+              Plates
+  How Fission and Fusion Take Place
+  Uranium Fission and Isotope Production
+  From Uranium to Energy
+  Atomic Transmutation
+  Atomic Disintegration
+  Conversion of Atomic Power to Electric Power
+  Interactions Between Subatomic Particles
+  A General Study of Atomic Energy: Its Fundamentals and Its Uses
+  Atomic Power Plant
+  Construction of an Atomic Reactor
+  Atomic Power for Space Travel
+  Atomic Weapons
+  Model of Atomic Power Plant
+  Bikini Bomb-Explosion Model
+  Destruction by the Atom Bomb
+  Demonstrated Principles of Nuclear Physics
+  The Sun—Our Chief Source of Energy
+  Uranium—Radioactivity and Fission
+  Atomic Power—The Servant of Man
+  Power from the Sun
+  The Process of Nuclear Fission
+  Fusion—Source of Solar Energy
+  Electricity from Atomic Power
+  Effects of Thermal Neutrons on Mammalian Systems
+  Fusion
+  Nuclear-Powered Electric Generator
+  Particle Characteristics and Reactions
+  Fusion Theory of the Universe
+  Project Fusion
+  The Magnetic-Mirror Machine
+  Plasmatron
+  The Heating and Confinement of a Thermodynamically Stable Plasma
+  Controlled Thermonuclear Reaction
+  The Stability of Radioactive Equilibria
+  Determination of the Half-life of ⁶⁰Zn
+  Subatomic Particle Research
+  Nuclear Disintegration and Density
+  The Theory of the Plasma Torch
+
+
+
+
+                              APPENDIX II
+         NUCLEAR ENERGY-RELATED INVESTIGATIONS AND APPLICATIONS
+
+
+Listed below are a number of areas in which nuclear knowledge or atomic
+energy products may be used to achieve investigative, developmental, or
+engineering data and results which would have been unattainable a few
+years ago. Science fair exhibits may be based on projects in which these
+nuclear “tools” are employed to help solve problems of a non-nuclear
+nature. Such exhibits receive consideration for AEC Special Awards at
+the National Science Fair-International.
+
+
+Biology
+
+Biosynthesis of Compounds; Plant Genetics; Plant Metabolism; Plant
+Nutrition; Effects of Soil Density and Water Content; Disease Control;
+Pollination Agents; Crop Improvement; Photosynthesis; Ecological Cycles;
+Pest Control; Action of Pesticides; Ecology of Wildlife; Dispersion of
+Pesticides; Nutrition of Domestic Animals; Milk Production; Mammalian
+Aging; Animal Physiology; Genetic Chemistry.
+
+
+Medicine
+
+Blood and Water Volume Studies; Cardiac Output; Blood Flow; Measurement
+of Physiological Functions; Location of Appetite Control Centers;
+Formation of Blood Cells; Metabolic Processes; Cancer Study; Leukemia
+Study; Antibody Therapy; Study of the Central Nervous System; Vitamin
+Studies; Behavior of Viruses.
+
+
+Chemistry
+
+Reaction Mechanisms; Catalysis; Exchange; Kinetics; Corrosion; Dilution;
+Diffusion; Mineral Flotation; Detergent Action; Mirror Formation; Metal
+Plating; Analysis.
+
+
+Physics
+
+Standard Length Measurements; Film Thickness; Nuclear Structure; Vapor
+Pressures; Elementary Particles.
+
+
+Geology
+
+Sedimentation; Ocean Currents; Underground-Water Resources and Movement;
+Geological Dating.
+
+
+Industry
+
+Thickness Gauging; Process Control; Inspections for Defects; Volume
+Gauging; Leak Detection; Sterilization; Electron Printing; Flow-rate
+Gauging; Tool-wear Gauging; Dye-migration Measurement; Oil-well
+Acidizing Control; Lubricant Studies; Cleansing Efficiencies;
+Measurement of Oxygen in Metals; Food Preservation; Power Sources;
+Self-luminous Light Sources.
+
+
+
+
+                              APPENDIX III
+                          SUGGESTED REFERENCES
+
+
+The following is a partial listing of publications on science projects,
+science fairs, and atomic energy. Many of these publications also
+contain bibliographies which readers may use to multiply their source of
+knowledge.
+
+
+Science and Science Projects
+
+_Science Projects Handbook_, Shirley Moore (Ed.), Ballantine Books,
+      Inc., New York, 1960, 254 pp., $0.50.
+
+_Ideas for Science Projects_, V. Showalter and I. Slesnick, National
+      Science Teachers Association, Washington, D. C., 1962, 53 pp.,
+      $1.00.
+
+_Wonderful World of Science_, Shirley Moore and Judy Viorst, Science
+      Service, 1719 N Street N. W., Washington, D. C., 1961, 246 pp.,
+      $0.50.
+
+_How To Do an Experiment_, Philip Goldstein, Harcourt, Brace and World,
+      Inc., New York, 1957, 260 pp., $2.60.
+
+_Science News Letter_, published every week by Science Service, 1719 N
+      Street N. W., Washington, D. C., single copies, $0.15; $5.50 per
+      year.
+
+_Scientific American_, published every month by Scientific American,
+      Inc., 415 Madison Avenue, New York, single copies $0.60; $7.00 per
+      year.
+
+
+Science Projects and Science Fairs
+
+_Project Ideas for Young Scientists_, John Taylor, Phoebe Knipling, and
+      Falconer Smith, Joint Board on Science Education, Washington, D.
+      C., 1962, 173 pp., $1.25.
+
+_Ideas for Science Fair Projects_, Ronald Benrey and other winners of
+      the National Science Fair-International, Fawcett Publications,
+      Inc., Greenwich, Connecticut, 1962, 144 pp., $0.75.
+
+_Science Fair Projects_, Science and Mechanics Publishing Company,
+      Chicago, Illinois, 1962, 162 pp., $0.75.
+
+_Your Science Fair_, Arden Welte, James Diamond, and Alfred Friedl,
+      Burgess Publishing Company, Minneapolis, Minnesota, 1959, 103 pp.,
+      $2.75.
+
+_Scientific Exhibits_, Thomas Hull and Tom Jones, Charles C. Thomas,
+      Publisher, Springfield, Illinois, 1961, 126 pp., $6.50.
+
+
+Atomic Energy and Nuclear Science Experiments and Projects
+
+_Sourcebook on Atomic Energy_, Samuel Glasstone, D. Van Nostrand
+      Company, Inc., Princeton, New Jersey, 1958, 641 pp., $4.40.
+
+_Annual Report to Congress of the Atomic Energy Commission_, available
+      from the Superintendent of Documents, U. S. Government Printing
+      Office, Washington, D. C. (January 1964), 512 pp., $1.75.
+
+_Fundamental Nuclear Energy Research_ (annual report), available from
+      the Superintendent of Documents, U. S. Government Printing Office,
+      Washington, D. C. (December 1963), 412 pp., $2.50.
+
+_Atomic Energy_ (including experiments), Irene Jaworski and Alexander
+      Joseph, Harcourt, Brace and World, Inc., New York, 1961, 218 pp.,
+      $4.95.
+
+_Laboratory Experiments with Radioisotopes for High School Science
+      Demonstrations_, Samuel Schenberg, available from the
+      Superintendent of Documents, U. S. Government Printing Office,
+      Washington, D. C., 1958, 59 pp., $0.35.
+
+_Teaching with Radioisotopes_, U. S. Government Printing Office, out of
+      print but possibly available in school libraries or science
+      departments.
+
+_Experiments with Radioactivity_, National Science Teachers Association,
+      Washington, D. C., 1957, 20 pp., $0.50.
+
+_Atomic Energy_, Boy Scouts of America Merit Badge Series, available
+      from Official Boy Scout Distributors (at local retail stores) or
+      from Boy Scouts of America, National Supply Service, New
+      Brunswick, New Jersey 08903.
+
+_Scientific Instruments You Can Make_, Helen M. Davis, Science Service,
+      1719 N Street N. W., Washington, D. C., 1959, 253 pp., $2.00.
+
+_Experiments with Atomics_, Nelson Beeler and Franklin Branley, Thomas
+      Y. Crowell Company, New York, 1954, 160 pp., $2.50.
+
+_Atomic Experiments for Boys_, Raymond F. Yates, Harper and Row
+      Publishers, Inc., New York, 1952, 132 pp., $2.50.
+
+_Atomic Energy and Civil Defense_ (Price List 84) a listing of related
+      publications available from the Superintendent of Documents, U. S.
+      Government Printing Office, Washington, D. C., free.
+
+
+Preparation of Scientific and Technical Reports
+
+_How to Write Scientific and Technical Papers_, Sam F. Trelease,
+      Williams & Wilkins Company, Baltimore, Maryland, 1958, 185 pp.,
+      $3.25.
+
+_Writing Useful Reports_, Robert E. Tuttle and C. A. Brown,
+      Appleton-Century-Crofts, Inc., New York, 1956, 635 pp., $4.75.
+
+_Technical Reporting_, Joseph N. Ulman, Jr., and J. R. Gould, Holt,
+      Rinehart & Winston, Inc., New York, 1959, 289 pp., regular edition
+      $6.75; textbook edition $5.00.
+
+_Report Writers’ Handbook_, Charles E. Van Hagan, Prentice-Hall, Inc.,
+      Englewood Cliffs, New Jersey, 1961, 276 pp., regular edition
+      $9.35; textbook edition $7.00.
+
+
+
+
+                              APPENDIX IV
+            WORKING WITH RADIATION AND RADIOACTIVE MATERIALS
+
+
+No scientist worth his title ever exposes himself needlessly to any
+potential hazards which confront him in his investigations. Thoughtful
+student scientists also will avoid any unnecessary exposure to ionizing
+radiation, particularly since bad habits acquired while doing student
+projects may be difficult to overcome later.
+
+Before undertaking experiments with radioactivity, consult your science
+teacher or project counselor. Any materials to be irradiated should be
+processed with professional equipment by persons trained and authorized
+to operate it. Use of radioisotopes, even in quantities exempt from
+license requirements, usually involves special laboratory facilities,
+techniques, and instruments, as well as the isotope itself. Make certain
+that all these will be available to you before you embark on your
+project.
+
+If possible, conduct all work with radioisotopes under the supervision
+of a trained, experienced isotope technician. At the very least,
+familiarize yourself with the specialized handling techniques required
+(see _Experiments with Radioactivity_ or _Laboratory Experiments with
+Radioisotopes for High School Science Demonstrations_, listed in
+Appendix III). Then follow them to the letter!
+
+
+
+
+                               APPENDIX V
+                       SUPPLIERS OF RADIOISOTOPES
+
+
+Your science teacher or project counselor may know of a nearby
+laboratory from which you can obtain the radioisotopes required for your
+investigation. If you wish to write direct to a commercial source, some
+of the suppliers of application-exempt quantities are:
+
+  Atomic Corporation of America
+  14725 Arminta Street
+  Panorama City, California
+
+  Abbott Laboratories
+  Box 1008
+  Oak Ridge, Tennessee
+
+  Bio-Rad Laboratories
+  32nd & Griffin Avenue
+  Richmond, California
+
+  Nuclear Consultants Corporation
+  9842 Manchester Road
+  St. Louis 19, Missouri
+
+  U. S. Nuclear Corporation
+  801 N. Lake Street
+  Box 2022
+  Burbank, California
+
+  Nuclear-Chicago Corporation
+  333 East Howard Avenue at Nuclear Drive
+  Des Plaines, Illinois
+
+  New England Nuclear Corporation
+  575 Albany Street
+  Boston, Massachusetts
+
+  Union Carbide Nuclear Company
+  Oak Ridge National Laboratory
+  Isotope Sales Department
+  P. O. Box X
+  Oak Ridge, Tennessee
+
+  ChemTrac Corporation
+  130 Alewife Brook Pkwy.
+  Cambridge 40, Massachusetts
+
+  Nuclear Consultants, Inc.
+  33-61 Crescent Street
+  Long Island City 6, New York
+
+
+
+
+                              APPENDIX VI
+                    INTERNATIONAL SCIENCE FAIR RULES
+
+
+  _Finalists who enter the ISF must follow these rules without
+  exception._
+
+The following code refers to the ISF rules listed below:
+
+  S—School Fairs (recommended)
+  R—Regional Fairs (recommended)
+  I—ISF (required)
+
+
+S-R-I
+
+Categories established for grouping and judging science projects at the
+ISF are:
+
+  Botany
+  Zoology
+  Medicine and Health
+  Biochemistry
+  Chemistry
+  Pure Physics
+  Applied Physics and Engineering
+  Mathematics and Computers
+  Earth and Space Sciences
+
+  Entries in any of these categories, if nuclear-related, will be
+  considered for AEC Special Awards at the International Science Fair.
+
+
+S-R-I
+
+Project exhibit size is limited to 30 inches deep (front to back), 48
+inches wide (side to side), and 12 feet high (floor to top). Any project
+exceeding these dimensions is oversize and does not qualify for entrance
+in the ISF.
+
+
+R-I
+
+Each exhibitor must assemble his or her exhibit without major outside
+help, except for transportation and unpacking.
+
+
+S-R-I
+
+A typed abstract of the project, using not more than 250 words, is
+required and must be displayed with the project.
+
+
+S-R-I
+
+Anything which could be hazardous to public display is prohibited. This
+includes:
+
+Live poisonous animals may not be displayed.
+
+No dangerous chemical substances such as caustics, acids, highly
+combustible solids, fluids or gases may be displayed. If such materials
+are required, inert substitutes should be used.
+
+No open flames are permitted.
+
+Any project producing temperatures exceeding 100°C must be adequately
+insulated from its surroundings.
+
+Highly flammable display materials are prohibited.
+
+Tanks which have contained combustible gases must be purged with carbon
+dioxide. No combustible fuel may be displayed.
+
+High voltage equipment such as large vacuum tubes or dangerous
+ray-generating devices must be shielded and safety checked by a
+qualified inspector. Students should be cautioned in advance about the
+dangers of experimenting with such equipment and their work carefully
+supervised.
+
+
+S-R-I
+
+No live, warm-blooded animals may be displayed at the ISF. Projects
+involving the use of such animals may display photographs, drawings,
+charts or graphs to illustrate the conditions, developments, and results
+of the investigations. This eliminates the needless shipping, housing,
+care, harm, discomfort or loss of animals.
+
+
+S-R-I
+
+During judging the exhibit area is closed to all except judges and
+authorized personnel. Exhibitors may be present only at a specified time
+during which they are to remain at their exhibits.
+
+
+S-R-I
+
+All exhibitors must be interviewed at their projects by at least one
+judge. The purpose of all interviews is to determine the exhibitors’
+familiarity with the project, the science involved, and to give the
+student an opportunity to meet the judges, react to questions and to
+discuss their work with a recognized leader. Care must be taken to allow
+a reasonable interview time within the time limits allotted for judging.
+
+
+I
+
+Not more than two students, male or female, may be certified as
+finalists to the ISF from an affiliated science fair. They must be
+students in 10th, 11th or 12th year classes in a public, private or
+parochial school.
+
+
+I
+
+A student who will have reached age 21 on or before May 1, preceding the
+ISF is not eligible to participate as a finalist in the ISF.
+
+
+I
+
+A student may enter only one project and it must be his own work. Group
+projects involving two or more students give experience to beginners and
+are acceptable in S or R fairs but may not be entered in the ISF.
+
+
+I
+
+The identical repetition of previous year’s project is not permitted.
+However, a student may again exhibit work on a continuing problem
+provided the work demonstrates considerable progress when compared with
+the previous year.
+
+
+I
+
+Finalists must be accompanied to the ISF by an official adult escort
+designated and/or sponsored by the regional fair. Responsibility and
+liability for entry in the ISF rests with the affiliated fair
+organization which finances the entry, provides transportation for the
+finalists and their projects, and living expenses during ISF.
+
+
+I
+
+Students planning to enter exhibits in the ISF which contain materials
+that may be regulated by a quarantine should first consult with a
+Federal or State plant pest control or animal health inspector, a county
+agricultural agent, or write to the Director, Plant Pest Control
+Division, U. S. Department of Agriculture, Federal Center Building,
+Hyattsville, Maryland 20782.
+
+
+S-R-I Regulations for Experiments With Animals
+
+_This guide was prepared and approved by the National Society for
+Medical Research, the Institute of Laboratory Animal Resources (National
+Research Council), and the American Association for Laboratory Animal
+Science (1968)._
+
+1. The basic aims of scientific studies involving animals are to achieve
+an understanding of life and to advance our knowledge of life processes.
+Such studies lead to respect for life.
+
+2. Insects, other invertebrates and protozoa are materials of choice for
+many experiments. They offer opportunities for exploration of biological
+principles and extension of established ones. Their wide variety and the
+feasibility of using larger numbers than is usually possible with
+vertebrates makes them especially suitable for illustrating principles.
+
+3. A qualified adult supervisor must assume primary responsibility for
+the purposes and conditions of any experiment that involves living
+animals.
+
+4. No experiment should be undertaken that involves anesthetic drugs,
+surgical procedures, pathogenic organisms, toxicological products,
+carcinogens, or ionizing radiation unless a trained life scientist,
+physician, dentist or veterinarian directly supervises the experiment.
+
+5. Any experiment must be performed with the animal under appropriate
+anesthesia if pain is involved.
+
+6. The comfort of the animal used in any study shall be a prime concern
+of the student investigator. Gentle handling, proper feeding, and
+provision of appropriate sanitary quarters shall be strictly observed.
+Any experiment in nutritional deficiency may proceed only to the point
+where symptoms of the deficiency appear. Appropriate measures shall then
+be taken to correct the deficiency, if such action is feasible, the
+animal(s) shall be killed by a humane method.
+
+
+This booklet is one of the “Understanding the Atom” Series. Comments are
+invited on this booklet and others in the series; please send them to
+the Division of Technical Information, U. S. Atomic Energy Commission,
+Washington, D. C. 20545.
+
+Published as part of the ABC’s educational assistance program, the
+series includes these titles:
+
+  _Accelerators_
+  _Animals in Atomic Research_
+  _Atomic Fuel_
+  _Atomic Power Safety_
+  _Atoms at the Science Fair_
+  _Atoms in Agriculture_
+  _Atoms, Nature, and Man_
+  _Books on Atomic Energy for Adults and Children_
+  _Careers in Atomic Energy_
+  _Computers_
+  _Controlled Nuclear Fusion_
+  _Cryogenics, The Uncommon Cold_
+  _Direct Conversion of Energy_
+  _Fallout From Nuclear Tests_
+  _Food Preservation by Irradiation_
+  _Genetic Effects of Radiation_
+  _Index to the UAS Series_
+  _Lasers_
+  _Microstructure of Matter_
+  _Neutron Activation Analysis_
+  _Nondestructive Testing_
+  _Nuclear Clocks_
+  _Nuclear Energy for Desalting_
+  _Nuclear Power and Merchant Shipping_
+  _Nuclear Power Plants_
+  _Nuclear Propulsion for Space_
+  _Nuclear Reactors_
+  _Nuclear Terms, A Brief Glossary_
+  _Our Atomic World_
+  _Plowshare_
+  _Plutonium_
+  _Power from Radioisotopes_
+  _Power Reactors in Small Packages_
+  _Radioactive Wastes_
+  _Radioisotopes and Life Processes_
+  _Radioisotopes in Industry_
+  _Radioisotopes in Medicine_
+  _Rare Earths_
+  _Research Reactors_
+  _SNAP, Nuclear Space Reactors_
+  _Sources of Nuclear Fuel_
+  _Space Radiation_
+  _Spectroscopy_
+  _Synthetic Transuranium Elements_
+  _The Atom and the Ocean_
+  _The Chemistry of the Noble Gases_
+  _The Elusive Neutrino_
+  _The First Reactor_
+  _The Natural Radiation Environment_
+  _Whole Body Counters_
+  _Your Body and Radiation_
+
+A single copy of any one booklet, or of no more than three different
+booklets, may be obtained free by writing to:
+
+            USAEC, P. O. BOX 62, OAK RIDGE, TENNESSEE 37830
+
+Complete sets of the series are available to school and public
+librarians, and to teachers who can make them available for reference or
+for use by groups. Requests should be made on school or library
+letterheads and indicate the proposed use.
+
+Students and teachers who need other material on specific aspects of
+nuclear science, or references to other reading material, may also write
+to the Oak Ridge address. Requests should state the topic of interest
+exactly, and the use intended.
+
+In all requests, include “Zip Code” in return address.
+
+
+                Printed in the United States of America
+USAEC Division of Technical Information Extension, Oak Ridge, Tennessee
+
+
+
+
+                          Transcriber’s Notes
+
+
+—Silently corrected a few typos.
+
+—Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+—In the text versions only, text in italics is delimited by
+  _underscores_.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK ATOMS AT THE SCIENCE FAIR: EXHIBITING NUCLEAR PROJECTS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
