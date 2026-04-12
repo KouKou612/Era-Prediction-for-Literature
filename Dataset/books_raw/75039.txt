@@ -1,0 +1,481 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 75039 ***
+
+
+
+
+
+
+                                    A
+                              New DISCOVERY
+                             For Finding the
+                                LONGITUDE.
+
+                         Humbly Submitted to the
+
+                   Approbation of the Right Honourable
+                  the Lords Spiritual and Temporal, and
+                   the Rest of the Honourable Persons,
+                appointed by the late _Act of Parliament_,
+                 for Hearing and Determining _Proposals_
+                     relating to the said LONGITUDE.
+
+                   _By_ William Hobbs, _Philo Mathem._
+
+                              [Illustration]
+
+                                _LONDON:_
+           Printed for the Author, and are to be Sold by _Fard.
+                        Burleigh_ in _Amen-Corner_.
+
+                                                         Price Six-pence.
+
+        _Note_, The former Impression was Printed _July 12. 1714._
+
+
+
+
+_A New Discovery for Finding the ~Longitude~._
+
+
+For Finding the Longitude, it is to be noted, That if the true Hour, and
+Minute of the Day, at the Place of our first ~Departure~, and where we
+are ~Arrived~, can be both obtained, the Difference of Longitude may be
+found, as truly as the Difference of Latitude.
+
+For which purpose the _Spring-Movement_ hereunto subjoined, is most
+humbly proposed to effect the same, even to the Tenth of a Minute
+of Time. So that should the Error of a Minute happen to be found in
+Practice, it must proceed from the Influence or Vicissitude of the
+Air, and not from any Defect in the Rules by which the said Movement
+is composed, as will plainly appear by the Explication thereof, in the
+following Lines; and first of
+
+
+_The Description of the said Movement._
+
+This Movement may be either of the Form and Bigness of that in a Common
+Clock; or else of the Smallness of a Pocket Watch, as may be thought
+convenient in Practice. But the larger it is, the better the Divisions
+in the _Horologe_ will appear. And as for the Numbers, they may be at
+pleasure: Only this must be observ’d, That the swiftest Index must make
+just One Revolution, whilst the slow one goes but One of the Hundred
+Divisions, (as is common in Minute Watches, wherein 60 Minutes goes to an
+Hour) but the rest of the Numbers may be at pleasure, as aforesaid. And
+if the Slowest moves round in 3, 4, or 5 Days; and the Movement requires
+to be wound up once in 26 or 27 Hours, it will be sufficient: For the
+more Vigor the Motion is calculated for, the less the Air will affect it.
+
+
+_How to set it first in Motion._
+
+When it is finished, let it go for a Month or two; after which put the
+two _Indexes_ right one with the other, and both of them pointing just to
+100. Then the Spring being wound up, keep it from Going (with the Key)
+till the Shadow of the Sun is exactly come to a _Meridian_ Line, which
+must be rightly prepared for that purpose. Then let it go till the Shadow
+comes just to the same Line the next Day, or rather 40, 50, or 100 Days
+after, (the longer the Better.) At which time enter down the _Centesms_
+that the swiftest _Index_ points to, as also the _Integers_ and _Tenths_
+of the slowest, (but put the last first in your Numbers) by this you will
+be furnished with two general Numbers, _viz._ the said Numbers pointed
+to, and the Time (in Hours) spent therein, to find the Hour of the Day to
+the Tenth of a Minute, at any time; for that Place where it was so set
+going, tho’ you remove it afterwards to any Distance whatsoever. Which
+two Numbers ought to be entered in a Book; to be used whensoever you
+would find the Hour of the Day.
+
+And it is to be noted, That if the Sun be not then in its Mean Motion,
+you must Add to, or Substract from what the _Indexes_ do Give, according
+to the Inequality thereof: But if you try it for one whole Year, there
+will be no need of either. And that what is said may be the better
+understood, I shall give an Example.
+
+
+_How to find the Hour and Minute of the Day at ~London~, by the said
+Movement._
+
+Suppose it should be made for the Slowest to Revolve in about five
+Days, and after it has gone just two Days, the Slowest _Index_ should
+then point between 39 and 40, and the Swiftest to 21.5. Then both these
+Numbers (as set in Order) will make 3921.5. And if the Sun be in its
+Mean Motion (if not, you must Add or Substract, as aforesaid) then the
+said Numbers 3921.5 must always be the First; the said two Days, or 48
+Hours, the Second; and the two Numbers pointed to by the _Indexes_, at
+the time for which you would find the Hour and Minute of the Day (as
+suppose the slow one should point to 87, and the swift one to 65.2, both
+making 8765.2) must be the Third; by which the Fourth will be obtained as
+followeth: Which Fourth Number being Divided by 12, the Remainder will
+be the Hour and Minute of the Day at _London_, as was required.
+
+               Hours           Hours.
+    As 3921.5 : 48 :: 8765.2 : 107.18
+                                ho.  min.        }
+                        Remains 11 : 10.8 hours. } Requir’d
+                              or 11¹⁸⁄₁₀₀        }
+
+And so for any quantity of time less than one Revolution.
+
+But if the time required to find the Hour and Minute at _London_, (when
+at Sea or Land,) be some Weeks or Months, _after_ it was first set going;
+or (if cleansed) after it was last _Cleansed_; then you must add 10000.0
+to what the two Indexes do shew, for each _Revolution_, that it has made,
+since it was so set going, or last cleansed. And if you would at any
+time know how many such Revolutions must be added, to what is shewn by
+the Horologe; you must first note the _Day_ of the Month, that you are
+then seeking the Hour for; as suppose _Novem. 12. 1715._ After which note
+the _Day_ last entred, when cleansed; as suppose _Sept. 5. 1715._ Then
+compute the number of Days between _Sept. 5._ and _Novem. 12._ which is
+25, 31, and 12, In all 68. After which observe the _Time_ last spent in
+one Revolution; which you see was 5 Days, 4 Hours, and ⅛ (for which set
+down ⅒ for ’twill make no sensible Difference) and having thus done, say,
+
+      Days Hours       Hours  Revo.  Days
+    As 5   4⅛ equal to 124.1 :  1  :: 68 : 13. whole Revolutions;
+
+For which, as before directed, you must add 13 times 10000.0 to the
+Numbers pointed to, by the two Indexes: Which if we suppose 3752.2 making
+in all 133752.2 will be the Number required, for the 12ᵗʰ of _November_,
+if the Indexes should both point as before proposed. And having now found
+this Number, you are prepared to find the Hour and Minute at _London_,
+in manner following (_viz._) suppose you are in or near 44 Degrees of
+Latitude, in the Autumn Season. Then seek the Latitude 44 Deg. and the
+Season _Autumn_, in the Book that is peculiar to your Movement, and
+having found both, take the Numbers Answering thereunto, which (in this
+Example) is 29274.2 and 240 Hours; and then say,
+
+                Hours               Hours
+    As 29274.2 : 240 :: 133752.2 : 1096.84
+
+Which being devided by 12, leaves remaining 4.84 ho. or 4 ho. 50.4 min.
+required, for the Hour and Minute at _London_, by which the Longitude
+will be found, as before directed.
+
+And seeing it was near the Winter Season: If you should add the Autumn
+and Winter Numbers, and Hours respectively together; and make them
+the two first Numbers in your Proportion; it would Æquate the Seasons
+more exactly: I mean, if the said Numbers had been really entred from
+Practice; but these are only supposed. And by this method you may Æquate
+the Numbers for finding the true Hour and Minute at any Season; or for
+any other Latitudes whatsoever.
+
+
+_How to find the Hour and Minute, at the place where you are, when
+abroad, either at Sea or Land._
+
+For Solving this, there are Two Ways, the First and Infallible is, when
+the Sun is either Rising or Setting; at which times, if the Air be clear,
+observe what Numbers are pointed to by the two _Indexes_, (but observe
+the swiftest first, because it will soon be removed) just as the Center
+of the Sun is in the Horizon; and enter both the Numbers down, as before
+directed, with the Day of the Month, and the Latitude you are then in:
+Which having done, by the following Cannon, say,
+
+    As ℞
+
+    Is to t. c. of the Sun’s Decl.
+
+    So is t. Lat.
+
+    To s. c. of an Angle; which, if converted into Time (by 15)
+    Gives the Hour and Minute of the Sun’s Rising from Midnight;
+    and if Substracted from 12 ho. gives the Setting. Which shews
+    the true Hour and Minute at the Place where you then are,
+    either at Sea or Land.
+
+The Second way for Solving the said Question, is by taking the Sun’s
+Altitude, when about 5 or 10 degrees above the Horizon; and at the same
+time let another Person see what Number the Swiftest Index points to,
+and after that the Slowest: Then put them both down as before directed,
+with the Day of the Month, and the Latitude of the place where you are;
+then have you the Sun’s _Altitude_, the said _Latitude_, and the Sun’s
+_Declination_, to find the Hour and Minute of the Day at the place
+required.
+
+Now having by the said Observations and Cannons found the Hour and Minute
+of the Day for the Place where you are, when abroad; and by the Numbers
+pointed to, by the two Indexes, also found the Hour and Minute that it
+is at _London_, (if the Movement was there set going;) If you take the
+Lesser of these from the Greater, and bring the Remainder into Minutes,
+it will give the difference between the two places in ~Time~; by which
+you may find their difference of Longitude either _East_ or _West_ to a
+Minute, by the following proportion, (_viz._)
+
+Suppose the Difference of Time was 37 Minutes, then say,
+
+       { Minutes of}   {Minutes of}    {Minutes of}   {Minutes of}
+    As {   Time    } : { Longitude} :: {   Time   } : { Longitude}
+       {   1440.   }   {   21600  }    {    37    }   {   555.5  }
+       {or 24 hours}                                  { Deg. Min.}
+                                                      or 9 : 15.5
+                                                        Required.
+
+Which 9 deg. 15.5. min. being added to, or taken from the Longitude of
+the Place, where the said Movement was first set in Motion, gives the
+Longitude you are come into, as effectually as the Latitude is obtained
+by Observation, as was at first proposed. So that it is evident, that
+if any defect should be found in practice, it must proceed from the
+Vicissitude of the Air; and not from any Deficiency in this Discovery, or
+from the Cannons relating thereunto.
+
+And that we may Answer all _Objections_, which may arise, on Account of
+the said Vicissitude of the Air, Motion of the Ship, Foulness of the
+Movement, _&c._ as well as render this Discovery more intelligible, we
+will descend to speak thereof more particularly: And,
+
+In the first place, let Five or Six (or what Number you please) of these
+Movements be made; and after they have gone for a Month or two, (or if
+designed for the Sea, ’till within two or three Weeks of your Sailing)
+then take them asunder, and set them going by the _Meridian_ Line,
+as before directed. And having entred down in the Book, herein after
+mentioned, the Day of the Month, when set going; how long it is making
+one Revolution; and what Number is produced, in just Ten Days Motion,
+(all which must be done, before you Sail in every Voyage;) Let them be
+carry’d to Sea, into any Latitude, (suppose 50 Deg. or _Newfoundland_)
+and at their Return bring them again to the said _Meridian_ Line, and
+thereby (with the help of the Number of Days from their being first set
+in Motion) find the two first ~Proportional Numbers~, as before directed:
+Which done, enter them in a Book, peculiar to each Movement, (the Form
+whereof followeth) together with the Latitude, and Season of the Year in
+which the Voyage was made. Then will they all be fitted for a Voyage to
+_Newfoundland_, and Parts adjacent, for any such Season. And so for any
+other, when Tried and Entred, as now directed.
+
+After which, send them all in a Ship bound to the Latitude of about 37
+Deg. (suppose _Virginia_); and being returned, let the Numbers be found
+and entred, as aforesaid, with the Latitude and Season; then will any
+one, or all of them, be fitted for a Voyage, either to _Newfoundland_ or
+_Virginia_, or any of those Parts, for any such like Season; and so for
+any other, when Tried and Entred as aforesaid.
+
+This being done, send them also in a Ship, bound to the Latitude of 13
+Deg. (suppose _Barbados_ or _Jamaica_;) and being returned, find the
+Numbers, and enter them with the Latitude and Season: So will they all be
+fitted for these several Latitudes, (_viz._) 50 Deg. 37 Deg. and 13 Deg.
+at such a Season: And by a like Process to the _Æquinoctial_, and towards
+the _North Pole_.
+
+Upon which several Tryals, you will have so many Movements fitted for all
+the _North Hemisphere_, both for Hot, Cold and Temperate Seasons. And, by
+only Counterchanging the Latitudes, for the whole Globe; or at least for
+the Marine Parts thereof.
+
+And to what is proposed to be Entred, in respect of Latitude and Season,
+you may also add the Time of its being first set in Motion after
+Cleansing; which Cleansing must be done only Annually, and as near as
+may be on the same Day of the Month; which will much facilitate the
+Inequality arising from its Foulness: By which all Objections will be
+answer’d, and the Discovery render’d compleat and perfect. Especially
+if a true _Meridian Line_ be made in every considerable Port in this
+Kingdom, and elsewhere; for Examining the Movement at your Arrival
+abroad, and setting it in _Motion_, before your Departure. But remember,
+that where you set it going, from thence your _Departure_ must be
+reckon’d.
+
+And by this Method all the said Vicissitudes that may arise in respect of
+Latitude or Seasons, Motion of the Ship (which will be near the same in
+one Voyage, as in another) and Cleanness or Foulness of the Work, will
+also plainly appear upon Record, (by comparing one Number in the said
+Book with another) and will be Accounted for, and Æquated, as occasion
+requires: Namely, by only taking such Numbers from the said Book, to work
+your Proportion by, as are entred for the Latitude and Season, that you
+are again Arrived to, or Sailing under: As suppose into 50 Deg. in the
+Summer Season, then take the Number and Hours answering thereunto; and
+so, if in Winter, those for the Winter. By which proportionable Numbers,
+the said Contingencies will be truly and effectually Allowed, and the
+Difference in Motions justly Æquated, as was before asserted.
+
+    _Note_, That in this Movement, the ~Time~ is Regulated or
+    Conformed to the ~Motion~: Whereas in former Movements, the
+    ~Motion~ is Regulated or Conformed to the ~Time~. And this
+    ought to be well understood, before you can rightly comprehend
+    what is herein contained.
+
+Now that this Movement, or Discovery, does not only differ from, but
+also far exceed, any that has hitherto been proposed; is evident in this
+(_viz._) That if any former Movement whatsoever be Timed here, as usual,
+~Before~ it is carried to Sea, (tho’ never so exactly) yet the change of
+Climate, _&c._ will so affect it, as to make it go False: And if you fit
+it there, then ’twill be also False when brought hither: But if by this
+Movement, and the foregoing Rules, the said Numbers be found ~After~ it
+is returned from such a Voyage; all the said Defects or Contingencies
+will be Æquated by the said Numbers only. So that it will be the same in
+use, as if no such Accidents did attend it at all. And this Assertion
+must, and will be granted, by every one that does fully comprehend the
+Nature and Use thereof. For altho’ this _Horologe_ has no certain _Hours_
+or _Time_ pre-assigned to it; yet it hath nevertheless, greater or
+lesser Numbers Æquated to the Variableness of Motion or Time, (_viz._)
+If fitted to be used here in _England_, then it hath (or may have) one
+sort of Numbers (or Time) for finding the Hour and Minute, in the Summer
+Season; another for Winter; and a third for the Spring and Fall; one when
+it lyeth undisturbed in one and the same place; another (if you please)
+when carry’d always in a Rattling Coach. And on the other hand, if you
+carry it to Sea, then it has one for the _Torrid_, one for the _Frigid_,
+and a third for the _Temperate Zones_, &c. And yet still but one and the
+same _Horologe_, and but one and the same _Indexes_. So that all manner
+of Natural Vicissitudes or Contingencies whatsoever, may be Regulated
+or Æquated in and by the said Numbers; and consequently, the true Hour
+and Minute of the Day, where it is first set going, may be hereby as
+effectually found, as if no such Impediments did at any time or place
+attend it, as aforesaid.
+
+And as for what may be suggested in relation to the Inequality between
+the Spring and Fusie, if any should be, it will be compensated, in that
+there are five or six Windings up of them, to one Revolution in the
+_Horologe_. So that there is nothing wanting to compleat this Discovery,
+but to put it into Practice: And seeing the Charge and Trouble is very
+Inconsiderable; and the Legislature by _Act of Parliament_, hath been
+graciously pleased to Incourage hereunto, it is thought expedient to make
+this publick Proposal, _viz._
+
+That if any one Person is willing to Engage in this so Noble an
+Enterprize, he will be readily received as a Partner, on such Conditions
+as may be Reasonably Concerted therein.
+
+    _You may hear of the Author at Mr. ~Burleigh~’s in
+    ~Amen-Corner, London~._
+
+
+
+
+MEMORANDUM.
+
+
+1. All Departures must be reckon’d from _London_, if the Movement was
+there Set going.
+
+2. That wheresoever they are Set going, there must be a large and exact
+Meridian Line prepared by a Perpendicular, set up in an Horizontal
+Circle, as is Mathematically taught, _&c._
+
+3. That an Equal time be spent in Winding it up, as near as possible; for
+which no time need be allowed, if Equated for 10 or 12 Months; because
+the time required will be the same for the same time, and greater for a
+greater, _&c._
+
+4. That the said Movement be carefully kept in one and the same
+Temperature of Air, as near as possible.
+
+5. That after this Movement is fully proved, if it should not (by reason
+of any sudden change of Air) agree to a Minute, yet it ought not in this
+respect to be altered or much regarded, because the moistness of one
+Month, may compensate the Dryness of another: So that by such time as you
+are arrived to the end of your Voyage, the Movement may even Rectifie or
+Correct it self.
+
+6. It is to be noted, That if the Sun comes too soon to the Meridian, it
+will also come too soon to the Horizon; and therefore, Watch too fast, or
+too slow, must be Added or Substracted, as aforesaid.
+
+7. That it be always wound up, as near as may be, at one certain time of
+the Day, (_viz._) if at Sea, about Twylight, or Break of Day, as may be
+thought expedient. And if it should happen to be omitted, so long as to
+stand still; you must not set it going again, but by taking it assunder,
+and putting the two Indexes together, and bringing the Movement to the
+Meridian Line, as at first directed. Therefore when at Sea be careful of
+such Omissions.
+
+8. It is to be noted, That altho’ every Minute of Time, does Answer to
+about 15 or 16 Miles _English_, under the _Equinoctial_; yet it is not
+above 9 or 10 Miles in our Latitude to one such Minute. And altho’ it
+be so many under the Equinoctial, yet _there_ the Sun’s Altitude will
+be taken very exact, because 90 degrees of Altitude, is for 6 hours of
+Time; whereas in our Latitude, it is but 62 degrees, for 8 hours of Time;
+both which Advantages will Facilitate the Practice. I shall at present
+conclude with acquanting,
+
+That if a common Minute Watch (by Filing or Loading the Ballance, or
+otherwise) be made to go, or does already go, any unknown quantity of
+Time, either too Fast, or too Slow; by this Device, we may find the Hour
+and Minute of the Day by such a Watch, more exactly than can be done by
+the best timed common Watch whatever. And this even without touching it,
+other than by Winding up the Spring as usual.
+
+There are other Improvements that may be made of this Discovery, but I
+reserve them to some other Opportunity.
+
+
+
+
+_The FORM of the Book to be kept for each Movement, wherein must be
+entred the Numbers, &c. (which are to be found at the Returning of the
+Ship) for finding the Hour and Minute at ~London~._
+
+
+ --------------------------------------------------------------------------
+   The Movement, Number 1. was      } and { Then made one Revolution, in 5
+   first Set Going _Sept. 4. 1714._ }     { days, 4 hours, and a quarter.
+ +-------+---------+---------+------+--------+---------------+------------+
+ |Degrees|Numbers  | Hours   | Diff-|Seasons | Time when the |Numbers,    |
+ |  of   |to be    |spent in |erence|in which| Movement was  |shewing how |
+ | Lati- |found and|producing|  in  |the Ship| set in Motion |the Motion  |
+ | tude. |used in  |the said | Num- |was     | & Try’d; at   |is retarded |
+ |       |finding  |Numbers. | bers.|Sailing.| & after first |by Foulness,|
+ |       | the     |         |      |        | Making or     |on a Tryal  |
+ |       |Hour at  |         |      |        | Cleaning.     |of 10 Days  |
+ |       |_London_.|         |      |        |               |at a time.  |
+ |       |         |         |      |        |               |            |
+ |  I.   |   II.   |  III.   |  IV. |   V.   |     VI.       | VII.  Days.|
+ |  50   | 29276.2 |  240    |      |_Autumn_|_Sep. 16. 1714_|29276.2| 10 |
+ |  52   | 37962.4 |  432    |      |_Winter_|_Dec.  4. 1714_|29272.5| 10 |
+ |  44   | 37942.  |  430    |      |_Spring_|_Ma.  20. 1715_|29264. | 10 |
+ |  48   | 37912.2 |  431    |      |_Summer_|_June  1. 1715_|29237.4| 10 |
+ +-------+---------+---------+------+--------+---------------+-------+----+
+ | Cleansed _Sept. 5. 1715._  Then made one Revol. in 5 days, 4 ho. and ⅛.|
+ +-------+---------+---------+------+--------+---------------+-------+----+
+ |  50   | 29274.2 |  240    |      |_Autumn_|_Sept. 5. 1715_|29274.2| 10 |
+ |  52   | 37957.9 |  432    |      |_Winter_|_Dec. 17. 1715_|29268. | 10 |
+ |  44   | 37942.  |  430    |      |_Spring_|_Ma.  16. 1715_|29264. | 10 |
+ |  48   | 37907.5 |  431    |      |_Summer_|_June  8. 1716_|29232.7| 10 |
+ +-------+---------+---------+------+--------+---------------+-------+----+
+
+_Note_, That the Numbers to be used after _Cleaning_, (_viz._ after
+_Sept. 5. 1715._) are found by Substracting or Adding the Difference
+between the two Numbers in the Seventh Column, (_viz._ that of _Sept.
+5._) and that of _Sept. 16._ (which is only 2.) out of the former Numbers
+to be used for the same Latitude; on which there will remain 29274.2 for
+the _New_ Number to be used in Lat. 50. Deg. in _Autumn_, instead of the
+former, until the next Cleaning, (which must be only Annually) and so
+of the rest, from one Cleaning to another. And this method must be used
+for the respective Latitudes, according as Observations shall be made
+therein, and Numbers found to answer thereunto.
+
+_Note also_, That this Experiment may be sufficiently Tryed and Proved,
+by only two or three Voyages, to the South-West parts of _Ireland_, or to
+_Newfoundland_ at farthest.
+
+But notwithstanding what has been said, It is chiefly to be noted, That
+altho’ I have proposed (for Example sake) that the General Numbers
+should be found, by Sailing to _Newfoundland_, _Virginia_, _Barbados_,
+&c. and returning again to a _Meridian Line_ at _London_: Yet if the
+_Honourable Persons_ before-mentioned in this Title-Page, to whom the
+whole is most humbly submitted, will please to appoint a Ship for this
+purpose, the said Numbers may be much better found in manner following;
+(that is to say) By ordering that the said Ship shall first make a true
+_Meridian Line_, at or near the Lat. of 60 Degrees; and thereby set the
+Movements going, in manner aforesaid: After which let them Sail about
+40 or 50 Leagues distant from the Shore, and there Cruise _Northward_
+and _Southward_ for about a Month’s time; after which let them return
+again to the same _Line_, and find the Numbers, and also enter them, as
+before directed. And having so done, let them make another _Meridian
+Line_, about 15 Deg. more Southward, and there do in like manner: And so
+at the like Distance to the _Equinoctial_. After which, let them begin
+again, and repeat the same Process for three or four times: By which
+means the Numbers will be found, and the different Motion of the Movement
+discover’d, for all Latitudes and Seasons, as near as needful.
+
+And being returned home, by these Numbers we may find the true
+_Difference_ of Motion, in and for the several Latitudes and
+Seasons. Which _Difference_ must be entred in the 4th Column of the
+respective Books, reserved for that purpose. By the help of which said
+_Differences_, you may make as many Movements as may be needful, at any
+time; as also Books and Numbers peculiar to each Movement. The _Rules_
+for which will be imparted to any such Watchmaker, as may Reasonably
+desire the same.
+
+
+_FINIS._
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 75039 ***

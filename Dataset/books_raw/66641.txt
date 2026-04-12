@@ -1,0 +1,2298 @@
+*** START OF THE PROJECT GUTENBERG EBOOK 66641 ***
+
+ A
+
+ DETAILED ACCOUNT
+
+ OF THE
+
+ BATTLE OF AUSTERLITZ
+
+ BY THE
+
+ AUSTRIAN MAJOR-GENERAL,
+
+ STUTTERHEIM.
+
+ TRANSLATED FROM THE FRENCH
+
+ BY
+
+ MAJOR PINE COFFIN,
+
+ ASSISTANT QUARTER-MASTER-GENERAL TO THE BRITISH ARMY,
+
+ Tout cela, prouve, qu'il y a beaucoup d'hommes, capables de faire
+ manœuvrer, quinze a vingt mille hommes, et qu'il en est peu, qui
+ puissent tirer tout le parti possible, d'une armée de quatre-vingt
+ mille hommes.
+
+ Note par un officier François.
+
+
+ LONDON:
+
+ PRINTED FOR T. GODDARD, MILITARY BOOKSELLER,
+ NO. 1, PALL-MALL, CORNER OF THE HAYMARKET.
+
+ 1807.
+
+
+
+
+ W. Marchant, Printer, 3, Greville-street, Holborn.
+
+
+
+
+TO THE PUBLIC.
+
+
+The fatal consequences that resulted from the battle of Austerlitz,
+to the cause of Europe, and of humanity, render it an object of too
+deep an interest with the statesman and the soldier to make an apology
+requisite for introducing to the public, what may be considered as the
+Austrian official account of that action. It is hardly probable, that,
+under a government so constituted as that of Austria, a general officer
+would have ventured to publish the particulars of an action, in which
+he himself bore a conspicuous part, (at least with his name attached to
+it,) unless he felt himself sanctioned by the _highest authority_ in so
+doing.
+
+However that may be, the work bears evident internal marks of
+authenticity, while the events daily passing under our eyes, with such
+dazzling, and unprecedented rapidity, give an additional interest to
+the _cause_ which has been productive of such direful _effects_.
+
+Scarcely have twelve months elapsed since this disastrous battle
+was fought, and already have we seen new dynasties created, and the
+proudest empires levelled in the dust.
+
+We have seen one of the most powerful monarchies of Europe, whether it
+be considered as to its military resources, or its well replenished
+treasury; as to its well disciplined army, or the glorious recollection
+of its past achievements: we have seen the armies of Prussia, which
+were wont to be considered as the patterns of military excellence,
+dissipated and annihilated, like chaff before the wind, by the
+well-trained legions of the modern Alexander.
+
+The present state of Europe affords ample scope to the reflections of
+the statesman. For, though the soldier may account for the loss of a
+battle, by reasoning on what was done, and what was left undone, the
+subjugation of states is to be looked for in causes far remote from the
+scene of action. These are times which not only require superiority
+of intellect in those who govern, but the conviction on the part of
+the _governed_, that they are not mere spectators of the fray; that
+it is not a mere squabble for power; but that the happiness of each
+individual, that the preservation of all he holds most dear, in short,
+that the _liberties of his country_ are at stake, and depend upon the
+issue of the contest.
+
+Has this been, or _could it be_, the feeling of those nations of the
+Continent we have seen overrun?
+
+In the answer to this simple question, we may perhaps find the _real_
+cause of all the disasters of the coalition, and subject of much
+contemplation for ourselves. The cloud which has been long gathering
+over Europe has begun to burst; we have seen the storm fall where least
+expected, and bury whole empires, and their people, in one common ruin.
+When the demon of destruction is abroad, let us not be unmindful of
+ourselves. Are we better prepared than our neighbours? Have we more
+skilful generals, or less intriguing politicians? I fear not. It is
+then only to the people we can look in the day of trial; and I trust
+there is yet enough left of the genuine spirit of the constitution, and
+of the native valour of Britons, to make every man feel his country
+is worth contending for. _The moment that ceases to be the case, our
+independence as a nation is virtually gone_; and, though our empire
+may drag on a precarious existence for a few years, it will fall,
+inevitably fall, at no distant period.
+
+I have been inadvertently led into a train of reflection, which some
+persons may think not quite compatible with the character of a soldier.
+Against this opinion, I beg leave to enter my protest. I have always
+considered the superiority of the French troops over those of the
+continent, as the result of their individual intelligence; arising in
+a great degree from the habit of every Frenchman, to discuss whatever
+topic comes under his notice; and it is quite unnecessary for me
+to remark, that the powers of the mind only develope themselves in
+proportion as they are called into action. Let us hear no more then
+of soldiers being mere machines. The absurdity of the doctrine is too
+palpable to need refutation.
+
+I ought perhaps to assign some reason for having undertaken a labour,
+to which I may appear so very unequal. It was to relieve my mind
+from constantly dwelling on a subject of disappointment, which still
+weighs but too heavily on my spirits; and which I hoped to alleviate,
+though it cannot be removed by occupation. Personal vanity had no
+share whatever in it, and if I have not concealed my name, it has been
+because I hoped to disarm the severity of criticism by avowing it. Much
+will not be expected from one, who embraced the profession of arms at a
+very early period, and whose ambition, from a child, has been military
+and not literary reputation. All that I can flatter myself with having
+succeeded in, is, the rendering the sense of the author, in terms
+plain and intelligible. For elegance of style, and flowing periods, the
+public may look to a Hutchinson, but not to soldiers in general.
+
+ JOHN PINE COFFIN.
+
+P.S. It was my original intention to have annexed a good map to this
+work, on which the reader might be enabled satisfactorily to follow
+the operations with his eye;--but having in vain ransacked the shops
+of London, without being able to procure a map of Moravia on a scale
+sufficiently large to make it of any use; and, in fact, without finding
+any that was better than Chauchards, which is woefully deficient, both
+in the names of villages, and in geographical accuracy; I have been
+induced to publish the Battle of Austerlitz without this advantage. My
+principal motive for so doing has been the persuasion, that a bad map
+could be of very little use; and that it would enhance the expense to
+such a degree, as to place the work beyond the reach of many military
+men; while others may be already in possession of as good, or better
+information than I could furnish them with. To those, however, who do
+not already possess a map of Moravia, I would recommend that published
+by Covens and Mortier, at Amsterdam; not as the best possible map, but
+as the least defective I have seen. But, I have great doubts whether
+this is to be procured in England.
+
+
+
+
+ TO THE
+ AUSTRIAN ARMY.
+
+
+_This account of what passed under my own observation at the Battle of
+Austerlitz, and of the result of my researches on that memorable event,
+I here dedicate to my brethren in arms. The desire of being read by
+all the military men in Europe has induced me to write in a language
+more generally known than that of Germany, and which there are few
+among you who do not understand. Those who, like myself, have borne
+a part in this disastrous day of the 2d December, will be enabled to
+bear testimony to the truth of this narration. I have prided myself on
+using the greatest impartiality; on having stifled all prepossession,
+all passion, and every feeling, that could tend to lead my judgment
+astray. It is to your approbation, my brother soldiers, that I look
+forward, as the most delightful recompense of all my labours._
+
+
+
+
+INTRODUCTION.
+
+
+The imperfect accounts which have reached the public, as to the details
+of the Battle of Austerlitz, are so contradictory to each other, and so
+little satisfactory to military men, that it has been thought proper to
+lay the following relation before them, in order to fix their ideas as
+to this memorable epoch.
+
+In all ages, as in all countries, nations and armies have been the
+slaves of opinion. Hence it has ever been the policy of governments to
+heighten, by those means best calculated to excite national enthusiasm,
+the splendour of even the greatest victories; as well as to give a
+specious colouring to those reverses of fortune, which are too public
+to be passed over in silence.
+
+The soldier, who here gives the relation of what he himself saw,
+neither wishes to flatter a government, nor to gain the good opinion of
+an army. His object will be, to detail, with truth, what he has either
+seen or been able to discover from others; and, forgetting the part
+he himself acted, he will speak with candour and impartiality of the
+events that passed under his own observation, without the slightest
+tincture of prejudice, or passion. Of these events, posterity must be
+the judge.
+
+Nothing will be found here, but the simple recital, without commentary,
+naked, and devoid of art, of one of the most famous epochs of history.
+To attempt to reason on the operations of wars that have passed in our
+times would be giving too much scope to self-love, which always adopts
+or rejects, as suits our own opinions.
+
+It is not the strength of the respective armies opposed to each other
+at the battle of Austerlitz, or the losses they sustained, which
+particularly distinguishes it, from many of those which took place in
+the first campaigns of the French Revolution, and the seven years war.
+
+We have heretofore often seen 150,000 men in the field, and 30,000
+slain. But it is the consequences of the action of the 2d of December,
+1805; it is the epoch when it decided the fate of war; it is the
+_moment_ in which it was fought, which makes it worthy of attention,
+and which will assign it a marked place in history.
+
+It was the wish to gain personal information that induced the author
+to collect materials, which may become useful to a better pen: and he
+avails himself of a leisure moment to offer them to such as have the
+talent to make use of them.
+
+In order that the past may serve to elucidate the future, it becomes
+requisite to recur to the circumstances that led to this decisive day;
+which proved how scrupulously accurate it is necessary to be, in making
+the calculations and combinations, to which the existing circumstances
+and the knowledge of human nature give rise.
+
+The battles of Crems, and of Hollabrunn, are already well known.
+This is not intended as a history of the late campaign, but merely
+of a part of it, into which the account of those two affairs does
+not enter. It was after they had taken place, that M. de Koutousoff
+directed his retreat upon Brunn, and effected it from that moment,
+without much annoyance from the enemy. This first Russian army had
+orders carefully to avoid a serious engagement, and to hasten its
+retreat, for the purpose of forming a junction with that under M. de
+Buxhoevden, who was advancing rapidly to its support. M. de Koutousoff
+executed a difficult retreat from the river Inn, upon Moravia, which
+commenced on the 14th October, and lasted till the 18th November; and,
+although very inferior to the enemy in point of numbers, this Russian
+army effected its junction without much loss. The farther the grand
+French army advanced, the more its combinations became multiplied,
+and the more it was obliged to detach its force. The Russian general
+had the advantage of being enabled to concentrate during his retreat,
+which he also effected in good order: for this he was principally
+indebted to Prince Bagration, who conducted the rear-guard with much
+courage. The two Russian armies formed their junction at Wischau,
+on the 18th of November; from which time they became one, under the
+command of the General in Chief, Koutousoff. Its strength consisted of
+104 Battalions, 20 of which were Austrians; and 159 squadrons, 54 of
+which were Austrians, and 40 Cosacks. The Austrian corps was commanded
+by Lieutenant General Prince John de Liechtenstein: his infantry was
+composed of the 6th Battalion, recruited, armed, and organized about
+a month before; M. de Kienmayer, with the remains of his corps, (very
+much weakened by the movement of M. de Merveldt on Styria,) formed a
+part of the corps under Prince John de Liechtenstein. The Archduke
+Ferdinand, with the wreck of the army from Ulm, and some Battalions,
+also newly raised, was in Bohemia, and thereby covered the right of the
+combined army; which might at this time be computed at about 72,000
+men. The corps under the Archduke Ferdinand was composed of from 18 to
+20,000 men.
+
+The grand French army, after passing the Danube, had advanced into
+Moravia, being composed of the corps under Prince Murat, Marshals
+Soult, Lannes, and Bernadotte. The last of these was then opposed to
+the Archduke Ferdinand, and was advancing upon Iglau. Marshal Davoust,
+after having followed M. de Merveldt into Styria, moved from Vienna
+upon Presbourgh. The corps of Marmont marched upon Carinthia, and
+then upon Styria; in the first instance, to open the communication
+between the grand army and that of Italy; and afterwards, to oppose the
+junction of the Archduke Charles with the army under M. de Koutousoff;
+but the movements of this prince were so well calculated, and his force
+so well concentrated, that he did not allow time for the French to
+establish themselves at Gratz. Marshal Ney, after the passage of the
+Inn, took his direction on the Tyrol, by Scharnitz.
+
+At the time of the junction of the two Russian armies near Wischau,
+they had only opposed to them, the corps of Prince Murat, part of which
+formed the advanced guard, those of Marshals Soult and Lannes, the
+imperial guards, under Marshal Bessiéres, and a corps of grenadiers,
+drawn from these different troops, forming a reserve of 15,000 men,
+under General Duroc. This army, when near Brunn, was composed of eight
+divisions, each of which was about 7000 strong. The Russian army was so
+much fatigued with the continual marches it had been making, whether to
+fall back on the support, or the support to get forward in time, that
+it was decided at Wischau to take up the position of Olmutz, to give
+some days rest to the troops.
+
+Opinions were at that time much divided. The Russian advanced posts had
+no sort of information as to the position and force of the enemy; at
+one time, even Prince Bagration was ignorant of the situation occupied
+by the French advanced guard. The Austrians also, notwithstanding the
+facility they ought to have possessed of procuring intelligence in the
+country, had only _very vague data_ to act upon.
+
+By _this_ information, however, it appeared, that the French forces
+were collected only in small numbers near Brunn; and _some_ generals
+of the combined army gave their opinion at Wischau, for _immediately_
+resuming the offensive. It is possible, _this moment_ might have been
+more fortunate than that which was afterwards chosen. The strength of
+the coalesced army was, from the 19th of November, superior to that of
+the enemy, who was yet uninformed that the junction of the two Russian
+armies was effected, and therefore could not expect an offensive
+movement,[1] such as a manœuvre on either of his flanks would have
+been. The army was then too near him to admit of his receiving
+reinforcements near Brunn. But this very diversity of opinion, perhaps
+rendered the movement on Olmutz necessary, because those in command
+did not possess that decision, which can only be the result of a
+military eye.
+
+The Austrian general Weyrother, had been sent into Galicia, for the
+purpose of conducting the army of Buxhoevden through the hereditary
+states. He was an officer of reputation, who did not want for talent,
+and who had inspired the Russians with confidence. As soon as the
+two armies became united, he filled the situation of Quarter-master
+general. The court of Vienna had previously selected General Schmidt
+for this important trust; but that officer, a man of superior merit,
+and who, with a talent for the profoundest calculation, possessed that
+tranquil wisdom, which gives reason and deliberation in counsel; after
+having shewn himself, at Crems, to be worthy of the confidence that
+was placed in him, lost his life there, and was thus snatched from the
+hopes of his sovereign, and of his brother soldiers. His loss was the
+more sensibly felt, and the more regretted, because his successor,
+neither possessed his calmness, his prudence, or his firmness. The army
+marched, the 21st of November, from Wischau, and arrived the next day
+but one, in the position in front of Olmutz, whither we will follow it,
+for the purpose of detailing the operations.
+
+
+_March of the Combined Army into the Position of Olmutz._
+
+It was on the 23d of November, the army arrived in this position, and
+was posted in rear of the village of Ollschan. Its left rested on the
+river March; its right extended to the heights in rear of Tobolau. In
+this manner it lay upon its arms, in three lines; while the Austrian
+corps, under Prince John de Liechtenstein, formed the reserve of
+the army, on the heights in rear of Schnabelin, and was principally
+intended to secure, in case of a check, the passage across the March.
+With this view, several bridges were constructed across that river,
+between Nimlau and Olmutz, to facilitate the operation. The ground
+occupied by the army in this position, offered great advantages. It
+was so commanding, throughout its whole extent, from the heights near
+Nimlau, to the right of the position, as to discover nearly a league
+in its front, all the enemy's movements in case of attack; while
+the slope of the hills in its immediate front was so gentle, as to
+resemble a glacis. In its rear, spacious ravines, only of sufficient
+depth to conceal large columns of troops from the enemy, which might
+unexpectedly be brought into action, facilitated the means, in this
+_defensive_ position, of manœuvring _offensively_, under cover of
+the heights. Along their summit, there were commanding points, which
+mutually defended each other; and on which, the numerous artillery,
+with which this army was provided, might be employed with great
+success. A morass covered the right, and a part of the centre; the
+Blata ran at the foot of these heights, on which heavy batteries might
+have been constructed: this little stream, although insignificant in
+itself, became an additional obstacle, under the fire of grape. To
+sum up all, the ground offered the means of delaying the enemy, in
+his attempt to overcome these obstacles, and to open out. The General
+Bagration, with his advanced guard, was at Prosnitz. General Kienmayer,
+with his, upon the left, at Kralitz, pushed on detachments upon
+Klenowitz. The out-posts were at Predlitz. An Austrian partisan was
+sent along the March, on Tobitschau, Kogetein, and Kremsir, to observe
+that country. The French army had also sent a partisan, from Goeding on
+Hradisch, and Kremsir; but the latter was repulsed, and the Austrian
+detachments remained masters of the March. It will not escape the
+observation of intelligent military men, that this was an advantage
+which gave the allies the means of manœuvring by their left, while
+their right (which would then have rested on the March) was secured;
+and would have masked this movement, so as to give them, at least two
+days march in advance. The good understanding, at that time subsisting
+with Prussia, appears to have been such, as to have made it expedient
+for the allied army, to think of establishing a communication with the
+Archduke Charles. But, in determining on offensive movements, nothing
+appears to have been thought of, but going straight forward.
+
+M. de Koutousoff had also sent some Austrian partisans, on his right
+flank, who marched upon Tribau and Zwittau, whither the Archduke
+Ferdinand, who was at Czaslau, had sent some parties of light troops,
+to keep up the chain of communication.
+
+Prince Murat arrived, on the 18th of November, at Brunn. His advanced
+guard, under general Sebastiani, pushed forward in the first instance,
+to Rausnitz, and afterwards entered Wischau, after Prince Bagration had
+evacuated it. The Emperor Napoleon, established himself, on the 20th
+November, at Brunn, and placed his army in concentrated cantonments, in
+the following manner:
+
+The corps of guards, the grenadiers of the reserve, and the troops
+under Marshal Lannes, in Brunn and its vicinity. The cavalry under
+Prince Murat, on the right and left of the great road, between Brunn
+and Posorsitz. Marshal Soult, at Austerlitz; and the three divisions,
+of which his army was composed, were divided, between that place,
+Butschowitz, Neuwieslitz, Stanitz, and the road to Hungary. At Gaja,
+was a strong detachment, which kept open the communication with that
+which observed the river March, in order to secure the right of the
+army.[2]
+
+The 25th November, the Grand Duke Constantine arrived at Olmutz, with
+the corps of guards, of which he had the command. After a long and
+forced march from St. Petersburgh, this fine body of men was in the
+best order.
+
+This corps was composed of ten battalions, and eighteen squadrons, the
+whole amounting to 10,000 men; of whom, however, there were only 8,500
+under arms. At this moment, the army, under M. de Koutousoff may be
+computed to have amounted, in all, to above 80,000 men, as will be seen
+hereafter, in detail.
+
+A reinforcement of 10,000 men was still expected, under General Essen;
+which, accordingly, arrived near Olmutz, at the moment when the allied
+army commenced its offensive operations. The corps of Essen was at
+Kremsir, the day of the battle of Austerlitz, and was of no kind of
+use. The army under M. de Koutousoff, was certainly stronger than the
+one opposed to it; but while the _latter_ was concentrated towards a
+single point, and formed into masses, the _former_ diffused its force
+as it advanced. It is not in numbers that the only, and, indeed, the
+_principal_ strength of an army consists; but there are emergencies,
+and occasions, in which it is absolutely necessary to profit by that
+advantage; and the present was an instance of the kind. The allied army
+was under the necessity of advancing, for the reasons hereafter to be
+detailed. Had it commenced its movement from the day when the Grand
+Duke Constantine arrived with his reinforcement, forming the reserve
+of the centre. If, at this epoch, it had manœuvred with rapidity, and
+calculation; if the reserve, under the Grand Duke, had been augmented
+by the corps under General Essen; if less importance had been attached
+to the resting an army, which, after some days inactivity, could no
+longer be fatigued; there might, perhaps, have been found means,
+without risking a battle, to oblige the French to abandon their
+position, by turning one of its flanks; which, by giving this army some
+uneasiness, as to its communications, would have induced it to move
+upon Vienna, or Bohemia. The former step would have been attended with
+danger. The corps of Bernadotte, which came from Iglau to reinforce the
+army in front of Brunn, the evening before the battle of Austerlitz,
+would not then have had time to make this movement, which was followed
+by such fatal consequences to the allies.[3] It was only by means
+such as these, had the allies acted with prudence and vigour, that
+they could have hoped to make the French fall into their combinations:
+combinations which should have been calmly conceived, and vigorously
+executed. But the Quarter-master general, it has before been mentioned,
+though an officer of great personal courage, had not that confidence
+in himself which could enable him to give advice at the head-quarters,
+where the greatest degree of wisdom was requisite. Without regarding
+the difficulties thrown in his way, this officer, too easily, abandoned
+his own opinions, to adopt those of other people.
+
+The astonishing rapidity with which the unfortunate events, of this
+disastrous war, succeeded each other; the excessive folly of Mack,
+which was only to be surpassed by his disgrace; and in which originated
+that succession of guilty errors, which astonished Europe, and
+calumniated a brave army; that folly of never anticipating a check,
+and of not establishing magazines in the rear, as a consequence of
+that presumption. To these circumstances it was owing, that the army,
+while in the position of Olmutz, was almost destitute of provisions.
+It had only been there one day, before it was obliged to have recourse
+to forced requisitions; a violent expedient, which, by the disorderly
+manner in which it was executed, had much influence on the discipline
+of the army, into which a spirit of licentiousness began to insinuate
+itself from that day forwards. In the then state of politics, the
+gaining time was, at that moment, nearly of equal importance with the
+gaining a battle: and, the instant it was decided, not to manœuvre,
+it became of the highest importance to be enabled to subsist in the
+position of Olmutz, for the purpose of maintaining it. There still
+remained countries, from whence it would have been possible to draw
+provisions; but they were at a distance, and the convoys were obliged
+to make a long circuit. To this it was necessary to apply a speedy
+remedy. The officers of the commissariat received orders, incessantly
+repeated, but never sufficiently urgent, to establish convoys of
+provisions, with all possible dispatch, upon the different roads; but
+_some_ of this department wanted both activity and inclination; their
+systematic conception of things not allowing them to feel the extent of
+the emergency; while _others_ experienced great embarrassment, from the
+detention, by the Russians, of a great part of the horses belonging to
+the country, which were employed in the transport of provisions, and
+were, in consequence, at a loss for the means of conveyance. The bread
+was plundered on the road, both by the detachments appointed for its
+escort, and by a number of marauders who followed the army. The strict
+discipline, that ought to have existed, was not vigourously maintained,
+under the pretext, that the army was starving. Relaxation of discipline
+is always succeeded by excesses; and the licentiousness, attendant upon
+it, gives full latitude to the disaffected, and to all those who have
+not courage to support the numerous privations attendant upon modern
+warfare. It was thought impossible to subsist the army in the position
+in front of Olmutz, and it was resolved to abandon it, for the purpose
+of attacking the enemy.
+
+
+_Offensive Movements of the Allied Army._
+
+We have already seen the uncertainty in which M. de Koutousoff found
+himself, as to the movements and force of the enemy, at the moment when
+it was decided to resume the offensive. The accounts derived from the
+people of the country were contradictory; and the out-posts gave no
+information whatever. The first disposition made for the advance, was
+not then founded upon an exact knowledge both of the position of the
+enemy and the numbers to be contended with, but was solely adapted to
+the nature of the ground, between Olmutz and Wischau. This disposition
+was given to the generals, the 24th November. The 25th was the day on
+which it was fixed to march; but it was necessary to take two days
+provisions; and these provisions could not arrive till the day after.
+When _that_ day came, some of the generals had not sufficiently
+studied their dispositions; and thus, another day was lost. The enemy
+profited by this time. The evening before the battle, as has been
+already mentioned, Marshal Bernadotte, as well as part of the corps
+of Marshal Davoust, reinforced the Emperor Napoleon. It was necessary
+to recall the attention to these facts, on which we shall yet have
+occasion still further to remark.
+
+The 27th November, at eight o'clock in the morning, the army was put
+in motion, in five columns, to approach nearer the advanced guard,
+under Prince Bagration, who, on that day, made no movement whatever,
+in order that the manœuvre might be concealed from the enemy. This was
+done with a view to concentrating the troops, which, however, in the
+end, were diffused afresh. The five roads, by which the army advanced,
+were parallel to each other. The two right columns marched along the
+foot of the mountains, to the right of the causeway, and were composed
+of infantry only. That of the centre was on the great road to Prosnitz;
+the fourth to the left of this, and very little distant from it; the
+fifth, composed entirely of cavalry, was in sight of the fourth. In
+front of this last, the country was entirely open.
+
+Here follows the detail of the march.
+
+
+RIGHT WING.
+
+ The General of Infantry, Buxhoevden.
+
+
+FIRST COLUMN.
+
+ Lieutenant General Wimpfen.
+ Major Generals Muller, Sclichow, and Strick.
+ 18 battalions of Russians. 1 company of pioneers.
+ 2-1/2 squadrons of Cosacks.
+ 8,320 men. 250 horses.
+
+
+SECOND COLUMN.
+
+ Lieutenant General Langeron.
+ Major Generals Kaminsky, Alsufieu.
+ 18 battalions of Russians. 1 company of pioneers.
+ 2-1/2 squadrons of Cosacks.
+ 11,420 men. 250 horses.
+
+
+CENTRE.
+
+ The General in Chief, Koutousoff.
+
+
+THIRD COLUMN.
+
+ Lieutenant General Przybyszewsky.
+ Major Generals Orosow, Lieders, Lewis.
+ 24 battalions of Russians.
+ 2 companies of reserve artillery.
+ 13,800 men.
+
+
+LEFT WING.
+
+ The Austrian Lieutenant General Prince John de Liechtenstein.
+
+
+FOURTH COLUMN.
+
+ The Austrian Lieutenant General Kollowrath.
+ The Russian Lieutenant Generals Essen and Miloradowich.
+ The Russian Major Generals Szepelow and Repninsky.
+ The Austrian Major Generals Carneville, Rottermund, and Jurezeck.
+ 32 battalions, of which 20 were Austrians.
+ 1 company of reserve artillery.
+ 5 companies of pioneers.
+ 30 squadrons of Russians, of which 8 were Cosacks.
+ 22,400 men. 3000 horses.
+
+
+FIFTH COLUMN.
+
+ The Austrian Lieutenant General Prince Hohenlohe.
+ The Russian Lieutenant General Ouwarow.
+ The Austrian Major Generals Stutterheim, Weber, and Caramelli.
+ The Russian Major General Piritzky.
+ 70 squadrons, of which 40 were Austrian, but very weak.
+ 2 companies of light artillery.
+ 4600 horses.
+
+
+THE RESERVE.
+
+ The Grand Duke Constantine.
+ Lieutenant Generals Kollagriwoff and Malutin.
+ Major Generals Jankewitz and Depleradowich.
+ 10 battalions of guards, 4 companies.
+ 18 squadrons.
+ 8,500 men.
+
+
+RECAPITULATION.
+
+ 1st and 2nd columns,   36 bat.   2 comp.    5 squad.  19,740
+ 3d            do.      24 ----   2 -----    --------  13,800
+ 4th and 5th   do.      32 ----   8 -----  100 ------  27,000
+ Reserve                10 ----   4 -----   18 ------   8,500
+ Advanced corps under
+   Prince Bagration     12 ----     -----   40[4] ---  12,000
+ General Kienmayer      -------     -----   14 ------   1,000
+                       --------------------------------------
+                       114 ----  16 -----  177 ---[5]  82,040
+
+The first column assembled at Nebotin, and marched upon Trzebschein,
+Blumenau, and Kobelnizeck, where it formed in two lines.
+
+The second column assembled at Ollschan, and marched upon Studnitz,
+Czechowitz, and Ottaslowitz, where it formed, with its right supported
+by the left of the first column.
+
+The third column assembled on the high road to Prosnitz, on which it
+marched, and formed in line with the two right columns.
+
+The fourth column[6] assembled at Nedwriss, and marched upon
+Wrahowitz, and Dobrochow, where it formed, and established its
+communication with the centre column.
+
+The fifth column assembled at Schabelin, and marched upon Kralitz, and
+Brzesowitz, where it formed in two lines.
+
+This last column, not being covered by the out-posts on the left, had
+an advanced guard of its own, commanded by General Stutterheim, which
+communicated with the detachments observing the river March.
+
+The army advanced with much precaution, because it was ignorant of
+the enemy's movements. It had orders to refuse the left, and to allow
+the right, which moved along the mountains, to gain ground, in order
+to turn the enemy's left, in case of meeting with it. The corps under
+the Grand Duke marched upon Prosnitz, (where the two emperors and the
+head-quarters were established) and formed the reserve. After four
+hours march, the army arrived on its different points of formation
+without any obstacle.
+
+Information was received that the enemy had made no movement whatever,
+and that his advanced guard at Wischau had neither been reinforced
+or diminished. Preparations were in consequence made for its attack
+the next morning, and Prince Bagration received orders to put it in
+execution. The army was to follow, in the same order as before, the
+route that should be opened for it by this general. On the 28th, at
+day-break, Prince Bagration put his corps in motion, in three columns;
+that of the centre remained on the causeway; the two others, on the
+right and left, turned the town of Wischau; in which the enemy had
+a regiment of hussars, and one of chasseurs. Two other regiments of
+cavalry were posted in reserve, in rear of the town; while General
+Sebastiani was at Huluboschan with a regiment of dragoons. As soon as
+the Russians, with the cavalry under General Kienmayer (composed of the
+hussars of Szechler and Hesse Hombourg) on their left, appeared before
+Wischau, and on the heights of Brindlitz, the French cavalry, with the
+exception of about 100 men, precipitately abandoned the town.
+
+The Adjutant General Dolgorucky, took possession of the town with two
+Battalions of Infantry, and made four officers and 100 men prisoners.
+The Enemy's Cavalry received considerable reinforcements in retiring
+upon Rausnitz, where was a strong Reserve. In the first instance, they
+were pursued by four squadrons of Russian Hussars, and two of Cosacks;
+but afterwards all the cavalry under Prince Bagration, reinforced by
+that of the fourth column, under the command of Lieutenant General
+Essen, (under whose orders were placed ten squadrons of Hulans, five
+of Cuirassiers, five of Dragoons, and eight of Cosacks) passed through
+Wischau, to support the attack of the advanced guard. To cover his
+right during this movement, Prince Bagration had received orders
+to send a regiment of chasseurs, and one of cavalry, to the right
+of Drissitz by Bustomirz and Dietitz, upon Habrowan. This general
+prosecuted his march as far as the heights of Rausnitz, where he took
+up his position. The enemy was still master of this little town, and
+began to cannonade; but the Russian artillery, which was more numerous,
+soon silenced the fire. In the evening, two Russian Battalions took
+possession of Rausnitz, in front of which were placed the out-posts.
+
+M. de Kienmayer, who, with his cavalry, had supported the Russian
+advanced guard on the left, took his direction upon Drasowitz, and
+there established his communication with Prince Bagration.
+
+The army, on the 28th, moved, as before, in five columns, and followed
+up the movement of the advanced guard, in the following manner:
+
+The first column, from Kobelnizeck, by Ratzlawitz, upon Lutsch, where
+it took up its position, posting six Battalions of Infantry and
+Chasseurs, in the wood between Nemajam and Pistomirtz.
+
+The second column, from Ottaslowitz, by Dietitz, upon Nosalowitz, where
+it formed in second line.
+
+The third column, marched as before, along the causeway, to beyond
+Noska: one brigade was posted in the first, and the two others in
+second line.
+
+The fourth column, from Dobrochow, by Krzizanowitz, and Brindlitz, upon
+the heights of Noska, where two regiments[7] formed in first line; and
+the two others in second line. The Austrian infantry attached to this
+column was formed in two lines, on the left of the Russians.
+
+The fifth column, from Brzesowitz, by Ewanowitz, upon Topolan: its
+advanced guard marched upon Kutscherau, and communicated with that at
+Drasowitz.
+
+Upon these movements of the allies, the French quitted their
+cantonments. By a signal made from Austerlitz, Marshal Soult collected
+his corps there, which evacuated the villages it had before occupied.
+
+The allies flattered themselves that the enemy would not risk the fate
+of a battle in front of Brunn. After the 28th, this _hope_ became the
+prevailing _opinion_ at head-quarters. Then, instead of hastening their
+movements, they wished to manœuvre, at a period, when too much had been
+risked, to enable them to avoid a decisive action; if, contrary to the
+opinion of those who thought the French would not fight, they still
+persisted in not retiring.
+
+We have, hitherto, seen M. de Koutousoff advancing his right, and
+refusing his left, with the view of turning the enemy's flank by the
+mountains; for which purpose he had disposed the greater part of his
+infantry on the right wing. At Wischau this disposition was changed.
+He wished to manœuvre on the right of the enemy. A march to the left
+was undertaken, which both lost time, and the ground that might have
+been gained to the front. The 29th November, the combined army moved
+from Lultsch, and the heights of Noska, upon those of Huluboschan and
+Kutscherau. It was not till the 1st December that Marshals Bernadotte
+and Davoust joined the Emperor Napoleon; and, on the 29th, M. de
+Koutousoff might have been at Austerlitz. After having passed Wischau,
+the allied army could no longer manœuvre with impunity. The time it
+then lost, in making movements, which did not lead it directly towards
+the enemy, while it discovered its intentions to the French army, gave
+it also the means of receiving such reinforcements as were within
+reach. A _short_ flank movement could not answer the end proposed;
+while one that was _longer_, would have afforded the enemy an
+opportunity of attacking on the march.
+
+While the army was moving on the heights of Kutscherau, Prince
+Bagration pushed on his advanced posts towards Posorsitz: General
+Kienmayer marched upon Austerlitz, which the enemy had evacuated at
+ten o'clock,[8] on the morning of the 29th; and General Stutterheim
+arrived at Butschowitz, from whence he kept up the communication by
+Stanitz, with a detachment under Lieutenant Colonel Scheither, who had
+driven the enemy's detachments from Gaja. The French army concentrated
+its forces, the same day, between Turas and Brunn: it occupied the
+villages of Menitz, Tellnitz, Sokolnitz, Kobelnitz, and Schlapanitz,
+which covered its front, and placed its out-posts at Aujest, on the
+heights of Girshikowitz, and near Krug. The 30th November, the combined
+army, in consequence of its new plan, again marched to its left, in the
+following manner:
+
+The first column, from Kutscherau, by Lettonitz, upon Niemschan, which
+was the appuy for the right; its left was at Hodiegitz, and it was
+disposed in two lines.
+
+The second column, by Lettonitz, to Hodiegitz, where it formed on the
+left of the first column.
+
+The third column, upon Malkowitz, by Butschowitz, and Krzizanowitz,
+where it was posted in reserve, in rear of the first column.
+
+The fourth column, by Schardiska, Tschertschein, Krzizanowitz, upon
+Herspitz, where it formed in reserve to the second column.
+
+The fifth column, by Neuwieslitz, followed the march of the third, and
+was posted in the valley, in front of Marhoefen.
+
+The Reserve, under the Archduke Constantine, marched to Butschowitz;
+the advanced corps, under Prince Bagration, to Posorsitz; and pushed
+on its out-posts upon the causeway, and upon Krug. M. de Kienmayer
+remained at Austerlitz, and was reinforced by the brigade under General
+Stutterheim. A little affair of out-posts took place that day; the
+enemy was employed in reconnoitring, and a few cannon shots were
+ineffectually exchanged. The head-quarters of M. de Koutousoff were at
+Hodiegitz; those of the two Emperors at Krzizanowitz, near Austerlitz.
+
+It is here necessary to remark, that during these offensive movements
+the Archduke Ferdinand had received orders to advance also, to make
+a diversion and occupy the enemy; and that this prince, quitting
+Czaslau, after having driven the Bavarians, first from Steinsdorff
+and afterwards from Deutschbrod, was advancing upon Iglau, where the
+Bavarian general, De Wrede, had the command.
+
+On the 1st December, there was a good deal of firing, the whole of
+the morning, along the entire chain of out-posts. The enemy, from
+day-break in the morning, was continually reconnoitring along the
+heights in front of Pratzen and Krug. He also, for the like purpose,
+pushed parties from his left to beyond the high road. M. de Kienmayer's
+out-posts, on the left, were at Satchan: and he had a post near Menitz,
+a village which the French abandoned. Five Battalions of frontier
+troops, under Major-general Carneville, being a part of the Austrian
+infantry, arrived in the evening to reinforce M. de Kienmayer.
+
+The combined army, the left of which was commanded by General
+Buxhoevden, and the centre by the general-in-chief, after having dined,
+moved forwards, in five columns, in the following manner:
+
+The first column, under Lieutenant-General Dochtorow, composed of
+twenty-four Battalions of Russians, marched by its left on Herspitz,
+Wachan, Klein-Hostieradeck, and took up a position in two lines, on the
+heights where this village is situated. A regiment of Chasseurs was
+posted at Aujest, a village between the foot of the mountain and the
+lakes of Menitz.
+
+The second column, commanded by Lieutenant-general Langeron, composed
+of eighteen Battalions of Russians, marched by Austerlitz, Krzenowitz,
+and took up a position on the heights of Pratzen; also in two lines on
+the right of the first column.
+
+The third column, commanded by Lieutenant-General Przybyszewsky,
+composed of eighteen Battalions of Russians, marched on the right of
+Austerlitz, took its direction upon Pratzen, and its position on the
+heights, to the right of this village.
+
+The fourth column, commanded by the Austrian Lieutenant-general
+Kollowrath, was composed of twelve Battalions of Russians, under
+Lieutenant-general Miloradowitsch, and of fifteen of Austrians, who
+were in the rear of this column. This latter marched by its right, near
+Niemschan, intersected the high road from Austerlitz to Brunn, and took
+post in two lines, in rear of the third column.
+
+The fifth column, composed of cavalry, under the orders of
+Lieutenant-general Prince John, of Liechtenstein, was composed of
+eighty-two squadrons, marched by its left, and followed the direction
+of the third column, behind which it took post under the heights.
+
+The corps of reserve, under the Grand Duke Constantine, composed of
+ten Battalions, and eighteen squadrons of guards, passed by Austerlitz,
+and posted itself on the heights in front, with its left towards
+Krzenowitz, and its right towards the high road from Austerlitz to
+Brunn.
+
+The advanced corps, under Prince Bagration, extended by its left beyond
+Holubitz and Blasowitz, in order to facilitate the march of the third
+and fourth columns upon their points of formation.
+
+Lieutenant-general Kienmayer, as soon as the columns arrived on the
+heights, in front of Austerlitz and Krzenowitz, where his troops were
+posted, marched by Pratzen, in front of Aujest, where he arrived at
+nine o'clock at night: his corps was then composed of twenty-two
+squadrons of Austrians, ten of Cosacks, and five Battalions of Croats.
+
+The head-quarters were at Krzenowitz. The enemy did not interrupt
+this movement, and even withdrew his out-posts as far as Tellnitz,
+Sokolnitz and Schlapanitz. The second column having arrived late on
+its point of formation, had no out-posts in its front. _During the
+whole night there was no chain of out-posts established in front of the
+position occupied by the combined army._
+
+At one moment during the night, the enemy evacuated the village of
+Tellnitz, in which out-posts were placed by a half squadron of Austrian
+light cavalry of the regiment of O'Reilly: but two hours after, the
+French returned in force, and posted a regiment of infantry in this
+village, from the division of Legrand, forming a part of the right
+of Marshal Soult. The out-posts on the left of the allies sent,
+continually, patroles during the night, to their right, in order to
+establish a communication with the Russian advanced posts, but could
+never fall in with them.
+
+This offensive movement had been made by the army in open day, and in
+sight of the enemy, who, from the heights of Schlapanitz, and in front
+of Kobelnitz, had been able to remark it at his ease. The position
+occupied by the allies, at the moment when they crowned the heights
+between Aujest, Pratzen, and Holubitz, was a strong one. The enemy, had
+he been well observed, would have found it difficult to advance for
+the purpose of attacking these heights;[9] The defiles of Tellnitz,
+Sokolnitz, and Schlapanitz, which separated the two armies, offered
+the means of delay; and the very elevated points of these heights
+afforded strong means of defence. Here, as in the position, in front of
+Olmutz, the army was posted on a curtain, behind which massive columns
+might be posted, ready to act offensively. Its left was secured by
+the lakes of Menitz and Aujest, while the right was refused. But the
+taking advantage of this position was never thought of, any more than
+the possibility of being _attacked_ on these heights, or of finding
+the enemy on this side the defile. The French emperor took advantage,
+in a masterly manner, of the faults that were committed. He kept his
+troops concentrated in massive columns, ready to act according to
+circumstances. Marshal Bernadotte (who had joined the Emperor Napoleon
+the day on which the allies shewed themselves on the heights of
+Pratzen), had been posted in the first instance to the left of the high
+road. In the night the Emperor caused his corps to pass this road, and
+posted it in rear of the village of Girschikowitz, which was occupied
+in force. This corps, composed of the divisions of Rivaux and Drouet,
+formed the centre of the French army. Prince Murat's cavalry was in
+rear of Marshal Bernadotte, and on his left. Marshal Lannes formed
+the left wing with the divisions of Suchet and Caffarelli; this last
+was connected with the left of Prince Murat. The right of the army,
+commanded by Marshal Soult, was placed between Kobelnitz and Sokolnitz;
+the division of Legrand forming the extreme right, was posted between
+Sokolnitz and Tellnitz, and occupied these villages with strong
+detachments of Infantry. The division of Vandamme was on the left, and
+the division of St. Hilaire in the centre of Marshal Soult's corps.
+
+The reserve of the army, composed of ten Battalions of the imperial
+guard, and of ten Battalions of General Oudinot's corps, the whole
+commanded by General Duroc, was near Turas. The division of Friant,
+belonging to the corps under Marshal Davoust, which had just arrived
+from Presburg, was sent to the convent of Reygern, on the Schwartza,
+to observe and keep the enemy in check, should he approach by the
+route of Auspitz. The division of General Gudin (also arrived from
+Presburg), with some dragoons belonging to Marshal Davoust's corps,
+advanced from Nickolsbourg, on the right of the French army, to keep
+in check the corps of M. de Merveldt, who had penetrated through
+Hungary to Lundenbourg. This general had with him his own regiment of
+Hulans, and the Emperor's hussars, much weakened by the losses they had
+sustained during a difficult retreat; and six Battalions of infantry,
+also very weak; the whole amounting to little more than 4,000 men. A
+detachment of O'Reilly's light cavalry, and some Cossacks, were sent to
+Gros-Niemschitz to observe that point.
+
+We have now given the position of both armies, during the night
+between the 1st and 2nd December, which immediately preceded this
+ever-memorable day.
+
+FOOTNOTES:
+
+[Footnote 1: _Note by a French officer._--A general, whose movements
+are not so combined as to enable him to oppose another manœuvre to that
+of his enemy, whatever it may be, is a general devoid of talent, and
+ignorant of the art of war.
+
+If the Russians had assumed the offensive at Wischau, it would have
+been previous to the arrival of the corps under the Grand Duke
+Constantine, which would have weakened their army by 10,000 chosen men.
+The French army would not only have had Marshal Bernadotte with them,
+who was then at Znaim, but also the corps of Marshal Davoust, whose
+divisions were in echelons, on Nicolsburgh.
+
+In fact, it was natural to suppose the combined army would not abandon
+the capital of Moravia without a battle. It was well known that Brunn
+was a fortified town, that there was much artillery, large magazines of
+powder, and warlike stores of all kinds in it: its possession seemed to
+merit an action, and it was expected. Although the arrival of General
+Buxhoevden was not positively known, yet spies had reported it, and all
+the information received as to the march of that army in Poland, and
+the two Galicias, rendered it so probable, that all the calculations of
+the French army were founded on the supposition of this junction.
+
+The 19th November, Prince Charles had not passed Goritz; he therefore
+could not enter into the most remote calculation relative to the war in
+Moravia. The whole French army was collected, so that, if the Russian
+army had wished to maintain the important point of Brunn, and to defend
+the magazines in that place, it would two days after have been attacked
+by Prince Murat, by the corps of Marshals Soult, Lannes, and Davoust,
+and by part of that under Marshal Mortier. The Russians would have had
+10,000 chosen men less than at Austerlitz, and the French 30,000 men
+more: and if it is asked, why, at Austerlitz, the French had not these
+30,000 men more, it is, because the Emperor Napoleon, being informed
+that the Russian army was retiring from Wischau, and falling back on
+Olmutz, conjectured that the Russians were waiting for the third army
+under Michelson, in order to resume the offensive; or meant to take up
+a position under the guns of Olmutz, and so wait till Prince Charles
+approached nearer to the theatre of operation.
+
+Obliged to oppose both these armies; the emperor had detached Marshal
+Davoust to Presbourgh, and Marshal Ney into Carinthia. The corps under
+these two Marshals would have supported General Marmont, and have
+had the corps of Marshal Mortier as their reserve; and above 90,000
+men would have attacked Prince Charles, before he could approach the
+Danube: and, _vice versa_, if the third Russian army, under Michelson,
+and the combined army, under Olmutz, (which were calculated by their
+junction to amount to 120,000 men) should resume the offensive; whether
+they advanced by Kremsir, or direct upon Brunn, the calculation had
+been made so as to be joined in a short time, by Marshal Bernadotte,
+who had made two days march upon Iglau; by Marshal Davoust, one of
+whose divisions was only two, and the other four marches distant;
+and lastly, by Marshal Mortier, who would also have arrived in four
+marches, and who, under this supposition, would have been replaced at
+Vienna by one of the Generals, Marmont or Ney.
+
+These were skilful dispositions; the object of which was, to oppose
+equal force to the enemy, although in reality superior in numbers to
+the French army.
+
+When the Russians assumed the offensive, it was known that Michelson
+had not joined them. The Emperor Napoleon was of course astonished, and
+immediately saw how ill combined was the system of the allies. It was
+not till after the battle of Austerlitz, and by reports from Galicia,
+that it became known that Michelson had no army; that he was only the
+Inspector of the two other corps; and that the Russians, after the
+arrival of the Grand Duke Constantine, had nothing more to receive.
+
+As soon as he learnt the offensive movement of the Russians, the
+emperor recalled Marshal Bernadotte, the remainder of the corps of
+Marshal Davoust and General Marmont. If he gave battle at Austerlitz,
+without having been rejoined by the last divisions of Marshal Davoust,
+and those of Marshal Mortier, it was because he saw so favourable an
+opportunity, that he not only was persuaded he should gain the battle
+without these reinforcements, but even had he 30,000 men less.
+
+The allies then did well to wait the arrival of their reinforcements
+before they resumed the offensive. They calculated rightly, in letting
+the emperor be the first to make his movements, and must have conceived
+the hope of afterwards gaining by it, when they should themselves come
+to act upon their own plans.]
+
+[Footnote 2: _Note by a French officer._--This disposition, of which
+the Austrian officer makes mention, and which is accurate, shews that
+the emperor had foreseen, that the enemy might manœuvre on the line of
+operation from Olmutz, along the March; in this case, the Russian army
+must pass at Shadish, whence it was farther distant than Marshal Soult,
+who had some infantry at Gaja, and detachments of cavalry, observing
+all the route, necessary to this movement.
+
+Whenever the enemy's movement had been known, they would have been
+allowed to advance. The corps of Marshals Mortier and Davoust, would
+have been at Goeding, and the enemy would have had 30,000 men to
+contend with more than at Austerlitz.
+
+In all the enemy's manœuvres upon Vienna, he moved upon the wings of
+the French army, which, by calling in all its detachments, concentrated
+itself, and opposed its whole force to that of the enemy.
+
+It is more particularly in discussing, what it was possible for the
+enemy to have done, that we are convinced of the science, and deep
+calculation shewn by the emperor, in a country so new, and so little
+known. We see that all his dispositions, even those which appeared to
+be the most trivial, and to have had no other object in view than the
+subsistence of the troops, were the result of premeditated design, the
+chances of which had been already calculated.]
+
+[Footnote 3: _Note by a French Officer._--There is here the mistake
+of a day. Marshal Bernadotte arrived _two_ days before the battle of
+Austerlitz.]
+
+[Footnote 4: 15 of these were Cosacks.]
+
+[Footnote 5: _Note by a French officer._--It is evident that the author
+here diminishes the real strength of the combined army, by one-_fifth_.]
+
+[Footnote 6: _Note by the Austrian general._--The Austrian battalions,
+of which this column was partly composed, were extremely weak, in
+consequence of the new formation introduced by M. Mack, who, from three
+battalions to each regiment, made five: and, as before stated, they
+were new levies, with the exception of the regiment of Salzbourg, and
+the frontier troops. This corps of infantry was composed as follows:
+
+  2 bat. 1st reg. of Szeckler.
+  2 do.  2d         do.
+  1 do.  Brooder.
+  6 do.  Salzbourg.
+  1 do.  Auersperg.
+  1 do.  Kaunitz.
+  1 bat. reg. of Lindenau.
+  1 ------------ Kerpen.
+  1 ------------ Beaulieu.
+  1 ------------ Wurtembourg.
+  1 ------------ Reuss. Graitz.
+  1 ------------ Czartorisky.
+  1 ------------ Kaiser.
+ --
+ 20
+]
+
+[Footnote 7: I am inclined to think the word, _regiment_ has here been,
+inadvertently, substituted for _brigade_. Translator.]
+
+[Footnote 8: _Note by a French officer._--The corps under Marshal Soult
+had evacuated Austerlitz at three o'clock in the morning; and was
+posted at seven o'clock in rear of Puntowitz and Schlapanitz. There
+are some inaccuracies in the detail of the movements, and the partial
+attacks; but the narrative is generally correct, and well told.]
+
+[Footnote 9: _Note by a French officer._--There is no foundation for
+the remark here made by the Austrian officer; since the Emperor, who
+intended to act upon the centre of the enemy, had an interest in
+remaining master of these defiles, that no obstacle might be opposed to
+the bringing his army into action: it was with this view he occupied
+the fine position of the Santon, situated in front of all the small
+streams: besides, the Emperor had posts upon these rivulets two days
+before; and the left of the French army was between the Santon and the
+village of Girshikowitz, which was the rendezvous of almost the whole
+cavalry; consequently, from that moment, it was no longer necessary to
+pass the defiles in order to attack the heights.
+
+This observation of the Austrian officer, only serves to mark more
+strongly to every French officer, who was a witness of the affair, both
+the prudence and military eye of their general. He made the Santon, the
+point of appuy, for his left flank; not because it was a fine defensive
+position; there were others in the rear equally good; but, _because
+it was the key to all offensive operations_. If, on the contrary, the
+French general had neglected the Santon, the whole of the left wing of
+the French army would have been prevented from resuming the offensive,
+unless they passed the defiles.
+
+Eight days before the battle, the Emperor returning from Wischau,
+ascended the Santon, notwithstanding the extreme cold; and said to the
+officers about him: "Examine this position well; it will probably play
+a conspicuous part before two months are over our heads."
+
+The Emperor having always had it in view, during the campaign in
+Moravia, not to allow his left to be turned, and to abandon his right;
+that alone would have been a sufficient reason for resting his left
+on a position not defensive, but offensive, such as was that of the
+Santon. The fact is, the more we discuss the plan of the campaign,
+the more we perceive the judgment and military eye of a master in the
+science of war.]
+
+
+
+
+BATTLE OF AUSTERLITZ.
+
+
+The disposition for the attack of the French army was delivered to
+the general officers of the Austro-Russian army, soon after midnight,
+on the morning of the 2nd December. But the imperfect knowledge that
+was possessed of their position, although scarcely out of range of
+the enemy's musketry, naturally made the suppositions upon which the
+disposition of attack was founded also very indefinite. Some movements
+had been remarked, the evening before, on the enemy's left, but it was
+not known to be occasioned by the arrival of the corps under Marshal
+Bernadotte.[10] It was supposed that the French army was weakening its
+centre to reinforce its left. Several lines of smoke, which had also
+been perceived the evening before, between Turas and the lakes in rear
+of Sokolnitz, and Kobelnitz, and some others near Czernowitz, caused
+the belief that the French army had made these lakes the point of
+appuy for their right, and had placed a reserve in the rear. The left
+of the combined army outflanked the right of the French army. It was
+supposed, that by passing the defile of Sokolnitz, and of Kobelnitz,
+their right would be turned, and that the attack might afterwards
+be continued in the plain, between Schlapanitz and the wood of Turas,
+thus avoiding the defiles of Schlapanitz and Bellowitz, which, it was
+believed, covered the front of the enemy's position. The French army
+was then to be attacked by its right flank, upon which it was intended
+to move down large bodies of troops; this movement was to be executed
+with celerity and vigour; the valley between Tellnitz and Sokolnitz
+was to be passed with rapidity; the right of the allies (on which was
+the cavalry of Prince John de Liechtenstein, and the advanced corps
+under Prince Bagration) was to cover this movement.--The first of these
+generals on the plain between Krug and Schlapanitz, on each side of
+the causeway; and the other by protecting the cavalry, and occupying
+the heights situated between Dwaroschna and the Inn of Lesch, with his
+artillery.[11] For this purpose, the five columns, composed as before,
+received orders to advance in the following manner:
+
+ 1st. Column. Lieut.-general Dochtorow, with 24 Battalions of Russians,
+ from the heights of Hostieradeck, by Aujest, upon Tellnitz. After
+ having passed the village and defile, the column was to move forward
+ to the right upon the lakes, till its head became parallel with that
+ of the 2d column.
+
+ 2nd Column. Lieut.-general Langeron, with 18 Battalions of Russians,
+ marching like the former column, by his left from the heights of
+ Pratzen, was to force the valley between Sokolnitz and Tellnitz, and
+ then dress by the 1st column.
+
+ 3rd Column. Lieut.-general Przybyszewsky, with 18 Battalions of
+ Russians, was also to move by his left, from the heights to the right
+ of Pratzen, close by the castle of Sokolnitz; from whence the heads
+ of the three columns were to move forward, between Sokolnitz and the
+ lakes situated behind it, as far as the lakes of Kobelnitz.
+
+ 4th Column. Lieut.-general Kollowrath, with 27 Battalions, 15 of
+ which were Austrian, moving forward by his left, from the heights in
+ rear of the 3d column, was to pass the same valley, and the lakes of
+ Kobelnitz, and bring the head of his column parallel with that of the
+ three former.
+
+ The advanced corps under M. Kienmayer, was to protect, with its
+ infantry, the movements of the 1st column, so that this last was, in
+ fact, reinforced by five Austrian Battalions, and composed altogether
+ of 29 Battalions. The heads of these four columns of infantry were to
+ present a large front, and four Battalions of the 1st column were to
+ occupy the wood of Turas. The remainder, and all the other columns,
+ were then to move forward between this wood and Schlapanitz, and to
+ attack the right of the enemy with strong bodies of infantry, while
+ three Battalions of the fourth column should be occupied in carrying
+ the village of Schlapanitz.
+
+ 5th Column. Lieut.-general Prince John de Liechtenstein, with 82
+ squadrons, was first of all to move from the foot of the hill, in rear
+ of the 3d column, between Blasowitz and Krug, to protect the formation
+ and march of the columns on the right, and afterwards to advance upon
+ the plain on the right and left of the causeway, between Krug and the
+ Inn of Lesch, as was before mentioned.
+
+ The advanced corps, under Lieutenant-general Prince Bagration,
+ consisting of twelve Battalions and forty squadrons, was to maintain
+ its position, and gain the heights between Dwaroschna, and the Inn of
+ Lesch, in order to place strong batteries of cannon upon them.
+
+ The corps of reserve, under the Grand Duke Constantine, consisting of
+ ten Battalions and eighteen squadrons, was to move from the heights in
+ front of Austerlitz to the rear of Blasowitz and Krug; he was to serve
+ as a support to the cavalry of Prince John de Liechtenstein, and to
+ the corps under Prince Bagration.
+
+The fortune of this day was made to depend upon the rapidity of the
+attack on our left, and on the driving back the enemy's right upon
+_his_ left. It was imagined the battle would not be decisive if Prince
+Bagration was not enabled to oppose an obstinate resistance to the
+attacks the French might make upon him; and orders were given to the
+cavalry, under Prince John de Liechtenstein, to attack the enemy in any
+movement he might make, with a view to engaging this Russian general.
+
+The cavalry, under Lieutenant-general Kienmayer, as soon as the first
+column should have passed the defile of Tellnitz, was destined to cover
+the left of the column, and to march between Turas and the Schwarza;
+observing well the convent of Reygern.
+
+It was settled in the disposition, that in case the four columns were
+fortunate enough to advance as far as the causeway between Lattein and
+Bellowitz, and to drive the enemy back into the mountains, the Wood of
+Turas was _still_ to remain occupied by the four Battalions destined
+to this purpose, in order to preserve the facility of manœuvring round
+it, and the means of retiring, if necessary, by Kobelnitz and Puntowitz
+into the position of Pratzen; which retreat was, in case of the worst,
+to be continued as far as the position of Hodiegitz, Niemtschen, and
+Herspitz.
+
+If the attack made by the left proved successful, then Prince Bagration
+was to move against the enemy's left, and to establish a communication
+with the four columns of infantry; after which it was intended to
+unite the army in front of the village of Lattein, between Lesch and
+Nennowitz. The defiles of Schalapanitz, Bellowitz and Kritschen, being
+thus cleared, the cavalry under Prince John de Liechtenstein was to
+pass them with rapidity, in order to support the infantry; and, in
+case of success, to pursue the enemy between Brunn and Czernowitz.
+
+The general-in-chief, Koutousoff, was in the centre with the fourth
+column.
+
+The general of infantry, Buxhoevden, commanded the left of the army,
+and marched with the first column.
+
+Having thus given the plan of attack, concerted by the allies, we
+are now about to see the manner in which it was deranged, and how it
+happened that the faults in the conception were not compensated for by
+the success of the execution.
+
+At seven o'clock in the morning the combined army was put in motion,
+and quitted the heights of Pratzen to advance upon its given points.
+Each of the four columns of infantry was perfectly in view of the
+enemy, who could not but perceive that the direction of their march
+caused considerable intervals between them, in proportion as the
+heads of the columns approached the valleys of Tellnitz, Sokolnitz and
+Kobelnitz. The action began on the left wing of the allies. The corps
+of General Kienmayer, posted in front of Aujest, as before mentioned,
+was nearest the enemy, and destined to force the defile of Tellnitz,
+to open the route for the first column, which had a great circuit to
+make after having passed this defile, in order to arrive at the point
+which would bring it in a line with the second column; this made
+it necessary to carry the village of Tellnitz as soon as possible.
+Between Aujest and Tellnitz is a considerable plain, on which some
+squadrons of hussars were advanced, between seven and eight o'clock, to
+reconnoitre the enemy. On a hill, in front of the village, were posted
+several companies of infantry, who defended its approach, while some
+detachments of cavalry were on the right, having the lake of Menitz as
+their appuy.
+
+M. de Kienmayer ordered a detachment of cavalry to advance against
+their right, and a Battalion[12] of the first regiment of Szeckler
+infantry to attack the hill on which the French infantry was posted.
+The latter was reinforced, and a fire of musketry commenced, which
+became pretty warm. The French defended themselves with obstinacy; and
+the Austrians, who had been supported by another Battalion, attacked
+with spirit. The hussars of Hesse Hombourg, on the right, under Major
+General Nostitz, and those of Szeckler on the left, under Major General
+Prince Maurice Liechtenstein, took post on the flanks of this infantry,
+to check the enemy's cavalry, (which was perceived on the farther side
+of the defile of Tellnitz) should it attempt to pass for the purpose of
+attacking these Austrian Battalions. The Hussars suffered severely from
+the enemy's sharp shooters, who took advantage of the ground, which all
+round the village was covered with vineyards, and full of ditches; but
+they could not succeed in keeping off the cavalry. The second Battalion
+of the regiment of Szeckler infantry had arrived to reinforce the
+first, which was attacking the hill, and which had lost more than half
+its strength. Twice the Austrians were repulsed; and twice they again
+advanced to the foot of the hill, which it was necessary to carry, in
+order to arrive at the village. At length General Stutterheim succeeded
+in getting possession of it with these two Battalions.
+
+The enemy's third regiment of the line, and two Battalions of sharp
+shooters, were in possession of Tellnitz and the vineyards round
+the village. These troops defended their post with valour. M. de
+Kienmayer ordered General Carneville to advance with the remainder of
+his infantry (consisting of three other Battalions) to the support of
+the two which were on the hill, and were fighting with great courage.
+A destructive fire of musketry ensued. The village was situated in
+a natural entrenchment, the vineyards being surrounded by a deep
+ditch, of which the French kept possession: however, the Austrians
+succeeded at one time in penetrating as far as the village; but were
+again repulsed, and had some difficulty in maintaining possession of
+the hill they had before carried. The regiment of Szeckler infantry
+fought with the greatest obstinacy; above two-thirds of them being
+killed or wounded. This action had already lasted above an hour, and
+yet the head of the first column, with which was M. de Buxhoevden, had
+not yet made its appearance. The French had more troops belonging to
+Legrand's division on the farther side of the defile; and the Austrians
+engaged in so unequal a contest (since they were without support),
+continued to make fresh efforts, which they momentarily expected would
+become useless. At length, M. de Buxhoevden, with the first column,
+appeared from Aujest, and sent a Battalion of the seventh regiment of
+light infantry to support the Austrians, and a brigade of Russians
+to form the reserve. Two Austrian Battalions, with this Battalion of
+light infantry, which charged the enemy with impetuosity, attacked the
+village, gained possession of it, and were followed by the remainder.
+The French, on the approach of such superior numbers, evacuated the
+defile, and drew up on the farther side in order of battle. M. de
+Buxhoevden, before he moved forward, waited to see the head of the
+second column (which was not advancing) appear in the plain, between
+the foot of the hills and Sokolnitz.
+
+Towards nine o'clock the enemy received a reinforcement of 4,000 men
+from the corps under General Davoust. These troops arrived from the
+convent of Reygern; the French then taking advantage of a thick fog
+which suddenly darkened the whole valley, again got possession of the
+village, and even penetrated as far as the hill beyond it. At this
+moment General Nostitz made a rapid charge, with two squadrons of the
+hussars of Hesse Hombourg, for the purpose of checking them.
+
+The Russian light infantry, and an Austrian Battalion, which had been
+posted in Tellnitz, had fallen back in disorder: the Russian regiment
+of New Ingermannland ought to have supported them; but retreated in
+a manner, which, combined with the fog, threw a part of the column
+into confusion. The charge made by the hussars had checked the French
+infantry, some hundreds of whom were made prisoners. The fog having
+dispersed, the troops again moved forwards, and the enemy abandoned
+the village. The first column made a deployment in several lines upon
+the hill, and Tellnitz was retaken. A cannonade took place; and as
+soon as the French entirely withdrew from this point, the defile was
+passed, without opposition, by the brigades of cavalry under Prince
+Maurice Liechtenstein and General Stutterheim, who drew up in order
+of battle on the farther side. Tellnitz and the defile were occupied
+by some Battalions provided with artillery. The enemy then entirely
+abandoned the plain between Tellnitz and Turas; but he was not followed
+up, because the communication with the second column was not yet
+established. The Austrian cavalry consequently avoided the snare laid
+for it, by the retreat of the right of the French army. During this
+action, near Tellnitz, the second and third column had quitted the
+heights of Pratzen, and had approached towards Sokolnitz, which was
+occupied by two Battalions from the division of Legrand. These two
+Battalions opposed some resistance to the Russian light infantry as
+they advanced at the head of these columns. The French had placed some
+cannon on a hill between Sokolnitz and Kobelnitz; (the latter village
+was occupied by the enemy's reserve) a pretty heavy cannonade was
+opened upon Sokolnitz, which destroyed the village. These two Russian
+columns, without concerning themselves as to the fourth column,
+without any direct communication with it, and without being deterred
+by the offensive movements of the enemy, thought of nothing but the
+first disposition, and continued their movements upon Sokolnitz; which
+village they took possession of without much resistance, after a long
+and useless cannonade. General Muller, of the Russian light infantry,
+was wounded and afterwards taken prisoner beyond Sokolnitz. In passing
+this village, the two columns crossed upon each other, and some
+confusion ensued.
+
+We must now, for an instant, leave this point, in order to see what
+was passing in the centre, and on the right of the allies, while the
+capture of the villages of Tellnitz and Sokolnitz was going forward.
+The Emperor of the French, who had not failed to remark the want of
+concert and consistency in the movements of the Austro-Russian army,
+and who saw that by the circuitous route the left was obliged to take,
+it became more distant from the centre, in proportion as it advanced,
+immediately put in motion the massive columns which he had kept
+together, with a view of marching against the centre, and by that means
+cutting off the wing, which still imprudently continued to advance,
+for the purpose of turning the French army in a position which it did
+not occupy. The Reserve of the French army, composed of ten Battalions
+of the Imperial guard, and of ten Battalions of General Oudinot's
+grenadiers, (who recovered from his wound, now resumed his command)
+remained upon the heights between Schlapanitz and Kobelnitz. This
+Reserve did not fire a shot during the whole battle. Marshal Soult,
+with the two divisions of St. Hilaire, and Vandamme (posted during the
+night, as we have already seen, in the valley of Kobelnitz), traversed
+this village and that of Puntowitz, to make an attack upon the heights
+and the village of Pratzen. At the same time Marshal Bernadotte, after
+having crossed, by means of a bad and narrow bridge, (only a few
+musket shots distant from his enemy) the rivulet at the village of
+Girschikowitz, with the division of Rivaud on his left, and that of
+Drouet on his right, took his direction upon the heights of Blasowitz.
+The cavalry under Prince Murat formed in several lines on the left of
+Marshal Bernadotte, and marched between Girschikowitz and Krug. Marshal
+Lannes having on his right the division of Caffarelli, and on his left
+that of General Suchet, moved forward to the left of Prince Murat, on
+each side of the causeway. From that time the centre and right of the
+allies became engaged in all quarters. The Grand Duke Constantine was
+destined with the corps of guards to form the Reserve of the right, and
+quitted the heights in front of Austerlitz, at the appointed hour,
+to occupy those of Blasowitz and Krug. He was hardly arrived on this
+point before he found himself in _first line_, and engaged with the
+sharp shooters of Rivaud's division, and Prince Murat's light cavalry,
+commanded by General Kellermann. The Grand Duke hastened to occupy the
+village of Blasowitz with the light infantry Battalion of the guards.
+At the same instant Prince John de Liechtenstein arrived with his
+cavalry. According to the original disposition, this Prince was to post
+himself on the left of Prince Bagration, to preserve the command of
+the plain in front of Schlapanitz. This column of cavalry, which had
+been posted in rear of the third column, and which was to move by its
+right flank, upon its point of attack, was impeded in its march by the
+columns of infantry, which crossed upon it as they were advancing, to
+descend from the heights. Prince Liechtenstein had hastened to send,
+during the march, 10 squadrons, under Lieut.-general Uwarrow, to the
+left of Prince Bagration, to secure that general's left flank, which
+was opposed to a part of Prince Murat's cavalry. After the regiment
+of Elisabethgrod hussars had formed in order of battle, under General
+Uwarrow, the Grand Duke Constantino's regiment of Hulans became the
+head of the column of cavalry. Prince John de Liechtenstein, when he
+arrived on the Grand Duke's left, found the enemy in presence of the
+Russian guards; it was the cavalry under General Kellermann, supported
+by the infantry of Marshal Bernadotte's left, and of Marshal Lannes'
+right. Prince John de Liechtenstein immediately determined on forming
+his cavalry in order of battle, to charge the enemy. The Grand Duke's
+regiment was the first that deployed; but, carried away by the ardour
+of the brave General[13] Essen, who commanded them; the Hulans did not
+await the formation of the rest of the line, and, without support,
+rushed forward to attack the enemy's light cavalry, which, retiring
+through the intervals of the infantry, was pursued with but too much
+impetuosity through the Battalions. The Hulans wanted to attack the
+French cavalry that was in second line, but, in consequence of the fire
+they had sustained, they reached it in disorder, and were received by
+it with determination. The division of Caffarelli formed a line on
+their right, and that of Rivaud on their left, and the Hulans, being
+thus placed between two fires, lost above 400 men; Lieut.-general
+Essen, who led them, was severely wounded, and died in consequence. The
+Grand Duke's regiment, which had made this brilliant charge, attacked
+too soon, with too much impetuosity, and became the victim of its own
+ill-placed courage. It was put completely to the route, and in this
+state it reached, by its right, the corps under Prince Bagration, in
+rear of which it again formed. This last general had now moved forward
+from the post of Posorsitz, to oppose the left of Marshal Lannes, which
+rested on Kovalowitz; Prince Bagration had caused the villages of Krug
+and Holubitz to be occupied by General Ulanius, with three Battalions
+of light infantry.
+
+We now come to the centre of the allied army, where the fate of this
+day was decided. It was too weak to resist the enemy's attacks.
+Abandoned by the third column, and all the left of the army, while
+the division on the right flank was not sufficiently powerful to
+divide the French forces; the centre saw itself attacked, or menaced
+with attack, by _four_ divisions, to which it could only oppose 27
+very weak Battalions, without any hope of reinforcement. Those Russian
+regiments which had made their retreat from Braunau, formed a part
+of this number, and were scarcely composed of 400 men each. Without
+exaggeration, we may here calculate, that 12,000 men were attacked by
+24,000, and while the French army was not, in fact, so numerous as
+that of the allies, by a more happy arrangement of their force, which
+was more concentrated and better directed, the enemy's strength was
+_doubled_ on that point, which was of the greatest importance. The
+centre of the allies was perfectly insulated, which, in consequence of
+the distance the several columns (the 2d and 3d excepted) were from
+each other, was the case, nearly, on _all_ points.
+
+The Emperor of Russia, with the Commander in chief, arrived at the head
+of the fourth column, at the moment when it was to advance. In order
+to give time to the columns on the left to gain ground, Lieut.-general
+Kollowrath, who commanded the fourth column, received orders not to
+move till towards eight o'clock. The action, therefore, near Tellnitz,
+had already begun, and the left was in motion, when the centre formed,
+and broke into platoons from the left. The Russian infantry, under
+Lieut.-general Miloradowich, was at the head of the column. Two of his
+battalions, of the regiments of Novogrod and Apscherousky, commanded by
+Lieut.-colonel Monachtin, with some Austrian dragoons of the Archduke
+John's regiment, formed the advanced guard of the column, and marched
+only a small distance in its front.
+
+It was now near nine o'clock, and the third column had just quitted the
+heights of Pratzen to march, in conformity to the disposition, upon
+Sokolnitz: the fourth column had just arrived on the ground occupied,
+during the night, by General Przibischewsky, when a massive column of
+French infantry was suddenly descried in a bottom, in front of Pratzen.
+As soon as the enemy's columns were perceived, they were put in motion,
+at the moment when the Russian advanced guard approached the village.
+This massive column of the enemy was composed as follows: the right
+columns of the division of Vandamme; those on the left, of the division
+of St. Hilaire. Nevertheless, the advanced guard of the 4th column lost
+no time in occupying the village of Pratzen, and got possession of a
+small bridge beyond it before the enemy's sharp shooters. Having passed
+this bridge, it posted a Battalion upon a hill to the left, in front of
+the village, (which was not yet left by the rear of the third column)
+while the other Battalion of the advanced guard occupied the village
+itself.
+
+General Koutousoff, whom this movement of the enemy had taken by
+surprize (thinking himself the assailant, and seeing himself attacked
+in the midst of his combinations and his movements), felt all the
+importance of maintaining the heights of Pratzen, against which the
+French were moving; they commanded every thing, and were the only
+security to the rear of the third column, which continued to advance
+and expose itself with the greatest imprudence, forgetting the enemy
+and every thing but the original disposition. It was the summit of the
+heights of Pratzen which decided the fate of the day. It had been the
+key to the position the allied army had just quitted; and, from the
+confused situation of the different columns their fate depended upon
+whoever was master of this height. As soon as the Commander-in-chief,
+who was at the head of the column, was informed by his advanced guard
+that the enemy was so near him, he gave orders for shewing him a front,
+and for occupying the height; at the same time he sent for some cavalry
+from the column under Prince John de Liechtenstein, who sent him four
+Russian regiments. The French directed the march of their two masses
+of infantry with great coolness, and at a slow pace. A third column
+of the enemy now made its appearance on the right of Pratzen, and
+threatened to pass through the interval, between the fourth column, and
+the cavalry under Prince John de Liechtenstein. This French column was
+a part of the corps under Marshal Bernadotte. Upon this the Russian
+infantry, belonging to the fourth column, marched to the right of
+Pratzen, and sent a reinforcement to the Battalions of the advanced
+guard, which were already posted on the hill to be maintained; but this
+advanced guard, being attacked by superior numbers, abandoned it, after
+a very short resistance.
+
+The action then became very warm, and it was attempted to regain the
+ground that had been lost by the advanced guard. The Russians made an
+attack; opened their fire at too great a distance, and without much
+effect, while the French columns continued to advance without firing a
+shot; but when at the distance of about a hundred paces, they opened
+a fire of musketry which became general, and very destructive. The
+enemy opened out his masses by degrees, formed in several lines, and
+marched rapidly towards the height, resting his left on the church of
+the village, and his right on the most elevated point of the heights.
+Having reached them, he formed in an angular direction, for the purpose
+of opposing the rear of the third column. This was composed of the
+Brigade under General Kamensky, which had separated from the column,
+and shewed a front upon the height, menacing the right flank of Marshal
+Soult's corps.
+
+It was still necessary to dislodge the enemy from the heights, of which
+he had obtained possession, and to prevent his establishing himself on
+them.
+
+The Emperor of Russia, who, during this sanguinary conflict, had
+remained with his infantry of the fourth column, and who, incessantly,
+exposed his own person in trying to remedy the confusion, ordered his
+Battalions to advance, and try to take the enemy in flank. General
+Kollowrath received orders to check the enemy on the left, and, for
+that purpose, caused the Austrian Brigades, under the Generals
+Jurczeck and Rottermund, to advance against the heights, on which
+the French continued to gain ground, and extend themselves, more and
+more, while they followed up the Russian Battalions that had been
+thrown forward. The first Austrian Battalions made their attack on
+the enemy with coolness and intrepidity, although they were entirely
+composed of new levies. They fell upon a French regiment which had
+been the first to advance on the crest of the hill, and which was
+nearly surrounded. The French received the Austrians with firmness,
+and defended themselves with valour, notwithstanding which they were
+forced to retreat; but, receiving a reinforcement, they quickly
+regained the ground which they had lost. Two Russian regiments,
+belonging to the second column, the grenadiers of Fanagorisky, and
+the musketteers of Rhiasky, who were left in Reserve upon the height
+which the column had occupied during the night, were ordered, by the
+General-in-chief, to reinforce the Brigade under General Kamensky. The
+troops commanded by this General fought very bravely during the whole
+of this unfortunate battle. They came to the support of the Austrian
+Brigades; and this reinforcement seemed likely to re-establish the
+balance of power in the attack of the crest of the hill; upon which the
+French generals manœuvred their troops with that ability which is the
+result of a military eye, and of experience, taking advantage of the
+inequalities of ground to cover their troops from fire, and to conceal
+their movements. There was no other chance of turning the fate of the
+day but a general and desperate attack at the point of the bayonet.
+The Austrian Brigades, with that under General Kamensky, charged the
+enemy; the Russians shouting, according to their usual custom; but
+the French received them with steadiness, and a well-supported fire,
+which made a dreadful carnage in the compact ranks of the Russians.
+General Miloradovich, on his side, advanced upon the right; but the
+Generals Berg and Repninsky being wounded, their troops had lost that
+confidence in themselves, without which nothing is to be done in war.
+The ardour of this attack soon evaporated. The superior numbers of
+the enemy, and his steadiness, soon changed it to a slow uncertain
+pace, accompanied by an ill-directed fire of musketry. Nevertheless,
+the example of some of their officers had at one moment the effect
+of inducing the left wing again to advance with intrepidity; and,
+for an instant, the right wing of the French began to give way. The
+regiment of Saltzbourg, and the Battalion of Auersperg, fought with
+much courage.[14] Kamensky's Brigade always distinguished itself.
+The Austrian General, Jurczeck, was severely wounded. The enemy, well
+aware of the importance of this post, now in turn attacked the allies,
+who were without any support whatever, and absolutely abandoned by the
+left of the army. The fourth column now lost the heights of Pratzen,
+beyond the possibility of recovery, together with the greatest part of
+its artillery, which was entangled in the deep clay that prevails in
+that part of the country. The greatest possible efforts were made to
+repair the confusion incident to such a retreat. Meanwhile, the enemy
+had advanced his artillery, and vigourously plied it in cannonading
+the allies during their retreat, which put the finishing stroke to
+the disorder they were in. The Austrian part of this column had one
+general, six superior officers, nineteen subalterns, and 1886 soldiers
+killed and wounded; five officers and 470 soldiers taken prisoners.
+This action, upon the heights of Pratzen, lasted about two hours; after
+which the fate of the battle was decided. The fourth column marched
+upon Waschan, and repaired (as pointed out in the disposition) to the
+position of Hodiegitz and Herspitz, where it collected its Battalions.
+The enemy, being once in possession of the heights, did not disturb
+this retreat, and remained near Pratzen, waiting, probably, the event
+of the movements on the left of the allies. After the unfortunate
+attack that was made by the Hulans, Lieutenant-general Prince John de
+Liechtenstein, with his cavalry, covered the country between Blasowitz
+and Pratzen. The Austrian General, Caramelli, made a charge with the
+Cuirassiers of the regiment of Lorraine upon the enemy's infantry,
+which coming out of Girschikowitz took advantage of the vineyards
+between that village and Pratzen, to take the Russians in flank. This
+attack, in which General Caramelli had his horse shot under him,
+had the effect of checking the French for a moment. The Major who
+commanded the regiment, a Count d'Auersperg, was killed. Prince John de
+Liechtenstein also caused an attack to be made on the French infantry,
+by the regiment of Nassau, at which time the fourth column had already
+lost the heights of Pratzen, and was put to the route. Prince John de
+Liechtenstein flew to its assistance to cover the Retreat with the
+remains of the cavalry. This general tried to rally some Austrian
+Battalions, which, like the Russian infantry, were retreating in
+disorder, and was successful in his efforts. His horse was killed under
+him by a grape-shot. The cavalry continued to occupy the bottom of the
+heights of Pratzen, between that village and Krzenowitz, till it was
+night.
+
+While the action took this turn on the heights of Pratzen, and the
+cavalry under Prince John de Liechtenstein attempted to make head,
+both to the right and left, against the enemy's infantry, and a part
+of Prince Murat's cavalry, in order to check, or at least retard, the
+success of the French. The Grand Duke, Constantine, also found himself
+engaged in an obstinate contest. The village of Blasowitz, which he
+had caused to be occupied, as we have before seen, was attacked, and
+carried by the corps under Marshal Bernadotte. The Grand Duke wishing
+to check the enemy's progress, left the commanding heights on which he
+was posted, and advanced in line upon the enemy's columns. A sharp fire
+of musketry ensued. The French sharp-shooters, who covered the columns,
+disputed their ground; but were at length driven in by a charge with
+the bayonet, which was ordered by the Grand Duke. A sharp cannonade,
+attended with much execution, then took place on this point. The
+grape-shot made a dreadful carnage; but, at the moment when the Prince
+approached the enemy, (who had by this time deployed into line) the
+cavalry of the guards, commanded by Marshal Bessiéres, which had been
+posted in the intervals of the infantry, made a charge on the Russian
+line, which, being without support, was in consequence driven back,
+after a brave resistance.
+
+The Grand Duke's regiment of horse-guards, in order to disengage the
+infantry, made a charge on the enemy's flank, where it checked and
+routed their cavalry, and afterwards attacked the French infantry,
+which had advanced to support the cavalry. It was on this occasion that
+the regiment of horse-guards captured a French eagle belonging to a
+Battalion of the fourth regiment. The corps of guards being obliged
+to retire, succeeded, after considerable loss, in rallying and forming
+its Battalions on the heights which it had originally quitted; from
+whence it continued its movement upon Austerlitz, marching towards
+Krzenowitz. The enemy's cavalry again returned to the charge, but was
+checked by the horse-guards, and some squadrons of hussars belonging
+to the guards, who attacked the French with the greatest impetuosity
+at the very moment when they were about to charge the infantry during
+its retreat. The horse-guards valiantly attacked, and were closely
+engaged with the French horse grenadier guards, who, under the command
+of General Rapp, had arrived to reinforce the enemy's cavalry. From
+that moment the Russian guards effected their retreat upon Austerlitz,
+without farther molestation from the French, who remained on the
+heights in front of Blasowitz. Prince Repnin, a colonel of the
+horse-guards, was wounded and made prisoner, with some officers of the
+same corps. The Russian guards suffered severely, but had few taken
+prisoners.
+
+While these things were passing on the left, Prince Bagration, it
+has been already stated, had advanced in front of Posorsitz, and had
+tried to occupy the heights of Dwaroschna. Lieutenant-general Uwarrow,
+with the cavalry under his command, was upon that Prince's left, near
+Holubitz; which village, as well as that of Krug, had been occupied
+in the manner before described; but Marshal Lannes arriving with his
+troops in column on Prince Bagration's left, and on the right of the
+cavalry under General Uwarrow, put a stop to the march of the right
+of the allies. In order to cover the left of the French army, and to
+secure its retreat in case of disaster, Marshal Lannes had posted
+eighteen pieces of cannon, protected by the twenty-seventh regiment
+of infantry, upon the commanding height, situated between Lesch and
+Kowalowitz, to the left of the causeway leading to Brunn: it was the
+same height that was to have been occupied by Prince Bagration. This
+general was under the necessity of reinforcing his left (on which a
+heavy cannonade was opened), and of sending almost the whole of his
+cavalry to General Uwarrow, who, in consequence, had about thirty
+squadrons under his orders. The enemy succeeded, notwithstanding, in
+driving back General Ulanius from the villages of Krug and Holubitz,
+and continued to advance in column; their march being protected by a
+part of the cavalry under Prince Murat. This gave occasion to some
+fine charges on the part of both the Russian and French cavalry.
+General Ulanius, who commanded the cavalry with the greatest degree of
+intelligence and bravery, succeeded by his efforts in checking the
+rapid progress which the enemy would otherwise have made on the right
+of the allies. Prince Bagration, after having long maintained himself
+at Posorsitz, retired upon the heights of Rausnitz, at the moment when
+the Russian guards were quitting the heights in rear of Blasowitz;
+and, in the evening, received orders to march to Austerlitz. The high
+road to Wischau was in consequence left entirely uncovered, on which
+the chief part of the baggage of the army was afterwards captured by
+the enemy. Lieutenant-general Uwarrow, with the cavalry, protected
+this retreat; and Prince Bagration took post in rear of Austerlitz,
+at six o'clock in the evening, while the cavalry under Prince John de
+Liechtenstein still continued to occupy the heights in front of that
+place.
+
+It now becomes necessary to revert to what was passing at Tellnitz
+and Sokolnitz. The first, second, and third columns, were left in
+the act of marching upon the points of attack fixed in the primary
+disposition, without thinking of the enemy's movements, and without
+having discrimination enough to give that direction to their columns,
+which the nature of the ground and the position of the enemy ought
+to have pointed out, at the very first glance. These three columns
+were composed of fifty-five Battalions (without including the Brigade
+under General Kamensky, which had not followed them), and were only
+opposed to the division under Legrand, not above five or six thousand
+strong, and to four thousand of the corps under Marshal Davoust.[15]
+Had the left of the allied army observed the enemy's movements
+during the battle, and reflected upon his intentions; had it taken
+advantage of the ground, and seized the means which it presented for
+again concentrating itself, in order to execute a bold manœuvre by the
+height on which the chapel above Aujest is situated, and which extends
+quite to Pratzen. Had this been done, the battle might yet have been
+prolonged, and at least have given a chance that the event of this
+day would have been less decisive. The offensive movement on the part
+of the French disconcerted the attack of the allies; and, from that
+moment, all concert ceased.
+
+The second and third columns were left in Sokolnitz, through which the
+head of the latter had passed. It was also stated, that the two columns
+had become entangled during a thick fog that took place, and they were
+thrown into confusion, in this village, where they mutually embarrassed
+each other. At this time that part of the French which had been engaged
+in front of Tellnitz retired upon Sokolnitz; General Legrand having
+ordered that village to be turned by General Franceschi. When this
+took place, the centre of the allies had already been penetrated; and
+the French were in possession of the heights of Pratzen. The Russians
+who were in Sokolnitz, and those who had passed through it, when they
+saw themselves surrounded, immediately surrendered. Lieutenant-general
+Przibischewsky, who had the command of the third column, was made
+prisoner in the valley of Sokolnitz, together with 6,000 men, being a
+part of both columns, which likewise lost the whole of their artillery.
+
+The relics of the second column retreated in disorder upon Aujest, and
+what continued embodied fell back upon the first column. This latter,
+informed, when too late, of the attack made by the French upon the
+centre, intended to move to its support; but took a wrong direction to
+be capable of making a diversion in its favour. The Austrian cavalry,
+which had been left beyond Tellnitz, retired through that village,
+which was now evacuated, leaving some Battalions of infantry, with a
+few cavalry on the hill fronting it, as a corps of observation, and to
+secure the march of M. de Buxhoevden, who was retiring upon Aujest, by
+the same route he had advanced. To protect the flank of the Russian
+infantry, the Szeckler hussars under Prince Maurice Liechtenstein,
+and O'Reilly's light cavalry, with two regiments of Cossacks, under
+General Stutterheim, were advanced upon the plain, between the foot
+of the mountains and the villages of Tellnitz and Sokolnitz; General
+Nostitz, with the hussars of Hesse Homburg, marched with the column.
+The French, after their success in the centre, had already brought
+forward their reserve, consisting of 20 Battalions, and had extended
+along the crest of the heights that were occupied in the morning by the
+allies, from Pratzen to the chapel above Aujest, but, _as yet_, they
+were not in force, and had no cannon above that village.[16]
+
+If the first column of the allies, reinforced by some Battalions
+from the second, and at that time consisting of above 30 Battalions,
+had moved in full force upon these heights, and had attacked them;
+if, instead of passing through a defile, (the height above which was
+occupied by the enemy,) it had made a charge on the flank of the
+French, it is possible that a diversion might have been effected
+in favour of the centre; and a defeat in Aujest (which was to be
+anticipated) would at least have been avoided. In marching upon the
+height above Aujest, the left of the allies might, at least, give a
+chance in favour of the battle; while the left, being no longer liable
+to be put in confusion, would not have lost so many men. Even supposing
+it not to have succeeded in maintaining the height, still it had always
+a retreat open upon Scharoditz.
+
+As soon as the column arrived in Aujest, the French rushed like a
+torrent down upon the village, in which a sharp fire of musketry at
+first took place, but which was of short duration, before they gained
+possession of the village. It was the division of Vandamme, which had
+formed the extreme right, on the heights of Pratzen, and which, in
+proportion as the French crowned that height, had gradually moved upon
+the chapel, above Aujest. The general of infantry, Buxhoevden, with a
+few Battalions, succeeded in passing through the village, and rejoined
+the army near Austerlitz; some confusion took place, and 4,000 men were
+taken prisoners in or about Aujest: they also lost their artillery.
+Many of the fugitives betook themselves to the lake, which was frozen
+over, but not sufficiently so to prevent many from perishing in it.
+The enemy, who in the mean time had received his artillery, vigorously
+plied the fugitives with it, who afterwards passed through Satschan,
+and in the evening succeeded in regaining the rear-guard of the army,
+on the heights of Neuhof. After the French had occupied Aujest, the
+centre and rear of the first column, which was so very strong, fell
+back under the orders of Lieut.-general Dochtorow, upon the plain
+between Tellnitz and the lake. This infantry was collected, but not
+in good order. Lieut.-general Dochtorow succeeded for a moment in
+re-establishing order, after which he considered only how to effect
+his retreat. This was very difficult in the execution, and could only
+be effected across a very narrow dike between the lakes, on which it
+was not possible to march more than two men in front. There was also
+reason to apprehend that the French passing by Aujest and Satschan,
+round the lake, would thus cut off the dike, the only retreat now left
+to the Russians, which would have made it impossible to save this last
+wreck of the left wing of the allied army. Lieut.-general Kienmayer,
+with the hussars of Hesse Hombourg, was sent over in advance, for
+the purpose of securing this retreat, and posted himself upon the
+heights between Satschan and Ottnitz, in order to observe this point.
+Meanwhile, the Austrian cavalry continued to support General Dochtorow,
+and for that purpose advanced into the plain, between Aujest and
+Sokolnitz. The generals who commanded O'Reilly's light cavalry and the
+Szeckler hussars, advanced to the attack of two French regiments of
+dragoons, who approached from Sokolnitz, but seeing that the Russian
+infantry was supported, the latter marched by their left, upon the
+height near Aujest, and posted themselves at the head of the division
+of Vandamme. The conclusion of this battle was very remarkable, since
+the French troops of the right wing were turning their backs upon
+Austerlitz to attack the remains of the left of the allies; to do
+which, the French were now quitting the same heights, whence the allies
+had marched in the morning, to attack them. When the first column had
+advanced, the lake was the point of appuy to the right of the French;
+at _this_ moment it was the appuy to their _left_, while the Russians
+had their right upon it.
+
+It was now about two o'clock in the afternoon; the action was decided
+and finished along the rest of the line, when the division of Vandamme
+advanced to complete it. In rear of Tellnitz, between that village and
+Menitz, was a hill of considerable elevation, the right of which was
+on the lake. To this hill the Russian infantry retired, still under
+the protection of the Austrian cavalry, which was every instant mowed
+down by discharges of grape-shot. The village of Tellnitz, which has
+already been described as surrounded by ditches, presented the means of
+defence, which were taken advantage of; and to give time to the rest
+of the column to file off, a regiment of Russian infantry, under Major
+General Lewis, was posted behind these ditches, where it was attacked,
+but defended itself with resolution. From that time, General Dochtorow
+continued his retreat. The cavalry occupied the hill that has been
+mentioned, in order to save a great part of this column, which was
+again in the greatest possible confusion. The French got possession
+of Tellnitz (in which a great many Russian stragglers were taken
+prisoners), and bringing the light artillery of the guards down to the
+edge of the lake, for the purpose of driving the Austrian cavalry from
+their post on the hill, they opened a fire on the flank of O'Reilly's
+light cavalry, and destroyed a great part of it. Yet nothing could
+prevent this brave regiment from continuing to cover the retreat of the
+Russians with the greatest intrepidity.
+
+Colonel Degenfeldt posted his light artillery, which commanded that of
+the French, with so much judgment as to damp the ardour of their fire.
+The Colonel of the Szeckler hussars was desperately wounded in the head
+with a grape-shot.
+
+The Russian infantry, fatigued and exhausted, retired very slowly,
+and the cavalry had a long time to support their post; at length,
+however, this famous dike, the only remaining retreat to the wreck of
+the first column of the allies, and which had justly been the subject
+of so much uneasiness, was happily passed; still, however, the French
+(who occupied the hill, before in possession of the cavalry, as soon
+as they quitted it) continued to fire on them, with their artillery,
+till they were completely out of reach. Having passed the dike, the two
+Austrian Generals, who protected General Dochtorow's retreat, halted
+on the heights in front of Neuhoff, and tried to restore order in the
+Russian Battalions, which yet formed a corps of at least 8,000 men.
+It was then about four o'clock, and already began to grow dark. The
+retreat was then continued by Boschowitz; the troops marched the whole
+night, under a heavy fall of rain, which completed the destruction
+of the roads; the remaining artillery sunk in the sloughs, and were
+abandoned. The Austrian cavalry formed the rear guard, without being
+pursued by the French, who halted on the dike. The regiment of O'Reilly
+brought off its artillery.
+
+The French army took up the position occupied by the allied army the
+preceding night; the latter, after the greatest exertion on the part
+of the two Emperors to remedy the general confusion on the field of
+battle, retired in the evening completely behind Austerlitz, into the
+position of Hodiegitz. But the very considerable loss it had sustained
+in killed and wounded, and the number of those who were prisoners,
+or missing; more especially of the first, second, third, and fourth
+columns, made this army, on its arrival in rear of Austerlitz, in a
+very feeble state; at least, as far as regards its disposeable force.
+The Austrian cavalry, commanded by General Prince Hohenlohe, (who was
+sent to replace Prince John de Liechtenstein that same night, on the
+latter being charged with a mission to the Emperor Napoleon:) this
+cavalry, alone, had some detachments in front of Austerlitz, and
+formed the rear guard of the army. Thus closed this ever-memorable day.
+
+Should any errors of detail have crept into the foregoing narrative,
+those military men who have been engaged in actual service will know
+how to make allowances for them; they will know, from experience,
+how difficult it is to procure exact information, as to the minute
+particulars of a great battle. Two persons rarely see the same object
+in a similar point of view. But, as to the general arrangement, the
+plans, and the principal movements, their execution, and their result,
+my pen has been strictly guided by the love of truth, an accurate
+knowledge of what was done, and the utmost impartiality.
+
+It will not have escaped the observation of the experienced soldier,
+that it is principally to the following causes that the loss of
+this battle is to be attributed. To the want of correctness in the
+information possessed by the allies, as to the enemy's army; to the
+bad plan of attack, supposing the enemy to have been entrenched in
+a position which he did not occupy; to the movements executed the
+day before the attack, and in sight of the enemy, in order to gain
+the right flank of the French; to the great interval between the
+columns when they quitted the heights of Pratzen; and to their want
+of communication with each other. To these causes may be attributed
+the first misfortunes of the Austro-Russian army. But, in spite of
+these capital errors, it would still have been possible to restore the
+fortune of the day, in favour of the allies, if the second and third
+columns had thought less of the primary disposition, and attended
+more to the enemy, who, by the boldness of his manœuvre, completely
+overthrew the basis on which the plan of attack was founded: or, if
+the first column (which possessed the means of doing so), instead of
+retiring by Aujest, as before mentioned, had marched to the assistance
+of the two former, and, together with them (or at least with what
+remained of them) had moved upon the heights, of which the French
+had as yet but a precarious possession, so long as the left of the
+allies was unbroken, and their extreme right, which made only feeble
+demonstrations, continued at Posorsitz.
+
+No computation has been made in this work, as to the loss of the two
+armies, at the battle of Austerlitz. It is impossible for any one,
+though actually bearing a part in the action, to calculate with any
+degree of accuracy the number of killed and wounded on each side.
+
+The carnage made on the 2nd December was very great. The few Austrian
+troops there yet remained were not collected on one point; but, as
+we have seen, conducted themselves every where with constancy and
+animation. The sixth Battalions of the regiments of Wurtemberg and
+Reuss-Graitz were the only corps that were in confusion at the time
+when the fourth column was defeated. The Russians, at the commencement,
+fought with intrepidity, and the guards and Hulans distinguished
+themselves for their courage. The French infantry manœuvred with
+coolness and precision, fought with courage, and executed its bold
+movements with admirable concert. After having made some efforts,
+without effect, the Russian Battalions began to waver; confusion and,
+finally, complete defeat were the consequences of the imprudent conduct
+of the second and third columns.
+
+The fourth column of the allies abandoned a _part_ of its artillery.
+The first, second, and third columns, lost the _whole_ of theirs, with
+the exception of General Kienmayer's corps, which saved its cannon.
+The guns were entangled in the sloughs, as before mentioned, and the
+Russian horses, which are more calculated for speed than for draft,
+could not drag them out of the deep clay, into which they had sunk. The
+number of the Russian prisoners may be computed at 15,000 men; while
+their killed and wounded must have been very considerable; in addition
+to which, as always happens on such occasions, they had a great number
+of soldiers missing.
+
+The loss of the French army must also, necessarily, have been very
+considerable. The fire, at the commencement of the action, was too
+warmly kept up, not to have done great execution; still, however, the
+French force was by no means diminished in the same proportion as
+that of the allies. The Generals who were killed, wounded, and taken
+prisoners are already well known.
+
+FOOTNOTES:
+
+[Footnote 10: _Note by a French officer._--Marshal Bernadotte was never
+seen till the day of the battle. _Two_ days before he had rested on his
+arms behind Brunn, and the following day he took post in the rear of
+the army, near Lattein. The French generals object in this disposition
+was, not only to avoid fatiguing this corps as much as possible, but
+also, not to pass the defile of Bellowitz; for not intending to risk an
+action, unless the enemy committed great errors, he had determined on
+retiring another day's march to the rear, if the enemy manœuvred with
+skill. It was not his wish to engage a general action with a superior
+army, if it were well posted. The victory might have been doubtful, and
+above all, too destructive.
+
+It was, therefore, that the divisions repassed the defiles, each day in
+proportion as the enemy's plans became apparent, and the faults he was
+about to commit became more probable. Besides, if instead of turning
+the right of the French army, (which was what the French general rather
+wished) the Russians had brought on an affair among the mountains, by
+turning the left. The position of the head-quarters, behind Kritchen,
+(which was always occupied by the French) was the point, from whence,
+by a wheel to the left, it was the most easy to move diagonally in rear
+of the Santon, upon the little hills towards the left.
+
+The movement that may have been seen on our left, was nothing else
+than the posting the divisions of Suchet and Caffarelli to support
+the Santon, because it was apprehended the enemy might, in the course
+of the day, attempt to get possession of that height, which was the
+key to the emperor's projects. He would not allow the enemy to occupy
+positions too near to Girshikowitz and Puntowitz, which might have
+prevented the army from forming. For the attack, which had been planned
+by the emperor, particularly depended on the rapidity with which the
+centre should march on the heights of Pratzen.]
+
+[Footnote 11: _Note by a French officer._--This plan was faulty in
+every point of view. Supposing the emperor not to have attacked the
+heights of Pratzen, merely keeping possession of the Santon, and the
+village of Girshikowitz, he would have made an effort in the centre,
+when the enemy attacked him, and the left of the enemy, once arrived at
+the wood of Turas, was by that divided from his centre.
+
+All this serves to prove, that many men are capable of manœuvring 15 or
+20,000 men, but very few know how to derive all the possible advantage
+from an army of 80,000.]
+
+[Footnote 12: Many misfortunes of the allies appear to have originated
+in attacking with small corps where they had the power of attacking
+in force. It is obvious, that if _one_ Battalion is inadequate to the
+service on which it is sent, it will not only suffer severely in the
+attempt, but that very attempt will apprize the enemy of the intention,
+and enable him to reinforce. Whereas, by at once attacking with
+numbers, all opposition is borne down, and the defence, from not being
+protracted, is generally less destructive to the assailants: wherever
+the French make an attack, it is in force; and _therefore_ they usually
+succeed; with the additional advantage, that they are enabled _by
+those very numbers_ to maintain themselves in what they have acquired.
+_Translator._]
+
+[Footnote 13: Either there were two generals of this name in the
+Russian army, or there must be some mistake; since, in a former
+part of this work, General Stutterheim says, "The corps under Essen
+was at Kremsir on the day of the battle, and was of no sort of
+use."--_Translator._]
+
+[Footnote 14: _Note by a French Officer._--It is very true, that the
+Austrians fought well, as asserted by the Austrian officer; as also
+that the regiment of Salzbourg particularly distinguished itself, and
+lost a great number of men by the bayonet.]
+
+[Footnote 15: _Note by a French officer._--General Legrand had only one
+of his brigades with him; the other, commanded by General Levasseur,
+was posted in reserve, in front of the rivulet, and of the village
+of Hobesnitz, from whence it marched on the flank and rear of the
+enemy, when he attempted to retake the heights of Pratzen; it was this
+unforeseen movement which greatly contributed to the defeat of that
+column. Levasseur's brigade fought during the remainder of the day, in
+conjunction with the divisions of St. Hilaire and Vandamme.]
+
+[Footnote 16: _Note by a French officer._--The first column had no
+longer the means of resuming the offensive. The reserve, composed of
+20 Battalions of grenadiers, had reached the heights in rear of the
+divisions St. Hilaire and Vandamme. (The Emperor, with the cavalry
+belonging to the guards, was already descending from the chapel of St.
+Anthony.) The rear of the column was exposed to Marshal Davoust and
+General Legrand. Marshal Bernadotte, _alone_, had 18 Battalions, not
+one half of which had burnt priming, and the remainder had been but
+little engaged.
+
+The French would have gained the victory with 25,000 men less than
+they had, which is a subject of reflection for military men, and
+sufficiently shows the influence which the being well commanded has
+over the operations, of war.]
+
+
+
+
+The 3d and 4th of December.
+
+
+The Austro-Russian army had experienced so many difficulties in
+regard to its subsistence, on the line of operations it had followed
+previous to these offensive movements, that it was abandoned, during
+the retreat, in order to direct its march upon Hungary. The allies
+quitted the position of Hodiegitz at 12 o'clock at night, and marched
+upon Czeitsch, where they arrived on the morning of the third of
+December. The column under General Dochtorow arrived at Niskowitz, on
+the road to[17]Hungary, where it found General Kienmayer then forming
+the rear-guard of the allies. This Russian column continued its
+march, for the purpose of rejoining the army at Czeitsch; but lost a
+considerable number of men during the night, who had straggled and lost
+themselves in the woods and villages. The Austrian cavalry, which had
+protected the retreat of these wrecks of the left wing of the combined
+army, and which was a part of the corps under M. de Kienmayer, halted
+at Niskowitz. Lieut.-General Prince Bagration was a league in rear
+of this Austrian corps, occupying the heights of Urschutz. Between
+Niskowitz and Urschutz is a large wood, under cover of which, the
+French had it in their power to surround and cut off the corps under
+M. de Kienmayer, which was thus too much pushed forward. He therefore
+remained in this position no longer than was necessary to give time
+to the stragglers of the army, and to some baggage to fall back upon
+Urschutz, and to obtain some knowledge of the enemy's movements. As
+soon as the French, who had entered Austerlitz in the morning, began
+to advance, General Kienmayer fell back upon General Bagration, and
+in front of Saruschitz formed the support of that Prince's corps. A
+detachment of O'Reilly's light cavalry, and some Cosacks, were sent
+to Stanitz, to watch that road. The corps under M. de Merveldt had
+received orders to retire from Lunenbourg, in the direction of Goeding,
+to observe the country on the left, and principally the two roads of
+Auspitz and Nicolsbourg.
+
+On the third of December, the French army advanced in the following
+manner: The cavalry, under Prince Murat, which had pushed forward
+detachments upon Rausnitz and Wischau (on the evening of the same
+day on which the battle was fought) pursued that route, and made
+immense booty: it advanced beyond Prosnitz, and then sent out strong
+detachments upon Kremsir.
+
+Marshal Lannes at first took the same road, and then moved by his
+right, to gain the right of the allies by Butschowitz and Stanitz.
+Marshals Soult and Bernadotte, the imperial guards, and the grenadiers
+of the reserve, were posted on the route towards Hungary, as soon as
+the Emperor Napoleon had received information of the direction taken by
+the allied army; they advanced, however, but slowly; probably with a
+view to give time to the extreme right of their army to gain ground on
+the left of the allies.
+
+Marshal Davoust marched upon the left flank of the Austro-Russian
+army, by the route of Nicolsbourg, (in which was the division of
+Gudin,) and by that of Auspitz, in which was the remainder of that
+corps; these two roads unite within half a league of Goeding.
+
+Prince Bagration had placed some out-posts in the wood of Urschutz.
+The French, about two o'clock in the afternoon, began to reconnoitre
+it, obtained possession of the wood, and established themselves on the
+skirts of it. A trifling affair ensued, which lasted about two hours,
+and which terminated by General Bagration maintaining his post, which,
+however, he evacuated that evening, retiring towards Czeitsch; General
+Kienmayer posted himself in his front, upon the heights of Nasedlowitz,
+pushing forward his out-posts in the direction of Urschutz.
+
+The 4th of December the allied army crossed the river March, and
+arrived at Hollitsch, much diminished in numbers, and with very few
+effectives, compared with the army to which it was opposed. The Emperor
+Alexander took up his quarters in the castle of Hollitsch, while the
+Emperor of Germany remained at Czeitsch, to be ready for the interview
+which was about to take place with the Emperor Napoleon.
+
+An armistice had been agreed on, to take place at day-break on the
+4th December. Prince John de Liechtenstein had returned from the
+head-quarters of the French the evening before with this intelligence.
+But their advanced guard, probably from not having received timely
+orders on this subject, advanced to attack the fore-posts of M. de
+Kienmayer's corps, which remained upon the heights of Nasedlowitz.
+Prince Bagration then retired quite behind Czeitsch. However, this
+misunderstanding, and the firing consequent upon it, were soon put a
+stop to. A suspension of arms took place, and the space of about a
+league and a half was left between the out-posts of the two armies.
+That of the French had advanced, and taken up its position in several
+lines, between Damborschutz, and Saruschutz, in front of Urschutz.
+
+It was then that the famous interview, which gave peace to the two
+empires, took place between the Emperor Francis II. and Napoleon;
+it passed at a little distance from the village of Nasedlowitz,
+near a mill, by the side of the high-road, and in the open air. The
+conversation of these two sovereigns lasted some time, when the
+Emperor of Germany returned to Czeitsch, which he reached in the
+evening, and immediately set about informing his ally of the result
+of the interview.--For this purpose, an Austrian general was to be
+sent immediately to Hollitsch; and General Savary, aid-de-camp to the
+Emperor Napoleon, was named by his sovereign, in the first instance
+to attend the Emperor Francis II. and afterwards to accompany the
+general that should be sent to Hollitsch. In case his Majesty, the
+Emperor of all the Russias, should consent to the conditions of the
+armistice, General Savary was empowered to countermand the march of
+Marshal Davoust's corps, and was afterwards to accompany the Austrian
+general, to acquaint the corps of M. de Merveldt with the suspension of
+arms. General Stutterheim, who was with the rear-guard of the corps,
+near which the interview took place, was charged by his sovereign
+with this commission. It was twelve o'clock at night before these two
+generals reached Hollitsch, where they had the happiness of obtaining
+immediate access to the presence of the Emperor Alexander, who received
+them with kindness, and threw no obstacle in the way of the armistice.
+Upon this they again departed immediately to find out the corps under
+M. de Merveldt, and to countermand that under Marshal Davoust: the
+former they fell in with at two o'clock in the morning, retiring upon
+Goeding. M. de Merveldt, we have already seen, was charged with the
+protection of the left flank of the Russian army; but the whole force
+under his orders did not exceed 4,000 infantry and 500 cavalry, which
+made it impossible for him to impede the march of the right of the
+French army. The two generals succeeded in falling in with Marshal
+Davoust at Josephsdorf, at about four o'clock in the morning. General
+Gudin's advanced guard was at Neudorf. According to the agreement
+between the Emperor Francis II. and Napoleon, all the troops remained
+in the exact situation in which they were found upon the cessation of
+hostilities being made known to them. The following day Prince John
+de Liechtenstein returned to Austerlitz (which was the head-quarter of
+the Emperor Napoleon) for the purpose of negociating the boundary to
+be observed by the respective armies during the continuation of the
+armistice which preceded the peace concluded between Austria and France.
+
+On the 4th December, the very day on which the armistice took place,
+the Archduke Ferdinand, who could not be made acquainted with it, and
+who had received orders to advance and observe the Bavarians that
+remained at Iglau, after the departure of Marshal Bernadotte: on this
+day, that prince attacked General Wrede (to keep him in check) with
+some troops, the remnant of his corps; with which he succeeded in
+driving him from Iglau.
+
+The Archduke Charles, obliged to retreat in consequence of the unheard
+of catastrophe that happened to the German army, arrived in Hungary,
+with his army quite entire, after having at Caldiero incapacitated the
+French army of Italy from doing him any mischief.
+
+It appears, then, that wherever their generals allowed the Austrian
+troops to fight, they fought well; and it would be a very rash, and a
+very false opinion, to impute the misfortunes of the war of 1805 to
+them. In that, as well as in all former instances, the Austrian army
+distinguished itself by its courage, its devotion to the cause, its
+constancy in supporting unheard of privations, and by its implicit
+obedience. It was at Ulm that these brave troops, victims to the
+conduct of M. Mack, were subjected to that heart-breaking fate which
+was the destruction of the German army. But, at Ulm, many regiments
+that had not fired a single shot were obliged to surrender, in
+consequence of the operations pursued, and in pursuance of orders given
+by that M. Mack, who talked of _burying himself in the ruins of Ulm;
+who always talked of death, yet feared to die_.
+
+
+THE END.
+
+FOOTNOTES:
+
+[Footnote 17: _Note by a French officer._--It is too ridiculous to
+suppose that the Russian army, without artillery, without baggage, and
+without provisions, would have preferred a retreat by its flank (which
+exposed it to the danger of being surrounded by the French army) to
+that upon Olmutz: but, in the course of this day, it lost its line of
+operation, which was the high road to Olmutz, and nothing remained
+for it but to move upon Goeding; and it did not gain much by that;
+for, had it not been for the too great clemency of the Emperor, and
+the armistice, which was concluded, the remains of the Russian army
+would have been entirely destroyed; as may be perceived from what
+the Austrian officer lets fall a little farther on.--The loss of a
+battle is no proof of want of talent in a general: but the loss of his
+artillery and baggage, of his line of operations, and his retreat, are
+positive evidence that he is ignorant of the art of war.
+
+An army, so commanded, never could make head against a French army in
+so great and difficult a warfare. The emperor took advantage of the
+faults committed by the enemy, who would have committed yet greater
+errors had the emperor retired behind Brunn: the latter would have
+been in greater force; and had already planned new combinations, in
+the course of which, the general who possessed most experience, and
+the greatest genius for the art of war, must naturally have taken his
+adversary at a disadvantage.]
+
+
+
+
+TO THE OFFICERS OF THE BRITISH ARMY.
+
+
+T. Goddard takes this opportunity of returning thanks to his numerous
+Military Friends for the liberal encouragement he has already
+experienced, and begs leave to assure them, that such attention shall
+be paid to their future favours as will, he trusts, ensure to him a
+continuance of that patronage and preference he has already met with.
+
+He has also the honour to inform them, they can at any time be
+immediately supplied with every Publication connected with the finance,
+interior management, economy, and discipline of the army. Printed
+Review, Inspection, and Monthly Returns for Cavalry and Infantry;
+Returns of Arms, Clothing, and Appointments; Attestations, Furloughs,
+Discharges, Regimental and Orderly Books, Paymasters Account Books,
+and Stationary of every description, for home or foreign service.
+Regulations, Instructions, &c.
+
+General and Staff Officers supplied with Boxes of Stationary, fitted up
+in the most convenient and portable manner, with every article allowed
+by the King's Regulations.
+
+       *       *       *       *       *
+
+New and correct forms of Staff Contingent Accounts, with all the
+required Certificates printed.
+
+       *       *       *       *       *
+
+The following publications are particularly recommended:
+
+       *       *       *       *       *
+
+The AIDE-DE-CAMP, or STAFF OFFICER'S ASSISTANT, containing correct
+statements of the pay, allowances, and contingencies granted to every
+officer when employed on the staff in Great Britain.
+
+       *       *       *       *       *
+
+INSTRUCTIONS for OFFICERS EMPLOYED ON, or EMBARKING FOR FOREIGN
+SERVICE; containing his Majesty's Regulations, together with forms
+and complete directions for stating and certifying claims for losses
+of personal baggage, camp equipage, chargers, and bat horses, whether
+lost, or shot for the glanders. Necessaries of Non-commissioned
+Officers and Private Soldiers, Regimental Clothing and Appointments,
+&c. &c. &c. To which are added all the new Regulations relative to the
+Increased Pay, Allowances, and Passage Money of Men and Officers, both
+at Home and on Embarking for Foreign Stations, with a variety of other
+necessary information.
+
+       *       *       *       *       *
+
+A CHART, shewing the comparative Rank of every Officer in the Army,
+Navy, Marines, Ordnance, Artillery, Engineers, Medical Department,
+Militia, Volunteers, &c. &c. &c. &c.
+
+       *       *       *       *       *
+
+An OFFICER'S LAST LEGACY to his Wife and Family; being a complete
+Collection of the Rules, Orders, Regulations, and Instructions,
+relative to the Pension and Allowances granted by Government to the
+Widows and Orphans of Officers dying in his Majesty's Service, whether
+belonging to the _Army_, _Navy_, _Artillery_, or _Marines_.
+
+Together with correct Tables of the Pensions, as increased from the
+25th of June, 1806; as also of the King's Bounty to the Widows and
+Relations of Officers Killed in Action or Dying of their Wounds, and
+Forms of the Applications, Affidavits, and Certificates, necessary for
+obtaining the same, &c. &c. &c.
+
+
+
+
+Marchant, Printer, 3, Greville-Street, Holborn.
+
+[Transcriber's Note: Original spelling, including probable inconsistencies,
+has been retained.]
+
+*** END OF THE PROJECT GUTENBERG EBOOK 66641 ***

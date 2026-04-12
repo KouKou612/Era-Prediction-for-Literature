@@ -1,0 +1,3797 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK A SHORT INTRODUCTION TO ENGLISH GRAMMAR: WITH CRITICAL NOTES ***
+
+
+
+
+
+
+                                 A SHORT
+                               INTRODUCTION
+                                    TO
+                             ENGLISH GRAMMAR:
+                           WITH CRITICAL NOTES.
+
+    Nam ipsum _Latine_ loqui est illud quidem in magna laude ponendum:
+    sed non tam sua sponte, quam quod est a plerisque neglectum. Non enim
+    tam præclarum est scire _Latine_, quam turpe nescire; neque tam id
+    mihi oratoris boni, quam civis _Romani_ proprium videtur.
+
+                                                             CICERO.
+
+                              [Illustration]
+
+                       LONDON: Printed by J. HUGHS;
+                       For A. MILLAR in the Strand;
+                And R. and J. DODSLEY in Pall-mall. 1762.
+
+
+
+
+PREFACE.
+
+
+_The English Language hath been much cultivated during the last two
+hundred years. It hath been considerably polished and refined; it hath
+been greatly enlarged in extent and compass; its force and energy, its
+variety, richness, and elegance, have been tried with good success,
+in verse and in prose, upon all subjects, and in every kind of stile:
+but whatever other improvements it may have received, it hath made no
+advances in Grammatical accuracy._
+
+_It is now about fifty years since Doctor ~Swift~ made a public
+remonstrance, addressed to the Earl of ~Oxford~, then Lord Treasurer,
+of the imperfect State of our Language; alledging in particular, “that
+in many instances it offended against every part of Grammar.” ~Swift~
+must be allowed to have been a good judge of this matter. He was himself
+very attentive to this part, both in his own writings, and in his remarks
+upon those of his friends: he is one of our most correct, and perhaps our
+very best prose writer. Indeed the justness of this complaint, as far as
+I can find, hath never been questioned; and yet no effectual method hath
+hitherto been taken to redress the grievance of which he complains._
+
+_But let us consider, how, and in what extent, we are to understand this
+charge brought against the ~English~ Language. Does it mean, that the
+~English~ Language as it is spoken by the politest part of the nation,
+and as it stands in the writings of our most approved authors, oftentimes
+offends against every part of Grammar? Thus far, I am afraid, the charge
+is true. Or does it further imply, that our Language is in its nature
+irregular and capricious; not subject, or not easily reduceable, to a
+System of rules? In this respect, I am persuaded, the charge is wholly
+without foundation._
+
+_The ~English~ Language is perhaps of all the present European Languages
+by much the most simple in its form and construction. Of all the ancient
+Languages extant that is the most simple, which is undoubtedly the most
+ancient: but even that Language itself does not equal the ~English~ in
+simplicity._
+
+_The Words of the ~English~ Language are subject to fewer variations from
+their original Form, than those perhaps of any other Language whatsoever.
+Its Substantives have but one variation of Case: nor have they any beside
+the natural distinction of Gender. Its Adjectives admit of no change
+at all, except that which expresses the degrees of Comparison. All the
+possible variations of the original form of the Verb are not above six
+or seven; whereas in many Languages they amount to one or two hundred:
+and almost the whole business of Modes, Times, and Voices is managed with
+great ease by the assistance of eight or nine commodious little Verbs;
+called from their use Auxiliaries. The Construction of this Language is
+so easy and obvious, that our Grammarians have thought it hardly worth
+while to give us any thing like a regular and systematical Syntax. The
+last ~English~ Grammar that hath been presented to the public, and by
+the Person best qualified to have given us a perfect one, comprises the
+whole Syntax in ten lines. The reason, which he assigns for being so very
+concise in this part, is, “because our Language has so little inflection,
+that its Construction neither requires nor admits many rules.” In truth,
+the easier any subject is in its own nature, the harder is it to make it
+more easy by explanation; and nothing is commonly more unnecessary, and
+at the same time more difficult, than to give a Demonstration in form of
+a proposition almost self-evident._
+
+_It is not owing then to any peculiar irregularity or difficulty of our
+Language, that the general practice both of speaking and writing it is
+chargeable with inaccuracy. It is not the Language, but the practice,
+that is in fault. The truth is, Grammar is very much neglected among us:
+and it is not the difficulty of the Language, but on the contrary the
+simplicity and facility of it, that occasions this neglect. Were the
+Language less easy and simple, we should find ourselves under a necessity
+of studying it with more care and attention. But as it is, we take it
+for granted, that we have a competent knowledge and skill, and are able
+to acquit ourselves properly, in our own native tongue: a faculty solely
+acquired by use, conducted by habit, and tried by the ear, carries us on
+without reflection; we meet with no rubs or difficulties in our way, or
+we do not perceive them; we find ourselves able to go on without rules,
+and we do not so much as suspect that we stand in need of them._
+
+_A Grammatical Study of our own Language makes no part of the ordinary
+method of instruction which we pass thro’ in our childhood; and it is
+very seldom that we apply ourselves to it afterward. And yet the want of
+it will not be effectually supplied by any other advantages whatsoever.
+Much practice in the polite world, and a general acquaintance with the
+best authors, are good helps, but alone will hardly be sufficient: we
+have writers, who have enjoyed these advantages in their full extent,
+and yet cannot be recommended as models of an accurate style. Much less
+then will what is commonly called Learning serve the purpose; that is,
+a critical knowledge of ancient languages, and much reading of ancient
+authors: the greatest Critic and most able Grammarian of the last age,
+when he came to apply his Learning and his Criticism to an English
+Author, was frequently at a loss in matters of ordinary use and common
+construction in his own ~Vernacular Idiom~._
+
+_But perhaps the Notes subjoined to the following pages will furnish a
+more convincing argument, than any thing that can be said here, both
+of the truth of the charge of inaccuracy brought against our Language
+as it subsists in practice, and of the necessity of investigating the
+Principles of it, and studying it Grammatically, if we would attain to a
+due degree of skill in it. It is with reason expected of every person of
+a liberal education, and much more is it indispensably required of every
+one who undertakes to inform or entertain the public, that he should be
+able to express himself with propriety and accuracy. It will evidently
+appear from these Notes, that our best Authors for want of some rudiments
+of this kind have sometimes fallen into mistakes, and been guilty of
+palpable errors in point of Grammar. The examples there given are such as
+occurred in reading, without any very curious or methodical examination:
+and they might easily have been much increased in number by any one,
+who had leisure or phlegm enough to have gone through a regular course
+of reading with this particular view. However, I believe, they may be
+sufficient to answer the purpose intended; to evince the necessity of the
+Study of Grammar in our own Language, and to admonish those, who set up
+for Authors among us, that they would do well to consider this part of
+Learning as an object not altogether beneath their regard._
+
+_The principal design of a Grammar of any Language is to teach us to
+express ourselves with propriety in that Language, and to be able to
+judge of every phrase and form of construction, whether it be right or
+not. The plain way of doing this, is to lay down rules, and to illustrate
+them by examples. But besides shewing what is right, the matter may be
+further explained by pointing out what is wrong. I will not take upon me
+to say, whether we have any Grammar that sufficiently performs the first
+part: but the latter method here called in, as subservient to the former,
+may perhaps be found in this case to be of the two the more useful and
+effectual manner of instruction._
+
+_Besides this principal design of Grammar in our own Language, there
+is a secondary use to which it may be applied, and which, I think,
+is not attended to as it deserves. A good foundation in the General
+Principles of Grammar is in the first place necessary for all those who
+are initiated in a learned education; and for all others likewise, who
+shall have occasion to furnish themselves with the knowledge of modern,
+languages. Universal Grammar cannot be taught abstractedly: it must be
+done with reference to some language already known, in which the terms
+are to be explained, and the rules exemplified. The learner is supposed
+to be unacquainted with all but his own native tongue; and in what
+other, consistently with reason and common sense, would you go about
+to explain it to him? When he has a competent knowledge of the main
+principles, the common terms, the general rules, the whole subject and
+business of Grammar, exemplified in his own Language; he then will apply
+himself with great advantage to any foreign language, whether ancient or
+modern. To enter at once upon the Science of Grammar, and the Study of
+a foreign Language, is to encounter two difficulties together, each of
+which would be much lessened by being taken separately and in its proper
+order. For these plain reasons a competent Grammatical knowledge of our
+own Language is the true foundation upon which all Literature, properly
+so called, ought to be raised. If this method were adopted in our
+Schools; if children were first taught the common principles of Grammar
+by some short and clear System of ~English~ Grammar, which happily by its
+simplicity and facility is perhaps of all others the fittest for such a
+purpose, they would have some notion of what they were going about, when
+they should enter into the ~Latin~ Grammar; and would hardly be engaged
+so many years, as they now are, in that most irksome and difficult part
+of literature, with so much labour of the memory, and with so little
+assistance of the understanding._
+
+_A design somewhat of this kind gave occasion to the following little
+System, intended merely for a private and domestic use. The chief end
+of it was to explain the general principles of Grammar as clearly and
+intelligibly as possible. In the Definitions therefore easiness and
+perspicuity have been sometimes prefered to logical exactness. The
+common Divisions have been complied with, as far as truth and reason
+would permit. The known and received Terms have been retained, except
+in one or two instances, where others offered themselves, which seemed
+much more significant. All disquisitions, which appeared to have
+more of subtilty than of usefulness in them, have been avoided. In a
+word, it was calculated for the use of the Learner even of the lowest
+class. Those, who would enter more deeply into this Subject, will
+find it fully and accurately handled, with the greatest acuteness of
+investigation, perspicuity of explication, and elegance of method, in a
+Treatise intitled HERMES, by JAMES HARRIS Esq; the most beautiful and
+perfect example of Analysis that has been exhibited since the days of
+~Aristotle~._
+
+_The following short System is proposed only as an Essay, upon a Subject,
+tho’ of little esteem, yet of no small importance; and in which the
+want of something better adapted to real use and practice, than what we
+have at present, seems to be generally acknowledged. If those, who are
+qualified to judge of such matters, and do not look upon them as beneath
+their notice, shall so far approve of it, as to think it worth a revisal,
+and capable of being improved into something really useful; their remarks
+and assistance, communicated through the hands of the Bookseller, shall
+be received with all proper deference and acknowledgement._
+
+
+
+
+A SHORT INTRODUCTION TO ENGLISH GRAMMAR.
+
+
+
+
+GRAMMAR.
+
+
+Grammar is the Art of rightly expressing our thoughts by Words.
+
+Grammar in general, or Universal Grammar, explains the Principles which
+are common to all languages.
+
+The Grammar of any particular Language, as the English Grammar, applies
+those common principles to that particular language, according to the
+established usage and custom of it.
+
+Grammar treats of Sentences, and the several parts of which they are
+compounded.
+
+Sentences consist of Words; Words, of one or more Syllables; Syllables,
+of one or more Letters.
+
+So that Letters, Syllables, Words, and Sentences, make up the whole
+subject of Grammar.
+
+
+
+
+LETTERS.
+
+
+A Letter is the first Principle, or least part of a Word.
+
+An Articulate Sound is the sound of the human voice, formed by the organs
+of speech.
+
+A Vowel is a simple articulate sound, formed by the impulse of the voice,
+and by the opening only of the mouth in a particular manner.
+
+A Consonant cannot be perfectly sounded by itself; but joined with
+a vowel forms a compound articulate sound, by a particular motion or
+contact of the parts of the mouth.
+
+A Diphthong, or Double Vowel, is the union of two or more vowels
+pronounced by a single impulse of the voice.
+
+In English there are twenty-six Letters:
+
+A, a; B, b; C, c; D, d; E, e; F, f; G, g; H, h; I, i; J, j; K, k; L, l;
+M, m; N, n; O, o; P, p; Q, q; R, r; S, s; T, t; U, u; V, v; W, w; X, x;
+Y, y; Z, z.
+
+_J j_, and _V v_, are consonants; the former having the sound of the
+soft _g_, and the latter that of a coarser _f_: they are therefore
+intirely different from the vowels _i_ and _u_, and distinct letters of
+themselves; they ought also to be distinguished by a peculiar Name; the
+former may be called _ja_, and the latter _vee_.
+
+Six of the letters are vowels, and may be sounded by themselves; _a_,
+_e_, _i_, _o_, _u_, _y_.
+
+_Y_ is in sound wholly the same with i; and is written instead of it at
+the end of words; or before another _i_, as _flying_, _denying_: it is
+retained likewise in some words derived from the Greek; and it is always
+a vowel.
+
+_W_ is either a vowel, or a diphthong: its proper sound is the same as
+the Italian _u_, the French _ou_, or the English _oo_: after _o_, it is
+sometimes not sounded at all, sometimes like a single _u_.
+
+The rest of the letters are consonants; which cannot be sounded alone:
+some not at all, and these are called Mutes, _b_, _c_, _d_, _g_, _k_,
+_p_, _q_, _t_: others very imperfectly, making a kind of obscure sound,
+and these are called Semi-vowels, or Half-vowels, _l_, _m_, _n_, _r_,
+_f_, _s_; the first four of which are also distinguished by the name of
+Liquids.
+
+The Mutes and the Semi-vowels are distinguished by their names in the
+Alphabet, those of the former all beginning with a consonant; _bee_,
+_cee_, &c; those of the latter all beginning with a vowel, _ef_, _el_, &c.
+
+_X_ is a double consonant, compounded of _c_, or _k_, and _s_.
+
+_Z_ seems not to be a double consonant in English, as it is commonly
+supposed: it has the same relation to _s_, as _v_ has to _f_, being a
+thicker and coarser expression of it.
+
+_H_ is only an Aspiration, or Breathing: and sometimes at the beginning
+of a word is not sounded at all; as, _an hour_, _an honest_ man.
+
+_C_ is pronounced like _k_, before _a_, _o_, _u_; and soft, like _s_,
+before _e_, _i_, _y_: in like manner _g_ is pronounced always hard
+before _a_, _o_, _u_; sometimes hard and sometimes soft before _i_, and
+_y_; and for the most part soft before _e_.
+
+The English Alphabet, like most others, is both deficient and redundant;
+in some cases, the same letters expressing different sounds, and
+different letters expressing the same sounds.
+
+
+
+
+SYLLABLES.
+
+
+A Syllable is a sound either simple or compounded, pronounced by a single
+impulse of the voice, and constituting a word, or part of a word.
+
+Spelling is the art of reading by naming the letters singly, and rightly
+dividing words into their syllables. Or, in writing, it is the expressing
+of a word by its proper letters.
+
+In Spelling, a syllable in the beginning or middle of a word ends in a
+vowel, unless the consonant _x_ follow it, or two consonants, whereof the
+former is a liquid, or the same as the latter.
+
+But the best and only sure rule for dividing the syllables in spelling,
+is to divide them as they are naturally divided in a right pronunciation.
+
+
+
+
+WORDS.
+
+
+Words are articulate sounds, used by common consent as signs of ideas, or
+notions.
+
+There are in English nine Sorts of Words, or, as they are commonly
+called, Parts of Speech.
+
+1. The ARTICLE, prefixed to substantives, when they are common names
+of things, to point them out, and to shew how far their signification
+extends.
+
+2. The SUBSTANTIVE, or NOUN, being the name of any thing conceived to
+subsist, or of which we have any notion.
+
+3. The PRONOUN, standing instead of the noun.
+
+4. The ADJECTIVE, added to the noun to express the quality of it.
+
+5. The VERB, or Word by way of eminence, signifying to be, to do, or to
+suffer.
+
+6. The ADVERB, added to verbs, and also to adjectives and other adverbs,
+to express some circumstance belonging to them.
+
+7. The PREPOSITION, put before nouns and pronouns chiefly, to connect
+them with other words, and to shew their relation to them.
+
+8. The CONJUNCTION, connecting sentences together.
+
+9. The INTERJECTION, thrown in to express the affection of the speaker,
+though unnecessary with respect to the construction of the sentence.
+
+
+EXAMPLE.
+
+   1    2   7     2   5  1   2        4     7   2    8   5     5
+  The power of speech is a faculty peculiar to man, and was bestowed
+
+   7  3  7   3      4        2      7   1     4      8   6      4
+  on him by his beneficent Creator for the greatest and most excellent
+
+   2     8   9     6    6   5  3    5     3  7   1   4    7     2
+  uses; but alas! how often do we pervert it to the worst of purposes?
+
+In the foregoing sentence the Words _the_, _a_, are Articles; _power_,
+_speech_, _faculty_, _man_, _creator_, _uses_, _purposes_, are
+Substantives; _him_, _his_, _we_, _it_, are Pronouns; _peculiar_,
+_beneficent_, _greatest_, _excellent_, _worst_, are Adjectives; _is_,
+_was_, _bestowed_, _do_, _pervert_, are Verbs; _most_, _how_, _often_,
+are Adverbs; _of_, _to_, _on_, _by_, _for_, are Prepositions; _and_,
+_but_, are Conjunctions; and _alas_ is an Interjection.
+
+The Substantives _power_, _speech_, _faculty_, and the rest, are General,
+or Common, Names of things; whereof there are many sorts belonging to
+the same kind, or many individuals belonging to the same sort: as there
+are many sorts of power, many sorts of speech, many sorts of faculty,
+many individuals of that sort of animal called man; and so on. These
+general or common names are here applied in a more or less extensive
+signification, according as they are used without either, or with the
+one, or with the other, of the two Articles _a_ and _the_. The words
+_speech_, _man_, being accompanied with no article, are taken in their
+largest extent, and signify all of the kind or sort, all sorts of speech,
+and all men. The word _faculty_, with the article _a_ before it, is
+used in a more confined signification, for some one out of many of that
+kind; for it is here implied, that there are other faculties peculiar
+to man beside speech. The words _power_, _creator_, _uses_, _purposes_,
+with the article _the_ before them, (for _his_ Creator is the same as
+_the_ Creator _of him_) are used in the most confined signification for
+the things here mentioned and ascertained: _the power_ is not any one
+indeterminate power out of many sorts, but that particular sort of power
+here specified, namely, the power of speech; _the creator_ is the One
+great Creator of man and of all things; _the uses_, and _the purposes_,
+are particular uses and purposes; the former are explained to be those
+in particular, that are the greatest and most excellent; such for
+instance, as the glory of God, and the common benefit of mankind; the
+latter, to be the worst, as lying, slandering, blaspheming, and the like.
+
+The Pronouns _him_, _his_, _we_, _it_, stand instead of some of the
+nouns, or substantives, going before them; as _him_ supplies the place
+of _man_; _his_ of _man’s_; _we_ of _men_ (implied in the general name
+_man_, including all men, of which number is the speaker;) _it_ of _the
+power_, before mentioned. If instead of these pronouns the nouns for
+which they stand had been used, the sense would have been the same, but
+the frequent repetition of the same words would have been disagreeable
+and tedious: as, The power of speech peculiar to _man_, bestowed on
+_man_, by _man’s_ Creator, &c.
+
+The Adjectives _peculiar_, _beneficent_, _greatest_, _excellent_,
+_worst_, are added to their several substantives to denote the character
+and quality of each.
+
+The Verbs _is_, _was bestowed_, _do pervert_, signify severally, being,
+suffering, and doing. By the first it is implied, that there is such a
+thing as the power of speech, and it is affirmed to be of such a kind;
+namely, a faculty peculiar to man: by the second it is said to have been
+acted upon, or to have suffered, or to have had something done to it;
+namely, to have been bestowed on man: by the last, we are said to act
+upon it, or to do something to it; namely, to pervert it.
+
+The Adverbs _most_, _often_, are added to the adjective _excellent_,
+and to the verb _pervert_, to shew the circumstance belonging to them;
+namely, that of the highest degree to the former, and that of frequency
+to the latter: concerning the degree of which frequency also a question
+is made by the adverb _how_, added to the adverb _often_.
+
+The Prepositions _of_, _to_, _on_, _by_, _for_, placed before the
+substantives and pronouns _speech_, _man_, _him_, &_c._ connect them with
+other words, substantives, adjectives, and verbs, as _power_, _peculiar_,
+_bestowed_, &_c._ and shew the relation which they have to those words;
+as the relation of subject, object, agent, end; _for_ denoting the end,
+_by_ the agent, _on_, the object; _to_ and _of_ denote possession, or the
+belonging of one thing to another.
+
+The Conjunctions _and_, and _but_, connect the three parts of the
+sentence together; the first more closely both with regard to the
+sentence and the sense; the second connecting the parts of the sentence,
+tho’ less strictly, and at the same time expressing an opposition in the
+sense.
+
+The Interjection _alas!_ expresses the concern and regret of the speaker;
+and though thrown in with propriety, yet might have been omitted without
+injuring the construction of the sentence, or destroying the sense.
+
+
+ARTICLE.
+
+The Article is a word prefixed to substantives, to point them out, and to
+shew how far their signification extends.
+
+In English there are but two articles, _a_, and _the_: _a_ becomes _an_
+before a vowel or a silent _h_.
+
+_A_ is used in a vague sense to point out one single thing of the kind,
+in other respects indeterminate: _the_ determines what particular thing
+is meant.
+
+A substantive without any article to limit it is taken in its widest
+sense: thus _man_ means all mankind; as,
+
+    “The proper study of mankind is man:”
+
+                                   POPE.
+
+where _mankind_ and _man_ may change places without making any alteration
+in the sense. _A man_ means some one or other of that kind, indefinitely;
+_the man_ means, definitely, that particular man, who is spoken of: the
+former therefore is called the Indefinite, the latter the Definite,
+Article[1].
+
+Example: “_Man_ was made for society, and ought to extend his good-will
+to all _men_: but _a man_ will naturally entertain a more particular
+kindness for _the men_ with whom he has the most frequent intercourse;
+and enter into a still closer union with _the man_, whose temper and
+disposition suit best with his own.”
+
+It is of the nature of both the Articles to determine or limit the thing
+spoken of: _a_ determines it to be one single thing of the kind, leaving
+it still uncertain which; _the_ determines which it is, or of many which
+they are. The first therefore can only be joined to Substantives in the
+singular number[2]; the last may also be joined to plurals.
+
+There is a remarkable exception to this rule in the use of the Adjectives
+_few_ and _many_, (the latter chiefly with the word _great_ before it)
+which, though joined with plural Substantives, yet admit of the singular
+Article _a_: as, _a few men_, _a great many men_;
+
+    “Told of _a many thousand_ warlike French:”—
+    “The care-craz’d mother of _a many children_.”
+
+                                      SHAKESPEAR.
+
+The reason of it is manifest from the effect which the Article has in
+these phrases: it means a small or great number collectively taken, and
+therefore gives the idea of a Whole, that is, of Unity. Thus likewise
+_a hundred_, _a thousand_, is one whole number, an aggregate of many
+collectively taken; and therefore still retains the Article _a_, tho’
+joined as an Adjective to a plural Substantive: as, _a hundred years_;[3]
+
+    “For harbour at _a thousand doors_ they knock’d;
+    Not one of all _the thousand_, but was lock’d.”
+
+                                             DRYDEN.
+
+The Definite Article _the_ is sometimes applied to Adverbs in the
+comparative degree, and its effect is to mark the degree the more
+strongly, and to define it the more precisely: as, “_The more_ I examine
+it, _the better_ I like it. I like this _the least_ of any.”
+
+
+SUBSTANTIVE.
+
+A Substantive, or Noun, is the Name of a thing; of whatever we conceive
+in any way to subsist, or of which we have any notion.
+
+Substantives are of two sorts; Proper, and Common, Names. Proper Names
+are the names appropriated to individuals; as the names of persons and
+places: such are _George_, _London_. Common Names stand for kinds,
+containing many sorts; or sorts, containing many individuals under them;
+as, _Animal_, _Man_.
+
+Proper Names being the names of individuals, and therefore of things
+already as determinate as they can be made, admit not of Articles, or
+of Plurality of Number; unless by a Figure, or by Accident: as when
+great Conquerors are called _Alexanders_; and some great Conqueror
+_An_ Alexander, or _The_ Alexander of his age; when a Common Name is
+understood, as _The_ Thames, that is, the _River_ Thames; _The_ George,
+that is, the _Sign_ of St. George: or when it happens that there are
+many persons of the same name; as, _The_ two _Scipios_.
+
+Whatever is spoken of is represented as one, or more, in Number: these
+two manners of representation in respect of number are called the
+Singular, and the Plural, Number.
+
+In English, the Substantive Singular is made Plural, for the most
+part, by adding to it _s_; or _es_, where it is necessary for the
+pronunciation: as, _king_, _kings_; _fox_, _foxes_; _leaf_, _leaves_; in
+which last, and many others, _f_ is also changed into _v_, for the sake
+of an easier pronunciation, and more agreeable sound. Some few Plurals
+end in _en_: as, _oxen_, _chicken_, _children_, _brethren_; and _men_,
+_women_, by changing the _a_ of the Singular into _e_[4]. This form we
+have retained from the Teutonic; as likewise the introduction of the _e_
+in the former syllable of two of the last instances; _weomen_, (for so
+we pronounce it) _brethren_, from _woman_, _brother_[5]: something like
+which may be noted in some other forms of Plurals; as, _mouse_, _mice_;
+_louse_, _lice_; _tooth_, _teeth_; _foot_, _feet_; _goose_, _geese_[6].
+
+The English Language, to express different connexions and relations of
+one thing to another, uses, for the most part, Prepositions. The Greek
+and Latin among the antient, and some too among the modern languages,
+as the German, vary the termination or ending of the Substantive to
+answer the same purpose. These different endings are in those languages
+called Cases. And the English being derived from the same origin as the
+German, that is, from the Teutonic[7], is not wholly without them. For
+instance, the relation of Possession, or Belonging, is often expressed
+by a Case, or a different ending of the Substantive. This Case answers
+to the Genitive Case in Latin, and may still be so called; tho’ perhaps
+more properly the Possessive Case. Thus, “_God’s_ grace:” which may
+also be expressed by the Preposition; as, “the grace _of God_.” It was
+formerly written _Godis_ grace; we now very improperly always shorten it
+with an Apostrophe, even tho’ we are obliged to pronounce it fully; as,
+“_Thomas’s_ book:” that is, “_Thomasis_ book;” not “_Thomas his_ book,”
+as it is commonly supposed[8].
+
+When the thing, to which another is said to belong, is expressed by a
+circumlocution, or by many terms, the sign of the Possessive Case is
+added to the last term: as, “The King of Great _Britain’s_ Soldiers.”
+When it is a Noun ending with _s_, or in the Plural Number in _s_, the
+sign of the Possessive Case is not added: as, “for _righteousness_ sake;
+on _eagles_ wings.” Both the Sign and the Preposition seem sometimes
+to be used: as, “a soldier _of the king’s_:” but here are really two
+Possessives; for it means, “one _of_ the soldiers _of_ the king.”
+
+The English in its Substantives has but two different terminations for
+Cases; that of the Nominative, which simply expresses the Name of the
+thing, and that of the Possessive Case.
+
+Things are frequently considered with relation to the distinction of Sex
+or Gender; as being Male, or Female, or Neither the one, nor the other.
+Hence Substantives are of the Masculine, or Feminine, or Neuter, that is,
+Neither, Gender: which latter is only the exclusion of all consideration
+of Gender.
+
+The English Language, with singular propriety, following nature alone,
+applies the distinction of Masculine and Feminine only to the names
+of Animals; all the rest are Neuter: except when by a Poetical or
+Rhetorical fiction things inanimate and Qualities are exhibited as
+Persons, and consequently become either Male or Female. And this gives
+the English an advantage above most other languages in the Poetical and
+Rhetorical Style: for when Nouns naturally Neuter are converted into
+Masculine and Feminine[9], the Personification is more distinctly and
+forcibly marked.
+
+Some few Substantives are distinguished as to their Gender by their
+termination: as, _prince_, _princess_; _actor_, _actress_; _lion_,
+_lioness_; _hero_, _heroine_; &c.
+
+The chief use of Gender in English is in the Pronoun of the Third Person,
+which must agree in that respect with the Noun for which it stands.
+
+
+PRONOUN.
+
+A Pronoun is a word standing instead of a Noun, as its Substitute or
+Representative.
+
+In the Pronoun are to be considered the Person, Number, Gender and Case.
+
+There are Three Persons which may be the Subject of any discourse: first,
+the Person who speaks may speak of himself; secondly, he may speak of the
+Person to whom he addresses himself; thirdly, he may speak of some other
+Person.
+
+These are called, respectively, the First, Second, and Third, Persons:
+and are expressed by the Pronouns _I_, _Thou_, _He_.
+
+As the Speakers, the Persons spoken to, and the Persons spoken of, may
+be many, so each of these Persons hath the Plural Number; _We_, _Ye_,
+_They_.
+
+The Persons speaking and spoken to are supposed to be present, from which
+and other circumstances their Sex is commonly known, and needs not to
+be marked by a distinction of Gender in their Pronouns: but the Person
+spoken of being absent and in many respects unknown, it is necessary
+that it should be marked by a distinction of Gender; at least when some
+particular Person is spoken of, who ought to be more distinctly marked:
+accordingly the Pronoun Singular of the Third Person hath the Three
+Genders, _He_, _She_, _It_.
+
+Pronouns have Three Cases; the Nominative; the Genitive, or Possessive;
+like Nouns; and moreover a Case, which follows the Verb Active, or the
+Preposition, expressing the Object of an Action, or of a Relation. It
+answers to the Oblique Cases in Latin; and may be properly enough called
+the Objective Case.
+
+PRONOUNS;
+
+according to their Persons, Numbers, Cases, and Genders.
+
+PERSONS.
+
+    1.   2.  3.    1.    2.      3.
+
+      Singular.        Plural.
+
+    I, Thou, He;  We, Ye or You, They.
+
+CASES.
+
+    Nom.  Poss.  Obj.  Nom.       Poss.  Obj.
+
+                  First Person.
+
+    I,    Mine,  Me;   We,        Ours,  Us.
+
+                 Second Person.
+
+    Thou, Thine, Thee; Ye or You, Yours, You[10].
+
+                  Third Person.
+
+    _Masc._ He, His, Him;    }
+    _Fem._ She, Hers, Her;   } They, Theirs, Them.
+    _Neut._ It, Its[11], It; }
+
+The Personal Pronouns have the nature of Substantives, and as such stand
+by themselves: the rest have the nature of Adjectives, and as such are
+joined to Substantives; and may be called Pronominal Adjectives.
+
+_Thy_, _My_, _Her_, _Our_, _Your_, _Their_, are Pronominal Adjectives:
+but _His_, (that is, _Hee’s_) _Her’s_, _Our’s_, _Your’s_, _Their’s_,
+have evidently the Form of the Possessive Case: and by Analogy, _Mine_,
+_Thine_[12], may be esteemed of the same rank. All these are used, when
+the Noun they belong to is understood: the two latter sometimes also
+instead of _my_, _thy_, when the Noun following them begins with a vowel.
+
+Beside the foregoing there are several other Pronominal Adjectives; which
+tho’ they may sometimes seem to stand by themselves, yet have always some
+Substantive belonging to them, either referred to, or understood: as,
+_This_, _that_, _other_, _any_, _some_, _one_, _none_; these are called
+Definitive, because they define and limit the extent of the thing, to
+which they either refer, or are joined. The three first of these are
+varied to express Number; as, _These_, _those_, _others_; the last of
+which admits of the Plural form only when its Substantive is not joined
+to it, but referred to, or understood: none of them are varied to express
+the Gender or Case. _One_ is sometimes used in an Indefinite sense
+(answering to the French _on_) as in the following phrases; “_one_ is apt
+to think;” “_one_ sees;” “_one_ supposes.” _Who_, _which_, _that_, are
+called Relatives, because they more directly refer to some Substantive
+going before; which therefore is called the Antecedent. They also connect
+the following part of the Sentence with the foregoing. These belong to
+all the three Persons; whereas the rest belong only to the Third. One of
+them only is varied to express the three Cases; _Who_, _whose_[13], (that
+is, _who’s_[14]) _whom_: none of them have different endings for the
+Numbers. _Who_, _which_, _what_, are called Interrogatives, when they are
+used in asking questions. The two latter of them have no variation of
+Number or Case.
+
+_Own_, and _self_, in the Plural _selves_, are joined to the Possessives
+_my_, _our_, _thy_, _your_, _his_, _her_, _their_; as, _my own_ hand;
+_myself_, _yourselves_; both of them expressing emphasis, or opposition;
+as, “I did it _my own self_,” that is, and no one else: the latter also
+forming the Reciprocal Pronoun; as, “he hurt _himself_.” _Himself_,
+_themselves_, seem to be used in the Nominative Case by corruption
+instead of _his self_, _their selves_: as, “he came _himself_;” “they
+did it _themselves_;” where _himself_, _themselves_, cannot be in the
+Objective Case. If this be so, _self_ must be in these instances, not a
+Pronoun, but a Noun. Thus Dryden uses it:
+
+                                  “What I show,
+    Thy _self may_ freely on thy self bestow.”
+
+_Ourself_, the Plural Pronominal Adjective with the Singular Substantive,
+is peculiar to the Regal Style.
+
+_Own_ is an Adjective; or perhaps the Participle (_owen_) of the obsolete
+verb _owe_; to possess; to be the right owner of a thing.
+
+All Nouns whatever in Grammatical Construction are of the Third Person:
+except when an address is made to a Person; then the Noun, answering to
+the Vocative Case in Latin, is of the Second Person.
+
+
+ADJECTIVE.
+
+An Adjective is a word joined to a Substantive to express its
+Quality[15].
+
+In English the Adjective is not varied on account of Gender, Number,
+or Case. The only variation it admits of is that of the Degrees of
+Comparison.
+
+Qualities admit of _more_ and _less_, or of different degrees: and the
+words that express Qualities have accordingly proper forms to express
+different degrees. When a Quality is simply expressed, without any
+relation to the same in a different degree, it is called the Positive;
+as, _wise_, _great_. When it is expressed with augmentation, or with
+reference to a less degree of the same, it is called the Comparative;
+as, _wiser_, _greater_. When it is expressed as being in the highest
+degree of all, it is called the Superlative; as, _wisest_, _greatest_.
+
+So that the simple word, or Positive, becomes Comparative by adding _r_
+or _er_; and Superlative by adding _st_, or _est_, to the end of it. And
+the Adverbs _more_ and _most_ placed before the Adjective have the same
+effect; as, _wise_, _more wise_, _most wise_[16].
+
+Monosyllables, for the most part, are compared by _er_ and _est_; and
+Dissyllables by _more_ and _most_: as, _mild_, _milder_, _mildest_;
+_frugal_, _more frugal_, _most frugal_. Dissyllables ending in _y_ easily
+admit of _er_ and _est_; as _happy_, _lovely_. Words of more than two
+syllables hardly ever admit of _er_ and _est_.
+
+In some few words the Superlative is formed by adding the Adverb
+_most_ to the end of them: as, _nethermost_, _uttermost_, or _utmost_,
+_undermost_, _uppermost_, _foremost_.
+
+In English, as in most languages, there are some words of very common use
+that are irregular in this respect: as, _good_, _better_, _best_; _bad_,
+_worse_, _worst_; _little_, _less_[17], _least_; _much_, _or many_,
+_more_, _most_; and a few others.
+
+
+VERB.
+
+A VERB is a word which signifies to be, to do, or to suffer.
+
+There are three kinds of Verbs; Active, Passive, and Neuter Verbs.
+
+A Verb Active expresses an Action, and necessarily implies an agent, and
+an object acted upon: as, _to love_; “I love Thomas.”
+
+A Verb Passive expresses a Passion, or a Suffering, or the receiving of
+an Action; and necessarily implies an Object acted upon, and an Agent by
+which it is acted upon: as, _to be loved_; “Thomas is loved by me.”
+
+So when the Agent takes the lead in the Sentence, the Verb is Active, and
+the Object follows: when the Object takes the lead, the Verb is Passive,
+and the Agent follows.
+
+A Verb Neuter expresses Being, or a state or condition of being; when
+the Agent and the Object acted upon coincide, and the event is properly
+neither Action nor Passion, but rather something between both: as, _I
+am_; _I walk_; _I sleep_.
+
+The Verb Active is called also Transitive, because the Action _passeth
+over_ to the Object, or hath an effect upon some other thing: and the
+Verb Neuter is called Intransitive, because the effect is confined within
+the Agent, and doth _not pass over_ to any object.
+
+In English many Verbs are used both in an Active and a Neuter
+signification, the construction only determining of which kind they are.
+
+In a Verb are to be considered the Person, the Number, the Time, and the
+Mode.
+
+The Verb varies its endings to express, or agree with, the different
+Persons: as, “I _love_, Thou _lovest_, He _loveth_, or _loves_.”
+
+So also to express the different Numbers of the same Person: as, “Thou
+_lovest_, ye _love_; He _loveth_, they _love_[18].”
+
+So likewise to express different Times: as, “I _love_, I _loved_; I
+_bear_, I _bore_, I have _born_.”
+
+The Mode is the _Manner_ of representing the Action or Passion. When it
+is simply _declared_, or a question is asked concerning it, it is called
+the Indicative Mode; when it is _bidden_, it is called the Imperative;
+when it is _subjoined_ as the end or design, or mentioned under a
+condition, a supposition, or the like, for the most part depending on
+some other Verb, and having a Conjunction before it, it is called the
+Subjunctive; when it is barely expressed _without any limitation_ of
+person or number, it is called the Infinitive; and when it is expressed
+in a form in which it may be joined to a Noun as its quality or accident,
+_partaking_ thereby of the nature of an Adjective, it is called the
+Participle.
+
+But to express the Time of the Verb the English uses also the assistance
+of other Verbs, called therefore Auxiliaries, or Helpers; _do_, _be_,
+_have_, _shall_, _will_: as, “I _do_ love, I _did_ love; I _am_ loved, I
+_was_ loved; I _have_ loved, I _have been_ loved; I _shall_, or _will_,
+love, or _be_ loved.”
+
+The two principal auxiliaries, _to have_, and _to be_, are thus varied
+according to Person, Number, Time, and Mode.
+
+Time is Present, Past, or Future.
+
+
+To HAVE.
+
+
+Indicative Mode.
+
+Present Time.
+
+  Person. Sing.                         Plur.
+
+  1.      I have,                       We   }
+  2.      Thou hast[19],                Ye   } have.
+  3.      He hath, or has;              They }
+
+Past Time.
+
+  1.      I had,                        We   }
+  2.      Thou hadst,                   Ye   } had.
+  3.      He had;                       They }
+
+Future Time.
+
+  1.      I shall, or will,    }        We   } shall,
+  2.      Thou shalt, or wilt, } have;  Ye   } or will,
+  3.      He shall, or will,   }        They } have.
+
+
+Imperative Mode.
+
+  1.                                    Let us have,
+  2.     Have thou, or, Do thou have,   Have ye, or, Do ye have,
+  3.     Let him have;                  Let them have.
+
+
+Subjunctive Mode.
+
+Present Time.
+
+  1.     I    }                         We   }
+  2.     Thou } have;                   Ye   } have.
+  3.     He   }                         They }
+
+
+Infinitive Mode.
+
+  Present, To have: Past, To have had.
+
+
+Participle.
+
+  Present, Having: Perfect[20], Had: Past, Having had.
+
+
+To BE.
+
+
+Indicative Mode.
+
+Present Time.
+
+  1.     I am,                          We   }
+  2.     Thou art,                      Ye   } are.
+  3.     He is;                         They }
+
+Or,
+
+  1.     I be,                          We   }
+  2.     Thou beest,                    Ye   } be.
+  3.     He is;                         They }
+
+Past Time.
+
+  1.     I was,                         We   }
+  2.     Thou wast,                     Ye   } were.
+  3.     He was;                        They }
+
+Future Time.
+
+  1.     I shall, or will,    }         We   } shall,
+  2.     Thou shalt, or wilt, } be;     Ye   } or will,
+  3.     He shall, or will,   }         They } be.
+
+
+Imperative Mode.
+
+  1.                                    Let us be,
+  2.     Be thou, or, Do thou be,       Be ye, or, Do ye be,
+  3.     Let him be;                    Let them be.
+
+
+Subjunctive Mode.
+
+Present Time.
+
+  1.     I    }                         We   }
+  2.     Thou } be;                     Ye   } be.
+  3.     He   }                         They }
+
+Past Time.
+
+  1.     I were,                        We   }
+  2.     Thou wert[21],                 Ye   } were.
+  3.     He were;                       They }
+
+
+Infinitive Mode.
+
+  Present, To be: Past, To have been.
+
+
+Participle.
+
+  Present, Being: Perfect, Been: Past, Having been.
+
+The Verb Active is thus varied according to Person, Number, Time and Mode.
+
+
+Indicative Mode.
+
+Present Time.
+
+  Person. Sing.                         Plur.
+
+  1.     I love,                        We   }
+  2.     Thou lovest,                   Ye   } love.
+  3.     He loveth, or loves;           They }
+
+Past Time.
+
+  1.     I loved,                       We   }
+  2.     Thou lovedst,                  Ye   } loved.
+  3.     He loved;                      They }
+
+Future Time.
+
+  1.     I shall, or will,    }         We   }
+  2.     Thou shalt, or wilt, } love;   Ye   } shall, or will, love.
+  3.     He shall, or will,   }         They }
+
+
+Imperative Mode.
+
+  1.                                    Let us love,
+  2.     Love thou, or, Do thou love,   Love ye, or, Do ye love,
+  3.     Let him love;                  Let them love.
+
+
+Subjunctive Mode.
+
+Present Time.
+
+  1.     I    }                         We   }
+  2.     Thou } love;                   Ye   } love.
+  3.     He   }                         They }
+
+And,
+
+  1.     I may      }                   We   } may love;
+  2.     Thou mayst } love;             Ye   } and
+  3.     He may     }                   They } have loved[22].
+
+Past Time.
+
+  1.     I might       }                We   } might love;
+  2.     Thou mightest } love;          Ye   } and
+  3.     He might      }                They } have loved[22].
+
+And,
+
+  I could, should, would; Thou couldst, &c. love; and have loved.
+
+
+Infinitive Mode.
+
+  Present, To love: Past, To have loved.
+
+
+Participle.
+
+  Present, Loving: Perfect, Loved: Past, Having loved.
+
+But in discourse we have often occasion to speak of Time not only as
+Present, Past, and Future, at large and indeterminately, but also as such
+with some particular distinction and limitation; that is, as passing, or
+finished; as imperfect, or perfect. This will best be seen in an example
+of a Verb laid out and distributed according to these distinctions of
+Time.
+
+Indefinite, or Undetermined, Time:
+
+    Present,   Past,     Future,
+    I love;   I loved;  I shall love.
+
+Definite, or Determined, Time:
+
+    Present Imperfect: I am (now) loving.
+    Present Perfect: I have (now) loved.
+
+    Past Imperfect: I was (then) loving.
+    Past Perfect: I had (then) loved.
+
+    Future Imperf. I shall (then) be loving.
+    Future Perf. I shall (then) have loved.
+
+To express the Present and Past Imperfect of the Active and Neuter Verb
+the Auxiliary _do_ is sometimes used: I _do_ (now) love; I _did_ (then)
+love.
+
+Thus with very little variation of the Principal Verb the several
+circumstances of Mode and Time are clearly expressed by the help of the
+Auxiliaries, _be_, _have_, _do_, _let_, _may_, _can_, _shall_, _will_.
+
+The peculiar force of the several Auxiliaries is to be observed. _Do_
+and _did_ mark the Action itself, or the Time of it[23], with greater
+force and distinction. They are also of frequent and almost necessary
+use in Interrogative and Negative Sentences. _Let_ does not only express
+permission; but praying, exhorting, commanding. _May_ and _might_ express
+the possibility or liberty of doing a thing; _can_ and _could_, the
+power. _Must_ is sometimes called in for a helper, and denotes necessity.
+_Would_ expresses the intention of the doer; _should_ simply the event.
+_Will_ in the first Person singular and plural promises or threatens; in
+the second and third Persons only foretells: _shall_ on the contrary,
+in the first Person simply foretells; in the second and third Persons
+commands or threatens[24].
+
+_Do_ and _have_ make the Present Time; _did_, _had_, the Past; _shall_,
+_will_, the Future: _let_ the Imperative Mode; _may_, _might_, _could_,
+_would_, _should_, the Subjunctive. The Preposition _to_ placed before
+the Verb makes the Infinitive Mode. _Have_, through its several Modes and
+Times, is placed only before the Perfect Participle; and _be_, in like
+manner, before the Present and Passive Participles: the rest only before
+the Verb itself in its Primary Form[25].
+
+The Passive Verb is only the Participle Passive, (which for the most
+part is the same with the Indefinite Past Time Active, and always the
+same with the Perfect Participle) joined to the Auxiliary Verb _to be_
+through all its Variations: as, I _am loved_; I _was loved_; I _have been
+loved_; I _shall be loved_: and so on through all the Persons, Numbers,
+Times, and Modes.
+
+The Neuter Verb is varied like the Active; but, having somewhat of the
+Nature of the Passive, admits in many instances of the Passive form,
+retaining still the Neuter signification; chiefly in such Verbs as
+signify some sort of motion, or change of place or condition: as, I _am
+come_; I _was gone_; I _am grown_; I _was fallen_[26]. The Verb _am_ in
+this case precisely defines the Time of the action or event, but does not
+change the nature of it; the Passive form still expressing, not properly
+a Passion, but only a state or condition of Being.
+
+
+IRREGULAR VERBS.
+
+In English both the Past Time Active and the Participle Perfect, or
+Passive, are formed by adding to the Verb _ed_; or _d_ only when the Verb
+ends in _e_: as, _turn_, _turned_; _love_, _loved_. The Verbs that vary
+from this rule, in either or in both cases, are esteemed Irregular.
+
+The nature of our language, the Accent and Pronunciation of it, inclines
+us to contract even all our Regular Verbs: thus _loved_, _turned_, are
+commonly pronounced in one syllable, _lov’d_, _turn’d_; and the second
+Person which was originally in three syllables, _lovedest_, _turnedest_,
+is become a dissyllable, _lovedst_, _turnedst_: for as we generally throw
+the accent as far back as possible towards the first part of the word,
+(in some even to the fourth syllable from the end,) the stress being
+laid on the first syllables, the rest are pronounced in a lower tone,
+more rapidly and indistinctly; and so are often either wholly dropt, or
+blended into one another.
+
+It sometimes happens also, that the word which arises from a regular
+change does not sound easily or agreeably; sometimes by the rapidity of
+our pronunciation the vowels are shortened or lost; and the consonants
+which are thrown together do not easily coalesce with one another, and
+are therefore changed into others of the same organ, or of a kindred
+species: this occasions a further deviation from the regular form: thus,
+_loveth_, _turneth_, are contracted into _lov’th_, _turn’th_, and these
+for easier pronunciation immediately become _loves_, _turns_.
+
+Verbs ending in _ch_, _ck_, _p_, _x_, _ll_, _ss_, in the Past Time Active
+and the Participle Perfect or Passive admit the change of _ed_ into
+_t_; as, _snatcht_, _checkt_, _snapt_, _mixt_, dropping also one of the
+double letters, _dwelt_, _past_; for _snatched_, _checked_, _snapped_,
+_mixed_, _dwelled_, _passed_: those that end in _l_, _m_, _n_, _p_,
+after a diphthong, moreover shorten the diphthong, or change it into a
+single short vowel; as, _dealt_, _dreamt_, _meant_, _felt_, _slept_, &c:
+all for the same reason; from the quickness of the pronunciation, and
+because the _d_ after a short vowel will not easily coalesce with the
+preceding consonant. Those that end in _ve_ change also _v_ into _f_; as,
+_bereave_, _bereft_; _leave_, _left_; because likewise _v_ after a short
+vowel will not easily coalesce with _t_.
+
+All these, of which we have hitherto given examples, are considered not
+as Irregular, but as Contracted only; and in all of them the Intire as
+well as the Contracted form is used.
+
+The formation of Verbs in English, both Regular and Irregular, is derived
+from the Saxon.
+
+The Irregular Verbs in English are all Monosyllables, unless Compounded;
+and they are for the most part the same words which are Irregular Verbs
+in the Saxon.
+
+As all our Regular Verbs are subject to some kind of Contraction, so the
+first Class of Irregulars is of those that become so from the same cause.
+
+
+I.
+
+Irregulars by Contraction.
+
+Some Verbs ending in _d_ or _t_ have the Present, the Past Time, and
+the Participle Perfect and Passive, all alike, without any variation:
+as, Beat, burst[27], cast, cost, cut, hit, hurt, knit, let, lift[28],
+put, read[29], rent, rid, set, shed, shred, shut, slit, spread, thrust,
+wet[28].
+
+These are Contractions from _beated_, _bursted_, _casted_, &c; because of
+the disagreeable sound of the syllable _ed_ after _d_ or _t_[30].
+
+Others in the Past Time, and Participle Perfect and Passive, vary a
+little from the Present by shortening the diphthong, or changing the
+_d_ into _t_: as, Lead, led; sweat, swet; meet, met; bleed, bled;
+breed, bred; feed, fed; speed, sped; bend, bent[28]; lend, lent; rend,
+rent; send, sent; spend, spent; build, built[28]; geld, gelt[28]; gild,
+gilt[28]; gird, girt[28].
+
+Others not ending in _d_ or _t_ are formed by Contraction; have, _had_,
+for _haved_; make, _made_, for _maked_; flee, _fled_, for _flee-ed_.
+
+The following beside the Contraction change also the Vowel; Sell, sold;
+tell, told; clothe, clad[28].
+
+Stand, stood; and dare, durst, (which in the Participle hath regularly
+_dared_;) are directly from the Saxon, _standan_, _stod_; _dyrran_,
+_dorste_.
+
+
+II.
+
+Irregulars in _ght_.
+
+The Irregulars of the Second Class end in _ght_, both in the Past Time
+and Participle; and change the vowel or diphthong into _au_ or _ou_: they
+are taken from the Saxon, in which the termination is _hte_.
+
+                    Saxon.
+    Bring, brought: Bringan, brohte.
+    Buy,   bought:  Bycgean, bohte.
+    Catch, caught:
+    Fight, fought:  Feotan,  fuht.
+    Teach, taught:  Tæchan,  tæhte.
+    Think, thought: Thencan, thohte.
+    Seek,  sought:  Secan,   sohte.
+    Work,  wrought: Weorcan, worhte.
+
+_Fraught_ seems rather to be an Adjective than the Participle of the Verb
+_to freight_, which has regularly _freighted_. _Raught_ from _reach_ is
+obsolete.
+
+
+III.
+
+Irregulars in _en_.
+
+The Irregulars of the Third Class form the Past Time by changing the
+vowel or diphthong of the Present; and the Participle Perfect and Passive
+by adding the termination _en_, beside, for the most part, the change of
+the vowel or diphthong. These also derive their formation in both parts
+from the Saxon.
+
+    Present.             Past.                 Participle.
+
+    _a_ changed into     _e_.
+
+    Fall,                fell,                 fallen.
+
+    _a_ into             _o_.
+
+    Awake,               awoke,                [awaked.]
+
+    _a_ into             _oo_.
+
+    Forsake,             forsook,              forsaken.
+    Shake,               shook,                shaken.
+    Take,                took,                 taken.
+
+    _aw_ into            _ew_.
+
+    Draw,                drew,                 drawn[31].
+
+    _ay_ into            _ew_.
+
+    Slay,                slew,                 slayn[31].
+
+    _e_ into             _a_ or _o_,           _o_.
+
+    Get,                 gat, or got,          gotten.
+    Help,                [helped,]             holpen.
+    Melt,                [melted,]             molten[28].
+    Swell,               [swelled,]            swollen[28].
+
+    _ea_ into            _a_ or _o_.
+
+    Eat,                 ate,                  eaten.
+    Bear,                bare, or bore,        born.
+    Break,               brake, or broke,      broken.
+    Cleave,              clave, or clove[28],  cloven[28].
+    Speak,               spake, or spoke,      spoken.
+    Swear,               sware, or swore,      sworn.
+    Tear,                tare, or tore,        torn.
+    Wear,                ware, or wore,        worn.
+    Heave,               hove[28],             hoven.
+    Shear,               shore,                shorn.
+    Steal,               stole,                stolen, or stoln.
+    Tread,               trode,                trodden.
+    Weave,               wove,                 woven.
+
+    _ee_ into            _o_,                  _o_.
+
+    Creep,               crope,                [creeped, or crept.]
+    Freeze,              froze,                frozen.
+    Seethe,              sod,                  sodden.
+
+    _ee_ into            _aw_.
+
+    See,                 saw,                  seen.
+
+    _i_ long into        _i_ short,            _i_ short.
+
+    Bite,                bit,                  bitten.
+    Chide,               chid,                 chidden.
+    Hide,                hid,                  hidden.
+    Slide,               slid,                 slidden.
+
+    _i_ long into        _o_,                  _i_ short.
+
+    Abide,               abode.
+    Drive,               drove,                driven.
+    Ride,                rode,                 ridden.
+    Rise,                rose,                 risen.
+    Shine,               shone,                [shined.]
+    Shrive,              shrove,               shriven.
+    Smite,               smote,                smitten.
+    Stride,              strode,               stridden.
+    Strive,              strove[28],           striven[28].
+    Thrive,              throve,               thriven.
+    Write[32],           wrote,                written.
+
+    _i_ long into        _u_,                  _i_ short.
+
+    Strike,              struck,               stricken, or strucken.
+
+    _i_ short into       _a_.
+
+    Bid,                 bade,                 bidden.
+    Give,                gave,                 given.
+    Sit[33],             sat,                  sitten.
+    Spit,                spat,                 spitten.
+
+    _i_ short into       _u_.
+
+    Dig,                 dug[28],              [digged.]
+
+    _ie_ into            _ay_.
+
+    Lie[34],             lay,                  lien, or lain.
+
+    _o_ into             _e_.
+
+    Hold,                held,                 holden.
+
+    _o_ into             _i_.
+
+    Do,                  did,                  done, i. e. doen.
+
+    _oo_ into            _o_,                  _o_.
+
+    Choose,              chose,                chosen[35].
+
+    _ow_ into            _ew_.
+
+    Blow,                blew,                 blown.
+    Crow,                crew,                 [crowed.]
+    Grow,                grew,                 grown.
+    Know,                knew,                 known.
+    Throw,               threw,                thrown.
+
+    _y_ into             _ew_,                 _ow_.
+
+    Fly[36],             flew,                 flown.
+
+The following are Irregular only in the Participle; and that without
+changing the vowel.
+
+    Bake,                [baked,]              baken[28].
+    Grave,               [graved,]             graven[28].
+    Hew,                 [hewed,]              hewen, or hewn[28].
+    Lade,                [laded,]              laden.
+    Load,                [loaded,]             loaden[28].
+    Mow,                 [mowed,]              mown[28].
+    Rive,                [rived,]              riven.
+    Saw,                 [sawed,]              sawn[28].
+    Shave,               [shaved,]             shaven[28].
+    Shew,                [shewed,]             shewn[28].
+    Sow,                 [sowed,]              sown[28].
+    Straw, -ew, or -ow,  [strawed, &c.]        strown[28].
+    Wax,                 [waxed,]              waxen[28].
+
+Some Verbs which change _i_ short into _a_ or _u_, and _i_ long into
+_ou_, have dropt the termination _en_ in the Participle.
+
+    _i_ short into       _a_ or _u_,           _u_.
+
+    Begin,               began,                begun.
+    Cling,               clang, or clung,      clung.
+    Drink,               drank,                drunk, or drunken.
+    Fling,               flung,                flung.
+    Ring,                rang, or rung,        rung.
+    Shrink,              shrank, or shrunk,    shrunk.
+    Sing,                sang, or sung,        sung.
+    Sink,                sank, or sunk,        sunk.
+    Sling,               slang, or slung,      slung.
+    Slink,               slunk,                slunk.
+    Spin,                span, or spun,        spun.
+    Spring,              sprang, or sprung,    sprung.
+    Sting,               stung,                stung.
+    Stink,               stank, or stunk,      stunk.
+    String,              strung,               strung.
+    Swim,                swam, or swum,        swum.
+    Swing,               swung,                swung.
+    Wring,               wrung,                wrung.
+
+In many of the foregoing the original and analogical form of the Past
+Time in _a_, which distinguished it from the Participle, is grown quite
+obsolete.
+
+    _i_ long into        _ou_,                 _ou_.
+
+    Bind,                bound,                bound, or bounden.
+    Find,                found,                found.
+    Grind,               ground,               ground.
+    Wind,                wound,                wound.
+
+That all these had originally the termination _en_ in the Participle,
+is plain from the following considerations. _Drink_ and _bind_ still
+retain it; _drunken_, _bounden_; from the Saxon, _druncen_, _bunden_:
+and the rest are manifestly of the same analogy with these. _Begonnen_,
+_sonken_, and _founden_, are used by Chaucer; and some others of them
+appear in their proper shape in the Saxon; _scruncen_, _spunnen_,
+_sprungen_, _stungen_, _wunden_. As likewise in the German, which is only
+another off-spring of the Saxon: _begunnen_, _geklungen_, _getruncken_,
+_gesungen_, _gesuncken_, _gespunnen_, _gesprungen_, _gestuncken_,
+_geschwummen_, _geschwungen_.
+
+The following seem to have lost the _en_ of the Participle in the same
+manner:
+
+    Hang,                hung,                 hung.
+    Shoot,               shot,                 shot.
+    Stick,               stuck,                stuck.
+    Come,                came,                 come.
+    Run,                 ran,                  run.
+    Win,                 won,                  won.
+
+_Hangen_, and _scoten_, are the Saxon originals of the two first
+Participles; the latter of which is likewise still in use in its
+first form in one phrase; a _shotten_ herring. _Stuck_ seems to be a
+contraction from _stucken_, as _struck_ now in use for _strucken_.
+Chaucer hath _comen_ and _wonnen_: _becommen_ is even used by Lord
+Bacon[37]. And most of them still subsist intire in the German;
+_gehangen_, _kommen_, _gerunnen_, _gewonnen_.
+
+To this third Class belong the Defective Verbs, Be, been; and Go, gone;
+i. e. goen.
+
+From this Distribution and account of the Irregular Verbs, if it be
+just, it appears, that originally there was no exception whatever from
+the Rule, That the Participle Præterit, or Passive, in English ends in
+_d_, _t_, or _n_. The first form included all the Regular Verbs, and
+those which are become Irregular by Contraction ending in _t_. To the
+second properly belonged only those which end in _ght_, from the Saxon
+Irregulars in _hte_. To the third, those from the Saxon Irregulars in
+_en_, which have still, or had originally, the same termination.
+
+The same Rule affords a proper foundation for a division of the English
+Verbs into Three Conjugations, of which the three different Terminations
+of the Participle might respectively be the Characteristics. The
+Contracted Verbs, whose Participles now end in _t_, might perhaps be best
+reduced to the first Conjugation, to which they naturally and originally
+belonged; and they seem to be of a very different analogy from those
+in _ght_. But as the Verbs of the first Conjugation would so greatly
+exceed in number those of both the others, which together make but about
+110[38]; and as those of the third Conjugation are so various in their
+form, and so incapable of being reduced to one plain Rule; it seems
+better in practice to consider the first in _ed_ as the only Regular
+form, and the others as deviations from it; after the example of the
+Saxon and German Grammarians.
+
+To the Irregular Verbs are to be added the Defective; which are not only
+for the most part Irregular, but are also wanting in some of their parts.
+They are in general words of most frequent and vulgar use; in which
+Custom is apt to get the better of Analogy. Such are the Auxiliary Verbs,
+most of which are of this number. They are in use only in some of their
+Times, and Modes; and some of them are a Composition of Times of several
+Defective Verbs having the same signification.
+
+    Present.             Past.                 Participle.
+    Am, or Be,           was,                  been.
+    Can,                 could.
+    Go,                  went,                 gone.
+    May,                 might.
+    Must.
+    Ought,               ought.
+    Quoth,               quoth.
+    Shall,               should.
+    Weet, wit, or wot;   wot.
+    Will,                would.
+    Wist,                wist.
+
+There are not in English so many as a Hundred Verbs, (being only the
+chief part, but not all, of the Irregulars of the Third Class,) which
+have a distinct and different form for the Past Time Active and the
+Participle Perfect or Passive. The General bent and turn of the language
+is towards the other form, which makes the Past Time and the Participle
+the same. This general inclination and tendency of the language, seems
+to have given occasion to the introducing of a very great Corruption;
+by which the Form of the Past Time is confounded with that of the
+Participle in these Verbs, few in proportion, which have them quite
+different from one another. This confusion prevails greatly in common
+discourse, and is too much authorised by the example of some of our best
+Writers[39]. Thus it is said, _He begun_, for _he began_; _he run_, for
+_he ran_; _he drunk_, for _he drank_: the Participle being used instead
+of the Past Time. And much more frequently the Past Time instead of the
+Participle: as, _I had wrote_, _it was wrote_, for _I had written_, _it
+was written_; _I have drank_, for _I have drunk_; _bore_, for _born_;
+_chose_, for _chosen_; _bid_, for _bidden_; _got_, for _gotten_; &c.
+This abuse has been long growing upon us, and is continually making
+further incroachments: as it may be observed in the example of those
+Irregular Verbs of the Third Class, which change _i_ short into _a_
+and _u_; as, Cling, clang, clung; in which the original and analogical
+form of the Past Time in _a_ is almost grown obsolete; and, the _u_
+prevailing instead of it, the Past Time is now in most of them confounded
+with the Participle. The Vulgar Translation of the Bible, which is the
+best standard of our language, is free from this corruption, except in
+a few instances; as, _hid_ is used for _hidden_; _held_, for _holden_,
+frequently: _bid_, for _bidden_; _begot_, for _begotten_, once or twice:
+in which, and a few other like words, it may perhaps be allowed as a
+Contraction. And in some of these Custom has established it beyond
+recovery. In the rest it seems wholly inexcusable. The absurdity of it
+will be plainly perceived in the example of some of these Verbs, which
+Custom has not yet so perverted. We should be immediately shocked at
+_I have knew_, _I have saw_, _I have gave_, &c: but our ears are grown
+familiar with _I have wrote_, _I have drank_, _I have bore_, &c. which
+are altogether as barbarous.
+
+
+ADVERB.
+
+ADVERBS are _added to Verbs_ and Adjectives to denote some modification
+or circumstance of an action or quality: as, the manner, order, time,
+place, distance, motion, relation, quantity, quality, comparison, doubt,
+affirmation, negation, demonstration, interrogation.
+
+In English they admit of no Variation; except some few of them, which
+have the degrees of Comparison: as,[40] “often, oftener, oftenest;”
+“soon, sooner, soonest.”
+
+An Adverb is sometimes joined to another Adverb to modify or qualify its
+meaning; as, “very much; much too little; not very prudently.”
+
+
+PREPOSITION.
+
+PREPOSITIONS, so called because they are commonly _put before_ the words
+to which they are applied, serve to connect words with one another, and
+to shew the relation between them.
+
+One great use of Prepositions in English, is to express those relations
+which in some languages are chiefly marked by Cases, or the different
+endings of the Noun.
+
+Most Prepositions originally denote the relation of Place, and have been
+thence transferred to denote by similitude other relations. Thus, _out_,
+_in_, _through_, _under_, _by_, _to_, _from_, _of_, &c. _Of_ is much the
+same with _from_; “ask _of_ me,” that is, _from_ me: “made _of_ wood;”
+“Son _of_ Philip;” that is, sprung _from_ him. _For_, in its primary
+sense, is _pro_, _loco alterius_, in the stead, or place, of another. The
+notion of Place is very obvious in all the rest.
+
+
+CONJUNCTION.
+
+The Conjunction connects or _joins together_ Sentences; so as out of two
+to make one Sentence.
+
+Thus, “You, _and_ I, _and_ Peter, rode to London,” is one Sentence made
+up of these three by the Conjunction _and_ twice employed; “You rode to
+London; I rode to London; Peter rode to London.” Again, “You _and_ I rode
+to London, _but_ Peter staid at home,” is one Sentence made up of three
+by the Conjunctions _and_ and _but_: both of which equally connect the
+Sentences, but the latter expresses an Opposition in the Sense. The first
+is therefore called a Conjunction Copulative; the other a Conjunction
+Disjunctive.
+
+The use of Copulative Conjunctions is to connect, or to continue, the
+Sentence, by expressing an addition, _and_; a supposition, or condition,
+_if_, _as_; a cause, _because_[41], _then_; a motive, _that_; an
+inference, _therefore_; &c.
+
+The use of Disjunctives is to connect and to continue the Sentence; but
+to express Opposition of meaning in different degrees: as, _or_, _but_,
+_than_, _altho’_, _unless_, &c.
+
+
+INTERJECTION.
+
+Interjections, so called because they are _thrown in_ between the parts
+of a sentence without making any other alteration in it, are a kind of
+Natural Sounds to express the affection of the Speaker.
+
+The different Passions have for the most part different Interjections to
+express them.
+
+The Interjection _O_ placed before a Substantive expresses more strongly
+an address made to that person or thing; as it marks in Latin what is
+called the Vocative Case.
+
+
+
+
+SENTENCES.
+
+
+A SENTENCE is an assemblage of words, expressed in proper form, and
+ranged in proper order, and concurring to make a complete sense.
+
+Concord, or agreement of words, is when one word is required to be in
+like case, number, gender, or person, with another.
+
+Regimen, or government, is when a word causeth a following word to be in
+some case, or mode.
+
+Sentences are Simple, or Compounded.
+
+A Simple Sentence hath in it but one Subject, and one Finite Verb; that
+is, a Verb in the Indicative, Imperative, or Subjunctive Mode.
+
+A Phrase is two or more words rightly put together in order to make a
+part of a Sentence; and sometimes making a whole Sentence.
+
+       *       *       *       *       *
+
+The most common PHRASES used in simple Sentences are as follows:
+
+1st Phrase: The Substantive before a Verb Active, Passive, or Neuter;
+when it is said what thing _is_, _does_, or _is done_: as, “I am;” “Thou
+writest;” “Thomas is loved:” where _I_, _Thou_, _Thomas_, are the
+Nominative[42] Cases; and answer to the question _who_, or _what?_ as,
+“Who is loved? Thomas.” And the Verb agrees with the Nominative Case in
+number and person[43]; as, _Thou_ being the Second Person Singular, the
+Verb _writest_ is so too.
+
+2d Phrase: The Substantive after a Verb Neuter or Passive; when it is
+said, that such a thing _is_, or _is made_, or _thought_, or _called_,
+such _another thing_; or, when the Substantive after the Verb is spoken
+of the same thing or person with the Substantive before the Verb: as,
+“a calf becomes an ox;” “Plautus is accounted a Poet;” “I am He.” Here
+the latter Substantive is in the Nominative Case as well as the former;
+and the Verb is said to govern the Nominative Case: or, the latter
+Substantive may be said to agree in Case with the former.
+
+3d Phrase: The Adjective after a Verb Neuter or Passive, in like manner:
+as, “Life _is short_, and Art _is long_.” “Exercise _is esteemed
+wholesome_.”
+
+4th Phrase: The Substantive after a Verb Active, or Transitive: as
+when one thing is said to _act_ upon, or _do_ something to another:
+as, “to open a door;” “to build a house;” “Alexander conquered the
+Persians.” Here the thing acted upon is in the Objective[44] Case; as it
+appears plainly when it is expressed by the Pronoun, which has a proper
+termination for that Case; “Alexander conquered _them_;” and the Verb is
+said to govern the Objective Case.
+
+5th Phrase: A Verb following another Verb; as, “boys love to play:” where
+the latter Verb is in the Infinitive Mode.
+
+6th Phrase: When one thing is said to belong to another; as, “Milton’s
+poems:” where the thing to which the other belongs is placed first, and
+is in the Possessive Case; or else last with the Preposition _of_ before
+it; as, “the poems of Milton.”
+
+7th Phrase: When another Substantive is added to express and explain the
+former more fully; as, “Paul the Apostle;” “King George:” where they are
+both in the same case; and the latter is said to be put in Apposition to
+the former.
+
+8th Phrase: When the quality of the Substantive is expressed by adding
+an Adjective to it: as, “a wise man;” “a black horse.” Participles have
+the nature of Adjectives; as, “a learned man;” “a loving father.”
+
+9th Phrase: An Adjective with a Verb in the Infinitive Mode following it:
+as, “worthy to die;” “fit to be trusted.”
+
+10th Phrase: When a circumstance is added to a Verb, or to an Adjective,
+by an Adverb: as, “you read well;” “he is very prudent.”
+
+11th Phrase: When a circumstance is added to a Verb or an Adjective by
+a Substantive with a Preposition before it: as, “I write for you;” “he
+reads with care;” “studious of praise;” “ready for mischief.”
+
+12th Phrase: When the same Quality in different Subjects is compared;
+the Adjective in the Positive having after it the Conjunction _as_,
+in the Comparative the Conjunction _than_, and in the Superlative the
+Preposition _of_: as, “white as snow;” “wiser than I;” “greatest of all.”
+
+       *       *       *       *       *
+
+The PRINCIPAL PARTS of a Simple Sentence are the Agent, the Attribute,
+and the Object. The Agent is the thing chiefly spoken of; the Attribute
+is the thing or action affirmed or denied of it; and the Object is the
+thing affected by such action.
+
+In English the Nominative Case denoting the Agent, usually goes before
+the Verb, or Attribution, and the Objective Case, denoting the Object,
+follows the Verb; and it is the order that determines the cases in Nouns:
+as, “Alexander conquered the Persians.” But the Pronoun, having a proper
+form for each of those cases, sometimes when it is in the Objective Case
+is placed before the Verb, and when it is in the Nominative Case follows
+the Object and Verb: as, “Whom ye ignorantly worship, _him declare I_
+unto you.” And the Nominative Case is sometimes placed after a Verb
+Neuter: as, “Upon thy right hand _did stand the Queen_:” “On a sudden
+_appeared the King_.” And frequently with the Adverbs _there_ and then:
+as, “There _was a man_:” “Then _came_ unto him _the Pharisees_.” The
+reason of it is plain: the Neuter Verb not admitting of an Objective Case
+after it, no ambiguity of case can arise from such a position of the Noun.
+
+_Who_, _which_, _what_, and the Relative _that_, though in the Objective
+Case, are always placed before the Verb; as are also their Compounds,
+_whoever_, _whosoever_, &c: as, “He _whom_ you _seek_.” “This is _what_,
+or the thing _which_, or _that_, you _want_.” “_Whomsoever_ you please
+_to appoint_.”
+
+When the Verb is a Passive, the Agent and Object change places in the
+Sentence; and the thing acted upon is in the Nominative Case, and the
+Agent is accompanied with a Preposition: as, “The Persians were conquered
+by Alexander.”
+
+A Noun of Multitude[45], or signifying many; and two Nouns in the
+Singular Number, joined together by a Conjunction Copulative; have Verbs,
+Nouns, and Pronouns, agreeing with them in the Plural Number: as, “When
+the King’s trump, the _mob are_ for the King.” Dryden. “_Socrates and
+Plato were_ wise; _they were_ the most eminent _Philosophers_ of Greece.”
+
+If the Singulars so joined together are of several Persons, in making the
+Plural Pronoun agree with them in Person, the second Person takes place
+of the third, and the first of both: “_He and You and I_ won it at the
+hazard of _our_ lives: _You and He_ shared it between _you_.”
+
+The Verb _to Be_ has always a Nominative Case after it; as, “it _was I_,
+and not _He_, that did it:” unless it be in the Infinitive Mode; “though
+you took it _to be Him_[46].”
+
+The Adverbs _when_, _while_, _after_, &c. being left out, the Phrase is
+formed with the Participle independently of the rest of the Sentence: as,
+“The doors being shut, Jesus stood in the midst.” This is called the Case
+Absolute. And the Case is in English always the Nominative: as,
+
+    “God from the mount of Sinai, whose gray top
+    Shall tremble, _He descending_[47], will himself,
+    In thunder, lightning, and loud trumpet’s sound,
+    Ordain them laws.”
+
+                              Milton, P. L. xii. 227.
+
+_To_ before a Verb is the sign of the Infinitive Mode: but there are some
+few Verbs, which have other Verbs following them in the Infinitive Mode
+without the sign _to_: as, bid, dare, need, make, see, hear; and, let,
+have, not used as Auxiliaries: as, “I bade him do it; you dare not do
+it; I saw him[48] do it; I heard him say it.”
+
+The Infinitive Mode has much of the nature of a Substantive, expressing
+the Action itself which the Verb signifies; as the Participle has the
+nature of an Adjective. Thus the Infinitive Mode does the office of a
+Substantive in different cases; in the Nominative; as, “_to play is_
+pleasant:” in the Objective; as, “boys _love to play_.” In Greek it
+admits of the Article through all its cases, with the Preposition in the
+Oblique cases: in English the Article is not wanted, but the Preposition
+may be used: “For _to will is_ present with me; but _to perform_ that
+which is good I find not[49].” “All their works they do _for to be seen_
+of men[50].”
+
+    “For not _to have been dip’d_ in Lethe’s lake
+    Could save the Son of Thetis _from to die_.”
+
+                                          Spenser.
+
+Perhaps therefore the Infinitive and the Participle might be more
+properly called the Substantive Mode and the Adjective Mode[51].
+
+The Participle with a Preposition before it, and still retaining its
+Government, answers to what is called in Latin the Gerund: as, “Happiness
+is to be attained, by avoiding evil, and by doing good; by seeking peace,
+and by pursuing it.”
+
+The Participle, with an Article before it, and the Preposition _of_ after
+it, becomes a Substantive, expressing the action itself which the Verb
+signifies[52]: as, “These are the Rules of Grammar, by _the observing
+of_ which you may avoid mistakes.” Or it may be expressed by the
+Participle, or Gerund; “by _observing_ which:” not, “by _observing of_
+which;” nor, “by _the observing_ which:” for either of those two Phrases
+would be a confounding of two distinct forms.
+
+I will add another example, and that of the best authority: “The middle
+station of life seems to be the most advantageously situated for _the
+gaining of_ wisdom. Poverty turns our thoughts too much upon _the
+supplying of_ our wants, and riches _upon enjoying our_ superfluities.”
+Addison, Spect. Nᵒ 464.
+
+The Participle frequently becomes altogether an Adjective; when it is
+joined to a Substantive merely to denote its quality; without any respect
+to time; expressing, not an Action, but a Habit; and as such it admits
+of the degrees of Comparison: as, “a learned, a more learned, a most
+learned, man; a loving, more loving, most loving, father.”
+
+Simple Sentences are 1. Explicative, or explaining: 2. Interrogative, or
+asking: 3. Imperative, or commanding[53].
+
+1. An Explicative Sentence is when a thing is said to be, or not to be;
+to do, or not to do; to suffer, or not to suffer; in a direct manner; as
+in the foregoing examples. If the Sentence be Negative, the Adverb _not_
+is placed after the Auxiliary, or after the Verb itself when it has no
+Auxiliary: as, “it _did not_ touch him;” or, “it _touched_ him _not_[54].”
+
+2. In an Interrogative Sentence, or when a Question is asked, the
+Nominative Case follows the Principal Verb, or the Auxiliary: as, “_was
+it_ he?” “_did Alexander_ conquer the Persians?” So that the Question
+depends intirely on the order of the words[55].
+
+3. In an Imperative Sentence, when a thing is commanded to be, to do, to
+suffer, or not, the Nominative Case follows the Verb or the Auxiliary:
+as, “Go, thou traytor;” or, “do thou go:” or the Auxiliary _let_ with the
+Objective[56] Case after it is used: as, “Let us be gone[57].”
+
+The Adjective in English, having no variation of Gender or Number,
+cannot but agree with the Substantive in those respects; some of the
+Pronominal Adjectives only excepted, which have the Plural Number: as,
+_these_, _those_, and _they_; which must agree in Number[58] with their
+Substantives.
+
+The Adjective generally goes before the Noun: as, “a wise man; a good
+horse;” unless something depend on the Adjective; as, “food convenient
+for me:” or the Adjective be emphatical; as, “Alexander the great.” And
+the Article goes before the Adjective: except the Adjectives _such_ and
+_many_, and others subjoined to the Adverbs _so_, _as_, and _how_: as,
+“_such a_ man;” “_many a_ man;” “so _good a_ man;” “as _good a_ man as
+ever lived;” “how _beautiful a_ prospect is here!” And sometimes when
+there are two or more Adjectives joined to the Noun: as, “a man learned
+and religious.”
+
+       *       *       *       *       *
+
+Every Verb, except in the Infinitive or the Participle, hath its
+Nominative Case, either expressed or implied[59]; as,
+
+    “Awake, arise, or be for ever fall’n:”
+
+that is, “Awake _ye_, &c.”
+
+Every Nominative Case, except the Case Absolute, and when an address is
+made to a Person, belongs to some Verb, either expressed or implied[60]:
+as in the answer to a Question; “Who wrote this book; Cicero:” that is,
+“Cicero _wrote it_.” Or when the Verb is understood; as, “To whom thus
+Adam:” that is, _spake_.
+
+Every Possessive Case supposes some Noun to which it belongs: as when we
+say, “St. Paul’s, or St. James’s,” we mean St. Paul’s _Church_, or St.
+James’s _Palace_.
+
+Every Adjective has relation to some Substantive, either expressed or
+implied: as, “The Twelve,” that is, _Apostles_; “the wife, the elect,”
+that is, _persons_.
+
+In some instances the Adjective becomes a Substantive, and has an
+Adjective joined to it: as, “the chief Good;” “Evil, be Thou my
+Good!”[61]
+
+       *       *       *       *       *
+
+ADVERBS have no Government.[62]
+
+       *       *       *       *       *
+
+PREPOSITIONS have a Government of Cases; and in English they always
+require the Objective Case after them: as, “_with him_; _from her_; _to
+me_.”[63]
+
+The Preposition is often separated from the Relative which it governs,
+and joined to the Verb at the end of the Sentence, or of some member
+of it: as, “Horace is an author, _whom_ I am much delighted _with_.”
+“The[64] world is too well bred to shock authors with a truth, _which_
+generally their booksellers are the first that inform them _of_.” This
+is an Idiom which our language is strongly inclined to; it prevails in
+common conversation, and suits very well with the familiar style in
+writing; but the placing of the Preposition before the Relative is more
+graceful, as well as more perspicuous; and agrees much better with the
+solemn and elevated Style.
+
+Verbs are often compounded of a Verb and a Preposition; as, _to uphold_,
+_to outweigh_, _to overlook_: and this composition sometimes gives a new
+sense to the Verb; as, _to understand_, _to withdraw_, _to forgive_[65].
+But in English the Preposition is more frequently placed after the Verb,
+and separate from it, like an Adverb; in which situation it is no less
+apt to affect the sense of it, and to give it a new meaning; and may
+still be considered as belonging to the Verb, and a part of it. As,
+_to cast_ is to throw; but _to cast up_, or to compute, _an account_,
+is quite a different thing: thus, _to fall on_, _to bear out_, _to give
+over_; &c. So that the meaning of the Verb, and the propriety of the
+phrase, depend on the Preposition subjoined[66].
+
+As the Preposition subjoined to the Verb hath the construction and
+nature of an Adverb, so the Adverbs _here_, _there_, _where_, with a
+Preposition subjoined, as _hereof_, _therewith_, _whereupon_[67], have
+the construction and nature of Pronouns.
+
+The Prepositions _to_ and _for_ are often understood; as, “give me the
+book; get me some paper;” that is, _to me_, _for me_[68].
+
+       *       *       *       *       *
+
+Two or more Simple Sentences, joined together by one or more CONNECTIVE
+WORDS, become a Compounded Sentence.
+
+There are two sorts of words which connect Sentences: 1. Relatives; 2.
+Conjunctions.
+
+Examples: 1. “Blessed is the man, _who_ feareth the Lord.” 2. “Life is
+short, _and_ art is long.” 1. and 2. “Blessed is the Man, _who_ feareth
+the Lord, _and_ keepeth his commandments.”
+
+       *       *       *       *       *
+
+The RELATIVES _who_, _which_, _that_, having no variation of gender or
+number, cannot but agree with their Antecedents. _Who_ is appropriated
+to persons; and so may be accounted Masculine and Feminine only: _which_
+is used of things only; and so may be accounted Neuter. But formerly
+they were both indifferently used of persons: “Our Father, _which_ art
+in heaven.” _That_ is used indifferently both of persons and things: but
+perhaps would be more properly confined to the latter. _What_ includes
+both the Antecedent and the Relative: as, “This was _what_ he wanted;”
+that is, “_the thing which_ he wanted[69].”
+
+The Relative is the Nominative Case to the Verb, when no other Nominative
+comes between it and the Verb: but when another Nominative comes between
+it and the Verb, the Relative is governed by some word in its own member
+of the Sentence: as, “The God _who_ preserveth me; _whose_ I am, and
+_whom_ I serve[70].”
+
+Every Relative must have an Antecedent to which it refers, either
+expressed, or understood: as, “_Who_ steals my purse, steals trash:” that
+is, _the man, who_ ⸺.
+
+The Relative is of the same person with the Antecedent; and the Verb
+agrees with it accordingly: as, “Who is _this, that cometh_ from Edom;
+_this that is_ glorious in his apparel?⸺_I that speak_ in righteousness.”
+Isaiah lxiii. 1. “O Shepherd of Israel, _Thou that leadest_ Joseph like
+a flock; _Thou that dwellest_ between the Cherubims.” Ps. lxxx. 1.[71]
+
+The Relative is often understood, or omitted: as, “The man I love;” that
+is, “_whom_ I love[72].”
+
+The accuracy and clearness of the Sentence depend very much upon the
+proper and determinate use of the Relative, so that it may readily
+present its Antecedent to the mind of the hearer or reader without any
+obscurity or ambiguity. The same may be observed of the Pronoun and the
+Noun, which by some are called also the Relative and the Antecedent[73].
+
+       *       *       *       *       *
+
+CONJUNCTIONS have sometimes a Government of Modes. Some Conjunctions
+require the Indicative, some the Subjunctive Mode after them: others
+have no influence at all on the Mode.
+
+Hypothetical, Conditional, Concessive, and Exceptive Conjunctions seem
+to require properly the Subjunctive Mode after them: as, _if_, _tho’_,
+_unless_, _except_, _whether—or_, &c. but by use they often admit of
+the Indicative. Examples: “_If_ thou _be_ the Son of God.” Matt. iv.
+3. “_Tho’_ he _slay_ me, yet will I put my trust in him.” Job xiii. 15.
+“_Unless_ he _wash_ his flesh.” Lev. xxii. 6. “No power, _except_ it
+_were_ given from above.” John xix. 11. “_Whether_ it _were_ I _or_ they,
+so we preach.” 1 Cor. xv. 11. The Subjunctive in these instances implies
+something contingent or doubtful; the Indicative would express a more
+absolute and determinate sense.
+
+_That_ expressing the motive or end has the Subjunctive Mode, with _may_,
+_might_, _should_, after it.
+
+_Lest_; and _that_ with a Negative following it; and _if_ with _but_
+following it; necessarily require the Subjunctive Mode: Examples; “Let
+him that standeth, take heed, _lest_ he _fall_.” 1 Cor. x. 12. “Take
+heed, _that_ thou _speak not_ to Jacob.” Gen. xxxi. 24. “_If_ he _do
+but_ touch the hills, they shall smoke.” Ps. civ. 32.[74]
+
+Other Conjunctions, expressing a Continuation, an Addition, an Inference,
+&c. being of a positive and absolute nature, require the Indicative Mode;
+or rather leave the Mode to be determined by the other circumstances and
+conditions of the Sentence.
+
+When the Qualities of different things are compared, the latter Noun is
+governed, not by the Conjunction _than_, or _as_, (for a Conjunction has
+no Government of Cases,) but by the Verb or the Preposition, expressed,
+or understood. As, “Thou art wiser than _I_ [am.]” “You are not so tall
+as _I_ [am.]” “You think him handsomer than [you think] _me_; and you
+love him more than [you love] _me_.” In all other instances, if you
+complete the Sentence in like manner, by supplying the part which is
+understood, the Case of the latter Noun will be determined. Thus, “Plato
+observes, that God geometrizes; and the same thing was observed before by
+a wiser man than _he_:” that is, than _he was_. “It was well expressed
+by Plato; but more elegantly by Solomon than _him_:” that is, than _by
+him_[75].
+
+The Conjunction _that_ is often omitted and understood: as, “I beg you
+would come to me:” “See, thou do it not:” that is, “_that_ you would;”
+“_that_ thou do[76].”
+
+The Nominative Case following the Auxiliary, or the Verb itself,
+sometimes supplies the place of the Conjunctions _if_ and _tho’_: as,
+“Had he done this, he had escaped:” “Charm he never so[77] wisely:” that
+is, “_if_ he had done this;” “_tho’_ he charm.”
+
+Some Conjunctions have their Correspondent Conjunctions belonging to
+them; so that in the subsequent Member of the Sentence the latter answers
+to the former: as, _although_ ⸺, _yet_, or _nevertheless_; _whether_ ⸺,
+_or_; _either_ ⸺, _or_; _neither_ ⸺, _nor_; _as_ ⸺, _as_; expressing a
+Comparison of equality; “_as_ white _as_ snow:” _as_ ⸺, _so_; expressing
+a Comparison sometimes of equality; “_as_ the stars, _so_ shall thy seed
+be;” that is, equal in number: but most commonly a Comparison in respect
+of quality; “and it shall be, _as_ with the people, _so_ with the priest;
+_as_ with the servant, _so_ with his master:” “_as_ is the good, _so_ is
+the sinner; _as_ the one dieth, _so_ dieth the other:” that is, in like
+manner: _so_ ⸺, _as_; with a Verb expressing a Comparison of quality;
+“To see thy glory, _so as_ I have seen thee in the sanctuary:” but with
+a Negative and an Adjective, a Comparison in respect of quantity; as,
+“Pompey had eminent abilities: but he was not either _so_ eloquent and
+politic a statesman, or _so_ brave and skilful a general; nor was he upon
+the whole _so_ great a man, _as_ Cæsar:” _so_ ⸺, _that_; expressing a
+Consequence: &c.[78]
+
+       *       *       *       *       *
+
+INTERJECTIONS in English have no Government.
+
+Though they are usually attended with Nouns in the Nominative Case[79],
+and Verbs in the Indicative Mode, yet the Case and Mode is not
+influenced by them, but determined by the nature of the sentence.
+
+
+
+
+PUNCTUATION.
+
+
+Punctuation is the art of marking in writing the several pauses, or
+rests, between sentences, and the parts of sentences, according to their
+proper quantity or proportion, as they are expressed in a just and
+accurate pronunciation.
+
+As the several articulate sounds, the syllables and words, of which
+sentences consist, are marked by Letters; so the rests and pauses between
+sentences and their parts are marked by Points.
+
+But, tho’ the several articulate sounds are pretty fully and exactly
+marked by Letters of known and determinate power; yet the several pauses,
+which are used in a just pronunciation of discourse, are very imperfectly
+expressed by Points.
+
+For the different degrees of connexion between the several parts of
+sentences, and the different pauses in a just pronunciation, which
+express those degrees of connexion according to their proper value,
+admit of great variety; but the whole number of Points, which we have to
+express this variety, amounts only to Four.
+
+Hence it is, that we are under a necessity of expressing pauses of the
+same quantity, on different occasions, by different points; and more
+frequently of expressing pauses of different quantity by the same points.
+
+So that the doctrine of Punctuation must needs be very imperfect: few
+precise rules can be given, which will hold without exception in all
+cases; but much must be left to the judgement and taste of the writer.
+
+On the other hand, if a greater number of marks were invented to express
+all the possible different pauses of pronunciation; the doctrine of them
+would be very perplexed and difficult, and the use of them would rather
+embarass than assist the reader.
+
+It remains therefore, that we be content with the Rules of Punctuation,
+laid down with as much exactness as the nature of the subject will
+admit; such as may serve for a general direction, to be accommodated to
+different occasions, and to be supplied where deficient by the writers
+judgement.
+
+The several degrees of Connexion between Sentences, and between their
+principal constructive parts, Rhetoricians have considered under the
+following distinctions, as the most obvious and remarkable: the Period,
+Colon, Semicolon, and Comma.
+
+The Period is the whole Sentence, compleat in itself, wanting nothing to
+make a full and perfect sense, and not connected in construction with a
+subsequent Sentence.
+
+The Colon, or Member, is a chief constructive part, or greater division,
+of a Sentence.
+
+The Semicolon, or Half-member, is a less constructive part, or
+subdivision of a Sentence or Member.
+
+A Sentence or Member is again subdivided into Commas, or Segments; which
+are the least constructive parts of a Sentence, or Member, in this way of
+considering it; for the next subdivision would be the resolution of it
+into Phrases and Words.
+
+The Grammarians have followed this division of the Rhetoricians, and
+have appropriated to each of these distinctions its mark, or Point; which
+takes its name from the part of the Sentence which it is employed to
+distinguish; as follows:
+
+    The Period   }                { .
+    The Colon    } is thus marked { :
+    The Semicolon}                { ;
+    The Comma    }                { ,
+
+The proportional quantity or time of the Points with respect to one
+another is determined by the following general rule: The Period is a
+pause in quantity or duration double of the Colon; the Colon is double
+of the Semicolon; and the Semicolon is double of the Comma. So that they
+are in the same proportion to one another as the Semibrief, the Minim,
+the Crotchet, and the Quaver, in Music. The precise quantity or duration
+of each Pause or Note cannot be defined; for that varies with the Time;
+and both in Discourse and Music the same Composition may be rehearsed in
+a quicker or a slower Time: but in Music the proportion between the Notes
+remains ever the same; and in Discourse, if the Doctrine of Punctuation
+were exact, the proportion between the Pauses would be ever invariable.
+
+The Points then being designed to express the Pauses, which depend on
+the different degrees of connexion between Sentences, and between their
+principal constructive parts; to understand the meaning of the Points,
+and to know how to apply them properly, we must consider the nature of
+a Sentence, as divided into its principal constructive parts; and the
+degrees of connexion between those parts, upon which such division of it
+depends.
+
+To begin with the least of these principal constructive parts, the Comma.
+In order the more clearly to determine the proper application of the
+Point which marks it, we must distinguish between an Imperfect Phrase, a
+Simple Sentence, and a Compounded Sentence.
+
+An Imperfect Phrase contains no assertion, or does not amount to a
+Proposition or Sentence.
+
+A Simple Sentence has but one Subject and one finite Verb.
+
+A Compounded Sentence has more than one Subject or one finite Verb,
+either expressed or understood; or it consists of two or more simple
+Sentences connected together.
+
+In a Sentence, the Subject and the Verb may be each of them accompanied
+with several Adjuncts; as the Object, the End, the Circumstances of Time,
+Place, Manner, and the like; and this either immediately, or mediately,
+that is, by being connected with some thing, which is connected with some
+other; and so on.
+
+If the several Adjuncts affect the Subject or the Verb in a different
+manner, they are only so many Imperfect Phrases, and the Sentence is
+Simple.
+
+A Simple Sentence admits of no Point, by which it may be divided, or
+distinguished into parts.
+
+If the several Adjuncts affect the Subject or the Verb in the same
+manner, they may be resolved into so many Simple Sentences: the Sentence
+then becomes Compounded, and it must be divided into its parts by Points.
+
+For if there are several Subjects belonging in the same manner to one
+Verb, or several Verbs belonging in the same manner to one Subject, the
+Subjects and Verbs are still to be accounted equal in number: for every
+Verb must have its Subject, and every Subject its Verb; and every one of
+the Subjects, or Verbs, should or may have its point of distinction.
+
+
+EXAMPLES.
+
+“The passion for praise produces excellent effects in women of sense.”
+Addison, Spect. Nᵒ 73. In this Sentence _passion_ is the Subject, and
+_produces_ the Verb; each of which is accompanied and connected with
+its adjuncts. The Subject is not passion in general, but a particular
+passion determined by its Adjunct of Specification, as we may call it,
+the passion for praise. So likewise the Verb is immediately connected
+with its object, _excellent effects_; and mediately, that is, by the
+intervention of the word _effects_, with _women_, the Subject in which
+these effects are produced; which again is connected with its Adjunct
+of Specification; for it is not meant of women in general, but of women
+of sense only. Lastly it is to be observed, that these several Adjuncts
+are connected with the Verb each in a different manner; namely, with
+_effects_, as the object; with _women_, as the subject of them; with
+_sense_, as the quality or characteristic of those women. The Adjuncts
+therefore are only so many imperfect Phrases; the Sentence is a Simple
+Sentence, and admits of no Point, by which it may be distinguished into
+parts.
+
+“The Passion for praise, which is so very vehement in the fair sex,
+produces excellent effects in women of sense.” Here a new Verb is
+introduced, accompanied with Adjuncts of its own; and the Subject is
+repeated by the Relative Pronoun _which_. It now becomes a Compounded
+Sentence, made up of two Simple Sentences, one of which is inserted in
+the middle of the other; it must therefore be distinguished into its
+component parts by a Point placed on each side of the additional Sentence.
+
+“How many instances have we [in the fair sex] of chastity, fidelity,
+devotion? How many Ladies distinguish themselves by the education of
+their children, care of their families, and love of their husbands;
+which are the great qualities and achievements of woman-kind: as the
+making of war, the carrying on of traffic, the administration of justice,
+are those by which men grow famous, and get themselves a name?” Ibid.
+
+In the first of these two Sentences the Adjuncts _chastity_, _fidelity_,
+_devotion_, are connected with the Verb by the word _instances_ in
+the same manner, and in effect make so many distinct Sentences: “how
+many instances have we of chastity? how many instances have we of
+fidelity? how many instances have we of devotion?” They must therefore
+be separated from one another by a Point. The same may be said of the
+Adjuncts “education of their children, &c” in the former part of the next
+Sentence: as likewise of the several Subjects, “the making of war, &c”
+in the latter part; which have in effect each their Verb; for each of
+these “is an atchievement by which men grow famous.”
+
+As Sentences themselves are divided into Simple and Compounded, so the
+members of sentences may be divided likewise into Simple and Compounded
+members: for whole Sentences, whether Simple or Compounded, may become
+members of other Sentences by means of some additional connexion.
+
+Simple members of Sentences closely connected together in one Compound
+member or sentence, are distinguished or separated by a Comma: as in the
+foregoing examples.
+
+So likewise the Case Absolute; Nouns in Apposition, when consisting of
+many terms; the Participle with something depending on it; are to be
+distinguished by the Comma: for they may be resolved into Simple members.
+
+When an address is made to a person, the Noun, answering to the Vocative
+Case in Latin, is distinguished by a Comma.
+
+
+EXAMPLES.
+
+    “This said, He form’d thee, Adam; thee, O man,
+    Dust of the ground.”
+
+    “Now Morn, her rosy steps in th’ eastern clime
+    Advancing, sow’d the earth with orient pearl.”
+
+                                            Milton.
+
+Two Nouns, or two Adjectives, connected by a single Copulative or
+Disjunctive, are not separated by a Point: but when there are more than
+two, or where the Conjunction is understood, they must be distinguished
+by a Comma.
+
+Simple members connected by Relatives and Comparatives are for the
+most part distinguished by a Comma: but when the members are short
+in Comparative Sentences; and when two members are closely connected
+by a Relative, restraining the general notion of the Antecedent to a
+particular sense; the pause becomes almost insensible, and the Comma is
+better omitted.
+
+
+EXAMPLES.
+
+“Raptures, transports, and extasies are the rewards which they confer:
+sighs and tears, prayers and broken hearts, are the offerings which are
+paid to them.” Addison, Ibid.
+
+    “Gods partial, changeful, passionate, unjust;
+    Whose attributes were rage, revenge, or lust.”
+
+                                            Pope.
+
+“What is sweeter than honey? and what is stronger than a lion?”
+
+A member of a Sentence, whether Simple or Compounded, that requires
+a greater pause than a Comma, yet does not of itself make a compleat
+Sentence, but is followed by something closely depending on it, may be
+distinguished by a Semicolon.
+
+
+EXAMPLE.
+
+“But as this passion for admiration, when it works according to reason,
+improves the beautiful part of our species in every thing that is
+laudable; so nothing is more destructive to them, when it is governed
+by vanity and folly.” Addison, ibid.
+
+Here the whole Sentence is divided into two parts by the Semicolon; each
+of which parts are Compounded Members, divided into their Simple Members
+by Commas.
+
+A member of a Sentence, whether Simple or Compounded, which of itself
+would make a compleat Sentence, and so requires a greater pause than a
+Semicolon, yet is followed by an additional part making a more full and
+perfect Sense, may be distinguished by a Colon.
+
+
+EXAMPLE.
+
+“Were all books reduced to their quintessence, many a bulky author would
+make his appearance in a penny paper: there would be scarce any such
+thing in nature as a folio: the works of an age would be contained on a
+few shelves: not to mention millions of volumes, that would be utterly
+annihilated.” Addison, Spect. Nᵒ 124.
+
+Here the whole Sentence is divided into four parts by Colons: the first
+and last of which are Compounded Members, each divided by a Comma; the
+second and third are Simple Members.
+
+When a Semicolon has preceded, and a greater pause is still necessary; a
+Colon may be employed, tho’ the Sentence be incompleat.
+
+The Colon is also commonly used, when an Example, or a Speech is
+introduced.
+
+When a Sentence is so far perfectly finished, as not to be connected in
+construction with the following Sentence, it is marked with a Period.
+
+In all cases the proportion of the several Points in respect to one
+another is rather to be regarded, than their supposed precise quantity,
+or proper office, when taken separately.
+
+Beside the Points which mark the pauses in discourse, there are others
+which denote a different modulation of the voice in correspondence with
+the sense. These are
+
+    The Interrogation Point }   thus   { ?
+    The Exclamation Point   }  marked  { !
+    The Parenthesis         }          { ()
+
+The Interrogation and Exclamation Points are sufficiently explained by
+their names: they are indeterminate as to their quantity or time, and may
+be equivalent in that respect to a Semicolon, a Colon, or a Period, as
+the sense requires. They mark an Elevation of the voice.
+
+The Parenthesis incloses in the body of a Sentence a member inserted
+into it, which is neither necessary to the Sense, nor at all affects the
+Construction. It marks a moderate depression of the voice, with a pause
+greater than a Comma.
+
+
+
+
+A PRAXIS, or Example of Grammatical Resolution.
+
+
+1. In the fifteenth year of the reign of Tiberius Cæsar, Pontius Pilate
+late being Governour of Judea, the word of God came unto John the Son of
+Zecharias in the wilderness.
+
+2. And he came into all the country about Jordan preaching the baptism of
+repentance for the remission of sins.
+
+3. And the same John had his raiment of camel’s hair, and a leathern
+girdle about his loins, and his meat was locusts and wild honey.
+
+4. Then said he to the multitude that came forth to be baptized of him,
+O generation of vipers, who hath warned you to flee from the wrath to
+come? Bring forth therefore fruits meet for repentance.
+
+5. And as all men mused in their hearts of John, whether he were the
+Christ, or not; John answered, saying unto them all, I indeed baptize you
+with water; but one mightier than I cometh, the latchet of whose shoes I
+am not worthy to unloose: he shall baptize you with the Holy Ghost and
+with fire.
+
+6. Now when all the people were baptized, it came to pass, that, Jesus
+also being baptized and praying, the heaven was opened, and the Holy
+Ghost descended in a bodily shape upon him; and lo! a voice from heaven
+saying, This is my beloved Son, in whom I am well pleased.
+
+1. _In_ is a Preposition; _the_ the Definite Article; _fifteenth_, an
+Adjective; _year_, a Substantive, or Noun, in the Objective Case governed
+by the Preposition _in_; _of_, a Preposition; _the reign_, a Substantive,
+Objective Case, governed by the Preposition _of_; _of Tiberius Cæsar_,
+both Substantives, Proper Names, Government and Case, as before; _Pontius
+Pilate_, Proper Names; _being_, the Present Participle of the Verb
+Neuter _to be_; _Governour_, a Substantive; _of Judea_, a Proper Name,
+Government and Case as before: _Pontius Pilate being governour_, is the
+Case Absolute, that is, the Nominative Case with a Participle without
+a Verb following and agreeing with it; the meaning is the same as,
+_when_ Pilate _was_ governour: _the word_, a Substantive; _of God_, a
+Substantive; _came_, a Verb Neuter, Indicative Mode, Past Time, third
+Person Singular Number, agreeing with the Nominative Case _word_; _unto_,
+a Preposition; _John_, a Proper Name; _the Son_, a Substantive, put in
+Apposition to _John_; that is, in the same Case, governed by the same
+Preposition _unto_; _of Zecharias_, a Proper Name; _in_, a Preposition;
+_the wilderness_, a Substantive, Government and Case as before.
+
+2. _And_, a Conjunction Copulative; _he_, a Pronoun, third Person
+Singular, Masculine Gender, Nominative Case, standing for _John_; _came_,
+as before; _into_, a Prep. _all_, an Adjective; the country, a Subst.
+_about_, a Prep. _Jordan_, a Proper Name; _preaching_, the Present
+Participle of the Verb Active _to preach_, joined like an Adjective
+to the Pronoun _he_; _the baptism_, a Substantive in the Objective
+Case following the Verb Active _preaching_, and governed by it; _of
+repentance_, a Subst. Government and Case as before; _for_, a Prep.
+_the remission of sins_, Substantives, the latter in the Plural Number,
+Government and Case as before.
+
+3. _And_, (b. that is, _as before_) _the same_, an Adjective; _John_
+(b.) _had_, a Verb Active, Indicative Mode, Past Time, third Person
+Sing. agreeing with the Nominative Case _John_; _his_, a Pronoun, third
+Person Sing. Possessive Case; _raiment_, a Subst. in the Objective Case,
+following the Verb Active _had_, and governed by it; _of camel’s_, a
+Substantive, Possessive Case; _hair_, Subst. Objective Case, governed
+by the Preposition _of_, the same as, _of the hair of a camel_; _and_,
+(b.) _a_, the Indefinite Article; _leathern_, an Adj. _girdle_, a Subst.
+_about_, (b.) _his_, (b.) _loins_, Subst. plural Number; _and his_, (b.)
+_meat_, Subst. _was_, Indicative Mode, Past Time, third Person Singular
+of the Verb Neuter _to be_; _locusts_, Subst. plural Number, Nominative
+Case after the Verb _was_; _and_, (b.) _wild_, Adj. _honey_, Subst.
+
+4. _Then_, an Adverb; _said_, a Verb Active, Past Time, third Person
+Sing. agreeing with the Nominative Case _he_ (b.) _to_, a Prep. _the
+multitude_, Subst. Objective Case, governed by the Prep. _to_; _that_,
+a Relative Pronoun, its Antecedent is _the multitude_; _came_, (b.)
+_forth_, an Adverb; _to_, a Prep. and before a Verb the sign of the
+Infinitive Mode; _be baptized_, a Verb Passive, made of the Participle
+Passive of the Verb _to baptize_, and the Auxiliary Verb _to be_, in
+the Infinitive Mode; _of him_, Pronoun, third Person Sing. standing
+for _John_, in the Objective Case governed by the Prep. _of_; _O_,
+an Interjection; _generation_, Subst. Nominative Case; _of vipers_,
+Subst. plural Number; _who_, an Interrogative Pronoun; _hath warned_,
+a Verb Active, Present Perfect Time, made of the Perfect Participle
+_warned_ and the Auxiliary Verb _hath_, third Person Singular agreeing
+with the Nominative Case _who_; _you_, Pronoun, second Person plural,
+Objective Case, following the Verb Active _warned_ and governed by it;
+_to flee_, Verb Neuter, Infinitive Mode; _from_, a Prep.; _the wrath_,
+Subst. Objective Case, governed by the Prep. _from_; _to come_, Verb
+Neuter, Infinitive Mode; _bring_, Verb Active, Imperative Mode, second
+Person plural, agreeing with the Nominative Case _ye_ understood, as
+if it were, _bring ye_; _forth_, an Adverb; _therefore_, a Conjunction;
+_fruits_, a Subst. plur. Objective Case, following the Verb Active
+_bring_, and governed by it; _meet_, an Adjective, joined to _fruits_,
+but placed after it, because it has something depending on it; _for
+repentance_, a Subst. governed by a Prep. as before.
+
+5. _And_, (b.) _as_, an Adverb; _all_, (b.) _men_, Subst. plural Number;
+_mused_, a Verb Neuter, Past Time, third Person plural, agreeing with
+the Nominative Case _men_; _in_, (b.) _their_, a Pronominal Adjective,
+from the Pronoun _they_; _hearts_, Subst. plural Number, Objective Case
+governed by the Prep. _in_; _of John_, (b.) _whether_, a Conjunction;
+_he_, (b.) _were_, Subjunctive Mode, governed by the Conjunction
+_whether_, Past Time, third Person Sing. of the Verb _to be_, agreeing
+with the Nominative Case _he_; _the Christ_, Subst. Nominative Case
+after the Verb _were_; _or_, a Disjunctive Conjunction, corresponding
+to the preceding Conjunction _whether_; _not_, an Adverb; _John_, (b.)
+_answered_, a Verb Active, Indicative Mode, Past Time, third Person Sing.
+agreeing with the Nominative Case _John_; _saying_, Present Participle
+of the Verb Active _to say_, joined to the Substantive _John_; _unto_,
+(b.) _them_, a Pronoun, third Person plural, Objective Case governed
+by the Prep. _unto_; _all_, (b.) _I_, Pronoun, first Person Singular;
+_indeed_, an Adverb; _baptize_, a Verb Active, Indicative Mode, Present
+Time, first Person Singular, agreeing with the Nominative Case _I_;
+_you_, Pronoun, second Person plural, Objective Case, following the
+Verb Active _baptize_, and governed by it; _with_, a Prep. _water_,
+Subst. _but_, a Disjunctive Conjunction; _one_, a Pronoun, standing
+for some Person not mentioned by name; _mightier_, an Adjective in the
+Comparative Degree, from the Positive _mighty_; _than_, a Conjunction,
+used after a Comparative word; _I_, (b.) the Verb _am_ being understood,
+that is, _than I am_; _cometh_, a Verb Neuter, Indicative Mode, Present
+Time, third Person Sing. agreeing with the Nominative Case _one_; _the
+latchet_, Subst. _of_, (b.) _whose_, Pronoun Relative, _one_ being the
+Antecedent to it, in the Possessive Case; _shoes_, Subst. plural; _I_,
+(b.) _am_, Indicative Mode, Present Time, first Person Sing. of the Verb
+_to be_, agreeing with the Nominative Case _I_; _not_, (b.) _worthy_,
+an Adjective; _to unloose_, a Verb Active, in the Infinitive Mode,
+governing the Substantive _latchet_ in the Objective Case; _he_, (b.)
+_shall baptize_, a Verb Active, Indicative Mode, Future Time, made by
+the Auxiliary _shall_, third Person Sing. agreeing with, the Nominative
+Case _he_; _you_, (b.) _with the_, (b.) _Holy_, an Adjective; _Ghost_, a
+Subst. _and with_, (b.) _fire_, a Subst. this and the former both in the
+Objective Case governed by the Prep. _with_.
+
+6. _Now_, an Adverb; _when_, an Adverb; _all_, (b.) _the people_, a
+Subst. _were baptized_, a Verb Passive, made of the Auxiliary Verb
+_to be_ joined with the Participle Passive of the Verb _to baptize_,
+Indicative Mode, third Person plural, agreeing with the Nominative Case
+Sing. _people_, being a Noun of multitude; _it_, Pronoun, third Person
+Sing. Neuter Gender, Nominative Case; _came_, (b.) _to pass_, Verb
+Neuter, Infinitive Mode; _that_, a Conjunction; _Jesus_, a Proper Name;
+_also_, an Adverb; _being_, Present Participle of the Verb _to be_;
+_baptized_, Participle Passive of the Verb _to baptize_; _and_, (b.)
+_praying_, Present Participle of the Verb Neuter _to pray_; _Jesus being
+baptized and praying_ is the Case Absolute, as before; _the heaven_,
+Subst. _was opened_, Verb Passive, Indicative Mode, Past Time, third
+Person Sing. agreeing with the Nominative Case _heaven_, the Auxiliary
+Verb _to be_ being joined to the Participle Passive, as before; _and
+the Holy Ghost_, (b.) _descended_, Verb Neuter, Indicative Mode, Past
+Time, third Person Sing. agreeing with the Nominative Case _Ghost_; _in
+a_ (b.) _bodily_, an Adjective; _shape_, a Subst. _like_, an Adjective;
+_a dove_, a Subst. Objective Case, the Prep. _to_ being understood,
+that is, _like to a dove_; _upon_, Prep. _him_, Pronoun, third Person
+Sing. Objective Case governed by the Prep. _upon_; _and_, (b.) _lo!_ an
+Interjection; _a voice_, a Subst. Nominative Case, _there was_ being
+understood, that is, _there was a voice_; _from_, Prep. _heaven_, Subst.
+Objective Case, (b.) _saying_, (b.) _this_, a Pronominal Adjective,
+_person_ being understood; _is_, Indicative Mode, Present Time, of the
+Verb _to be_, third Person Sing. agreeing with the Nominative Case
+_this_; _my_, a Pronominal Adjective; _beloved_, an Adjective; _Son_, a
+Subst. Nominative Case after the Verb _is_; _in_, (b.) _whom_, Pronoun
+Relative, Objective Case governed by the Prep. _in_, the Substantive
+_Son_ being its Antecedent; _I am_, (b.) _well_, an Adverb; _pleased_,
+the Passive Participle of the Verb _to please_, making with the Auxiliary
+Verb _am_ a Passive Verb, in the Indicative Mode, Present Time, first
+Person Sing. agreeing with the Nominative Case _I_.
+
+
+THE END.
+
+
+
+
+FOOTNOTES
+
+
+[1] “And I persecuted this way unto _the_ death.” _Acts_ xxii. 4. The
+Apostle does not mean any particular sort of death, but death in general:
+the Definite Article therefore is improperly used. It ought to be _unto
+death_, without any Article: agreeably to the Original, αχρι θανατου.
+
+“When He the Spirit of Truth is come, he will guide you into _all
+Truth_.” _John_ xvi. 13. That is, according to this Translation, into
+all Truth whatsoever, into Truth of all kinds: very different from the
+meaning of the Evangelist, and from the Original, εις πασαν την αληθειαν,
+into _all the Truth_; that is, into all Evangelical Truth.
+
+“Truly this was _the_ Son of God.” _Matt._ xxvii. 54. and _Mark_ xv.
+39. This Translation supposes, that the Roman Centurion had a proper
+and adequate notion of the character of Jesus, as the Son of God in a
+peculiar and incommunicable sense: whereas, it is probable, both from the
+circumstances of the History, and from the expression of the Original,
+(ὑιος Θεου, a Son of God, not ὁ υιος, _the_ Son) that he only meant to
+acknowledge him to be an extraordinary person, and more than a mere man;
+according to his own notion of Sons of Gods in the Pagan Theology. This
+is also more agreeable to St. Luke’s account of the same confession
+of the Centurion: “Certainly this was δικαιος, a righteous man;” not
+ὁ Δικαιος, the Just One. The same may be observed of Nebuchadnezzar’s
+words, _Dan._ iii. 25.—“And the form of the fourth is like _the_ Son of
+God:” it ought to be by the Indefinite Article, like _a_ Son of God:
+ὁμοια ὑιῳ Θεου, as Theodotion very properly renders it: that is, like an
+Angel; according to Nebuchadnezzar’s own account of it in the 28th verse:
+“Blessed be God, who hath sent his _Angel_, and delivered his servants.”
+See also _Luke_ xix. 9.
+
+These Remarks may serve to shew the great importance of the proper use of
+the Article; the near affinity there is between the Greek Article, and
+the English Definite Article; and the excellence of the English Language
+in this respect, which by means of its two Articles does most precisely
+determine the extent of signification of Common Names: whereas the Greek
+has only one Article, and it has puzzled all the Grammarians to reduce
+the use of that to any clear and certain rules.
+
+[2] “A good character should not be rested in as an end, but employed as
+_a means_ of doing still farther good.” ATTERBURY’S Sermons. Ought it not
+to be _a mean?_
+
+[3] “About _an_ eight days:” that is, a space of eight days. _Luke_ ix.
+28. But the expression is obsolete, or at least vulgar; and we may add
+likewise improper: for the number _eight_ has not been reduced by use
+and convenience into one collective and compact idea, like _a hundred_,
+and _a thousand_; each of which, like _a dozen_, or _a score_, we are
+accustomed equally to consider on certain occasions as a simple Unity.
+
+[4] And antiently, _eyen_, _shoen_, _housen_, _hosen_; so likewise
+antiently _sowen_, _cowen_, now always pronounced and written _swine_,
+_kine_.
+
+[5] In the German the vowels _a_, _o_, _u_, of monosyllable Nouns are
+generally in the Plural changed into diphthongs with an _e_: as der
+_hand_, the hand, die _hände_; der _hut_, the hat, die _hüte_; der
+_knopff_, the button, (or knop) die _knöpffe_; &c.
+
+[6] These are directly from the Saxon: _mus_, _mys_; _lus_, _lys_;
+_toth_, _teth_; _fot_, _fet_; _gos_, _ges_.
+
+[7] “Lingua Anglorum hodierna avitæ Saxonicæ formam in plerisque
+orationis partibus etiamnum retinet. Nam quoad particulas casuales,
+quorundam casuum terminationes, conjugationes verborum, verbum
+substantivum, formam passivæ vocis, pronomina, participia, conjunctiones,
+& præpositiones omnes; denique quoad idiomata, phrasiumque maximam
+partem, etiam nunc Saxonicus est Anglorum sermo.” Hickes. Thesaur. Lingg.
+Septent. Præf. p. vi. To which may be added the Degrees of comparison,
+the form of which is the very same in the English as in the Saxon.
+
+[8] “_Christ his_ sake,” in our Liturgy, is a mistake, either of the
+Printers, or of the Compilers.⸺“My paper is the _Ulysses his_ bow, in
+which every man of wit or learning may try his strength.” Addison,
+Guardian Nᵒ 98. This is no slip of Mr. Addison’s pen: he gives us his
+opinion upon this point very explicitly in another place. “The same
+single letter [_s_] on many occasions does the office of a whole word,
+and represents the _his_ and _her_ of our forefathers.” Addison, Spect.
+Nᵒ 135. The latter instance might have shewn him, how groundless this
+notion is: for it is not easy to conceive, how the letter _s_ added to a
+Feminine Noun should represent the word _her_; any more than it should
+the word _their_, added to a Plural Noun: as, “the _children’s_ bread.”
+But the direct derivation of this Case from the Saxon Genitive Case is
+sufficient of itself to decide this matter.
+
+[9]
+
+    “At his command th’ uprooted hills retir’d
+    Each to _his_ place: they heard his voice and went
+    Obsequious: Heaven _his_ wonted face renew’d,
+    And with fresh flowrets hill and valley smil’d.”
+
+                                   Milton, P. L. B. vi.
+
+    “Was I deceiv’d, or did a sable Cloud
+    Turn forth _her_ silver lining on the Night?”
+
+                                  Milton, Comus.
+
+“Go to your Natural Religion: lay before _her_ Mahomet and his disciples
+arrayed in armour and in blood:⸺shew _her_ the cities which he set in
+flames; the countries which he ravaged:⸺when _she_ has viewed him in
+this scene, carry _her_ into his retirements; shew _her_ the Prophet’s
+chamber, his concubines and his wives:⸺when _she_ is tired with this
+prospect, then shew _her_ the Blessed Jesus.—” See the whole passage in
+the conclusion of Bp Sherlock’s 9th Sermon, Vol. I.
+
+In these beautiful passages, as in the English if you put _it_ and _its_
+instead of _his_, _she_, _her_, you destroy the images, and reduce, what
+was before highly Poetical and Rhetorical, to mere prose and common
+discourse; so if you render them into another language, Greek, Latin,
+French, Italian, or German, in which Hill, Heaven, Cloud, Religion, are
+constantly Masculine, or Feminine, or Neuter, respectively, you make the
+images obscure and doubtful, and in proportion diminish their beauty.
+
+This excellent remark is Mr. Harris’s, Hermes, p. 58.
+
+[10] Some Writers have used _Ye_ as the Objective Case Plural of the
+Pronoun of the Second Person; very improperly and ungrammatically.
+
+    “But Tyrants dread _ye_, lest your just decree
+    Transfer the pow’r, and set the people free.”
+
+                                             Prior.
+
+    “His wrath, which one day will destroy _ye_ both.”
+
+                               Milton, P. L. ii. 734.
+
+Dr. Bently has corrected this mistake, which is probably an error of the
+Press, or of the Editor of whom he talks so much. But he has done it,
+without taking the least notice of the matter, or assuming any merit to
+himself from an emendation, which is one of the very few that are really
+such in his whole performance.
+
+[11] The Neuter Pronoun of the Third Person had formerly no variation
+of Cases. Instead of the Possessive _its_ they used _his_, which is
+now appropriated to the Masculine. “Learning hath _his_ infancy, when
+_it_ is but beginning, and almost childish; then _his_ youth, when _it_
+is luxuriant and juvenile; then _his_ strength of years, when _it_ is
+solid and reduced; and lastly _his_ old age, when _it_ waxeth dry and
+exhaust.” Bacon, Essay 58. In this example _his_ is evidently used as
+the Possessive Case of _it_: but what shall we say to the following,
+where _her_ is applied in the same manner, and seems to make a strange
+confusion of Gender? “He that pricketh the heart maketh _it_ to shew
+_her_ knowledge.” _Ecclus._ xxii. 19.
+
+    “Oft have I seen a timely-parted ghost,
+    Of ashy semblance, meagre, pale, and bloodless,
+    Being all descended to the lab’ring heart,
+    _Who_, in the conflict that _it_ holds with death,
+    Attracts the same for aidance ’gainst the enemy.”
+
+                                           Shakespear.
+
+If the Poet had said _he_ instead of _it_, he would have avoided a
+confusion of Genders, and happily compleated the spirited and elegant
+Prosopopœia, begun by the Personal Relative _who_. The Neuter Relative
+_which_ would have made the sentence more strictly grammatical, but at
+the same time more prosaic.
+
+[12] So the Saxon _Ic_ hath the Possessive Case _Min_; _Thu_, Possessive
+_Thin_; _He_, Possessive _His_: from which our Possessive Cases of the
+same Pronouns are taken without alteration. To the Saxon Possessive Cases
+_hire_, _ure_, _eower_, _hira_, (that is, _her’s_, _our’s_, _your’s_,
+_their’s_) we have added the _s_, the Characteristic of the Possessive
+Case of Nouns. Or _our’s_, _your’s_, are directly from the Saxon _ures_,
+_eoweres_; the Possessive Case of the Pronominal Adjectives _ure_,
+_eower_; that is, _our_, _your_.
+
+[13] _Whose_ is by some authors made the Possessive Case of _which_, and
+applied to things as well as persons; I think, improperly.
+
+    “The _question_, _whose_ solution I require,
+    Is, what the sex of women most desire.”
+
+                                         Dryden.
+
+“Is there any other _doctrine_, _whose_ followers are punished?” Addison.
+
+[14] So the Saxon _hwa_ hath the Possessive Case _hwæs_. Note, that the
+Saxons rightly placed the Aspirate before the _w_: as we now pronounce
+it. This will be evident to any one that shall consider in what manner he
+pronounces the words _what_, _when_; that is, _hoo-àt_, _hoo-èn_.
+
+[15] Adjectives are very improperly called _Nouns_; for they are not
+the _Names_ of things. The Adjectives _good_, _white_, are applied to
+the Nouns _man_, _snow_, to express the Qualities belonging to those
+Subjects; but the Names of those Qualities in the Abstract, (that is,
+considered in themselves, and without being attributed to any Subject)
+are _goodness_, _whiteness_; and these are Nouns, or Substantives.
+
+[16] The Double Superlative _most highest_ is a Phrase peculiar to the
+Old Vulgar Translation of the Psalms, where it acquires a singular
+propriety from the Subject to which it is applied, the Supreme Being, who
+is _higher than the highest_.
+
+[17] “_Lesser_, says Mr. Johnson, is a barbarous corruption of _Less_,
+formed by the vulgar from the habit of terminating comparisons in _er_.”
+
+    “Attend to what a _lesser_ Muse indites.”
+
+                                      Addis.
+
+_Worser_ sounds much more barbarous, only because it has not been so
+frequently used:
+
+    “A dreadful quiet felt, and _worser_ far
+    Than arms, a sullen interval of war.”
+
+                                     Dryden.
+
+[18] A greater variety of endings to distinguish the Persons in the
+Verb is not necessary; as the Verb is always attended with the Personal
+Pronoun, wherever an ambiguity would otherwise arise. For the same reason
+the Plural termination in _en_, _they loven_, _they weren_, which was
+formerly in use, hath been long obsolete.
+
+[19] _Thou_, in the Polite, and even in the Familiar Style, is disused,
+and the Plural _You_ is employed instead of it: we say _You have_, not
+_Thou hast_. Tho’ in this case we apply _You_ to a single Person, yet the
+Verb too must agree with it in the Plural Number: it must necessarily be
+_You have_, not _You hast_. _You was_, the Second Person Plural of the
+Pronoun placed in agreement with the First or Third Person Singular of
+the Verb, is an enormous Solecism: and yet Authors of the first rank have
+inadvertently fallen into it. “Knowing that _you was_ my old master’s
+good friend.” Addison, Spect. No 517. “Would to God _you was_ within
+her reach.” Lord Bolingbroke to Swift, Letter 46. “If _you was_ here.”
+Ditto, Letter 47. “I am just now as well, as when _you was_ here.” Pope
+to Swift, P. S. to Letter 56. On the contrary the Solemn Style admits
+not of _You_ for a Single Person. This hath led Mr. Pope into a great
+impropriety in the beginning of his Messiah:
+
+                        “O _Thou_ my voice inspire
+    Who _touch’d_ Isaiah’s hallow’d lips with fire!”
+
+The Solemnity of the Style would not admit of _You_ for _Thou_ in the
+Pronoun; nor the measure of the Verse _touchedst_, or _didst touch_,
+in the Verb; as it indispensably ought to be, in the one, or the other
+of these two forms: _You_ who _touched_; or _Thou_ who _touchedst_, or
+_didst touch_. Again:
+
+    “Just of _thy_ word, in every thought sincere,
+    Who _knew_ no wish but what the world might hear.”
+
+                                      Pope, Epitaph.
+
+It ought to be _your_ in the first line, or _knewest_ in the second.
+
+[20] This Participle represents the action as complete and finished; and,
+being subjoined to the Auxiliary _to have_, constitutes the Perfect Time:
+I call it therefore the Perfect Participle. The same subjoined to the
+Auxiliary _to be_, constitutes the Passive Verb; and in that state, or
+when used without the Auxiliary in a passive sense, is called the Passive
+Participle.
+
+[21]
+
+                    “Before the sun,
+    Before the heav’ns thou _wert_.”
+
+                             Milton.
+
+    “Remember what thou _wert_.”
+
+                        Dryden.
+
+    “I knew thou _wert_ not slow to hear.”
+
+                                 Addison.
+
+    “Thou who of old _wert_ sent to Israel’s court.”
+
+                                             Prior.
+
+    “All this thou _wert_.”⸺
+
+                          Pope.
+
+Shall we in deference to these great authorities allow _wert_ to be the
+same with _wast_, and common to the Indicative and Subjunctive Mode? or
+rather abide by the practice of our best antient writers; the propriety
+of the language, which requires, as far as may be, distinct forms for
+different Modes; and the analogy of formation in each Mode; I _was_, Thou
+_wast_; I _were_, Thou _wert_? all which conspire to make _wert_ peculiar
+to the Subjunctive Mode.
+
+[22] Note, that the Imperfect and Perfect Times are here put together.
+And it is to be observed, that in the Subjunctive Mode, the event being
+spoken of under a condition, or supposition, or in the form of a wish,
+and therefore as doubtful and contingent, the Verb itself in the Present,
+and the Auxiliary both of the Present and Past Imperfect Times, often
+carry with them somewhat of a Future sense: as, “If he come to-morrow, I
+may speak to him:” ⸺ “If he should, or would, come to-morrow, I might,
+would, could, or should, speak to him.” Observe also, that the Auxiliary
+_should_ in the Imperfect Times is used to express the Present, as well
+as the Past; as, “It _is_ my desire, that he _should_ [now] come;” as
+well as, “It _was_ my desire that he _should_ [then] come.” So that in
+this Mode the precise Time of the Verb is very much determined by the
+nature and drift of the Sentence.
+
+[23]
+
+                ⸺“Perdition catch my soul
+    But I _do_ love thee!—”
+
+            ⸺“This to me
+    In dreadful secrecy impart they _did_.”
+
+                                Shakespear.
+
+    “Die he certainly _did_.”
+
+         Sherlock, Vol. 1. Disc. 7.
+
+“Yes, I _did_ love her:” that is, at that time, or once; intimating a
+negation, or doubt, of present love.
+
+“The Lord called Samuel: and he ran unto Eli, and said, Here am I, for
+thou _calledst_ me.⸺And the Lord called yet again, Samuel. And Samuel
+arose and went to Eli, and said, Here am I, for thou _didst_ call me.” 1
+Sam. iii. 4-6.
+
+[24] This distinction was not observed formerly as to the word _shall_,
+which was used in the Second and Third Persons to express simply the
+Event. So likewise _should_ was used, where we now make use of _would_.
+See the Vulgar Translation of the Bible.
+
+[25] Bishop Wilkins gives the following elegant investigation of the
+Modes in his _Real Character_, Part iii. Chap. 5.
+
+“To shew in what manner the Subject is to be joined with his Predicate,
+the Copula between them is affected with a Particle, which from the use
+of it is called _Modus_, the manner or _Mode_.
+
+Now the Subject and Predicate may be joined together either _Simply_, or
+with some kind of _Limitation_; and accordingly these Modes are Primary
+or Secondary.
+
+The Primary Modes are called by Grammarians Indicative and Imperative.
+
+When the matter is declared to be so, or at least when it seems in the
+Speaker’s power to have it be so, as the bare union of Subject and
+Predicate would import, then the Copula is nakedly expressed without any
+variation: and this manner of expressing it is called the Indicative Mode.
+
+When it is neither declared to be so, nor seems immediately in the
+Speaker’s power to have it so; then he can do no more in words but make
+out the expression of his will to him that hath the thing in his power;
+namely to
+
+        { Superior }    { Petition,   }
+    his { Equal    } by { Persuasion, }
+        { Inferior }    { Command.    }
+
+And the manner of these affecting the Copula, (Be it so, or, let it
+be so,) is called the Imperative Mode; of which there are these three
+varieties very fit to be distinctly provided for. As for that other use
+of the Imperative Mode, when it signifies _Permission_; this may be
+sufficiently expressed by the _Secondary Mode_ of _Liberty_; You _may_ do
+it.
+
+The Secondary Modes are such, as, when the Copula is affected with any
+of them, make the Sentence to be (as the Logicians call it) a _Modal
+Proposition_.
+
+This happens, when the matter in discourse, namely, the being, or doing,
+or suffering of a thing, is considered, not _simply by itself_, but
+_gradually in its causes_, from which it proceeds _contingently_, or
+_necessarily_.
+
+Then a thing seems to be left _Contingent_, when the Speaker expresses
+only the _Possibility_ of it, or his own _Liberty_ to it.
+
+1. The _Possibility_ of a thing depends upon the power of its cause; and
+may be expressed
+
+    when { _Absolute_    } by the Particle { _Can_,
+         { _Conditional_ }                 { _Could_.
+
+2. The _Liberty_ of a thing depends upon a freedom from all obstacles
+either within or without, and is usually expressed in our language
+
+    when { _Absolute_    } by the Particle { _May_,
+         { _Conditional_ }                 { _Might_.
+
+Then a thing seems to be of _Necessity_, when the Speaker expresseth the
+resolution of his own _will_, or some other _obligation_ upon him from
+without.
+
+3. The _Inclination of the Will_ is expressed,
+
+    if { _Absolute_    } by the Particle { _Will_,
+       { _Conditional_ }                 { _Would_.
+
+4. The Necessity of a thing from some _external Obligation_, whether
+_Natural_, or _Moral_, which we call Duty, is expressed,
+
+    if { _Absolute_    } by the Particle { _Must_, _ought_, _shall_;
+       { _Conditional_ }                 { _Must_, _ought_, _should_.”
+
+See also HERMES, Book I. Chap. viii.
+
+[26] I doubt much of the propriety of the following examples: “The
+rules of our holy Religion, from which we _are_ infinitely _swerved_.”
+Tillotson, Vol. I. Serm. 27. “The whole obligation of that law and
+covenant, which God made with the Jews, _was_ also _ceased_.” Ib. Vol.
+II. Serm. 52. “Whose number _was_ now _amounted_ to three hundred.”
+Swift, Contests and Dissensions, Chap. 3. Neuter Verbs are sometimes
+employed very improperly as Actives: “I think, it by no means a fit and
+decent thing to _vie Charities_, and to erect the reputation of one upon
+the ruins of another.” Atterbury, Vol. I. Serm. 2.
+
+[27] These two have also _beaten_ and _bursten_ in the Participle; and in
+that form they belong to the Third Class of Irregulars.
+
+[28] The Verbs marked thus throughout the three Classes of Irregulars,
+have the Regular as well as the Irregular form in use.
+
+[29] This Verb in the Past Time and Participle is pronounced short;
+_read_, _red_, _red_; like _lead_, _led_, _led_; and perhaps ought to be
+written in this manner: our antient writers spelt it _redde_.
+
+[30] They follow the Saxon rule: “Verbs which in the Infinitive end in
+_dan_ and _tan_,” (that is, in English, _d_ and _t_; for an is only the
+Characteristic termination of the Saxon Infinitive;) “in the Preterit
+and Participle Preterit commonly for the sake of better sound throw away
+the final ed; as _beot_, _afed_, (both in the Preterit and Participle
+Preterit) for _beoted_, _afeded_; from _beotan_, _afedan_.” Hickes,
+Grammat. Saxon, cap. 9. So the same Verbs in English, _beat_, _fed_,
+instead of _beated_, _feeded_.
+
+[31] When _en_ follows a Vowel or Liquid the _e_ is dropt: so _drawn_,
+_slayn_, (or _slain_,) are instead of _drawen_, _slayen_; so likewise
+_known_, _born_, are for _knowen_, _boren_, in the Saxon _cnawen_,
+_boren_: and so of the rest.
+
+[32] This Verb is also formed like those of _i_ long into _i_ short;
+Write, writ, written; and by Contraction _writ_ in the Participle, but, I
+think, improperly.
+
+[33] Frequent mistakes are made in the formation of the Participle of
+this Verb. The analogy plainly requires _sitten_; which was formerly
+in use: “The army having _sitten_ there so long:”⸺“Which was enough to
+make him stir, that would not have _sitten_ still, though Hanibal had
+been quiet.” Raleigh. “That no Parliament should be dissolved, till it
+had _sitten_ five months.” Hobbes, Hist. of Civil Wars, p. 257. But it
+is now almost wholly disused, the form of the Past Time _sat_, having
+taken its place. Dr. Middleton hath with great propriety restored the
+true Participle:⸺“To have _sitten_ on the heads of the Apostles:”⸺“to
+have _sitten_ upon each of them.” Works, Vol. II. p. 30. “Blessed is the
+man,⸺that hath not _sat_ in the seat of the scornful.” Ps. i. 1. The
+old Editions have _sit_; which may be perhaps allowed as a Contraction
+of _sitten_. “And when he was _set_, his disciples came unto him:”
+καθισαντος αυτου. Matt. v. 1.⸺“who is _set_ on the right hand;”⸺“and
+is _set_ down at the right hand of the throne of God:” in both places
+εκαθισεν. Heb. viii. 1. & xii. 2. _Set_ can be no part of the Verb _to
+sit_. If it belongs to the Verb _to set_, the Translation in these
+passages is wrong: for _to set_ signifies _to place_, but without any
+designation of the posture of the person placed; which is a circumstance
+of importance expressed by the original.
+
+[34] This Neuter Verb is frequently confounded with the Verb Active _to
+lay_, [that is, _to put_, or _place_;] which is Regular, and has in the
+Past Time and Participle _layed_, or _laid_.
+
+[35] “Thus having _chosed_ each other.⸺” Clarendon, Hist. Vol. III. p.
+797. 8ᵛᵒ. Improperly.
+
+[36] That is, as a bird, _volare_; whereas _to flee_ signifies _fugere_,
+as from an enemy. This seems to be the proper distinction between _to
+fly_, and _to flee_; which in the Present Time are very often confounded.
+Our Translation of the Bible is not quite free from this mistake. It
+hath _flee_ for _volare_ in perhaps seven or eight places out of a great
+number; but never _fly_ for _fugere_.
+
+[37] Essay xxix.
+
+[38] The whole number of Verbs in the English language, Regular and
+Irregular, Simple and Compounded, taken together, is about 4300. See Dr.
+Ward’s Essays on the English Language; the Catalogue of English Verbs.
+
+[39]
+
+    ⸺“He would _have spoke_.”
+
+         Milton, P. L. x. 517.
+
+    “Words _interwove_ with sighs found out their way.”
+
+                                         P. L. i. 621.
+
+    “And to his faithful servant _hath_ in place
+    _Bore_ witness gloriously.”—Samson Ag. ℣. 1752.
+
+    “And envious darkness, ere they could return,
+    _Had stole_ them from me.”—Comus, ℣. 195.
+
+Here it is observable, that the Author’s MS. and the First Edition have
+it _stolne_.
+
+    ⸺“And in triumph _had rode_.”
+
+                    P. R. iii. 36.
+
+        ⸺“I _have chose_
+    This perfect man.”⸺
+
+             P. R. i. 165.
+
+    ⸺“The fragrant brier _was wove_ between.”
+
+                               Dryden, Fables.
+
+    “Then finish what you _have began_,
+    But scribble faster, if you can.”
+
+        Dryden, Poems, Vol. 2. p. 172.
+
+    “_Have sprang._”
+
+        Atterbury, Vol. 1. Serm. 4.
+
+“_Had spake_”⸺“_had began_.”⸺Clarendon, Contin. Hist. p. 40, & 120. “The
+men _begun_ to embellish themselves.” Addison, Spect. Nᵒ 434.
+
+    “Rapt into future times the bard _begun_.”
+
+                               Pope, Messiah.
+
+And without the necessity of rhyme:
+
+    “A second deluge learning thus _o’er-run_,
+    And the Monks finish’d what the Goths _begun_.”
+
+                               Essay on Criticism.
+
+    “Repeats you verses _wrote_ on glasses.”
+
+                                     Prior.
+
+“Mr. Misson _has wrote_.”—Addison, Preface to his Travels. “He could only
+command his voice, _broke_ with sighs and sobbings, so far as to bid her
+proceed.” Addison, Spect. Nᵒ 164.
+
+    “No civil broils _have_ since his death _arose_.”
+
+                             Dryden, on O. Cromwell.
+
+    “Illustrious virtues, who by turns _have rose_.”
+
+                                             Prior.
+
+⸺“_Had_ not _arose_.” Swift, Tale of a Tub, Sect. x. and Battle of
+Books: and Bolingbroke, Letter to Wyndham, p. 233.⸺“This nimble operator
+will _have stole_ it.” Tale of a Tub, Sect. x. “Some philosophers _have
+mistook_.” Ibid. Sect. ix.
+
+            ⸺“Silence
+    _Was took_ ere she was ware.”
+
+                  Milton, Comus.
+
+    “Into these common places look,
+    Which from great authors I _have took_.”
+
+                               Prior, Alma.
+
+“A free Constitution, when it has _been shook_ by the iniquity of former
+administrations.” Lord Bolingbroke, Patriot King, p. 111.⸺“Too strong to
+_be shook_ by his enemies.” Atterbury. “But there _was_ now an accident
+_fell_ out.”⸺Clarendon, Contin. p. 292.
+
+    ⸺“Ev’n there he should _have fell_.”
+
+                          Prior, Solomon.
+
+    “Sure some disaster _has befell_:
+    Speak, Nurse; I hope the Boy is well.”
+
+                             Gay, Fables.
+
+[40] “Was the _easilier_ persuaded.”—Raleigh. “The things _highliest_
+important to the growing age.” Lord Shaftesbury, Letter to Lord
+Molesworth. Improperly, for _more easily_, _most highly_.
+
+[41] The Conjunction _because_ used to express the motive or end, is
+either improper or obsolete: as, “The multitude rebuked them, _because_
+they should hold their peace.” Matt. xx. 31. “It is the case of some,
+to contrive false periods of business, _because_ they may seem men of
+dispatch.” Bacon, Essay xxv. We should now make use of _that_.
+
+[42] “He caused all persons, _whom_ he knew had, or he thought might
+have, spoken to him, to be apprehended.” Clarendon, Vol. III. p. 618.
+8ᵛᵒ. It ought to be _who_, the Nominative Case to _had_; not _whom_, as
+if it were the Objective Case governed by _knew_.
+
+    “Scotland and _Thee_ did each in other live.”
+
+                 Dryden, Poems, Vol. II. p. 220.
+
+It ought to be _Thou_.
+
+[43]
+
+    “But _Thou_ false Arcite never _shall_ obtain
+    Thy bad pretence.”⸺
+
+                                   Dryden, Fables.
+
+    “That _Thou might_ fortune to thy side engage.”
+
+                                            Prior.
+
+It ought to be _shalt_, _mightest_. The mistake seems to be owing to the
+confounding of _Thou_ and _You_ as equivalent in every respect; whereas
+one is Singular, the other Plural. See above, p. 48. “Great _pains has_
+[have] been taken.” Pope, P. S. to the Odyssey. “I have considered, _what
+have_ [hath] been said on both sides in this controversy.” Tillotson,
+Vol. I. Serm. 27.
+
+[44]
+
+    “Tell who _loves who_; what favours some partake,
+    And who is jilted for another’s sake.”
+
+                            Dryden, Juvenal, Sat. vi.
+
+“Those, _who_ he _thought_ true to his party.” Clarendon, Hist. Vol.
+I. p. 667. 8ᵛᵒ. “_Who_ should I _meet_ the other night, but my old
+friend?” Spect. Nᵒ 32. “_Who_ should I _see_ in the lid of it, but the
+Doctor?” Addison, Spect. Nᵒ 57. “He knows, _who_ it is proper to _expose_
+foremost.” Swift, Tale of a Tub, Conclusion. It ought in all these places
+to be _whom_.
+
+[45] “And restores to his _Island_ that tranquillity and repose, to
+which they had been _strangers_ during his absence.” Pope, Dissertation
+prefixed to the Odyssey. _Island_ is not a Noun of Multitude: it ought
+to be, his _people_; or, _it_ had been _a stranger_. “What reason _have
+the Church_ of Rome to talk of modesty in this case?” Tillotson, Vol.
+I. Serm. 49. “All the virtues of mankind are to be counted upon a few
+fingers, but _his_ follies and vices are innumerable.” Swift, Preface to
+Tale of a Tub. Is not _mankind_ in this place a Noun of Multitude, and
+such as requires the Pronoun refering to it to be in the Plural Number,
+_their_?
+
+[46] “_Whom_ do men say, that _I am_?⸺But _whom_ say ye, that _I am_?”
+Matt. xvi. 13, 15. So likewise Mark viii. 27, 29. Luke ix. 18, 20. “Whom
+think ye, that _I am_?” Acts xiii. 25. It ought in all these places to
+be _who_; which is not governed by the Verb _say_ or _think_, but by the
+Verb _am_: or agrees in Case with the Pronoun _I_. If the Verb were in
+the Infinitive Mode, it would require the Objective Case of the Relative,
+agreeing with the Pronoun _me_: “_Whom_ think ye, or do ye think, _me to
+be_?”
+
+    ⸺“To that, _which_ once _was thee_.”
+
+                                   Prior.
+
+It ought to be, _which was thou_; or, _which thou wast_.
+
+[47] On which place says Dr. Bentley, “The Context demands that it
+be,⸺_Him_ descending, Illo descendente.” But _him_ is not the Ablative
+Case, for the English knows no such Case; nor does _him_ without a
+Preposition on any occasion answer to the Latin Ablative _illo_. I might
+with better reason contend, that it ought to be “_his_ descending,”
+because it is in Greek αυτου καταβαινοντος in the Genitive; and it would
+be as good Grammar, and as proper English. This comes of forcing the
+English under the rules of a foreign Language, with which it has little
+concern: and this _ugly and deformed fault_, to use his own expression,
+Bentley has endeavoured to impose upon Milton in several places: see P.
+L. vii. 15. ix. 829, 883, 1147. x. 267, 1001. On the other hand, where
+Milton has been really guilty of this fault, he, very inconsistently with
+himself, corrects him, and sets him right. His Latin Grammar Rules were
+happily out of his head, and by a kind of _vernacular instinct_ (so, I
+imagine, he would call it) he perceived that his Author was wrong.
+
+    “For only in destroying I find ease
+    To my relentless thoughts; and, _him destroy’d_,
+    Or won to what may work his utter loss,
+    For whom all this was made, all this will soon
+    Follow, as to him link’d in weal or woe.”
+
+                                     P. L. ix. 129.
+
+It ought to be, “_he_ destroy’d,” that is, “_he being_ destroy’d.”
+Bentley corrects it, “and _man_ destroy’d.”
+
+Archbishop Tillotson has fallen into the same mistake: “Solomon was of
+this mind; and I make no doubt, but he made as wise and true Proverbs as
+any body has done since: _Him_ only _excepted_, who was a much greater
+and wiser man than Solomon.” Vol. I. Ser. 53.
+
+[48] “To _see_ so many _to make so_ little conscience of so great a sin.”
+Tillotson, Vol. I. Serm. 22. “It cannot but be a delightful spectacle to
+God and Angels to _see_ a young person, besieged by powerful temptations
+on either side, _to acquit_ himself gloriously, and resolutely _to hold_
+out against the most violent assaults: to _behold_ one in the prime and
+flower of his age, that is courted by pleasures and honours, by the devil
+and all the bewitching vanities of the world, _to reject_ all these, and
+_to cleave_ stedfastly unto God.” Ib. Serm. 54. The impropriety of the
+Phrases distinguished by Italic Characters is evident.
+
+[49] Το γαρ θελειν παρακειται μοι, το δε κατεργαζεσθαι το καλον ουχ
+ευρισχω. Rom. vii. 18.
+
+[50] Προς το θεαθηναι τοις ανθρωποις. Matt. xxiii. 5. The following
+sentences seem defective either in the construction, or the order of
+the words: “Why do ye that, _which is not lawful to do_ on the sabbath
+days?⸺The shew bread, _which is not lawful to eat_, but for the priests
+alone.” Luke vi. 2, 4. The Construction may be rectified by supplying
+_it_; “which _it_ is not lawful to do; which _it_ is not lawful to eat:”
+or the order of the words in this manner; “_to do which_, _to eat which_,
+is not lawful:” where the Infinitive _to do_, _to eat_, does the office
+of the Nominative Case, and the Relative _which_ is in the Objective Case.
+
+[51] “I am not like other men, _to envy_ the talents I cannot reach.”
+Tale of a Tub, Preface. An improper use of the Infinitive.
+
+[52] This Rule arises from the nature and idiom of our Language, and
+from as plain a principle as any on which it is founded: namely, that a
+word which has the Article before it, and a Noun, with the Possessive
+Preposition _of_, after it, must be a Noun; and if a Noun, it ought to
+follow the Construction of a Noun, and not have the Regimen of a Verb.
+It is the Participial Termination of this sort of words that is apt to
+deceive us, and make us treat them as if they were of an amphibious
+species, partly Nouns, and partly Verbs. I believe there are hardly any
+of our Writers, who have not fallen into this inaccuracy. That it is
+such, will perhaps more clearly appear, if we examine and resolve one or
+two examples in this kind.
+
+“God, who didst teach the hearts of thy faithful people, by _the
+sending_ to them _the light_ of thy Holy Spirit:⸺” Collect, Whitsunday.
+_Sending_ is in this place a Noun; for it is accompanied with the
+Article: nevertheless it is also a Transitive Verb, for it governs the
+Noun _light_ in the Objective Case: but this is inconsistent; let it
+be either the one or the other, and abide by its proper Construction.
+That these Participial Words are sometimes real Nouns is undeniable; for
+they have a Plural Number as such: as, “the _outgoings_ of the morning.”
+_The Sending_ is the same with _the Mission_; which necessarily requires
+the Preposition _of_ after it, to mark the relation between it and _the
+light_; _the mission of the light_; and so, _the sending of the light_.
+The Phrase would be proper either way, by keeping to the Construction of
+the Noun, _by the sending of the light_; or of the Participle, or Gerund,
+_by sending the light_.
+
+Again:⸺“Sent to prepare the way of thy Son our Saviour, _by preaching of
+Repentance_:⸺” Collect, St. John Baptist. Here the Participle, or Gerund,
+hath as improperly the Preposition _of_ after it; and so is deprived of
+its Verbal Regimen, by which as a Transitive it would govern the Noun
+_Repentance_ in the Objective Case. Besides, the Phrase is rendered
+obscure and ambiguous: for the obvious meaning of it in its present form
+is, “by preaching concerning or on the Subject of Repentance;” whereas
+the sense intended is, “by publishing the Covenant of Repentance, and
+declaring Repentance to be a condition of acceptance with God.” The
+Phrase would have been perfectly right and determinate to this sense
+either way; by the Noun, _by the preaching of repentance_; or by the
+Participle, _by preaching repentance_.
+
+[53] These are the three Primary Modes, or manners of expressing our
+thoughts concerning the being, doing, or suffering of a thing. If it
+comes within our knowledge, we explain it, or make a declaration of it;
+if we are ignorant or doubtful of it, we make an inquiry about it; if it
+is not immediately in our power, we express our desire or will concerning
+it. In Theory therefore the Interrogative form seems to have as good a
+Title to a Mode of its own, as either of the other two; but Practice has
+determined it otherwise; and has in all the Languages, with which we are
+most acquainted, supplied the place of an Interrogative Mode, either by
+Particles of Interrogation, or by a peculiar order of the words in the
+sentence. If it be true, as I have somewhere read, that the Modes of the
+Verbs are more numerous in the Lapland Tongue than in any other, possibly
+the Laplanders may be provided with an Interrogative Mode.
+
+[54]
+
+    “The burning lever _not deludes_ his pains.”
+
+                   Dryden, Ovid. Metam. B. xii.
+
+    “I hope, my Lord, said he, I _not offend_.”
+
+                               Dryden, Fables.
+
+These examples make the impropriety of placing the Adverb _not_ before
+the Verb very evident.
+
+[55] “_Did_ he _not fear_ the Lord, and _besought_ the Lord, and the Lord
+_repented_ him of the evil, which he had pronounced against them?” Jer.
+xxvi. 19. Here the Interrogative and Explicative forms are confounded.
+It ought to be, “Did he not _fear_ the Lord, and _beseech_ the Lord? and
+_did not_ the Lord _repent_ him of the evil,⸺?” See likewise Matt. xviii.
+12.
+
+[56]
+
+    “For ever in this humble cell
+    _Let Thee_ and _I_, my fair one, dwell.”
+
+                                     Prior.
+
+It ought to be _Me_.
+
+[57] It is not easy to give particular rules for the management of the
+Modes and Times of Verbs with respect to one another, so that they may
+be proper and consistent: nor would it be of much use; for the best
+rule that can be given is this very general one, To observe what the
+sense necessarily requires. But it may be of use to consider one or two
+examples, that seem faulty in these respects, and to examine where the
+fault lies.
+
+    “Some who the depths of eloquence _have found_,
+    In that unnavigable Stream _were drown’d_.”
+
+                               Dryden, Juv. Sat. x.
+
+The event mentioned in the first line is plainly prior in time to that
+mentioned in the second; this is subsequent to that, and a consequence
+of it. The first event is mentioned in the Present Perfect Time; it
+is present and compleated; “they _have_ [now] _found_ the depths of
+eloquence.” The second event is expressed in the Past Indefinite Time;
+it is past and gone, but, when it happened, uncertain: “they _were
+drown’d_.” We observed, that the last mentioned event is subsequent to
+the first: but how can the Past Time be subsequent to the Present? It
+therefore ought to be in the second line _are drown’d_, in the Present
+Perfect, which is consistent with the same Time in the first line: or in
+the first line _had found_ in the Past Perfect, which would be consistent
+with the Past Indefinite in the second line.⸺There seems to be a fault of
+the like nature in the following passage:
+
+    “But oh! _’twas_ little that her life
+    O’er earth and waters _bears_ thy fame:”⸺
+
+                                          Prior.
+
+It ought to be _bore_ in the second line.
+
+Again;
+
+    “Him portion’d maids, apprentic’d orphans _blest_,
+    The young who _labour_, and the old who _rest_.”
+
+                             Pope, Moral Ep. iii. 267.
+
+The Verb in the first line ought to be in the same Time with those in the
+last.
+
+“Had their records been delivered down in the vulgar tongue,⸺they could
+not now be understood, unless by Antiquaries, who _made_ it their study
+to expound them.” Swift, Letter, on the English Tongue. Here the latter
+part of the sentence depends intirely on the _Supposition_ expressed in
+the former, “of their records being delivered down in the vulgar tongue:”
+therefore _made_ in the Indicative Mode, which implies no supposition,
+and in the Past Indefinite Time, is improper: it would be much better in
+the Past Definite, _had made_; but indeed ought to be in the Subjunctive
+Mode, Present or Past Time, _should make_, or _should have made_.
+
+[58] “By _this means_ thou shalt have no portion on this side the river.”
+Ezra, iv. 16. “It renders us careless of approving ourselves to God by
+religious duties, and by _that means_ securing the continuance of his
+goodness.” Atterbury, Sermons. Ought it not to be, by _these means_, by
+_those means_? or by _this mean_, by _that mean_, in the singular number?
+as it is used by Hooker, Sidney, Shakespear, &c. “I have not wept _this_
+forty _years_.” Dryden. “I am not recommending _these kind_ of sufferings
+to your liking.” Bishop Sherlock, Disc. Vol. II. p. 267. So the Pronoun
+must agree with its Noun: in which respect let the following example be
+considered. “_It is_ an unanswerable argument of a very refined age, the
+wonderful _Civilities_ that have passed between the nation of authors and
+those of readers.” Swift, Tale of a Tub, Sect. x. As to these wonderful
+_Civilities_, one might say, that “_they are_ an unanswerable argument,
+&c.” but as the Sentence stands at present it is not easy to reconcile it
+to any grammatical propriety. “_A person whom_ all the world allows to
+be so much your _betters_.” Swift, Battle of Books. And the Phrase which
+occurs in the following examples, tho’ pretty common and authorised by
+Custom, yet seems to be somewhat defective in the same way:
+
+    “_’Tis these_ that early taint the female soul.”
+
+                                              Pope.
+
+    “_’Tis they_ that give the great Atrides’ spoils;
+    _’Tis they_ that still renew Ulysses’ toils.”
+
+                                               Prior.
+
+[59] “Forasmuch as it hath pleased Almighty God of his goodness to
+give you safe deliverance, and _hath preserved_ you in the great
+danger of Childbirth:”⸺Liturgy. The Verb _hath preserved_ hath here no
+Nominative Case; for it cannot be properly supplied by the preceding
+word _God_, which is in the Objective Case. It ought to be, “_and He
+hath preserved_ you;” or rather, “_and to preserve_ you.” Some of our
+best Writers have frequently fallen into this, which I take to be no
+small inaccuracy: I shall therefore add some more examples of it, by
+way of admonition; inferring in each within Crotchets, the Nominative
+Case that is deficient, and that must necessarily be supplied to support
+the proper Construction of the Sentence. “If the calm, in which he was
+born, and [which] lasted so long, had continued.” Clarendon, Life, p.
+43. “The Remonstrance he had lately received from the House of Commons,
+and [which] was dispersed throughout the Kingdom.” Clarendon, Hist. Vol.
+I. p. 366. 8ᵛᵒ. “These we have extracted from an Historian of undoubted
+credit, a reverend bishop, the learned Paulus Jovius; and [they] are the
+same that were practised under the pontificate of Leo X.” Pope, Works,
+Vol. VI. p. 301. “A cloud gathering in the North; which we have helped to
+raise, and [which] may quickly break in a storm upon our heads.” Swift,
+Conduct of the Allies. “A man, whose inclinations led him to be corrupt,
+and [who] had great abilities to manage and multiply and defend his
+corruptions.” Gulliver, Part I. Chap. vi. “My Master likewise mentioned
+another quality, which his servants had discovered in many Yahoos, and
+[which] to him was wholly unaccountable.” Gulliver, Part IV. Chap. vii.
+“This I filled with the feathers of several birds I had taken with
+springes made of Yahoos hairs, and [which] were excellent food.” Ibid.
+Chap. x. “Osyris, whom the Grecians call Dionysius, and [who] is the same
+with Bacchus.” Swift, Mechan. Oper. of the Spirit, Sect. ii.
+
+[60] “_Which rule_, if it had been observed, a neighbouring Prince would
+have wanted a great deal of that incense, which hath been offered up to
+him by his adorers.” Atterbury, Vol. I. Serm. 1. The Pronoun _it_ is here
+the Nominative Case to the Verb _observed_; and _which rule_ is left by
+itself, a Nominative Case without any Verb following it. This manner of
+expression, however improper, is very common. It ought to be, “If _this
+rule_ had been observed, &c.”
+
+[61] Adjectives are sometimes employed as Adverbs; improperly, and
+not agreeably to the Genius of the English Language. As, “_extreme_
+elaborate:” Dryden, Essay on Dram. Poet. “_marvellous_ graceful:”
+Clarendon, Life, p. 18. “_extreme_ unwilling;” “_extreme_ subject:”
+Swift, Tale of a Tub, and Battle of Books. “I shall endeavour to live
+hereafter _suitable_ to a man in my station.” Addison, Spect. Nᵒ 530.
+“Homer describes this river _agreeable_ to the vulgar reading.” Pope,
+Note on Iliad, ii. v. 1032. So _exceeding_, for _exceedingly_, however
+improper, occurs frequently in the Vulgar Translation of the Bible, and
+has obtained in common discourse. “We should live soberly, righteously,
+and _godly_ in this present world.” Tit. ii. 12.
+
+    “O Liberty, Thou Goddess _heavenly_ bright.”
+
+                                       Addison.
+
+On the other hand an Adverb is improperly used as an Adjective in the
+following passage: “We may cast in such seeds and principles, as we judge
+most likely to take _soonest_ and deepest root.” Tillotson, Vol. I. Serm.
+52.
+
+[62] “_How much soever_ the Reformation of this corrupt and degenerate
+Age is _almost utterly_ to be despaired of, we may yet have a more
+comfortable prospect of future times.” Tillotson, Vol. I. Pref. to Serm.
+49. The first part of this Sentence abounds with Adverbs, and those such
+as are hardly consistent with one another.
+
+[63] “We are still much at a loss, _who_ civil power belongs _to_.”
+Locke. It ought to be _whom_.
+
+[64] Pope, Preface to his Poems.
+
+[65] _With_ in composition retains the signification, which it hath
+among others in the Saxon, of _from_ and _against_: as to _withhold_, to
+_withstand_. So also for has a negative signification from the Saxon: as,
+to _forbid_, _forbeodan_; to _forget_, _forgitan_.
+
+[66] Examples of impropriety in the use of the Preposition in Phrases of
+this kind: “Your character, which I, or any other writer, may now value
+ourselves _by_ [upon] drawing.” Swift, Letter on the English Tongue.
+“You have bestowed your favours _to_ [upon] the most deserving persons.”
+Ibid. “Upon such occasions as fell _into_ [under] their cognisance,”
+Swift, Contests and Dissensions &c. Chap. 3. “That variety of factions
+_into_ [in] which we are still engaged.” Ibid. Chap. 5. “The utmost
+extent of power pretended [to] by the Commons.” Ibid. Chap. 3.⸺“Accused
+the ministers _for_ [of] betraying the Dutch.” Swift, Four last years
+of the Queen, Book ii. “Ovid, whom you accuse _for_ [of] luxuriancy of
+verse.” Dryden, on Dram. Poesy. “Neither the one nor the other shall
+make me swerve _out of_ [from] the path, which I have traced to myself.”
+Bolingbroke, Letter to Wyndham, p. 252. “They are now reconciled by a
+zeal for their cause to what they could not be prompted [to] by a concern
+for their beauty.” Addison, Spect. Nᵒ 81. “If policy can prevail _upon_
+[over] force.” Addison, Travels, p. 62. “Ye blind guides, which strain
+_at_ a gnat, and swallow a camel.” Matt. xxiii. 24. διυλιζοντες, “which
+strain _out_, or take a gnat _out_ of the liquor by straining it:” the
+impropriety of the Preposition has wholly destroyed the meaning of the
+Phrase. Observe also, that the Noun generally requires after it the
+same Preposition as the Verb from which it is formed: “It was perfectly
+in compliance _to_ [with] some persons, for whose opinion I have great
+deference.” Swift, Pref. to Temple’s Memoirs. “Not from any personal
+hatred to them, but in justification _to_ [of] the best of Queens.”
+Swift, Examiner, Nᵒ 23. In the last example, the Verb being Transitive
+and requiring the Objective Case, the Noun formed from it seems to
+require the Possessive Case, or its Preposition, after it. Or perhaps he
+meant to say, “in _justice_ to the best of Queens.” “No discouragement
+for the authors to proceed.” Tale of a Tub, Preface. “A strict observance
+_after_ times and fashions.” Ibid. Sect. ii. So the Noun _Aversion_,
+(that is, a turning away,) requires the Preposition _from_ after it; and
+does not properly admit of _to_, _for_, or _towards_, which are often
+used with it.
+
+[67] These are much disused in common discourse, and are retained only
+in the Solemn, or Formulary Style. “They [our Authors] have of late,
+’tis true, reformed in some measure the gouty joints and darning-work
+of _whereunto’s_, _whereby’s_, _thereof’s_, _therewith’s_, and the rest
+of this kind; by which complicated periods are so curiously strung, or
+hook’d on, one to another, after the long-spun manner of the bar or
+pulpit.” Lord Shaftesbury, Miscel. V.
+
+[68] Or in these and the like Phrases, may not _me_, _thee_, _him_,
+_her_, _us_, which in Saxon are the Dative Cases of their respective
+Pronouns, be considered as still continuing such in the English, and
+including in their very form the force of the Prepositions _to_ and
+_for_? There are certainly some other Phrases, which are to be resolved
+in this manner: “Wo is _me_!” The Phrase is pure Saxon; “wa is me:”
+_me_ is the Dative Case; in English, with the Preposition _to me_. So,
+“_methinks_;” Saxon, “_me thincth_,” εμοι δοκει. “O well is _thee_!”
+Psal. cxxviii. 2. “Wel is _him_ that ther mai be.” Anglo-Saxon Poem in
+Hickes’s Thesaur. Vol. I. p. 231. “Well is _him_, that dwelleth with
+a wife of understanding.”⸺“Well is _him_, that hath found prudence.”
+Ecclus. xxv. 8, 9. The Translator thought to correct his phrase
+afterward, and so hath made it neither Saxon nor English: “Well is _he_,
+that is defended from it.” Ecclus. xxviii. 19. “Wo worth the day!”
+Ezek. xxx. 2. that is, Wo be _to_ the day. The word _worth_ is not the
+Adjective, but the Saxon Verb _weorthan_, or _worthan_, _fieri_, _to be_,
+_to become_; which is often used by Chaucer, and is still retained as an
+Auxiliary Verb in the German Language.
+
+[69] _That_ has been used in the same manner, as including the Relative
+_which_; but it is either improper, or obsolete: as, “To consider
+advisedly of _that_ is moved.” Bacon, Essay xxii. “She appeared not to
+wish _that_ without doubt she would have been very glad of.” Clarendon,
+Hist. Vol. II. p. 363. 8ᵛᵒ. “We speak _that_ we do know, and testify
+_that_ we have seen.” John iii. 11.
+
+[70] “_Who_, instead of going about doing good, _they_ are perpetually
+intent upon doing mischief.” Tillotson, Vol. I. Serm. 18. The Nominative
+Case _they_ in this sentence is superfluous; it was expressed before in
+the Relative _who_.
+
+[71] “I am _the Lord, that maketh_ all things; _that stretcheth_ forth
+the heavens alone:”⸺Isaiah xliv. 24. Thus far is right: _the Lord_ in the
+third Person is the Antecedent, and the Verb agrees with the Relative
+in the third Person: “I am the Lord, _which Lord_, or _He that, maketh_
+all things.” It would have been equally right, if _I_ had been made the
+Antecedent, and the Relative and the Verb had agreed with it in the
+First Person: “_I_ am the Lord, _that make_ all things.” But when it
+follows, “_that spreadeth_ abroad the heavens by _myself_;” there arises
+a confusion of Persons, and a manifest Solecism.
+
+    “_Thou_ great first Cause, least understood!
+      _Who_ all my sense _confin’d_
+    To know but this, that _Thou art_ good,
+      And that myself am blind:
+    Yet _gave_ me in this dark estate,” &c.
+
+                         Pope, Universal Prayer.
+
+It ought to be _confinedst_, or _didst confine_; _gavest_, or _didst
+give_; &c. in the second Person. See above, p. 48. Note.
+
+[72]
+
+    “Abuse on all he lov’d, or lov’d him, spread.”
+
+                       Pope, Epist. to Arbuthnot.
+
+That is, “all _whom_ he lov’d, or _who_ lov’d him:” or to make it more
+easy by supplying a Relative that has no variation of Cases, “all _that_
+he lov’d, or _that_ lov’d him.” The Construction is hazardous, and
+hardly justifiable, even in Poetry. “In the temper of mind he was then.”
+Addison, Spect. Nᵒ 549. “In the posture I lay.” Swift, Gulliver, Part 1.
+Chap. 1. In these and the like Phrases, which are very common, there is
+an Ellipsis both of the Relative and the Preposition; which were much
+better supplied: “In the temper of mind _in which_ he was then:” “In the
+posture _in which_ I lay.” In general, the omission of the Relative seems
+to be too much indulged in the familiar style; it is ungraceful in the
+serious; and of whatever kind the style be, it is apt to be attended with
+obscurity and ambiguity.
+
+[73] The Connective parts of Sentences are of all others the most
+important, and require the most care and attention: for it is by these
+chiefly that the train of thought, the course of reasoning, and the whole
+progress of the mind in continued discourse of all kinds, is laid open;
+and on the right use of these the perspicuity, that is, the first and
+greatest beauty, of style principally depends. Relatives and Conjunctions
+are the instruments of Connection in discourse: it may be of use to point
+out some of the most common inaccuracies, that writers are apt to fall
+into with respect to them; and a few examples of faults may perhaps be
+more instructive, than any rules of propriety that can be given. Here
+therefore shall be added some further examples of inaccuracies in the use
+of Relatives.
+
+The Relative placed before the Antecedent: Example; “The bodies, which we
+daily handle, make us perceive, that whilst they remain between _them_,
+they do by an insurmountable force hinder the approach of our _hands_
+that press them.” Locke, Essay, B. 2. C. 4. §. 1. Here the sense is
+suspended, and the sentence is unintelligible, till you get to the end of
+it: there is no Antecedent, to which the Relative _them_ can be referred,
+but _bodies_; but, “whilst the bodies remain between the bodies,” makes
+no sense at all. When you get to _hands_, the difficulty is cleared
+up, the sense helping out the Construction: yet there still remains an
+ambiguity in the Relatives _they_, _them_, which in number and gender are
+equally applicable to _bodies_ or _hands_; this, tho’ it may not here be
+the occasion of much obscurity, which is commonly the effect of it, yet
+is always disagreeable and inelegant: as in the following examples.
+
+“Men look with an evil eye upon the good that is in others; and think,
+that _their_ reputation obscures _them_; and that _their_ commendable
+qualities do stand in _their_ light: and therefore _they_ do what _they_
+can to cast a cloud over _them_, that the bright shining of _their_
+virtues may not obscure _them_.” Tillotson, Vol. I. Serm. 42.
+
+“The Earl of Falmouth and Mr. Coventry were rivals _who_ should have most
+influence with the Duke, _who_ loved the Earl best, but thought the other
+the wiser man, _who_ supported Pen, _who_ disobliged all the Courtiers,
+even against the Earl, _who_ contemned Pen as a fellow of no sense.”
+Clarendon, Cont. p. 264.
+
+But the following Sentence cannot possibly be understood without a
+careful recollection of circumstances through some pages preceding.
+
+“All which, with the King’s and Queen’s so ample promises to _him_ [the
+Treasurer] so few hours before the conferring the place on another, and
+the Duke of York’s manner of receiving _him_ [the Treasurer,] after _he_
+[the Chancellor] had been shut up with _him_ [the Duke,] as _he_ [the
+Treasurer] was informed, might very well excuse _him_ [the Treasurer] for
+thinking _he_ [the Chancellor] had some share in the affront _he_ [the
+Treasurer] had undergone.” Clarendon, Cont. p. 296.
+
+“Breaking a Constitution by the very same errors, _that_ so many have
+been _broke_ before.” Swift, Contests and Dissensions, &c. Chap. 5. Here
+the Relative is employed not only to represent the Antecedent Noun _the
+errors_, but likewise the Preposition _by_ prefixed to it. It ought to
+be, “the same errors, _by which_ so many have been _broken_ before.”
+
+Again: “⸺An Undertaking; _which_, although it has failed, (partly &c, and
+partly &c,) is no objection at all to an Enterprize so well concerted,
+and with such fair probability of success.” Swift, Conduct of the Allies.
+That is, “Which Undertaking is no objection to an Enterprize so well
+concerted;” that is, “to itself:” he means, “_the failing of which_ is no
+objection at all to it.”
+
+[74] In the following instances the Conjunction _that_ seems to be
+improperly accompanied with the Subjunctive Mode: “I cannot but bewail,
+_that_ no famous modern _have_ ever yet attempted⸺.” Swift, Tale of a
+Tub, Sect. v.
+
+    “So much she fears for William’s life,
+    _That_ Mary’s fate she _dare_ not mourn.”
+
+                                      Prior.
+
+[75] “You are a much greater loser than _me_ by his death.” Swift to
+Pope, Letter 63.
+
+    “And tho’ by heav’n’s severe decree
+    She suffers hourly more than _me_.”
+
+                        Swift to Stella.
+
+“We contributed a third more than the Dutch, who were obliged to the same
+proportion more than _us_.” Swift, Conduct of the Allies.
+
+“King Charles, and more than _him_, the Duke, and the Popish Faction,
+were at liberty to form new schemes.” Lord Bolingbroke, Diss. on Parties,
+Letter 3.
+
+“A Poem, which is good in itself, cannot lose any thing of its real
+value, though it should appear not to be the work of so eminent an
+author, as _him_, to whom it was first imputed.” Congreve, Pref. to
+Homer’s Hymn to Venus.
+
+“If the King give us leave, you or I may as lawfully preach, as _them_
+that do.” Hobbes, Hist. of Civil Wars, p. 62.
+
+    “The sun upon the calmest sea
+    Appears not half so bright as _Thee_.”
+
+                                   Prior.
+
+    “Then finish dear Chloe this Pastoral war,
+      And let us like Horace and Lydia agree:
+    For thou art a Girl as much brighter than _her_,
+      As he was a Poet sublimer than _me_.”
+
+                                              Prior.
+
+In these passages it ought to be, _I_, _We_, _He_, _They_, _Thou_, _She_,
+reflectively. Perhaps the following example may admit of a doubt, whether
+it be properly expressed or not:
+
+“The Lover got a woman of greater fortune than _her_ he had miss’d.”
+Addison, Guardian Nᵒ 9. Let us try it by the Rule given above; and see,
+whether some correction will not be necessary, when the parts of the
+Sentence, which are understood, come to be supplied: “The lover got a
+woman of a greater fortune, than _She_ [_was_, _whom_] he had miss’d.”
+
+    “Nor hope to be myself less miserable
+    By what I seek, but others to make such
+    As _I_.”
+
+                      Milton, P. L. ix. 126.
+
+“The Syntax, says Dr. Bentley, requires, make such as _me_.” On the
+contrary, the Syntax necessarily requires, “make such as _I_:” for it is
+not, “I hope to make others such, as to make _me_:” the Pronoun is not
+governed by the Verb _make_, but is the Nominative Case to the Verb _am_
+understood: “to make others such as _I am_.”
+
+[76] “But it is reason, the memory of their virtues remaine to their
+posterity.” Bacon, Essay xiv. In this, and many the like Phrases, the
+Conjunction were much better inserted: “_that_ the memory, &c.”
+
+[77] _Never so_⸺This Phrase, says Mr. Johnson, is justly accused of
+Solecism. It should be, _ever_ so wisely; that is, _how_ wisely _soever_.
+
+[78] I have been the more particular in noting the proper uses of these
+Conjunctions, because they occur very frequently, and, as it was observed
+before of Connective words in general, are of great importance with
+respect to the clearness and beauty of style. I may add too, because
+mistakes in the use of them are very common; as it will appear by the
+following Examples.
+
+_Neither_ is sometimes supposed to be included in its correspondent _nor_:
+
+    “Simois, _nor_ Xanthus shall be wanting there.”
+
+                                           Dryden.
+
+⸺ “That all the application he could make, _nor_ the King’s own
+interposition, could prevail with Her Majesty.” Clarendon, Hist. Vol.
+III. p. 179. Sometimes to be supplied by a subsequent Negative: “His rule
+holdeth still, that nature, _nor_ the engagement of words, are _not_ so
+forcible as custom.” Bacon, Essay xxxix. “The King _nor_ the Queen were
+_not_ at all deceived.” Clarendon, Hist. Vol. II. p. 363. These forms of
+expression seem both of them equally improper.
+
+_So_ ⸺, _as_, was used by the Writers of the last Century, to express a
+Consequence, instead of _So_ ⸺, _that_: Examples; “The relations are _so_
+uncertain, _as_ [that] they require a great deal of examination.” Bacon,
+Nat. Hist. “_So as_ [that] it is a hard calumny to affirm, ⸺.” Temple.
+“This computation being _so_ easy and trivial, _as_ [that] it is a shame
+to mention it.” Swift, Conduct of the Allies. “That the Spaniards were
+_so_ violently affected to the House of Austria, _as_ [that] the whole
+kingdom would revolt.” Ibid. Swift, I believe, is the last of our good
+Writers, who has frequently used this manner of expression: it seems
+improper, and is deservedly grown obsolete.
+
+_As_ instead of _that_, in another manner: “If a man have that
+penetration of judgement, _as_ [that] he can discern what things are to
+be laid open.” Bacon, Essay vi. “It is the nature of extreme self-lovers,
+_as_ [that] they will set an house on fire, _and_ it were but to
+roast their eggs.” Id. Essay xxiii. “They would have given him such
+satisfaction in other particulars, _as_ [that] a full and happy peace
+must have ensued.” Clarendon, Vol. III. p. 214. “We should sufficiently
+weigh the objects of our hope; whether they be such, _as_ [that] we may
+reasonably expect from them what they propose in their fruition; and
+whether they are such, as we are pretty sure of attaining.” Addison,
+Spect. Nᵒ 535. “France was then disposed to conclude a peace upon such
+conditions, _as_ [that] it was not worth the life of a granadier to
+refuse them.” Swift, Four last years of the Queen, B. ii.
+
+_As_ instead of the Relative _that_, or _which_: “The Duke had not
+behaved with that loyalty, _as_ [which] he ought to have done.”
+Clarendon, Hist. Vol. II. p. 460. “⸺ With those thoughts _as_ [which]
+might contribute to their honour.” Ibid. p. 565. “In the order, _as_ they
+lie in his Preface.” Middleton, Works Vol. III p. 8. It ought to be,
+either, “_in order_, as they lie;” or, “in the order, _in which_ they
+lie.” “Securing to yourselves a succession of able and worthy men, _as_
+[which] may adorn this place.” Atterbury, Sermons, Vol. IV. 12.
+
+The Relative _that_ instead of _as_: “Such sharp replies, _that_ [as]
+cost him his life in few months after.” Clarendon, Hist. Vol. III. p. 179.
+
+The Relative _who_ ⸺, instead of _as_: “There was no man _so_ sanguine,
+_who did not apprehend_ some ill consequence from the late change.”
+Swift, Examiner Nᵒ 24. It ought to be, either, “_so_ sanguine, _as not to
+apprehend_, ⸺” or, “There was no man, _how_ sanguine _soever_, _who_ did
+not apprehend.”
+
+_As_ improperly omitted: “They are _so_ bold [as] to pronounce ⸺.” Swift,
+Tale of a Tub, Sect. vii.
+
+_Too_ ⸺, _that_, improperly used as Correspondent Conjunctions: “Whose
+Characters are _too_ profligate, _that_ the managing of them should be of
+any consequence.” Swift, Examiner Nᵒ 24. And, _too_ ⸺, _than_: “You that
+are a step higher than a Philosopher, a Divine; yet have _too_ much grace
+and wit _than_ to be a Bishop.” Pope to Swift, Letter 80. _So_ ⸺, _but_:
+“If the appointing and apportioning of penalties to crimes be not _so_
+properly a consideration of justice, _but rather_ [as] of prudence in the
+Lawgiver.” Tillotson, Vol. I. Serm. 35. And to conclude with an example,
+in which, whatever may be thought of the accuracy of the expression, the
+justness of the observation will be acknowledged; which may serve also as
+an apology for this and many of the preceding Notes: “No errors are _so_
+trivial, _but_ they deserve to be mended.” Pope to Steele, Letter 6.
+
+[79] “Ah me!” seems to be a phrase of the same nature with “Wo is me!”;
+for the resolution of which see above p. 132. Note.
+
+
+
+
+ERRATA.
+
+
+P. 59. l. 11. _read_: _Have_, through its several Modes and Times, is
+placed only before the Perfect Participle; and _be_, in like manner,
+before the Present and Passive Participles: the rest⸺
+
+P. 88. l. 1. _r._ _drank_. l. 2. _r._ _drunk_.
+
+
+Transcriber’s Note
+
+The above errata have been corrected. The original text for the first
+erratum read “_Have_ and _be_ through their several Modes and Times are
+placed only before the Perfect and Passive Participles respectively; the
+rest⸺”, and for the second, the two words were transposed. In addition,
+the following changes were made to the text to correct apparent printing
+errors:
+
+  Page 41, “is” changed to “it” (When it is expressed)
+  Page 47, “it” changed to “is” (when it is expressed)
+  Page 158, “Sembrief” changed to “Semibrief” (the Semibrief, the Minim,
+    the Crotchet)
+  Page 176, “Partiple” changed to “Participle” (the Present Participle of
+    the Verb Active)
+  Footnote 20, “Times” changed to “Time” (constitutes the Perfect Time)
+
+Errors in punctuation have been corrected without note.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK A SHORT INTRODUCTION TO ENGLISH GRAMMAR: WITH CRITICAL NOTES ***
