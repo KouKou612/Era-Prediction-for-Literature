@@ -1,5 +1,6 @@
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
+from sklearn.dummy import DummyClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import LinearSVC
 from sklearn.linear_model import LogisticRegression
@@ -16,6 +17,14 @@ from config import (
     TFIDF_CONFIG,
     TRAIN_CONFIG,
 )
+
+
+def build_tfidf_majority():
+    """Majority-class baseline: always predicts the most frequent training label."""
+    return Pipeline([
+        ("tfidf", TfidfVectorizer(**TFIDF_CONFIG)),
+        ("clf", DummyClassifier(strategy="most_frequent", random_state=RANDOM_STATE)),
+    ])
 
 
 def build_tfidf_logreg():
@@ -77,6 +86,7 @@ def run_models_for_task(df, label_col: str) -> dict:
     results = {}
 
     models = [
+        ("TF-IDF + Majority (baseline)", build_tfidf_majority()),
         ("TF-IDF + LogisticRegression", build_tfidf_logreg()),
         ("TF-IDF + LinearSVC", build_tfidf_svm()),
     ]

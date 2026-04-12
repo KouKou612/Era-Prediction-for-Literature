@@ -1,0 +1,272 @@
+Logging to: /Users/henryzhao/NLP/Era-Prediction-for-Literature/src/train_tfidf_compare_20260412_184546.txt
+Loading ERA dataset...
+
+Running ERA models...
+
+
+=== TF-IDF + Majority (baseline) | ERA ===
+Train size: 199
+Test size: 50
+
+Label: era
+Accuracy: 0.2000
+
+               precision    recall  f1-score   support
+
+Age of Reason       0.20      1.00      0.33        10
+    Modernist       0.00      0.00      0.00        10
+   Postmodern       0.00      0.00      0.00        10
+     Romantic       0.00      0.00      0.00        10
+    Victorian       0.00      0.00      0.00        10
+
+     accuracy                           0.20        50
+    macro avg       0.04      0.20      0.07        50
+ weighted avg       0.04      0.20      0.07        50
+
+
+Metrics dictionary:
+{'accuracy': 0.2, 'macro_f1': 0.06666666666666667, 'weighted_f1': 0.06666666666666667}
+
+------------------------------------------------------------
+
+
+=== TF-IDF + LogisticRegression | ERA ===
+Train size: 199
+Test size: 50
+
+Label: era
+Accuracy: 0.5400
+
+               precision    recall  f1-score   support
+
+Age of Reason       0.77      1.00      0.87        10
+    Modernist       0.38      0.60      0.46        10
+   Postmodern       0.50      0.50      0.50        10
+     Romantic       0.75      0.30      0.43        10
+    Victorian       0.43      0.30      0.35        10
+
+     accuracy                           0.54        50
+    macro avg       0.56      0.54      0.52        50
+ weighted avg       0.56      0.54      0.52        50
+
+
+Metrics dictionary:
+{'accuracy': 0.54, 'macro_f1': 0.5225232567943565, 'weighted_f1': 0.5225232567943565}
+
+------------------------------------------------------------
+
+
+=== TF-IDF + LinearSVC | ERA ===
+Train size: 199
+Test size: 50
+
+Label: era
+Accuracy: 0.5600
+
+               precision    recall  f1-score   support
+
+Age of Reason       0.71      1.00      0.83        10
+    Modernist       0.38      0.60      0.46        10
+   Postmodern       0.60      0.60      0.60        10
+     Romantic       0.80      0.40      0.53        10
+    Victorian       0.40      0.20      0.27        10
+
+     accuracy                           0.56        50
+    macro avg       0.58      0.56      0.54        50
+ weighted avg       0.58      0.56      0.54        50
+
+
+Metrics dictionary:
+{'accuracy': 0.56, 'macro_f1': 0.538974358974359, 'weighted_f1': 0.538974358974359}
+
+------------------------------------------------------------
+
+
+================================================================================
+
+Loading DECADE dataset...
+
+Running DECADE models...
+
+
+=== TF-IDF + Majority (baseline) | DECADE ===
+Train size: 424
+Test size: 107
+
+Label: decade
+Accuracy: 0.0374
+
+              precision    recall  f1-score   support
+
+       1700s       0.00      0.00      0.00         3
+       1710s       0.00      0.00      0.00         3
+       1720s       0.00      0.00      0.00         3
+       1730s       0.00      0.00      0.00         2
+       1740s       0.04      1.00      0.07         4
+       1750s       0.00      0.00      0.00         4
+       1760s       0.00      0.00      0.00         4
+       1770s       0.00      0.00      0.00         4
+       1780s       0.00      0.00      0.00         4
+       1790s       0.00      0.00      0.00         4
+       1800s       0.00      0.00      0.00         4
+       1810s       0.00      0.00      0.00         4
+       1820s       0.00      0.00      0.00         4
+       1830s       0.00      0.00      0.00         4
+       1840s       0.00      0.00      0.00         4
+       1850s       0.00      0.00      0.00         4
+       1860s       0.00      0.00      0.00         4
+       1870s       0.00      0.00      0.00         4
+       1880s       0.00      0.00      0.00         4
+       1890s       0.00      0.00      0.00         4
+       1900s       0.00      0.00      0.00         4
+       1910s       0.00      0.00      0.00         4
+       1920s       0.00      0.00      0.00         4
+       1930s       0.00      0.00      0.00         4
+       1940s       0.00      0.00      0.00         4
+       1950s       0.00      0.00      0.00         4
+       1960s       0.00      0.00      0.00         4
+       1970s       0.00      0.00      0.00         4
+
+    accuracy                           0.04       107
+   macro avg       0.00      0.04      0.00       107
+weighted avg       0.00      0.04      0.00       107
+
+
+Decade distance evaluation:
+Average decade error: 105.89 years
+Median decade error: 100.00 years
+Within 10 years: 0.0935
+Within 20 years: 0.1589
+Within 30 years: 0.2243
+
+Metrics dictionary:
+{'accuracy': 0.037383177570093455, 'macro_f1': 0.002574002574002574, 'weighted_f1': 0.0026942830681148436, 'avg_decade_error': 105.88785046728972, 'median_decade_error': 100.0, 'within_10_years': 0.09345794392523364, 'within_20_years': 0.1588785046728972, 'within_30_years': 0.22429906542056074}
+
+------------------------------------------------------------
+
+
+=== TF-IDF + LogisticRegression | DECADE ===
+Train size: 424
+Test size: 107
+
+Label: decade
+Accuracy: 0.1308
+
+              precision    recall  f1-score   support
+
+       1700s       0.00      0.00      0.00         3
+       1710s       0.00      0.00      0.00         3
+       1720s       0.25      0.33      0.29         3
+       1730s       0.00      0.00      0.00         2
+       1740s       0.00      0.00      0.00         4
+       1750s       0.00      0.00      0.00         4
+       1760s       0.14      0.25      0.18         4
+       1770s       0.00      0.00      0.00         4
+       1780s       0.50      0.25      0.33         4
+       1790s       0.00      0.00      0.00         4
+       1800s       0.00      0.00      0.00         4
+       1810s       0.14      0.25      0.18         4
+       1820s       0.20      0.25      0.22         4
+       1830s       0.00      0.00      0.00         4
+       1840s       0.00      0.00      0.00         4
+       1850s       0.00      0.00      0.00         4
+       1860s       0.11      0.25      0.15         4
+       1870s       0.00      0.00      0.00         4
+       1880s       0.25      0.25      0.25         4
+       1890s       0.00      0.00      0.00         4
+       1900s       0.00      0.00      0.00         4
+       1910s       0.25      0.25      0.25         4
+       1920s       0.33      0.50      0.40         4
+       1930s       0.11      0.25      0.15         4
+       1940s       0.00      0.00      0.00         4
+       1950s       0.50      0.50      0.50         4
+       1960s       0.00      0.00      0.00         4
+       1970s       0.17      0.25      0.20         4
+
+    accuracy                           0.13       107
+   macro avg       0.11      0.13      0.11       107
+weighted avg       0.11      0.13      0.11       107
+
+
+Decade distance evaluation:
+Average decade error: 51.59 years
+Median decade error: 30.00 years
+Within 10 years: 0.3178
+Within 20 years: 0.4393
+Within 30 years: 0.5701
+
+Metrics dictionary:
+{'accuracy': 0.1308411214953271, 'macro_f1': 0.11116423259280403, 'weighted_f1': 0.11368859593158659, 'avg_decade_error': 51.58878504672897, 'median_decade_error': 30.0, 'within_10_years': 0.3177570093457944, 'within_20_years': 0.4392523364485981, 'within_30_years': 0.5700934579439252}
+
+------------------------------------------------------------
+
+
+=== TF-IDF + LinearSVC | DECADE ===
+Train size: 424
+Test size: 107
+
+Label: decade
+Accuracy: 0.1215
+
+              precision    recall  f1-score   support
+
+       1700s       0.00      0.00      0.00         3
+       1710s       0.00      0.00      0.00         3
+       1720s       0.33      0.33      0.33         3
+       1730s       0.00      0.00      0.00         2
+       1740s       0.00      0.00      0.00         4
+       1750s       0.00      0.00      0.00         4
+       1760s       0.00      0.00      0.00         4
+       1770s       0.00      0.00      0.00         4
+       1780s       0.33      0.25      0.29         4
+       1790s       0.00      0.00      0.00         4
+       1800s       0.00      0.00      0.00         4
+       1810s       0.17      0.25      0.20         4
+       1820s       0.17      0.25      0.20         4
+       1830s       0.00      0.00      0.00         4
+       1840s       0.00      0.00      0.00         4
+       1850s       0.00      0.00      0.00         4
+       1860s       0.14      0.25      0.18         4
+       1870s       0.00      0.00      0.00         4
+       1880s       0.00      0.00      0.00         4
+       1890s       0.00      0.00      0.00         4
+       1900s       0.14      0.25      0.18         4
+       1910s       0.17      0.25      0.20         4
+       1920s       0.29      0.50      0.36         4
+       1930s       0.25      0.25      0.25         4
+       1940s       0.00      0.00      0.00         4
+       1950s       0.33      0.50      0.40         4
+       1960s       0.00      0.00      0.00         4
+       1970s       0.20      0.25      0.22         4
+
+    accuracy                           0.12       107
+   macro avg       0.09      0.12      0.10       107
+weighted avg       0.09      0.12      0.10       107
+
+
+Decade distance evaluation:
+Average decade error: 48.41 years
+Median decade error: 30.00 years
+Within 10 years: 0.3271
+Within 20 years: 0.4486
+Within 30 years: 0.5794
+
+Metrics dictionary:
+{'accuracy': 0.12149532710280374, 'macro_f1': 0.10066223459080602, 'weighted_f1': 0.10225081253118636, 'avg_decade_error': 48.41121495327103, 'median_decade_error': 30.0, 'within_10_years': 0.32710280373831774, 'within_20_years': 0.4485981308411215, 'within_30_years': 0.5794392523364486}
+
+------------------------------------------------------------
+
+
+================================================================================
+FINAL SUMMARY
+================================================================================
+
+ERA RESULTS:
+TF-IDF + Majority (baseline): {'accuracy': 0.2, 'macro_f1': 0.06666666666666667, 'weighted_f1': 0.06666666666666667}
+TF-IDF + LogisticRegression: {'accuracy': 0.54, 'macro_f1': 0.5225232567943565, 'weighted_f1': 0.5225232567943565}
+TF-IDF + LinearSVC: {'accuracy': 0.56, 'macro_f1': 0.538974358974359, 'weighted_f1': 0.538974358974359}
+
+DECADE RESULTS:
+TF-IDF + Majority (baseline): {'accuracy': 0.037383177570093455, 'macro_f1': 0.002574002574002574, 'weighted_f1': 0.0026942830681148436, 'avg_decade_error': 105.88785046728972, 'median_decade_error': 100.0, 'within_10_years': 0.09345794392523364, 'within_20_years': 0.1588785046728972, 'within_30_years': 0.22429906542056074}
+TF-IDF + LogisticRegression: {'accuracy': 0.1308411214953271, 'macro_f1': 0.11116423259280403, 'weighted_f1': 0.11368859593158659, 'avg_decade_error': 51.58878504672897, 'median_decade_error': 30.0, 'within_10_years': 0.3177570093457944, 'within_20_years': 0.4392523364485981, 'within_30_years': 0.5700934579439252}
+TF-IDF + LinearSVC: {'accuracy': 0.12149532710280374, 'macro_f1': 0.10066223459080602, 'weighted_f1': 0.10225081253118636, 'avg_decade_error': 48.41121495327103, 'median_decade_error': 30.0, 'within_10_years': 0.32710280373831774, 'within_20_years': 0.4485981308411215, 'within_30_years': 0.5794392523364486}
