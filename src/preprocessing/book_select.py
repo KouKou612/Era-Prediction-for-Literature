@@ -1,11 +1,10 @@
 from pathlib import Path
-from typing import cast
 
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parent.parent
+# Repo root: .../src/preprocessing/this_file.py -> parents[2]
+ROOT = Path(__file__).resolve().parent.parent.parent
 INPUT = ROOT / "Dataset" / "gutenberg_publication_years.csv"
-OUTPUT = ROOT / "Dataset" / "selected_books.csv"
 
 
 N_PER_ERA = 100

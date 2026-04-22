@@ -2,18 +2,16 @@ from pathlib import Path
 import time
 import requests
 import pandas as pd
-import config
 
 
 """
 Download the full text of the selected books from Project Gutenberg using the gutenberg_id.
-The books are in the era_sample.csv and decade_sample.csv files, which were created by book_select.py.
+The books are listed in sample_by_era.csv and sample_by_decade.csv (from preprocessing/book_select.py).
 Skipping books that have already been downloaded to avoid redundant work.
 """
 
 
-
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent.parent.parent
 DATASET_DIR = ROOT / "Dataset"
 
 ERA_CSV = DATASET_DIR / "sample_by_era.csv"

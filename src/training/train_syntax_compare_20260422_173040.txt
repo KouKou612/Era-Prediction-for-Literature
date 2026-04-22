@@ -1,0 +1,188 @@
+Logging to: /Users/rayli/Desktop/NLP Lab/final_project/Era-Prediction-for-Literature/src/training/train_syntax_compare_20260422_173040.txt
+Loading ERA dataset (random contiguous 10000 chars per book, seed=42)...
+
+Running ERA models...
+
+
+=== POS / syntactic + LogisticRegression | ERA ===
+Train size: 400
+Test size: 100
+
+Label: era
+Accuracy: 0.3800
+
+               precision    recall  f1-score   support
+
+Age of Reason       0.39      0.45      0.42        20
+    Modernist       0.36      0.20      0.26        20
+   Postmodern       0.38      0.85      0.52        20
+     Romantic       0.44      0.35      0.39        20
+    Victorian       0.20      0.05      0.08        20
+
+     accuracy                           0.38       100
+    macro avg       0.35      0.38      0.33       100
+ weighted avg       0.35      0.38      0.33       100
+
+
+Metrics dictionary:
+{'accuracy': 0.38, 'macro_f1': 0.333726995851527, 'weighted_f1': 0.33372699585152704}
+
+------------------------------------------------------------
+
+
+=== POS / syntactic + LinearSVC | ERA ===
+Train size: 400
+Test size: 100
+
+Label: era
+Accuracy: 0.3500
+
+               precision    recall  f1-score   support
+
+Age of Reason       0.32      0.55      0.41        20
+    Modernist       0.38      0.15      0.21        20
+   Postmodern       0.35      0.85      0.49        20
+     Romantic       0.43      0.15      0.22        20
+    Victorian       0.50      0.05      0.09        20
+
+     accuracy                           0.35       100
+    macro avg       0.39      0.35      0.29       100
+ weighted avg       0.39      0.35      0.29       100
+
+
+Metrics dictionary:
+{'accuracy': 0.35, 'macro_f1': 0.28551561160256805, 'weighted_f1': 0.28551561160256816}
+
+------------------------------------------------------------
+
+
+================================================================================
+
+Loading DECADE dataset (random contiguous 10000 chars per book, seed=42)...
+
+Running DECADE models...
+
+
+=== POS / syntactic + LogisticRegression | DECADE ===
+Train size: 424
+Test size: 106
+
+Label: decade
+Accuracy: 0.1038
+
+              precision    recall  f1-score   support
+
+       1700s       0.00      0.00      0.00         2
+       1710s       0.00      0.00      0.00         3
+       1720s       0.25      0.33      0.29         3
+       1730s       0.12      0.50      0.20         2
+       1740s       0.00      0.00      0.00         4
+       1750s       0.00      0.00      0.00         4
+       1760s       0.00      0.00      0.00         4
+       1770s       0.00      0.00      0.00         4
+       1780s       0.00      0.00      0.00         4
+       1790s       0.00      0.00      0.00         4
+       1800s       0.00      0.00      0.00         4
+       1810s       0.00      0.00      0.00         4
+       1820s       0.00      0.00      0.00         4
+       1830s       0.09      0.25      0.13         4
+       1840s       0.00      0.00      0.00         4
+       1850s       0.00      0.00      0.00         4
+       1860s       0.00      0.00      0.00         4
+       1870s       0.25      0.25      0.25         4
+       1880s       0.25      0.25      0.25         4
+       1890s       0.00      0.00      0.00         4
+       1900s       0.00      0.00      0.00         4
+       1910s       0.12      0.50      0.19         4
+       1920s       0.00      0.00      0.00         4
+       1930s       0.00      0.00      0.00         4
+       1940s       0.33      0.25      0.29         4
+       1950s       0.11      0.50      0.17         4
+       1960s       0.25      0.25      0.25         4
+       1970s       0.00      0.00      0.00         4
+
+    accuracy                           0.10       106
+   macro avg       0.06      0.11      0.07       106
+weighted avg       0.06      0.10      0.07       106
+
+
+Decade distance evaluation:
+Average decade error: 81.32 years
+Median decade error: 65.00 years
+Within 10 years: 0.1887
+Within 20 years: 0.2358
+Within 30 years: 0.3208
+
+Metrics dictionary:
+{'accuracy': 0.10377358490566038, 'macro_f1': 0.07211254066844129, 'weighted_f1': 0.06972537989765223, 'avg_decade_error': 81.32075471698113, 'median_decade_error': 65.0, 'within_10_years': 0.18867924528301888, 'within_20_years': 0.2358490566037736, 'within_30_years': 0.32075471698113206}
+
+------------------------------------------------------------
+
+
+=== POS / syntactic + LinearSVC | DECADE ===
+Train size: 424
+Test size: 106
+
+Label: decade
+Accuracy: 0.0472
+
+              precision    recall  f1-score   support
+
+       1700s       0.00      0.00      0.00         2
+       1710s       0.00      0.00      0.00         3
+       1720s       0.00      0.00      0.00         3
+       1730s       0.00      0.00      0.00         2
+       1740s       0.00      0.00      0.00         4
+       1750s       0.00      0.00      0.00         4
+       1760s       0.00      0.00      0.00         4
+       1770s       0.00      0.00      0.00         4
+       1780s       0.00      0.00      0.00         4
+       1790s       0.00      0.00      0.00         4
+       1800s       0.00      0.00      0.00         4
+       1810s       0.00      0.00      0.00         4
+       1820s       0.00      0.00      0.00         4
+       1830s       0.00      0.00      0.00         4
+       1840s       0.00      0.00      0.00         4
+       1850s       0.00      0.00      0.00         4
+       1860s       0.00      0.00      0.00         4
+       1870s       0.00      0.00      0.00         4
+       1880s       0.00      0.00      0.00         4
+       1890s       0.00      0.00      0.00         4
+       1900s       0.00      0.00      0.00         4
+       1910s       0.11      0.75      0.19         4
+       1920s       0.00      0.00      0.00         4
+       1930s       0.00      0.00      0.00         4
+       1940s       0.00      0.00      0.00         4
+       1950s       0.09      0.50      0.15         4
+       1960s       0.00      0.00      0.00         4
+       1970s       0.00      0.00      0.00         4
+
+    accuracy                           0.05       106
+   macro avg       0.01      0.04      0.01       106
+weighted avg       0.01      0.05      0.01       106
+
+
+Decade distance evaluation:
+Average decade error: 87.55 years
+Median decade error: 70.00 years
+Within 10 years: 0.1698
+Within 20 years: 0.2453
+Within 30 years: 0.3019
+
+Metrics dictionary:
+{'accuracy': 0.04716981132075472, 'macro_f1': 0.012203447687318654, 'weighted_f1': 0.01289420887716688, 'avg_decade_error': 87.54716981132076, 'median_decade_error': 70.0, 'within_10_years': 0.16981132075471697, 'within_20_years': 0.24528301886792453, 'within_30_years': 0.3018867924528302}
+
+------------------------------------------------------------
+
+
+================================================================================
+FINAL SUMMARY
+================================================================================
+
+ERA RESULTS:
+POS / syntactic + LogisticRegression: {'accuracy': 0.38, 'macro_f1': 0.333726995851527, 'weighted_f1': 0.33372699585152704}
+POS / syntactic + LinearSVC: {'accuracy': 0.35, 'macro_f1': 0.28551561160256805, 'weighted_f1': 0.28551561160256816}
+
+DECADE RESULTS:
+POS / syntactic + LogisticRegression: {'accuracy': 0.10377358490566038, 'macro_f1': 0.07211254066844129, 'weighted_f1': 0.06972537989765223, 'avg_decade_error': 81.32075471698113, 'median_decade_error': 65.0, 'within_10_years': 0.18867924528301888, 'within_20_years': 0.2358490566037736, 'within_30_years': 0.32075471698113206}
+POS / syntactic + LinearSVC: {'accuracy': 0.04716981132075472, 'macro_f1': 0.012203447687318654, 'weighted_f1': 0.01289420887716688, 'avg_decade_error': 87.54716981132076, 'median_decade_error': 70.0, 'within_10_years': 0.16981132075471697, 'within_20_years': 0.24528301886792453, 'within_30_years': 0.3018867924528302}

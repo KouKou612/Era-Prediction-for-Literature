@@ -27,5 +27,28 @@ TFIDF_CONFIG = {
 # Training config
 TRAIN_CONFIG = {
     "test_size": 0.2,
-    "max_words": 10000,
+    # If set, every train_* script loads full book text then takes one random contiguous
+    # substring of this many characters per book (same for TF-IDF / n-gram / syntax).
+    # Set to None to use max_words prefix-instead (legacy).
+    "random_chunk_chars": 10_000,
+    "chunk_random_state": 42,
+    "max_words": 10_000,
+}
+
+# spaCy syntactic features (see training/syntactic_features.py)
+SYNTACTIC_CONFIG = {
+    "spacy_model": "en_core_web_sm",
+    "batch_size": 32,
+    "max_chars": 120_000,
+}
+
+# Word n-gram counts (separate channel from TF-IDF; no idf weighting).
+# Tune here when you swap in a different n-gram strategy later.
+NGRAM_COUNT_CONFIG = {
+    "lowercase": True,
+    "stop_words": "english",
+    "ngram_range": (1, 3),
+    "max_features": 20000,
+    "min_df": 2,
+    "binary": False,
 }
