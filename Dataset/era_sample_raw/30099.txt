@@ -1,0 +1,1879 @@
+﻿The Project Gutenberg eBook of Hypochondriasis: A Practical Treatise (1766)
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Hypochondriasis: A Practical Treatise (1766)
+
+Author: John Hill
+
+
+        
+Release date: September 27, 2009 [eBook #30099]
+                Most recently updated: October 24, 2024
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/30099
+
+Credits: E-text prepared by Tor Martin Kristiansen, Joseph Cooper, Stephanie Eason,
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK HYPOCHONDRIASIS: A PRACTICAL TREATISE (1766) ***
+
+The Augustan Reprint Society
+
+JOHN HILL
+
+HYPOCHONDRIASIS
+
+A Practical Treatise.
+
+(1766)
+
+Introduction by
+
+G. S. ROUSSEAU
+
+
+
+
+
+
+
+Publication Number 135
+William Andrews Clark Memorial Library
+University Of California, Los Angeles
+1969
+
+
+
+
+GENERAL EDITORS
+
+  William E. Conway, _William Andrews Clark Memorial Library_
+  George Robert Guffey, _University of California, Los Angeles_
+  Maximillian E. Novak, _University of California, Los Angeles_
+
+
+ASSOCIATE EDITOR
+
+  David S. Rodes, _University of California, Los Angeles_
+
+
+ADVISORY EDITORS
+
+  Richard C. Boys, _University of Michigan_
+  James L. Clifford, _Columbia University_
+  Ralph Cohen, _University of Virginia_
+  Vinton A. Dearing, _University of California, Los Angeles_
+  Arthur Friedman, _University of Chicago_
+  Louis A. Landa, _Princeton University_
+  Earl Miner, _University of California, Los Angeles_
+  Samuel H. Monk, _University of Minnesota_
+  Everett T. Moore, _University of California, Los Angeles_
+  Lawrence Clark Powell, _William Andrews Clark Memorial Library_
+  James Sutherland, _University College, London_
+  H. T. Swedenberg, Jr., _University of California, Los Angeles_
+  Robert Vosper, _William Andrews Clark Memorial Library_
+
+
+CORRESPONDING SECRETARY
+
+  Edna C. Davis, _William Andrews Clark Memorial Library_
+
+
+EDITORIAL ASSISTANT
+
+  Mary Kerbret, _William Andrews Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+     "When I first dabbled in this art, the old distemper call'd
+     _Melancholy_ was exchang'd for _Vapours_, and afterwards for the
+     _Hypp_, and at last took up the now current appellation of the
+     _Spleen_, which it still retains, tho' a learned doctor of the
+     west, in a little tract he hath written, divides the _Spleen_ and
+     _Vapours_, not only into the _Hypp_, the _Hyppos_, and the
+     Hyppocons; but subdivides these divisions into the _Markambles_,
+     the _Moonpalls_, the _Strong-Fiacs_, and the _Hockogrokles_."
+
+
+     Nicholas Robinson, _A New System of the Spleen, Vapours, and
+     Hypochondriack Melancholy_ (London, 1729)
+
+
+Treatises on hypochondriasis--the seventeenth-century medical term for a
+wide range of nervous diseases--were old when "Sir" John Hill, the
+eccentric English scientist, physician, apothecary, and hack writer,
+published his _Hypochondriasis_ in 1766.[1] For at least a century and a
+half medical writers as well as lay authors had been writing literature
+of all types (treatises, pamphlets, poems, sermons, epigrams) on this
+most fashionable of English maladies under the variant names of
+"melancholy," "the spleen," "black melancholy," "hysteria," "nervous
+debility," "the hyp." Despite the plethora of _materia scripta_ on the
+subject it makes sense to reprint Hill's _Hypochondriasis_, because it
+is indeed a "practical treatise" and because it offers the modern
+student of neoclassical literature a clear summary of the best thoughts
+that had been put forth on the subject, as well as an explanation of the
+causes, symptoms, and cures of this commonplace malady.
+
+No reader of seventeenth- and eighteenth-century English literature
+needs to be reminded of the interest of writers of the period in the
+condition--"disease" is too confining a term--hypochondriasis.[2] Their
+concern is apparent in both the poetry and prose of two centuries. From
+Robert Burton's Brobdingnagian exposition in _The Anatomy of Melancholy_
+(1621) to Tobias Smollett's depiction of the misanthropic and ailing
+Matthew Bramble in _Humphry Clinker_ (1771), and, of course, well into
+the nineteenth century, afflicted heroes and weeping heroines populate
+the pages of England's literature. There is scarcely a decade in the
+period 1600-1800 that does not contribute to the literature of
+melancholy; so considerable in number are the works that could be placed
+under this heading that it actually makes sense to speak of the
+"literature of melancholy." A kaleidoscopic survey of this literature
+(exclusive of treatises written on the subject) would include mention of
+Milton's "Il Penseroso" and "L'Allegro," the meditative Puritan and
+nervous Anglican thinkers of the Restoration (many of whose narrators,
+such as Richard Baxter, author of the _Reliquiae Baxterianae_,[3] are
+afflicted), Swift's "School of Spleen" in _A Tale of a Tub_, Pope's
+hysterical Belinda in the "Cave of Spleen," the melancholic "I" of
+Samuel Richardson's correspondence, Gray's leucocholy, the
+psychosomatically ailing characters of _The Vicar of Wakefield_ and
+_Tristram Shandy_, Boswell's _Hypochondriack Papers_ (1777-1783)
+contributed to the _London Magazine_, and such "sensible" and
+"sensitive" women as Mrs. Bennett and Miss Bates in the novels of Jane
+Austen. So great in bulk is this literature in the mid eighteenth
+century, that C. A. Moore has written, "statistically, this deserves to
+be called the Age of Melancholy."[4] The vastness of this literature is
+sufficient to justify the reprinting of an unavailable practical
+handbook on the subject by a prolific author all too little known.[5]
+
+The medical background of Hill's pamphlet extends further back than the
+seventeenth century and Burton's _Anatomy_. The ancient Greeks had
+theorized about hypochondria: hypochondriasis signified a disorder
+beneath (hypo) the gristle (chondria) and the disease was discussed
+principally in physiological terms. The belief that hypochondriasis was
+a somatic condition persisted until the second half of the seventeenth
+century at which time an innovation was made by Dr. Thomas Sydenham. In
+addition to showing that hypochondriasis and hysteria (thought previously
+by Sydenham to afflict women only) were the same disease, Sydenham noted
+that the external cause of both was a mental disturbance and not a
+physiological one. He also had a theory that the internal and immediate
+cause was a disorder of the animal spirits arising from a clot and
+resulting in pain, spasms, and bodily disorders. By attributing the
+onset of the malady to mental phenomena and not to obstructions of the
+spleen or viscera, Sydenham was moving towards a psychosomatic theory of
+hypochondriasis, one that was to be debated in the next century in
+England, Holland, and France.[6] Sydenham's influence on the physicians
+of the eighteenth century was profound: Cheyne in England, Boerhaave in
+Holland, La Mettrie in France. Once the theory of the nervous origins of
+hypochondria gained ground--here I merely note coincidence, not historical
+cause and effect--the disease became increasingly fashionable in England,
+particularly among the polite, the aristocratic, and the refined. Students
+of the drama will recall Scrub's denial in _The Beaux' Stratagem_ (1707)
+of the possibility that Archer has the spleen and Mrs. Sullen's
+interjection, "I thought that distemper had been only proper to people of
+quality."
+
+Toward the middle of the eighteenth century, hypochondria was so
+prevalent in people's minds and mouths that it soon assumed the
+abbreviated name "the hyp." Entire poems like William Somervile's _The
+Hyp: a Burlesque Poem in Five Canto's_ (1731) and Tim Scrubb's _A Rod
+for the Hyp-Doctor_ (1731) were devoted to this strain; others, like
+Malcom Flemyng's epic poem, _Neuropathia: sive de morbis hypochondriacis
+et hystericis, libri tres, poema medicum_ (1740), were more technical
+and scientific. Professor Donald Davie has written that he has often
+"heard old fashioned and provincial persons [in England and Scotland]
+even in [my] own lifetime say, 'Oh, you give me the hyp,' where we
+should say 'You give me a pain in the neck'"[7]; and I myself have heard
+the expression, "You give me the pip," where "pip" may be a corruption
+of "hyp." As used in the early eighteenth century, the term "hyp" was
+perhaps not far from what our century has learned to call _Angst_. It
+was also used as a synonym for "lunacy," as the anonymous author of
+_Anti-Siris_ (1744), one of the tracts in the tar-water controversy,
+informs us that "Berkeley tells his Countrymen, they are all mad, or
+_Hypochondriac_, which is but a fashionable name for Madness." Bernard
+Mandeville, the Dutch physician and author of _The Fable of the Bees_,
+seems to have understood perfectly well that hypochondriasis is a
+condition encompassing any number of diseases and not a specific and
+readily definable ailment; a condition, moreover, that hovers
+precariously and bafflingly in limbo between mind and body, and he
+stressed this as the theme of his _Treatise of the Hypochondriack and
+Hysteric Passions, Vulgarly Call'd the Hypo in Men and Vapours in Women_
+(1711). The mental causes are noted as well in an anonymous pamphlet in
+the British Museum, _A Treatise on the Dismal Effects of
+Low-Spiritedness_ (1750) and are echoed in many similar early and
+mid-eighteenth century works. Some medical writers of the age, like
+Nicholas Robinson, had reservations about the external mental bases of
+the hyp and preferred to discuss the condition in terms of internal
+physiological causes:
+
+     ...of that Disorder we call the Vapours, or _Hypochondria_; for
+     they have no material distinctive Characters, but what arise from
+     the same Disease affecting different Sexes, and the Vapours in
+     Women are term'd the _Hypochondria_ in Men, and they proceed from
+     the Contraction of the Vessels being depress'd a little beneath the
+     Balance of Nature, and the Relaxation of the Nerves at the same
+     Time, which creates that Uneasiness and Melancholy that naturally
+     attends Vapours, and which generally is an Intemperature of the
+     whole Body, proceeding from a Depression of the Solids beneath the
+     Balance of Nature; but the Intemperature of the Parts is that
+     Peculiar Disposition whereby they favour any Disease.[8]
+
+
+But the majority of medical thinkers had been persuaded that the
+condition was psychosomatic, and this belief was supported by research
+on nerves by important physicians in the 1740's and 1750's: the Monro
+brothers in London, Robert Whytt in Edinburgh, Albrecht von Haller in
+Leipzig. By mid century the condition known as the hyp was believed to
+be a real, not an imaginary ailment, common, peculiar in its
+manifestations, and indefinable, almost impossible to cure, producing
+very real symptoms of physical illness, and said to originate sometimes
+in depression and idleness. It was summed up by Robert James in his
+_Medicinal Dictionary_ (London, 1743-45):
+
+     If we thoroughly consider its Nature, it will be found to be a
+     spasmodico-flatulent Disorder of the _Primae Viae_, that is, of the
+     Stomach and Intestines, arising from an Inversion or Perversion of
+     their peristaltic Motion, and, by the mutual consent of the Parts,
+     throwing the whole nervous System into irregular Motions, and
+     disturbing the whole Oeconomy of the Functions.... no part or
+     Function of the Body escapes the Influence of this tedious and long
+     protracted Disease, whose Symptoms are so violent and numerous,
+     that it is no easy Task either to enumerate or account for them....
+     No disease is more troublesome, either to the Patient or Physician,
+     than hypochondriac Disorders; and it often happens, that, thro' the
+     Fault of both, the Cure is either unnecessarily protracted, or
+     totally frustrated; for the Patients are so delighted, not only
+     with a Variety of Medicines, but also of Physicians.... On the
+     contrary, few physicians are sufficiently acquainted with the true
+     Genius and Nature of this perplexing Disorder; for which Reason
+     they boldly prescribe almost everything contained in the Shops, not
+     without an irreparable Injury to the Patient (article on
+     "Hypochondriacus Morbis").
+
+This is a more technical description than Hill gives anywhere in his
+handbook, but it serves well to summarize the background of the condition
+about which Sir John wrote.
+
+Hill's _Hypochondriasis_ adds little that is new to the theory of the
+disease. It incorporates much of the thinking set forth by the writings
+mentioned above, particularly those of George Cheyne, whose medical
+works _The English Malady_ (1733) and _The Natural Method of Cureing the
+Diseases of the Body, and the Disorders of the Mind Depending on the
+Body_ (1742) Hill knew. He is also conversant with some Continental
+writers on the subject, two of whom--Isaac Biberg, author of The
+_Oeconomy of Nature_ (1751), and René Réaumur who had written a history
+of insects (1722)[9]--he mentions explicitly, and with William
+Stukeley's _Of the Spleen_ (1723). Internal evidence indicates that Hill
+had read or was familiar with the ideas propounded in Richard
+Blackmore's _Treatise of the Spleen and Vapours_ (1725) and Nicholas
+Robinson's _A New System of the Spleen, Vapours, and Hypochondriack
+Melancholy_ (1729).
+
+Hill's arrangement of sections is logical: he first defines the
+condition (I), then proceeds to discuss persons most susceptible to it
+(II), its major symptoms (III), consequences (IV), causes (V), and cures
+(VI-VIII). In the first four sections almost every statement is
+commonplace and requires no commentary (for example, Hill's opening
+remark: "To call the Hypochondriasis a fanciful malady, is ignorant and
+cruel. It is a real, and a sad disease: an obstruction of the spleen by
+thickened and distempered blood; extending itself often to the liver,
+and other parts; and unhappily is in England very frequent: physick
+scarce knows one more fertile in ill; or more difficult of cure.") His
+belief that the condition afflicts sedentary persons, particularly
+students, philosophers, theologians, and that it is not restricted to
+women alone--as some contemporary thinkers still maintained--is also
+impossible to trace to a single source, as is his description (p. 12) of
+the most prevalent physiological _symptoms_ ("lowness of spirits, and
+inaptitude to motion; a disrelish of amusements, a love of solitude....
+Wild thoughts; a sense of fullness") and _causes_ (the poor and damp
+English climate and the resultant clotting of blood in the spleen) of
+the illness.
+
+Sections V-VIII, dealing with causes and cures, are less commonplace and
+display some of Hill's eccentricities as a writer and thinker. He uses
+the section entitled "Cures" as a means to peddle his newly discovered
+cure-all, water dock,[10] which Smollett satirized through the mouth of
+Tabitha Bramble in _Humphry Clinker_ (1771). Hill also rebelled against
+contemporary apothecaries and physicians who prescribed popular
+medicines--such as Berkeley's tar-water, Dover's mercury powders, and
+James's fever-powders--as universal panaceas for the cure of the hyp.
+"No acrid medicine must be directed, for that may act too hastily,
+dissolve the impacted matter at once, and let it loose, to the
+destruction of the sufferer; no antimonial, no mercurial, no martial
+preparation must be taken; in short, no chymistry: nature is the shop
+that heaven has set before us, and we must seek our medicine there"
+(p. 24). However scientifically correct Hill may have been in minimizing
+the efficacy of current pills and potions advertised as remedies for the
+hyp, he was unusual for his time in objecting so strongly to them. Less
+eccentric was his allegiance to the "Ancients" rather than to the
+"Moderns" so far as chemical treatment (i.e., restoration of the humours
+by chemical rearrangement) of hypochondriasis is concerned.[11] "The
+venerable ancients," Hill writes, "who knew not this new art, will lead
+us in the search; and (faithful relators as they are of truth) will tell
+us whence we may deduce our hope; and what we are to fear" (p. 24).
+
+Still more idiosyncratic, perhaps, is Hill's contention (p. 25) that the
+air of dry, high grounds worsens the condition of the patient. Virtually
+every writer I have read on the subject believed that onset of the hyp
+was caused by one of the six non-naturals--air, diet, lack of sufficient
+sleep, too little or too much exercise, defective evacuation, the
+passions of the mind; and although some medical writers emphasized the
+last of these,[12] few would have concurred with Hill that the fetid air
+of London was less harmful than the clearer air at Highgate. All readers
+of the novel of the period will recall the hypochondriacal Matt
+Bramble's tirade against the stench of London air. Beliefs of the
+variety here mentioned cause me to question Hill's importance in the
+history of medicine; there can be no question about his contributions to
+the advancement of the science of botany through popularization of
+Linnaeus' system of bisexual classification, but Hill's medical
+importance is summarized best as that of a compiler. His recommendation
+of the study of botany as a cure for melancholics is sensible but verges
+on becoming "a digression in praise of the author," a poetic _apologia
+pro vita sua_ in Augustan fashion:
+
+     For me, I should advise above all other things the study of nature.
+     Let him begin with plants: he will here find a continual pleasure,
+     and continual change; fertile of a thousand useful things; even of
+     the utility we are seeking here. This will induce him to walk; and
+     every hedge and hillock, every foot-path side, and thicket, will
+     afford him some new object. He will be tempted to be continually in
+     the air; and continually to change the nature and quality of the
+     air, by visiting in succession the high lands and the low, the
+     lawn, the heath, the forest. He will never want inducement to be
+     abroad; and the unceasing variety of the subjects of his
+     observation, will prevent his walking hastily: he will pursue his
+     studies in the air; and that contemplative turn of mind, which in
+     his closet threatened his destruction, will thus become the great
+     means of his recovery (pp. 26-27).
+
+Hill was forever extolling the claims of a life devoted to the study of
+nature, as we see in a late work, _The Virtues of British Herbs_ (1770).
+Judicious as is the logic of this recommendation, one cannot help but
+feel that the emphasis here is less on diversion as a cure and more on
+the botanic attractions of "every hedge and hillock, every foot-path
+side, and thicket."
+
+While Hill's rules and regulations regarding proper diet (Section VII)
+are standard, several taken almost _verbatim et literatim_ from Cheyne's
+list in _The English Malady_ (1733), his recommendation (Section VIII)
+of "Spleen-Wort" as the best medicine for the hypochondriac patient is
+not. Since Hill devotes so much space to the virtues of this herb and
+concludes his work extolling this plant, a word should be said about it.
+Throughout his life he was an active botanist. Apothecary, physician,
+and writer though he was, it was ultimately botany that was his ruling
+passion, as is made abundantly clear in his correspondence.[13] Wherever
+he lived--whether in the small house in St. James's Street or in the
+larger one on the Bayswater Road--he cultivated an herb garden that
+flattered his knowledge and ability. Connoisseurs raved about its
+species and considered it one of the showpieces of London. His arrogant
+personality alone prevented him from becoming the first Keeper of the
+Apothecary's Garden in Chelsea, although he was for a time
+superintendent to the Dowager Princess of Wales's gardens at Kensington
+Palace and at Kew. His interest in cultivation of herbs nevertheless
+continued; over the years Hill produced more than thirty botanical
+works, many of them devoted to the medical virtues of rare herbs such as
+"Spleen-Wort." Among these are _The British Herbal_ (1756), _On the
+Virtues of Sage in Lengthening Human Life_ (1763), _Centaury, the Great
+Stomachic_ (1765), _Polypody_ (1768), _A Method of Curing Jaundice_
+(1768), _Instances of the Virtue of Petasite Root_ (1771), and _Twenty
+Five New Plants_ (1773).[14] It is therefore not surprising that he
+should believe a specific herb to be the best remedy for a complicated
+medical condition. Nor is his reference to the Ancients as authority for
+the herbal pacification of an inflamed spleen surprising in the light of
+his researches: he was convinced that every illness could be cured by
+taking an appropriate herb or combination of herbs. Whereas a few
+nonmedical writers--such as John Wesley in _Primitive Physick_
+(1747)--had advocated the taking of one or two herbs in moderate dosage
+as anti-hysterics (the eighteenth-century term for all cures of the
+hyp), no medical writer of the century ever promoted the use of herbs to
+the extent that Hill did. In fairness to him, it is important to note
+that his herbal remedies were harmless and that many found their way
+into the official _London Pharmacopeia_. "The virtues of this smooth
+Spleen-wort," he insists, "have stood the test of ages; and the plant
+every where retained its name and credit: and one of our good
+herbarists, who had seen a wonderful case of a swoln spleen, so big, and
+hard as to be felt with terror, brought back to a state of nature by it"
+(p. 37).[15] The greatest portion of Hill's concluding section combines
+advertisement for the powder medicine he was himself manufacturing at a
+handsome profit together with a protest against competing apothecaries:
+"An intelligent person was directed to go to the medicinal herb shops in
+the several markets, and buy some of this Spleen-wort; the name was
+written, and shewn to every one; every shop received his money, and
+almost every one sold a different plant, under the name of this: but
+what is very striking, not one of them the right" (p. 42).
+
+Treatises on hypochondriasis did not cease to be printed after Hill's in
+1766, but continued to issue from the presses into the nineteenth
+century. A good example of this is the tome by John Reid, physician to
+the Finsbury Dispensary in London, _Essays on Insanity, Hypochondriasis
+and Other Nervous Affections_ (1816), which summarizes theories of the
+malady.[16] A bibliographical study of such works would probably reveal
+a larger number of titles in the nineteenth century than in the previous
+one, but by this time the nature and definition of hypochondria had
+changed significantly.
+
+If John Hill's volume is not an important contribution in the history of
+medicine, it is a lucid and brief exposition of many of the best ideas
+that had been thought and written on the hyp, with the exception of his
+uninhibited prescribing of herbal medicines as cure-alls. An
+understanding of this disease is essential for readers of neoclassical
+English literature, especially when we reflect upon the fact that some
+of the best literature of the period was composed by writers whom it
+afflicted. It is perhaps not without significance that the greatest poet
+of the Augustan age, Alexander Pope, thought it necessary as he lay on
+his deathbed in May 1744 to exclaim with his last breath, "I never was
+hippish in my whole life."[17]
+
+  University of California,
+  Los Angeles
+
+
+
+
+NOTES TO THE INTRODUCTION
+
+
+[1] The text here reproduced is that of the copy in the Library of the
+Royal Society of Medicine, London. Title pages of different copies of
+the first edition of 1766 vary. For example, the title page of the copy
+in the British Museum reads, _Hypochondriasis; a Practical Treatise On
+the Nature and Cure of that Disorder, Commonly called the Hyp and the
+Hypo_. The copy in the Royal Society of Medicine contains, among other
+additions, the words "by Sir John Hill" in pencil, and "8vo Lond.
+1766," written in ink and probably a later addition.
+
+[2] Melancholy, hypochondriasis, and the spleen were considered in the
+seventeenth and eighteenth centuries to be one complex condition, a
+malady rather than a malaise, which is but a symptom. Distinctions among
+these, of interest primarily to medical historians, cannot be treated
+here. As good a definition as any is found in Dr. Johnson's _Dictionary_
+(1755): "Hypochondriacal.... 1. Melancholy; disordered in the
+imagination.... 2. Producing melancholy...." The literature of
+melancholy has been surveyed in part by C. A. Moore, "The English
+Malady," _Backgrounds of English Literature 1700-1760_ (Minneapolis,
+1953), pp. 179-235. In medical parlance, "hypochondria" means the soft
+parts of the body below the costal cartilages, and the singular form of
+the word, "hypochondrium," means the viscera situated in the
+hypochondria, i.e., the liver, gall bladder, and spleen.
+
+[3] See Samuel Clifford's _The Signs and Causes of Melancholy, with
+directions suited to the case of those who are afflicted with it.
+Collected out of the works of Mr. Richard Baxter_ (London, 1716) in the
+British Museum.
+
+[4] _Backgrounds of English Literature_, p. 179.
+
+[5] See my forthcoming biography, _The Literary Quack: A Life of 'Sir'
+John Hill of London_, and John Kennedy's _Some Remarks on the Life and
+Writings of Dr. J---- H----, Inspector General of Great Britain_
+(London, 1752).
+
+[6] For some of this background see L. J. Rather, _Mind and Body in
+Eighteenth Century Medicine: A Study Based on Jerome Gaub's De Regimine
+Mentis_ (London, 1965), pp. 135-90 _passim_.
+
+[7] _Science and Literature 1700-1740_ (London, 1964), pp. 50-51.
+
+[8] _A New Theory of Physick_ (London, 1725), p. 56.
+
+[9] Biberg was a Swedish naturalist and had studied botany under
+Linnaeus in Uppsala; Réaumur, a French botanist, had contributed papers
+to the _Philosophical Transactions_ of the Royal Society in London.
+
+[10] _The Power of Water-Dock against the Scurvy whether in the Plain
+Root or Essence...._ (London, 1765), had been published six months
+earlier than _Hypochondriasis_ and had earned Hill a handsome profit.
+
+[11] I have treated aspects of this subject in my article, "Matt Bramble
+and The Sulphur Controversy in the XVIIIth Century: Medical Background
+of _Humphry Clinker_," _JHI_, XXVIII (1967), 577-90.
+
+[12] See, for example, Jeremiah Waineright, _A Mechanical Account of the
+Non-Naturals_ (1707); John Arbuthnot, _An Essay Concerning the Effects
+of Air on Human Bodies_ (1733); Frank Nichols, _De Anima Medica_ (1750).
+
+[13] Hill's correspondence is not published but shall be printed as an
+appendix to my forthcoming biography.
+
+[14] I have discussed some of these works in connection with the medical
+background of John Wesley's _Primitive Physick_ (1747). See G. S.
+Rousseau, _Harvard Library Bulletin_, XVI (1968), 242-56.
+
+[15] It is difficult to know with certainty when Hill first became
+interested in the herb. He mentions it in passing in _The British
+Herbal_ (1756), I, 526 and may have sold it as early as 1742 when he
+opened an apothecary shop.
+
+[16] Reid's dissertation at Edinburgh, entitled _De Insania_ (1798),
+contains materials on the relationship of the imagination to all forms
+of mental disturbance. Secondary literature on hypochondria is
+plentiful. Works include: R. H. Gillespie, _Hypochondria_ (London,
+1928), William K. Richmond, _The English Disease_ (London, 1958),
+Charles Chenevix Trench, _The Royal Malady_ (New York, 1964), and Ilza
+Vieth, _Hysteria: The History of a Disease_ (Chicago, 1965), and "On
+Hysterical and Hypochondriacal Afflictions," _Bulletin of the History of
+Medicine_, XXX (1956), 233-40.
+
+[17] Joseph Spence, _Observations, Anecdotes, and Characters of Books
+and Men_, ed. James M. Osborn (Oxford, 1966), I, 264.
+
+I am indebted to A. D. Morris, M.D., F.R.S.M., for help of various sorts
+in writing this introduction.
+
+
+
+
+BIBLIOGRAPHICAL NOTE
+
+The text of this facsimile of _Hypochondriasis_ is reproduced from a
+copy in the Library of the Royal Society of Medicine, London.
+
+
+
+
+     HYPOCHONDRIASIS.
+
+            A
+
+  PRACTICAL TREATISE, &c.
+
+
+
+HYPOCHONDRIASIS.
+
+
+SECT. I.
+
+The NATURE of the DISORDER.
+
+
+To call the Hypochondriasis a fanciful malady, is ignorant and cruel. It
+is a real, and a sad disease: an obstruction of the spleen by thickened
+and distempered blood; extending itself often to the liver, and other
+parts; and unhappily is in England very frequent: physick scarce knows
+one more fertile in ill; or more difficult of cure.
+
+The blood is a mixture of many fluids, which, in a state of health, are
+so combined, that the whole passes freely through its appointed vessels;
+but if by the loss of the thinner parts, the rest becomes too gross to
+be thus carried through, it will stop where the circulation has least
+power; and having thus stopped it will accumulate; heaping by degrees
+obstruction on obstruction.
+
+Health and chearfulness, and the quiet exercise of mind, depend upon a
+perfect circulation: is it a wonder then, when this becomes impeded the
+body looses of its health, and the temper of its sprightliness? to be
+otherwise would be the miracle; and he inhumanly insults the afflicted,
+who calls all this a voluntary frowardness. Its slightest state brings
+with it sickness, anguish and oppression; and innumerable ills follow
+its advancing steps, unless prevented by timely care; till life itself
+grows burthensome.
+
+The disease was common in antient Greece; and her physicians understood
+it, better than those perhaps of later times, in any other country; who
+though happy in many advantages these fathers of the science could not
+have, yet want the great assistance of frequent watching it in all its
+stages.
+
+Those venerable writers have delivered its nature, and its cure: in the
+first every thing now shews they were right; and what they have said as
+to the latter will be found equally true and certain. This, so far as
+present experience has confirmed it, and no farther, will be here laid
+before the afflicted in a few plain words.
+
+
+
+
+SECT. II.
+
+Persons Subject to it.
+
+
+Fatigue of mind, and great exertion of its powers often give birth to
+this disease; and always tend to encrease it. The finer spirits are
+wasted by the labour of the brain: the Philosopher rises from his study
+more exhausted than the Peasant leaves his drudgery; without the benefit
+that he has from exercise. Greatness of mind, and steady virtue;
+determined resolution, and manly firmness, when put in action, and
+intent upon their object, all also lead to it: perhaps whatever tends to
+the ennobling of the soul has equal share in bringing on this weakness
+of the body.
+
+From this we may learn easily who are the men most subject to it; the
+grave and studious, those of a sedate temper and enlarged understanding,
+the learned and wise, the virtuous and the valiant: those whom it were
+the interest of the world to wish were free from this and every other
+illness; and who perhaps, except for this alloy, would have too large a
+portion of human happiness.
+
+Though these are most, it is not these alone, who are subject to it.
+There are countries where it is endemial, and in other places some have
+the seeds of it in their constitution; and in some it takes rise from
+accidents. In these last it is the easiest of cure; and in the first
+most difficult.
+
+Beside the Greeks already named, the Jews of old time were heavily
+afflicted with this disease; and in their descendants to this day it is
+often constitutional: the Spaniards have it almost to a man; and so have
+the American Indians. Perhaps the character of these several nations may
+be connected with it. The steady honour, and firm valour of the
+Spaniard, very like that of the ancient Doric nation, who followed the
+flute not the trumpet to the field; and met the enemy, not with shouts
+and fury, but with a determined virtue: it is the temper of the
+Hypochondriac to be slow, but unmoveably resolved: the Jew has shewn
+this mistakenly, but almost miraculously; and the poor Indian, untaught
+as he is, faces all peril with composure, and sings his death-song with
+an unalter'd countenance.
+
+Among particular persons the most inquiring and contemplative are those
+who suffer oftenest by this disease; and of all degrees of men I think
+the clergy. I do not mean the hunting, shooting, drinking clergy, who
+bear the tables of the great; but the retir'd and conscientious; such as
+attend in midnight silence to their duty; and seek in their own cool
+breasts, or wheresoever else they may be found, new admonitions for an
+age plunged in new vices. To this disease we owe the irreparable loss of
+Dr. YOUNG; and the present danger of many other the best and most
+improved amongst us. May what is here to be proposed assist in their
+preservation!
+
+The Geometrician or the learned Philosopher of whatever denomination,
+whose course of study fixes his eye for ever on one object, his mind
+intensely and continually employed upon one thought, should be warned
+also that he is in danger; or if he find himself already afflicted, he
+should be told that the same course of life, which brought it on, will,
+without due care, encrease it to the most dreaded violence.
+
+The middle period of life is that in which there is the greatest danger
+of an attack from this disease; and the latter end of autumn, when the
+summer heats have a little time been over, is the season when in our
+climate its first assaults are most to be expected. The same time of the
+year always increases the disorder in those who have been before
+afflicted with it; and it is a truth must be confessed, that from its
+first attack the patient grows continually, though slowly, worse; unless
+a careful regimen prevent it.
+
+The constitutions most liable to this obstruction are the lean, and dark
+complexioned; the grave and sedentary. Let such watch the first
+symptoms; and obviate, (as they may with ease) that which it will be
+much more difficult to remove.
+
+It is happy a disease, wherein the patient must do a great deal for
+himself, falls, for the most part, upon those who have the powers of
+reason strongest. Let them only be aware of this, that the distemper
+naturally disposes them to inactivity; and reason will have no use
+unless accompanied with resolution to enforce it.
+
+Though the physician can do something toward the cure, much more depends
+upon the patient; and here his constancy of mind will be employed most
+happily. No one is better qualified to judge on a fair hearing what
+course is the most fit; and having made that choice, he must with
+patience wait its good effects. Diseases that come on slowly must have
+time for curing; an attention to the first appearances of the disorder
+will be always happiest; because when least established it is easiest
+overthrown: but when that happy period has been neglected, he must wait
+the effects of such a course as will dilute and melt the obstructing
+matter gradually; for till that be done it is not only vain, but
+sometimes dangerous, to attempt its expulsion from the body.
+
+The blood easily separates itself into the grosser and the thinner
+parts: we see this in bleeding; and from the toughness of the red cake
+may guess how very difficult it will be to dissolve a substance of like
+firmness in the vessels of the body. That it can thus become thickened
+within the body, a Pleurisy shews us too evidently: in that case it is
+brought on suddenly, and with inflammation; in this other, slowly and
+without; and here, even before it forms the obstruction, can bring on
+many mischiefs. Various causes can produce the same effect, but that in
+all cases operates most durably, which operates most slowly. The watery
+part of the blood is its mild part; in the remaining gross matter of it,
+are acrid salts and burning oils, and these, when destitute of that
+happy dilution nature gives them in a healthy body, are capable of doing
+great mischief to the tender vessels in which they are kept stagnant.
+
+
+
+
+SECT. III.
+
+The SYMPTOMS of the DISORDER.
+
+
+The first and lightest of the signs that shew this illness are a lowness
+of spirits, and inaptitude to motion; a disrelish of amusements, a love
+of solitude and a habit of thinking, even on trifling subjects, with too
+much steadiness. A very little help may combat these: but if that
+indolence which is indeed a part of the disorder, will neglect them;
+worse must be expected soon to follow.
+
+Wild thoughts; a sense of fullness, weight, and oppression in the body,
+a want of appetite, or, what is worse, an appetite without digestion;
+for these are the conditions of different states of the disease, a
+fullness and a difficulty of breathing after meals, a straitness of the
+breast, pains and flatulencies in the bowels, and an unaptness to
+discharge their contents.
+
+The pulse becomes low, weak, and unequal; and there are frequent
+palpitations of the heart, a little dark-coloured urine is voided at
+some times; and a flood of colourless and insipid at others; relieving
+for a moment, but increasing the distemper: there is in some cases also
+a continual teazing cough, with a choaking stoppage in the throat at
+times; then heartburn, sickness, hardness of the belly, and a costive
+habit, or a tormenting and vain irritation.
+
+The lips turn pale, the eyes loose their brightness and by degrees the
+white grows as it were greenish, the gums want their due firmness, with
+their proper colour; and an unpleasing foulness grows upon the teeth:
+the inside of the mouth is pale and furred, and the throat dry and
+husky: the colour of the skin is pale (though there are periods when the
+face is florid) and as the obstruction gathers ground, and more affects
+the liver, the whole body becomes yellow, tawny, greenish, and at length
+of that deep and dusky hue, to which men of swift imagination have given
+the name of blackness.
+
+These symptoms do not all appear in any one period of the disease, or in
+one case, but at one time or other all of them, as well as those which
+follow: the flesh becomes cold to the touch, though the patient does not
+himself perceive it; the limbs grow numbed and torpid, the breathing
+dull and slow, and the voice hollow; and usually the appetite in this
+period declines, and comes almost to nothing: night sweats come on,
+black swellings appear on the veins, the flesh wastes and the breast
+becomes flat and hollow: the mouth is full of a thin spittle, the head
+is dizzy and confus'd, and sometimes there is an unconquerable numbness
+in the organs of speech.
+
+I have known the temporary silence that follows upon this last symptom
+become a jest to the common herd; and the unhappy patient, instead of
+compassion and assistance, receive the reproof of sullenness, from those
+who should have known and acted better.
+
+About twenty years ago I met on a visit at Catthorpe in Leicestershire a
+young gentleman of distinguished learning and abilities, who at certain
+times was speechless. The vulgar thought it a pretence: and a jocose
+lady, where he was at tea with company, putting him as she said to a
+trial, poured out a dish very strong and without sugar. He drank it and
+returned the cup with a bow of great reserve, and his eye bent on the
+ground: she then filled the cup with sugar, and pouring weak tea on it,
+sent it him: he drank that too, looked at her steadily, and blushed for
+her. The lady declared the man was dumb; the rest thought him perverse,
+and obstinate; but a constant and steady perseverance in an easy method
+cured him.
+
+All these are miseries which the disease, while it retains its natural
+form, can bring upon the patient; and thus he will in time be worn out,
+and led miserably, though slowly, to the grave. Let him not indulge his
+inactivity so far as to give way to this, because it is represented as
+far off; the disease may suddenly and frightfully change its nature; and
+swifter evils follow.
+
+
+
+
+SECT. IV.
+
+The DANGER.
+
+
+We have done with the obstruction considered in itself; but this, though
+often unsurmountable by art, at least by the methods now in use, will be
+sometimes broken through at once by nature, or by accidents; and bring
+on fatal evils. These are strictly different diseases, and are no
+otherway concerned here, than as the consequences of that of which we
+are treating.
+
+The thick and glutinous blood which has so long stagnated in the spleen,
+will have in that time altered its nature, and acquired a very great
+degree of acrimony: while it lies dormant, this does no more mischiefs,
+than those named already; but when violent exercise, a fit of outrageous
+anger, or any thing else that suddenly shocks and disturbs the frame,
+puts it in motion, it melts at once into a kind of liquid putrefaction.
+Being now thin, it mixes itself readily with the blood again, and brings
+on putrid fevers; destroys the substance of the spleen itself, or being
+thrown upon some other of the viscera, corrodes them, and leads on this
+way a swift and miserable death. If it fall upon the liver, its tender
+pulpy substance is soon destroyed, jaundices beyond the help of art
+first follow, then dropsies and all their train of misery; if on lungs,
+consumptions; if on the brain, convulsions, epilepsy, palsy, apoplexy;
+if on the surface, leprosy.
+
+The intention of cure is to melt this coagulation softly, not to break
+it violently; and then to give it a very gentle passage through the
+bowels. There is no safe way for it to take but that; and even that when
+urged too far may bring on fatal dysenteries.
+
+Let none wonder at the sudden devastation which sometimes arises from
+this long stagnant matter, when liquified too hastily: how long, how
+many years the impacted matter will continue quiet in a schirrous tumour
+of the breast; but being once put in motion, whether from accident, or
+in the course of nature, what can describe; or what can stop its
+havock!
+
+Instances of the other are too frequent. A nobleman the other day died
+paralytick: dissection shewed a spleen consumed by an abscess, formed
+from the dissolved matter of such an obstruction: and 'tis scarce longer
+since, a learned gentleman, who had been several years lost to his
+friends, by the extreams of a Hypochondriacal disorder, seem'd gradually
+without assistance to recover: but the lungs suffered while the spleen
+was freed; and he died very soon of what is called a galloping
+consumption.
+
+When the obstruction is great and of long continuance, if it be thus
+hastily moved, the consequence is, equally, a sudden and a miserable
+death, whether, like the matter of a cancer, it remains in its place; or
+like that of a bad small pox, be thrown upon some other vital part.
+
+Let not the patient be too much alarmed; this is laid down to caution,
+not to terrify him: it is fit he should know his danger, and attend to
+it; for the prevention is easy; and the cure, even of the most advanced
+stages, when undertaken by gentle means, is not at all impracticable: to
+assist the physician, let him look into himself, and recollect the
+source of his complaint. This he may judge of from the following
+notices.
+
+
+
+
+SECT. V.
+
+The Causes of the HYPOCHONDRIASIS.
+
+
+The obstruction which forms this disease, may take its origin from
+different accidents: a fever ill cured has often caused it; or the
+piles, which had been used to discharge largely, ceasing; a marshy soil,
+poisoned with stagnant water, has given it to some persons; and altho'
+indolence and inactivity are oftenest at the root, yet it has arisen
+from too great exercise.
+
+Real grief has often brought it on; and even love, for sometimes that is
+real. Study and fixed attention of the mind have been accused before;
+and add to these the stooping posture of the body, which most men use,
+though none should use it, in writing and in reading. This has
+contributed too much to it; but of all other things night studies are
+the most destructive. The steady stillness, and dusky habit of all
+nature in those hours, enforce, encourage, and support that settled
+gloom, which rises from fixt thought; and sinks the body to the grave;
+even while it carries up the mind to heaven. He who would have his lamp
+
+        _At midnight hour
+  Be seen in some high lonely tower,_[18]
+
+will waste the flame of this unheeded life: and while he labours to
+unsphere the spirit of Plato[18] will let loose his own.
+
+
+
+
+SECT. VI.
+
+The Cure of the HYPOCHONDRIASIS.
+
+
+Let him who would escape the mischiefs of an obstructed spleen, avoid
+the things here named: and let him who suffers from the malady,
+endeavour to remember to which of them it has been owing; for half the
+hope depends upon that knowledge.
+
+Nature has sometimes made a cure herself, and we should watch her ways;
+for art never is so right as when it imitates her: sometimes the
+patient's own resolution has set him free. This is always in his power,
+and at all times will do wonders.
+
+The bleeding of the piles, from nature's single efforts, has at once
+cured a miserable man; where their cessation was the cause of the
+disorder. A leprosy has appeared upon the skin, and all the symptoms of
+the former sickness vanished. This among the Jews happened often: both
+diseases we know were common among them: and I have here seen something
+very like it: Water-Dock has thrown out scorbutic eruptions, and all the
+former symptoms of an Hypochondriacal disorder have disappeared:
+returning indeed when these were unadvisedly struck in; but keeping off
+entirely when they were better treated. A natural purging unsuppressed
+has sometimes done the same good office: but this is hazardous.
+
+It is easy to be directed from such instances; only let us take the
+whole along with us. Bleeding would have answered nature's purpose, if
+she could not have opened of herself the hæmorrhoidal vessels; but he
+who should give medicines for that purpose, might destroy his patient by
+too great disturbance. If a natural looseness may perform the cure, so
+may an artificial; when the original source of the disorder points that
+way. But these are helps that take place only in particular cases.
+
+The general and universal method of cure must be by some mild and gently
+resolving medicine, under the influence of which the obstructing matter
+may be voided that, or some other way with safety. The best season to
+undertake this is the autumn, but even here there must be caution.
+
+In the first place, no strong evacuating remedy must be given; for that,
+by carrying off the thinner parts of the juices, will tend to thicken
+the remainder; and certainly encrease the distemper. No acrid medicine
+must be directed, for that may act too hastily, dissolve the impacted
+matter at once, and let it loose, to the destruction of the sufferer; no
+antimonial, no mercurial, no martial preparation must be taken; in
+short, no chymistry: nature is the shop that heaven has set before us,
+and we must seek our medicine there. The venerable ancients, who knew
+not this new art, will lead us in the search; and (faithful relators as
+they are of truth) will tell us whence we may deduce our hope; and what
+we are to fear.
+
+But prior to the course of any medicine, and as an essential to any good
+hope from it, the patient must prescribe himself a proper course of
+life, and a well chosen diet: let us assist him in his choice; and speak
+of this first, as it comes first in order.
+
+
+
+
+SECT. VI.
+
+Rules of Life for Hypochondriac Persons.
+
+
+Air and exercise, as they are the best preservers of health, and
+greatest assistants in the cure of all long continued diseases, will
+have their full effect in this; but there requires some caution in the
+choice, and management of them. It is common to think the air of high
+grounds best; but experience near home shews otherwise: the
+Hypochondriac patient is always worse at Highgate even than in London.
+
+The air he breathes should be temperate; not exposed to the utmost
+violences of heat and cold, and the swift changes from one to the
+other; which are most felt on those high grounds. The side of a hill is
+the best place for him: and though wet grounds are hurtful; yet let
+there be the shade of trees, to tempt him often to a walk; and soften by
+their exhalation the over dryness of the air.
+
+The exercise he takes should be frequent; but not violent. Motion
+preserves the firmness of the parts, and elasticity of the vessels; it
+prevents that aggregation of thick humours which he is most to fear. A
+sedentary life always produces weakness, and that mischief always
+follows: weak eyes are gummy, weak lungs are clogged with phlegm, and
+weak bowels waste themselves in vapid diarrhoeas.
+
+Let him invite himself abroad, and let his friends invite him by every
+innocent inducement. For me, I should advise above all other things the
+study of nature. Let him begin with plants: he will here find a
+continual pleasure, and continual change; fertile of a thousand useful
+things; even of the utility we are seeking here. This will induce him to
+walk; and every hedge and hillock, every foot-path side, and thicket,
+will afford him some new object. He will be tempted to be continually
+in the air, and continually to change the nature and quality of the air,
+by visiting in succession the high lands and the low, the lawn, the
+heath, the forest. He will never want inducement to be abroad; and the
+unceasing variety of the subjects of his observation, will prevent his
+walking hastily: he will pursue his studies in the air; and that
+contemplative turn of mind, which in his closet threatened his
+destruction, will thus become the great means of his recovery.
+
+If the mind tire upon this, from the repeated use, another of nature's
+kingdoms opens itself at once upon him; the plant he is weary of
+observing, feeds some insect he may examine; nor is there a stone that
+lies before his foot, but may afford instruction and amusement.
+
+Even what the vulgar call the most abject things will shew a wonderful
+utility; and lead the mind, in pious contemplation higher than the
+stars. The poorest moss that is trampled under foot, has its important
+uses: is it at the bottom of a wood we find it? why there it shelters
+the fallen seeds; hides them from birds, and covers them from frost;
+and thus becomes the foster father of another forest! creeps it along
+the surface of a rock? even there its good is infinite! its small roots
+run into the stone, and the rains make their way after them; the moss
+having lived its time dies; it rots and with the mouldered fragments of
+the stone forms earth; wherein, after a few successions, useful plants
+may grow, and feed more useful cattle![19]
+
+Is there a weed more humble in its aspect, more trampled on, or more
+despised than knot grass! no art can get the better of its growth, no
+labour can destroy it; 'twere pity if they could, for the thing lives
+where nothing would of use to us; and its large and most wonderfully
+abundant seeds, feed in hard winters, half the birds of Heaven.
+
+What the weak moss performs upon the rock the loathed toadstool brings
+about in timber: is an oak dead where man's eye will not find it? this
+fungus roots itself upon the bark, and rots the wood beneath it; hither
+the beetle creeps for shelter, and for sustenance; him the woodpecker
+follows as his prey; and while he tears the tree in search of him, he
+scatters it about the ground; which it manures.
+
+Nor is it the beetle alone that thus insinuates itself into the
+substance of the vegetable tribe: the tender aphide[20], whom a touch
+destroys, burrows between the two skins of a leaf, for shelter from his
+winged enemies; tracing, with more than Dedalæan art, his various
+meanders; and veining the green surface with these white lines more
+beautifully than the best Ægyptian marble.
+
+'Twere endless to proceed; nor is it needful: one object will not fail
+to lead on to another, and every where the goodness of his God will
+shine before him even in what are thought the vilest things; his
+greatness in the lead of them.
+
+Let him pursue these thoughts, and seek abroad the objects and the
+instigations to them: but let him in these and all other excursions
+avoid equally the dews of early morning, and of evening.
+
+The more than usual exercise of this prescription will dispose him to
+more than customary sleep, let him indulge it freely; so far from
+hurting, it will help his cure.
+
+Let him avoid all excesses: drink need scarce be named, for we are
+writing to men of better and of nobler minds, than can be tempted to
+that humiliating vice. Those who in this disorder have too great an
+appetite, must not indulge it; much eaten was never well digested: but
+of all excesses the most fatal in this case is that of venery. It is the
+excess we speak of.
+
+
+
+
+SECT. VII.
+
+The proper DIET.
+
+
+In the first place acids must be avoided carefully; and all things that
+are in a state of fermentation, for they will breed acidity. Provisions
+hardened by salting never should be tasted; much less those cured by
+smoaking, and by salting. Bacon is indigestible in an Hypochondriac
+stomach; and hams, impregnated as is now the custom, with acid fumes
+from the wood fires over which they are hung, have that additional
+mischief.
+
+Milk ought to be a great article in the diet: and even in this there
+should be choice. The milk of grass-fed cows has its true quality: no
+other. There are a multitude of ways in which this may be made a part
+both of our foods and drinks, and they should all be used.
+
+The great and general caution is that the diet be at all times of a kind
+loosening and gently stimulating; light but not acrid. Veal, lamb,
+fowls, lobsters, crabs, craw-fish, fresh water fish and mutton broth,
+with plenty of boiled vegetables, are always right; and give enough
+variety.
+
+Raw vegetables are all bad: sour wines, old cheese, and bottled beer are
+things never to be once tasted. Indeed much wine is wrong, be it of what
+kind soever. It is the first of cordials; and as such I would have it
+taken in this disease when it is wanted: plainly as a medicine, rather
+than a part of diet. Malt liquor carefully chosen is certainly the best
+drink. This must be neither new, nor tending to sourness; perfectly
+clear, and of a moderate strength: it is the native liquor of our
+country, and the most healthful.
+
+Too much tea weakens; and even sugar is in this disorder hurtful: but
+honey may supply its place in most things; and this is not only harmless
+but medicinal; a very powerful dissolvent of impacted humours, and a
+great deobstruent.
+
+What wine is drank should be of some of the sweet kinds. Old Hock has
+been found on enquiry to yield more than ten times the acid of the sweet
+wines; and in red Port, at least in what we are content to call so,
+there is an astringent quality, that is most mischievous in these cases:
+it is said there is often alum in it: how pregnant with mischief that
+must be to persons whose bowels require to be kept open, is most
+evident. Summer fruits perfectly ripe are not only harmless but
+medicinal; but if eaten unripe they will be very prejudicial. A light
+supper, which will leave an appetite for a milk breakfast, is always
+right; this will not let the stomach be ravenous for dinner, as it is
+apt to be in those who make that their only meal.
+
+One caution more must be given, and it may seem a strange one: it is
+that the patient attend regularly to his hours of eating. We have to do
+with men for the most part whose soul is the great object of their
+regard; but let them not forget they have a body.
+
+The late Dr. STUKELY has told me, that one day by appointment visiting
+Sir ISAAC NEWTON, the servant told him, he was in his study. No one was
+permitted to disturb him there; but as it was near dinner time, the
+visitor sat down to wait for him. After a time dinner was brought in; a
+boil'd chicken under a cover. An hour pass'd, and Sir ISAAC did not
+appear. The doctor eat the fowl, and covering up the empty dish, bad
+them dress their master another. Before that was ready, the great man
+came down; he apologiz'd for his delay, and added, "give me but leave to
+take my short dinner, and I shall be at your service; I am fatigued and
+faint." Saying this, he lifted up the cover; and without any emotion,
+turned about to STUKELY with a smile; "See says he, what we studious
+people are, I forgot I had din'd."
+
+
+
+
+SECT. VIII.
+
+The MEDICINE.
+
+
+'Tis the ill fate of this disease, more than of all others to be
+misunderstood at first, and thence neglected; till the physician shakes
+his head at a few first questions. None steals so fatally upon the
+sufferer: its advances are by very slow degrees; but every day it grows
+more difficult of cure.
+
+That this obstruction in the spleen is the true malady, the cases
+related by the antients, present observation, and the unerring
+testimonies of dissections leave no room to doubt. Being understood, the
+path is open where to seek a remedy: and our best guides in this, as in
+the former instance, will be those venerable Greeks; who saw a thousand
+of these cases, where we see one; and with less than half our theory,
+cured twice as many patients.
+
+One established doctrine holds place in all these writers; that whatever
+by a hasty fermentation dissolves the impacted matter of the
+obstruction, and sends it in that state into the blood, does incredible
+mischief: but that whatever medicine softens it by slow degrees, and, as
+it melts, delivers it to the bowels without disturbance; will cure with
+equal certainty and safety.
+
+For this good purpose, they knew and tried a multitude of herbs; but in
+the end they fixed on one: and on their repeated trials of this, they
+banished all the rest. This stood alone for the cure of the disease; and
+from its virtue received the name of SPLEEN-WORT[21]. O wise and happy
+Greeks! authors of knowledge and perpetuators of it! With them the very
+name they gave a plant declared its virtues: with us, a writer calls a
+plant from some friend; that the good gardener who receives the honour,
+may call another by his name who gave it. We now add the term _smooth_
+to this herb, to distinguish it from another, called by the same general
+term, though not much resembling it.
+
+The virtues of this smooth Spleen-wort have flood the test of ages; and
+the plant every where retained its name and credit: and one of our good
+herbalists, who had seen a wonderful case of a swoln spleen, so big, and
+hard as to be felt with terror, brought back to a state of nature by it;
+and all the miserable symptoms vanish; thought Spleen-wort not enough
+expressive of its excellence; but stamp'd on it the name of MILT-WASTE.
+
+In the Greek Islands now, the use of it is known to every one; and even
+the lazy monks who take it, are no longer splenetic. In the west of
+England, the rocks are stripped of it with diligence; and every old woman
+tells you how charming that leaf is for bookish men: in Russia they use
+a plant of this kind in their malt liquor: it came into fashion there
+for the cure of this disease; which from its constant use is scarce
+known any longer; and they suppose 'tis added to their liquor for a
+flavour.
+
+The ancients held it in a kind of veneration; and used what has been
+called a superstition in the gathering it. It was to be taken up with a
+sharp knife, without violence, and laid upon the clean linen: no time
+but the still darkness of the night was proper, and even the moon was
+not to shine upon it[22]. I know they have been ridiculed for this; for
+nothing is so vain as learned ignorance: but let me be permitted once to
+vindicate them.
+
+The plant has leaves that can close in their sides; and their under part
+is covered thick with a yellow powder, consisting of the seeds, and seed
+vessels: in these they knew the virtue most resided: this was the golden
+dust[23] they held so valuable; and this they knew they could not be too
+cautious to preserve. They were not ignorant of the sleep of plants; a
+matter lately spoken of by some, as if a new discovery; and being
+sensible that light, a dry air, an expanded leaf, and a tempestuous
+season, were the means of losing this fine dust; and knowing also that
+darkness alone brought on that closing of the leaf which thence has
+been called sleep; and which helped to defend and to secure it, they
+therefore took such time, and used such means as could best preserve the
+plant entire; and even save what might be scattered from it.--And now
+where is their superstition?
+
+From this plant thus collected they prepared a medicine, which in a
+course of forty days scarce ever failed to make a perfect cure.
+
+We have the plant wild with us; and till the fashion of rough chemical
+preparations took off our attention from these gentler remedies, it was
+in frequent use and great repute. I trust it will be so again: and many
+thank me for restoring it to notice.
+
+Spleen-wort gives out its virtues freely in a tincture; and a small dose
+of this, mixing readily with the blood and juices, gradually dissolves
+the obstruction; and by a little at a time delivers its contents to be
+thrown off without pain, from the bowels. Let this be done while the
+viscera are yet sound and the cure is perfect. More than the forty days
+of the Greek method is scarce ever required; much oftener two thirds of
+that time suffice; and every day, from the first dose of it, the patient
+feels the happy change that is growing in his constitution. His food no
+more turns putrid on his stomach, but yields its healthful nourishment.
+The swelling after meals therefore vanishes; and with that goes the
+lowness, and anxiety, the difficult breath, and the distracting cholick:
+he can bear the approach of rainy weather without pain; he finds himself
+more apt for motion, and ready to take that exercise which is to be
+assistant in his cure; life seems no longer burthensome. His bowels get
+into the natural condition of health, and perform their office once at
+least a day; better if a little more: the dull and dead colour of his
+skin goes off, his lips grow red again, and every sign of health
+returns.
+
+Let him who takes the medicine, say whether any thing here be
+exaggerated. Let him, if he pleases to give himself the trouble, talk
+over with me, or write to me, this gradual decrease of his complaints,
+as he proceeds in his cure. My uncertain state of health does not
+permit me to practise physic in the usual way, but I am very desirous to
+do what good I can, and shall never refuse my advice, such as it may be,
+to any person rich or poor, in whatever manner he may apply for it. I
+shall refer him to no apothecary, whose bills require he should be
+drenched with potions; but tell him, in this as in all other cases,
+where to find some simple herb; which he may if he please prepare
+himself; or if he had rather spare that trouble, may have it so prepared
+from me.
+
+With regard to Spleen-wort, no method of using it is more effectual than
+simply taking it in powder; the only advantage of a tincture, is that a
+proper dose may be given, and yet the stomach not be loaded with so
+large a quantity: it is an easier and pleasanter method, and nothing
+more.
+
+If any person choose to take it in the other way, I should still wish
+him once at least to apply to me; that he may be assured what he is
+about to take is the right plant. Abuses in medicines are at this time
+very great, and in no instance worse than what relates to herbs. The
+best of our physicians have complained upon this head with warmth, but
+without redress: they know the virtues and the value of many of our
+native plants, but dread to prescribe them; lest some wrong thing should
+be administered in their place; perhaps inefficacious, perhaps
+mischievous, nay it may be fatal. The few simple things I direct are
+always before me; and it will at all times be a pleasure to me, in this
+and any other instance, to see whether what any person is about to take
+be right. I have great obligations to the public, and this is the best
+return that I know how to make.
+
+To see the need of such a caution, hear a transaction but of yesterday!
+An intelligent person was directed to go to the medicinal herb shops in
+the several markets, and buy some of this Spleen-wort; the name was
+written, and shewn to every one; every shop received his money, and
+almost every one sold a different plant, under the name of this: but
+what is very striking, not one of them the right. Such is the chance of
+health in those hands through which the best means of it usually pass;
+even in the most regular course of application.
+
+I would not be understood to limit the little services I may this way be
+able to render the afflicted, to this single instance; much less to
+propose to myself any advantages from it. Whoever pleases will be
+welcome to me, upon any such occasion; and whatever be the herb on which
+he places a dependance, he shall be shewn it growing. I once recommended
+a garden to be established for this use, at the public expence: one
+great person has put it in my power to answer all its purposes.
+
+
+                        F  I  N  I  S.
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+
+WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+
+UNIVERSITY OF CALIFORNIA, LOS ANGELES
+
+PUBLICATIONS IN PRINT
+
+
+1948-1949
+
+16. Henry Nevil Payne, _The Fatal Jealousie_ (1673).
+
+18. Anonymous, "Of Genius," in _The Occasional Paper_, Vol. III, No. 10
+(1719), and Aaron Hill, Preface to _The Creation_ (1720).
+
+
+1949-1950
+
+19. Susanna Centlivre, _The Busie Body_ (1709).
+
+20. Lewis Theobald, _Preface to the Works of Shakespeare_ (1734).
+
+22. Samuel Johnson, _The Vanity of Human Wishes_ (1749), and two
+_Rambler_ papers (1750).
+
+23. John Dryden, _His Majesties Declaration Defended_ (1681).
+
+
+1951-1952
+
+31. Thomas Gray, _An Elegy Wrote in a Country Churchyard_ (1751), and
+_The Eton College Manuscript_.
+
+
+1952-1953
+
+41. Bernard Mandeville, _A Letter to Dion_ (1732).
+
+
+1963-1964
+
+104. Thomas D'Urfey, _Wonders in the Sun; or, The Kingdom of the Birds_
+(1706).
+
+
+1964-1965
+
+110. John Tutchin, _Selected Poems_ (1685-1700).
+
+111. Anonymous, _Political Justice_ (1736).
+
+112. Robert Dodsley, _An Essay on Fable_ (1764).
+
+113. T. R., _An Essay Concerning Critical and Curious Learning_ (1698).
+
+114. _Two Poems Against Pope_: Leonard Welsted, _One Epistle to Mr. A.
+Pope_ (1730), and Anonymous, _The Blatant Beast_ (1742).
+
+
+1965-1966
+
+115. Daniel Defoe and others, _Accounts of the Apparition of Mrs. Veal_.
+
+116. Charles Macklin, _The Covent Garden Theatre_ (1752).
+
+117. Sir George L'Estrange, _Citt and Bumpkin_ (1680).
+
+118. Henry More, _Enthusiasmus Triumphatus_ (1662).
+
+119. Thomas Traherne, _Meditations on the Six Days of the Creation_
+(1717).
+
+120. Bernard Mandeville, _Aesop Dress'd or a Collection of Fables_
+(1704).
+
+
+1966-1967
+
+123. Edmond Malone, _Cursory Observations on the Poems Attributed to Mr.
+Thomas Rowley_ (1782).
+
+124. Anonymous, _The Female Wits_ (1704).
+
+125. Anonymous, _The Scribleriad_ (1742). Lord Hervey, _The Difference
+Between Verbal and Practical Virtue_ (1742).
+
+126. _Le Lutrin: an Heroick Poem, Written Originally in French by
+Monsieur Boileau: Made English by N. O._ (1682).
+
+
+1967-1968
+
+127-
+
+128. Charles Macklin, _A Will and No Will, or a Bone for the Lawyers_
+(1746). _The New Play Criticiz'd, or The Plague of Envy_ (1747).
+
+129. Lawrence Echard, Prefaces to _Terence's Comedies_ (1694) and
+_Plautus's Comedies_ (1694).
+
+130. Henry More, _Democritus Platonissans_ (1646).
+
+131. John Evelyn, _The History of Sabatai Sevi, The Suppos'd Messiah of
+the Jews_ (1669).
+
+132. Walter Harte, _An Essay on Satire, Particularly on the Dunciad_
+(1730).
+
+Publications of the first fifteen years of the Society (numbers 1-90)
+are available in paperbound units of six issues at $16.00 per unit, from
+the Kraus Reprint Company, 16 East 46th Street, New York, N.Y. 10017.
+
+Publications in print are available at the regular membership rate of
+$5.00 yearly. Prices of single issues may be obtained upon request.
+Subsequent publications may be checked in the annual prospectus.
+
+William Andrews Clark Memorial Library: University of California, Los
+Angeles
+
+THE AUGUSTAN REPRINT SOCIETY
+
+2520 CIMARRON STREET, LOS ANGELES, CALIFORNIA 90018
+
+_General Editors:_ William E. Conway, William Andrews Clark Memorial
+Library; George Robert Guffey, University of California, Los Angeles;
+Maximillian E. Novak, University of California, Los Angeles
+
+_Corresponding Secretary:_ Mrs. Edna C. Davis, William Andrews Clark
+Memorial Library
+
+The Society's purpose is to publish rare Restoration and
+eighteenth-century works (usually as facsimile reproductions). All
+income of the Society is devoted to defraying costs of publication and
+mailing.
+
+Correspondence concerning memberships in the United States and Canada
+should be addressed to the Corresponding Secretary at the William
+Andrews Clark Memorial Library, 2520 Cimarron Street, Los Angeles,
+California. Correspondence concerning editorial matters may be addressed
+to the General Editors at the same address. Manuscripts of introductions
+should conform to the recommendations of the MLA _Style Sheet_. The
+membership fee is $5.00 a year in the United States and Canada and
+£1.16.6 in Great Britain and Europe. British and European prospective
+members should address B. H. Blackwell, Broad Street, Oxford, England.
+Copies of back issues in print may be obtained from the Corresponding
+Secretary.
+
+Publications of the first fifteen years of the Society (numbers 1-90)
+are available in paperbound units of six issues at $16.00 per unit, from
+the Kraus Reprint Company, 16 East 46th Street, New York, N.Y. 10017.
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA
+
+
+REGULAR PUBLICATIONS FOR 1968-1969
+
+133. John Courtenay, _A Poetical Review of the Literary and Moral
+Character of the Late Samuel Johnson_ (1786). Introduction by Robert E.
+Kelley.
+
+134. John Downes, _Roscius Anglicanus_ (1708). Introduction by John
+Loftis.
+
+135. Sir John Hill, _Hypochondriasis, a Practical Treatise on the Nature
+and Cure of that Disorder Call'd the Hyp or Hypo_ (1766). Introduction
+by G. S. Rousseau.
+
+136. Thomas Sheridan, _Discourse ... Being Introductory to His Course of
+Lectures on Elocution and the English Language_ (1759). Introduction by
+G. P. Mohrman.
+
+137. Arthur Murphy, _The Englishman From Paris_ (1756). Introduction by
+Simon Trefman. Previously unpublished manuscript.
+
+138. [Catherine Trotter], _Olinda's Adventures_ (1718). Introduction by
+Robert Adams Day.
+
+
+SPECIAL PUBLICATION FOR 1968-1969
+
+_After THE TEMPEST_. Introduction by George Robert Guffey.
+
+Next in the continuing series of special publications by the Society
+will be _After THE TEMPEST_, a volume including the Dryden-Davenant
+version of _The Tempest_ (1670); the "operatic" _Tempest_ (1674); Thomas
+Duffet's _Mock-Tempest_ (1675); and the "Garrick" _Tempest_ (1756), with
+an Introduction by George Robert Guffey.
+
+Already published in this series are:
+
+1. John Ogilby, _The Fables of Aesop Paraphras'd in Verse_ (1668), with
+an Introduction by Earl Miner.
+
+2. John Gay, _Fables_ (1727, 1738), with an Introduction by Vinton A.
+Dearing.
+
+3. Elkanah Settle, _The Empress of Morocco_ (1673) with five plates;
+_Notes and Observations on the Empress of Morocco_ (1674) by John
+Dryden, John Crowne and Thomas Shadwell; _Notes and Observations on the
+Empress of Morocco Revised_ (1674) by Elkanah Settle; and _The Empress
+of Morocco. A Farce_ (1674) by Thomas Duffet; with an Introduction by
+Maximillian E. Novak.
+
+Price to members of the Society, $2.50 for the first copy of each title,
+and $3.25 for additional copies. Price to non-members, $4.00. Standing
+orders for this continuing series of Special Publications will be
+accepted. British and European orders should be addressed to B. H.
+Blackwell, Broad Street, Oxford, England.
+
+
+
+
+Footnotes:
+
+[18] Milton's Penseroso.
+
+[19] Biberg.
+
+[20] Reaumur.
+
+[21] asplenon
+
+[22] Silente Luna.
+
+[23] Pulvis Aureus.
+
+
+
+
+      *      *      *      *      *
+
+
+
+
+Transcriber's Notes:
+
+  Long "s" has been modernized.
+
+  Page 21 contains two markers referring to the same footnote.
+
+  The original text contains two sections labeled "Sect. V."
+
+  Passages in italics are indicated by _underscore_.
+
+  Additional spacing after some of the quotes is intentional to indicate
+  both the end of a quotation and the beginning of a new paragraph as
+  presented in the original text.
+
+  The original text includes Greek characters. For this text version these
+  letters have been replaced with transliterations.
+
+  The following misprints have been corrected:
+    "the the" corrected to "the" (page v)
+    "sympton" corrected to "symptom" (page 14)
+    "symptons" corrected to "symptoms" (page 23)
+
+  Other than the corrections listed above, printer's inconsistencies in
+  spelling, punctuation, hyphenation, and ligature usage have been
+  retained.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK HYPOCHONDRIASIS: A PRACTICAL TREATISE (1766) ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

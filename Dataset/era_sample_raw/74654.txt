@@ -1,0 +1,2559 @@
+﻿The Project Gutenberg eBook of Essays on the use and limit of the imagination in science
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Essays on the use and limit of the imagination in science
+
+Author: John Tyndall
+
+
+        
+Release date: October 29, 2024 [eBook #74654]
+
+Language: English
+
+Original publication: London: Longmans, Green & Co, 1870
+
+Other information and formats: www.gutenberg.org/ebooks/74654
+
+Credits: Tim Lindell, Laura Natal and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK ESSAYS ON THE USE AND LIMIT OF THE IMAGINATION IN SCIENCE ***
+
+
+
+                                ESSAYS
+
+                                ON THE
+
+                             USE AND LIMIT
+
+                                OF THE
+
+                        IMAGINATION IN SCIENCE.
+
+                                  BY
+
+                      JOHN TYNDALL, LL.D., F.R.S.
+
+
+
+
+                                LONDON:
+                       LONGMANS, GREEN, AND CO.
+                                 1870.
+
+
+
+
+                           EXPLANATORY NOTE.
+
+[Illustration]
+
+
+To a Second Edition of a Discourse on the Scientific Use of the
+Imagination, delivered before the British Association at Liverpool
+on September 16, 1870, are here added an Address on the Limit of the
+Imagination in Science, delivered before the Mathematical and Physical
+Section of the Association at Norwich on August 19, 1868, and a short
+Essay, entitled ‘Earlier Thoughts.’
+
+The Address and the Essay were meant to be brief, but definite
+statements of the relation of Life and Consciousness to Matter and
+Force.
+
+As in the case of the recent Discourse, opinion was divided with
+regard to the objects and merits of the Norwich Address. On the one
+hand, two eminent clergymen, one of the Church of England, the other a
+Dissenter, proposed and seconded respectively a vote of thanks, which
+was liberally carried by the section; on the other hand, I was publicly
+warned that, as a consequence of my impiety, the bolts of heaven were
+in a state of potential suspension above my head, ready to descend if
+further drawn upon.
+
+My main object, both at Norwich and at Liverpool, was, firstly, to
+dissipate the repugnance, and indeed terror, which in many minds are
+associated with the thought that science has abolished the mystery of
+man’s relation to the universe; and, secondly, to remove the hindrance
+which popular notions regarding the origin of life oppose to legitimate
+scientific speculation.
+
+ ATHENÆUM CLUB: _November_ 1870.
+
+
+
+
+                               CONTENTS.
+
+[Illustration]
+
+
+                                                        PAGE
+
+ PROS AND CONS TOUCHING THE FIRST EDITION                  1
+
+ SCIENTIFIC USE OF THE IMAGINATION                        13
+
+ SCIENTIFIC LIMIT OF THE IMAGINATION                      52
+
+ EARLIER THOUGHTS                                         66
+
+
+
+
+                             PROS AND CONS
+
+                      TOUCHING THE FIRST EDITION.
+
+[Illustration]
+
+
+                  _From the_ TIMES, _Sept._ 19, 1870.
+
+THE GLORY of a Natural Philosopher appears to depend less on the
+power of his imagination to explore minute recesses or immeasurable
+space than on the skill and patience with which, by observation
+and experiment, he assures us of the certainty of these invisible
+operations. Newton’s glory is founded, not on the sudden imagination
+by which he leapt ‘from a falling apple to a falling moon,’ but on
+that astonishing tenacity of investigation by which he reduced his
+guesses to moral certainties, and enabled us to witness a practical
+verification of his laws in every almanack we use. When the movements
+of the heavenly bodies have been discovered by this laborious process,
+the imagination is excellently employed in picturing to the mind’s eye
+what transcends the physical vision; and, perhaps, the labour of the
+investigation itself would be unendurable unless the attention could be
+relieved by the constant pictorial aid afforded by the imagination....
+
+In a word, it seems to us worth consideration whether that use of the
+imagination in Natural Philosophy of which the Professor speaks needed
+any encouragement at the present day. The discoveries of science
+have been so astonishing, the new worlds they have opened to us are
+so vast, that there is, perhaps, more danger of our imagination being
+exercised too freely than of its not being exercised sufficiently upon
+them. No one will dispute the claim of the Professor to be one of the
+privileged spirits of whom he speaks, if there are any such, and he
+proceeds accordingly to exercise his imagination, not upon the little
+germ-cells, but upon that vast primordial nebulous envelope out of
+which, according to the opinion to which some philosophers incline,
+all the infinite complexity of the existing world has been developed.
+We are not privileged spirits, and we own ourselves not altogether
+able to follow him when he leads us into the imaginary realms of the
+original chaos. He confesses that Mr. Darwin ‘has drawn heavily upon
+time and adventurously upon matter.’ We ask ourselves again whether
+we are listening to one experimental philosopher describing the
+achievements of another experimental philosopher. We had been under
+the impression that Natural Philosophers drew no bills. We do not
+presume to say one word about the Evolution Hypothesis. We neither
+affirm nor deny that Professor Tyndall existed in a nebulous state an
+infinite number of centuries ago. We only venture to suggest that when
+the British Association amuse the public with these speculations they
+are illustrating, not the scientific use of the imagination, but the
+imaginative use of science.
+
+
+             _From the_ SATURDAY REVIEW, _Sept._ 24, 1870.
+
+Here, too, we question whether Sir William Thomson will be content
+with this definition of the process by which he has been guided to
+his most recent advance in molecular physics. In the splendid series
+of inductions verified step after step by rigorous experiment
+and observation, and kept in exactest continuity by the chain of
+mathematical evolution, is imagination the faculty to which are
+to be given the chief honours of this conquest of a new realm of
+physics? This would surely be to force upon us a new and arbitrary
+classification or analysis of the powers of the intellect. If we follow
+Professor Tyndall himself through the masterly train of reasoning
+whereby he leads us to the laws of reflection and transmission of light
+as the cause of the azure of the firmament, is what we admire the
+leap of imagination, or the firmly balanced and duly graduated tread
+of a mind trained in the discipline of logic, and careful to plant
+every step on the assured ground of fact or experience? It is simply
+a misnomer to apply the name of imagination to the process or the
+faculty to which this onward march into the realm of unexplored nature
+is really due. As well describe as a triumph of the imagination the
+connected and organized plan of the great strategist which has drawn
+round Paris a living cordon of 300,000 men.
+
+
+ _From a Lecture addressed to Teachers at the South Kensington Museum,
+                    April 30, 1861, by_ J. TYNDALL.
+
+Here, then, is an exhibition of power which we can call forth or cause
+to disappear at pleasure. We magnetize our strip of steel by drawing
+it along the pole of a magnet; we can demagnetize it, or reverse its
+magnetism, by properly drawing it along the same pole in the opposite
+direction. What, then, is the real nature of this wondrous change? What
+is it that takes place among the atoms of the steel when the substance
+is magnetized? The question leads us beyond the region of sense, and
+into that of imagination. This faculty, indeed, is the divining rod
+of the man of science. Not, however, an imagination which catches its
+creations from the air, but one informed and inspired by facts, capable
+of seizing firmly on a physical image as a principle, of discerning its
+consequences, and of devising means whereby these forecasts of thought
+may be brought to an experimental test. If such a principle be adequate
+to account for all the phenomena, if from an assumed cause the observed
+facts necessarily follow, we call the assumption a theory, and once
+possessing it, we can not only revive at pleasure facts already known,
+but we can predict others which we have never seen. Thus, then, in the
+prosecution of physical science, our powers of observation, memory,
+imagination, and inference, are all drawn upon. We observe facts and
+store them up; imagination broods upon these memories, and by the
+aid of reason tries to discern their interdependence. The theoretic
+principle flashes, or slowly dawns upon the mind, and then the
+deductive faculty interposes to carry out the principle to its logical
+consequences. A perfect theory gives dominion over natural facts;
+and even an assumption which can only partially stand the test of a
+comparison with facts, may be of eminent use in enabling us to connect
+and classify groups of phenomena.
+
+
+                _From the_ GUARDIAN, _Sept._ 21, 1870.
+
+He held some pieces of paper in his hand, but he rarely referred to
+them. Thoroughly possessed by his subject, his thoughts seemed to
+flow forth with perfect ease, fresh minted as they were in the most
+appropriate and perspicuous words. He led his hearers gently and almost
+unconsciously through the most perplexed mazes and subtlest passages
+of thought, keeping their ears enchained and their fancy charmed by
+the endless succession of apt metaphor; and yet, whenever he felt or
+fancied that their overstrained attention began to flag, he was able to
+turn aside into light and pleasant banter, and after this interlude of
+welcome refreshment, to resume again with renewed power the unbroken
+thread of his serious discourse. It was the manifest work of a master
+in his art, handling with ease and grace the weighty tools which long
+use had made familiar to his hand.
+
+
+            _From the_ ENGLISH CHURCHMAN, _Sept._ 29, 1870.
+
+What astonishes us beyond measure is, that a man of Professor Tyndall’s
+real ability and earnestness should sneer at the second verse of the
+Bible, and speak of it as a legend! Why, surely, he has here the very
+thing which he is searching--the true origin of life. When chaos
+ruled over the world, and the earth was void of life; it was the
+Divine Spirit that breathed over the lifeless mass, and light and life
+sprang into existence. Without stopping to point out the evidence of
+the highest Christian doctrine in this passage, we have at least the
+solution of the enigma of the origin of life, in the revealed truth
+that it was caused by the Creative Spirit.
+
+
+                 _From the_ RECORD, _Sept._ 23, 1870.
+
+_Discovery of Motives, No. I._--But why did Professor Tyndall make
+such an appeal to the imagination of his hearers? His imaginary picture
+of the occult operations of light was introduced as a plea for the
+wildness of such weaker brethren, as he calls Mr. Darwin, in speaking
+of his theory of natural selection, succeeded by his supplementary
+theory of pangenesis. It is objected to Mr. Darwin’s theories by
+Christian philosophers that these theories are essentially atheistic.
+That they are framed for the express purpose of blotting out of the
+page of nature some of the most marvellous evidences of design--of
+the most patent revelations of the book of nature, that there is an
+all-wise, all-mighty Creator, God. That these theories deprive man of
+all those prerogatives that raise him above the brute. That the facts
+of nature contradict them. The first theory of Mr. Darwin, that of
+natural selection, is an attempt to account for the formation of all
+animal and vegetable beings from an hypothetical germ.... Even this
+does not pall the imagination of Professor Tyndall. He accepts the
+theory of the avowed atheist Louis Buchner, in his ‘Force and Matter,’
+that the theory of evolution requires us to imagine not only that all
+the structures, animal and vegetable, were once potentially present
+in the fire-mist of the nebulous theory, but also that all mental
+powers--Plato, Shakespeare, Newton, and Raphael--are potential in the
+fires of the sun.
+
+Professor Tyndall appeals to believers in the Bible as God’s Word not
+to style such a theory wicked or impious. He says men can hold it, and
+manifest in their lives what he terms so-called Christian virtues. He
+says, ‘They who keep such questions open and will not tolerate any
+unlawful limitation of the horizon of their souls, have as little
+fellowship with the atheist who says there is no God, as with the
+theist who professes to know the mind of God.’ These men then are
+theists, but what kind of a God does their free speculation require?
+The theists who are sneered at by Professor Tyndall, who believe in a
+God who has revealed his will and his mind to man, have far higher and
+more convincing proofs that He has so revealed Himself than Professor
+Tyndall can ever accumulate for his belief in the undulatory theory of
+light.
+
+Professor Tyndall’s philosophy regards the universe as a huge
+mechanical, self-supporting, self-sustaining, self-evolving, material
+machine--untended by a loving Father’s sustaining and providential
+care. His God is the God of the Epicureans, who created and started
+the machine into motion and then left it for ever to itself. Such a
+philosophy, the child of unbridled pride of intellect, may appeal
+to the wildest imagination of corrupted human nature, but it has no
+sympathy with all the higher yearnings of the soul.
+
+
+                 _From the_ LANCET, _Sept._ 24, 1870.
+
+_Discovery of Motives, No II._--Now, Professor Tyndall’s object
+was to preach about germs, and he proceeded to accomplish it in
+somewhat the following manner. He first set forth that it was a
+wholesome use of the imagination to apply our knowledge of aërial
+sound-waves to the solution of the question--what is the cause of
+the phenomena of light? And he then proceeded to draw one of those
+charming word-pictures for which he is so famous, showing the rippling
+of the ethereal light-waves against molecules in the atmosphere, the
+greater proportionate reflection of the shorter wave of blue, and the
+consequent preponderance of blue rays in the light reflected to us from
+the sky, and of red and yellow rays in the light coming unreflected
+from the sun.... Now, the aim of all this was to seek and show that
+the air is filled by an infinite multitude of suspended particles, so
+minute that they do not produce darkness, and that these particles
+may be germs. Professor Tyndall does not say that they are germs,
+but, by the aid of a special disclaimer, he prevented his audience
+from forgetting that they might be. We should be very loth to accuse
+him of disingenuousness, but we are unable entirely to acquit him of
+special pleading. We feel that his lecture was a very skilful attempt
+to familiarise the public mind with the existence of atmospheric
+particles, and to lead up to and encourage, without absolutely
+expressing the idea that germs are particles, and that particles may be
+germs.
+
+
+                    _To the Editor of the_ RECORD.
+
+SIR,--It is a grave error on your part to represent me as
+calling Mr. Darwin ‘one of the weaker brethren.’ Were I asked to name
+the highest representative of the stronger ones, I should probably name
+him. But in your article you link my name with that of a writer whom I
+do rank among the weaker brethren; weak through a defect common to him
+and his antagonists--the incompetence, namely, to look round a great
+question and see its bearings on all sides.
+
+    I am, Sir, your obedient servant,
+                                                          JOHN TYNDALL.
+
+ ATHENÆUM CLUB, October 4.
+
+
+          _From the_ PALL MALL GAZETTE, _September_ 20, 1870.
+
+Why does Professor Tyndall attribute to Goethe the ‘notion,’ as he
+calls it, that matter is ‘the living garment of God’? We are not aware
+that it is to be found in his works. In ‘Faust’ Goethe introduces the
+spirit of the earth, who describes his own operations as consisting in
+weaving into one vast fabric the ‘tumults of human life, the storm of
+actions,’ births and deaths, and the affairs of us mortals, and working
+thereout ‘a living garment for the Divinity.’ Whether the phrase be
+a piece of cant, or a piece of sublimity, it has no semblance of the
+meaning which the Professor attributes to it.
+
+
+              _From the_ SPECTATOR, _September_ 24, 1870.
+
+Professor Tyndall concluded his lecture by a passage on the development
+theory, in which he contended that if our traditional view of matter
+had been Goethe’s view, that matter is ‘the living garment of God,’
+instead of Young’s, who looked upon it as foreign to mind, and taking
+all its laws from outside itself, the development theory would not seem
+to us what we now mean by materialistic. The ‘Pall Mall’ falls severely
+on Professor Tyndall for misquoting Goethe, and shows that the passage
+in ‘Faust’ probably referred to, where the Erdgeist speaks of weaving
+a ‘living garment for the Divinity,’ did not refer to external nature
+at all. No doubt the special quotation was a little wide of the mark,
+but does the critic in the ‘Pall Mall’ doubt that Professor Tyndall
+was interpreting quite accurately Goethe’s conception, as elsewhere
+expressed with sufficient elaboration? If he does not, his criticism
+is a cavil. If he does, let him study Goethe more thoroughly--‘Gott
+und Welt,’ for example, of the proem to which a friend has sent us a
+faithful version to-day, which we print in another column. What can be
+stronger than this?--
+
+    Was wär’ ein Gott der nur von aussen stiesse
+    Im Kreis das All am Finger laufen liesse!
+    Ihm ziemt’s, die Welt im Innern zu bewegen,
+    Natur in Sich, Sich in Natur zu hegen.
+
+
+_A Translation of Goethe’s Proemium to ‘Gott und Welt.’_
+
+    To Him who from eternity, self-stirred,
+    Himself hath made by His creative Word!
+    To him, supreme, who causeth Faith to be,
+    Trust, Hope, Love, Power, and endless Energy!
+    To Him, who, seek to name Him as we will,
+    Unknown within Himself abideth still!
+
+    Strain ear and eye, till sight and sense be dim;
+    Thou’lt find but faint similitudes of Him:
+    Yea, and thy spirit in her flight of flame
+    Still strives to gauge the symbol and the name:
+    Charmed and compelled thou climb’st from height to height,
+    And round thy path the world shines wondrous bright;
+    Time, Space, and Size, and Distance cease to be,
+    And every step is fresh infinity.
+
+    What were the God who sat outside to scan
+    The spheres that ’neath his finger circling ran?
+    God dwells within, and moves the world and moulds,
+    Himself and Nature in one form enfolds:
+    Thus all that lives in Him and breathes and is,
+    Shall ne’er His puissance, ne’er His spirit miss.
+
+    The soul of man, too, is an universe:
+    Whence follows it that race with race concurs
+    In naming all it knows of good and true
+    God,--yea, its own God; and with homage due
+    Surrenders to His sway both earth and heaven;
+    Fears Him, and loves, where place for love is given.
+
+                                                               J. A. S.
+
+     From the SPECTATOR, September 24.
+
+
+                 _From the_ TIMES, _October_ 3, 1870.
+
+But the most serious obstacle of a public nature which can possibly
+impede the progress of science--an obstacle before which all others
+sink into absolute insignificance--is _the reign of prejudice_,
+or the unwillingness to adopt the teachings of science, and to accept
+her legitimate conclusions through certain preconceived opinions,
+the result of a faulty education or a vicious temperament. To this,
+indeed, we think the British Association cannot pay too much attention,
+and we were not a little gratified, in consequence, at the eloquent
+lecture on the use of the imagination in science delivered by Professor
+Tyndall. The importance of such a discourse at such a time to clear
+the atmosphere of the clouds of prejudice which a mistaken zeal has
+raised in the minds of a large class cannot be over-estimated. Since
+it is certain that religious intolerance and religious bigotry are
+the largest sources of prejudice, the removal of these ought to be a
+primary object of the association, and when the undertaking is made
+with the same spirit of reverence, the same earnestness of purpose, and
+philosophical acumen which distinguished Professor Tyndall’s discourse,
+it seems impossible to doubt that much benefit must ultimately result
+thereby to the cause of truth. The impression produced on our minds
+by that philosophical masterpiece will not be easily effaced. As
+we listened in that crowded hall with admiration to the thoughtful
+investigator who was unfolding to us the workings of a mind much more
+than ordinarily acute, we pictured to ourselves the effect which
+it was so well calculated to produce in the mind of the sceptic in
+science. We saw in imagination the victory of conscience and reason,
+the emancipation of a soul, the new birth of an intelligence. As the
+speaker welded one link to another of the long chain of ratiocination,
+his ardour rising with the progress of his argument, we thought that it
+had never been our good fortune to listen to so splendid a discourse.
+But the end was not yet. The grand appeal had still to be made. In a
+magnificent peroration Professor Tyndall concluded an argument of no
+common order--an argument not fitted, indeed, to assuage the terrors
+of a vicious imagination; an argument which may perchance have grated
+harshly on the sacerdotal ear; but an argument which elicited thunders
+of applause from an audience more than usually critical--with an appeal
+of unrivalled eloquence to abandon dogmatism for ever, and fairly bring
+every hypothesis before the bar of a disciplined reason. The place and
+the people were worthy of the man. In a vast hall whose name recalls
+the finest relics of the old English ballad were gathered together all
+that the most populous and intelligent shire of Britain could produce
+of talent and influence, while grouped around the presidential chair
+were many of the most brilliant ornaments of British science and the
+representatives of foreign philosophy. It may, indeed, be surmised
+that of the three thousand souls who listened to Professor Tyndall’s
+lay sermon there were few who entered into the discussion prepared to
+embrace his views. Yet we think that there were few also who left that
+hall at all events without a doubt that the search after truth which is
+the sole object of the investigation of nature is neither so prosaic
+nor so dangerous a quest as the false prophets and the Philistines
+would assert--that philosophy is not ‘harsh and crabbed as dull fools
+suppose’--
+
+    But musical as is Apollo’s lute,
+    And a perpetual feast of nectar’d sweets,
+    Where no crude surfeit reigns.
+
+
+
+
+                  SCIENTIFIC USE OF THE IMAGINATION.
+
+[Illustration]
+
+
+I CARRIED with me to the Alps this year the heavy burden of this
+evening’s work. In the way of new investigation I had nothing complete
+enough to be brought before you; so all that remained to me was to fall
+back upon such residues as I could find in the depths of consciousness,
+and out of them to spin the fibre and weave the web of this discourse.
+Save from memory I had no direct aid upon the mountains; but to spur
+up the emotions, on which so much depends, as well as to nourish
+indirectly the intellect and will, I took with me two volumes of
+poetry, Goethe’s ‘Farbenlehre,’ and the work on ‘Logic’ recently
+published by Mr. Alexander Bain.[1] The spur, I am sorry to say, was
+no match for the integument of dulness it had to pierce. In Goethe,
+so glorious otherwise, I chiefly noticed the self-inflicted hurts of
+genius, as it broke itself in vain against the philosophy of Newton.
+For a time, Mr. Bain became my principal companion. I found him learned
+and practical, shining generally with a dry light, but exhibiting at
+times a flush of emotional strength, which proved that even logicians
+share the common fire of humanity. He interested me most when he
+became the mirror of my own condition. Neither intellectually nor
+socially is it good for man to be alone, and the griefs of thought are
+more patiently borne when we find that they have been experienced by
+another. From certain passages in his book I could infer that Mr. Bain
+was no stranger to such sorrows. Take this passage as an illustration.
+Speaking of the ebb of intellectual force, which we all from time to
+time experience, Mr. Bain says, ‘The uncertainty where to look for the
+next opening of discovery brings the pain of conflict and the debility
+of indecision.’ These words have in them the true ring of personal
+experience. The action of the investigator is periodic. He grapples
+with a subject of enquiry, wrestles with it, overcomes it, exhausts, it
+may be, both himself and it for the time being. He breathes a space,
+and then renews the struggle in another field. Now this period of
+halting between two investigations is not always one of pure repose.
+It is often a period of doubt and discomfort, of gloom and ennui. ‘The
+uncertainty where to look for the next opening of discovery brings the
+pain of conflict and the debility of indecision.’ Such was my precise
+condition in the Alps this year; in a score of words Mr. Bain has here
+sketched my mental diagnosis; and it was under these evil circumstances
+that I had to equip myself for the hour and the ordeal that are now
+come.
+
+Gladly, however, as I should have seen this duty in other hands, I
+could by no means shrink from it. Disloyalty would have been worse
+than failure. In some fashion or other--feebly or strongly, meanly
+or manfully, on the higher levels of thought, or on the flats of
+common-place,--the task had to be accomplished. I looked in various
+directions for help and furtherance; but without me for a time I saw
+only ‘antres vast,’ and within me ‘deserts idle.’ My case resembled
+that of a sick doctor who had forgotten his art and sorely needed the
+prescription of a friend. Mr. Bain wrote one for me. He said, ‘Your
+present knowledge must forge the links of connection between what has
+been already achieved and what is now required.’[2] In these words
+he admonished me to review the past and recover from it the broken
+ends of former investigations. I tried to do so. Previous to going to
+Switzerland I had been thinking much of light and heat, of magnetism
+and electricity, of organic germs, atoms, molecules, spontaneous
+generation, comets, and skies. With one or another of these I now
+sought to re-form an alliance, and finally succeeded in establishing a
+kind of cohesion between thought and Light. The wish grew within me to
+trace, and to enable you to trace, some of the more occult operations
+of this agent. I wished, if possible, to take you behind the drop-scene
+of the senses, and to show you the hidden mechanism of optical action.
+For I take it to be well worth the while of the scientific teacher to
+take some pains, and even great pains, to make those whom he addresses
+copartners of his thoughts. To clear his own mind in the first place
+from all haze and vagueness, and then to project into language which
+shall leave no mistake as to his meaning--which shall leave even his
+errors naked--the definite ideas he has shaped. A great deal is, I
+think, possible to scientific exposition conducted in this way. It
+is possible, I believe, even before an audience like the present, to
+uncover to some extent the unseen things of nature; and thus to give,
+not only to professed students, but to others with the necessary bias,
+industry, and capacity, an intelligent interest in the operations of
+science. Time and labour are necessary to this result, but science is
+the gainer from the public sympathy thus created.
+
+How then are those hidden things to be revealed? How, for example,
+are we to lay hold of the physical basis of light, since, like that
+of life itself, it lies entirely without the domain of the senses?
+Now philosophers may be right in affirming that we cannot transcend
+experience. But we can, at all events, carry it a long way from
+its origin. We can also magnify, diminish, qualify, and combine
+experiences, so as to render them fit for purposes entirely new. We are
+gifted with the power of Imagination,--combining what the Germans call
+Anschauungsgabe and Einbildungskraft--and by this power we can lighten
+the darkness which surrounds the world of the senses. There are tories
+even in science who regard imagination as a faculty to be feared and
+avoided rather than employed. They had observed its action in weak
+vessels and were unduly impressed by its disasters. But they might with
+equal justice point to exploded boilers as an argument against the use
+of steam. Bounded and conditioned by cooperant Reason, imagination
+becomes the mightiest instrument of the physical discoverer. Newton’s
+passage from a falling apple to a falling moon was, at the outset,
+a leap of the imagination. When William Thomson tries to place the
+ultimate particles of matter between his compass points, and to apply
+to them a scale of millimetres, he is powerfully aided by this faculty.
+And in much that has been recently said about protoplasm and life, we
+have the outgoings of the imagination guided and controlled by the
+known analogies of science. In fact, without this power, our knowledge
+of nature would be a mere tabulation of coexistences and sequences. We
+should still believe in the succession of day and night, of summer and
+winter; but the soul of Force would be dislodged from our universe;
+causal relations would disappear, and with them that science which is
+now binding the parts of nature to an organic whole.
+
+I should like to illustrate by a few simple instances the use that
+scientific men have already made of this power of imagination, and to
+indicate afterwards some of the further uses that they are likely to
+make of it. Let us begin with the rudimentary experiences. Observe
+the falling of heavy rain-drops into a tranquil pond. Each drop as
+it strikes the water becomes a centre of disturbance, from which a
+series of ring-ripples expand outwards. Gravity and inertia are the
+agents by which this wave-motion is produced, and a rough experiment
+will suffice to show that the rate of propagation does not amount to
+a foot a second. A series of slight mechanical shocks is experienced
+by a body plunged in the water as the wavelets reach it in succession.
+But a finer motion is at the same time set up and propagated. If
+the head and ears be immersed in the water, as in an experiment of
+Franklin’s, the shock of the drop is communicated to the auditory
+nerve--the _tick_ of the drop is heard. Now this sonorous impulse
+is propagated, not at the rate of a foot a second, but at the rate
+of 4,700 feet a second. In this case it is not the gravity, but
+the _elasticity_ of the water that is the urging force. Every
+liquid particle pushed against its neighbour delivers up its motion
+with extreme rapidity, and the pulse is propagated as a thrill. The
+incompressibility of water, as illustrated by the famous Florentine
+experiment, is a measure of its elasticity, and to the possession
+of this property in so high a degree the rapid transmission of a
+sound-pulse through water is to be ascribed.
+
+But water, as you know, is not necessary to the conduction of sound;
+air is its most common vehicle. And you know that when the air
+possesses the particular density and elasticity corresponding to the
+temperature of freezing water the velocity of sound in it is 1,090
+feet a second. It is almost exactly one-fourth of the velocity in
+water; the reason being that though the greater weight of the water
+tends to diminish the velocity, the enormous molecular elasticity of
+the liquid far more than atones for the disadvantage due to weight. By
+various contrivances we can compel the vibrations of the air to declare
+themselves; we know the length and frequency of sonorous waves, and
+we have also obtained great mastery over the various methods by which
+the air is thrown into vibration. We know the phenomena and laws of
+vibrating rods, of organ-pipes, strings, membranes, plates, and bells.
+We can abolish one sound by another. We know the physical meaning of
+music and noise, of harmony and discord. In short, as regards sound
+we have a very clear notion of the external physical processes which
+correspond to our sensations.
+
+In these phenomena of sound we travel a very little way from downright
+sensible experience. Still the imagination is to some extent exercised.
+The bodily eye, for example, cannot see the condensations and
+rarefactions of the waves of sound. We construct them in thought, and
+we believe as firmly in their existence as in that of the air itself.
+But now our experience has to be carried into a new region, where a new
+use is to be made of it. Having mastered the cause and mechanism of
+sound, we desire to know the cause and mechanism of light. We wish to
+extend our enquiries from the auditory nerve to the optic nerve. Now
+there is in the human intellect a power of expansion--I might almost
+call it a power of creation--which is brought into play by the simple
+brooding upon facts. The legend of the Spirit brooding over chaos may
+have originated in a knowledge of this power. In the case now before us
+it has manifested itself by transplanting into space, for the purposes
+of light, an adequately modified form of the mechanism of sound. We
+know intimately whereon the velocity of sound depends. When we lessen
+the density of a medium and preserve its elasticity constant we augment
+the velocity. When we heighten the elasticity and keep the density
+constant we also augment the velocity. A small density, therefore, and
+a great elasticity, are the two things necessary to rapid propagation.
+Now light is known to move with the astounding velocity of 185,000
+miles a second. How is such a velocity to be obtained? By boldly
+diffusing in space a medium of the requisite tenuity and elasticity.
+Let us make such a medium our starting point, endowing it with one or
+two other necessary qualities; let us handle it in accordance with
+strict mechanical laws; give to every step of our deduction the surety
+of the syllogism; carry it thus forth from the world of imagination
+to the world of sense, and see whether the final outcrop of the
+deduction be not the very phenomena of light which ordinary knowledge
+and skilled experiment reveal. If in all the multiplied varieties of
+these phenomena, including those of the most remote and entangled
+description, this fundamental conception always brings us face to face
+with the truth; if no contradiction to our deductions from it be found
+in external nature, but on all sides agreement and verification; if,
+moreover, as in the case of Conical Refraction and in other cases,
+it has actually forced upon our attention phenomena which no eye had
+previously seen, and which no mind had previously imagined, such a
+conception, which never disappoints us, but always lands us on the
+solid shores of fact, must, we think, be something more than a mere
+figment of the scientific fancy. In forming it that composite and
+creative unity in which reason and imagination are together blent,
+has, we believe, led us into a world not less real than that of the
+senses, and of which the world of sense itself is the suggestion and
+justification.
+
+Far be it from me, however, to wish to fix you immovably in this or
+in any other theoretic conception. With all our belief of it, it will
+be well to keep the theory plastic and capable of change. You may,
+moreover, urge that although the phenomena occur _as if_ the
+medium existed, the absolute demonstration of its existence is still
+wanting. Far be it from me to deny to this reasoning such validity
+as it may fairly claim. Let us endeavour by means of analogy to form
+a fair estimate of its force. You believe that in society you are
+surrounded by reasonable beings like yourself. You are perhaps as
+firmly convinced of this as of anything. What is your warrant for
+this conviction? Simply and solely this, your fellow-creatures behave
+as if they were reasonable; the hypothesis, for it is nothing more,
+accounts for the facts. To take an eminent example: you believe that
+our President is a reasonable being. Why? There is no known method of
+superposition by which any one of us can apply himself intellectually
+to another so as to demonstrate coincidence as regards the possession
+of reason. If, therefore, you hold our President to be reasonable, it
+is because he behaves _as if_ he were reasonable. As in the case
+of the ether, beyond the ‘_as if_’ you cannot go. Nay I should not
+wonder if a close comparison of the data on which both inferences rest,
+caused many respectable persons to conclude that the ether had the best
+of it.
+
+This universal medium, this light-ether as it is called, is a vehicle,
+not an origin of wave-motion. It receives and transmits, but it does
+not create. Whence does it derive the motions it conveys? For the
+most part from luminous bodies. By this motion of a luminous body I do
+not mean its sensible motion, such as the flicker of a candle, or the
+shooting out of red prominences from the limb of the sun. I mean an
+intestine motion of the atoms or molecules of the luminous body. But
+here a certain reserve is necessary. Many chemists of the present day
+refuse to speak of atoms and molecules as real things. Their caution
+leads them to stop short of the clear, sharp, mechanically intelligible
+atomic theory enunciated by Dalton, or any form of that theory, and to
+make the doctrine of multiple proportions their intellectual bourne. I
+respect the caution, though I think it is here misplaced. The chemists
+who recoil from these notions of atoms and molecules accept without
+hesitation the Undulatory Theory of Light. Like you and me they one and
+all believe in an ether and its light producing waves. Let us consider
+what this belief involves. Bring your imaginations once more into play
+and figure a series of sound-waves passing through air. Follow them
+up to their origin, and what do you there find? A definite, tangible,
+vibrating body. It may be the vocal chords of a human being, it may
+be an organ-pipe, or it may be a stretched string. Follow in the same
+manner a train of ether waves to their source; remembering at the same
+time that your ether is matter, dense, elastic, and capable of motions
+subject to and determined by mechanical laws. What then do you expect
+to find as the source of a series of ether waves? Ask your imagination
+if it will accept a vibrating multiple proportion--a numerical ratio in
+a state of oscillation? I do not think it will. You cannot crown the
+edifice by this abstraction. The scientific imagination, which is here
+authoritative, demands as the origin and cause of a series of ether
+waves a particle of vibrating matter quite as definite, though it may
+be excessively minute, as that which gives origin to a musical sound.
+Such a particle we name an atom or a molecule. I think the seeking
+intellect when focussed so as to give definition without penumbral
+haze, is sure to realise this image at the last.
+
+To preserve thought continuous throughout this discourse, to prevent
+either lack of knowledge or failure of memory from producing any rent
+in our picture, I here propose to run rapidly over a bit of ground
+which is probably familiar to most of you, but which I am anxious
+to make familiar to you all. The waves generated in the ether by
+the swinging atoms of luminous bodies are of different lengths and
+amplitudes. The amplitude is the width of swing of the individual
+particles of the wave. In water-waves it is the height of the crest
+above the trough, while the length of the wave is the distance between
+two consecutive crests. The aggregate of waves emitted by the sun may
+be broadly divided into two classes: the one class competent, the
+other incompetent, to excite vision. But the light-producing waves
+differ markedly among themselves in size, form, and force. The length
+of the largest of these waves is about twice that of the smallest,
+but the amplitude of the largest is probably a hundred times that of
+the smallest. Now the force or energy of the wave, which, expressed
+with reference to sensation, means the intensity of the light, is
+proportional to the square of the amplitude. Hence the amplitude being
+one-hundredfold, the energy of the largest light-giving waves would
+be ten-thousandfold that of the smallest. This is not improbable. I
+use these figures not with a view to numerical accuracy, but to give
+you definite ideas of the differences that probably exist among the
+light-giving waves. And if we take the whole range of solar radiation
+into account--its non-visual as well as its visual waves--I think it
+probable that the force or energy of the largest wave is a million
+times that of the smallest.
+
+Turned into their equivalents of sensation, the different light-waves
+produce different colours. Red, for example, is produced by the largest
+waves, violet by the smallest, while green is produced by a wave of
+intermediate length and amplitude. On entering from air into more
+highly refracting substances, such as glass or water, or the sulphide
+of carbon, all the waves are retarded, but the smallest ones most.
+This furnishes a means of separating the different classes of waves
+from each other; in other words, of analysing the light. Sent through
+a refracting prism, the waves of the sun are turned aside in different
+degrees from their direct course, the red least, the violet most.
+They are virtually pulled asunder, and they paint upon a white screen
+placed to receive them ‘the solar spectrum.’ Strictly speaking, the
+spectrum embraces an infinity of colours, but the limits of language
+and of our powers of distinction cause it to be divided into seven
+segments: red, orange, yellow, green, blue, indigo, violet. These
+are the seven primary or prismatic colours. Separately, or mixed in
+various proportions, the solar waves yield all the colours observed in
+nature and employed in art. Collectively, they give us the impression
+of whiteness. Pure unsifted solar light is white; and if all the
+wave-constituents of such light be reduced in the same proportion,
+the light, though diminished in intensity, will still be white. The
+whiteness of Alpine snow with the sun shining upon it, is barely
+tolerable to the eye. The same snow under an overcast firmament is
+still white. Such a firmament enfeebles the light by reflection, and
+when we lift ourselves above a cloud-field--to an Alpine summit, for
+instance, or to the top of Snowdon--and see, in the proper direction,
+the sun shining on the clouds, they appear dazzlingly white. Ordinary
+clouds, in fact, divide the solar light impinging on them into two
+parts--a reflected part and a transmitted part, in each of which the
+proportions of wave-motion which produce the impression of whiteness
+are sensibly preserved.
+
+It will be understood that the conditions of whiteness would fail if
+all the waves were diminished _equally_, or by the same absolute
+quantity. They must be reduced _proportionately_, instead of
+equally. If by the act of reflexion the waves of red light are split
+into exact halves, then, to preserve the light white, the waves
+of yellow, orange, green, and blue must also be split into exact
+halves. In short, the reduction must take place, not by absolutely
+equal quantities, but by equal fractional parts. In white light the
+preponderance as regards energy of the larger over the smaller waves
+must always be immense. Were the case otherwise, the physiological
+correlative, _blue_, of the smaller waves would have the upper
+hand in our sensations.
+
+My wish to render our mental images complete, causes me to dwell
+briefly upon these known points, and the same wish will cause me to
+linger a little longer among others. But here I am disturbed by my
+reflections. When I consider the effect of dinner upon the nervous
+system, and the relation of that system to the intellectual powers
+I am now invoking--when I remember that the universal experience of
+mankind has fixed upon certain definite elements of perfection in
+an after-dinner speech, and when I think how conspicuous by their
+absence these elements are on the present occasion, the thought is not
+comforting to a man who wishes to stand well with his fellow-creatures
+in general, and with the members of the British Association in
+particular. My condition might well resemble that of the ether, which
+is scientifically defined as an assemblage of vibrations. And the
+worst of it is that unless you reverse the general verdict regarding
+the effect of dinner, and prove in your own persons that a uniform
+experience need not continue uniform--which will be a great point
+gained for some people--these tremors of mine are likely to become
+more and more painful. But I call to mind the comforting words of an
+inspired though uncanonical writer, who admonishes us in the Apocrypha
+that fear is a bad counsellor. Let me then cast him out, and let me
+trustfully assume that you will one and all postpone that balmy sleep,
+of which dinner might under the circumstances be regarded as the
+indissoluble antecedent, and that you will manfully and womanfully
+prolong your investigations of the ether and its waves into regions
+which have been hitherto crossed by the pioneers of science alone.
+
+Not only are the waves of ether reflected by clouds, by solids, and
+by liquids, but when they pass from light air to dense, or from dense
+air to light, a portion of the wave-motion is always reflected. Now
+our atmosphere changes continually in density from top to bottom. It
+will help our conceptions if we regard it as made up of a series of
+thin concentric layers, or shells of air, each shell being of the
+same density throughout, and a small and sudden change of density
+occurring in passing from shell to shell. Light would be reflected at
+the limiting surfaces of all these shells, and their action would be
+practically the same as that of the real atmosphere. And now I would
+ask your imagination to picture this act of reflection. What must
+become of the reflected light? The atmospheric layers turn their convex
+surfaces towards the sun, they are so many convex mirrors of feeble
+power, and you will immediately perceive that the light regularly
+reflected from these surfaces cannot reach the earth at all, but is
+dispersed in space.
+
+But though the sun’s light is not reflected in this fashion from the
+aërial layers to the earth, there is indubitable evidence to show that
+the light of our firmament is reflected light. Proofs of the most
+cogent description could be here adduced; but we need only consider
+that we receive light at the same time from all parts of the hemisphere
+of heaven. The light of the firmament comes to us across the direction
+of the solar rays, and even against the direction of the solar rays;
+and this lateral and opposing rush of wave-motion can only be due
+to the rebound of the waves from the air itself, or from something
+suspended in the air. It is also evident that, unlike the action of
+clouds, the solar light is not reflected by the sky in the proportions
+which produce white. The sky is blue, which indicates a deficiency
+on the part of the larger waves. In accounting for the colour of the
+sky, the first question suggested by analogy would undoubtedly be, is
+not the air blue? The blueness of the air has in fact been given as
+a solution of the blueness of the sky. But reason basing itself on
+observation, asks in reply, How, if the air be blue, can the light
+of sunrise and sunset, which travels through vast distances of air,
+be yellow, orange, or even red? The passage of the white solar light
+through a blue medium could by no possibility redden the light. The
+hypothesis of a blue air is therefore untenable. In fact the agent,
+whatever it is, which sends us the light of the sky, exercises in so
+doing a dichroitic action. The light reflected is blue, the light
+transmitted is orange or red. A marked distinction is thus exhibited
+between the matter of the sky and that of an ordinary cloud, which
+latter exercises no such dichroitic action.
+
+By the force of imagination and reason combined we may penetrate this
+mystery also. The cloud takes no note of size on the part of the waves
+of ether, but reflects them all alike. It exercises no selective
+action. Now the cause of this may be that the cloud particles are so
+large in comparison with the size of the waves of ether as to reflect
+them all indifferently. A broad cliff reflects an Atlantic roller as
+easily as a ripple produced by a sea-bird’s wing; and in the presence
+of large reflecting surfaces, the existing differences of magnitude
+among the waves of ether may disappear. But supposing the reflecting
+particles, instead of being very large, to be very small, in comparison
+with the size of the waves. In this case, instead of the whole wave
+being fronted and in great part thrown back, a small portion only is
+shivered off. The great mass of the wave passes over such a particle
+without reflection. Scatter then a handful of such minute foreign
+particles in our atmosphere, and set imagination to watch their action
+upon the solar waves. Waves of all sizes impinge upon the particles,
+and you see at every collision a portion of the impinging wave struck
+off by reflection. All the waves of the spectrum, from the extreme red
+to the extreme violet, are thus acted upon. But in what proportions
+will the waves be scattered? A clear picture will enable us to
+anticipate the experimental answer. Remembering that the red waves are
+to the blue much in the relation of billows to ripples, let us consider
+whether those extremely small particles are competent to scatter
+all the waves in the same proportion. If they be not--and a little
+reflection will make it clear to you that they are not--the production
+of colour must be an incident of the scattering. Largeness is a thing
+of relation; and the smaller the wave, the greater is the relative
+size of any particle on which the wave impinges, and the greater also
+the ratio of the reflected portion to the total wave. A pebble placed
+in the way of the ring-ripples produced by our heavy rain-drops on a
+tranquil pond will throw back a large fraction of the ripple incident
+upon it, while the fractional part of a larger wave thrown back by the
+same pebble might be infinitesimal. Now we have already made it clear
+to our minds that to preserve the solar light white, its constituent
+proportions must not be altered; but in the act of division performed
+by these very small particles we see that the proportions are altered;
+an undue fraction of the smaller waves is scattered by the particles,
+and, as a consequence, in the scattered light, blue will be the
+predominant colour. The other colours of the spectrum must, to some
+extent, be associated with the blue. They are not absent but deficient.
+We ought, in fact, to have them all, but in diminishing proportions,
+from the violet to the red.
+
+We have here presented a case to the imagination, and, assuming the
+undulatory theory to be a reality, we have, I think, fairly reasoned
+our way to the conclusion, that were particles, small in comparison
+to the size of the ether waves, sown in our atmosphere, the light
+scattered by those particles would be exactly such as we observe in
+our azure skies. When this light is analysed, all the colours of the
+spectrum are found; but they are found in the proportions indicated by
+our conclusion.
+
+Let us now turn our attention to the light which passes unscattered
+among the particles. How must it be finally affected? By its successive
+collisions with the particles the white light is more and more robbed
+of its shorter waves; it therefore loses more and more of its due
+proportion of blue. The result may be anticipated. The transmitted
+light, where short distances are involved, will appear yellowish.
+But as the sun sinks towards the horizon the atmospheric distances
+increase, and consequently the number of the scattering particles.
+They abstract in succession the violet, the indigo, the blue, and even
+disturb the proportions of green. The transmitted light under such
+circumstances must pass from yellow through orange to red. This also is
+exactly what we find in nature. Thus, while the reflected light gives
+us at noon the deep azure of the Alpine skies, the transmitted light
+gives us at sunset the warm crimson of the Alpine snows. The phenomena
+certainly occur _as if_ our atmosphere were a medium rendered
+slightly turbid by the mechanical suspension of exceedingly small
+foreign particles.
+
+Here, as before, we encounter our sceptical ‘_as if_.’ It is
+one of the parasites of science, ever at hand, and ready to plant
+itself and sprout, if it can, on the weak points of our philosophy.
+But a strong constitution defies the parasite, and in our case, as we
+question the phenomena, probability grows like growing health, until
+in the end the malady of doubt is completely extirpated. The first
+question that naturally arises is--Can small particles be really
+proved to act in the manner indicated? No doubt of it. Each one of
+you can submit the question to an experimental test. Water will not
+dissolve resin, but spirit will; and when spirit which holds resin in
+solution is dropped into water, the resin immediately separates in
+solid particles, which render the water milky. The coarseness of this
+precipitate depends on the quantity of the dissolved resin. You can
+cause it to separate in thick clots or in exceedingly fine particles.
+Professor Brücke has given us the proportions which produce particles
+particularly suited to our present purpose. One gramme of clean mastic
+is dissolved in eighty-seven grammes of absolute alcohol, and the
+transparent solution is allowed to drop into a beaker containing clear
+water kept briskly stirred. An exceedingly fine precipitate is thus
+formed, which declares its presence by its action upon light. Placing a
+dark surface behind the beaker, and permitting the light to fall into
+it from the top or front, the medium is seen to be distinctly blue. It
+is not perhaps so perfect a blue as I have seen on exceptional days,
+this year, among the Alps, but it is a very fair sky-blue. A trace of
+soap in water gives a tint of blue. London, and I fear Liverpool milk,
+makes an approximation to the same colour through the operation of the
+same cause; and Helmholtz has irreverently disclosed the fact that a
+blue eye is simply a turbid medium.
+
+The action of turbid media upon light was illustrated by Goethe,
+who, though unacquainted with the undulatory theory, was led by his
+experiments to regard the firmament as an illuminated turbid medium
+with the darkness of space behind it. He describes glasses showing a
+bright yellow by transmitted, and a beautiful blue by reflected light.
+Professor Stokes, who was probably the first to discern the real nature
+of the action of small particles on the waves of ether, describes a
+glass of a similar kind.[3] Capital specimens of such glass are to be
+found at Salviati’s in St. James’s Street. What artists call ‘chill’ is
+no doubt an effect of this description. Through the action of minute
+particles, the browns of a picture often present the appearance of
+the bloom of a plum. By rubbing the varnish with a silk handkerchief
+optical continuity is established, and the chill disappears. Some
+years ago I witnessed Mr. Hirst experimenting at Zermatt on the turbid
+water of the Visp, which was charged with the finely divided matter
+ground down by the glaciers. When kept still for a day or so, the
+grosser matter sank, but the finer matter remained suspended, and gave
+a distinctly blue tinge to the water. The blueness of certain Alpine
+lakes has been shown to be in part due to this cause. Prof. Roscoe has
+noticed several striking cases of a similar kind. In a very remarkable
+paper the late Principal Forbes showed that steam issuing from the
+safety-valve of a locomotive, when favourably observed, exhibits at a
+certain stage of its condensation the colours of the sky. It is blue by
+reflected light, and orange or red by transmitted light. The effect,
+as pointed out by Goethe, is to some extent exhibited by peat smoke.
+More than ten years ago I amused myself at Killarney by observing on
+a calm day the straight smoke-columns rising from the chimneys of the
+cabins. It was easy to project the lower portion of a column against a
+dark pine, and its upper portion against a bright cloud. The smoke in
+the former case was blue, being seen mainly by reflected light; in the
+latter case it was reddish, being seen mainly by transmitted light.
+Such smoke was not in exactly the condition to give us the glow of the
+Alps, but it was a step in this direction. Brücke’s fine precipitate
+above referred to looks yellowish by transmitted light, but by duly
+strengthening the precipitate you may render the white light of noon
+as ruby-coloured as the sun when seen through Liverpool smoke, or upon
+Alpine horizons. I do not, however, point to the gross smoke arising
+from coal as an illustration of the action of small particles, because
+such smoke soon absorbs and destroys the waves of blue instead of
+sending them to the eyes of the observer.
+
+These multifarious facts, and numberless others which cannot now be
+referred to, are explained by reference to the single principle, that
+where the scattering particles are small in comparison to the size
+of the waves we have in the reflected light a greater proportion of
+the smaller waves, and in the transmitted light a greater proportion
+of the larger waves, than existed in the original white light. The
+physiological consequence is that in the one light blue is predominant,
+and in the other light orange or red. And now let us push our enquiries
+forward. Our best microscopes can readily reveal objects not more than
+¹⁄₅₀₀₀₀th of an inch in diameter. This is less than the length of a
+wave of red light. Indeed a first-rate microscope would enable us to
+discern objects not exceeding in diameter the length of the smallest
+waves of the visible spectrum. By the microscope therefore we can
+submit our particles to an experimental test. If they are as large as
+the light-waves they will infallibly be seen; and if they are not seen
+it is because they are smaller. I placed in the hands of our President
+a bottle containing Brücke’s particles in greater number and coarseness
+than those examined by Brücke himself. The liquid was a milky blue, and
+Mr. Huxley applied to it his highest microscopic power. He satisfied
+me at the time that had particles of even ¹⁄₁₀₀₀₀₀th of an inch in
+diameter existed in the liquid they could not have escaped detection.
+But no particles were seen. Under the microscope the turbid liquid was
+not to be distinguished from distilled water. Brücke, I may say, also
+found the particles to be of ultra-microscopic magnitude.
+
+But we have it in our power to imitate far more closely than we have
+hitherto done the natural conditions of this problem. We can generate
+in air, as many of you know, artificial skies, and prove their perfect
+identity with the natural one, as regards the exhibition of a number
+of wholly unexpected phenomena. By a continuous process of growth
+moreover we are able to connect sky-matter, if I may use the term,
+with molecular matter on the one side, and with molar matter, or
+matter in sensible masses, on the other. In illustration of this, I
+will take an experiment described by M. Morren of Marseilles at the
+last meeting of the British Association. Sulphur and oxygen combine to
+form sulphurous acid gas. It is this choking gas that is smelt when a
+sulphur match is burnt in air. Two atoms of oxygen and one of sulphur
+constitute the molecule of sulphurous acid. Now it has been recently
+shown in a great number of instances that waves of ether issuing from
+a strong source, such as the sun or the electric light, are competent
+to shake asunder the atoms of gaseous molecules. A chemist would call
+this ‘decomposition’ by light; but it behoves us, who are examining
+the power and function of the imagination, to keep constantly before
+us the physical images which we hold to underlie our terms. Therefore
+I say, sharply and definitely, that the components of the molecules
+of sulphurous acid are shaken asunder by the ether waves. Enclosing
+the substance in a suitable vessel, placing it in a dark room, and
+sending through it a powerful beam of light, we at first see nothing:
+the vessel containing the gas is as empty as a vacuum. Soon, however,
+along the track of the beam a beautiful sky-blue colour is observed,
+which is due to the liberated particles of sulphur. For a time the blue
+grows more intense: it then becomes whitish; and from a whitish blue
+it passes to a more or less perfect white. If the action be continued
+long enough, we end by filling the tube with a dense cloud of sulphur
+particles, which by the application of proper means may be rendered
+visible.
+
+Here then our ether waves untie the bond of chemical affinity, and
+liberate a body--sulphur--which at ordinary temperatures is a solid,
+and which therefore soon becomes an object of the senses. We have
+first of all the free atoms of sulphur, which are both invisible and
+incompetent to stir the retina sensibly with scattered light. But
+these atoms gradually coalesce and form particles, which grow larger
+by continual accretion until after a minute or two they appear as
+sky-matter. In this condition they are invisible themselves, but
+competent to send an amount of wave-motion to the retina sufficient to
+produce the firmamental blue. The particles continue, or may be caused
+to continue, in this condition for a considerable time, during which no
+microscope can cope with them. But they continually grow larger, and
+pass by insensible gradations into the state of _cloud_, when they
+can no longer elude the armed eye. Thus without solution of continuity
+we start with matter in the molecule, and end with matter in the mass,
+sky-matter being the middle term of the series of transformations.
+
+Instead of sulphurous acid, we might choose from a dozen other
+substances, and produce the same effect with any of them. In the case
+of some--probably in the case of all--it is possible to preserve
+matter in the skyey condition for fifteen or twenty minutes under
+the continual operation of the light. During these fifteen or twenty
+minutes the particles are constantly growing larger, without ever
+exceeding the size requisite to the production of the celestial blue.
+Now when two vessels are placed before you, each containing sky-matter,
+it is possible to state with great distinctness which vessel contains
+the largest particles. The retina is very sensitive to differences
+of light, when, as here, the eye is in comparative darkness, and when
+the quantities of wave-motion thrown against the retina are small.
+The larger particles declare themselves by the greater whiteness of
+their scattered light. Call now to mind the observation, or effort
+at observation, made by our President, when he failed to distinguish
+the particles of mastic in Brücke’s medium, and when you have done so
+follow me. I permitted a beam of light to act upon a certain vapour.
+In two minutes the azure appeared, but at the end of fifteen minutes
+it had not ceased to be azure. After fifteen minutes, for example,
+its colour, and some other phenomena, pronounced it to be a blue of
+distinctly smaller particles than those sought for in vain by Mr.
+Huxley. These particles, as already stated, must have been less than
+¹⁄₁₀₀₀₀₀th of an inch in diameter. And now I want you to submit to
+your imagination the following question: Here are particles which have
+been growing continually for fifteen minutes, and at the end of that
+time are demonstrably smaller than those which defied the microscope
+of Mr. Huxley:--_what must have been the size of these particles at
+the beginning of their growth?_ What notion can you form of the
+magnitude of such particles? The distances of stellar space give us
+simply a bewildering sense of vastness without leaving any distinct
+impression on the mind, and the magnitudes with which we have here to
+do bewilder us equally in the opposite direction. We are dealing with
+infinitesimals compared with which the test objects of the microscope
+are literally immense.
+
+From their perviousness to stellar light, and other considerations,
+Sir John Herschel drew some startling conclusions regarding the
+density and weight of comets. You know that these extraordinary and
+mysterious bodies sometimes throw out tails 100,000,000 of miles in
+length, and 50,000 miles in diameter. The diameter of our earth is
+8,000 miles. Both it and the sky, and a good portion of space beyond
+the sky, would certainly be included in a sphere 10,000 miles across.
+Let us fill this sphere with cometary matter, and make it our unit
+of measure. An easy calculation informs us that to produce a comet’s
+tail of the size just mentioned about 300,000 such measures would
+have to be emptied into space. Now suppose the whole of this stuff
+to be swept together, and suitably compressed, what do you suppose
+its volume would be? Sir John Herschel would probably tell you that
+the whole mass might be carted away at a single effort by one of your
+dray-horses. In fact, I do not know that he would require more than
+a small fraction of a horse-power to remove the cometary dust. After
+this you will hardly regard as monstrous a notion I have sometimes
+entertained concerning the quantity of matter in our sky. Suppose a
+shell to surround the earth at a height above the surface which would
+place it beyond the grosser matter that hangs in the lower regions of
+the air--say at the height of the Matterhorn or Mont Blanc. Outside
+this shell we have the deep blue firmament. Let the atmospheric space
+beyond the shell be swept clean, and let the sky-matter be properly
+gathered up. What is its probable amount? I have sometimes thought that
+a lady’s portmanteau would contain it all. I have thought that even a
+gentleman’s portmanteau--possibly his snuffbox--might take it in. And
+whether the actual sky be capable of this amount of condensation or
+not, I entertain no doubt that a sky quite as vast as ours, and as good
+in appearance, could be formed from a quantity of matter which might be
+held in the hollow of the hand.
+
+Small in mass, the vastness in point of number of the particles of
+our sky may be inferred from the continuity of its light. It is not
+in broken patches, nor at scattered points that the heavenly azure
+is revealed. To the observer on the summit of Mont Blanc the blue
+is as uniform and coherent as if it formed the surface of the most
+close-grained solid. A marble dome would not exhibit a stricter
+continuity. And Mr. Glaisher will inform you that if our hypothetical
+shell were lifted to twice the height of Mont Blanc above the earth’s
+surface, we should still have the azure overhead. Everywhere through
+the atmosphere those sky-particles are strewn. They fill the Alpine
+valleys, spreading like a delicate gauze in front of the slopes of
+pine. They sometimes so swathe the peaks with light as to abolish
+their definition. This year I have seen the Weisshorn thus dissolved
+in opalescent air. By proper instruments the glare thrown from the
+sky-particles against the retina may be quenched, and then the mountain
+which it obliterated starts into sudden definition. Its extinction in
+front of a dark mountain resembles exactly the withdrawal of a veil. It
+is the light then taking possession of the eye, and not the particles
+acting as opaque bodies, that interfere with the definition. By day
+this light quenches the stars; even by moonlight it is able to exclude
+from vision all stars between the fifth and the eleventh magnitude.
+It may be likened to a noise, and the stellar radiance to a whisper
+drowned by the noise. What is the nature of the particles which shed
+light? The celebrated De la Rive ascribes the haze of the Alps in
+fine weather to floating organic germs. Now the possible existence
+of germs in such profusion has been held up as an absurdity. It has
+been affirmed that they would darken the air, and on the assumed
+impossibility of their existence in the requisite numbers, without
+invasion of the solar light, a powerful argument has been based by
+believers in spontaneous generation. Similar arguments have been used
+by the opponents of the germ theory of epidemic disease, and both
+parties have triumphantly challenged an appeal to the microscope and
+the chemist’s balance to decide the question. Such arguments are
+absolutely valueless. Without committing myself in the least to De la
+Rive’s notion, without offering any objection here to the doctrine of
+spontaneous generation, without expressing any adherence to the germ
+theory of disease, I would simply draw attention to the fact that in
+the atmosphere we have particles which defy both the microscope and the
+balance, which do not darken the air, and which exist, nevertheless,
+in multitudes sufficient to reduce to insignificance the Israelitish
+hyperbole regarding the sands upon the seashore.
+
+The varying judgments of men on these and other questions may perhaps
+be, to some extent, accounted for by that doctrine of Relativity which
+plays so important a part in philosophy. This doctrine affirms that
+the impressions made upon us by any circumstance, or combination of
+circumstances, depends upon our previous state. Two travellers upon
+the same peak, the one having ascended to it from the plain, the other
+having descended to it from a higher elevation, will be differently
+affected by the scene around them. To the one nature is expanding, to
+the other it is contracting, and feelings are sure to differ which
+have two such different antecedent states. In our scientific judgments
+the law of relativity may also play an important part. To two men, one
+educated in the school of the senses, who has mainly occupied himself
+with observation, and the other educated in the school of imagination
+as well, and exercised in the conceptions of atoms and molecules to
+which we have so frequently referred, a bit of matter, say ¹⁄₅₀₀₀₀th of
+an inch in diameter, will present itself differently. The one descends
+to it from his molar heights, the other climbs to it from his molecular
+lowlands. To the one it appears small, to the other large. So also as
+regards the appreciation of the most minute forms of life revealed by
+the microscope. To one of these men they naturally appear conterminous
+with the ultimate particles of matter, and he readily figures the
+molecules from which they directly spring; with him there is but a
+step from the atom to the organism. The other discerns numberless
+organic gradations between both. Compared with his atoms, the smallest
+vibrios and bacteria of the microscopic field are as behemoth and
+leviathan. The law of relativity may to some extent explain the
+different attitudes of these two men with regard to the question of
+spontaneous generation. An amount of evidence which satisfies the
+one entirely fails to satisfy the other; and while to the one the
+last bold defence and startling expansion of the doctrine will appear
+perfectly conclusive, to the other it will present itself as imposing a
+profitless labour of demolition on subsequent investigators.[4]
+
+I trust, Mr. President, that you--whom untoward circumstances have
+made a biologist, but who still keep alive your sympathy with that
+class of enquiries which nature intended you to pursue and adorn--will
+excuse me to your brethren if I say that some of them seem to form an
+inadequate estimate of the distance which separates the microscopic
+from the molecular limit, and that, as a consequence, they sometimes
+employ a phraseology which is calculated to mislead. When, for example,
+the contents of a cell are described as perfectly homogeneous, as
+absolutely structureless, because the microscope fails to distinguish
+any structure, then I think the microscope begins to play a mischievous
+part. A little consideration will make it plain to all of you that the
+microscope can have no voice in the real question of germ structure.
+Distilled water is more perfectly homogeneous than the contents of any
+possible organic germ. What causes the liquid to cease contracting at
+39° Fahr., and to grow bigger until it freezes? It is a structural
+process of which the microscope can take no note, nor is it likely to
+do so by any conceivable extension of its powers. Place this distilled
+water in the field of an electro-magnet, and bring a microscope to
+bear upon it. Will any change be observed when the magnet is excited?
+Absolutely none; and still profound and complex changes have occurred.
+First of all, the particles of water are rendered diamagnetically
+polar; and secondly, in virtue of the structure impressed upon it
+by the magnetic strain of its molecules, the liquid twists a ray of
+light in a fashion perfectly determinate both as to quantity and
+direction. It would be immensely interesting to both you and me if one
+whom I hoped to see here present,[5] who has brought his brilliant
+imagination to bear upon this subject, could make us see as he sees the
+entangled molecular processes involved in the rotation of the plane
+of polarisation by magnetic force. While dealing with this question,
+he lived in a world of matter and of motion to which the microscope
+has no passport, and in which it can offer no aid. The cases in which
+similar conditions hold are simply numberless. Have the diamond, the
+amethyst, and the countless other crystals formed in the laboratories
+of nature and of man no structure? Assuredly they have; but what can
+the microscope make of it? Nothing. It cannot be too distinctly borne
+in mind that between the microscope limit and the true molecular limit
+there is room for infinite permutations and combinations. It is in
+this region that the poles of the atoms are arranged, that tendency
+is given to their powers, so that when these poles and powers have
+free action and proper stimulus in a suitable environment, they
+determine first the germ and afterwards the complete organism. This
+first marshalling of the atoms on which all subsequent action depends
+baffles a keener power than that of the microscope. Through pure
+excess of complexity, and long before observation can have any voice
+in the matter, the most highly trained intellect, the most refined and
+disciplined imagination, retires in bewilderment from the contemplation
+of the problem. We are struck dumb by an astonishment which no
+microscope can relieve, doubting not only the power of our instrument,
+but even whether we ourselves possess the intellectual elements which
+will ever enable us to grapple with the ultimate structural energies of
+nature.
+
+But the speculative faculty, of which imagination forms so large a
+part, will nevertheless wander into regions where the hope of certainty
+would seem to be entirely shut out. We think that though the detailed
+analysis may be, and may ever remain, beyond us, general notions may
+be attainable. At all events, it is plain that beyond the present
+outposts of microscopic enquiry lies an immense field for the exercise
+of the speculative power. It is only, however, the privileged spirits
+who know how to use their liberty without abusing it, who are able to
+surround imagination by the firm frontiers of reason, that are likely
+to work with any profit here. But freedom to them is of such paramount
+importance that, for the sake of securing it, a good deal of wildness
+on the part of weaker brethren may be overlooked. In more senses
+than one Mr. Darwin has drawn heavily upon the scientific tolerance
+of his age. He has drawn heavily upon _time_ in his development
+of species, and he has drawn adventurously upon _matter_ in
+his theory of pangenesis. According to this theory, a germ already
+microscopic is a world of minor germs. Not only is the organism as a
+whole wrapped up in the germ, but every organ of the organism has there
+its special seed. This, I say, is an adventurous draft on the power of
+matter to divide itself and distribute its forces. But, unless we are
+perfectly sure that he is overstepping the bounds of reason, that he
+is unwittingly sinning against observed fact or demonstrated law--for
+a mind like that of Darwin can never sin wittingly against either fact
+or law--we ought, I think, to be cautious in limiting his intellectual
+horizon. If there be the least doubt in the matter, it ought to be
+given in favour of the freedom of such a mind. To it a vast possibility
+is in itself a dynamic power, though the possibility may never be drawn
+upon. It gives me pleasure to think that the facts and reasonings of
+this discourse tend rather towards the justification of Mr. Darwin than
+towards his condemnation, that they tend rather to augment than to
+diminish the cubic space demanded by this soaring speculator; for they
+seem to show the perfect competence of matter and force, as regards
+divisibility and distribution, to bear the heaviest strain that he has
+hitherto imposed upon them.
+
+In the case of Mr. Darwin, observation, imagination, and reason
+combined have run back with wonderful sagacity and success over a
+certain length of the line of biological succession. Guided by analogy,
+in his ‘Origin of Species,’ he placed at the root of life a primordial
+germ, from which he conceived the amazing richness and variety of
+the life that now is upon the earth’s surface might be deduced. If
+this were true, it would not be final. The human imagination would
+infallibly look behind the germ, and enquire into the history of its
+genesis. Certainty is here hopeless, but the materials for an opinion
+may be attainable. In this dim twilight of conjecture the enquirer
+welcomes every gleam, and seeks to augment his light by indirect
+incidences. He studies the methods of nature in the ages and the
+worlds within his reach, in order to shape the course of speculation
+in the antecedent ages and worlds. And though the certainty possessed
+by experimental enquiry is here shut out, the imagination is not left
+entirely without guidance. From the examination of the solar system,
+Kant and Laplace came to the conclusion that its various bodies once
+formed parts of the same undislocated mass; that matter in a nebulous
+form preceded matter in a dense form; that as the ages rolled away,
+heat was wasted, condensation followed, planets were detached,
+and that finally the chief portion of the fiery cloud reached, by
+self-compression, the magnitude and density of our sun. The earth
+itself offers evidence of a fiery origin; and in our day the hypothesis
+of Kant and Laplace receives the independent countenance of spectrum
+analysis, which proves the same substances to be common to the earth
+and sun. Accepting some such view of the construction of our system as
+probable, a desire immediately arises to connect the present life of
+our planet with the past. We wish to know something of our remotest
+ancestry. On its first detachment from the central mass, life, as
+we understand it, could hardly have been present on the earth. How
+then did it come there? The thing to be encouraged here is a reverent
+freedom--a freedom preceded by the hard discipline which checks
+licentiousness in speculation--while the thing to be repressed, both in
+science and out of it, is dogmatism. And here I am in the hands of the
+meeting--willing to end, but ready to go on. I have no right to intrude
+upon you, unasked, the unformed notions which are floating like clouds,
+or gathering to more solid consistency in the modern speculative
+scientific mind. But if you wish me to speak plainly, honestly, and
+undisputatiously, I am willing to do so. On the present occasion--
+
+    You are ordained to call, and I to come.
+
+Two views, then, offer themselves to us. Life was present potentially
+in matter when in the nebulous form, and was unfolded from it by the
+way of natural development, or it is a principle inserted into matter
+at a later date. With regard to the question of time, the views of
+men have changed remarkably in our day and generation; and I must
+say as regards courage also, and a manful willingness to engage in
+open contest, with fair weapons, a great change has also occurred.
+The clergy of England--at all events the clergy of London--have nerve
+enough to listen to the strongest views which any one amongst us would
+care to utter; and they invite, if they do not challenge, men of the
+most decided opinions to state and stand by those opinions in open
+court. No theory upsets them. Let the most destructive hypothesis be
+stated only in the language current among gentlemen, and they look it
+in the face. They forego alike the thunders of heaven and the terrors
+of the other place, smiting the theory, if they do not like it, with
+honest secular strength. In fact, the greatest cowards of the present
+day are not to be found among the clergy, but within the pale of
+science itself.
+
+Two or three years ago in an ancient London College--a clerical
+institution--I heard a very remarkable lecture by a very remarkable
+man. Three or four hundred clergymen were present at the lecture. The
+orator began with the civilisation of Egypt in the time of Joseph;
+pointing out that the very perfect organisation of the kingdom, and the
+possession of chariots, in one of which Joseph rode, indicated a long
+antecedent period of civilisation. He then passed on to the mud of the
+Nile, its rate of augmentation, its present thickness, and the remains
+of human handywork found therein; thence to the rocks which bound the
+Nile valley, and which teem with organic remains. Thus in his own clear
+and admirable way he caused the idea of the world’s age to expand
+itself indefinitely before the mind of his audience, and he contrasted
+this with the age usually assigned to the world. During his discourse
+he seemed to be swimming against a stream; he manifestly thought that
+he was opposing a general conviction. He expected resistance; so did
+I. But it was all a mistake: there was no adverse current, no opposing
+conviction, no resistance, merely here and there a half-humorous, but
+unsuccessful attempt to entangle him in his talk. The meeting agreed
+with all that had been said regarding the antiquity of the earth
+and of its life. They had, indeed, known it all long ago, and they
+good-humouredly rallied the lecturer for coming amongst them with so
+stale a story. It was quite plain that this large body of clergymen,
+who were, I should say, the finest samples of their class, had entirely
+given up the ancient landmarks, and transported the conception of
+life’s origin to an indefinitely distant past.
+
+This leads us to the gist of our present enquiry, which is this:--Does
+life belong to what we call matter, or is it an independent principle
+inserted into matter at some suitable epoch--say when the physical
+conditions became such as to permit of the development of life? Let us
+put the question with all the reverence due to a faith and culture in
+which we all were cradled--a faith and culture, moreover, which are the
+undeniable historic antecedents of our present enlightenment. I say,
+let us put the question reverently, but let us also put it clearly and
+definitely. There are the strongest grounds for believing that during
+a certain period of its history the earth was not, nor was it fit to
+be, the theatre of life. Whether this was ever a nebulous period, or
+merely a molten period, does not much matter; and if we revert to
+the nebulous condition, it is because the probabilities are really
+on its side. Our question is this:--Did creative energy pause until
+the nebulous matter had condensed, until the earth had been detached,
+until the solar fire had so far withdrawn from the earth’s vicinity
+as to permit a crust to gather round the planet? Did it wait until
+the air was isolated, until the seas were formed, until evaporation,
+condensation, and the descent of rain had begun, until the eroding
+forces of the atmosphere had weathered and decomposed the molten rocks
+so as to form soils, until the sun’s rays had become so tempered by
+distance and by waste as to be chemically fit for the decompositions
+necessary to vegetable life? Having waited through those Æons until the
+proper conditions had set in, did it send the fiat forth, ‘Let Life
+be!’? These questions define a hypothesis not without its difficulties,
+but the dignity of which was demonstrated by the nobleness of the men
+whom it sustained.
+
+Modern scientific thought is called upon to decide between this
+hypothesis and another: and public thought generally will afterwards be
+called upon to do the same. You may, however, rest secure in the belief
+that the hypothesis just sketched can never be stormed, and that it is
+sure, if it yield at all, to yield to a prolonged siege. To gain new
+territory modern argument requires more time than modern arms, though
+both of them move with greater rapidity than of yore. But however
+the convictions of individuals here and there may be influenced, the
+process must be slow and secular which commends the rival hypothesis
+of Natural Evolution to the public mind. For what are the core and
+essence of this hypothesis? Strip it naked and you stand face to face
+with the notion that not alone the more ignoble forms of animalcular
+or animal life, not alone the nobler forms of the horse and lion, not
+alone the exquisite and wonderful mechanism of the human body, but
+that the human mind itself--emotion, intellect, will, and all their
+phenomena--were once latent in a fiery cloud. Surely the mere statement
+of such a notion is more than a refutation. But the hypothesis would
+probably go even further than this. Many who hold it would probably
+assent to the position that at the present moment all our philosophy,
+all our poetry, all our science, and all our art--Plato, Shakspeare,
+Newton, and Raphael--are potential in the fires of the sun. We long to
+learn something of our origin. If the Evolution hypothesis be correct,
+even this unsatisfied yearning must have come to us across the ages
+which separate the unconscious primeval mist from the consciousness
+of to-day. I do not think that any holder of the Evolution hypothesis
+would say that I overstate it or overstrain it in any way. I merely
+strip it of all vagueness, and bring before you unclothed and
+unvarnished the notions by which it must stand or fall.
+
+Surely these notions represent an absurdity too monstrous to be
+entertained by any sane mind. Let us, however, give them fair play. Let
+us steady ourselves in front of the hypothesis, and, dismissing all
+terror and excitement from our minds, let us look firmly into it with
+the hard sharp eye of intellect alone. Why are these notions absurd,
+and why should sanity reject them? The law of Relativity, of which we
+have previously spoken, may find its application here. These Evolution
+notions are absurd, monstrous, and fit only for the intellectual
+gibbet in relation to the ideas concerning matter which were drilled
+into us when young. Spirit and matter have ever been presented to us
+in the rudest contrast, the one as all-noble, the other as all-vile.
+But is this correct? Does it represent what our mightiest spiritual
+teacher would call the Eternal Fact of the Universe? Upon the answer to
+this question all depends. Supposing, instead of having the foregoing
+antithesis of spirit and matter presented to our youthful minds, we had
+been taught to regard them as equally worthy and equally wonderful; to
+consider them in fact as two opposite faces of the self-same mystery.
+Supposing that in youth we had been impregnated with the notion of
+the poet Goethe, instead of the notion of the poet Young, looking
+at matter, not as brute matter, but as ‘the living garment of God;’
+do you not think that under these altered circumstances the law of
+Relativity might have had an outcome different from its present one?
+Is it not probable that our repugnance to the idea of primeval union
+between spirit and matter might be considerably abated? Without this
+total revolution of the notions now prevalent, the Evolution hypothesis
+must stand condemned; but in many profoundly thoughtful minds such
+a revolution has already taken place. They degrade neither member
+of the mysterious duality referred to; but they exalt one of them
+from its abasement, and repeal the divorce hitherto existing between
+both. In substance, if not in words, their position as regards the
+relation of spirit and matter is: ‘What God hath joined together let
+not man put asunder.’ And with regard to the ages of forgetfulness
+which lie between the unconscious life of the nebula and the conscious
+life of the earth, it is, they would urge, but an extension of that
+forgetfulness which preceded the birth of us all.
+
+I have thus led you to the outer rim of speculative science, for
+beyond the nebulæ scientific thought has never ventured hitherto, and
+have tried to state that which I considered ought, in fairness, to be
+outspoken. I do not think this Evolution hypothesis is to be flouted
+away contemptuously; I do not think it is to be denounced as wicked.
+It is to be brought before the bar of disciplined reason, and there
+justified or condemned. Let us hearken to those who wisely support
+it, and to those who wisely oppose it; and let us tolerate those, and
+they are many, who foolishly try to do either of these things.[6] The
+only thing out of place in the discussion is dogmatism on either side.
+Fear not the Evolution hypothesis. Steady yourselves in its presence
+upon that faith in the ultimate triumph of truth which was expressed
+by old Gamaliel when he said:--‘If it be of God, ye cannot overthrow
+it; if it be of man, it will come to nought.’ Under the fierce light
+of scientific enquiry, this hypothesis is sure to be dissipated if it
+possess not a core of truth. Trust me, its existence as a hypothesis
+in the mind is quite compatible with the simultaneous existence of all
+those virtues to which the term Christian has been applied. It does
+not solve--it does not profess to solve--the ultimate mystery of this
+universe. It leaves in fact that mystery untouched. For granting the
+nebula and its potential life, the question, whence came they? would
+still remain to baffle and bewilder us. At bottom, the hypothesis does
+nothing more than ‘transport the conception of life’s origin to an
+indefinitely distant past.’
+
+Those who hold the doctrine of Evolution are by no means ignorant of
+the uncertainty of their data, and they yield no more to it than a
+provisional assent. They regard the nebular hypothesis as probable,
+and in the utter absence of any evidence to prove the act illegal,
+they extend the method of nature from the present into the past. Here
+the observed uniformity of nature is their only guide. Within the long
+range of physical enquiry, they have never discerned in nature the
+insertion of caprice. Throughout this range the laws of physical and
+intellectual continuity have run side by side. Having thus determined
+the elements of their curve in a world of observation and experiment,
+they prolong that curve into an antecedent world, and accept as
+probable the unbroken sequence of development from the nebula to the
+present time. You never hear the really philosophical defenders of the
+doctrine of Uniformity speaking of _impossibilities_ in nature.
+They never say, what they are constantly charged with saying, that
+it is impossible for the Builder of the universe to alter His work.
+Their business is not with the possible, but the actual--not with a
+world which _might_ be, but with a world that _is_. This
+they explore with a courage not unmixed with reverence, and according
+to methods which, like the quality of a tree, are tested by their
+fruits. They have but one desire--to know the truth. They have but one
+fear--to believe a lie. And if they know the strength of science, and
+rely upon it with unswerving trust, they also know the limits beyond
+which science ceases to be strong. They best know that questions
+offer themselves to thought which science, as now prosecuted, has not
+even the tendency to solve. They keep such questions open, and will
+not tolerate any unlawful limitation of the horizon of their souls.
+They have as little fellowship with the atheist who says there is no
+God, as with the theist who professes to know the mind of God. ‘Two
+things,’ said Immanuel Kant, ‘fill me with awe: the starry heavens
+and the sense of moral responsibility in man.’ And in his hours of
+health and strength and sanity, when the stroke of action has ceased
+and the pause of reflection has set in, the scientific investigator
+finds himself overshadowed by the same awe. Breaking contact with the
+hampering details of earth, it associates him with a power which gives
+fulness and tone to his existence, but which he can neither analyse nor
+comprehend.
+
+
+
+
+                SCIENTIFIC LIMIT OF THE IMAGINATION.[7]
+
+
+THE CELEBRATED FICHTE, in his lectures on the ‘Vocation of the
+Scholar,’ insisted on a culture for the scholar which should not
+be one-sided, but all-sided. His intellectual nature was to expand
+spherically and not in a single direction. In one direction, however,
+Fichte required that the scholar should apply himself directly to
+nature, become a creator of knowledge, and thus repay by original
+labours of his own the immense debt he owed to the labours of others.
+It was these which enabled him to supplement the knowledge derived
+from his own researches, so as to render his culture rounded and not
+one-sided.
+
+As regards science Fichte’s idea is to some extent illustrated by
+the constitution and the labours of the British Association. We have
+here a body of men engaged in the pursuit of Natural Knowledge, but
+variously engaged. While sympathizing with each of its departments,
+and supplementing his culture by knowledge drawn from all of them,
+each student amongst us selects one subject for the exercise of his
+own original faculty--one line along which he may carry the light of
+his private intelligence a little way into the darkness by which all
+knowledge is surrounded. Thus, the geologist deals with the rocks; the
+biologist with the conditions and phenomena of life; the astronomer
+with stellar masses and motions; the mathematician with the relations
+of space and number; the chemist pursues his atoms, while the physical
+investigator has his own large field in optical, thermal, electrical,
+acoustical, and other phenomena. The British Association then, as
+a whole, faces physical nature on all sides and pushes knowledge
+centrifugally outwards, the sum of its labours constituting what Fichte
+might call the _sphere_ of natural knowledge. In the meetings of
+the Association it is found necessary to resolve this sphere into its
+component parts, which take concrete form under the respective letters
+of our Sections.
+
+This is the Mathematical and Physical Section. Mathematics and physics
+have been long accustomed to coalesce. For, no matter how subtle a
+natural phenomenon may be, whether we observe it in the region of
+sense, or follow it into that of imagination, it is in the long run
+reducible to mechanical laws. But the mechanical data once guessed or
+given, mathematics become all powerful as an instrument of deduction.
+The command of geometry over the relations of space, the far-reaching
+power which organised symbolic reasoning confers, are potent both
+as means of physical discovery, and of reaping the entire fruits of
+discovery. Indeed, without mathematics, expressed or implied, our
+knowledge of physical science would be friable in the extreme.
+
+Side by side with the mathematical method we have the method of
+experiment. Here, from a starting-point furnished by his own researches
+or those of others, the investigator proceeds by combining intuition
+and verification. He ponders the knowledge he possesses and tries to
+push it further, he guesses and checks his guess, he conjectures and
+confirms or explodes his conjecture. These guesses and conjectures
+are by no means leaps in the dark; for knowledge once gained casts a
+faint light beyond its own immediate boundaries. There is no discovery
+so limited as not to illuminate something beyond itself. The force of
+intellectual penetration into this penumbral region which surrounds
+actual knowledge is not, as some seem to think, dependent upon method,
+but upon the genius of the investigator. There is, however, no genius
+so gifted as not to need control and verification. The profoundest
+minds know best that Nature’s ways are not at all times their ways, and
+that the brightest flashes in the world of thought are incomplete until
+they have been proved to have their counterparts in the world of fact.
+Thus the vocation of the true experimentalist may be defined as the
+continued exercise of spiritual insight, and its incessant correction
+and realization. His experiments constitute a body, of which his
+purified intuitions are, as it were, the soul.
+
+Partly through mathematical and partly through experimental research,
+physical science has of late years assumed a momentous position in the
+world. Both in a material and in an intellectual point of view it has
+produced, and it is destined to produce, immense changes,--vast social
+ameliorations, and vast alterations in the popular conception of the
+origin, rule, and governance of natural things. By science, in the
+physical world, miracles are wrought, while philosophy is forsaking
+its ancient metaphysical channels and pursuing others which have been
+opened or indicated by scientific research. This must become more and
+more the case as philosophic writers become more deeply imbued with the
+methods of science, better acquainted with the facts which scientific
+men have won, and with the great theories which they have elaborated.
+
+If you look at the face of a watch, you see the hour and minute-hands,
+and possibly also a second-hand, moving over the graduated dial. Why do
+these hands move? and why are their relative motions such as they are
+observed to be? These questions cannot be answered without opening the
+watch, mastering its various parts, and ascertaining their relationship
+to each other. When this is done, we find that the observed motion of
+the hands follows of necessity from the inner mechanism of the watch,
+when acted upon by the force invested in the spring.
+
+The motion of the hands may be called a phenomenon of art, but the case
+is similar with the phenomena of nature. These also have their inner
+mechanism, and their store of force to set that mechanism going. The
+ultimate problem of physical science is to reveal this mechanism, to
+discern this store, and to show that from the combined action of both
+the phenomena of which they constitute the basis must of necessity flow.
+
+I thought that an attempt to give you even a brief and sketchy
+illustration of the manner in which scientific thinkers regard this
+problem would not be uninteresting to you on the present occasion;
+more especially as it will give me occasion to say a word or two on
+the tendencies and limits of modern science; to point out the region
+which men of science claim as their own, and where it is mere waste
+of time to oppose their advance, and also to define, if possible, the
+bourne between this and that other region to which the questionings and
+yearnings of the scientific intellect are directed in vain.
+
+But here your tolerance will be needed. It was the American Emerson, I
+think, who said that it is hardly possible to state any truth strongly
+without apparent injustice to some other truth. Truth is often of a
+dual character, taking the form of a magnet with two poles; and many
+of the differences which agitate the thinking part of mankind are to
+be traced to the exclusiveness with which partisan reasoners dwell
+upon one half of the duality in forgetfulness of the other half. The
+proper course appears to be to state both halves strongly, and allow
+each its fair share in the formation of the resultant conviction. But
+this waiting for the statement of the two sides of a question implies
+patience. It implies a resolution to suppress indignation if the
+statement of the one half should clash with our convictions, and to
+repress equally undue elation if the half-statement should happen to
+chime in with our views. It implies a determination to wait calmly for
+the statement of the whole, before we pronounce judgment in the form of
+either acquiescence or dissent.
+
+This premised, and, I trust, accepted, let us enter upon our task.
+There have been writers who affirmed that the pyramids of Egypt were
+the productions of nature; and in his early youth Alexander von
+Humboldt wrote a learned essay with the express object of refuting
+this notion. We now regard the pyramids as the work of men’s hands,
+aided probably by machinery of which no record remains. We picture to
+ourselves the swarming workers toiling at those vast erections, lifting
+the inert stones, and, guided by the volition, the skill, and possibly
+at times by the whip of the architect, placing them in their proper
+positions. The blocks in this case were moved and posited by a power
+external to themselves, and the final form of the pyramid expressed the
+thought of its human builder.
+
+Let us pass from this illustration of constructive power to another of
+a different kind. When a solution of common salt is slowly evaporated,
+the water which holds the salt in solution disappears, but the salt
+itself remains behind. At a certain stage of concentration the salt
+can no longer retain the liquid form; its particles, or molecules,
+as they are called, begin to deposit themselves as minute solids,
+so minute, indeed, as to defy all microscopic power. As evaporation
+continues solidification goes on, and we finally obtain, through the
+clustering together of innumerable molecules, a finite crystalline mass
+of a definite form. What is this form? It sometimes seems a mimicry
+of the architecture of Egypt. We have little pyramids built by the
+salt, terrace above terrace from base to apex, forming a series of
+steps resembling those up which the Egyptian traveller is dragged by
+his guides. The human mind is as little disposed to look unquestioning
+at these pyramidal salt-crystals as to look at the pyramids of Egypt
+without inquiring whence they came. How, then, are those salt-pyramids
+built up?
+
+Guided by analogy, you may, if you like, suppose that, swarming
+among the constituent molecules of the salt, there is an invisible
+population, guided and coerced by some invisible master, and placing
+the atomic blocks in their positions. This, however, is not the
+scientific idea, nor do I think your good sense will accept it as a
+likely one. The scientific idea is that the molecules act upon each
+other without the intervention of slave labour; that they attract each
+other and repel each other at certain definite points, or poles, and in
+certain definite directions; and that the pyramidal form is the result
+of this play of attraction and repulsion. While, then, the blocks of
+Egypt were laid down by a power external to themselves, these molecular
+blocks of salt are self-posited, being fixed in their places by the
+forces with which they act upon each other.
+
+I take common salt as an illustration because it is so familiar to
+us all; but any other crystalline substance would answer my purpose
+equally well. Everywhere, in fact, throughout inorganic nature, we have
+this formative power, as Fichte would call it--this structural energy
+ready to come into play, and build the ultimate particles of matter
+into definite shapes. The ice of our winters and of our polar regions
+is its handywork, and so equally are the quartz, felspar, and mica of
+our rocks. Our chalk-beds are for the most part composed of minute
+shells, which are also the product of structural energy; but behind the
+shell, as a whole, lies a more remote and subtle formative act. These
+shells are built up of little crystals of calc-spar, and to form these
+crystals the structural force had to deal with the intangible molecules
+of carbonate of lime. This tendency on the part of matter to organize
+itself, to grow into shape, to assume definite forms in obedience to
+the definite action of force, is, as I have said, all-pervading. It is
+in the ground on which you tread, in the water you drink, in the air
+you breathe. Incipient life, as it were, manifests itself throughout
+the whole of what we call inorganic nature.
+
+The forms of the minerals resulting from this play of polar forces are
+various, and exhibit different degrees of complexity. Men of science
+avail themselves of all possible means of exploring their molecular
+architecture. For this purpose they employ in turn as agents of
+exploration, light, heat, magnetism, electricity, and sound. Polarized
+light is especially useful and powerful here. A beam of such light,
+when sent in among the molecules of a crystal, is acted on by them, and
+from this action we infer with more or less of clearness the manner
+in which the molecules are arranged. That differences, for example,
+exist between the inner structure of rock salt and crystallized sugar
+or sugar-candy, is thus strikingly revealed. These differences may be
+made to display themselves in chromatic phenomena of great splendour,
+the play of molecular force being so regulated as to remove some of
+the coloured constituents of white light, and to leave others with
+increased intensity behind.
+
+And now let us pass from what we are accustomed to regard as a dead
+mineral to a living grain of corn. When it is examined by polarized
+light, chromatic phenomena similar to those noticed in crystals are
+observed. And why? Because the architecture of the grain resembles the
+architecture of the crystal. In the grain also the molecules are set in
+definite positions, and in accordance with their arrangement they act
+upon the light. But what has built together the molecules of the corn?
+I have already said regarding crystalline architecture that you may, if
+you please, consider the atoms and molecules to be placed in position
+by a power external to themselves. The same hypothesis is open to you
+now. But if in the case of crystals you have rejected this notion of
+an external architect, I think you are bound to reject it now, and to
+conclude that the molecules of the corn are self-posited by the forces
+with which they act upon each other. It would be poor philosophy to
+invoke an external agent in the one case and to reject it in the other.
+
+Instead of cutting our grain of corn into slices and subjecting it to
+the action of polarized light, let us place it in the earth and subject
+it to a certain degree of warmth. In other words, let the molecules,
+both of the corn and of the surrounding earth, be kept in that state
+of agitation which we call warmth. Under these circumstances, the
+grain and the substances which surround it interact, and a definite
+molecular architecture is the result. A bud is formed; this bud reaches
+the surface, where it is exposed to the sun’s rays, which are also to
+be regarded as a kind of vibratory motion. And as the motion of common
+heat with which the grain and the substances surrounding it were first
+endowed, enabled the grain and these substances to exercise their
+attractions and repulsions, and thus to coalesce in definite forms,
+so the specific motion of the sun’s rays now enables the green bud to
+feed upon the carbonic acid and the aqueous vapour of the air. The bud
+appropriates those constituents of both for which it has an elective
+attraction, and permits the other constituent to resume its place in
+the air. Thus the architecture is carried on. Forces are active at the
+root, forces are active in the blade, the matter of the earth and the
+matter of the atmosphere are drawn towards both, and the plant augments
+in size. We have in succession, the bud, the stalk, the ear, the full
+corn in the ear; the cycle of molecular action being completed by the
+production of grains similar to that with which the process began.
+
+Now there is nothing in this process which necessarily eludes the
+conceptive or imagining power of the purely human mind. An intellect
+the same in kind as our own would, if only sufficiently expanded, be
+able to follow the whole process from beginning to end. It would see
+every molecule placed in its position by the specific attractions and
+repulsions exerted between it and other molecules, the whole process
+and its consummation being an instance of the play of molecular force.
+Given the grain and its environment, the purely human intellect might,
+if sufficiently expanded, trace out _à priori_ every step of
+the process of growth, and by the application of purely mechanical
+principles demonstrate that the cycle must end, as it is seen to end,
+in the reproduction of forms like that with which it began. A similar
+necessity rules here to that which rules the planets in their circuits
+round the sun.
+
+You will notice that I am stating my truth strongly, as at the
+beginning we agreed it should be stated. But I must go still further,
+and affirm that in the eye of science _the animal body_ is just
+as much the product of molecular force as the stalk and ear of corn,
+or as the crystal of salt or sugar. Many of the parts of the body are
+obviously mechanical. Take the human heart, for example, with its
+system of valves, or take the exquisite mechanism of the eye or hand.
+Animal heat, moreover, is the same in kind as the heat of a fire,
+being produced by the same chemical process. Animal motion, too, is
+as directly derived from the food of the animal, as the motion of
+Trevethyck’s walking-engine from the fuel in its furnace. As regards
+matter, the animal body creates nothing; as regards force, it creates
+nothing. Which of you by taking thought can add one cubit to his
+stature? All that has been said, then, regarding the plant may be
+restated with regard to the animal. Every particle that enters into
+the composition of a muscle, a nerve, or a bone, has been placed in
+its position by molecular force. And unless the existence of law in
+these matters be denied, and the element of caprice introduced, we
+must conclude that, given the relation of any molecule of the body
+to its environment, its position in the body might be determined
+mathematically. Our difficulty is not with the _quality_ of the
+problem, but with its _complexity_; and this difficulty might be
+met by the simple expansion of the faculties which we now possess.
+Given this expansion, with the necessary molecular data, and the chick
+might be deduced as rigorously and as logically from the egg as the
+existence of Neptune was deduced from the disturbances of Uranus, or as
+conical refraction was deduced from the undulatory theory of light.
+
+You see I am not mincing matters, but avowing nakedly what many
+scientific thinkers more or less distinctly believe. The formation of
+a crystal, a plant, or an animal, is in their eyes a purely mechanical
+problem, which differs from the problems of ordinary mechanics in the
+smallness of the masses and the complexity of the processes involved.
+Here you have one half of our dual truth; let us now glance at the
+other half. Associated with this wonderful mechanism of the animal
+body we have phenomena no less certain than those of physics, but
+between which and the mechanism we discern no necessary connexion. A
+man, for example, can say _I feel, I think, I love_; but how does
+_consciousness_ infuse itself into the problem? The human brain
+is said to be the organ of thought and feeling; when we are hurt the
+brain feels it, when we ponder it is the brain that thinks, when our
+passions or affections are excited it is through the instrumentality of
+the brain. Let us endeavour to be a little more precise here. I hardly
+imagine there exists a profound scientific thinker, who has reflected
+upon the subject, unwilling to admit the extreme probability of the
+hypothesis, that for every fact of consciousness, whether in the domain
+of sense, of thought, or of emotion, a certain definite molecular
+condition is set up in the brain; who does not hold this relation of
+physics to consciousness to be invariable, so that, given the state
+of the brain, the corresponding thought or feeling might be inferred;
+or given the thought or feeling, the corresponding state of the brain
+might be inferred.
+
+But how inferred? It is at bottom not a case of logical inference
+at all, but of empirical association. You may reply that many of
+the inferences of science are of this character; the inference, for
+example, that an electric current of a given direction will deflect a
+magnetic needle in a definite way; but the cases differ in this, that
+the passage from the current to the needle, if not demonstrable, is
+thinkable, and that we entertain no doubt as to the final mechanical
+solution of the problem. But the passage from the physics of the
+brain to the corresponding facts of consciousness is unthinkable.
+Granted that a definite thought, and a definite molecular action in
+the brain occur simultaneously; we do not possess the intellectual
+organ, nor apparently any rudiment of the organ, which would enable us
+to pass, by a process of reasoning, from the one to the other. They
+appear together, but we do not know why. Were our minds and senses so
+expanded, strengthened, and illuminated as to enable us to see and
+feel the very molecules of the brain; were we capable of following all
+their motions, all their groupings, all their electric discharges, if
+such there be; and were we intimately acquainted with the corresponding
+states of thought and feeling, we should be as far as ever from the
+solution of the problem. ‘How are these physical processes connected
+with the facts of consciousness?’ The chasm between the two classes
+of phenomena would still remain intellectually impassable. Let the
+consciousness of _love_, for example, be associated with a
+right-handed spiral motion of the molecules of the brain, and the
+consciousness of _hate_ with a left-handed spiral motion. We
+should then know when we love that the motion is in one direction, and
+when we hate that the motion is in the other; but the ‘WHY?’
+would remain as unanswerable as before.
+
+In affirming that the growth of the body is mechanical, and that
+thought, as exercised by us, has its correlative in the physics of
+the brain, I think the position of the ‘Materialist’ is stated, as
+far as that position is a tenable one. I think the materialist will
+be able finally to maintain this position against all attacks; but
+I do not think, in the present condition of the human mind, that he
+can pass beyond this position. I do not think he is entitled to say
+that his molecular groupings and his molecular motions _explain_
+everything. In reality they explain nothing. The utmost he can affirm
+is the association of two classes of phenomena, of whose real bond
+of union he is in absolute ignorance. The problem of the connexion
+of body and soul is as insoluble in its modern form as it was in the
+prescientific ages. Phosphorus is known to enter into the composition
+of the human brain, and a trenchant German writer has exclaimed, ‘Ohne
+Phosphor, kein Gedanke.’ That may or may not be the case; but even
+if we knew it to be the case, the knowledge would not lighten our
+darkness. On both sides of the zone here assigned to the materialist he
+is equally helpless. If you ask him whence is this ‘Matter’ of which
+we have been discoursing, who or what divided it into molecules, who
+or what impressed upon them this necessity of running into organic
+forms, he has no answer. Science is mute in reply to these questions.
+But if the materialist is confounded and science rendered dumb, who
+else is prepared with a solution? To whom has this arm of the Lord
+been revealed? Let us lower our heads and acknowledge our ignorance,
+priest and philosopher, one and all. Perhaps the mystery may resolve
+itself into knowledge at some future day. The process of things upon
+this earth has been one of amelioration. It is a long way from the
+Iguanodon and his contemporaries to the President and Members of the
+British Association. And whether we regard the improvement from the
+scientific or from the theological point of view, as the result of
+progressive development, or as the result of successive exhibitions of
+creative energy, neither view entitles us to assume that man’s present
+faculties end the series,--that the process of amelioration stops at
+him. A time may therefore come when this ultra-scientific region by
+which we are now enfolded may offer itself to terrestrial, if not to
+human investigation. Two-thirds of the rays emitted by the sun fail to
+arouse in the eye the sense of vision. The rays exist, but the visual
+organ requisite for their translation into light does not exist. And
+so from this region of darkness and mystery which surrounds us, rays
+may now be darting which require but the development of the proper
+intellectual organs to translate them into knowledge as far surpassing
+ours as ours surpasses that of the wallowing reptiles which once held
+possession of this planet. Meanwhile the mystery is not without its
+uses. It certainly may be made a power in the human soul; but it is
+a power which has feeling, not knowledge, for its base. It may be,
+and will be, and we hope is turned to account, both in steadying and
+strengthening the intellect, and in rescuing man from that littleness
+to which, in the struggle for existence, or for precedence in the
+world, he is continually prone.
+
+
+
+
+                         EARLIER THOUGHTS.[8]
+
+
+A WORK recently published by Mr. Murray contains a sketch of the
+grounds on which the most advanced scientific thinkers of the present
+day base their convictions as to the physical character of Light and
+Heat. The fundamental idea there developed is, that the phenomena of
+light and heat, like those of sound, are essentially _mechanical_.
+Precisely the same reasoning applies to the vibrating ether which
+produces the one as to the vibrating air which produces the other, and
+both are dealt with substantially as we should deal with the waves of
+a liquid or the swing of a pendulum. Reflection on this subject has
+suggested the thought that the considerations brought forward in the
+sketch referred to may apply themselves to certain phenomena which are
+usually considered to lie outside the pale of physics, and thus may
+indicate new relationships between man regarded as a being of intellect
+and emotion, and the wondrous material system in the midst of which he
+dwells.
+
+All our intercourse with the external world consists exclusively in an
+interchange of motion. From a vibrating, sonorous body, for example,
+pulses are sent to the ear and stir the auditory nerve to motion. From
+a luminous body pulses are sent to the eye, and stir the optic nerve to
+motion. Other pulses of different periods strike upon other nerves,
+and produce the sensation of heat; but, in all cases, whether it be
+light, or sound, or ordinary feeling, the excitement of the nerves,
+regarded more strictly, is the excitement of motion. And if the motion
+be induced by internal causes instead of external, is it not fair
+to infer that the effect on consciousness will be the same? Let any
+nerve, for example, be thrown by morbid action into the precise state
+of motion which would be communicated to it by the pulses of a heated
+body, surely that nerve will declare itself hot--the mind will accept
+the subjective intimation exactly as if it were objective. The retina,
+as is well known, may be excited by purely mechanical means. A blow
+on the eye will cause a luminous flash, and the mere pressure of the
+finger on the external ball will produce a star of light, which Newton
+compared to the circles on a peacock’s tail. Disease makes people see
+visions and dream dreams; but, in all such cases, could we examine the
+organs implicated, we should, on philosophical grounds, expect to find
+them in that precise molecular condition which the real objects, if
+present, would superinduce.
+
+The colour of light is determined by the frequency of the ethereal
+vibrations, as the pitch of sound is determined by the frequency of
+the aërial ones. The red or purple, for example, of a British maiden’s
+cheek and lips, the blue, violet, or brown of her eyes, have their
+strict physical equivalents in the lengths of the waves which issue
+from them; and these waves are not only as truly mechanical as the
+waves of the sea, but they are capable of having their mechanical
+value expressed in numbers. In the work already referred to, a chapter
+is devoted to the relation which subsists between light and heat and
+mere mechanical work. In virtue of this relation we can tell the
+precise amount of work which a given amount of sunshine can perform.
+Now, the hue of the cheek is caused by the extinction of certain of
+the solar rays by the colouring matter of the cheek, the residual
+colour being that seen. Could we interpose the substance to which some
+English cheeks owe their bloom in the path of a beam passing through
+a prism, we should probably find the orange and yellow and green of
+the prismatic spectrum more or less absorbed, the red and a portion
+of the blue being transmitted. This would give us a purplish blush
+resembling that of the permanganate of potash, commonly called the
+mineral chameleon, a solution of which acts upon the spectrum in the
+manner just described. Inasmuch, then, as we can calculate with perfect
+exactness the mechanical value of the total light which falls upon the
+epidermis, a certain fraction of this will express the mechanical value
+of the cheek’s colour. We do not therefore jest, but speak the words of
+truth and soberness when we affirm that the rays to which the tinting
+of any given cheek is due would, if mechanically applied, be competent
+to move a wheelbarrow through a certain space, or to lift a scuttle of
+coals to a certain calculable elevation.
+
+But the human face and eyes flush at times with a radiance which
+might well be taken for a direct spiritual emanation entirely
+independent of ‘brute matter.’ Let us examine this point a little.
+Musical instruments, and also the human voice, have a peculiarity as
+regards their sounds which differs from mere pitch. A clarionet and
+a violin, for example, may be both pitched to the same note, but a
+listener who sees neither can at once tell that the _qualities_
+of the notes are different. This difference is what the French call
+_timbre_, and the Germans, we believe, _Klang_. So, also, we
+can distinguish one vowel from another, though all may have the same
+pitch. The difference here, according to the recent investigations of
+Helmholtz, is due to the fact that certain incidental notes commingle
+in each case with the principal one, and produce a composite result.
+The ‘harmonics’ of a string are known to be due to minor vibrations
+which superpose themselves upon the principal ones, as small ripples
+cover parasitically the surfaces of large sea-waves. The notes of the
+true simple wave and of its parasites are heard at once, and it is the
+variation of the latter which produces differences in the _timbre_
+of a musical instrument or of the human voice.
+
+In speculating on those more subtle phases of expression to which we
+have above referred, might we not offer the conjecture that they are
+not due to those waves alone which make the eyes violet or give the
+cheek its rose, but are a result produced by the compounding of these
+with incidental waves, which influence the colour as the harmonic
+waves of sound influence the pure quality of a note? We have often
+watched with deep interest and sympathy the countenances of some of
+the praying women in the churches of the Continent. We have seen a
+penitent kneeling at a distance from the shrine of the Virgin, as if
+afraid to come nearer. Suddenly a glow has overspread her countenance,
+strengthening in radiance, till at length her very soul seemed shining
+through her features. Sure of her acceptance, she has confidently
+advanced, fallen prostrate immediately in front of the image, and
+remained therefor a time in silent ecstasy. We have watched the ebbing
+of the spiritual tide, and remarked the felicitous repose which it left
+behind. At each new phase of emotion the _timbre_ of this woman’s
+countenance changed, and
+
+    The music breathing from her face
+
+became altered in quality.
+
+The tendency of the above remarks is to show that the most subtle
+phases of ‘expression’ have at least a proximate mechanical origin.
+The splendours of the ‘imperial Eleänore’--the ‘languors of her love
+deep eyes’--are all reducible to the same cause; and not only so, but
+they actually exist for a time in space, isolated alike from her and
+her worshipper. Every gleam of those eyes, every flush of her brows,
+every motion of her lips requires the ether for its transmission, and
+a certain calculable time to pass from her to him. During this time,
+the expression which is to stir the soul, to kindle love or quench it,
+exists in space as a purely mechanical affection of matter; and, for
+aught we know, a slight steepness in the front of an ethereal billow, a
+slight curl of its crest, or some other accident of form, may determine
+whether the recipient of its shock is to be elated with joy or steeped
+in misery.
+
+The philosophy of the future will assuredly take more account than
+that of the past of the relation of thought and feeling to physical
+processes; and it may be that the qualities of the mind will be studied
+through the organism as we now study the character of a force through
+the affections of ordinary matter. We believe that every thought and
+every feeling has its definite mechanical correlative--that it is
+accompanied by a certain separation and remarshalling of the atoms
+of the brain. This latter process is purely physical; and were the
+faculties we now possess sufficiently strengthened, without the
+creation of any new faculty, it would doubtless be within the range of
+our augmented powers to infer from the molecular state of the brain
+the character of the thought acting on it, and conversely to infer
+from the thought the exact molecular condition of the brain. We do not
+say--and this, as will be seen, is all-important--that the inference
+here referred to would be an _à priori_ one. But by observing,
+with the faculties we assume, the state of the brain and the associated
+mental affections, both might be so tabulated side by side that, if
+one were given, a mere reference to the table would declare the other.
+Our present powers, it is true, shrivel into nothingness when brought
+to bear on such a problem, but it is because of its complexity and our
+limits that this is the case. The _quality_ of the problem and the
+_quality_ of our powers are, we believe, so related, that a mere
+expansion of the latter would enable them to cope with the former. Why,
+then, in scientific speculation should we turn our eyes exclusively to
+the humble past? May it not be that a time is coming--ages no doubt
+distant, but still advancing--when the dwellers upon earth, starting
+from the gross human brain of to-day as a rudiment, may be able to
+apply to these mighty questions faculties of commensurate extent? Given
+the requisite expansibility to the present senses and intelligence of
+man--given also the time necessary for their expansion--and this high
+goal may be attained. Development is all that is required, and not
+a change of quality. There need be no absolute breach of continuity
+between us and our loftier brothers yet to come.
+
+We have guarded ourselves against saying that the inferring of thought
+from material combinations and arrangements would be an inference _à
+priori_. The inference meant would be the same in kind as that
+which the observation of the effects of food and drink upon the mind
+would enable us to make, differing only from the latter in the degree
+of analytical insight which we suppose attained. Given the masses and
+distances of the planets, we can infer the perturbations consequent on
+their mutual attractions. Given the nature of a disturbance in water,
+air, or ether--from the physical qualities of the medium we can infer
+how its particles will be affected. Here the mind runs with certainty
+along the line of thought which connects the phenomena, and from
+beginning to end finds no break in the chain. But when we endeavour to
+pass by a similar process from the phenomena of physics to those of
+thought, we meet a problem which transcends any conceivable expansion
+of the powers which we now possess. We may think over the subject again
+and again, but it eludes all intellectual presentation. We stand at
+length face to face with the Incomprehensible. The territory of physics
+is wide, but it has its limits from which we look with vacant gaze into
+the region beyond. Whence come we; whither go we? The question dies
+without an answer--without even an echo--upon the infinite shores of
+the Unknown. Let us follow matter to its utmost bounds; let us claim
+it in all its forms to experiment with and to speculate upon. Casting
+the term ‘vital force’ from our vocabulary, let us reduce, if we can,
+the visible phenomena of life to mechanical attractions and repulsions.
+Having thus exhausted physics, and reached its very rim, the real
+mystery still looms beyond us. We have, in fact, made no step towards
+its solution. And thus it will ever loom--ever beyond the bourne of
+knowledge--compelling the philosophies of successive ages to confess
+that
+
+                            We are such stuff
+    As dreams are made of, and our little life
+    Is rounded with a sleep.
+
+
+
+
+FOOTNOTES:
+
+[Footnote 1: One of my critics remarks, that he does not see the wit
+of calling Goethe’s ‘Farbenlehre’ and Bain’s ‘Logic,’ ‘two volumes of
+poetry.’ Nor do I.]
+
+[Footnote 2: Induction, page 422.]
+
+[Footnote 3: This glass, by reflected light, had a colour ‘strongly
+resembling that of a decoction of horse-chestnut bark.’ Curiously
+enough Goethe refers to this very decoction:--‘Man nehme einen Streifen
+frischer Rinde von der Rosskastanie, man stecke denselben in ein
+Glas Wasser, und in der kürzesten Zeit werden wir das vollkommenste
+Himmelblau entstehen sehen.’--Goethe’s _Werke_, b. xxix. p. 24.]
+
+[Footnote 4: A resolute scrutiny of the experiments, recently executed
+with reference to this question, is sure to yield instructive results.]
+
+[Footnote 5: Sir William Thomson.]
+
+[Footnote 6: In the ‘Prefatory Letter’ to his ‘Lay Sermons,’ Mr.
+Huxley speaks of ‘microscopists, ignorant alike of Philosophy and
+Biology.’ With reference to one conspicuous member of this class, a
+doctor of medicine, lately professor in a London college famous for its
+orthodoxy, both Mr. Huxley and myself have long practised, and shall, I
+trust, continue to practise, the tolerance recommended above.]
+
+[Footnote 7: An Address to the Mathematical and Physical Section of the
+British Association assembled at Norwich on August 19, 1868.]
+
+[Footnote 8: From an article headed ‘Physics and Metaphysics,’ in the
+_Saturday Review_ for August 4, 1860.]
+
+
+
+
+                          LONDON: PRINTED BY
+                SPOTTISWOODE AND CO., NEW-STREET SQUARE
+                         AND PARLIAMENT STREET
+
+
+
+
+                         =TRANSCRIBER’S NOTES=
+
+Obvious typographical errors have been silently corrected.
+
+Punctuation, hyphenation, and spelling were made consistent when a
+predominant preference was found in the original book; otherwise they
+were not changed.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK ESSAYS ON THE USE AND LIMIT OF THE IMAGINATION IN SCIENCE ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

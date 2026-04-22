@@ -1,0 +1,805 @@
+Produced by Julia Miller and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from scans of public domain material produced by
+Microsoft for their Live Search Books site.)
+
+Transcriber's Note
+
+A number of typographical errors have been maintained in this version of
+this book. They have been marked with a [TN-#], which refers to a
+description in the complete list found at the end of the text.
+Inconsistencies in spelling and hyphenation have been maintained. A list
+of inconsistently spelled and hyphenated words is found at the end of
+the text.
+
+Oe ligatures have been expanded.
+
+THE ANCIENT MONUMENTS
+
+OF
+
+NORTH AND SOUTH AMERICA.
+
+SECOND EDITION,
+
+Corrected, enlarged and with some additions,
+
+BY C. S. RAFINESQUE, A. M.--Ph. D.
+
+_Professor of Historical and Natural Sciences, Member of many Learned
+Societies in Philadelphia, New York, Lexington, Cincinnatti,[TN-1]
+Nashville, Paris, Bordeaux, Brussels, Bonn, Vienna, Zurich, Naples &c,
+the American Antiquarian Society, the Northern Antiquarian Society of
+Copenhagen &c._
+
+    The massive ruins the arts and skill unfold
+    Of busy workers, and their styles reveal,
+    The objects and designs of such devisers:
+    In silent voices they speak, to thinking minds
+    They teach, who were the human throngs that left
+    Uplifted marks for witness of past ages.
+
+_PHILADELPHIA_
+
+1838.
+
+Printed for the Author.
+
+NOTICE.
+
+This Essay or Introduction to my Researches on the Antiquities and
+Monuments of North and South America, was printed in September 1838 in
+the first Number of the American Museum of Baltimore, a literary monthly
+periodical undertaken by Messrs. Brooks and Snodgrass, as a new series
+of the North American Quarterly Magazine. Being printed in a hurry and
+at a distance several material errors occured,[TN-2] which are now
+rectified, and this second edition will form thereby the Introduction to
+my long contemplated Work on the Ancient Monuments of this continent: to
+which I alluded in my work on the Ancient Nations of America published
+in 1836. I will add some notes or additions thereto, and may
+gradualy[TN-3] publish my original descriptions and views, plans, maps
+&c, of such as I have surveyed, examined and studied between 1818 and
+this time; comparing them with those observed by others in America or
+elsewhere of the same character--such works are of a national importance
+or interest, and ought to be patronized by the States or Learned
+Societies, or wealthy patriots; but if there is little prospect of their
+doing so, I must either delay or curtail the publication of the
+interesting materials collected for 20 years past.
+
+INTRODUCTION.
+
+The feelings that lead some men to investigate remains of antiquity and
+search into their origin, dates and purposes, are similar to those
+actuating lofty minds, when not satisfied with the surface of things,
+they inquire into the source and origin of every thing accessible to
+human ken, and scrutinize or analize[TN-4] every tangible object. Such
+feelings lead us to trace events and principles, to ascend rivers to
+their sources, to climb the rugged sides of mountains and reach their
+lofty summits, to plough the waves and dive into the sea, or even soar
+into the air, to scan and measure the heavenly bodies, and at last to
+lift our eyes and souls to the _Supreme Being_, the source of
+all.--Applied to mankind the same feelings invite us to seek for the
+origin of arts and sciences, the steps of civilization on earth, the
+rise of nations, states and empires, tracing their cradles, dispersions
+and migrations by the dim records of traditional tales, or the more
+certain monumental evidence of human structures.
+
+This last evidence is but a branch of the archeological science,
+embracing besides the study of documents, records, medals, coins,
+inscriptions, implements, &c., buried in the earth or hidden in
+recesses: while the ruins of cities, palaces and temples, altars and
+graves, pyramids and towers, walls and roads, sculptures and
+idols--reveal to our inquiries not only the existence of their devisers
+and framers at their locations, but give us a view of their
+civilization, religions, manners and abilities.
+
+If the annals of the Greeks and Romans had been lost, as have been those
+of Egypt, of Assyria and many other early empires, we should still have
+in the ruins and monuments of Italy, and Greece, complete evidence of
+the existence of those nations, their location, power and skill; nay,
+even of the extent of their dominion by their colonial monuments,
+scattered from Syria to Spain, from Lybia to Britain. If the British
+annals should ever be lost hereafter by neglect or revolutions, the
+ruins of dwellings, churches, monuments &c., built in the British style,
+will reveal the existence or preserve the memory of the wide extent of
+British power by colonies sent from North America to Guyana, from
+Hindustan to Ceylon, South Africa and Australia.
+
+And thus it is in both Americas where many nations and empires have
+dwelt and passed away, risen and fallen by turns, leaving few or no
+records, except the traces of their existence, and widely spread
+colonies by the ruins of their cities and monuments, standing yet as
+silent witnesses of past dominion and great power. It is only of late
+that they have begun to deserve the attention of learned men and
+historians--what had been stated by Ulloa, Humboldt, Juarros, Delrio,
+&c., of some of them, chiefly found in the Spanish part of America, as
+well as the scattered accounts of the many fragments found in North
+America, from the lakes of Canada to Louisiana, although confined to a
+few places or widely remote localities, have begun to excite the
+curiosity of all inquiring men, and are soon likely to deserve as much
+interest as the famed ruins of Palmyra and Thebes, Babylon and
+Persepolis; when the future historians of America shall make known the
+wonderful and astonishing results that they have suggested, or will
+soon unfold, particularly when accurately surveyed and explored, drawn
+and engraved; instead of being hidden and veiled, or hardly noticed by
+the detractors of the Americans, the false historians of the school of
+Depaw and Robertson, who have perverted or omitted the most striking
+features of American history.
+
+The most erroneous conceptions prevail as yet concerning them, and the
+most rude or absurd ideas are entertained in our country of their
+objects and nature. As in modern Greece, every ruin is now a
+_Paleo-castro_ or old castle for the vulgar peasant or herdsman, thus
+all our ruins of the West are _Indian forts_ for the settlers of the
+Western states; and every traveller gazing at random at a few, exclaims
+that _nothing is known about them, nor their builders_. The more refined
+writers can be very sentimental on their veiled origin, but scarcely any
+one takes the trouble to compare them with others elsewhere, in or out
+of America, which would be, however, the only means to attain the object
+they seem desirous of, or to unravel their historical riddle. Some
+writers speak of them as if they were only a few mounds and graves,
+scarcely worthy of notice; yet they are such mounds as are found yet in
+the Trojan plains, sung by Homer, dating at least three thousand years
+ago, and even by many deemed earlier than the Trojan war, and still
+existing to this day to baffle our inquiries: while similar monuments
+existing by thousands in the plains of Scythia and Tartary, Persia and
+Arabia, as well as the forests and prairies of North America, evince a
+striking connexion of purpose and skill by remote ancient nations of
+both hemispheres.
+
+But our monuments do not merely consist in such mounds or tumuli, since
+we find besides in North America, ruins of cities, some of which were
+walled with earth or even stones, real forts or citadels, temples and
+altars of all shapes, but chiefly circular, square or polygonal, some
+elliptical, hexagonal, octagonal, _&_c., quite regularly pointing to the
+cardinal points. We have also traces of buildings, foundations, roads,
+avenues, causeways, canals, bridges, dromes, or racecourses, pillars and
+pyramids, wells, pits, arenas, _&_c. And of these not a few, but
+hundreds of them, many of which are unsurveyed and undescribed as yet.
+These, it must be recollected, are all north of Mexico, or the region of
+the more perfect monuments of Mexican and Central America, although
+often in the same style. There, as in South America, structures are met
+of the most elaborate workmanship, of cut and carved stones, with hard
+cement, vaulted arches, fine sculptures and even inscriptions. The
+materials of our Northern monuments are often ruder, chiefly of earth,
+clay, gravel, small stones, or even _shells_ near the sea-shores,
+sometimes of _pize_ or beaten and rammed clay, (as in Peru,) unbaked
+bricks and rough stones. These facts may confirm the Mexican traditions,
+stating that the nations of Anahuac (now Mexico) once dwelt further
+north, in our fruitful Western plains, where wood abounded and stones
+were scarce, wherefore they built their cities and _t_emples[TN-5] of
+wood, raising altars, platforms, walls and entrenchments of earth or
+clay.
+
+The dreams and false hypotheses upon America have amused the learned for
+ages: in attempting to account for the origin of the Americans and
+their monuments, they have generally neglected to compare them with the
+monuments and languages of all the other nations scattered over the
+whole earth, or else only taking a partial view of them, comparing a few
+fragments of two or three nations or regions, a few words of a
+centesimal part of the actual languages, the writers or historians have
+fallen into egregious mistakes; more fond of systematic errors than
+hidden truth, they have indulged, without due consideration, in mere
+dreams or systems, based on a few facts, that are overruled by hundreds
+of other facts, unknown to them, or neglected when known. It would be
+useless and tedious to refute again such false systems, that have been
+refuted and upset by each other. It may, however, be needful, perhaps,
+to mention three of the most absurd, in order to warn against them, or
+show their improbability and impossibility. They may be called for
+distinction sake, the _Jewish_ system, the _Mongolic_ system, and the
+_American_ system.
+
+Among these the first named is one of the oldest, and at the same time,
+has yet a powerful hold upon many minds; it ascribes the whole American
+population with one hundred languages and one thousand dialects, myriads
+of ruins and monuments, _to the Jews_! either of the ten dispersed
+tribes, who were not Jews but Israelites--or of Solomon's time and
+voyages, while the Jews only began to exist as such after his death--or
+of patriarchal times antecedent to their existence, when they were only
+OBRIM, whom we miscall _Hebrews_, or going still further back to the
+times of Noah and Peleg, when not even the Obrim had any existence. It
+has been proved that the American nations did not possess the use of
+the plough, iron, alphabets, or week of seven days, which no Jewish nor
+Hebrew descendants could have forgotten. The American languages have as
+much, or more affinities with the Sanscrit, Greek, Latin, Celtic,
+Persian, Berber, Turkish, &c., languages, than with the old and modern
+Hebrew and Arabic. The Jews or IEUDI, who only began two thousand four
+hundred years ago were not navigators; therefore it is evident that they
+cannot have come to America and produced here the two thousand nations
+and tribes of this vast continent: nay, not even a single one of them
+perhaps.
+
+The Mongolic opinion, lately revived by Ranking, is the most extravagant
+of all, since it ventures to assert seriously, and derive all these
+nations and languages from late colonies of Mongols within less than one
+thousand years ago, who came to America over the ice, bringing with them
+tame elephants for sport, that are since become the fossil elephants and
+mammoths buried in our diluvial or alluvial soil--to state these
+absurdities is a sufficient refutation, every man of any reading and
+scientific knowledge will perceive the impossibility.
+
+Galindo and Josiah Priest have quite lately revived also the opinion of
+some dreaming philosophers who had asserted that America was the _cradle
+of mankind_ or one of them, instead of Central Asia. Galindo allows,
+however, the Caucasian race of men to be distinct; but he says--"_The
+hum_a_n[TN-6] race of America I must assert to be the most ancient on
+the globe_;[TN-7]"[8-*]
+
+He goes on to state that to the primaeval civilization of America must be
+assigned a great and indefinite antiquity, leaving however no palpable
+monuments; but sending colonies to civilize China and Japan! is not this
+preposterous? where are the proofs either from traditions, languages,
+monuments or other sources?
+
+Meantime Josiah Priest, in his compilation on American antiquities, has
+boldly asserted that Noah's ark rested in America, (whereabout?) and
+that he had three sons, one white, one red and one black! (what was the
+color of their wives?) from whom are descended the three races of
+mankind, who colonized the whole earth, leaving, however, neither white
+nor black in America[TN-8] The glaring incongruity, of these bold
+assertions, or of the indefinite origin of Galindo are equally palpable;
+but nevertheless it is not improbable that they will find now and
+hereafter other advocates, since the absurd Jewish origin of all the
+Americans has still many believers, and even Ranking has perhaps some
+supporters.
+
+To admit that America was the only cradle of mankind, is based on no
+evidence whatever, either historical or philological or monumental:
+while on the contrary all the monuments and records of the eastern
+oontinent[TN-9] trace this cradle to Central Asia. To suppose that
+America was one of the human cradles, is certainly worthy of inquiry;
+but such a cradle must be sought for and located somewhere, and neither
+the volcanic mountains, nor swampy plains of South America, nor the
+frigid wilds of North America, appear calculated to offer it. Others
+have been thought of in Africa and Australia; but seldom in the spirit
+of seeking truth, rather in that of supporting some favorite doctrine.
+Such speculations ought at least to be based on better foundations than
+mere assertions, evident philological proofs are required before they
+can be listened to, and no total and complete diversity of mankind in
+every aspect has been found any where to support the theory of a
+plurality of human species and Cradles. Europe and Africa have been
+repeatedly invaded by migrations from Asia. In America such migrations
+can be traced north and east by the Atlantic ocean, or north west from
+Berhring's[TN-10] strait, while we have not the faintest indication of
+invasions of Asia from America. The only traditional account of the
+invasion of Europe, and North Africa by the _Atlantes_ (probably
+Americans, for the great _Atlantis_ was this continent) is involved in
+doubt, and besides these very Atlantes were deemed Neptunian colonies;
+although it must be confessed that in almost every instance the
+colonists to America appear to have found previous inhabitants, who must
+have been still earlier and remote colonies, if they were not
+indigenous. But the sea-shores of North America from Labrador to
+Carolina were desert at a very late period comparatively, when the
+Western tribes came there.
+
+The actual purpose does not extend to all the details of these deep
+inquiries, but is chiefly confined to ascertain and prove the similarity
+of the oldest primitive monuments of both hemispheres, and whereby a
+connection of coeval and similar civilization is evinced in the earliest
+times before the records of history. This evidence, which may be called
+_monumental_, dives into the gloom of past ages, and hence descends to
+ours, reaching our understanding by gradual links: while the
+_philological_ evidence of spoken modern languages, fragments or
+children of older primitive languages, ascends by their means to equal
+antiquity; both combining, therefore, to complete the history of
+mankind, where annals and traditions cease to lead us or are quite
+obscure: these combined bring more certainty to the scrutinising mind
+than the mere physical features of men, and their complexions, so
+fluctuating and mingled. But neither of them solve the question of the
+actual original Cradle or Cradles of mankind. If indeed monuments and
+languages of various parts of the earth were quite different, and the
+features or colors of men likewise distinct there, we might suppose
+there could have been several species and cradles of men: but it is not
+so, features and languages are so variable and mingling in our own
+times, and so diversified every where, as to baffle and preclude
+complete insulation. Monuments are also after all so much alike in many
+remote parts, that although divisible into styles of various ages and
+stages of improvement, they do evince a great similarity in coeval ages
+or stages of civilization.
+
+To prove this great fact and the important results, might be the subject
+of a large work, and we have heard that Mr. Warden has been engaged in
+Paris in something of this kind. His work has not yet reached us; but
+whenever it will be completed, it shall be only one step towards the
+elucidation of this deep theme. Many facts are yearly evolved in
+America, new researches undertaken and discoveries made: while in
+Africa, Lybia, Arabia, Persia, India and even the Oceanic world of
+Australia and Polynesia, similar discoveries are progressing and new
+facts made known, that will unfold many new and unexpected analogies
+with American inquiries. Of the early Monuments of China, Tartary and
+Thibet, we know little or nothing, and in the very heart of Asia, the
+real Cradle of Arts and Sciences, if not mankind itself, our learned
+travellers have not yet penetrated, and the most interesting region of
+the globe is thus almost unknown to us. This subject is therefore in a
+progressive state of inquiries, and future ages will yet add thereto:
+although a number of Ruins and Monuments crumble or disappear under the
+plough or the leveling energy of men, little respecting these structures
+of antiquity, enough of unexplored sites will be discovered and
+surveyed: some of our rudest monuments appear indestructible, the lofty
+mounds of earth have withstood like the heavy pyramids of Egypt, the
+lapse of countless ages, some even appear now covered with a dress of
+new soil, or even diluvial coat, as if they were antediluvian!
+
+Meantime we may endeavor to collect and compare the facts already known,
+and deduce therefrom some useful instruction to satisfy curiosity or
+gratify the greedy wish to ascend to the origin of every thing, and of
+mankind above all. The most proper and obvious way to elucidate American
+Antiquities and Monuments, would be by classifying them, which has
+however never been attempted, having always been noticed or elucidated
+loosely at random, or in a kind of geographical arrangement of the
+regions where found. Such classification might be based either on their
+styles, forms and materials, or ultimately their ascertained scopes of
+purposes which are even now often doubtful or doubted. They might thus
+be divided into classes or series easily distinguished between
+themselves, but all finding their equivalents or similar structures in
+the Eastern Continent, _an important fact_ to be kept in mind. There are
+out of America some structures not found in it, but there are none in it
+that cannot be detected somewhere else, either in Europe, North Africa
+or Asia, Polynesia, &c, among the earliest Monuments or Ruins, or the
+rudest structures. None of the latest styles and improved Architecture,
+such as Colonnades, roofed temples, Budhist and Mahometan temples,
+Gothic or Modern Churches, fortifications with large towers or
+bastions--are met in America, being a convincing proof that all the
+American structures were of a previous date, or of an earlier style,
+than these later.
+
+But even some very ancient Eastern structures are lacking in America, or
+only found in a modified form. Thus although the Cyclopian structures
+had been denied to America, they are not quite lacking; although their
+Tyrinthian style, the rudest of huge unshapen blocks of stone put
+together, has not yet been met with, the other Cyclopian styles are
+found of rough polygones or irregular squared stones: the most common
+however is of rough flat stones put together pretty much as our dry
+walls are to this day by us.
+
+If we do not exactly find in this Continent, the Celtic style of
+Stonehenge and circles of stones scattered from Persia to Scotland, we
+meet several other branches of the Celtic style, standing rough pillars,
+massive altars, circles of earth, fortified villages similar to those of
+Britain, miscalled _Roman Camps_, although no such camps are found
+where the Romans went out of Celtica, and the American camps or forts
+are certainly not Roman! Whether the Celtic race ever came to America
+has been doubted, and maybe deemed doubtful yet: there are two strong
+arguments against it at least, the lack of Monuments like the Stonehenge
+temples, and the Celtic structure of Language, or regular series of
+interposed ideas not being widely spread in America, and chiefly found
+in Brazil and Florida, where nations of another lineage dwelt. Yet it is
+pretty certain, notwithstanding that nearly all the writers, omit it or
+deny it, that the old Celts had an intercourse of trade in America once,
+even from Gaul. It has lately been discovered by Sir A. Brooke, that
+there are Celtic monuments in Morocco, he describes a large mound with a
+circle of stones around. The N. W. of Africa must in very early time
+have been one of the regions whence the _Atlantes_ went or came; this is
+an historical fact, and their posterity yet live in Africa from Mount
+Atlas to Nubia, their language[TN-11] have the Celtic and Semetic
+structure.
+
+They gave name to the Atlantic Ocean, and this name is one of the few
+that have reached our times, Africa and Spain once joined, even the
+Berbers have a tradition of it. The same Nations filled Lybia and Spain,
+the _Bas-Tules_, _As-Tures_ of Spain were _Tulas_, _Turas_, as in
+Central Asia and Central America; so were also the _Tur-tules_ or
+_Tur-detani_, &c. while the _Cantes_ of Spain were akin to the _Antes_
+of Lybia, _Hyantes_ of Greece. The Greeks have stated that their
+Atlantes or _Atalantoi_ were formed of the united nations of Atlas and
+Antoi or Anteus.
+
+Pyramids exactly similar to those of Egypt, and pillared temples similar
+to those of Thebes, are not met with in America; but we have their
+equivalent in the pyramidal Teocalis of Anahuac, and the temples of
+Peru, similar to the pyramidal temples of Assyria and India, towers in
+stages like those of Lybia, Syria and China. In all cases the materials
+depend pretty much on the localities, and the kind of stones or proper
+materials at hand, although often carried from a distance, and requiring
+the joint labors of many thousand men during several years.
+
+But it has been ascertained that there were older inhabitants in the west
+of Europe, than these very Celts, Cantes and Atlantes. The _Creons_ a
+superior race that erected the annual monumental pillars of Carnac in
+Brittany, the Cunis or Cynetes, that dwelt at the S. W. of Spain and
+Portugal, the degraded Vassals or outcasts of the Celts called _Cacoux_,
+_Cahets_, _Cunigos_, whose posterity is not yet quite extinct. The
+Eskuaras now called Basks and Gascons, but formerly Cantabrians were the
+Cantas of the river Ebro, they had great affinities of Language with
+many American nations. The Atlantic monuments may be distinctly traced
+from Syria and Greece to Lybia, Morocco, _&_c. Immense mounds have been
+found as far South as the river Nun. Of these Atlantes their countries,
+deeds of yore, &c. much has been written, and much more remains to be
+elucidated: they can be traced Eastward as far as the very Centre of
+Asia, once called Turan, through Scythia, in the North and Persia in
+the South, to the utmost verge of Africa and Europe Westwards. Next to
+the famed Island Atlantis, or rather _Megatlantides_ which was America!
+the smaller Atlantis seated midway between the two continents, has been
+supposed to have sunk when the Volcanos of the Azores, Canaries and
+other African Islands did explode.
+
+The American Nations connected with these were widely scattered in
+America, and chiefly wherever the earliest monuments were spread, even
+as far as Chili to the South, in Guyana to the East under the name of
+_Atures_ or _Atules_, and Northwards as far as Ohio and Illinois. It is
+easy to trace surprising analogies of Languages between the early
+languages of South Europe and North Africa, with the Chilians,
+Peruvians, Muyzcas, Haytians, Tulans or Tol-tecas, &c., and many other
+pre-eminent Nations of this Continent.
+
+By the useful process of generalization we may collect the following
+important results concerning our monuments: 1. They are scattered all
+over Amer. from lat. 45d. N. to 45d. S. of the Equator, thus occupying
+90d. of latitude, which is no where else the case.--2. They chiefly
+occupy a flexuose belt from our great Lakes to Mexico, Guatemala,
+Panama, Quito, Peru and Chili.--3. There are few or none in Boreal
+America, the Eastern Shores of it as far as Virginia, the Western as far
+as California, nor in the Antilles, Guyana, Orinoco, Maragnon, Brazil,
+Paraguay and Patagonia; although some of these regions not having yet
+been properly explored may hereafter offer some likewise.--4. Those
+known from our Eastern Shores, the Antilles and Brazil are few, and of a
+peculiar character, distinct from the general style of the others. In
+New Hampshire concentric castramations have been found as in Peru, but
+not of stone nor shaped like stars. In Massachusetts inscribed rocks are
+met with, those of Pennsylvania East of the mountains are rude and
+small, and such they are as far as Virginia and Carolina. In the
+Antilles or West Indies, they are chiefly caves, temples and tombs. In
+Brazil we know of but few, but they are of stone and peculiar style.--5.
+Therefore the main monuments and structures occupy only one half of
+America or even less, they are mostly thickly scattered in the fertile
+regions near rivers, from Ohio to Florida, from Missouri to Texas, from
+Sonora to Honduras, from Bogota to Chili, &c. being often on high
+grounds and mountains, table lands and valleys, seldom in the low
+plains.
+
+Such are the most interesting by number and extensive spreading
+locations. Yet there are among them various ages and styles, the
+Floridan or North American, the Mexican or Anahuac, the Guatimalan or
+Tulan, the Peruvian or Inca--Series, are all somewhat different, mingled
+with others of earlier or various ages--in Peru the _Pucaras_ or oldest
+fortified cities in a stellate form are of earliest ages, the ruins of
+Tiahuanaco with sculptures of a remote period, the ruins of Chimu of
+another style yet, all different from the style of the Incas. In central
+America, the Cave-temples--the fortified cities and Palaces--and the
+_Teocalis_ or Pyramids and Towers, offer as many eras and styles.
+
+In North America we have also at least three great Eras and styles of
+monuments, the first or most rude, somewhat similar to that of the
+Antilles; excavations, small houses &c. and this, although so rude, is
+found to have lasted till very lately, as our log-house style is lasting
+with us along with large stone buildings. 2. A primitive style using
+earth and wood or rough stones for large and fine structures, temples,
+_&_c. 3. The most refined employing cut stones and ornaments, &c., rare in
+the North, but becoming more common towards Mexico.
+
+We may assert in ultimate result that America had no Monuments of
+Grecian or Roman structures, except such as belong to primitive Italy
+and Greece, ascribed to their ancestors as a different race the Pelagic,
+Curetes, Hyantes, Taulantes, Aones, and other similar old tribes or
+nations, long previous to Roman power and Grecian refinement, above all
+no colonnades and no baked bricks. None of our monuments were like the
+best Celtic structures, but rather similar to the earliest or ruder
+Celtic style, if not perhaps previous, such as standing or rocking
+stones, rough pillars and pilasters, tumuli and mounds, circular and
+angular areas and temples. None were like the Egyptian temples and
+pyramids, our American pyramids being rather in stages, as iu[TN-12]
+Ethiopia, Assyria, India, &c., or in huge platforms bearing temples and
+palaces, as in Balbec and Persepolis, but by no means so ornamented, nor
+with such huge stones. None were like the Tyrinthian or Titanic style,
+but rather a modification of it. None like the slender pillars and round
+towers of India, Persia, Ireland. None like the modern structure of the
+Christians, Mahometans, Budhists, Chinese &c., no Gothic or Arabic
+style, nor domes were found. The inference cannot trace any of these
+religions to America by their peculiar structures.
+
+While on the other side, we can assert and prove that the American
+monuments were more or less alike to. 1. The oldest monuments, square
+and circular platforms of all shapes and sizes, some as large as hills
+or even natural hills cut to shapes for altars, or support of temples
+and staged pyramids, _&_c., as are found from Celtica and Ireland to
+France, Spain, Italy, Greece, Russia, &c., from Morocco to Senegal,
+Lybia and Abyssinia; in Asia, from Natolia and the Trojan plain, to
+Syria and Arabia, Persia, Media around the Caspian, and even in India,
+Tartary and China; also, the _Morais_ of Polynesia. All of which were
+the primitive altars of early men or their imitation, in later times as
+in China.--2. Or like the Cave temples, scattered also from Ireland to
+India, found in Greece, Syria, Egypt, Persia, &c., sometimes like the
+excavated cities of the Troglodyte nations, found in Sicily, Crete,
+Cyprus, Syria, Arabia, Cabul at Bamiyan, &c.--3d. Or like the massive
+structures of stones of earliest ages, the _Norajes_ or Conical towers
+of Sardinia and the Balearic Islands, the angular towers of Lybia, &c.
+imitated in Peru, Brazil, Guatimala, Chiapa &c.--4th. Or like the
+fortified cities of oldest ages in Persia, India, Arabia, Turan, _&_c.
+imitated in Peru, and Central America, often with concentric inclosures
+or curious shapes, sometimes with arks or citadels or acropolis, as in
+Persia, Greece, Etruria &c.--5th. Or like the vast inclosures and sacred
+areas of temples, with peculiar cells or holy recesses, shrines,
+oracles, &c., as in India, China, Thibet, formerly in Syria, Egypt,
+Assyria, even like the old temples of Mecca and Solomon; such are found
+in Peru Tunca, Mexico, North America as far as Missouri, where most
+were of wood as were the first temples of Solomon, Tyre, Delphos, and
+are yet in China very often.
+
+Then it is evident that the American Monuments are similar to the oldest
+and earliest of the Eastern Continent, or the modern ones that are yet
+built there on the primitive models. We have some late instances of it
+even in Europe, when the huge mound of Waterloo was erected after the
+battle of that name. Grecian buildings are often built now in Europe and
+America, the Gothic style has travelled from Arabia to Europe and is not
+yet quite out of use. The national altars of the Celestial Empire at
+Pekin in China are yet exactly similar to those of earliest times, and
+found in America.
+
+Architecture and the various styles it has employed for monuments,
+temples, cities &c. have undergone several changes and improvements,
+from the rude imitations of a tent, or cottage, or hill, to that of
+pyramids, towers, pillars, colonnades, caves, _norajes_, _teocalis_,
+&c., from irregular inclosures to square, circular, octagon forms, from
+heaps of earth forming ditches, canals, to regular walled excavations.
+Styles of building are fluctuating with the Nations and times, taste and
+religion: some are occasionally revived or improved; yet they have a
+certain duration, location, or age, and origin somewhere. Nevertheless
+they may happen to be blended by the same people; our own modern
+civilization admits yet of the tents in camps, the loghouse, the shed,
+the hut, the cottage, the houses of wood, brick or stone, palaces and
+temples, theatres, Capitols, and negro huts! We must not be surprised to
+see the same incongruity and admixture in various parts of America in
+former times. Many tribes followed 300 years ago the style of 3000 years
+before, as yet partly done in China.
+
+Every thing on earth follows the universal law of terrestrial mutations,
+monuments and arts, as well as languages and human features! they rise
+and fall like the nations, mingle or blend as our modern English nation
+and language formed out of many others. What diversity in any one of our
+cities in complexions, statures and features of men! there are more
+differences between some men of our own race, than between negroes, red
+or white men. White, black and bay horses, are not peculiar species, nor
+are men of different hues, hairs, eyes, noses, &c.
+
+Inscriptions are monuments also, and of the highest value, even when we
+cannot read them. Some of these will be hereafter, since those of Egypt
+so long deemed inexplicable, have at last found interpreters. So it will
+be at a future day, with those of America. Few have been made known as
+yet, but there are many all over the range of the monumental regions.
+Those sculptured in the temples and palaces of _Otolum_ near Palenque,
+are not the only ones. Several in caves, or upon rocks, involve in rude
+painting, a symbolic meaning, to which we are obtaining a clue. Several
+nations of North America had a language of signs made or written;
+although known sometimes to but few, these signs or symbols prevailed
+from Origon[TN-13] to Chili--or else _Quipos_ as in China, were used as
+records, in coloured strings or knots, wampums, belts, collars. All
+these however, appear to belong to the first attempt of mankind to
+perpetuate ideas, they seem to have preceded the alphabets of India,
+Persia and Europe, or the vocal signs of China, although some of these
+date of the earliest ages. Tula, Oaxaca, Otolum, &c., had glyphs or a
+kind of combined alphabet, where the letters or syllables were blended
+into words, as in our anagrams, and not in serial order. A few traces of
+Alphabets have, however, been found in South America on the R. Cauca and
+elsewhere, which have not yet obtained sufficient atteution:[TN-14] that
+of Cauca given by Humboldt, is nearly Pelagic or Etruscan; traces of
+Runic signs were found in Carolina--other signs have occasionally been
+met in North America, but neglected.
+
+Painted symbols or hieroglyphies,[TN-15] or sometimes abridged outlines
+of them, were used chiefly in Anahuac, from Panuco to Panama; in North
+America, from Florida to New Mexico, also in Cuba, Hayti, Yucatan,
+Bogota, Peru, by the Panos, Muyzcas and other nations. Those without any
+means to convey ideas could even in America, as in Scythia and Africa,
+use emblems or objects to which a peculiar meaning was applied, and
+trace rude pictures of them on trees or rocks.
+
+The monuments connected with pictures, emblems, hieroglyphics, scattered
+in caves, on rocks, on cliffs above human reach--are very curious, and
+ought to be collected, sought for, and explained; they will all impart
+historical events. The rock of Taunton and a few others, have alone
+exercised the ingenuity of antiquarians, and perhaps to little purpose
+at yet, since the inscription has been ascribed by turns to the
+Phenicians, the Jews, the Atlantes, Norwegians or even to our modern
+tribes. It may not be properly understood until all the graphic systems
+of America are studied and explained. The late successful attempt of the
+Cherokis to obtain a syllabic alphabet for their language, proves that
+the Americans were not devoid of graphic ingenuity.
+
+But the contents of mounds, graves, caves, &c., are also very
+interesting, affording us a clue to their purpose, and the arts of times
+when raised or inhabited. Many kinds of implements, ornaments, tools,
+weapons, vases, &c., have been found every where, displaying skill and
+taste. Idols and sculptures have given us the features and religious
+ideas of some nations. Astronomical stones and calendars have been
+found, recovered, and lost again, revealing peculiar systems of
+astronomy and chronology. We possess the oomplex[TN-16] calendars of the
+Tulans, Mexicans, Chiapans, Muyzcas, Peruvians, &c, that of the Talegas
+of North America, a dodecagone with one hundred and forty-four parts and
+hieroglyphics, was found on the banks of the Ohio, and has since been
+lost or hidden.
+
+Humboldt's labors on American astronomy and his results coincide with
+those on antiquity to make the American systems quite different from the
+oriental, Hindu, Jewish, Egyptian, Greek, Roman, and Celtic systems of
+days, months, zodiac, and cycles; while they are more like those of
+Thibet, China, Japan, Lybia, Etruria, &c. At any rate the American
+systems were anterior to the admission of the week of seven days, being
+the fourth of a lunation, each day dedicated to a planet, and the
+Sabatical[TN-17] observance of the Jews based thereon. The American weeks
+were of three, five, nine, and even thirteen days, as in some parts of
+Asia and Africa, in Java, Thibet, China, Guinea. The week of five days
+appears the most ancient of all and the most natural, including exactly
+seventy-three weeks in the solar year, and sixty-nine in the lunar year;
+that of the three days is only the decimal part of a month; in China the
+long week of fifteen days prevails as yet being half a lunation or
+month.
+
+Accounts of monuments with dry descriptions and measures, are often
+uninteresting, unless with figures and explanations to illustrate their
+nature and designs. The writer having himself surveyed many American
+sites of ancient cities, may hereafter describe and explain some of
+them, with or without figures. He has also collected accounts of similar
+monuments all over the earth, and will be able to elucidate thereby our
+own monuments. Meantime whoever wishes to become acquainted with such as
+have been made known in the United States alone, must consult a host of
+writers who have described a few, such as Soto, Charlevoix, Barton,
+Belknap, Lewis, Crevecoeur,[TN-18] Clinton, Atwater, Brekenridge,
+Nuttal, McCulloh, Bartram, Priest, Beck, Madison, James, Schoolcraft,
+Keating, &c.; and in the appendix to the Ancient History of Kentucky
+will be found my catalogue made in 1824. Such study in[TN-19] then a task,
+and requires the amending hand of a careful compiler at least, before we
+can even obtain the complete knowledge of what has been done with us
+already on this historical subject.
+
+  _Philadelphia, September, 1838._
+
+FOOTNOTES:
+
+[8-*] Letter to Col. Winthrop, in 2d vol. Archeologia Americana.
+
+ADDITIONS.
+
+1. The Mexican Antiquities have lately been illustrated in many splendid
+works, by Aglio, Kingsborough, Dupaix, Baraden, St. Priest, Nebel,
+Icaza, Gondra, Waldeck &c. In a clever review of these works (in the
+foreign review) it is distinctly asserted that the _Tul-tecas_ (people
+of Tul,) or American Atlantes, were quite a different people from the
+Later Mexican tribes, that their monuments are equal in interest to
+those of Egypt and Syria, with colossal and even Cyclopian
+structures--which agrees with my former statements, and I have traced
+them in America from Missouri to Chili, but their central seats and
+empires were from Mexico to Quito. Their great temple at Otolum near
+Palenque was equal to Solomon's temple. Their mythology was quite
+peculiar and Asiatic, their maindeity[TN-20] was _Hun-aku_ (first cause)
+comparable to _Anuki_ the Syrian Cybele, their Astronomy was
+antediluvian, the year of 360 days or 18 months of 20 days.
+
+2. The first monuments of the United States may be ascribed to the
+_Talegas_, a northern branch of these Atlantes. The oldest monuments of
+Peru long before the Incas with those of Brazil and Oronoco are related
+thereto, and were erected by their Southern tribes, the _Atules_ and
+_Talahets_.
+
+3. In a late work of Harcourt (1838) all these ancient monuments of
+America, Africa, Europe and Asia, are ascribed to the _Arkites_ saved at
+the flood of Noah; which was also the previous opinion of M'culloh in
+his American researches. But some Antiquaries are yet seeking in America
+traces of the _Adamites_.
+
+4. The _Tulawas_ and _Telingas_ nations and languages of Decan of
+Southern India, are probably of Atlantic or Tulanic (Syn. of Turan or
+Tartary) descent; and these nations sent colonies furher[TN-21] east in
+early times to Polynesia and perhaps as far as America! yet the bulk of
+Oceanic population from Madagascar to Japan and Australia is of Hamite
+descent, by the regular structure of all the languages; while this
+seldom happens in America as in China and Tartary.
+
+5. The late attempts of tracing analogies of origin and descent between
+the Chinese and Polynesian Nations, are quite vain. The Chinese Nations
+are evidently Asiatic and primitive akin to the Tartars and Turks (the
+modern Turans,) their language have the same inverse position, and
+monosylabic[TN-22] structure. The idea of Harcourt to deem the Chinese
+the real Semetic stock of Languages, is worthy of enquiry. He has proved
+that the _Obri_ (Hebrew) was in reality a Hamite language, the posterity
+of Abraham having adopted a dialect of the _Acuri_ (Assyrian) and
+_Xnoni_ (Canaanit;)[TN-23] but the Arabic languages and nations, so akin
+thereto must then also be Hamites! and the old Arabians alone were
+Semites.
+
+5.[TN-24] Meantime the Turanic or Japhetic nations and languages (IFH
+meaning _widely spread_ is our Japhet) should be the real Turans and
+Atlantes, including the Medians, Caucasians, Hindus, Pelagians,
+Thracians, Slavonians, Goths, and nearly two thirds of the American
+Nations, the most civilized and powerful of them. But it appears to me
+that the Celts and Cantabrians were like the Etruscans and Phenicians of
+Hamite Origin. It is strange that all the brown or black nations of
+Africa, Asia and Oceania are also of similar descent.
+
+7. In my work on the Ancient American Nations, may be seen which were
+the oldest or earliest in America, and to which other nations elsewhere
+they are most intimately connected. I have proved that two great nations
+of America the _Aruac_ including the Haytians and tribes from Florida to
+Patagonia, with the _Sekeh_ or old Chilians, having branches from Chili
+to Brazil; were certainly very akin in language with the ancient Greeks
+and Italians and Spaniards, or rather their ancestors the Pelagic, Oscan
+and Cantabrian Nations.
+
+8. The American Atlantes of North America (Talegas)[TN-25] the Tols and
+Chontals of Anahuac and Central America, the Muyzcas of Tunca and Peru;
+with the ancient Peruvians of mixt origin, were certainly the most
+civilized nations of this continent, as their monuments prove it, and
+their languages are of Japhetic or Turanic structure, having their major
+affinities in Central Asia, the Caucasus, the Illyrians, Slavonians &c;
+but some also with the African Atlantes or ancient and modern Lybians,
+Getulians, Shellus _&_c.
+
+9. The Guarani group of languages and nations in South America was most
+widely spread from Guyana to Paraguay, and all over Brazil. It is quite
+monosyllabic, with the Hamite or African structure, having its
+affinities all over Africa, where hardly any except the _Qua_ or
+Hottentot nation are of Chinese? or Turanic descent by structure of
+speech.
+
+10. In North America, 4 widely different stocks of nations had the
+Hamite structure, the Floridian including _Chactas_, the _Wakons_ or
+Missourians, the _Ongwis_ or Iroquois, and the Uskimas or Esquimaux
+spread across the whole or[TN-26] Boreal America. This last stock is
+evidently akin to the Northern Asiatic Hamites such as the Fins, Slaves,
+Chudis, Ostiaks _&_c. The Wakons and Ongwis appear also Asiatic, akin to
+the Tonguz and other Northern Tartars; but the Chactas with the Natchez,
+Seminoles and akin tribes appear of Eastern descent, and find their
+parents in North Africa.
+
+11. In my work on Historical Palingenesy or the restoration of ancient
+nations and languages presumed lost, I have been able to restore many of
+all the parts of the world (but chiefly America and Europe) in the same
+manner as I once did for the Haytian nation and language, whereby many
+historical links will be evolved and traced. My process is similar to
+that of Cuvier and the modern Paleontologists, who restore extinct
+animals by fragments of their bones. I do the same with extinct
+languages by fragments of their words and elements, discovered and put
+together.
+
+12. In result the monumental evidences combine with the philological to
+descry and ascertain whatever is obscure in Ancient History. By their
+mutual help and accordance, with the use of acurate[TN-27] comparisons in
+both Hemispheres, we shall certainly be enabled to advance the
+Archeological and Historical knowledge of Yore, beyond our most sanguine
+expectation. The path is open and becoming easy to pursue; much
+therefore will be achieved by following the comparative process and
+discarding all the conjectural systems.
+
+THE END.
+
+Transcriber's Note
+
+The following typographical errors were maintained in this version of
+the book.
+
+       Page Error
+  TN-1   1   Cincinnatti should read Cincinnati
+  TN-2   2   occured should read occurred
+  TN-3   2   gradualy should read gradually
+  TN-4   3   analize should read analyze
+  TN-5   6   _t_emples should read temples
+  TN-6   8   _hum_a_n_ should read human
+  TN-7   8   globe; should read globe.
+  TN-8   9   America should read America.
+  TN-9   9   oontinent should read continent
+  TN-10 10   Berhring's should read Behring's
+  TN-11 14   language should read languages
+  TN-12 18   iu should read in
+  TN-13 21   Origon should read Oregon
+  TN-14 22   atteution should read attention
+  TN-15 22   hieroglyphies should read hieroglyphics
+  TN-16 23   oomplex should read complex
+  TN-17 23   Sabatical should read Sabbatical
+  TN-18 24   CrevecOEur should read Crevecoeur
+  TN-19 24   study in should read study is
+  TN-20 25   maindeity should read main deity
+  TN-21 26   furher should read further
+  TN-22 26   monosylabic should read monosyllabic
+  TN-23 26   Canaanit should read Canaanite
+  TN-24 26   5. should read 6.
+  TN-25 27   (Talegas) should read (Talegas),
+  TN-26 28   or should read of
+  TN-27 28   acurate should read accurate
+
+The following words were inconsistently spelled or hyphenated.
+
+  Guatemala / Guatimala
+  log-house / loghouse
+  Tol-tecas / Tul-tecas
+  &c / &c. / _&_c.
+
+***

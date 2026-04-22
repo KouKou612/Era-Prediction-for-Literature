@@ -1,0 +1,4211 @@
+﻿The Project Gutenberg eBook of Check-list of the Birds of Kansas
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Check-list of the Birds of Kansas
+
+Author: Harrison Bruce Tordoff
+
+
+        
+Release date: November 24, 2010 [eBook #34429]
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/34429
+
+Credits: Produced by Chris Curnow, Joseph Cooper and the Online
+        Distributed Proofreading Team at http://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK CHECK-LIST OF THE BIRDS OF KANSAS ***
+
+
+
+
+Produced by Chris Curnow, Joseph Cooper and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+  ==================================================================
+                  UNIVERSITY OF KANSAS PUBLICATIONS
+                      MUSEUM OF NATURAL HISTORY
+
+            Volume 8, No. 5, pp. 307-359, 1 figure in text
+  ----------------------    March 10, 1956    ----------------------
+
+
+                  Check-list of the Birds of Kansas
+
+                                  BY
+                         HARRISON B. TORDOFF
+
+
+                         UNIVERSITY OF KANSAS
+                               LAWRENCE
+                                 1956
+
+
+
+
+     UNIVERSITY OF KANSAS PUBLICATIONS, MUSEUM OF NATURAL HISTORY
+
+        Editors: E. Raymond Hall, Chairman, A. Byron Leonard,
+                           Robert W. Wilson
+
+                Volume 8, No. 5, pp. 307-359, 1 figure
+                       Published March 10, 1956
+
+
+                         UNIVERSITY OF KANSAS
+                           Lawrence, Kansas
+
+
+                              PRINTED BY
+                   FERD VOILAND, JR., STATE PRINTER
+                            TOPEKA, KANSAS
+                                 1956
+
+                               25-9006
+
+
+
+
+                  CHECK-LIST OF THE BIRDS OF KANSAS
+
+                                  By
+                         Harrison B. Tordoff
+
+
+Kansas was one of the first states for which a detailed book on birds
+was published (N. S. Goss, "History of the Birds of Kansas," Topeka,
+Kansas, 1891). Ornithological progress in Kansas in recent years,
+however, has not kept pace with work in many other states. As a result,
+knowledge of the birds of Kansas today is not sufficiently detailed to
+make possible a modern, definitive report. One purpose of this
+check-list is to show gaps in our information on birds of the state.
+Each student of birds can contribute importantly by keeping accurate
+records of nesting, distribution, and migration of any species in Kansas
+and by making these records available through publication in appropriate
+journals. The Museum of Natural History at the University of Kansas
+solicits records and specimens which contribute to our knowledge of
+birds in Kansas. Files and collections at the Museum are available to
+any qualified person for study.
+
+The last state-wide list of birds was prepared by W. S. Long (Trans.
+Kansas Acad. Sci., 43, 1940:433-456). This list and the unpublished
+thesis from which the list was abstracted have been of great value in
+preparing the present report. Many other persons have contributed and
+among these the names of the following must be mentioned because of the
+value of their contributions: Ivan L. Boyd, L. B. Carson, Arthur L.
+Goodrich, Jr., Richard Graber, Jean Graber, Harold C. Hedges, R. F.
+Miller, John M. Porter, and Marvin D. Schwilling.
+
+Full standing in this check-list has been given only to species for
+which at least one specimen from Kansas has been examined by some
+qualified student. Exceptions to this admittedly arbitrary rule have
+been made in three cases, Trumpeter Swan, Turkey, and Carolina Paroquet,
+because there is no reason to doubt that each of these three species
+once occurred in Kansas and because opportunity for obtaining specimens
+from Kansas has been lost through disappearance of the species from the
+state. Other species reported from the state but not authenticated by
+specimens have been relegated to the Hypothetical List and their names
+and my remarks concerning these birds are enclosed in brackets. This
+procedure is intended to encourage collection of such species; it is not
+intended necessarily to indicate doubt of a record. In the case of a
+carefully identified but uncollected accidental, opportunity for
+obtaining a specimen may not exist again for a long period. This is
+unfortunate but emphasizes the need for judicious collecting.
+
+A total of 375 species (or 459 species and subspecies), of which four
+are introduced, is included in this check-list. Additionally, 15 species
+are discussed in the Hypothetical List. An asterisk (*) preceding an
+account indicates positive evidence of breeding in Kansas of the species
+so marked. The total of species known to have bred at least once in the
+state is 173. Nomenclature in this list follows the American
+Ornithologists' Union "Check-List of North American Birds" (1931, 4th
+edition) and its supplements. Species on the Hypothetical List are
+included in their current taxonomic position in the main list.
+
+
+_Gavia immer_ (Bruennich). Common Loon. Uncommon transient throughout
+state.
+
+    No subspecies recognized.
+
+
+_Gavia stellata_ (Pontoppidan). Red-throated Loon. Rare transient. One
+specimen: female (Univ. Michigan Mus. Zool. 65778), Marais des Cygnes
+River, near Ottawa, Franklin County, October 20, 1925, Captain Joe R.
+White. Several sight records from Shawnee and Johnson counties within
+past 10 years.
+
+    No subspecies recognized.
+
+
+_Colymbus grisegena._ Red-necked Grebe. Rare transient. One specimen:
+female (KU 7697), Kansas River east of Lawrence, Douglas County, October
+29, 1910, Logan I. Evans.
+
+    Subspecies in Kansas: _C. g. holboellii_ (Reinhardt).
+
+
+_Colymbus auritus._ Horned Grebe. Rare transient. Two authentic
+specimens: Manhattan, Riley County, September 30, 1878; male (KU 27465),
+2-1/2 miles north of Lawrence, Douglas County, November 16, 1945, E. C.
+Olson and Ralph L. Montell. Several sight records, from eastern,
+central, and western Kansas.
+
+    Subspecies in Kansas: _C. a. cornutus_ Gmelin.
+
+
+_Colymbus caspicus._ Eared Grebe. Regular transient throughout state;
+more common than Horned Grebe.
+
+    Subspecies in Kansas: _C. c. californicus_ (Heermann).
+
+
+_Aechmophorus occidentalis_ (Lawrence). Western Grebe. Rare transient,
+perhaps more common in west but status poorly known.
+
+    No subspecies recognized.
+
+
+* _Podilymbus podiceps._ Pied-billed Grebe. Common transient and
+irregular summer resident, rare winter resident.
+
+    Subspecies in Kansas: _P. p. podiceps_ (Linnaeus).
+
+
+_Pelecanus erythrorhynchos_ Gmelin. White Pelican. Common transient
+throughout state. Occasional individuals, probably sick or wounded,
+remain beyond normal migration periods in spring and fall.
+
+    No subspecies recognized.
+
+
+_Pelecanus occidentalis._ Brown Pelican. Accidental. One specimen:
+adult, sex not determined (KU 10468), Parker, Linn County, June, 1916,
+found dead by G. G. McConnell. One seen at Wichita, Sedgwick County, by
+R. H. Sullivan, April 25, 1910.
+
+    Subspecies in Kansas: _P. o. carolinensis_ Gmelin.
+
+
+* _Phalacrocorax auritus._ Double-crested Cormorant. Regular transient,
+in small to moderate numbers. One nesting record: several nests, eggs,
+and small young seen, Cheyenne Bottoms, Barton County, August, 1951,
+Otto Tiemeier.
+
+    Subspecies in Kansas: _P. a. auritus_ (Lesson).
+
+
+_Phalacrocorax olivaceus._ Mexican Cormorant. Accidental. One record:
+specimen taken 4 miles south of Lawrence, Douglas County, April 2, 1872.
+Present location unknown but specimen identified by S. F. Baird and R.
+Ridgway.
+
+    Subspecies in Kansas: _P. o. mexicanus_ (Brandt).
+
+
+_Anhinga anhinga._ Water-turkey. Accidental. Several specimens and sight
+observations are on record but most are prior to 1900. Several records
+and one specimen at Cheyenne Bottoms, Barton County, since 1928 (Frank
+Robl). In recent years, some reported Water-turkeys have proved to be
+cormorants.
+
+    Subspecies in Kansas: _A. a. leucogaster_ (Vieillot).
+
+
+_Fregata magnificens._ Man-o'-war-bird. Accidental. One record: specimen
+(present location unknown) taken on the North Fork of the Solomon River,
+Osborne County, August 16, 1880, by Frank Lewis.
+
+    Subspecies in Kansas: _F. m. rothschildi_ Mathews.
+
+
+* _Ardea herodias._ Great Blue Heron. Common transient and summer
+resident nesting in widely scattered colonies.
+
+    Subspecies in Kansas: three reported, _A. h. herodias_ Linnaeus in
+    northeast, _A. h. wardi_ Ridgway in southeast, and _A. h.
+    treganzai_ Court in west, but status of these poorly known because
+    of lack of sufficient breeding specimens.
+
+
+_Casmerodius albus._ American Egret. Regular postbreeding summer
+visitant; occasional spring and summer resident. No definite nesting
+record.
+
+    Subspecies in Kansas: _C. a. egretta_ (Gmelin).
+
+
+* _Leucophoyx thula._ Snowy Egret. Regular postbreeding summer visitant;
+rare and local summer resident; occasional in spring. One nesting
+record: two nests found, summer, 1952, 6 miles north and 4-1/2 miles
+west of Garden City, Finney County, Marvin D. Schwilling.
+
+    Subspecies in Kansas: _L. t. thula_ (Molina).
+
+
+_Hydranassa tricolor._ Louisiana Heron. Accidental. Two records:
+specimen taken at Lake Inman, McPherson County, August 9, 1934, by R. E.
+Mohler and Richard H. Schmidt; one seen, 1-1/2 miles south of Iatan
+Marsh, Atchison County (near Iatan, Missouri), September 12, 1948, first
+reported by R. F. Miller and Mr. and Mrs. Ivan L. Boyd, seen by several
+other observers.
+
+    Subspecies in Kansas: _H. t. ruficollis_ (Gosse).
+
+
+* _Florida caerulea._ Little Blue Heron. Regular postbreeding summer
+visitant; rare and local summer resident; occasional in spring. Usually
+more common than Snowy Egret. One nesting record: one nest found,
+summer, 1952, 6 miles north and 4-1/2 miles west of Garden City, Finney
+County, Marvin D. Schwilling.
+
+    Subspecies in Kansas: _F. c. caerulea_ (Linnaeus).
+
+
+* _Butorides virescens._ Green Heron. Common transient and summer
+resident.
+
+    Subspecies in Kansas: _B. v. virescens_ (Linnaeus).
+
+
+* _Nycticorax nycticorax._ Black-crowned Night Heron. Transient and
+summer resident, breeding in scattered colonies.
+
+    Subspecies in Kansas: _N. n. hoactli_ (Gmelin).
+
+
+* _Nyctanassa violacea._ Yellow-crowned Night Heron. Summer resident
+throughout state, rare in north; numbers perhaps augmented in late
+summer by postbreeding stragglers.
+
+    Subspecies in Kansas: _N. v. violacea_ (Linnaeus).
+
+
+* _Botaurus lentiginosus_ (Rackett). American Bittern. Common transient;
+summer resident locally. Two definite nesting records: nest with 4 newly
+hatched young (male collected, KU 30468), 1/2 mile east and 2 miles
+south of Welda, Anderson County, June 9, 1951, Maurice F. Baker; nest
+with eggs, 6 miles north and 3-1/2 miles west of Kalvesta, Finney
+County, summer, 1952, Raymond Erkic (_fide_ Marvin D. Schwilling).
+
+    No subspecies recognized.
+
+
+* _Ixobrychus exilis._ Least Bittern. Transient and irregular summer
+resident. Two nests found at Lake Quivira, Johnson County, June 3, 1949,
+Harold C. Hedges; on June 28, one of the nests contained 4 eggs, on July
+10 this nest was empty. No other definite nesting records.
+
+    Subspecies in Kansas: _I. e. exilis_ (Gmelin).
+
+
+
+_Mycteria americana_ Linnaeus. Wood Ibis. Accidental. Several sight
+records and one specimen: male (KU 9489), 5 miles north-*east of
+Goodland, Sherman County, October 4, 1913, Willis Feaster.
+
+    No subspecies recognized.
+
+
+* _Plegadis mexicana_ (Gmelin). White-faced Glossy Ibis. Irregular
+transient and summer visitant; more common in west. One definite nesting
+record: photograph of downy young ("Kansas Fish and Game," vol. 9, no.
+3, Jan. 1952, p. 7) taken at Cheyenne Bottoms, Barton County, presumably
+in summer of 1951, by L. O. Nossaman. Frank Robl has seen individuals in
+summer in Cheyenne Bottoms on many occasions. Reports of Eastern Glossy
+Ibis (_Plegadis falcinellus_) in Kansas probably are based on dark-faced
+immatures of the present species, although the eastern species has been
+taken in Oklahoma.
+
+    No subspecies recognized.
+
+
+_Ajaia ajaja_ (Linnaeus). Roseate Spoonbill. Accidental. One authentic
+specimen (present location not known): male, near Douglass, on Four-Mile
+Creek, Butler County, March 20, 1899, taken by Dr. R. Matthews,
+identification verified by Jerold Volk and Wilfred Goodman.
+
+    No subspecies recognized.
+
+
+_Phoenicopterus ruber_ Linnaeus. Flamingo. Accidental. Two birds seen in
+autumn, 1928, at Little Salt Marsh, Stafford County, one of which was
+killed on opening day of duck season and now (1955) is mounted at Kansas
+Forestry, Fish, and Game Commission headquarters at Pratt.
+
+    No subspecies recognized.
+
+
+_Olor columbianus_ (Ord). Whistling Swan. Transient and winter resident,
+formerly common, now rare. Many specimens are on record; at least four
+were taken in winter.
+
+    No subspecies recognized.
+
+
+_Olor buccinator_ (Richardson). Trumpeter Swan. Formerly occasional
+migrant, no longer occurs in Kansas. All specimens from Kansas alleged
+to be of this species are actually Whistling Swans. The early sight
+records seem valid, however, and the species should remain on the state
+list.
+
+    No subspecies recognized.
+
+
+* _Branta canadensis._ Canada Goose. Common transient; some winter in
+suitable places. This species was found nesting along the Missouri River
+near Atchison by early explorers. Modern breeding records probably
+pertain to captives or their descendants.
+
+    Subspecies in Kansas: _B. c. moffitti_ Aldrich, _B. c.
+    leucopareia_ (Brandt), _B. c. minima_ Ridgway, and _B. c.
+    hutchinsi_ (Richardson) have been collected in Kansas.
+    Additionally, subspecies _interior_ Todd and _parvipes_ (Cassin)
+    probably pass through the state but no specimens have been saved.
+    Canada Geese of widely varying size are regularly seen in
+    migration.
+
+
+_Branta bernicla._ Brant. Accidental. Several sight records and one
+specimen: unsexed bird (KU 7490), Leavenworth County, November 15, 1879,
+A. Lange. Some hunters refer to immature Blue Geese as "brant." Orville
+O. Rice saw 4 brant 2 miles north of Burlington, near the Neosho River,
+Coffey County, March 24, 1955, that appeared to be Black Brant, _Branta
+nigricans_ (Lawrence).
+
+    Subspecies in Kansas: _B. b. hrota_ (Mueller).
+
+
+_Anser albifrons._ White-fronted Goose. Regular transient throughout
+state, more common in central and western parts.
+
+    Subspecies in Kansas: _A. a. frontalis_ Baird.
+
+
+_Chen hyperborea._ Snow Goose. Common transient throughout state.
+
+    Subspecies in Kansas: _C. h. hyperborea_ (Pallas).
+
+
+_Chen caerulescens_ (Linnaeus). Blue Goose. Common transient in east,
+less common in central and western parts of state. In east, this species
+predominates in early spring migration whereas the Snow Goose is most
+numerous later. Hybrids between the two are regularly seen.
+
+    No subspecies recognized.
+
+
+[_Chen rossii_ (Cassin). Ross Goose. One reported at Wyandotte County
+Lake, November 22, 1951, by John Bishop. Placed in Hypothetical List in
+absence of a specimen.]
+
+
+_Dendrocygna bicolor._ Fulvous Tree-duck. Accidental. Frank Robl
+carefully examined and identified three specimens killed in 1929 or
+1930, in Cheyenne Bottoms, Barton County. None saved. Specimens
+collected also in nearby areas of Missouri.
+
+    Subspecies in Kansas: _D. b. helva_ Wetmore and Peters, on
+    geographical grounds.
+
+
+* _Anas platyrhynchos._ Mallard. Abundant transient, regular winter
+resident, irregular and local summer resident. Modern breeding
+distribution poorly known but several nests found in widely scattered
+areas in past years. Nests regularly in Kearny, Finney, and Barton
+counties.
+
+    Subspecies in Kansas: _A. p. platyrhynchos_ Linnaeus.
+
+
+_Anas rubripes_ Brewster. Black Duck. Regular but rare or uncommon
+transient and winter resident in east and central (Cheyenne Bottoms,
+Barton County) sections.
+
+    No subspecies recognized.
+
+
+_Anas fulvigula._ Mottled Duck. Accidental. Four specimens allegedly of
+this species have been reported. Of these, two are actually Mallards,
+one is a Gadwall, and one, female, Neosho Falls, Woodson County, March
+11, 1876, Goss, is a Mottled Duck.
+
+    Subspecies in Kansas: _A. f. maculosa_ Sennett.
+
+
+_Anas strepera_ Linnaeus. Gadwall. Transient and occasional winter
+resident throughout state. Rare summer resident but no satisfactory
+nesting record reported.
+
+    No subspecies recognized.
+
+
+* _Anas acuta_ Linnaeus. Pintail. Abundant transient throughout state,
+irregular winter resident, local summer resident nesting in recent years
+in Barton, Finney, Meade, and Leavenworth counties, but summer
+distribution poorly known.
+
+    No subspecies recognized.
+
+
+_Anas carolinensis_ Gmelin. Green-winged Teal. Common transient, rare
+winter resident (records from Meade County and Kansas City).
+
+    No subspecies recognized.
+
+
+* _Anas discors_ Linnaeus. Blue-winged Teal. Common transient, locally
+common summer resident.
+
+    No subspecies recognized.
+
+
+_Anas cyanoptera._ Cinnamon Teal. Rare transient in east, uncommon or
+fairly common transient in west.
+
+    Subspecies in Kansas: _A. c. septentrionalis_ Snyder and Lumsden.
+
+
+* _Spatula clypeata_ (Linnaeus). Shoveller. Common transient throughout
+state. Frank Robl found a female with young in Cheyenne Bottoms, Barton
+County, in approximately 1930. Nest with eggs found 1-1/2 miles south of
+Friend, Finney County, in spring, 1952, Marvin D. Schwilling.
+
+    No subspecies recognized.
+
+
+[_Mareca penelope_ (Linnaeus). European Widgeon. Carl and David Holmes
+reported a pair at Lake Shawnee, Shawnee County, April 16, 1954. Placed
+on Hypothetical List until a specimen is taken.]
+
+
+_Mareca americana_ (Gmelin). Baldpate. Common transient throughout
+state, rare winter resident.
+
+    No subspecies recognized.
+
+
+* _Aix sponsa_ (Linnaeus). Wood Duck. Transient, rare in west to locally
+common in extreme east. Summer resident in eastern part of state;
+breeding distribution poorly known.
+
+    No subspecies recognized.
+
+
+* _Aythya americana_ (Eyton). Redhead. Fairly common transient and
+occasional winter resident throughout state. Frank Robl found a nesting
+pair in Cheyenne Bottoms, Barton County, in 1928 (approximate). The
+adults were neither captives nor cripples.
+
+    No subspecies recognized.
+
+
+_Aythya collaris_ (Donovan). Ring-necked Duck. Fairly common transient
+throughout state, rare winter resident.
+
+    No subspecies recognized.
+
+
+_Aythya valisineria_ (Wilson). Canvas-back. Fairly common transient and
+occasional winter resident throughout state.
+
+    No subspecies recognized.
+
+
+_Aythya marila._ Greater Scaup Duck. Rare transient, status poorly
+known. Several sight records, one in winter. Floyd T. Amsden, a
+competent sportsman and amateur ornithologist of Wichita, identified 3
+male specimens killed 3 miles north and 1 mile east of Sharon, Barber
+County, on October 27 (2) and November 3 (1), 1951. Frank Robl has seen
+specimens killed in Cheyenne Bottoms, Barton County. Every effort should
+be made to preserve specimens from Kansas.
+
+    Subspecies in Kansas: _A. m. nearctica_ Stejneger, on geographical
+    grounds.
+
+
+_Aythya affinis_ (Eyton). Lesser Scaup Duck. Common transient throughout
+state. A few records of wintering and summering (non-*breeding)
+individuals.
+
+    No subspecies recognized.
+
+
+_Bucephala clangula._ Golden-eye. Uncommon transient and winter
+resident. Specimens from Kansas alleged to be the Barrow Golden-eye
+(_Bucephala islandica_) all are of the present species.
+
+    Subspecies in Kansas: _B. c. americana_ (Bonaparte).
+
+
+_Bucephala albeola_ (Linnaeus). Buffle-head. Fairly common transient and
+occasional winter resident throughout state.
+
+    No subspecies recognized.
+
+
+_Clangula hyemalis_ (Linnaeus). Old-squaw. Rare transient and winter
+visitant. At least five specimens taken (but only two or three
+preserved) and numerous sight records, from widely separated parts of
+state.
+
+    No subspecies recognized.
+
+
+_Somateria mollissima._ Eider. Accidental. One record: immature male (KU
+3620), Kansas River near Lecompton, Douglas County, November 3, 1891, A.
+L. Wiedman.
+
+    Subspecies in Kansas: _S. m. v. nigra_ Bonaparte (identification
+    checked by A. Wetmore).
+
+
+_Somateria spectabilis_ (Linnaeus). King Eider. Accidental. One record:
+immature male (KU 27487), Kansas River 1 mile east of Lawrence, Douglas
+County, November 27, 1947, R. L. Montell.
+
+    No subspecies recognized.
+
+
+_Melanitta deglandi._ White-winged Scoter. Rare transient. Nine
+specimens from Douglas and Leavenworth counties, taken from 1927 to
+1938; several sight records from eastern Kansas.
+
+    Subspecies in Kansas: _M. d. deglandi_ (Bonaparte).
+
+
+_Melanitta perspicillata_ (Linnaeus). Surf Scoter. Rare transient. Eight
+known specimens (three of which are now in University of Kansas
+collection), all taken in autumn, seven in Douglas County, one in
+Sedgwick County; several sight records from eastern Kansas.
+
+    No subspecies recognized.
+
+
+_Oidemia nigra._ Common Scoter. Accidental. The two preserved specimens
+from Kansas supposedly of this species are actually Surf Scoters. L. B.
+Carson, however, identified an adult male Common Scoter killed by a
+hunter at Horton Lake, Brown County, in the early 1930's. Others have
+been seen by reliable field observers. Every effort should be made to
+secure specimens from Kansas.
+
+    Subspecies in Kansas: _O. n. americana_ Swainson, on geographical
+    grounds.
+
+
+* _Oxyura jamaicensis._ Ruddy Duck. Common transient throughout state,
+rare winter resident. One breeding record: Frank Robl saw an adult
+female with one small young at Cheyenne Bottoms, Barton County, in
+approximately 1929.
+
+    Subspecies in Kansas: _O. j. rubida_ (Wilson).
+
+
+_Lophodytes cucullatus_ (Linnaeus). Hooded Merganser. Uncommon transient
+and winter resident throughout state. Probably nests occasionally (two
+specimens at KU taken in east in June), but no proof of this available.
+
+    No subspecies recognized.
+
+
+_Mergus merganser._ American Merganser. Common transient and winter
+resident throughout state.
+
+    Subspecies in Kansas: _M. m. americanus_ Cassin.
+
+
+_Mergus serrator._ Red-breasted Merganser. Uncommon transient throughout
+state; probably also rare winter resident but records lacking. This
+species is more common than Hooded Merganser in west, less common than
+Hooded in east.
+
+    Subspecies in Kansas: _M. s. serrator_ Linnaeus.
+
+
+* _Cathartes aura._ Turkey Vulture. Common transient throughout state;
+common summer resident west at least to Clark County. Breeding
+distribution in west poorly known.
+
+    Subspecies in Kansas: _C. a. teter_ Friedmann.
+
+
+_Coragyps atratus_ (Meyer). Black Vulture. Once occurred in southeast,
+but no record since 1885. Goss quotes Dr. George Lisle ("a close
+observer") as finding this species common and breeding at Chetopa,
+Labette County, on the Oklahoma line, prior to 1883. Lisle found a nest
+with two eggs in 1858. Goss also reports one killed by Watson at Ellis,
+Ellis County, on March 27, 1885, but the location of the specimen is
+unknown. The species may still occur in southeastern Kansas.
+
+    No subspecies recognized.
+
+
+* _Elanoides forficatus._ Swallow-tailed Kite. Formerly summer resident
+in at least eastern half of state. Last specimen from Kansas taken by
+Dr. G. C. Rinker at Hamilton, Greenwood County, May 17, 1914.
+
+    Subspecies in Kansas: _E. f. forficatus_ (Linnaeus).
+
+
+* _Ictinia misisippiensis_ (Wilson). Mississippi Kite. Common summer
+resident in south-central Kansas, east to Harvey, north to Barton, and
+west to Kearny counties. Occasional records from Douglas (nested once),
+Johnson, Greenwood, and Hamilton counties.
+
+    No subspecies recognized.
+
+
+_Accipiter gentilis._ Goshawk. Rare and irregular winter visitor in
+east. Status in west unknown.
+
+    Subspecies in Kansas: _A. g. atricapillus_ (Wilson).
+
+
+* _Accipiter striatus._ Sharp-shinned Hawk. Transient and winter
+resident throughout state; less common in east. Status in summer poorly
+known; one nest found in Cloud County, July 11, 1938, J. M. Porter.
+
+    Subspecies in Kansas: _A. s. velox_ (Wilson).
+
+
+* _Accipiter cooperii_ (Bonaparte). Cooper Hawk. Resident throughout
+state but nesting records only from the eastern half, west to Cloud
+County.
+
+    No subspecies recognized.
+
+
+* _Buteo jamaicensis._ Red-tailed Hawk. Abundant transient and winter
+resident in east; in High Plains of west, largely restricted to river
+bottoms in winter. Common summer resident in east; status in summer in
+west poorly known.
+
+    Subspecies in Kansas: _B. j. borealis_ (Gmelin) is the breeding
+    bird of eastern Kansas. _B. j. calurus_ Cassin probably nests in
+    west but no specimens available. _B. j. borealis_, _B. j.
+    calurus_, _B. j. kriderii_ Hoopes, and _B. j. harlani_ (Audubon),
+    the latter considered here as conspecific with _jamaicensis_, all
+    occur as transients and winter residents. More specimens needed to
+    establish details of distribution of various subspecies.
+
+
+* _Buteo lineatus._ Red-shouldered Hawk. Uncommon transient and summer
+resident and irregular winter resident in eastern Kansas. Breeding
+records from Leavenworth and Woodson counties; doubtless breeds in other
+eastern counties but definite evidence lacking.
+
+    Subspecies in Kansas: _B. l. lineatus_ (Gmelin).
+
+
+* _Buteo platypterus._ Broad-winged Hawk. Fairly common transient and
+local summer resident in eastern Kansas. Breeding records only from
+Douglas, Leavenworth, and Johnson counties, where species nests
+regularly.
+
+    Subspecies in Kansas: _B. p. platypterus_ (Vieillot).
+
+
+* _Buteo swainsoni_ Bonaparte. Swainson Hawk. Abundant transient in
+west, fairly common in east. Nests commonly throughout western
+two-thirds of state and at least occasionally in eastern portion.
+Supposed winter records should be substantiated by specimens.
+
+    No subspecies recognized.
+
+
+_Buteo lagopus._ Rough-legged Hawk. Winter resident, fairly common in
+east to common in west.
+
+    Subspecies in Kansas: _B. l. s. johannis_ (Gmelin).
+
+
+* _Buteo regalis_ (Gray). Ferruginous Rough-leg. Common transient and
+winter resident in west, rare in east. Rare summer resident in west. Two
+nesting records: nest with four young, south fork of Smoky Hill River,
+near Wallace, May 27, 1883, Goss; nest with three young, west of Russell
+Springs, Logan County, May 29, 1954, Marvin D. Schwilling.
+
+    No subspecies recognized.
+
+
+_Parabuteo unicinctus._ Harris Hawk. Accidental. Two records: male,
+Wichita, Sedgwick County, December 14, 1918, LeRoy Snyder; female (KU
+10752), 7-1/2 miles southwest of Lawrence, Douglas County, December 25,
+1918, Fred Hastie.
+
+    Subspecies in Kansas: _P. u. harrisi_ (Audubon).
+
+
+* _Aquila chrysaetos._ Golden Eagle. Formerly common resident throughout
+state. Now common in winter in west to rare in east. One positive
+nesting record: a pair nested for several years (prior to 1891) in
+southeastern Comanche County on a high gypsum ledge, Goss.
+
+    Subspecies in Kansas: _A. c. canadensis_ (Linnaeus).
+
+
+_Haliaeetus leucocephalus._ Bald Eagle. Rare transient and winter
+resident in east; fairly common winter resident in west, where large
+numbers may gather to roost.
+
+    Subspecies in Kansas: _H. l. alascanus_ Townsend. Previous
+    students refer all Bald Eagles from the state to _H. l.
+    leucocephalus_ (Linnaeus) but specimens in the K. U. collection,
+    all taken in winter, are large (three females, wing, 645, 655, 680
+    mm.) and are clearly of the northern subspecies.
+
+
+_Circus cyaneus._ Marsh Hawk. Resident, common in winter, less common
+and local in summer.
+
+    Subspecies in Kansas: _C. c. hudsonius_ (Linnaeus).
+
+
+_Pandion haliaetus._ Osprey. Occurs irregularly throughout state but
+less frequently in west. Most records in spring and autumn but a few at
+other seasons. No definite nesting record.
+
+    Subspecies in Kansas: _P. h. carolinensis_ (Gmelin).
+
+
+_Falco rusticolus._ Gyrfalcon. Accidental. One specimen: Manhattan,
+Riley County, December 1, 1880, A. L. Runyan (specimen at Kansas State
+College).
+
+    Subspecies in Kansas: _F. r. obsoletus_ Gmelin.
+
+
+_Falco mexicanus_ Schlegel. Prairie Falcon. Rare summer and fairly
+common winter resident in west; occasional transient and winter resident
+in east. No satisfactory breeding records.
+
+    No subspecies recognized.
+
+
+* _Falco peregrinus._ Duck Hawk. Rare transient and winter resident,
+probably more common in west. Formerly nested but no nesting record
+since before 1900.
+
+    Subspecies in Kansas: _F. p. anatum_ Bonaparte.
+
+
+_Falco columbarius._ Pigeon Hawk. Uncommon transient and rare winter
+resident in east; more common in migration in west but status there in
+winter not known.
+
+    Subspecies in Kansas: _F. c. columbarius_ Linnaeus is most
+    frequent in eastern part, west to Reno County; _F. c.
+    richardsonii_ Ridgway is the common subspecies in west, occasional
+    in east; _F. c. bendirei_ Swann is known in Kansas from one
+    specimen (KU 4425) from Ellis County, October, 1875, taken by Dr.
+    L. Watson (identified by James L. Peters).
+
+
+* _Falco sparverius._ Sparrow Hawk. Common resident and transient
+throughout state (but status in winter in northwest not known).
+
+    Subspecies in Kansas: _F. s. sparverius_ Linnaeus.
+
+
+_Bonasa umbellus._ Ruffed Grouse. Formerly common resident in eastern
+part; now probably extirpated in state but observers in extreme east
+should watch for it. One authentic specimen (KU 31944), southeastern
+Kansas, between 1885 and 1910, Alexander J. C. Roese. No definite
+nesting record.
+
+    Subspecies in Kansas: _B. u. umbellus_ (Linnaeus).
+
+
+* _Tympanuchus cupido._ Greater Prairie Chicken. Resident, but highly
+local; absent in southwestern quarter of state.
+
+    Subspecies in Kansas: _T. c. pinnatus_ (Brewster).
+
+
+* _Tympanuchus pallidicinctus_ (Ridgway). Lesser Prairie Chicken.
+Resident, but local, in southwestern quarter of state, north to Hamilton
+and Finney counties and east to Pawnee and Barber counties. A few old
+records east to Anderson and Neosho counties in winter.
+
+    No subspecies recognized.
+
+
+_Pedioecetes phasianellus._ Sharp-tailed Grouse. Formerly resident in
+western part of state; scattered old records from eastern localities.
+Now extirpated, or nearly so, in Kansas; observers in northwestern
+counties should watch for it. No definite nesting record.
+
+    Subspecies in Kansas: _P. p. jamesi_ Lincoln.
+
+
+* _Colinus virginianus._ Bob-white. Resident, common in east, less
+common and local in west.
+
+    Subspecies in Kansas: _C. v. virginianus_ (Linnaeus) in east,
+    intergrading through central part with _C. v. taylori_ Lincoln in
+    west.
+
+
+* _Callipepla squamata._ Scaled Quail. Locally common resident in
+southwest, formerly north to Wallace County but now primarily south of
+Arkansas River, eastern limit not known. Breeding records from Hamilton,
+Kearny, Finney, Stanton, Morton, Stevens, and Clark counties, Marvin D.
+Schwilling.
+
+    Subspecies in Kansas: _C. s. pallida_ Brewster.
+
+
+* _Phasianus colchicus_ Linnaeus. Ring-necked Pheasant. Introduced.
+Common in western two-thirds, gradually invading east where a few are
+now found in most counties.
+
+    Origin of North American stock obscure; no subspecies now
+    recognized here.
+
+
+_Meleagris gallopavo._ Turkey. Formerly common resident, west along
+streams at least to Riley County; now extirpated in Kansas. No known
+specimen from Kansas with authentic data. No definite nesting record.
+
+    Subspecies in Kansas: _M. g. silvestris_ Vieillot.
+
+
+_Grus americana_ (Linnaeus). Whooping Crane. Regular transient, now
+rare. Probably most individuals go through east-central part of state.
+Several early specimens from state and several recent sight records and
+one specimen: adult female (KU 31198), found crippled 8-1/2 miles south
+of Sharon, Barber County, October 31, 1952, Thane S. Robinson.
+
+    No subspecies recognized.
+
+
+_Grus canadensis._ Sandhill Crane. Transient, rare in east, common to
+abundant in west.
+
+    Subspecies in Kansas: _G. c. canadensis_ (Linnaeus) and _G. c.
+    tabida_ (Peters); comparative status of the two subspecies not
+    known.
+
+
+* _Rallus elegans._ King Rail. Transient and summer resident, locally
+common.
+
+    Subspecies in Kansas: _R. e. elegans_ Audubon.
+
+
+_Rallus limicola._ Virginia Rail. Transient and summer resident, but
+breeding status poorly known. One breeding record: adult with six small,
+downy young, 8 miles south of Richfield, Morton County, May 24, 1950,
+Richard and Jean Graber.
+
+    Subspecies in Kansas: _R. l. limicola_ Vieillot.
+
+
+* _Porzana carolina_ (Linnaeus). Sora. Common transient throughout
+state; status in summer poorly known. Two breeding records: Osawatomie,
+Miami County, prior to 1914 (no other details), record by Colvin, a
+careful observer; two nests, at least one with eggs, Finney County State
+Lake, August 21, 1951, Marvin D. Schwilling. Additional nesting records
+should be sought.
+
+    No subspecies recognized.
+
+
+_Coturnicops noveboracensis._ Yellow Rail. Rare or generally overlooked
+transient. Records only from eastern part of state (west to Sedgwick
+County).
+
+    Subspecies in Kansas: _C. m. noveboracensis_ (Gmelin).
+
+
+* _Laterallus jamaicensis._ Black Rail. Rare or generally overlooked
+summer resident. At least ten records, including at least seven
+specimens from widely scattered localities. Two breeding records: nest
+with eight eggs, Manhattan, Riley County, June, 1880, C. P. Blachly;
+nest with nine eggs, near Garden City, Finney County, June 6, 1889, H.
+W. Menke.
+
+    Subspecies in Kansas: _L. j. jamaicensis_ (Gmelin).
+
+
+_Porphyrula martinica_ (Linnaeus). Purple Gallinule. Rare and irregular
+summer visitant. Five specimens taken in April and June in Douglas,
+Sedgwick, and Riley counties. Several sight records from eastern Kansas.
+
+    No subspecies recognized.
+
+
+* _Gallinula chloropus._ Florida Gallinule. Rare summer resident; status
+poorly known. Two breeding records: nest found "on a board," Coffey
+County, June (year not given), P. B. Peabody; nest (female, KU 27509,
+and two eggs taken), 3 miles northeast of Lawrence, Douglas County, May
+22, 1945 (previously published as 1946), R. L. Montell.
+
+    Subspecies in Kansas: _G. c. cachinnans_ Bangs.
+
+
+* _Fulica americana._ American Coot. Uncommon summer resident, abundant
+transient, and local winter resident in east and central parts; status
+in west poorly known. Breeding record: 3 newly hatched young (KU
+16694-6), Little Salt Marsh, Stafford County, June 13, 1927, H. C.
+Parker and W. H. Burt. The few other nesting localities include one in
+Finney County.
+
+    Subspecies in Kansas: _F. a. americana_ Gmelin.
+
+
+_Charadrius hiaticula._ Semipalmated Plover. Regular transient
+throughout state, often fairly common.
+
+    Subspecies in Kansas: _C. h. semipalmatus_ Bonaparte.
+
+
+_Charadrius melodus._ Piping Plover. Rare transient. Three specimens
+from Douglas County, March and April, and a female (KU 15492) from
+Little Salt Marsh, Stafford County, July 16, 1925, T. E. White. Nests in
+Nebraska, south at least to Lincoln; observers in north-central Kansas
+should watch for possible breeding birds.
+
+    Subspecies in Kansas: _C. m. circumcinctus_ (Ridgway).
+
+
+* _Charadrius alexandrinus._ Snowy Plover. Summer resident on salt
+plains of Clark, Comanche, Stafford, Barton, and probably other
+counties. Breeding range in Kansas poorly known. One definite nesting
+record: adults with young, and one nest with 3 eggs, Comanche County,
+June 18, 1886, Goss. One female (KU 7787), from Lawrence, Douglas
+County, April 22, 1909, L. L. Dyche.
+
+    Subspecies in Kansas: _C. a. tenuirostris_ (Lawrence).
+
+
+* _Charadrius vociferus._ Killdeer. Common transient and summer resident
+throughout state. Occasional winter resident.
+
+    Subspecies in Kansas: _C. v. vociferus_ Linnaeus.
+
+
+* _Eupoda montana_ (Townsend). Mountain Plover. Summer resident in High
+Plains of western Kansas, but current status poorly known. Many
+specimens from west and one positive breeding record: two half-grown,
+partly downy males (KU 5512, 5513), 5 miles south of Tribune, Greeley
+County, June 21, 1911, Bunker and Rocklund.
+
+    No subspecies recognized.
+
+
+_Pluvialis dominica._ Golden Plover. Regular transient in east,
+sometimes common; more common in spring than in autumn. Formerly
+abundant; status in west not known.
+
+    Subspecies in Kansas: _P. d. dominica_ (Mueller).
+
+
+_Squatarola squatarola_ (Linnaeus). Black-bellied Plover. Regular
+transient throughout state.
+
+    No subspecies recognized.
+
+
+_Arenaria interpres._ Ruddy Turnstone. Rare transient. Several sight
+records from eastern part of state and two specimens: one killed at
+Topeka, Shawnee County, August 16, 1898, F. W. Forbes (location of
+specimen unknown); male, Hamilton, Greenwood County, October 1, 1911, G.
+C. Rinker.
+
+    Subspecies in Kansas: _A. i. morinella_ (Linnaeus).
+
+
+* _Philohela minor_ (Gmelin). American Woodcock. Uncommon transient west
+to Scott and Kearny counties. Probably does not occur farther west. One
+early nesting record: adult with several "at least one-fourth grown"
+young, near Neosho Falls, Woodson County, May 25, 1874, Goss.
+
+    No subspecies recognized.
+
+
+_Capella gallinago._ Wilson Snipe. Common transient and occasional
+winter resident throughout state.
+
+    Subspecies in Kansas: _C. g. delicata_ (Ord).
+
+
+* _Numenius americanus._ Long-billed Curlew. Transient and uncommon
+summer resident in west; occasional transient in east. Female and two
+downy young (KU 11607, 8, 9) taken 1 mile from Spring Creek, Morton
+County, June 27, 1927, W. H. Burt and L. V. Compton.
+
+    Subspecies in Kansas: _N. a. americanus_ Bechstein is the breeding
+    form; _N. a. parvus_ Bishop occurs in migration (specimens from
+    Riley, Lyon, and Douglas counties).
+
+
+[_Numenius phaeopus._ Hudsonian Curlew. Reported by Goss, and one seen
+at Iatan Marsh, Atchison County, May 16, 1948, by Harold C. Hedges, but
+here placed in Hypothetical List until a specimen from Kansas is taken.]
+
+
+_Numenius borealis_ (Forster). Eskimo Curlew. Formerly abundant
+transient in eastern Kansas; now extinct, or nearly so. One unsexed bird
+(KU 6951) taken in Douglas County, May 6, 1873, by N. J. Stevens.
+
+    No subspecies recognized.
+
+
+* _Bartramia longicauda_ (Bechstein). Upland Plover. Abundant transient
+and locally common summer resident in suitable habitat; most numerous in
+west. Nesting records from Johnson, Wabaunsee, Chase, Finney, and Kearny
+counties.
+
+    No subspecies recognized.
+
+
+* _Actitis macularia_ (Linnaeus). Spotted Sandpiper. Common transient
+and summer resident throughout state. Breeding records from Leavenworth
+County and Kansas City region.
+
+    No subspecies recognized.
+
+
+_Tringa solitaria._ Solitary Sandpiper. Common transient throughout
+state.
+
+    Subspecies in Kansas: _T. s. solitaria_ Wilson is most common in
+    eastern part and _T. s. cinnamomea_ (Brewster) is most common in
+    western part of Kansas, with much overlap of the two.
+
+
+_Catoptrophorus semipalmatus._ Willet. Transient throughout state,
+usually uncommon, but sometimes locally common.
+
+    Subspecies in Kansas: _C. s. inornatus_ (Brewster). _C. s.
+    semipalmatus_ (Gmelin) has been reported, probably erroneously;
+    all specimens seen are of the western subspecies, _inornatus_.
+
+
+_Totanus melanoleucus_ (Gmelin). Greater Yellow-legs. Common transient
+throughout state.
+
+    No subspecies recognized.
+
+
+_Totanus flavipes_ (Gmelin). Lesser Yellow-legs. Common transient
+throughout state.
+
+    No subspecies recognized.
+
+
+_Calidris canutus._ American Knot. Rare transient. Sight records from
+eastern and western Kansas; only one specimen preserved, Hamilton,
+Greenwood County, September 19, 1911, G. C. Rinker.
+
+    Subspecies in Kansas: _C. c. rufa_ (Wilson).
+
+
+_Erolia melanotos_ (Vieillot). Pectoral Sandpiper. Common transient
+through state.
+
+    No subspecies recognized.
+
+
+_Erolia fuscicollis_ (Vieillot). White-rumped Sandpiper. Common
+transient throughout state.
+
+    No subspecies recognized.
+
+
+_Erolia bairdii_ (Coues). Baird Sandpiper. Common transient in east;
+abundant transient in west.
+
+    No subspecies recognized.
+
+
+_Erolia minutilla_ (Vieillot). Least Sandpiper. Common transient
+throughout state, but less numerous in west than in east.
+
+    No subspecies recognized.
+
+
+_Erolia alpina._ Red-backed Sandpiper. Rare or uncommon transient;
+reported only from eastern half of state, west to Cloud County. Few
+specimens have been preserved.
+
+    Subspecies in Kansas: _E. a. pacifica_ (Coues).
+
+
+_Limnodromus griseus._ Short-billed Dowitcher. Rare or uncommon
+transient in east, status in west not known. One specimen: male (KU
+29403), 3 miles east of Lawrence, Douglas County, May 14, 1946, R. L.
+Montell. Dowitchers having noticeably short bills should be collected
+when possible.
+
+    Subspecies in Kansas: _L. g. hendersoni_ Rowan.
+
+
+_Limnodromus scolopaceus_ (Say). Long-billed Dowitcher. Common transient
+throughout state.
+
+    No subspecies recognized.
+
+
+_Micropalama himantopus_ (Bonaparte). Stilt Sandpiper. Common transient
+throughout state.
+
+    No subspecies recognized.
+
+
+_Ereunetes pusillus_ (Linnaeus). Semipalmated Sandpiper. Common
+transient throughout state.
+
+    No subspecies recognized.
+
+
+_Ereunetes mauri_ Cabanis. Western Sandpiper. Uncommon transient in
+east; probably common in west but status there unknown.
+
+    No subspecies recognized.
+
+
+_Tryngites subruficollis_ (Vieillot). Buff-breasted Sandpiper. Uncommon
+but regular transient in autumn in eastern Kansas, west to Republic
+County; few spring records.
+
+    No subspecies recognized.
+
+
+_Limosa fedoa_ (Linnaeus). Marbled Godwit. Rare or uncommon transient
+throughout state. Status somewhat uncertain because some observers
+confuse this species with female Hudsonian Godwits. The latter are
+larger and often much duller than male Hudsonian Godwits. Marbled
+Godwits, however, show no contrasting tail pattern in flight.
+
+    No subspecies recognized.
+
+
+_Limosa haemastica_ (Linnaeus). Hudsonian Godwit. Uncommon transient in
+eastern and central Kansas; status in west poorly known (reported from
+Ness and Kearny counties).
+
+    No subspecies recognized.
+
+
+_Crocethia alba_ (Pallas). Sanderling. Rare transient in eastern and
+central Kansas; status in west not known. Three specimens have been
+taken, two from Douglas County (October) and one from Stafford County
+(July).
+
+    No subspecies recognized.
+
+
+* _Recurvirostra americana_ Gmelin. Avocet. Uncommon transient in east;
+common transient and uncommon summer resident in west. Breeding records
+from Kearny, Finney, Haskell, Meade, and Barton counties.
+
+    No subspecies recognized.
+
+
+_Himantopus mexicanus_ (Mueller). Black-necked Stilt. Rare transient.
+Records from Crawford, Sedgwick, Cloud, Stafford, Finney, and Kearny
+counties; few recent records. No satisfactory nesting record.
+
+    No subspecies recognized.
+
+
+_Phalaropus fulicarius_ (Linnaeus). Red Phalarope. Very rare transient.
+Two specimens: female (KU 3778), Lake View, Douglas County, November 5,
+1905, E. E. Brown; male (Ottawa Univ. 96), near Ottawa, Franklin County,
+October 25, 1926, Wesley Clanton (identification checked by Tordoff).
+
+    No subspecies recognized.
+
+
+* _Steganopus tricolor_ Vieillot. Wilson Phalarope. Common transient
+throughout state. One definite nesting record: adult male with downy
+young, Cheyenne Bottoms, Barton County, June 26, 1954, Ted F. Andrews
+and Homer Stephens. Goss mentioned "breeding birds" in Meade County but
+the record is not convincing.
+
+    No subspecies recognized.
+
+
+_Lobipes lobatus_ (Linnaeus). Northern Phalarope. Rare transient. Goss
+shot five and preserved one (now in Goss collection) of 17 or 18 seen at
+Fort Wallace, Wallace County, May 25, 1883. Several sight records.
+
+    No subspecies recognized.
+
+
+_Stercorarius pomarinus_ (Temminck). Pomarine Jaeger. Accidental. One
+record: immature male (KU 6967), Kansas River near Lawrence, Douglas
+County, October 10, 1898, Gus Berger and Banks Brown. This specimen
+erroneously reported as a Parasitic Jaeger, _Stercorarius parasiticus_
+(Linnaeus), in previous lists of birds of Kansas.
+
+    No subspecies recognized.
+
+
+_Stercorarius longicaudus_ Vieillot. Long-tailed Jaeger. Accidental. One
+record: female (KU 32610), Cheyenne Bottoms, Barton County, June 23,
+1955, William M. Lynn and Larry D. Mosby.
+
+    No subspecies recognized.
+
+
+[_Larus hyperboreus._ Glaucous Gull. One bird with crippled leg seen at
+Lake Shawnee, Shawnee County, January 27, 1951, and several days
+thereafter, by many observers including the author. Placed on
+Hypothetical List until specimen is taken in Kansas.]
+
+
+_Larus argentatus._ Herring Gull. Transient, regular along Missouri
+River, uncommon to rare elsewhere in state; probably rare winter
+resident.
+
+    Subspecies in Kansas: _L. a. smithsonianus_ Coues.
+
+
+_Larus californicus_ Lawrence. California Gull. Accidental. One record:
+specimen (location unknown) taken by Goss, Arkansas River, Reno County,
+October 20, 1880.
+
+    No subspecies recognized.
+
+
+_Larus delawarensis_ Ord. Ring-billed Gull. Transient, locally common;
+rare winter resident.
+
+    No subspecies recognized.
+
+
+_Larus atricilla_ Linnaeus. Laughing Gull. Accidental. One specimen
+taken 3 miles east and 2-1/2 miles south of Canton, in Marion County,
+May 15, 1933, Richard H. Schmidt (specimen in his collection); sight
+records from Barton and Shawnee counties.
+
+    No subspecies recognized.
+
+
+_Larus pipixcan_ Wagler. Franklin Gull. Transient, abundant in west,
+common in east.
+
+    No subspecies recognized.
+
+
+_Larus philadelphia_ (Ord). Bonaparte Gull. Rare transient. All
+specimens from eastern part, west to Cloud County; status in west not
+known.
+
+    No subspecies recognized.
+
+
+[_Rissa tridactyla._ Kittiwake. Immature bird seen at Lake Shawnee,
+Shawnee County, October 20, 1951, by L. B. Carson and O. S. Pettingill,
+Jr. In the absence of a specimen, the species is placed on the
+Hypothical List.]
+
+
+_Xema sabini._ Sabine Gull. Three records: immature male, taken at
+Humboldt, Allen County, September 19, 1876, Peter Long (now in Goss
+collection); immature male, taken at Hamilton, Greenwood County, October
+3, 1909, G. C. Rinker; immature bird seen but not collected on October
+18, 28, and 29, 1952, at Lake Shawnee, Shawnee County, by several
+observers (Orville O. Rice secured good photographs of this bird).
+
+    Subspecies in Kansas: _X. s. sabini_ (Sabine).
+
+
+_Sterna forsteri_ Nuttall. Forster Tern. Transient, locally common in
+eastern half of state; status in west unknown.
+
+    No subspecies recognized.
+
+
+_Sterna hirundo._ Common Tern. Rare transient. Two specimens: female,
+Anderson County, May 11, 1878 (in Goss collection); male, Munger's Lake,
+near Hamilton, Greenwood County, September 2, 1912, G. C. Rinker.
+
+    Subspecies in Kansas: _S. h. hirundo_ Linnaeus.
+
+
+* _Sterna albifrons._ Least Tern. Uncommon transient and local summer
+resident throughout state. One definite nesting record: five nests, each
+with two eggs, Arkansas River at Coolidge, Hamilton County, July 1,
+1936, Otto Tiemeier.
+
+    Subspecies in Kansas: _S. a. athalassos_ Burleigh and Lowery.
+
+
+_Hydroprogne caspia_ (Pallas). Caspian Tern. Uncommon transient
+throughout state. Many sight records but only one specimen: female (KU
+17147), Douglas County, September 27, 1928, Harold Standing (skin and
+body skeleton of this tern saved; erroneously reported previously as two
+specimens).
+
+    No subspecies recognized.
+
+
+_Chlidonias niger._ Black Tern. Common transient and, in north-central
+part, regular summer resident but no positive breeding record.
+
+    Subspecies in Kansas: _C. n. surinamensis_ (Gmelin).
+
+
+* _Columba livia_ Gmelin. Rock Dove. Introduced. Common around
+habitations; nesting locally in feral state on cliffs in western
+Kansas.
+
+    No subspecies recognized because of mixed ancestry of birds
+    introduced into New World.
+
+
+* _Zenaidura macroura._ Mourning Dove. Common transient and summer
+resident, uncommon winter resident.
+
+    Subspecies in Kansas: _Z. m. carolinensis_ (Linnaeus) in east, _Z.
+    m. marginella_ (Woodhouse) in west, intergrading in central part.
+
+
+* _Ectopistes migratorius_ (Linnaeus). Passenger Pigeon. Extinct.
+Formerly irregular transient and summer resident. Two specimens, both
+males, taken at Neosho Falls, Woodson County, April 14, 1876, by Goss,
+who also reported this species to nest there occasionally.
+
+    No subspecies recognized.
+
+
+[_Columbigallina passerina._ Ground Dove. One seen on Kansas River, 3
+miles west of St. Marys, Pottawatomie County, November 11, 1954, by
+Thomas A. Hoffman and James Mulligan. Placed in Hypothetical List in
+absence of a specimen from Kansas.]
+
+[_Scardafella inca_ (Lesson). Inca Dove. One seen daily at Halstead,
+Harvey County, November 10, 1951, to January 21, 1952, by Edna L. Ruth
+and others. One seen in Topeka, Shawnee County, last week of June, 1952,
+E. J. Rice. Placed in Hypothetical List in absence of a specimen from
+Kansas.]
+
+
+* _Conuropsis carolinensis._ Carolina Paroquet. Extinct. Formerly common
+resident in wooded areas of east; west along stream bottoms. Goss
+reported nesting of small flock near Neosho Falls, Woodson County, in
+spring, 1858. No specimen from Kansas preserved.
+
+    Subspecies in Kansas: _C. c. ludovicianus_ (Gmelin), on
+    geographical grounds.
+
+
+* _Coccyzus americanus._ Yellow-billed Cuckoo. Common transient and
+summer resident throughout state.
+
+    Subspecies in Kansas: _C. a. americanus_ (Linnaeus).
+
+
+* _Coccyzus erythropthalmus_ (Wilson). Black-billed Cuckoo. Uncommon
+transient and summer resident. Nesting records: female (KU 15480) and
+nest containing two Black-billed Cuckoo eggs and one Yellow-billed
+Cuckoo egg, 7-1/2 miles southwest of Lawrence, Douglas County, June 5,
+1926, Charles D. Bunker; nests found in Cloud County in June, 1932 (1),
+1933 (1), 1934 (1), 1935 (1), 1938 (2), J. M. Porter.
+
+    No subspecies recognized.
+
+
+* _Geococcyx californianus_ (Lesson). Road-runner. Resident in
+south-central and southwestern Kansas; abundance and distribution
+subject to wide fluctuation, current status unknown. Four nests found,
+April to July, 1934, 4-1/2 miles east of Arkansas City, Cowley County,
+Walter Colvin.
+
+    No subspecies recognized.
+
+
+_Crotophaga sulcirostris._ Groove-billed Ani. Accidental. Three records:
+specimen (KU 31948), McCune, Crawford County, between 1885 and 1910,
+Alexander J. C. Roese; specimen, Lyon County, November 1, 1904; male (KU
+31951), 6-3/4 miles northeast of Blue Rapids, Marshall County, October
+28, 1952, Elizabeth G. McCleod.
+
+    Subspecies in Kansas: _C. s. sulcirostris_ Swainson.
+
+
+* _Tyto alba._ Barn owl. Uncommon resident throughout state.
+
+    Subspecies in Kansas: _T. a. pratincola_ (Bonaparte).
+
+
+* _Otus asio._ Screech Owl. Common resident throughout state.
+
+    Subspecies in Kansas: Following reported: _O. a. naevius_ (Gmelin)
+    in northeast, _O. a. hasbroucki_ Ridgway in south-central, _O. a.
+    aikeni_ (Brewster) and _O. a. swenki_ Oberholser in west. The
+    status of these subspecies is poorly known; additional breeding
+    specimens and revisionary study are needed.
+
+
+* _Bubo virginianus._ Horned Owl. Common resident throughout state.
+
+    Subspecies in Kansas: _B. v. virginianus_ (Gmelin) in east, _B. v.
+    occidentalis_ Stone in west.
+
+
+_Nyctea scandiaca_ (Linnaeus). Snowy Owl. Rare and irregular winter
+visitant throughout state.
+
+    No subspecies recognized.
+
+
+[_Surnia ulula._ Hawk Owl. None of the several sight records from Kansas
+is convincing to me. Reports from eastern Kansas indicating regular
+occurrence there of this far-northern species are surely erroneous and
+probably pertain to Short-eared Owls.]
+
+
+* _Speotyto cunicularia._ Burrowing Owl. Common summer resident in west;
+irregular transient in east. Numbers seem to be decreasing.
+
+    Subspecies in Kansas: _S. c. hypugea_ (Bonaparte).
+
+
+* _Strix varia._ Barred Owl. Resident in east, locally fairly common.
+Status in west not known.
+
+    Subspecies in Kansas: _S. v. georgica_ Latham in southeast; _S. v.
+    varia_ Barton elsewhere in state.
+
+
+* _Asio otus._ Long-eared Owl. Uncommon summer resident, locally common
+transient and winter resident throughout state. Nesting records from
+Ottawa, Douglas, Doniphan, and Meade counties. Status in summer poorly
+known.
+
+    Subspecies in Kansas: _A. o. wilsonianus_ (Lesson).
+
+
+* _Asio flammeus._ Short-eared Owl. Resident, probably throughout state,
+in suitable habitat. More common in winter. Nesting records from
+Woodson, Republic, and Marshall counties.
+
+    Subspecies in Kansas: _A. f. flammeus_ (Pontoppidan).
+
+
+* _Aegolius acadicus._ Saw-whet Owl. Rare winter resident throughout
+state. One nesting record: a pair found in Kansas City, Wyandotte
+County, in winter, 1950, remained at least to September, 1951, and were
+seen with young birds in summer, 1951, John Bishop.
+
+    Subspecies in Kansas: _A. a. acadicus_ (Gmelin).
+
+
+* _Caprimulgus carolinensis_ Gmelin. Chuck-will's-widow. Locally common
+summer resident in eastern Kansas, western limit of distribution poorly
+known.
+
+    No subspecies recognized.
+
+
+* _Caprimulgus vociferus._ Whip-poor-will. Locally common summer
+resident in eastern Kansas; two specimens reported from Finney County,
+but status in west poorly known. Two nests reported, at Geary, Doniphan
+County, June 16 and June 14 to July 3, 1923, by Linsdale. In recent
+years, Chuck-will's-widows seem to have increased at the expense of
+Whip-poor-wills in Kansas.
+
+    Subspecies in Kansas: _C. v. vociferus_ Wilson.
+
+
+* _Phalaenoptilus nuttallii._ Poor-will. Summer resident, common in
+west, rare and local in east.
+
+    Subspecies in Kansas: _P. n. nuttallii_ (Audubon).
+
+
+* _Chordeiles minor._ Nighthawk. Common transient and summer resident
+throughout state.
+
+    Subspecies in Kansas: Nesting; _C. m. minor_ (Forster) in
+    northeast, _C. m. chapmani_ Coues in southeast, and _C. m.
+    howelli_ Oberholser in west, intergrading with one another through
+    fairly broad zones. Migration; _C. m. sennetti_ Coues throughout
+    state.
+
+
+* _Chaetura pelagica_ (Linnaeus). Chimney Swift. Common transient and
+summer resident in east; status in west poorly known. Schwilling reports
+this species only in migration in Finney and neighboring counties.
+
+    No subspecies recognized.
+
+
+* _Archilochus colubris_ (Linnaeus). Ruby-throated Hummingbird. Common
+transient and summer resident in east; much less common in west, status
+there poorly known.
+
+    No subspecies recognized.
+
+
+_Stellula calliope_ (Gould). Calliope Hummingbird. One record: immature
+female, 8 miles south of Richfield and 6 miles east of Kansas Highway
+27, Morton County, September 3, 1952, Jean W. Graber.
+
+    No subspecies recognized.
+
+
+* _Megaceryle alcyon._ Belted Kingfisher. Common summer resident and
+uncommon winter resident throughout state.
+
+    Subspecies in Kansas: _M. a. alcyon_ (Linnaeus).
+
+
+* _Colaptes auratus._ Yellow-shafted Flicker. Common resident
+throughout state, but partly replaced in west by Red-shafted Flicker and
+hybrids between the two species.
+
+    Subspecies in Kansas: _C. a. auratus_ (Linnaeus) in southeast, _C.
+    a. luteus_ Bangs in remainder of state. _C. a. borealis_ Ridgway
+    has been reported in winter in east.
+
+
+* _Colaptes cafer._ Red-shafted Flicker. Common resident in west,
+hybridizing with, and replaced by, Yellow-shafted Flicker eastward.
+Uncommon winter resident in east.
+
+    Subspecies in Kansas: _C. c. collaris_ Vigors.
+
+
+* _Dryocopus pileatus._ Pileated Woodpecker. Formerly common resident in
+eastern Kansas, now much reduced in numbers and distribution. Recent
+sight records from Leavenworth, Wyandotte, Douglas, Miami, Linn, and
+Neosho counties may indicate that this species is increasing in its
+former range. Definite nesting records only from Linn County where Frank
+Wood and Ivan Sutton found a nest with 4 eggs and a nest with two young
+and one egg, along Marais des Cygnes River, near Pleasanton, some years
+ago. Eunice and Wilson Dingus have noted this species at Mound City,
+Linn County, regularly for several years.
+
+    Subspecies in Kansas: _D. p. abieticola_ (Bangs) in northeast, _D.
+    p. pileatus_ (Linnaeus) in southeast.
+
+
+* _Centurus carolinus._ Red-bellied Woodpecker. Common resident in
+eastern part, breeding west at least to Comanche County; additional
+records in west from Morton, Finney, and Kearny counties.
+
+    Subspecies in Kansas: _C. c. zebra_ (Boddaert).
+
+
+* _Melanerpes erythrocephalus._ Red-headed Woodpecker. Common transient
+and summer resident throughout state. Occasional winter resident west to
+Cloud County; not found in winter in southwest by Schwilling.
+
+    Subspecies in Kansas: _M. e. erythrocephalus_ (Linnaeus),
+    intergrading in west with _M. e. caurinus_ Brodkorb.
+
+
+_Asyndesmus lewis_ (Gray). Lewis Woodpecker. Possibly rare resident in
+southwest but status uncertain. Several specimens and sight records from
+western third of state; one specimen, female (KU 7890), from Lawrence,
+Douglas County, November 7, 1908, Bunker and Wetmore.
+
+    No subspecies recognized.
+
+
+_Sphyrapicus varius._ Yellow-bellied Sapsucker. Uncommon transient and
+winter resident throughout state.
+
+    Subspecies in Kansas: _S. v. varius_ (Linnaeus) in eastern Kansas,
+    _S. v. nuchalis_ Baird in western part (three specimens, Wallace
+    and Morton counties).
+
+
+[_Sphyrapicus thyroideus._ Williamson Sapsucker. An adult male seen at
+Concordia, Cloud County, April 4, 1935, by Dr. J. M. Porter. Placed in
+Hypothetical List in absence of a specimen.]
+
+
+* _Dendrocopos villosus._ Hairy Woodpecker. Common resident throughout
+state.
+
+    Subspecies in Kansas: _D. v. villosus_ (Linnaeus).
+
+
+* _Dendrocopos pubescens._ Downy Woodpecker. Common resident throughout
+state.
+
+    Subspecies in Kansas: _D. p. pubescens_ (Linnaeus) in southeast
+    (Labette and Montgomery counties), _D. p. medianus_ (Swainson) in
+    rest of state, with fairly broad zone of intergradation between
+    the two subspecies.
+
+
+_Dendrocopos scalaris._ Ladder-backed Woodpecker. Common resident in
+extreme southwestern Kansas (Morton County). Six specimens. No nest
+found yet in Kansas.
+
+    Subspecies in Kansas: _D. s. symplectus_ (Oberholser).
+
+
+* _Tyrannus tyrannus_ (Linnaeus). Eastern Kingbird. Common transient and
+summer resident throughout state; most numerous in east.
+
+    No subspecies recognized.
+
+
+* _Tyrannus verticalis_ Say. Western Kingbird. Common transient and
+summer resident east to Flint Hills; uncommon transient and summer
+resident in east (occurs regularly at Lawrence but rarely at Kansas
+City).
+
+    No subspecies recognized.
+
+
+_Tyrannus vociferans._ Cassin Kingbird. Transient and summer resident in
+extreme western part, east to Finney County. One specimen: male, Kansas
+Highway 27 at Cimarron River [7-1/2 miles north of Elkhart], Morton
+County, May 26, 1950, Richard and Jean Graber. No nesting record. Status
+poorly known.
+
+    Subspecies in Kansas: _T. v. vociferans_ Swainson.
+
+
+* _Muscivora forficata_ (Gmelin). Scissor-tailed Flycatcher. Common
+summer resident in southern and central Kansas; nesting west to Morton
+County, north to Cloud County, east to Neosho County. Sporadic records
+elsewhere in state.
+
+    No subspecies recognized.
+
+
+* _Myiarchus crinitus._ Crested Flycatcher. Common transient and summer
+resident throughout state, but perhaps less numerous in west.
+
+    Subspecies in Kansas: _M. c. boreus_ Bangs.
+
+
+_Myiarchus cinerascens._ Ash-throated Flycatcher. Known only from Morton
+County; several seen in May, 1950, and a female with somewhat enlarged
+ovary taken, 8 miles south of Richfield, May 7, 1950, Richard and Jean
+Graber. No nesting record.
+
+    Subspecies in Kansas: _M. c. cinerascens_ (Lawrence).
+
+
+* _Sayornis phoebe_ (Latham). Eastern Phoebe. Common transient and
+summer resident in east; occurs, but must less common, in west.
+
+    No subspecies recognized.
+
+
+* _Sayornis saya._ Say Phoebe. Common transient and summer resident in
+west. Nesting records from Rawlins, Jewell, Logan, and Ness counties. In
+migration, reported east to Republic and Lyon counties.
+
+    Subspecies in Kansas: _S. s. saya_ (Bonaparte) is the breeding
+    bird; _S. s. yukonensis_ Bishop probably occurs in migration.
+
+
+_Empidonax flaviventris_ (Baird and Baird). Yellow-bellied Flycatcher.
+Uncommon transient in east. Specimens from Johnson, Douglas, and Shawnee
+counties.
+
+    No subspecies recognized.
+
+
+* _Empidonax virescens_ (Vieillot). Acadian Flycatcher. Summer resident
+in eastern Kansas. Specimens from Doniphan, Leavenworth, Douglas,
+Woodson, Montgomery, and Labette counties. Nesting records from Doniphan
+County (Jean M. Linsdale), Linn County (Wilson J. and Eunice Dingus),
+and Douglas County (R. F. Miller).
+
+    No subspecies recognized.
+
+
+_Empidonax traillii._ Alder Flycatcher. Transient throughout state; no
+satisfactory nesting records or specimens taken in breeding season.
+
+    Subspecies in Kansas: _E. t. brewsteri_ Oberholser transient,
+    probably more common in west, and _E. t. traillii_ (Audubon)
+    transient and perhaps breeding in east.
+
+
+_Empidonax minimus_ (Baird and Baird). Least Flycatcher. Common
+transient throughout state; no satisfactory evidence of nesting.
+
+    No subspecies recognized.
+
+
+_Empidonax oberholseri_ Phillips. Wright Flycatcher. Known only from
+three specimens, May 8 (male and female) and May 12 (male), 1950, eight
+miles south of Richfield, Morton County, Richard and Jean Graber.
+
+    No subspecies recognized.
+
+
+_Empidonax difficilis._ Western Flycatcher. Known only from two
+specimens taken eight miles south of Richfield, Morton County; September
+3, 1952, immature female, Jean Graber; September 5, 1952, immature male
+(KU 31203), Richard Graber.
+
+    Subspecies in Kansas: _E. d. hellmayri_ Brodkorb (female
+    specimen); intermediate between _E. d. hellmayri_ and _E. d.
+    difficilis_ Baird (male specimen).
+
+
+* _Contopus virens_ (Linnaeus). Eastern Wood Pewee. Common transient and
+summer resident in east, rare transient in west. Breeding distribution
+in state poorly known.
+
+    No subspecies recognized.
+
+
+_Contopus richardsonii._ Western Wood Pewee. Common transient and
+probably summer resident in west; rare transient in east (specimen from
+Greenwood County and one seen in Cloud County). No nesting record.
+
+    Subspecies in Kansas: _C. r. richardsonii_ (Swainson).
+
+
+_Nuttallornis borealis_ (Swainson). Olive-sided Flycatcher. Uncommon
+transient throughout state.
+
+    No subspecies recognized.
+
+
+* _Eremophila alpestris._ Horned Lark. Common transient and resident
+throughout state. Numbers augmented by northern birds in winter.
+
+    Subspecies in Kansas: _E. a. praticola_ (Henshaw) resident in
+    east; _E. a. enthymia_ (Oberholser) resident west of Flint Hills;
+    _E. a. hoyti_ (Bishop), _E. a. alpestris_ (Linnaeus), and _E. a.
+    leucolaema_ (Coues) in winter.
+
+
+[_Tachycineta thalassina._ Violet-green Swallow. Five birds seen at Lake
+Shawnee, Shawnee County, April 14, 1947, by L. B. Carson. Placed in
+Hypothetical List in absence of a specimen.]
+
+
+* _Iridoprocne bicolor_ (Vieillot). Tree Swallow. Summer resident in
+extreme northeastern Kansas; common transient throughout eastern half of
+state, status in west not known. Nesting records only from Doniphan
+County, along Missouri River, four nests located by Linsdale, in 1922,
+1923, and 1924, and Leavenworth County, nests found by Brumwell along
+Missouri River.
+
+    No subspecies recognized.
+
+
+* _Riparia riparia._ Bank Swallow. Common transient and summer resident,
+probably throughout state but status in northwest not known.
+
+    Subspecies in Kansas: _R. r. riparia_ (Linnaeus).
+
+
+* _Stelgidopteryx ruficollis._ Rough-winged Swallow. Common transient
+and summer resident throughout state.
+
+    Subspecies in Kansas: _S. r. serripennis_ (Audubon).
+
+
+* _Hirundo rustica._ Barn Swallow. Common transient and summer resident
+throughout state.
+
+    Subspecies in Kansas: _H. r. erythrogaster_ Boddaert.
+
+
+* _Petrochelidon pyrrhonota._ Cliff Swallow. Common transient and
+locally common summer resident throughout state.
+
+    Subspecies in Kansas: _P. p. pyrrhonota_ (Vieillot).
+
+
+_Progne subis._ Purple Martin. Common transient and summer resident in
+east to uncommon or rare in west.
+
+    Subspecies in Kansas: _P. s. subis_ (Linnaeus).
+
+
+* _Cyanocitta cristata._ Blue Jay. Common transient and resident
+throughout state; less common in northern and western sections in
+winter.
+
+    Subspecies in Kansas: _C. c. bromia_ Oberholser in east, _C. c.
+    cyanotephra_ Sutton in west, intergrading through central Kansas.
+
+
+[_Cyanocitta stelleri._ Steller Jay. Several sight records from
+southwestern Kansas. Placed in Hypothetical List in absence of a
+specimen.]
+
+
+_Aphelocoma coerulescens._ Scrub Jay. Irregular winter resident in
+southwestern Kansas. Five specimens (KU 20812-5, 21213), 12 miles
+northeast of Elkhart, Morton County, November 8, 10, 14, 1934, W. S.
+Long and Fred Hastie. Two seen in Finney County, January 15, 1955, by
+Marvin D. Schwilling.
+
+    Subspecies in Kansas: _A. c. woodhouseii_ (Baird).
+
+
+_Aphelocoma ultramarina._ Arizona Jay. Accidental. One specimen:
+"probably female," near Mt. Jesus, Clark County, March, 1906, B. Ashton
+Keith. Identification confirmed by L. L. Dyche; present location of
+specimen unknown.
+
+    Subspecies in Kansas: _A. u. arizonae_ (Ridgway).
+
+
+* _Pica pica._ American Magpie. Common resident in west; occasional in
+east in winter. Eastward extent of breeding range poorly known; nests
+from Ottawa (1951), Republic (1951 and 1953), and Cloud (1954) counties.
+Extending breeding range eastward (J. M. Porter).
+
+    Subspecies in Kansas: _P. p. hudsonia_ (Sabine).
+
+
+_Corvus corax._ American Raven. Formerly occurred on High Plains,
+precise status not known. No records since disappearance of bison herds.
+One specimen: Jewell County, date unknown, Edward Kern (specimen now at
+Kansas State College, Manhattan).
+
+    Subspecies in Kansas: _C. c. sinuatus_ Wagler.
+
+
+* _Corvus cryptoleucus_ Couch. White-necked Raven. Common summer
+resident in western two tiers of counties; occasional resident east to
+Ford County. Locally common winter resident (Finney, Scott, and Sherman
+counties). One shot at Larned, Pawnee County, about October 25, 1937, by
+Frank Robl.
+
+    No subspecies recognized.
+
+
+* _Corvus brachyrhynchos._ Crow. Common resident in east, less common in
+west. Abundant transient and winter resident in central Kansas.
+
+    Subspecies in Kansas: _C. b. brachyrhynchos_ Brehm.
+
+
+_Gymnorhinus cyanocephalus_ Wied. Pinon Jay. Irregular winter visitant,
+more frequent in west than in east. Reported from Douglas (twice),
+Sedgwick, Mitchell, Clark, Finney, and Kearny counties.
+
+    No subspecies recognized.
+
+
+_Nucifraga columbiana_ (Wilson). Clark Nutcracker. Irregular winter
+visitant, more frequent in west than in east. Reported from Marshall
+(twice), Ellis, Lyon, Finney, and Seward counties.
+
+    No subspecies recognized.
+
+
+* _Parus atricapillus._ Black-capped Chickadee. Common resident in
+entire state except for southern tier of counties, where either rare or
+absent in summer and locally common in winter.
+
+    Subspecies in Kansas: _P. a. atricapillus_ Linnaeus in east, where
+    most specimens are more or less intermediate toward _P. a.
+    septentrionalis_ Harris, the resident subspecies in the west.
+
+
+* _Parus carolinensis._ Carolina Chickadee. Common resident in southern
+tier of counties; taken also in Greenwood County. Reported occurrence in
+Douglas County is erroneous. Proof of breeding rests on partly grown
+juveniles taken in Barber County, and on two nests found in Montgomery
+County by L. B. Carson.
+
+    Subspecies in Kansas: _P. c. atricapilloides_ Lunk.
+
+
+* _Parus bicolor_ Linnaeus. Tufted Titmouse. Common resident in eastern
+Kansas, west at least to Barber, Harvey, and Cloud counties. Western
+limit of breeding range poorly known.
+
+    No subspecies recognized.
+
+
+* _Sitta carolinensis._ White-breasted Nuthatch. Uncommon and local
+resident and winter visitant throughout state. Three positive nesting
+records, all from Douglas County, by C. D. Bunker, R. F. Miller, and
+Katherine Kelley.
+
+    Subspecies in Kansas: _S. c. carolinensis_ Latham resident in
+    Labette and Montgomery counties; _S. c. nelsoni_ Mearns occurs in
+    at least Morton County, status uncertain; _S. c. cookei_
+    Oberholser resident and winter visitant in rest of state.
+
+
+_Sitta canadensis_ Linnaeus. Red-breasted Nuthatch. Uncommon transient
+and winter resident throughout state.
+
+    No subspecies recognized.
+
+
+_Certhia familiaris._ Brown Creeper. Fairly common transient and winter
+resident throughout state.
+
+    Subspecies in Kansas: _C. f. americana_ Bonaparte.
+
+
+* _Troglodytes aedon._ House Wren. Transient and summer resident, common
+in east to uncommon in west.
+
+    Subspecies in Kansas: _T. a. parkmanii_ Audubon.
+
+
+_Troglodytes troglodytes._ Winter Wren. Rare or uncommon transient and
+winter resident throughout state.
+
+    Subspecies in Kansas: _T. t. hiemalis_ Vieillot.
+
+
+_Thryomanes bewickii._ Bewick Wren. Resident, common in south, rare in
+north; status poorly known. Nesting records from Shawnee, Johnson, and
+Montgomery counties.
+
+    Subspecies in Kansas: _T. b. bewickii_ (Audubon) in northern and
+    northeastern part, _T. b. cryptus_ Oberholser in rest of state.
+    (_T. b. niceae_ Sutton, a questionably valid subspecies, has been
+    reported from Meade and Morton counties.)
+
+
+* _Thryothorus ludovicianus._ Carolina Wren. Resident, common in south,
+less common to north and west. One record from Hamilton County; status
+in northwest unknown.
+
+    Subspecies in Kansas: _T. l. ludovicianus_ (Latham).
+
+
+* _Telmatodytes palustris._ Long-billed Marsh Wren. Uncommon transient
+throughout state; known as a breeding bird only from Doniphan County,
+where Linsdale found several nests and collected a juvenile (KU 12869)
+with half-grown tail, August 31, 1922.
+
+    Subspecies in Kansas: _T. p. dissaeptus_ (Bangs).
+
+
+* _Cistothorus platensis._ Short-billed Marsh Wren. Uncommon transient
+and irregular summer resident in east, no records from west. One
+breeding record: male (KU 29665), female (KU 29666), and their nest with
+four eggs, eight miles west of Lawrence, Douglas County, August 30,
+1950, H. B. Tordoff and G. P. Young.
+
+    Subspecies in Kansas: _C. p. stellaris_ (Naumann).
+
+
+* _Salpinctes obsoletus._ Rock Wren. Common transient and summer
+resident in west, rare transient in east; eastern limit of breeding
+range not known. Nests found in Hamilton, Scott, and Logan counties.
+
+    Subspecies in Kansas: _S. o. obsoletus_ (Say).
+
+
+* _Mimus polyglottos._ Mockingbird. Resident throughout state, less
+common in north, especially in winter.
+
+    Subspecies in Kansas: _M. p. polyglottos_ (Linnaeus) in east, _M.
+    p. leucopterus_ (Vigors) in west (most specimens from Kansas are
+    intermediate between the two subspecies).
+
+
+* _Dumetella carolinensis_ (Linnaeus). Catbird. Common transient and
+summer resident throughout state.
+
+    No subspecies recognized.
+
+
+* _Toxostoma rufum._ Brown Thrasher. Common transient and summer
+resident throughout state; occasional winter resident at least in east.
+
+    Subspecies in Kansas: _T. r. rufum_ (Linnaeus) in east, _T. r.
+    longicauda_ Baird in west.
+
+
+_Oreoscoptes montanus_ (Townsend). Sage Thrasher. Rare transient in
+west. Two unsexed specimens (KU 31941, 31942), 1 mile south of Holcomb,
+Finney County, September 20 and October 2, 1954, Marvin D. Schwilling.
+A third individual seen in Morton County, September 27, 1954, and a
+fourth in Kearny County, March 23, 1955, by Schwilling.
+
+    No subspecies recognized.
+
+
+* _Turdus migratorius._ Robin. Common transient and summer resident;
+locally common winter resident.
+
+    Subspecies in Kansas: _T. m. migratorius_ Linnaeus breeds in most
+    of state but birds in southeast are intermediate toward _T. m.
+    achrusterus_ (Batchelder); _T. m. propinquus_ Ridgway occurs in
+    west, at least in migration, and irregularly in other parts of
+    state in winter.
+
+
+_Ixoreus naevius._ Varied Thrush. Accidental. One record: specimen
+(present location unknown) taken at Garden City, Finney County, October
+17, 1891, H. W. Menke.
+
+    Subspecies in Kansas: Probably _I. n. meruloides_ (Swainson), on
+    geographical grounds.
+
+
+* _Hylocichla mustelina_ (Gmelin). Wood Thrush. Common transient and
+summer resident in east, absent in west, western limit of breeding in
+Kansas not known (nests, but uncommonly, in Cloud County).
+
+    No subspecies recognized.
+
+
+_Hylocichla guttata._ Hermit Thrush. Transient throughout state, usually
+uncommon. Rare in winter in east.
+
+    Subspecies in Kansas: _H. g. faxoni_ Bangs and Penard in east, _H.
+    g. sequoiensis_ (Belding) in west.
+
+
+_Hylocichla ustulata._ Olive-backed Thrush. Common transient throughout
+state.
+
+    Subspecies in Kansas: _H. u. swainsoni_ (Tschudi).
+
+
+_Hylocichla minima._ Gray-cheeked Thrush. Fairly common transient in
+east; probably does not occur in west but western limit in migration in
+Kansas unknown (rare in Cloud County, three records by J. M. Porter).
+
+    Subspecies in Kansas: _H. m. minima_ (Lafresnaye).
+
+
+_Hylocichla fuscescens._ Veery. Transient, rare in east, fairly common
+in west.
+
+    Subspecies in Kansas: _H. f. salicicola_ Ridgway.
+
+
+* _Sialia sialis._ Eastern Bluebird. Common resident and transient
+throughout state.
+
+    Subspecies in Kansas: _S. s. sialis_ (Linnaeus).
+
+
+[_Sialia mexicana._ Chestnut-backed Bluebird. Said to be winter resident
+at Coolidge, Hamilton County, by Shanstrum. Reliably reported from
+southeastern Colorado. Placed in Hypothetical List in absence of a
+specimen from Kansas.]
+
+
+_Sialia currucoides_ (Bechstein). Mountain Bluebird. Common winter
+resident in west; occurs regularly east to Cloud and Barber counties and
+irregularly farther east (to Douglas and Anderson counties). Bunker and
+Rocklund took a full-grown juvenal female (KU 5900) on June 20, 1911,
+near the Colorado line northwest of Coolidge, Hamilton County.
+
+    No subspecies recognized.
+
+
+_Myadestes townsendi._ Townsend Solitaire. Winter resident in small
+numbers in west; irregular in winter in east.
+
+    Subspecies in Kansas: _M. t. townsendi_ (Audubon).
+
+
+* _Polioptila caerulea._ Blue-gray Gnatcatcher. Common transient and
+summer resident in east, probably transient only in west but status
+there poorly known. Nesting records from Doniphan, Douglas, and Barber
+counties.
+
+    Subspecies in Kansas: _P. c. caerulea_ (Linnaeus).
+
+
+_Regulus satrapa._ Golden-crowned Kinglet. Common transient throughout
+state; uncommon winter resident.
+
+    Subspecies in Kansas: _R. s. satrapa_ Lichtenstein.
+
+
+_Regulus calendula._ Ruby-crowned Kinglet. Common transient throughout
+state; rare winter resident.
+
+    Subspecies in Kansas: _R. c. calendula_ (Linnaeus).
+
+
+_Anthus spinoletta._ Water Pipit. Common transient throughout state,
+more numerous in west.
+
+    Subspecies in Kansas: _A. s. rubescens_ (Tunstall).
+
+
+_Anthus spragueii_ (Audubon). Sprague Pipit. Transient throughout state,
+perhaps more common in central or western parts; status poorly known.
+Specimens known from Trego, Cloud, Greenwood, Woodson, and Anderson
+counties.
+
+    No subspecies recognized.
+
+
+_Bombycilla garrulus._ Bohemian Waxwing. Rare winter visitant throughout
+state. Few specimens on record, from Riley, Shawnee, Jefferson,
+Greenwood, and Sedgwick counties.
+
+    Subspecies in Kansas: _B. g. pallidiceps_ Reichenow.
+
+
+* _Bombycilla cedrorum_ Vieillot. Cedar Waxwing. Common transient and
+irregular winter resident throughout state; rare summer resident in
+northeast. Breeding records: four nests found at Lake Quivira, Wyandotte
+County, July 22, 1947 (nestling collected, KU 32374), July 3, 1949
+(young in nest), July 4, 1950, July 10, 1952 (young in nest), Harold C.
+Hedges; nest found in Topeka, Shawnee County, June 16, 1953, Cliff
+Olander and T. W. Nelson.
+
+    No subspecies recognized.
+
+
+_Lanius excubitor._ Northern Shrike. Winter resident, rare in east,
+uncommon in west.
+
+    Subspecies in Kansas: _L. e. borealis_ Vieillot in east, _L. e.
+    invictus_ Grinnell in west (most specimens from Kansas are
+    intermediate between the two).
+
+
+* _Lanius ludovicianus._ Loggerhead Shrike. Common resident and
+transient throughout state, but may leave north-central and northwestern
+parts in winter.
+
+    Subspecies in Kansas: _L. l. migrans_ Palmer in extreme east, _L.
+    l. excubitorides_ Swainson in west, east to Norton, Ness, and
+    Clark counties; birds from rest of state mostly intermediate.
+
+
+* _Sturnus vulgaris._ Starling. Introduced. First appeared in early
+1930's, now common transient and resident throughout state.
+
+    Subspecies in Kansas: _S. v. vulgaris_ Linnaeus.
+
+
+* _Vireo atricapillus_ Woodhouse. Black-capped Vireo. Summer resident in
+Comanche and possibly other south-central counties. Status poorly known.
+Goss collected three pairs in southeastern Comanche County, May 7 to 18,
+1885, and found a nest under construction on May 11, 1885. Sight records
+from Manhattan, Riley County, June 18, 1953, by Scott Searles, and
+Halstead, Harvey County, May 16, 1951, by Edna L. Ruth.
+
+    No subspecies recognized.
+
+
+* _Vireo griseus._ White-eyed Vireo. Locally common transient and summer
+resident in east. Status poorly known. Nesting records from Doniphan
+County (Linsdale) and Kansas City region; specimens taken in summer from
+Douglas, Montgomery, and Labette counties.
+
+    Subspecies in Kansas: _V. g. noveboracensis_ (Gmelin).
+
+
+* _Vireo bellii._ Bell Vireo. Common summer resident throughout state.
+
+    Subspecies in Kansas: _V. b. bellii_ Audubon.
+
+
+* _Vireo flavifrons_ Vieillot. Yellow-throated Vireo. Uncommon transient
+and local, uncommon summer resident throughout state. Goss reported two
+nests, one with 1 Cowbird and 3 vireo eggs, at Neosho Falls, Woodson
+County, May 9, 1877, and one under construction at Topeka, Shawnee
+County, May 18, 1883. T. W. Nelson found a nest at Topeka in 1947 (date
+approximate). R. F. Miller found an occupied nest 3 miles north of
+Baldwin, Douglas County, May 6, 1947.
+
+    No subspecies recognized.
+
+
+_Vireo solitarius._ Solitary Vireo. Fairly common transient throughout
+state.
+
+    Subspecies in Kansas: _V. s. solitarius_ (Wilson) in east, _V. s.
+    plumbeus_ Coues and _V. s. cassinii_ Xantus in west.
+
+
+* _Vireo olivaceus_ (Linnaeus). Red-eyed Vireo. Common transient and
+summer resident throughout state.
+
+    No subspecies recognized.
+
+
+_Vireo philadelphicus_ (Cassin). Philadelphia Vireo. Uncommon transient
+in east (often overlooked); reported west to Harvey County but western
+limit of migration in Kansas not known.
+
+    No subspecies recognized.
+
+
+* _Vireo gilvus._ Warbling Vireo. Common transient and summer resident
+throughout state.
+
+    Subspecies in Kansas: _V. g. gilvus_ (Vieillot).
+
+
+* _Mniotilta varia_ (Linnaeus). Black and White Warbler. Common
+transient throughout state, local and uncommon summer resident in east.
+Breeding distribution in state poorly known. Nests reported in Douglas
+and Leavenworth counties.
+
+    No subspecies recognized.
+
+
+* _Protonotaria citrea_ (Boddaert). Prothonotary Warbler. Locally common
+transient and summer resident in eastern Kansas. Nesting records from
+Doniphan, Leavenworth, Johnson, Douglas, Shawnee, and Woodson counties.
+
+    No subspecies recognized.
+
+
+* _Helmitheros vermivorus_ (Gmelin). Worm-eating Warbler. Rare transient
+(specimens from Doniphan, Douglas, and Woodson counties) and summer
+resident in east. Linsdale saw a singing bird on July 11, 1923, in
+Doniphan County. Hilton (Wilson Bull., 32, 1920:85-86) reports finding a
+newly-fledged young bird with an adult at Fort Leavenworth, Leavenworth
+County, on June 7, 1919 (some of Hilton's records seem highly
+improbable, but the one in question is convincing to me).
+
+    No subspecies recognized.
+
+
+_Vermivora chrysoptera_ (Linnaeus). Golden-winged Warbler. Rare
+transient in east. Several sight records and one specimen: female (KU
+12700), 3 miles south of Lawrence, Douglas County, May 2, 1921, E. R.
+Hall.
+
+    No subspecies recognized.
+
+
+_Vermivora pinus_ (Linnaeus). Blue-winged Warbler. Uncommon transient in
+east. Possibly nests rarely but no definite evidence.
+
+    No subspecies recognized.
+
+
+_Vermivora peregrina_ (Wilson). Tennessee Warbler. Common transient in
+east, uncommon transient in west.
+
+    No subspecies recognized.
+
+
+_Vermivora celata._ Orange-crowned Warbler. Common transient throughout
+state.
+
+    Subspecies in Kansas: _V. c. celata_ (Say) throughout state, _V.
+    c. orestera_ Oberholser in west.
+
+
+_Vermivora ruficapilla._ Nashville Warbler. Common transient throughout
+state.
+
+    Subspecies in Kansas: _V. r. ruficapilla_ (Wilson).
+
+
+_Vermivora virginiae_ (Baird). Virginia Warbler. Transient in extreme
+west. Known in Kansas only from 8 miles south of Richfield, Morton
+County: five birds seen, two collected, May 4 to 10, 1950, Richard and
+Jean Graber.
+
+    No subspecies recognized.
+
+
+* _Parula americana_ (Linnaeus). Parula Warbler. Fairly common transient
+and local summer resident in eastern Kansas. Nesting records from Riley,
+Doniphan, Douglas, and Woodson counties; western limit of breeding
+distribution unknown.
+
+    No subspecies recognized.
+
+
+* _Dendroica petechia._ Yellow Warbler. Common transient and summer
+resident throughout state.
+
+    Subspecies in Kansas: _D. p. aestiva_ (Gmelin) breeding in all
+    except southwestern Kansas; _D. p. sonorana_ Brewster probably
+    breeding in extreme southwest (specimens from Morton County); _D.
+    p. rubiginosa_ (Pallas) transient, probably throughout state.
+
+
+_Dendroica magnolia_ (Wilson). Magnolia Warbler. Uncommon transient
+throughout state.
+
+    No subspecies recognized.
+
+
+_Dendroica tigrina_ (Gmelin). Cape May Warbler. Rare transient in east.
+Several sight records but only one specimen from state: immature male
+(KU 31644), Lawrence, Douglas County, December 6, 1954 (abnormally late
+date), Mary Edith Kizer.
+
+    No subspecies recognized.
+
+
+_Dendroica caerulescens._ Black-throated Blue Warbler. Rare transient,
+more records from west than from east.
+
+    Subspecies in Kansas: _D. c. caerulescens_ (Gmelin).
+
+
+_Dendroica coronata._ Myrtle Warbler. Common transient throughout state,
+rare winter resident. (See also Audubon Warbler.)
+
+    Subspecies in Kansas: _D. c. coronata_ (Linnaeus) and _D. c.
+    hooveri_ McGregor.
+
+
+_Dendroica auduboni._ Audubon Warbler. Common transient in west, rare in
+east, specimens taken east to Trego County. Hybrids between this species
+and Myrtle Warbler common in west.
+
+    Subspecies in Kansas: _D. a. auduboni_ (Townsend).
+
+
+_Dendroica nigrescens_ (Townsend). Black-throated Gray Warbler. Common
+transient in extreme western Kansas. Several sight records and four
+specimens from 8 miles south of Richfield, Morton County, May 8 to 13,
+1950, Richard and Jean Graber.
+
+    No subspecies recognized.
+
+
+_Dendroica townsendi_ (Townsend). Townsend Warbler. Transient in extreme
+western Kansas. Five records: all from 8 miles south of Richfield,
+Morton County, May 3 (female collected), 11, and 20, 1950, September 3
+and 5 (immature female, KU 31206), 1952, Richard and Jean Graber.
+
+    No subspecies recognized.
+
+
+_Dendroica virens._ Black-throated Green Warbler. Transient, uncommon in
+east and rare in west.
+
+    Subspecies in Kansas: _D. v. virens_ (Gmelin).
+
+
+_Dendroica cerulea_ (Wilson). Cerulean Warbler. Uncommon transient and
+possibly summer resident in east, but status poorly known. No definite
+nesting record. Only five specimens on record.
+
+    No subspecies recognized.
+
+
+_Dendroica fusca_ (Mueller). Blackburnian Warbler. Transient, uncommon in
+east, rare in west.
+
+    No subspecies recognized.
+
+
+[_Dendroica dominica._ Sycamore Warbler. A few sight records from east
+and possibly breeds in southeast but placed on Hypothetical List until a
+specimen from state is obtained.]
+
+
+_Dendroica pensylvanica_ (Linnaeus). Chestnut-sided Warbler. Transient,
+fairly common in east, uncommon in west. Only three specimens from
+state, two from Shawnee County, one from Morton County.
+
+    No subspecies recognized.
+
+
+_Dendroica castanea_ (Wilson). Bay-breasted Warbler. Uncommon transient
+throughout state.
+
+    No subspecies recognized.
+
+
+_Dendroica striata_ (Forster). Black-poll Warbler. Common transient in
+east, uncommon or rare in west.
+
+    No subspecies recognized.
+
+
+[_Dendroica pinus._ Pine Warbler. Probably rare transient in east where
+several have been reported seen, but placed in Hypothetical List in
+absence of a specimen from Kansas. Linsdale reported taking a Pine
+Warbler in Doniphan County, September 13, 1923, but the specimen is
+actually a Cerulean Warbler.]
+
+
+* _Dendroica discolor._ Prairie Warbler. Known to occur regularly only
+in Wyandotte and Johnson counties, where locally common transient and
+summer resident; newly fledged young have been found. One specimen: male
+(KU 32376), 2 miles west of Lake Quivira, Johnson County, May 3, 1942,
+Harold C. Hedges.
+
+    Subspecies in Kansas: _D. d. discolor_ (Vieillot).
+
+
+_Dendroica palmarum._ Palm Warbler. Uncommon transient in east, west at
+least to Cloud County. Western limit of occurrence in migration not
+known.
+
+    Subspecies in Kansas: _D. p. palmarum_ (Gmelin).
+
+
+* _Seiurus aurocapillus._ Oven-bird. Fairly common transient throughout
+state; local summer resident in northeast. Brumwell reported one pair
+nesting in June, 1939, and in 1940, at Fort Leavenworth, Leavenworth
+County. His report is lacking in details but no other nesting records
+are available.
+
+    Subspecies in Kansas: _S. a. aurocapillus_ (Linnaeus) throughout
+    state, _S. a. cinereus_ A. H. Miller taken in Cheyenne County.
+
+
+_Seiurus noveboracensis._ Northern Water-thrush. Fairly common transient
+throughout state.
+
+    Subspecies in Kansas: _S. n. notabilis_ Ridgway.
+
+
+* _Seiurus motacilla_ (Vieillot). Louisiana Water-thrush. Fairly common
+transient and summer resident in east, uncommon transient in west.
+Approximately 11 breeding records, all from Miami and Linn counties.
+Summer distribution in state inadequately known.
+
+    No subspecies recognized.
+
+
+* _Oporornis formosus_ (Wilson). Kentucky Warbler. Common transient and
+summer resident in east. Nests west to Riley County, but not reported
+from Cloud County by Porter.
+
+    No subspecies recognized.
+
+
+_Oporornis philadelphia_ (Wilson). Mourning Warbler. Locally common
+transient in east, west rarely to Sedgwick and Cloud counties. Sight
+records supposedly of Connecticut Warblers (_Oporornis agilis_) may, at
+least in part, refer to this species. No specimens of _O. agilis_ known
+from state.
+
+    No subspecies recognized.
+
+
+_Oporornis tolmiei._ Macgillivray Warbler. Common transient in extreme
+western Kansas, accidental in east. Specimens from Morton, Hamilton, and
+Marshall (1) counties.
+
+    Subspecies in Kansas: _O. t. monticola_ Phillips.
+
+
+* _Geothlypis trichas._ Yellow-throat. Common transient throughout
+state; common summer resident in east, less common in west.
+
+    Subspecies in Kansas: _G. t. brachidactyla_ (Swainson) breeds in
+    east; _G. t. occidentalis_ Brewster breeds in west. Distribution
+    in Kansas of these subspecies and identity of transients poorly
+    known.
+
+
+* _Icteria virens._ Yellow-breasted Chat. Common transient and summer
+resident, perhaps less common in west.
+
+    Subspecies in Kansas: _I. v. virens_ (Linnaeus) in east, _I. v.
+    auricollis_ (Lichtenstein) in west, intergrading through most of
+    state.
+
+
+_Wilsonia citrina_ (Boddaert). Hooded Warbler. Formerly common summer
+resident in east, now rare and perhaps no longer nests in state. No
+satisfactory breeding record. Three males from Leavenworth County, May
+9, 1871, and one from Shawnee County, May 17, 1871, taken by J. A.
+Allen, are now at Harvard.
+
+    No subspecies recognized.
+
+
+_Wilsonia pusilla._ Wilson Warbler. Common transient throughout state.
+
+    Subspecies in Kansas: _W. p. pusilla_ (Wilson) in east, _W. p.
+    pileolata_ (Pallas) in west; precise distribution in migration
+    unknown.
+
+
+_Wilsonia canadensis_ (Linnaeus). Canada Warbler. Uncommon transient in
+east, reported west to Sedgwick and Cloud counties.
+
+    No subspecies recognized.
+
+
+* _Setophaga ruticilla._ American Redstart. Common transient and local
+summer resident in east; probably only transient in west but breeding
+range in state poorly known. Few definite nesting records: Brumwell
+reported nesting at Fort Leavenworth, Leavenworth County; J. M. Porter
+found a nest in Republic County, May 22, 1940.
+
+    Subspecies in Kansas: _S. r. ruticilla_ (Linnaeus) is breeding
+    form; _S. r. tricolora_ (Mueller) occurs in migration.
+
+
+* _Passer domesticus._ English Sparrow. Introduced. Common resident
+throughout state.
+
+    Subspecies in Kansas: _P. d. domesticus_ (Linnaeus).
+
+
+* _Dolichonyx oryzivorus_ (Linnaeus). Bobolink. Transient, uncommon in
+east and rare in west in spring; rare in east and absent in west in
+fall. In 1940, several pairs remained until July 21 near Jamestown State
+Lake, Cloud County, and two pairs were seen feeding fledglings on June
+25 (J. M. Porter). No other good evidence of breeding.
+
+    No subspecies recognized.
+
+
+* _Sturnella magna._ Eastern Meadowlark. Common transient and resident
+in eastern part. Nests locally west to Jewell County in north and Barber
+County in south. Less common in winter.
+
+    Subspecies in Kansas: _S. m. magna_ (Linnaeus) in northeast, _S.
+    m. argutula_ Bangs in southeast.
+
+
+_Sturnella neglecta._ Western Meadowlark. Common transient and resident
+in western part. Nests commonly east to Flint Hills, irregularly and
+uncommonly in east. Largely replaces Eastern Meadowlark in east in
+winter.
+
+    Subspecies in Kansas: _S. n. neglecta_ Audubon.
+
+
+* _Xanthocephalus xanthocephalus_ (Bonaparte). Yellow-headed Blackbird.
+Transient, common in west and uncommon in east, and uncommon, local
+summer resident. Breeds more frequently in west; nesting records from
+Meade, Wallace, Barton, Stafford, Doniphan, and Douglas counties. One
+winter record, Riley County.
+
+    No subspecies recognized.
+
+
+* _Agelaius phoeniceus._ Red-wing. Common transient and summer resident
+throughout state, less common winter resident.
+
+    Subspecies in Kansas: _A. p. phoeniceus_ (Linnaeus) breeds in most
+    of state; _A. p. fortis_ Ridgway may nest in west and occurs in
+    migration; _A. p. arctolegus_ Oberholser occurs in migration.
+
+
+* _Icterus spurius_ (Linnaeus). Orchard Oriole. Common transient and
+summer resident throughout state.
+
+    No subspecies recognized.
+
+
+_Icterus cucullatus._ Hooded Oriole. Accidental. One record: bird banded
+at Los Angeles, California, January 22, 1939, found dead by Dr. F. S.
+Williams, 16 miles southeast of Garden City, Finney County, about August
+5, 1939; foot of specimen preserved.
+
+    Subspecies in Kansas: _I. c. californicus_ (Lesson), on geographic
+    grounds.
+
+
+* _Icterus galbula_ (Linnaeus). Baltimore Oriole. Common transient and
+summer resident through most of state; hybridizes freely with Bullock
+Oriole in west. One winter record: immature male (KU 31988), Lawrence,
+Douglas County, December 25, 1953, H. B. Tordoff.
+
+    No subspecies recognized.
+
+
+* _Icterus bullockii._ Bullock Oriole. Common transient and summer
+resident in west, rarely east to Stafford County (breeding?) and Douglas
+County (transient).
+
+    Subspecies in Kansas: _I. b. bullockii_ (Swainson).
+
+
+_Euphagus carolinus._ Rusty Blackbird. Common transient and locally
+common winter resident throughout state.
+
+    Subspecies in Kansas: _E. c. carolinus_ (Mueller).
+
+
+_Euphagus cyanocephalus_ (Wagler). Brewer Blackbird. Transient and local
+winter resident. Common in west, uncommon in east. Probably nests in
+northwest, but no satisfactory evidence of this.
+
+    No subspecies recognized.
+
+
+_Quiscalus quiscula._ Bronzed Grackle. Common transient and summer
+resident throughout state; local winter resident.
+
+    Subspecies in Kansas: _Q. q. versicolor_ Vieillot.
+
+
+* _Molothrus ater._ Cowbird. Common transient and summer resident
+throughout state; local winter resident.
+
+    Subspecies in Kansas: _M. a. ater_ (Boddaert) is breeding bird;
+    _M. a. artemisiae_ Grinnell transient, common in west and possibly
+    nesting in northwest.
+
+
+_Piranga ludoviciana_ (Wilson). Western Tanager. Fairly common transient
+and perhaps summer resident in extreme west. Two males taken 4-1/2 miles
+west of Kendall, Hamilton County, May 20 and June 1, 1893, H. W. Menke;
+many seen and two males and a female (KU 31207) taken 8 miles south of
+Richfield, Morton County, May 6, 1950 (males) and September 4, 1952,
+Richard and Jean Graber.
+
+    No subspecies recognized.
+
+
+* _Piranga olivacea_ (Gmelin). Scarlet Tanager. Fairly common transient
+in east and uncommon summer resident in northeast. Distribution in state
+poorly known; breeding records from Doniphan, Leavenworth, and Cloud
+counties.
+
+    No subspecies recognized.
+
+
+* _Piranga rubra._ Summer Tanager. Common transient and summer resident,
+distribution poorly known. Recorded in migration (possibly breeding?)
+west to Morton County and breeding in Doniphan and Douglas counties. Not
+reported by Porter as nesting in Cloud County.
+
+    Subspecies in Kansas: _P. r. rubra_ (Linnaeus).
+
+
+* _Richmondena cardinalis._ Cardinal. Common resident in east, uncommon
+in west, rare in extreme southwest.
+
+    Subspecies in Kansas: _R. c. cardinalis_ (Linnaeus).
+
+
+* _Pheucticus ludovicianus_ (Linnaeus). Rose-breasted Grosbeak. Common
+transient and locally common summer resident in east. Reported in summer
+west to Rawlins County; probably absent in summer from southeast.
+Distribution poorly known.
+
+    No subspecies recognized.
+
+
+* _Pheucticus melanocephalus._ Black-headed Grosbeak. Common transient
+and summer resident in west, nesting east to Cloud and Harvey counties.
+Occasionally occurs farther east in migration.
+
+    Subspecies in Kansas: _P. m. melanocephalus_ (Swainson).
+
+
+* _Guiraca caerulea._ Blue Grosbeak. Common transient and summer
+resident in most of state; locally common in summer in northeast.
+
+    Subspecies in Kansas: _G. c. caerulea_ (Linnaeus) in east, _G. c.
+    interfusa_ Dwight and Griscom in west; most specimens from state
+    are intergrades.
+
+
+_Passerina cyanea_ (Linnaeus). Indigo Bunting. Common transient and
+summer resident west to Finney County, status in extreme west not known
+but probably absent there.
+
+    No subspecies recognized.
+
+
+_Passerina amoena_ (Say). Lazuli Bunting. Common transient and probably
+summer resident in extreme western Kansas. No breeding record. Rare in
+east in migration.
+
+    No subspecies recognized.
+
+
+* _Passerina ciris._ Painted Bunting. Fairly common summer resident in
+east, west to Barber and north to Riley and Shawnee counties. One
+positive nesting record: nest with young, successfully fledged,
+Lawrence, Douglas County, spring and summer, 1918, Bessie D. Reed.
+
+    Subspecies in Kansas: _P. c. pallidior_ Mearns.
+
+
+* _Spiza americana_ (Gmelin). Dickcissel. Transient and summer resident
+throughout state; common in east, locally common in west.
+
+    No subspecies recognized.
+
+
+_Hesperiphona vespertina._ Evening Grosbeak. Rare and irregular winter
+visitant. Reported from widely scattered localities throughout state.
+
+    Subspecies in Kansas: _H. v. vespertina_ (Cooper); _H. v. brooksi_
+    Grinnell may occur in west.
+
+
+_Carpodacus purpureus._ Purple Finch. Fairly common transient and winter
+resident in east; status in west not known.
+
+    Subspecies in Kansas: _C. p. purpureus_ (Gmelin).
+
+
+_Carpodacus mexicanus._ House Finch. Occurs in southwestern Kansas,
+reported common north to Hamilton County and east to Finney County. One
+record from Concordia, Cloud County, 2 or 3 birds seen from February 26
+to March 6, 1954, Lillie and Ida Cook, J. M. Porter. Most records in
+winter; status in summer uncertain.
+
+    Subspecies in Kansas: _C. m. frontalis_ (Say).
+
+
+[_Pinicola enucleator._ Pine Grosbeak. One old record (possibly based on
+a specimen, but convincing details are lacking) and a few recent sight
+records from east. Placed in Hypothetical List in absence of an
+authentic specimen from state.]
+
+
+_Acanthis flammea._ Redpoll. Rare and irregular winter visitant. Records
+from Cloud, Riley (specimen), Douglas (specimens), and Woodson counties,
+and Kansas City region.
+
+    Subspecies in Kansas: _A. f. flammea_ (Linnaeus).
+
+
+* _Spinus pinus._ Pine Siskin. Common but irregular transient and winter
+resident throughout state. Two breeding records: nest with 3 or 4 young,
+later successfully fledged, Onaga, Pottawatomie County, May 3, 1920, F.
+F. Crevecoeur; nest with 3 eggs (young successfully fledged), 1 mile
+southwest of Concordia, Cloud County, observed from April 6 to 30, 1954,
+J. M. Porter.
+
+    Subspecies in Kansas: _S. p. pinus_ (Wilson).
+
+
+* _Spinus tristis._ Eastern Goldfinch. Common resident throughout state.
+
+    Subspecies in Kansas: _S. t. tristis_ (Linnaeus).
+
+
+* _Loxia curvirostra._ Red Crossbill. Irregular winter visitant
+throughout state, locally common at times. One nesting record: nest with
+one egg, Topeka, Shawnee County, March 22, 1917, A. Sidney Hyde. This
+nest later held three eggs, all hatched, three young fledged, and the
+family left the area in June.
+
+    Subspecies in Kansas (in approximate decreasing order of
+    frequency): _L. c. benti_ Griscom, _L. c. bendirei_ Ridgway, _L.
+    c. minor_ (Brehm), _L. c. stricklandi_ Ridgway, _L. c. sitkensis_
+    Grinnell.
+
+
+_Loxia leucoptera._ White-winged Crossbill. Rare and irregular winter
+visitant throughout the state. Only two specimens taken (Douglas and
+Ellis counties).
+
+    Subspecies in Kansas: _L. l. leucoptera_ Gmelin.
+
+
+_Chlorura chlorura_ (Audubon). Green-tailed Towhee. Fairly common
+transient in west; rare winter visitant in east (Shawnee County,
+Wyandotte County).
+
+    No subspecies recognized.
+
+
+* _Pipilo erythrophthalmus._ Red-eyed Towhee. Common transient and
+winter resident throughout state; uncommon summer resident in east,
+status in west in summer not known. No nest found, but recently fledged
+young reported in several counties.
+
+    Subspecies in Kansas: _P. e. erythrophthalmus_ (Linnaeus)
+    resident; _P. e. arcticus_ (Swainson) winter resident throughout
+    state; _P. e. montanus_ Swarth reported as transient only from
+    Morton County.
+
+
+* _Calamospiza melanocorys_ Stejneger. Lark Bunting. Common transient
+and summer resident in west, rare transient in east. Nesting in
+southwestern Kansas irregular; absent some years and present in other
+years. One nesting record from east, in Franklin County.
+
+    No subspecies recognized.
+
+
+_Passerculus sandwichensis._ Savannah Sparrow. Common transient and rare
+winter resident throughout state.
+
+    Subspecies in Kansas: _P. s. savanna_ (Wilson), _P. s. nevadensis_
+    Grinnell, _P. s. oblitus_ Peters and Griscom.
+
+
+* _Ammodramus savannarum._ Grasshopper Sparrow. Common transient and
+local summer resident throughout state.
+
+    Subspecies in Kansas: _A. s. perpallidus_ (Coues).
+
+
+_Ammodramus bairdii_ (Audubon). Baird Sparrow. One record: male? (U. S.
+Natl. Mus. 155884), Pendennis, Lane County, April 25, 1897, J. A.
+Loring. This species probably occurs regularly in the state but is
+overlooked.
+
+    No subspecies recognized.
+
+
+_Passerherbulus caudacutus_ (Latham). Leconte Sparrow. Common transient
+and irregular, locally common winter resident west at least to Lane
+County.
+
+    No subspecies recognized.
+
+
+* _Passerherbulus henslowii._ Henslow Sparrow. Uncommon transient and
+uncommon, local summer resident in east, west at least to Cloud County.
+Breeding records from Morris, Shawnee, Douglas, and Anderson counties.
+
+    Subspecies in Kansas: _P. h. henslowii_ (Audubon).
+
+
+_Ammospiza caudacuta._ Sharp-tailed Sparrow. Rare transient in east.
+Specimens taken in Shawnee, Douglas, Woodson, and McPherson counties.
+Supposed nesting reported by Goss probably erroneous.
+
+    Subspecies in Kansas: _A. c. nelsoni_ (Allen).
+
+
+_Pooecetes gramineus._ Vesper Sparrow. Common transient throughout
+state. May nest in northwest but no evidence available.
+
+    Subspecies in Kansas: _P. g. gramineus_ (Gmelin) in east, _P. g.
+    confinis_ Baird in west.
+
+
+* _Chondestes grammacus._ Lark Sparrow. Common transient and summer
+resident throughout state.
+
+    Subspecies in Kansas: _C. g. grammacus_ (Say) east of Flint Hills,
+    _C. g. strigatus_ Swainson in west; the two subspecies intergrade
+    in central Kansas.
+
+
+_Aimophila ruficeps._ Rufous-crowned Sparrow. Two records: male (KU
+29222), Schwarz Canyon, Comanche County, June 7, 1936, C. W. Hibbard;
+one seen near Point Rock, Morton County, May 21, 1950, Richard and Jean
+Graber.
+
+    Subspecies in Kansas: _A. r. scottii_ (Sennett).
+
+
+_Aimophila aestivalis._ Pine-woods Sparrow. One specimen: male (KU
+32377), Lake Quivira, in Wyandotte County, April 26, 1948, Harold C.
+Hedges. One seen, Lake Quivira, in Johnson County, April 24, 1949,
+Harold C. Hedges.
+
+    Subspecies in Kansas: _A. a. illinoensis_ (Ridgway).
+
+
+* _Aimophila cassinii_ (Woodhouse). Cassin Sparrow. Common summer
+resident in southwestern Kansas, known north to Hamilton County and east
+to Finney County. One nesting record: nest with two young and one pipped
+egg, one mile south of Garden City, Finney County, May 24, 1954, Marvin
+D. Schwilling.
+
+    No subspecies recognized.
+
+
+_Amphispiza bilineata._ Black-throated Sparrow. One record: specimen of
+unknown sex (KU 31356), 4 miles north and 3 miles east of Garden City,
+Finney County, November 25, 1952, Marvin D. Schwilling.
+
+    Subspecies in Kansas: _A. b. deserticola_ Ridgway.
+
+
+_Junco aikeni_ Ridgway. White-winged Junco. Fairly common transient and
+winter resident in western Kansas. Specimens from Wallace, Ellis,
+Hamilton, and Morton counties.
+
+    No subspecies recognized.
+
+
+_Junco hyemalis._ Slate-colored Junco. Common transient and winter
+resident throughout state.
+
+    Subspecies in Kansas: _J. h. hyemalis_ (Linnaeus), _J. h.
+    cismontanus_ Dwight.
+
+
+_Junco oreganus._ Oregon Junco. Common transient and winter resident in
+west, uncommon in east.
+
+    Subspecies in Kansas: _J. o. montanus_ Ridgway, _J. o. mearnsi_
+    Ridgway.
+
+
+_Spizella arborea._ Tree Sparrow. Common transient and winter resident
+throughout state.
+
+    Subspecies in Kansas: _S. a. arborea_ (Wilson) common in east; _S.
+    a. ochracea_ Brewster common throughout state.
+
+
+* _Spizella passerina._ Chipping Sparrow. Common transient and summer
+resident in east, less common in west. Only two actual nesting records:
+occupied nest at Lawrence, Douglas County, May, 1954, James S. Findley;
+nest with 4 large young, 6 miles south of Atchison, Atchison County,
+May, 1934 or 1935, Homer A. Stephens (photographs taken of nest and
+adult).
+
+    Subspecies in Kansas: _S. p. passerina_ (Bechstein) in east, _S.
+    p. arizonae_ Coues in west.
+
+
+_Spizella pallida_ (Swainson). Clay-colored Sparrow. Common transient
+throughout state. Possibly breeds in northwest: male (KU 31950) with
+greatly enlarged testes (9 x 6 mm.), 1 mile north of St. Francis,
+Cheyenne County, June 12, 1954, H. B. Tordoff.
+
+    No subspecies recognized.
+
+
+_Spizella breweri._ Brewer Sparrow. Common transient in west. Five
+specimens known: four males, Morton County, April 8 to May 1, 1950,
+Richard and Jean Graber; one specimen (sex?), Finney County, May 3,
+1954, Marvin D. Schwilling.
+
+    Subspecies in Kansas: _S. b. breweri_ Cassin.
+
+
+* _Spizella pusilla._ Field Sparrow. Common transient and summer
+resident and uncommon winter resident throughout state.
+
+    Subspecies in Kansas: _S. p. arenacea_ Chadbourne, intergrading in
+    east with _S. p. pusilla_ (Wilson).
+
+
+_Zonotrichia querula_ (Nuttall). Harris Sparrow. Common transient and
+winter resident in east, uncommon in west.
+
+    No subspecies recognized.
+
+
+_Zonotrichia leucophrys._ White-crowned Sparrow. Common transient and
+winter resident throughout state.
+
+    Subspecies in Kansas: _Z. l. leucophrys_ (Forster) common in east,
+    uncommon in west; _Z. l. gambelii_ (Nuttall) common in west,
+    fairly common in east.
+
+
+_Zonotrichia albicollis_ (Gmelin). White-throated Sparrow. Fairly common
+transient, uncommon winter resident west at least to Cloud and Sedgwick
+counties. Status in west poorly known; not reported at Garden City by
+Marvin D. Schwilling.
+
+    No subspecies recognized.
+
+
+_Passerella iliaca._ Fox Sparrow. Fairly common transient and uncommon
+winter resident in east; probably occurs in west but status there poorly
+known.
+
+    Subspecies in Kansas: _P. i. iliaca_ (Merrem); other subspecies
+    may be found in west when specimens become available.
+
+
+_Melospiza lincolnii._ Lincoln Sparrow. Common transient and uncommon
+winter resident throughout state.
+
+    Subspecies in Kansas: _M. l. lincolnii_ (Audubon) throughout
+    state; _M. l. alticola_ (Miller and McCabe) in extreme west.
+
+
+_Melospiza georgiana._ Swamp Sparrow. Common transient and uncommon
+winter resident in east. Western limit of range in Kansas not known
+(rare transient in Cloud and Finney counties--Porter and Schwilling).
+
+    Subspecies in Kansas: _M. g. georgiana_ (Latham), _M. g.
+    ericrypta_ Oberholser.
+
+
+_Melospiza melodia._ Song Sparrow. Common transient and winter resident
+throughout state.
+
+    Subspecies in Kansas: _M. m. euphonia_ Wetmore, _M. m. juddi_
+    Bishop, _M. m. montana_ Henshaw.
+
+
+_Rhynchophanes mccownii_ (Lawrence). McCown Longspur. Transient, common
+in west, rare in east, and winter resident, uncommon in west, rare in
+east.
+
+    No subspecies recognized.
+
+
+_Calcarius lapponicus._ Lapland Longspur. Common transient and winter
+resident throughout state.
+
+    Subspecies in Kansas: _C. l. lapponicus_ (Linnaeus) is the common
+    form; _C. l. alascensis_ Ridgway occurs uncommonly (specimens from
+    Douglas and Hamilton counties).
+
+
+_Calcarius pictus_ (Swainson). Smith Longspur. Fairly common transient
+and locally common winter resident except in extreme east, where rare.
+
+    No subspecies recognized.
+
+
+* _Calcarius ornatus_ (Townsend). Chestnut-collared Longspur. Common
+transient and winter resident in west, uncommon in east. Formerly, at
+least, occurred in summer in High Plains of west; nests found in Ellis
+County in 1871 by J. A. Allen. No recent records in summer.
+
+    No subspecies recognized.
+
+
+_Plectrophenax nivalis._ Snow Bunting. Winter visitant at irregular and,
+sometimes, long intervals. No specimens preserved in state since 1879.
+
+    Subspecies in Kansas: _P. n. nivalis_ (Linnaeus).
+
+
+                     _Transmitted May 19, 1955._
+
+
+
+
+                        Index to Common Names
+
+
+  Acadian Flycatcher, 334
+  Alder Flycatcher, 334
+  American Bittern, 312
+  American Coot, 322
+  American Egret, 311
+  American Knot, 325
+  American Magpie, 336
+  American Merganser, 317
+  American Raven, 336
+  American Redstart, 346
+  American Woodcock, 323
+  Arizona Jay, 336
+  Ash-throated Flycatcher, 333
+  Audubon Warbler, 343
+  Avocet, 326
+
+  Baird Sandpiper, 325
+  Baird Sparrow, 350
+  Bald Eagle, 319
+  Baldpate, 315
+  Baltimore Oriole, 347
+  Bank Swallow, 335
+  Barn Owl, 330
+  Barn Swallow, 335
+  Barred Owl, 330
+  Bay-breasted Warbler, 344
+  Bell Vireo, 341
+  Belted Kingfisher, 331
+  Bewick Wren, 338
+  Black and White Warbler, 342
+  Black-bellied Plover, 323
+  Black-billed Cuckoo, 329
+  blackbirds, 346-348
+  Blackburnian Warbler, 344
+  Black-capped Chickadee, 337
+  Black-capped Vireo, 341
+  Black-crowned Night Heron, 312
+  Black Duck, 314
+  Black-headed Grosbeak, 348
+  Black-necked Stilt, 326
+  Black-poll Warbler, 344
+  Black Rail, 322
+  Black Tern, 328
+  Black-throated Blue Warbler, 343
+  Black-throated Gray Warbler, 344
+  Black-throated Green Warbler, 344
+  Black-throated Sparrow, 352
+  Black Vulture, 318
+  Blue Goose, 314
+  Blue-gray Gnatcatcher, 340
+  Blue Grosbeak, 348
+  Blue Jay, 336
+  Blue-winged Teal, 315
+  Blue-winged Warbler, 342
+  Bobolink, 346
+  Bob-white, 321
+  Bohemian Waxwing, 340
+  Bonaparte Gull, 328
+  Brant, 314
+  Brewer Blackbird, 347
+  Brewer Sparrow, 352
+  Broad-winged Hawk, 319
+  Bronzed Grackle, 348
+  Brown Creeper, 337
+  Brown Pelican, 311
+  Brown Thrasher, 338
+  Buff-breasted Sandpiper, 326
+  Buffle-head, 316
+  Bullock Oriole, 347
+  buntings, 348-354
+  Burrowing Owl, 330
+
+  California Gull, 327
+  Calliope Hummingbird, 331
+  Canada Goose, 313
+  Canada Warbler, 346
+  Canvas-back, 316
+  Cape May Warbler, 343
+  Cardinal, 348
+  Carolina Chickadee, 337
+  Carolina Paroquet, 329
+  Carolina Wren, 338
+  Caspian Tern, 328
+  Cassin Kingbird, 333
+  Cassin Sparrow, 351
+  Catbird, 338
+  Cedar Waxwing, 340
+  Cerulean Warbler, 344
+  Chestnut-backed Bluebird, 339
+  Chestnut-collared Longspur, 354
+  Chestnut-sided Warbler, 344
+  chickadees, 337
+  Chimney Swift, 331
+  Chipping Sparrow, 352
+  Chuck-will's-widow, 331
+  Cinnamon Teal, 315
+  Clark Nutcracker, 337
+  Clay-colored Sparrow, 352
+  Cliff Swallow, 335
+  Common Loon, 310
+  Common Scoter, 317
+  Common Tern, 328
+  Cooper Hawk, 318
+  cormorants, 311
+  corvids, 336-337
+  Cowbird, 348
+  cranes, 321
+  Crested Flycatcher, 333
+  crossbills, 350
+  Crow, 336
+  cuckoos, 329-330
+
+  Dickcissel, 349
+  Double-crested Cormorant, 311
+  doves, 328-329
+  Downy Woodpecker, 333
+  Duck Hawk, 320
+  ducks, 314-317
+
+  eagles, 319
+  Eared Grebe, 310
+  Eastern Bluebird, 339
+  Eastern Goldfinch, 350
+  Eastern Kingbird, 333
+  Eastern Meadowlark, 346
+  Eastern Phoebe, 334
+  Eastern Wood Pewee, 335
+  Eider, 316
+  English Sparrow, 346
+  Eskimo Curlew, 324
+  European Widgeon, 315
+  Evening Grosbeak, 349
+
+  falcons, 320
+  Ferruginous Rough-leg, 319
+  Field Sparrow, 352
+  finches, 348-354
+  Flamingo, 313
+  Florida Gallinule, 322
+  flycatchers, 333-335
+  Forster Tern, 328
+  Fox Sparrow, 353
+  Franklin Gull, 327
+  Fulvous Tree-duck, 314
+
+  Gadwall, 315
+  geese, 313-314
+  Glaucous Gull, 327
+  goatsuckers, 331
+  Golden-crowned Kinglet, 340
+  Golden Eagle, 319
+  Golden-eye, 316
+  Golden Plover, 323
+  Golden-winged Warbler, 342
+  Goshawk, 318
+  Grasshopper Sparrow, 350
+  Gray-cheeked Thrush, 339
+  Great Blue Heron, 311
+  Greater Prairie Chicken, 320
+  Greater Scaup Duck, 316
+  Greater Yellow-legs, 325
+  grebes, 310
+  Green Heron, 312
+  Green-tailed Towhee, 350
+  Green-winged Teal, 315
+  Groove-billed Ani, 330
+  grosbeaks, 348-349
+  Ground Dove, 329
+  grouse, 320-321
+  gulls, 327-328
+  Gyrfalcon, 320
+
+  Hairy Woodpecker, 333
+  Harris Hawk, 319
+  Harris Sparrow, 353
+  Hawk Owl, 330
+  hawks, 318-320
+  Henslow Sparrow, 351
+  Hermit Thrush, 339
+  herons, 311-312
+  Herring Gull, 327
+  Hooded Merganser, 317
+  Hooded Oriole, 347
+  Hooded Warbler, 346
+  Horned Grebe, 310
+  Horned Lark, 335
+  Horned Owl, 330
+  House Finch, 349
+  House Wren, 337
+  Hudsonian Curlew, 324
+  Hudsonian Godwit, 326
+  hummingbirds, 331
+
+  ibises, 312-313
+  Inca Dove, 329
+  Indigo Bunting, 349
+
+  jaegers, 327
+  jays, 336-337
+  juncos, 352
+
+  Kentucky Warbler, 345
+  Killdeer, 323
+  King Eider, 316
+  kingfisher, 331
+  kinglets, 340
+  King Rail, 321
+  kites, 318
+  Kittiwake, 328
+
+  Ladder-backed Woodpecker, 333
+  Lapland Longspur, 353
+  lark, 335
+  Lark Bunting, 350
+  Lark Sparrow, 351
+  Laughing Gull, 327
+  Lazuli Bunting, 349
+  Least Bittern, 312
+  Least Flycatcher, 334
+  Least Sandpiper, 325
+  Least Tern, 328
+  Leconte Sparrow, 351
+  Lesser Prairie Chicken, 320
+  Lesser Scaup Duck, 316
+  Lesser Yellow-legs, 325
+  Lewis Woodpecker, 332
+  Lincoln Sparrow, 353
+  Little Blue Heron, 312
+  Loggerhead Shrike, 341
+  Long-billed Curlew, 324
+  Long-billed Dowitcher, 325
+  Long-billed Marsh Wren, 338
+  Long-eared Owl, 330
+  longspurs, 353-354
+  Long-tailed Jaeger, 327
+  loons, 310
+  Louisiana Heron, 312
+  Louisiana Water-thrush, 345
+
+  Macgillivray Warbler, 345
+  Magnolia Warbler, 343
+  magpie, 336
+  Mallard, 314
+  Man-o'-war-bird, 311
+  Marbled Godwit, 326
+  Marsh Hawk, 320
+  McCown Longspur, 353
+  meadowlarks, 346-347
+  Mexican Cormorant, 311
+  Mississippi Kite, 318
+  Mockingbird, 338
+  Mottled Duck, 314
+  Mountain Bluebird, 340
+  Mountain Plover, 323
+  Mourning Dove, 329
+  Mourning Warbler, 345
+  Myrtle Warbler, 343
+
+  Nashville Warbler, 343
+  Nighthawk, 331
+  Northern Phalarope, 327
+  Northern Shrike, 341
+  Northern Water-thrush, 345
+  nuthatches, 337
+
+  Old-squaw, 316
+  Olive-backed Thrush, 339
+  Olive-sided Flycatcher, 335
+  Orange-crowned Warbler, 343
+  Orchard Oriole, 347
+  Oregon Junco, 352
+  orioles, 347
+  Osprey, 320
+  Oven-bird, 345
+  owls, 330-331
+
+  Painted Bunting, 349
+  Palm Warbler, 345
+  Parula Warbler, 343
+  Passenger Pigeon, 329
+  Pectoral Sandpiper, 325
+  pelicans, 311
+  phalaropes, 326-327
+  Philadelphia Vireo, 342
+  Pied-billed Grebe, 310
+  Pigeon Hawk, 320
+  pigeons, 328-329
+  Pileated Woodpecker, 332
+  Pine Grosbeak, 349
+  Pine Siskin, 349
+  Pine Warbler, 344
+  Pine-woods Sparrow, 351
+  Pinon Jay, 337
+  Pintail, 315
+  Piping Plover, 323
+  pipits, 340
+  plovers, 323
+  Pomarine Jaeger, 327
+  Poor-will, 331
+  Prairie Falcon, 320
+  Prairie Warbler, 344
+  Prothonotary Warbler, 342
+  Purple Finch, 349
+  Purple Gallinule, 322
+  Purple Martin, 336
+
+  quail, 321
+
+  rails, 321-322
+  ravens, 336
+  Red-backed Sandpiper, 325
+  Red-bellied Woodpecker, 332
+  Red-breasted Merganser, 317
+  Red-breasted Nuthatch, 337
+  Red Crossbill, 350
+  Red-eyed Towhee, 350
+  Red-eyed Vireo, 342
+  Redhead, 315
+  Red-headed Woodpecker, 332
+  Red-necked Grebe, 310
+  Red Phalarope, 326
+  Redpoll, 349
+  Red-shafted Flicker, 332
+  Red-shouldered Hawk, 318
+  Red-tailed Hawk, 318
+  Red-throated Loon, 310
+  Red-wing, 347
+  Ring-billed Gull, 327
+  Ring-necked Duck, 316
+  Ring-necked Pheasant, 321
+  Road-runner, 329
+  Robin, 339
+  Rock Dove, 328
+  Rock Wren, 338
+  Roseate Spoonbill, 313
+  Rose-breasted Grosbeak, 348
+  Ross Goose, 314
+  Rough-legged Hawk, 319
+  Rough-winged Swallow, 335
+  Ruby-crowned Kinglet, 340
+  Ruby-throated Hummingbird, 331
+  Ruddy Duck, 317
+  Ruddy Turnstone, 323
+  Ruffed Grouse, 320
+  Rufous-crowned Sparrow, 351
+  Rusty Blackbird, 347
+
+  Sabine Gull, 328
+  Sage Thrasher, 338
+  Sanderling, 326
+  Sandhill Crane, 321
+  sandpipers, 323-326
+  Savannah Sparrow, 350
+  Saw-whet Owl, 330
+  Say Phoebe, 334
+  Scaled Quail, 321
+  Scarlet Tanager, 348
+  Scissor-tailed Flycatcher, 333
+  Screech Owl, 330
+  Scrub Jay, 336
+  Semipalmated Plover, 323
+  Semipalmated Sandpiper, 325
+  Sharp-shinned Hawk, 318
+  Sharp-tailed Grouse, 321
+  Sharp-tailed Sparrow, 351
+  Short-billed Dowitcher, 325
+  Short-billed Marsh Wren, 338
+  Short-eared Owl, 330
+  shrikes, 341
+  Shoveller, 315
+  Slate-colored Junco, 352
+  Smith Longspur, 353
+  Snow Bunting, 354
+  Snow Goose, 314
+  Snowy Egret, 311
+  Snowy Owl, 330
+  Snowy Plover, 323
+  Solitary Sandpiper, 324
+  Solitary Vireo, 341
+  Song Sparrow, 353
+  Sora, 322
+  Sparrow Hawk, 320
+  sparrows, 348-354
+  Spotted Sandpiper, 324
+  Sprague Pipit, 340
+  Starling, 341
+  Steller Jay, 336
+  Stilt Sandpiper, 325
+  Summer Tanager, 348
+  Surf Scoter, 317
+  Swainson Hawk, 319
+  swallows, 335-336
+  Swallow-tailed Kite, 318
+  Swamp Sparrow, 353
+  swans, 313
+  swift, 331
+  Sycamore Warbler, 344
+
+  tanagers, 348
+  Tennessee Warbler, 342
+  terns, 328
+  thrashers, 338
+  thrushes, 339-340
+  towhees, 350
+  Townsend Solitaire, 340
+  Townsend Warbler, 344
+  Tree Sparrow, 352
+  Tree Swallow, 335
+  Trumpeter Swan, 313
+  Tufted Titmouse, 337
+  Turkey, 321
+  Turkey Vulture, 317
+
+  Upland Plover, 324
+
+  Varied Thrush, 339
+  Veery, 339
+  Vesper Sparrow, 351
+  Violet-green Swallow, 335
+  vireos, 341-342
+  Virginia Rail, 322
+  Virginia Warbler, 343
+  vultures, 317-318
+
+  warblers, 342-346
+  Warbling Vireo, 342
+  Water Pipit, 340
+  Water-turkey, 311
+  waxwings, 340
+  Western Flycatcher, 334
+  Western Grebe, 310
+  Western Kingbird, 333
+  Western Meadowlark, 347
+  Western Sandpiper, 326
+  Western Tanager, 348
+  Western Wood Pewee, 335
+  Whip-poor-will, 331
+  Whistling Swan, 313
+  White-breasted Nuthatch, 337
+  White-crowned Sparrow, 353
+  White-eyed Vireo, 341
+  White-faced Glossy Ibis, 313
+  White-fronted Goose, 314
+  White-necked Raven, 336
+  White Pelican, 311
+  White-rumped Sandpiper, 325
+  White-throated Sparrow, 353
+  White-winged Crossbill, 350
+  White-winged Junco, 352
+  White-winged Scoter, 317
+  Whooping Crane, 321
+  Willet, 324
+  Williamson Sapsucker, 333
+  Wilson Phalarope, 326
+  Wilson Snipe, 324
+  Wilson Warbler, 346
+  Winter Wren, 337
+  Wood Duck, 315
+  Wood Ibis, 312
+  woodpeckers, 331-333
+  Wood Thrush, 339
+  Worm-eating Warbler, 342
+  wrens, 337-338
+  Wright Flycatcher, 334
+
+  Yellow-bellied Flycatcher, 334
+  Yellow-bellied Sapsucker, 332
+  Yellow-billed Cuckoo, 329
+  Yellow-breasted Chat, 346
+  Yellow-crowned Night Heron, 312
+  Yellow-headed Blackbird, 347
+  Yellow Rail, 322
+  Yellow-shafted Flicker, 331
+  Yellow-throat, 345
+  Yellow-throated Vireo, 341
+  Yellow Warbler, 343
+
+
+
+
+    [Illustration: FIG. 1. Map of Kansas showing names of counties.]
+
+
+
+
+                  UNIVERSITY OF KANSAS PUBLICATIONS,
+                      MUSEUM OF NATURAL HISTORY
+
+
+Institutional libraries interested in publications exchange may obtain
+this series by addressing the Exchange Librarian, University of Kansas
+Library, Lawrence, Kansas. Copies for individuals, persons working in a
+particular field of study, may be obtained by addressing instead the
+Museum of Natural History, University of Kansas, Lawrence, Kansas. There
+is no provision for sale of this series by the University Library which
+meets institutional requests, or by the Museum of Natural History which
+meets the requests of individuals. However, when individuals request
+copies from the Museum, 25 cents should be included, for each separate
+number that is 100 pages or more in length, for the purpose of defraying
+the costs of wrapping and mailing.
+
+  * An asterisk designates those numbers of which the Museum's supply
+  (not the Library's supply) is exhausted. Numbers published to date,
+  in this series, are as follows:
+
+  Vol. 1. Nos. 1-26 and index. Pp. 1-638, 1946-1950.
+
+          Index. Pp. 605-638.
+
+ *Vol. 2. (Complete) Mammals of Washington. By Walter W. Dalquest.
+          Pp. 1-444, 140 figures in text. April 9, 1948.
+
+  Vol. 3. *1. The avifauna of Micronesia, its origin, evolution, and
+              distribution. By Rollin H. Baker. Pp. 1-359, 16 figures
+              in text. June 12, 1951.
+
+          *2. A quantitative study of the nocturnal migration of birds.
+              By George H. Lowery, Jr. Pp. 361-472, 47 figures in text.
+              June 29, 1951.
+
+           3. Phylogeny of the waxwings and allied birds. By M. Dale
+              Arvey. Pp. 473-530, 49 figures in text, 13 tables.
+              October 10, 1951.
+
+           4. Birds from the state of Veracruz, Mexico. By George H.
+              Lowery, Jr., and Walter W. Dalquest. Pp. 531-649,
+              7 figures in text, 2 tables. October 10, 1951.
+
+          Index. Pp. 651-681.
+
+ *Vol. 4. (Complete) American weasels. By E. Raymond Hall. Pp. 1-466,
+          41 plates, 31 figures in text. December 27, 1951.
+
+  Vol. 5.  1. Preliminary survey of a Paleocene faunule from the Angels
+              Peak area, New Mexico. By Robert W. Wilson. Pp. 1-11,
+              1 figure in text. February 24, 1951.
+
+           2. Two new moles (Genus Scalopus) from Mexico and Texas.
+              By Rollin H. Baker. Pp. 17-24. February 28, 1951.
+
+           3. Two new pocket gophers from Wyoming and Colorado.
+              By E. Raymond Hall and H. Gordon Montague. Pp. 25-32.
+              February 28, 1951.
+
+           4. Mammals obtained by Dr. Curt von Wedel from the barrier
+              beach of Tamaulipas, Mexico. By E. Raymond Hall.
+              Pp. 33-47, 1 figure in text. October 1, 1951.
+
+           5. Comments on the taxonomy and geographic distribution of
+              some North American rabbits. By E. Raymond Hall and Keith
+              R. Kelson. Pp. 49-58. October 1, 1951.
+
+           6. Two new subspecies of Thomomys bottae from New Mexico and
+              Colorado. By Keith R. Kelson. Pp. 59-71, 1 figure in text.
+              October 1, 1951.
+
+           7. A new subspecies of Microtus montanus from Montana and
+              comments on Microtus canicaudus Miller. By E. Raymond Hall
+              and Keith R. Kelson. Pp. 73-79. October 1, 1951.
+
+           8. A new pocket gopher (Genus Thomomys) from eastern
+              Colorado. By E. Raymond Hall. Pp. 81-85. October 1, 1951.
+
+           9. Mammals taken along the Alaskan Highway. By Rollin H.
+              Baker. Pp. 87-117, 1 figure in text. November 28, 1951.
+
+         *10. A synopsis of the North American Lagomorpha. By E. Raymond
+              Hall. Pp. 119-202. 68 figures in text. December 15, 1951.
+
+          11. A new pocket mouse (Genus Perognathus) from Kansas. By E.
+              Lendell Cockrum. Pp. 203-206. December 15, 1951.
+
+          12. Mammals from Tamaulipas, Mexico. By Rollin H. Baker.
+              Pp. 207-218. December 15, 1951.
+
+          13. A new pocket gopher (Genus Thomomys) from Wyoming and
+              Colorado. By E. Raymond Hall. Pp. 219-222. December 15,
+              1951.
+
+          14. A new name for the Mexican red bat. By E. Raymond Hall.
+              Pp. 223-226. December 15, 1951.
+
+          15. Taxonomic notes on Mexican bats of the Genus Rhogeessa.
+              By E. Raymond Hall. Pp. 227-232. April 10, 1952.
+
+          16. Comments on the taxonomy and geographic distribution of
+              some North American woodrats (Genus Neotoma). By Keith R.
+              Kelson. Pp. 233-242. April 10, 1952.
+
+          17. The subspecies of the Mexican red-bellied squirrel,
+              Sciurus aureogaster. By Keith R. Kelson. Pp. 243-250,
+              1 figure in text. April 10, 1952.
+
+          18. Geographic range of Peromyscus melanophrys, with
+              description of new subspecies. By Rollin H. Baker.
+              Pp. 251-258, 1 figure in text. May 10, 1952.
+
+          19. A new chipmunk (Genus Eutamias) from the Black Hills.
+              By John A. White. Pp. 259-262. April 10, 1952.
+
+          20. A new pinon mouse (Peromyscus truei) from Durango, Mexico.
+              By Robert B. Finley, Jr. Pp. 263-267. May 23, 1952.
+
+          21. An annotated checklist of Nebraskan bats. By Olin L. Webb
+              and J. Knox Jones, Jr. Pp. 269-279. May 31, 1952.
+
+          22. Geographic variation in red-backed mice (Genus
+              Clethrionomys) of the southern Rocky Mountain region.
+              By E. Lendell Cockrum and Kenneth L. Fitch.
+              Pp. 281-292, 1 figure in text. November 15, 1952.
+
+          23. Comments on the taxonomy and geographic distribution of
+              North American microtines. By E. Raymond Hall and E.
+              Lendell Cockrum. Pp. 293-312. November 17, 1952.
+
+          24. The subspecific status of two Central American sloths.
+              By E. Raymond Hall and Keith R. Kelson. Pp. 313-317.
+              November 21, 1952.
+
+          25. Comments on the taxonomy and geographic distribution of
+              some North American marsupials, insectivores, and
+              carnivores. By E. Raymond Hall and Keith R. Kelson.
+              Pp. 319-341. December 5, 1952.
+
+          26. Comments on the taxonomy and geographic distribution of
+              some North American rodents. By E. Raymond Hall and Keith
+              R. Kelson. Pp. 343-371. December 15, 1952.
+
+          27. A synopsis of the North American microtine rodents. By E.
+              Raymond Hall and E. Lendell Cockrum. Pp. 373-498,
+              149 figures in text. January 15, 1953.
+
+          28. The pocket gophers (Genus Thomomys) of Coahuila, Mexico.
+              By Rollin H. Baker. Pp. 499-514, 1 figure in text.
+              June 1, 1953.
+
+          29. Geographic distribution of the pocket mouse, Perognathus
+              fasciatus. By J. Knox Jones, Jr. Pp. 515-526, 7 figures
+              in text. August 1, 1953.
+
+          30. A new subspecies of wood rat (Neotoma mexicana) from
+              Colorado. By Robert B. Finley, Jr. Pp. 527-534,
+              2 figures in text. August 15, 1953.
+
+          31. Four new pocket gophers of the genus Cratogeomys from
+              Jalisco, Mexico. By Robert J. Russell. Pp. 535-542.
+              October 15, 1953.
+
+          32. Genera and subgenera of chipmunks. By John A. White.
+              Pp. 543-561, 12 figures in text. December 1, 1953.
+
+          33. Taxonomy of the chipmunks, Eutamias quadrivittatus and
+              Eutamias umbrinus. By John A. White. Pp. 563-582,
+              6 figures in text. December 1, 1953.
+
+          34. Geographic distribution and taxonomy of the chipmunks of
+              Wyoming. By John A. White. Pp. 584-610, 3 figures in text.
+              December 1, 1953.
+
+          35. The baculum of the chipmunks of western North America. By
+              John A. White. Pp. 611-631, 19 figures in text.
+              December 1, 1953.
+
+          36. Pleistocene Soricidae from San Josecito Cave, Nuevo Leon,
+              Mexico. By James S. Findley. Pp. 633-639. December 1,
+              1953.
+
+          37. Seventeen species of bats recorded from Barro Colorado
+              Island, Panama Canal Zone. By E. Raymond Hall and William
+              B. Jackson. Pp. 641-646. December 1, 1953.
+
+          Index. Pp. 647-676.
+
+ *Vol. 6. (Complete) Mammals of Utah, _taxonomy and distribution_.
+          By Stephen D. Durrant. Pp. 1-549, 91 figures in text,
+          30 tables. August 10, 1952.
+
+  Vol. 7. *1. Mammals of Kansas. By E. Lendell Cockrum. Pp. 1-303,
+              73 figures in text, 37 tables. August 25, 1952.
+
+           2. Ecology of the opossum on a natural area in northeastern
+              Kansas. By Henry S. Fitch and Lewis L. Sandidge.
+              Pp. 305-338, 5 figures in text. August 24, 1953.
+
+           3. The silky pocket mice (Perognathus flavus) of Mexico.
+              By Rollin H. Baker. Pp. 339-347, 1 figure in text.
+              February 15, 1954.
+
+           4. North American jumping mice (Genus Zapus). By Philip H.
+              Krutzsch. Pp. 349-472, 47 figures in text, 4 tables.
+              April 21, 1954.
+
+           5. Mammals from Southeastern Alaska. By Rollin H. Baker
+              and James S. Findley. Pp. 473-477. April 21, 1954.
+
+           6. Distribution of some Nebraskan Mammals. By J. Knox
+              Jones, Jr. Pp. 479-487. April 21, 1954.
+
+           7. Subspeciation in the montane meadow mouse, Microtus
+              montanus, in Wyoming and Colorado. By Sydney Anderson.
+              Pp. 489-506, 2 figures in text. July 23, 1954.
+
+           8. A new subspecies of bat (Myotis velifer) from southeastern
+              California and Arizona. By Terry A. Vaughn. Pp. 507-512.
+              July 23, 1954.
+
+           9. Mammals of the San Gabriel mountains of California.
+              By Terry A. Vaughn. Pp. 513-582, 1 figure in text,
+              12 tables. November 15, 1954.
+
+          10. A new bat (Genus Pipistrellus) from northeastern Mexico.
+              By Rollin H. Baker. Pp. 583-586. November 15, 1954.
+
+          11. A new subspecies of pocket mouse from Kansas.
+              By E. Raymond Hall. Pp. 587-590. November 15, 1954.
+
+          12. Geographic variation in the pocket gopher, Cratogeomys
+              castanops, in Coahuila, Mexico. By Robert J. Russell and
+              Rollin H. Baker. Pp. 591-608. March 15, 1955.
+
+          13. A new cottontail (Sylvilagus floridanus) from northeastern
+              Mexico. By Rollin H. Baker. Pp. 609-612. April 8, 1955.
+
+          14. Taxonomy and distribution of some American shrews.
+              By James S. Findley. Pp. 613-618. June 10, 1955.
+
+          15. Distribution and systematic position of the pigmy woodrat,
+              Neotoma goldmani. By Dennis G. Rainey and Rollin H. Baker.
+              Pp. 619-624, 2 figs. in text. June 10, 1955.
+
+          Index. Pp. 625-651.
+
+  Vol. 8.  1. Life history and ecology of the five-lined skink, Eumeces
+              fasciatus. By Henry S. Fitch. Pp. 1-156, 2 pls., 26 figs.
+              in text, 17 tables. September 1, 1954.
+
+           2. Myology and serology of the Avian Family Fringillidae, a
+              taxonomic study. By William B. Stallcup. Pp. 157-211,
+              23 figures in text, 4 tables. November 15, 1954.
+
+           3. An ecological study of the collared lizard (Crotaphytus
+              collaris). By Henry S. Fitch. Pp. 213-274, 10 figures in
+              text. February 10, 1956.
+
+           4. A field study of the Kansas ant-eating frog, Gastrophryne
+              olivacea. By Henry S. Fitch. Pp. 275-306, 9 figures in
+              text. February 10, 1956.
+
+           5. Check-list of the birds of Kansas. By Harrison B. Tordoff.
+              Pp. 307-359, 1 figure in text. March 10, 1956.
+
+          More numbers will appear in volume 8.
+
+  Vol. 9.  1. Speciation of the wandering shrew. By James S. Findley.
+              Pp. 1-68, 18 figures in text. December 10, 1955.
+
+           2. Additional records and extensions of ranges of mammals
+              from Utah. By Stephen D. Durrant, M. Raymond Lee, and
+              Richard M. Hansen. Pp. 69-80. December 10, 1955.
+
+           3. A new long-eared myotis (Myotis evotis) from northeastern
+              Mexico. By Rollin H. Baker and Howard J. Stains.
+              Pp. 81-84. December 10, 1955.
+
+          More numbers will appear in volume 9.
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK CHECK-LIST OF THE BIRDS OF KANSAS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

@@ -8,9 +8,9 @@ INPUT = ROOT / "Dataset" / "gutenberg_publication_years.csv"
 OUTPUT = ROOT / "Dataset" / "selected_books.csv"
 
 
-N_PER_ERA = 50
+N_PER_ERA = 100
 N_PER_DECADE = 20
-RANDOM_STATE = 612
+RANDOM_STATE = 42
 
 def assign_era(year):
     if 1700 <= year < 1798:

@@ -1,0 +1,2215 @@
+﻿The Project Gutenberg eBook of Selected Poems (1685-1700)
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Selected Poems (1685-1700)
+
+Author: John Tutchin
+
+Editor: Spiro Peterson
+
+
+        
+Release date: December 25, 2011 [eBook #38407]
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/38407
+
+Credits: Produced by David Starner, Dave Morgan and the Online
+        Distributed Proofreading Team at http://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK SELECTED POEMS (1685-1700) ***
+
+
+
+
+Produced by David Starner, Dave Morgan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+
+JOHN TUTCHIN
+
+_SELECTED POEMS_
+
+(1685-1700)
+
+
+_INTRODUCTION_
+
+BY
+
+SPIRO PETERSON
+
+
+PUBLICATION NUMBER 110
+
+WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+
+UNIVERSITY OF CALIFORNIA, LOS ANGELES
+
+1964
+
+
+
+
+GENERAL EDITORS
+
+  Earl R. Miner, _University of California, Los Angeles_
+  Maximillian E. Novak, _University of California, Los Angeles_
+  Lawrence Clark Powell, _Wm. Andrews Clark Memorial Library_
+
+
+ADVISORY EDITORS
+
+  John Butt, _University of Edinburgh_
+  James L. Clifford, _Columbia University_
+  Ralph Cohen, _University of California, Los Angeles_
+  Vinton A. Dearing, _University of California, Los Angeles_
+  Arthur Friedman, _University of Chicago_
+  Louis A. Landa, _Princeton University_
+  Samuel H. Monk, _University of Minnesota_
+  Everett T. Moore, _University of California, Los Angeles_
+  James Sutherland, _University College, London_
+  H. T. Swedenberg, Jr., _University of California, Los Angeles_
+
+
+CORRESPONDING SECRETARY
+
+  Edna C. Davis, _Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+
+When John Tutchin died on September 23, 1707, he had already created
+the image of himself which Alexander Pope has transmitted to posterity.
+There, in Book II of _The Dunciad_ (1728), the Whig journalist appears
+as one of two figures in a "shaggy Tap'stry":
+
+  Earless on high, stood un-abash'd Defoe,
+  And Tutchin flagrant from the scourge, below.
+
+Pope, in his variorum notes on the passage, identified Tutchin as
+the "author of some vile verses, and of a weekly paper call'd the
+_Observator_," and revived the fiction of his sentence "to be whipp'd
+thro' several towns in the west of _England_, upon which he petition'd
+King _James_ II. to be hanged." The "invective" against James II's
+memory, which Pope mentions, has now been identified in the Twickenham
+Edition as _The British Muse: or Tyranny Expos'd_ (1701).[1] By 1728,
+this was all the reputation that remained for Mr. John Tutchin,
+Gentleman--irascible journalist, pamphleteer, and writer of verses.
+
+The truth of the matter is that Pope was no more accurate about
+Tutchin's being whipped than about Defoe's losing his ears. From the
+sparse reliable information concerning Tutchin's early years, one
+consistent pattern emerges: he tended to depict himself as a hero and a
+martyr. Born in 1661 "a Freeman" of London, he was brought up in a
+family of scholarly nonconformist ministers probably on the Isle of
+Wight[2]. Even though an enemy claimed that he had been expelled from a
+school at Stepney for stealing (_DNB_), he received some education and
+travelled on the continent. In defending his skill with languages
+against Defoe, he once told how at his school, boys translated and
+capped verses, and how he travelled "from _Leivarden_ in _Friezland_,
+thro' _Holland_ and the _Spanish Flanders_."[3] Throughout his life, he
+proudly designated himself a gentleman: during his trial for libel in
+late June of 1704, he even escaped punishment by setting forth that he
+was a gentleman, and not a laborer as the indictment read.
+
+In later life, he romanticized himself when young as the hero who fought
+in the Duke of Monmouth's rebellion, received the brutal "whipping
+sentence" from Lord Chief-Justice Jeffreys during "the bloody assezes"
+of 1685, petitioned James II for "the Favour of being hang'd" to avoid
+the sentence, and finally freed himself by paying so burdensome a bribe
+that he was reduced to poverty. All these claims were first made in "The
+Case, Trial, and Sentence of Mr. John Tutchin, and Several Others, in
+Dorchester, in the County of Dorset," which Tutchin added to the fifth
+edition of _The Western Martyrology; or, the Bloody Assizes_, published
+in 1705. As J. G. Muddiman demonstrated in 1929, most of these claims
+are outright fabrications. Tutchin was never indicted for high treason,
+he could never have been challenged by Jeffreys to cap verses, and he
+invented the petition to be hanged.[4] In _The Observator_ (July 25-29,
+1702), he honestly admitted that he was never tried in Devonshire, but
+claimed he did buy his liberty of James II; and in a later issue (Aug.
+4-7, 1703) he challenged an enemy: "if he Pleases to give the World an
+Account, _When_, _Where_, and for _What_ I was Whip'd thro' a
+Market-Town, he will inform Mankind of more than I or any Body else
+knows...." John Dunton believed in the whipping sentence; and Defoe, the
+story of the petition to be hanged. Throughout Tutchin's stormy career,
+his enemies made political capital of the flogging that never took
+place. He was probably twenty-four years old when, using the alias
+"Thomas Pitts," he was tried at Dorchester for "Spreading false news and
+fined five marks and sentenced to be whipped"--but he came down with
+smallpox and so was not whipped.[5] Lord Macaulay, who is incorrect on
+the facts taken from _The Western Martyrology_, certainly exaggerated in
+stating that Tutchin's temper was "exasperated to madness by what he had
+undergone."[6] That the Monmouth adventure and its aftermath mark a
+turning point in the young man's life, however, cannot doubted.
+
+Tutchin may have fought with William III's army in Ireland as an
+officer.[7] After the Glorious Revolution and the establishment of
+William and Mary on the throne, Tutchin devoted himself to a succession
+of liberal causes. On the one hand, he persisted in identifying himself
+with the former commonwealth, the Monmouth cause, the Revolution, the
+reform movement especially in the theater, and Whig liberty. He became
+noted for tactless exposes of high-level misconduct in his pamphlets and
+in _The Observator_ (Apr. 1, 1702-Sept. 23, 1707). His detractors
+frequently paired him with Defoe as a monster or a villain. Again and
+again, he made himself obnoxious to important personages such as the
+Earl of Albemarle or the Duke of Marlborough.[8] On the other hand, his
+hatred for tyranny propelled him frequently into such extremes as his
+disgraceful complicity in William Fuller's impostures. In the years
+1700-1704, he was generally reputed to be "Secretary to the abominal
+Society of King-Killers"--the secret Calves-Head Club made up of
+dissenters who met on January 30th, the anniversary of the death of
+Charles I, to sing prophane anthems.[9]
+
+Dunton generously summed up the widely varied causes of "the loyal and
+ingenious _Tutchin_ (alias _Master Observator_); the bold Asserter of
+English Liberties; the scourge of the High-flyers; the Seaman's
+Advocate; the Detector of the Victualling-office; the scorn and terror
+of Fools and Knaves; the Nation's _Argus_, and the Queen's faithful
+Subject."[10] Even his death in Queen's Bench Prison, on September 23,
+1707, was romanticized into another instance of martyrdom. "... _he
+liv'd and dy'd_," announced the Country-man of _The Observator_, "_for
+the Service of his Country_." Tutchin's followers dramatized his death
+as the result of a politically-inspired thrashing which "six ruffians"
+administered to him, in revenge for slanderous remarks made in _The
+Observator_ against Vice-Admiral Sir Thomas Dilkes.[11] The "_Pulchrum
+Est Pro Patria Mori_" portrait, reprinted here as the frontispiece, was
+circulated to attest to Tutchin's political martyrdom. However, as the
+autopsy-report demonstrates and as Muddiman rightly concludes, "Tutchin
+really died from a specific disease and not from the thrashing undergone
+seven months before his death."[12]
+
+The young man of twenty four who went off to join Monmouth's forces had
+already published, in 1685, _Poems on Several Occasions. With a
+Pastoral. To Which is Added, A Discourse of Life_. In the preface,
+writing like a fashionable man-about-town, Tutchin describes the lyrics,
+translations, and satires of this volume as "trifles" which he had let
+circulate and had now secured "by promising to Print them." The book
+shows the variety in poetic kinds that one would expect in a young
+writer who had been drinking deeply of Lord Rochester, Waller, Cowley,
+the Earl of Roscommon, Oldham, and Dryden. Juvenalian satires
+reminiscent of Oldham are neatly balanced by memorial verses to Oldham
+and Rochester, late metaphysical lyrics ("And why in red dost thou
+appear"), classical dialogues ("Cleopatra to Anthony"), translations of
+Horace, and the well-turned "autobiographical" couplets of "A Letter to
+A Friend." In its variety and themes, _Poems on Several Occasions_
+resembles Oldham's _Works_, which was published twice in 1684. Tutchin's
+"The Tory Catch," like Oldham's "A Dithyrambick. A Drunkard's Speech in
+a Mask," has a speaker who ironically brags of the social misconduct
+which the author satirizes. "A Letter to a Friend" is a skillfully
+exaggerated account of the attractions and dangers in rhyming. Although
+perhaps autobiographical in part, the poem also imitates the
+long-standing tradition derived from Horace's first Epistle of Book I,
+and revived most recently in Oldham's "A Letter from the Country to a
+Friend in Town."[13] Both "The Tory Catch" and "A Letter to a Friend"
+are reprinted here from _Poems on Several Occasions_.
+
+Tutchin's first book shows two impulses: the awkwardly lyrical and the
+directly satiric. He feels compelled, in the Preface, to defend his
+choice of less serious subjects. His light poems do not, "in the least,
+detract from _Virtue_; since I have Read the _Poems_ of _Beza_,
+_Heinsius_, our own _Donne_, _&c._" He promises to turn to "some Graver
+Subject." There are other equally significant comments in a Preface that
+reveals a great deal about changing literary taste. In "To the Memory of
+Mr. John Oldham," Tutchin curiously avoids the main subject of Dryden's
+finer elegy, namely, Oldham's achievement in rough satire. His praise is
+that "_Crashaw_ and _Cowley_ both did live in thee." However, in his
+"Satyr Against Vice" and "Satyr Against Whoring," Tutchin has already
+learned the art of declaiming, from the poet who has been called "the
+English Juvenal," John Oldham.
+
+In the years between 1685 and 1707, Tutchin's separate poems were mainly
+occasional and satirical. Panegyric for William III dominates such an
+early piece as _An Heroic Poem upon the Late Expedition of His Majesty_
+(1689), and hatred for the Stuarts possesses a later poem like _The
+British Muse: or Tyranny Expos'd_ (1701). In _Civitas Militaris_ (1690)
+Tutchin engages in city politics. The elegy on the death of Queen Mary
+irritated Defoe enough to have "_T----n_" placed among the "Pindarick
+Legions" in _The Pacificator_ (1700). Two poems, however,--_The
+Earth-quake of Jamaica_ (1692) and _Whitehall in Flames_ (1698)--differ
+from the others in that they are Cowleyan "Pindaricks" moralizing on
+disasters. _The Earth-quake of Jamaica_ is reprinted here to illustrate
+Tutchin's descriptive talent. He starts with an actual event, the
+Jamaican disaster of June 7, 1692; and then, as the epigraph on the
+title page suggests, he presents a variation on Horace's rejection of
+"senseless Epicureanism," in Ode 34 of Book I. _The Earth-quake of
+Jamaica_ may have been worked over longer than was customary. It was
+published shortly before December 10, the manuscript date on Narcissus
+Luttrell's copy now in the Houghton Library. Some six months earlier, in
+the late morning of June 7, the earthquake had erupted in Port Royal,
+the "boom" port on the south side of the island. In three schocks
+lasting less than three minutes, the famed capital of the buccaneers had
+fallen. News of the disaster did not reach London until August 9. The
+earthquake then became one of the most widely discussed events. The
+_London Gazette_ ran stories on it, scientists like Sir Hans Sloane
+published eye-witness accounts in the _Philosophical Transactions_ of
+the Royal Society, the moralists declared God's wrath had come upon the
+wickedest place in Christendom, and "the actors of the drolls" in
+Southwark Fair even mockingly re-enacted the event until the Lord Mayor
+put a stop to the performances.[14]
+
+If contemporary accounts of the Port Royal earthquake are compared with
+_The Earth-quake of Jamaica_, the reader becomes impressed by Tutchin's
+way of adapting the well-known details to a moral comment on life. His
+scenes are indeed graphic, but they do not have the immediacy of such
+eye-witness accounts as the following, preserved by Luttrell:
+
+    I cannot sufficiently represent the terrible circumstances that
+    attended it; the earth swelled with a dismal humming noise, the
+    houses fell, the earth opened in many places, the graves gave up
+    some of their dead, the tomb stones ratled together; at last the
+    earth sunk below the water, and the sea overwhelmed great numbers
+    of people, whose shreiks and groanes made a lamentable eccho: the
+    earth opened both behind and before me within 2 foot of my feet,
+    and that place on which I stood trembled exceedingly; the water
+    immediately boyled up upon the opening of the earth, but it pleased
+    God to preserve me....[15]
+
+Tutchin's aim is to compare vulnerable nature with vulnerable man: "Can
+humane Race / Stand on their / Legs when Nature Reels?" He sees in the
+disaster a challenge for English sinners to repent: the "Hurricane of
+Fate" wails on "murder'd _Cornish_." He had not yet forgotten the
+Monmouth adventure. For he alludes here to the act of Parliament passed
+in 1689 reversing the attainder of Henry Cornish, the alderman who had
+been brutally executed in 1685 for high treason through participating in
+the Rye House Plot and attaching himself to the Duke of Monmouth. For
+Tutchin, politics were always relevant.
+
+Tutchin's true forte is not the descriptive poem, but satire. Poems
+published in the years 1696 to 1705--from _A Pindarick Ode_ to _The
+Tackers_--exploit the satirical impulse that had been latent in _Poems
+on Several Occasions_. Increasingly he turns to general denunciation and
+thinly disguised lampoon. Of the two main Augustan traditions in
+satire--the "fine raillery" that Dryden perfected and the rough satire
+that reached back to Donne, Cleveland, and Oldham--Tutchin belongs to
+the latter. Defoe found him to be "so woundy touchy, and so willing to
+quarrel," and noted that "Want of Temper was his capital Error."[16] The
+specific circumstance that produced _A Pindarick Ode, in the Praise of
+Folly and Knavery_ (1696), reprinted here, is generally said to be his
+dismissal from the victualling office because he failed to establish his
+case that the commissioners mismanaged public funds. Such corruption in
+the administration would soon transform a deep admiration for William
+III into the disenchantment of _The Foreigners_ (1700). That Tutchin was
+uneasy in his effort to write satire in the mode of Dryden is suggested
+by his abandonment of irony after the first part of _A Pindarick Ode_.
+In his introductory verses, Benjamin Bridgwater accurately observes that
+Erasmus' _Ironia_ no longer suffices:
+
+  This hard'ned Age do's rougher Means require,
+  We must be _Cupp'd_ and _Cauteriz'd_ with _Fire_.
+
+Echoing Dryden's _Mac Flecknoe_, Tutchin invites Dullness and "Immortal
+_Nonsence_" to inspire his ironic praise of the folly and knavery that
+now ride roughshod over such traditional values as learning, love, wit,
+and patriotism. A few of the lines have the moving quality of Augustan
+satire at its best:
+
+  Did e'er the old or new Philosophy,
+  Make a Man splendid live, or wealthy die?
+
+The irony of _A Pindarick Ode_ does not adequately mask the
+denunciation. In Stanza X, it is even replaced by the antiquated Hero's
+diatribe against "our modern Knavish Arts"--never to return to the rest
+of the poem. Doubtless, the indictment of the "nefarious Brood at Home"
+that grows rich in wartime was the heart of the satire. Defoe hinted at
+this motive in the satirical vignette of Tutchin as Shamwhig, which
+appeared in the first edition of _The True-Born Englishman_ (1700):
+
+  As Proud as Poor, his Masters he'll defy;
+  And writes a _Piteous *Satyr_ upon Honesty.
+  Some think the Poem had been pretty good,
+  _If he the Subject had but understood_.
+  He got Five hundred Pence by this, and more,
+  _As sure as he had ne're a Groat before_.[17]
+
+Tutchin's satire would be henceforth the rough variety. In _The
+Foreigners_ he would also resort to fierce lampoons of William III's
+court favorites.
+
+In the rash of satires that followed _The Foreigners_ and _The True-Born
+Englishman_, the anonymous author of _The Fable of the Cuckoo_ (1701)
+pointed to the common tradition shared by both poems. For he attacked
+Defoe's "hatchet muse" as having been inspired by such "Modern Sharpers
+of the Town" as Tutchin and "Old[ha]m the Bell-weather of Tory Faction,"
+who first horned Defoe's satire, "And ever since perverted all good
+Nature." Advertised in _The Flying Post_ for July 31-Aug. 1, 1700, _The
+Foreigners_ was published shortly thereafter by the ardent Whig Anne
+Baldwin. The "vile abhor'd Pamphlet, in very ill Verse, written by one
+_Mr. Tutchin_, and call'd _The Foreigners_"--Defoe recalled years later
+in _An Appeal to Honour and Justice_ (1715)--filled him "with a kind of
+Rage." Tutchin's irascible temper had again taken hold. Scurrilously, he
+assailed foreigners in high office, especially William III's Dutch
+favorites, for their monopolizing preferments and usurping command,
+under such transparent aliases as "Bentir" for William Bentinck, first
+Earl of Portland, and "Keppech" for Arnold Joost van Keppel, first Earl
+of Albemarle. The manner was Dryden's in _Absalom and Achitophel_; the
+venom was Tutchin's own. Official reaction to _The Foreigners_ came
+quickly. The untrustworthy William Fuller spread the gossip that Tutchin
+fled from his Majesty's messengers, and found refuge "in a blind
+Ale-house, at the Windmill, by Mr. Bowyers, at Camberwel." On August
+10th, he was taken "into custody of a messenger"; and at the grand
+inquest for the city of London, held on August 28th, there was presented
+"a Poem called _The Foreigners_."[18] A mystery envelops the rest of the
+legal proceedings. There may even be some truth in the allegation that
+the parry would long since have "ruffled" Tutchin, except that he
+pleased them with his "railing at King _William's_ Friends
+sometimes."[19] _The Foreigners_ also aroused such ephemeral rejoinders
+as _The Reverse: or, the Tables Turn'd_ and _The Nations: An Answer to
+the Foreigners_. both published in 1700. Finally, in January of 1701,
+there was published a satire of more lasting worth, Defoe's _The
+True-Born Englishman_. Side by side, in _Poems on Affairs of State_
+(1703), were reprinted _The Foreigners_ and _The True-Born Englishman_
+among verses "_Written by the Greatest Wits of this Age_."[20]
+Altogether, the two satirists had three poems apiece in the volume. One
+of Tutchin's poems, "The Tribe of Levi" (1691), was anonymously
+reprinted; the other two, _The Foreigners_ and _The British Muse_, were
+identified as "by Mr. _T----n_." These were the achievements of
+Tutchin's "hatchet muse."
+
+The poems are reprinted from copies in libraries of the U.S. and Great
+Britain. I am obligated to The Houghton Library for _Poems on Several
+Occasions_ and _The Earth-quake of Jamaica_, to Yale University Library
+for _The Foreigners_, and to the British Museum for _A Pindarick Ode,
+in the Praise of Folly and Knavery_. For permission to reproduce
+the "_Pulchrum Est Pro Patria Mori_" portrait of John Tutchin as the
+frontispiece, I wish to express my thanks to the Trustees of the British
+Museum.
+
+                                                      Spiro Peterson
+                                                      Miami University
+                                                      Oxford, Ohio
+
+
+NOTES TO THE INTRODUCTION
+
+[1] _The Dunciad_, ed. James Sutherland (The Twickenham Edition, Methuen
+& Co., Ltd., 1943), pp. 115-18.
+
+[2] Tutchin's birth-year is variously given. The Van der Gucht engraving
+and the authentic _Elegy_ of Tutchin's death state that he died "Aged
+44"; but the mock _Elegy_, falsely claiming to be "Written by the Author
+of the Review," gives his age to be 47. In _The Observator_ (Oct. 20-23,
+1703), Tutchin implied that he was "Born some years after the
+Restoration of King _Charles_ the 2d." His certificate of marriage to
+Elizabeth Hicks on Sept. 30, 1686 places his age then at twenty-five,
+and supports the birth-year 1661, as given in the _DNB_. See also _The
+Observator_, May 17-20, 1704; July 8-12, 1704; and July 24-28, 1703. One
+of Tutchin's enemies charged that he was born in the north of England
+(_An Account of the Birth, Education, Life and Conversation of ... the
+Observator_, 1705); and another, that his father was "a Scot, canting
+Presbyterian Sot" (_The Picture of the Observator_, 1704).
+
+[3] _The Observator_, June 2-6, 1705. Tutchin stated, in _The Case,
+Trial, and Sentence_, that Judge Jeffreys had "a true Account" of his
+activities in Holland. See J. G. Muddiman, ed., _The Bloody Assizes_
+(Toronto, [1929]), p. 137.
+
+[4] Muddiman, pp. 136-37. _The Case, Trial, and Sentence_ is reprinted
+as a true record in T. B. Howell's _A Complete Collection of State
+Trials_ (London, 1812), XIV, 1195-200, but as a highly questionable
+document in Muddiman, pp. 137-46.
+
+[5] Muddiman, p. 219.
+
+[6] _The History of England_, ed. C. H. Firth (London, 1914), II, 639.
+Insofar as the _DNB_ article on Tutchin relies on Macaulay, it is
+erroneous.
+
+[7] Shortly after Tutchin's death, the Country-man of _The Observator_
+lauded his beloved master as "an Officer in the Army," and addressed him
+"Captain Tutchin," as did the mock _Elegy_ and the friendly Dunton.
+
+[8] Narcissus Luttrell, _A Brief Historical Relation of State Affairs_
+(Oxford, 1857), V, 257; _Manuscripts of the Marquis of Bath_ (H.M.C.,
+London, 1904), I, 105-06.
+
+[9] The authorship of the Calves-Head anthems is assigned to Tutchin in
+_The Reverse: or, the Tables Turn'd_ (1700), p. 7, and to both Tutchin
+and Benjamin Bridgwater in _The Examination, Tryal, and Condemnation of
+Rebellion Observator_ (1703), p. 17. See also Howard William Troyer,
+_Ned Ward of Grubstreet_ (Harvard University Press, 1946), pp. 110, 117.
+
+[10] _The Life and Errors of John Dunton_ (London, 1818), I, 356.
+
+[11] See _The Observator_, Jan. 4-8, 1707, and "Postscript"; Jan. 12-15,
+1707; and Sept. 20-24, 1707.
+
+[12] Pp. 12-13. See also _The Observator_, Sept. 27-Oct. 1, 1707, and
+William Bragg Ewald, _Rogues, Royalty, and Reporters_ (Boston, [1954]),
+p. 14.
+
+[13] For the two Oldham pieces, see _Poems of John Oldham_, introd.
+Bonamy Dobree (Southern Illinois University Press, [c. 1960]) pp. 50-54,
+72-79.
+
+[14] _The Diary of John Evelyn_, ed. E. S. de Beer, 6 vols. (Oxford,
+1955), V, 115; Luttrell, II, 565; W. Adolphe Roberts, _Jamaica: the
+Portrait of an Island_ (New York, [c. 1955]), pp. 44-45; and Mary
+Manning Carley, _Jamaica: the Old and the New_ (London, [c. 1963]), pp.
+34-36, 157-58.
+
+[15] Luttrell's entry for Aug. 13, 1692 (II, 539).
+
+[16] _Review_, IV (Sept. 7, 1706) and IV (Nov. 20, 1707).
+
+[17] Defoe's gloss on "_Piteous Satyr_" is "Satyr in Praise of Folly and
+Knavery." (_The True-Born Englishman_, 1700, p. 37.) Since he regards
+this as the title of the "_Satyr_ upon _Honesty_," Defoe may be
+confusing _A Pindarick Ode_ with Tutchin's next satire, _A Search after
+Honesty_ (1697).
+
+[18] _Mr. William Fuller's Letter to Mr. John Tutchin_ (1703), p. 7;
+Luttrell, V, 676, 683; _The Proceedings of the King's Commission of the
+Peace, and Oyer and Terminer and Goal Delivery of Newgate ... the 28th,
+29th, 30th and 31st Days of August 1700_.
+
+[19] "A Dialogue between a Dissenter and the Observator," in _A
+Collection of the Writings of the Author of the True-Born Englishman_
+(1703), p. 227.
+
+[20] II, 1-6, 7-46.
+
+
+       *       *       *       *       *
+
+
+[Illustration: Mr. JOHN TUTCHIN
+
+_Dy'd Septber 23d 1707. Aged 44._]
+
+
+       *       *       *       *       *
+
+
+
+
+POEMS
+
+ON
+
+Several Occasions.
+
+WITH A
+
+PASTORAL
+
+
+To which is Added, A
+
+DISCOURSE
+
+OF
+
+LIFE
+
+
+By _JOHN TUTCHIN_.
+
+
+_LONDON_,
+
+
+Printed by J. L. for _Jonathan Greenwood_, at the
+
+_Black Raven_ in the _Poultry_, near the
+
+_Old Jury_. MDCLXXXV.
+
+
+
+
+THE
+
+Tory Catch.
+
+
+I.
+
+  A Friend of mine, and I did follow
+  A Cart and Six, with Brandy fraught;
+  We sate us down, and up did swallow
+  Each a Gallon at a draught:
+  The sober Sot can't drink with us,
+  May kiss coy Wine with _Tantalus_.
+
+
+II.
+
+  With Musick fit for Serenading,
+  We did ramble to and fro;
+  Then to Drink and Masquerading,
+  'Till we cannot stand nor go;
+  One Leg by _Bacchus_ was quite lamed,
+  'Tother _Venus_ had defamed.
+
+
+III.
+
+  At the Tavern we did whisk it,
+  And full Pipes did empty drain:
+  We eat Pint-Pots instead of Bisket,
+  And piss'd 'em melted out again:
+  We beat the Vintner, kiss'd his Wife,
+  And kill'd three Drawers in the strife.
+
+
+IV.
+
+  In the Street we found some Bullies,
+  And to make our valour known,
+  We call'd 'em Fops, and silly Cullies,
+  And knock'd the foremost of 'em down:
+  And with praise to end the Fray,
+  We, like good Souldiers, ran away.
+
+
+V.
+
+  To the Play-House we descended,
+  For to get a grain of Wit,
+  Our own with Wine was so defended.
+  We sate spuing in the Pit,
+  'Mongst Drunken Lords and Whoring Ladies,
+  To see such sights whose only Trade is.
+
+
+
+
+A
+
+LETTER
+
+TO A
+
+FRIEND.
+
+
+  Thanks for your Praises! were they due, I wou'd
+  Pamper my self with Joy, and think 'em Good.
+  Loaden with Laurels for mine unknown Art,
+  You paint me Great, although beneath Desert.
+  But if _Macenas_ had a lasting Fame,
+  Because the best of Poets us'd his Name;
+  Then Merit justly may to me belong,
+  Because 'tis sung by your all-skilful Tongue.
+  Oft have I blam'd my Stars, that I should be
+  Plagu'd with this soft deluding _Poetry_:
+  This Charming _Mistress_ that has kept my Heart,
+  Quite from a Child, by her bewitching Art.
+  From her glad Fountain I can always find
+  A pleasing Philtre to make _Phillis_ kind:
+  For tell me that coy _Maid_ could ever be
+  Cruel, when urg'd by Charming _Poesie_?
+  _Verse_ is the _Poet's_ Beauty, Wealth and Wit;
+  And what soft _Virgin_ won't be won by it?
+  But, wearied with Delight, I always try
+  Against this Spell to find a Remedy.
+  By good _Divinity_ I think to find
+  A Soveraign Remedy for Soul and Mind:
+  But then, with Holy Flame, I strait do burn,
+  And all to _Hymns_, and _Sacred Anthems_ turn.
+  Nay, when the Night does waking Thoughts redress,
+  And Guardian Angels with our Souls converse,
+  To busie Mortals is the sleeping Time;
+  I dream and slumber all the Night in Rhyme.
+  Then puzling _Logick_ next I take in hand;
+  But this, Alas! can't _Poesie_ withstand.
+  _Barbara_, _Celarent_, I with Ease express,
+  And yoke rough _Ergo's_ into well-made _Verse_:
+  My Faithless Lover's _Syllogism_ tries;
+  I by stout _Logick_ find their _Fallacies_.
+  Then _Scheibler_, _Suarez_, _Bellarmine_ I get,
+  And sound the depth of _Metaphysick_ wit:
+  Streight, in a fret, I damn 'em all at once,
+  And vow they are as dull as _Zabarel_ or _Dunce_.
+    Credit me, _Sir_, no greater plague can be,
+  Than to be poison'd with mad _Poetrie_:
+  Like Pocky Letchers, who have got a Clap,
+  And paid the _Doctor_ for the dear mishap;
+  But newly eased of their nausceous pain,
+  Return unto their wanton Sin again.
+  So Poets be they plague'd with naughty Verse,
+  They never value good nor bad success:
+  Or be they trebly damn'd, they will prefer
+  Their next vile scribling to the _Theater_.
+  Well might the Audience, with their hisses, damn
+  The Bawdy Sot that late wrote _Limberham_:
+  But yet you see, the Stage he will command,
+  And hold the Laurel in's polluted Hand.
+  In slothful ease, a while I took delight,
+  And thought all Poets mad that us'd to write.
+  So long I kept from Verse, I thought I'd lost
+  My Versing Vein, and of my Fortune boast:
+  But having tryal made, I quickly found
+  My store renew'd, in numbers strong and sound
+  With ease my happy fancies come and go,
+  As Rivulets do from _Parnassus_ flow.
+  Then finding that in vain I long had try'd
+  The _Poet_ from the _Tutchin_ to divide;
+  I charming _Poesie_ make my delight,
+  And propagate the humor still to Write.
+    Our new Divines do alter not one jot,
+  From what their Tribe in older times have wrot;
+  Except, like _Parker_, to have something new,
+  They broach new Doctrines, either false or true:
+  _A Publick Conscience_, which for nought does pass,
+  But proves the Writer is a publick Ass;
+  Who the new Philosophick world have told,
+  Have for a new but varnish'd o're the old.
+  But all Poetick Phancy can't draw dry,
+  Th' unfathom'd Wells of deepest Poesie.
+  The _Bifront Hill_ is always stout and strong;
+  The _Muses_ still are handsome, always young.
+  The clearest streams of Chrystal _Helicon_
+  Do o're the Pebles in sweet Rhymings run.
+  Why then should you, _Dear Sir_, (that have pretence
+  To the extreamest bounds of Wit and Sense)
+  Lay by your Quills and hold your Tune-ful Tongue,
+  While all the witty want your pleasing Song?
+  Once more renew those Lays that gave delight,
+  That chear the Day, and glad the gloomy Night:
+  May with your dying breath your Verses end;
+  Thus prays your constant, and
+
+                                               _Your truest Friend_,
+                                                             _J. T._
+
+
+       *       *       *       *       *
+
+
+
+
+THE
+
+EARTH-QUAKE
+
+OF
+
+JAMAICA,
+
+Describ'd in a
+
+Pindarick Poem.
+
+
+By Mr. TUTCHIN.
+
+
+  _----namq; Diespiter
+  Igni corusco nubila dividens
+    Plerumq; per purum tonantes
+      Egit Equos volucremq; currum,
+  Quo bruta Tellus & vaga flumina,
+  Quo Styx, & invisi horrida Taenari
+      Sedes, Atlanteusq; finis
+        Concutitur. Valet ima summis
+  Mutare,----_
+
+                  Horat. lib. I. Ode 34.
+
+
+_LONDON_,
+
+Printed, and are to be sold by _R. Baldwin_, near the
+
+_Oxford-Arms_ in _Warwick-lane_, 1692.
+
+
+
+
+THE
+
+Earthquake of Jamaica
+
+Describ'd in a POEM.
+
+
+I.
+
+    Well may our Lives bear an uncertain date;
+      Disturb'd with Maladies within,
+    Without by cross Events of Fate,
+    The worst of Plagues on Mortals wait,
+      Pride, Ignorance and Sin.
+    If our ancient Mother Earth,
+    Who gave us all untimely Birth,
+    Such strong Hysterick Passion feels;
+    If Orbs are from their Axles torn,
+    And Mountains into Valleys worn,
+      All in a moments space,
+        Can humane Race
+    Stand on their Legs when Nature Reels?
+      Unhappy Man! in all things cross'd,
+      On every giddy Wave of Fortune toss'd;
+        The only thing that aims at Sway,
+    And yet capricious Fate must still Obey;
+      Travels for Wealth to Foreign Lands,
+    O're scorching Mountains, and o're desart Sands,
+      Laden with Gold, when homeward bound,
+  Is in one vast impetuous Billow drown'd:
+        Or if he reaches to the Shoar,
+        And there unlades his Oar,
+  Builds Towns and Houses which may last and stand,
+      Thinking no Wealth so sure as firm Land;
+      Yet Fate the Animal does still pursue;
+  This slides from underneath his Feet, and leaves him too.
+
+
+II.
+
+    Environ'd with Ten Thousand Fears we live,
+    For Fate do's seldom a just warning give;
+  Quicker than Thought its dire Resolves are made,
+      And swift as Lightning flies,
+      Around the vast extended Skies:
+  All things are by its Bolts in vast Confusion laid.
+    Sometimes a Flaming Comet does appear,
+    Whose very Visage does pronounce,
+    Decay of Kingdoms, and the Fall of Crowns,
+    Intestine War, or Pestilential Year;
+      Sometimes a Hurricane of Fate,
+      Does on some great Mans Exit wait,
+      A murder'd _Cornish_, or some _Hercules_,
+      When from their Trunks Almighty _Jove_,
+  Who breaks with Thunder weighty Clouds above,
+        To Honour these
+      Large Pines and Oaks does Lop,
+  And in a Whirlwind lays 'em upon _Oeta_'s Top.
+    E're this vast Orb shall unto Chaos turn,
+    And with Consuming Flames shall burn,
+    An Angel Trumpeter shall come,
+    Whose Noise shall shake the Massie Ground,
+    In one short moment shall express,
+    His Notes to the whole Universe;
+    The very Dead shall hear his Sound,
+      And from their Graves repair,
+    To the impartial Bar,
+  Those that have been in the deep Ocean drown'd,
+  Shall at his Call come to receive their Doom.
+
+
+III.
+
+      But here, alas! no Omens fly,
+      No secret Whisper of their Destiny
+      Was heard; none cou'd divine
+      When Fate wou'd spring the Mine:
+      Safe and secure the Mortals go,
+      Not dreaming of a Hell below;
+  In the dark Caverns of the gloomy Earth,
+  Where suffocating Sulphur has its Birth,
+    And sparkling Nitre's made,
+      Where _Vulcan_ and his _Cyclops_ prove;
+      The Thunderbolts they make for _Jove_;
+      Here _AEolus_ his Winds has laid,
+    Here is his Windy Palace, here 'tis said
+    His Race of little puffing Gods are bred,
+    Which serve for Bellows to blow up the Flame,
+    The dire ingredients are in order plac'd,
+    Which must anon lay Towns and Cities waste.
+  Strait the black Engineer of Heaven came,
+      His Match a Sun-beam was,
+  He swift as Time unto the Train did pass,
+  It soon took Fire; The Fire and Winds contend,
+  But both concur the Vaulted Earth to rend;
+  It upwards rose, and then it downwards fell,
+      Aiming at Heaven, it sunk to Hell:
+      The Neighb'ring Seas now own no more,
+      The sturdy Bulwarks of the Shoar,
+      The gaping Earth and greedy Sea,
+      Are both contending for the Prey;
+      Those whom the rav'nous Earth had ta'ne,
+      Into her Bowels back again
+  Are wash't from thence by the insulting Main.
+
+
+IV.
+
+  The Old and Young receive alike their Doom,
+      The Cowards and the Brave,
+      Are buried in one Grave;
+  For Fate allows 'em all one Common Tomb.
+      The Aged and the Wise
+  Lose all their Reason in the great Surprise.
+      They know not where to go,
+      And yet they dare not stay,
+      There's Fire and Smoak below,
+  And the Earth gaping to receive the Prey:
+      If to the Houses Top they Crawl,
+  These tumble too, and downwards fall:
+      And if they fly into the Street,
+      There grizly Death they meet;
+      All in a hurry dye away,
+      The wicked had not time to pray.
+  The Soldier once cou'd teach grim Death to kill,
+      In vain is all his Skill,
+      In vain he brandisheth his Steel:
+      No more the Art of War must teach,
+  But lyes Fates Trophy underneath the Breach:
+      The good Companions now no more Carouse,
+      They share the Fate of the declining House,
+      Healths to their Friends their Bumpers Crown'd:
+      But while they put the Glasses round,
+      Death steps between the Cup and lip,
+  Nor would it let 'em take one parting Sip.
+
+
+V.
+
+  The Mine is sprung, and a large Breach is made,
+  Whereat strong Troops of Warring Seas invade;
+        These overflow;
+    Where Houses stood and Grass did grow,
+        All sorts of Fish resort:
+  They had Dominions large enough before,
+      But now unbounded by the Shoar,
+      They o're the Tops of Houses sport.
+  The Watry Fry their Legions do extend,
+    And for the new slain Prey contend;
+    Within the Houses now they roam,
+  Into their Foe, the very Kitchen, come.
+    One does the Chimney-hearth assail,
+  Another slaps the Kettle with his slimy Tail.
+      No Image there of Death is seen,
+      No Cook-maid does obstruct their Sway,
+      They have entirely got the day.
+      Those who have once devour'd been
+      By Mankind, now on Man do Feed:
+      Thus Fate decides, and steps between,
+  And sometimes gives the Slave the Victors meed.
+  The Beauteous Virgins whom the Gods might love,
+      Cou'd not the Curse of Heav'n remove;
+      Their goodness might for Crimes Atone,
+        Inexorable Death spares none.
+  Their tender Flesh lately so plump and good,
+  Is now made Fishes and Sea-monsters Food;
+        In vain they cry,
+  Heav'n is grown Deaf, and no Petition hears,
+  Their Sighs are answer'd like their Lovers Pray'rs,
+        They in the Universal Ruin lye.
+
+
+VI.
+
+  Nor is inexorable Fate content
+  To ruine one poor Town alone;
+  More Mischief by the Blow is done:
+  Death's on a farther Message sent.
+  When Fate a Garrison does Sack,
+  The very Suburbs do partake
+      Of Martial Law,
+      Its Forces draw
+  To every Mountain, Field and Wood,
+  They Ravage all the Neighbourhood.
+  Worse than the weak Assaults of Steel,
+  Its Instruments of Death all places feel.
+  They undiscover'd, like fell Poison kill,
+      Its Warriours fierce,
+  The Earth, the Air, and Men do pierce;
+  And mounted, fight upon the winged Winds.
+  Here a great Mountain in a Valley's thrown,
+  And there a Valley to a Mountain grown.
+  The very Breath of an incensed God,
+  Makes even proud _Olympus_ Nod.
+  Chang'd is the Beauty of the fruitful Isle,
+  And its fair Woods lopp'd for its Funeral Pile.
+  The moving Earth forms it self in Waves,
+  And Curls its Surface like the Rowling Seas;
+  Whilst Man (that little thing) so vainly Raves,
+  Nothing but Heaven can its own Wrath appease.
+
+
+VII.
+
+  But Fate at length thought fit to leave its Toil,
+  And greedy Death was glutted with the Spoil.
+  As weary Soldiers having try'd their Steel,
+  Half drown'd with Blood, do then desist to kill.
+      More Ruin wou'd a second Deluge make,
+      Blot out the Name of the unhappy Isle.
+  It fares with her as when in Martial Field,
+  Resolv'd and Brave, and loath to yield,
+      Two num'rous Armies do contend,
+  And with repeated Shouts the Air do Rend.
+  Whilst the affrighted Earth does shake,
+  Some large Battalions are entirely lost,
+  And Warring Squadrons from the mighty Host:
+        Here by a Shot does fall
+        Some Potent General;
+          And near to him,
+      Another loses but a Limb.
+  Part of the Island was a Prey to Fate,
+  And all the rest do's but prolong its date,
+        'Till injur'd Heav'n finds,
+  Its Bolts a Terror strike on humane Minds;
+  Sure we may hope the Sinners there Repent,
+  Since it has made their lewdest Priest Relent.
+
+
+FINIS.
+
+
+       *       *       *       *       *
+
+
+
+
+A
+
+Pindarick ODE,
+
+IN THE
+
+PRAISE
+
+OF
+
+Folly and Knavery.
+
+
+By Mr. _TUTCHIN_.
+
+
+_LONDON_,
+
+Printed and Sold by _E. W._ near _Stationers-Hall_.
+
+1696. Price 6_d._
+
+
+
+
+A
+
+Pindarick ODE
+
+In the Praise of
+
+Folly and Knavery.
+
+
+I.
+
+    My humble Muse no Hero Sings,
+    Nor Acts, nor Funerals of Kings:
+    The great _Maria_ now no more,
+    In Sable Lines she does deplore;
+    Of mighty _William_'s growing fame,
+    At present must forget the name,
+  Yet she affects something that is sublime,
+    And would in _Dytherambick_ strain              }
+    Attempt to rise, and now disdain                }
+    The Shrubs and Furzes of the Plain:             }
+  He that's afraid to fall, shou'd ne'r pretend to climb.
+
+
+II.
+
+    Let others boast of potent Wit,
+    And Summon in the awful _Nine_,
+    With all their Aids of Fancy, Humor, Sence,
+    Fair polish'd Learning, Eloquence,
+    And call their gawdy works Divine:
+    Hov'ring above my Head let _dullness_ sit,
+    The only God that's worshipp'd by the Age;
+    Immortal _Nonsence_ guide my Pen,
+    The Fames of _Shakespear_ and of _Ben_,
+    Must warp, before my nobler fire
+    To their regardless Tombs retire.
+    Thus Arm'd, with Nonsence, I'll engage
+      Both _Universities_,
+    And their Pedantick fooleries,
+    Show the misguided World the Cheat,
+  And let _Man_ know that _Nonsence_ makes him Great.
+
+
+III.
+
+    Almighty _Folly_! How shall I thy praise
+    To Human Understandings raise?
+        What shall I do
+        Thy worth to shew?
+    The Glorious Sun, that rules the Day,
+    Gives vital warmth and life by ev'ry Ray.
+      His Blessings he in common grants,
+      To Hemlock as to nobler Plants;
+      Thy Virtue thou dost circumscribe,
+        And dost dispence
+        Thy influence,
+      But to the Darlings of thy Tribe,
+        Thou Wealth and Honour dost bestow
+        On thy triumphant _Fools_,
+      Whilst abject Sence do's barefoot go;
+  So weak's the Learning of the noisie Schools.
+
+
+IV.
+
+  Tell me, ye Learned Sots! who spend your time
+      In reading Books,
+    With thoughtful Heads and meagre Looks,
+      To Learnings Pinacle, who climb
+      Through the wild Briers of _Philosophy_,
+      The Thorns of harsh _Philology_,
+    The dirty Road where _Aristotle_ went
+      Encumber'd with a thousand _terms_
+        Uncouth, Unintelligible,
+        Not by any fancy fathomable,
+      Bringing distracted Minds to harms;
+    The rankest _Hellebore_ cannot prevent.
+      Tell me, I say, ye Learn'd Sots!
+    Did e'r the old or new Philosophy,
+    Make a Man splendid live, or wealthy die?
+  Tho' you may think your Notions truer,
+      They'll ne'r advance your Lotts,
+  To the Estate of Wise Sir _Jonathan_ the Brewer.
+
+
+V.
+
+      A _Fool_! Heav'ns bless the charming Name,
+        So much admir'd in Ages past,
+      As long as this, and all the World shall last,
+    Shall be the Subject of Triumphing Fame.
+  A _Fool_! what mighty wonders has he wrought?
+        What mighty Actions done?
+        Obey'd by all, controul'd by none;
+  Even _Love_ its self is to its Footstool brought.
+    For t'other day, I met amidst the Throng
+    A Lady wealthy, beautiful and young;
+    _Madam_, said I, I wish you double Joy,
+    Of a ripe Husband and a budding Boy,
+    And with my self a sight of him you Wed,        }
+    The happy Part'ner of your Bridal Bed.          }
+    Sir, she reply'd, I him in Wedlock had;         }
+    Pointing unto an Image by her side,
+    An odder Figure no Man e'r espy'd,
+    Long was his Chin, and carotty his Beard,
+    His Eyes sunk in, and high his Nose was rear'd,
+    A nauseous ugliness possess'd the Tool,
+    And scarce had Wit enough to be a Fool:
+    Bless me (thought I) if Fools such fortune get,
+    Then who (the Devil) wou'd be plagu'd with wit.
+
+
+VI.
+
+  View but the Realms of _Nonsence_, see the State,
+      The Pageant pomp attends the show,
+  When the great God of _Dullness_ does in triumph go,
+      How splendid and how great
+    His num'rous Train of Blockheads do appear?
+      Almighty _Jove_,
+      That governs all above,
+  Is but a puny to this Mighty God,
+    The blustring God of War,
+    Who with one Nod
+  Makes the Earth tremble from afar,
+  Guarded with puissant Champions stern and bold
+  That breath Destruction, talk of bloody Jars,
+  Have nought but ragged Cloaths to keep off cold,
+  And tatter'd Ensigns relicks of the Wars.
+  The God of _Dullness_ mounted on his Throne
+      Beneath a Canopy
+      Of fix'd stupidity,
+  Prostrate his num'rous Subjects tumble down,
+      They pay obeisance to their gloomy God,
+      And at his Nod
+        They act, they move,
+        They hate, they love,
+      They bless, they curse, they swear,
+      For they his Creatures are,
+    He amply does his Benefits afford,
+  For each confirmed Blockhead is a Lord.
+
+
+VII.
+
+    Then talk no more of Parts and Sence,
+    For Riches ne'r attend the Wise,
+    Have you to dullness no pretence,
+    You shall to Grandeur never rise;
+    He with a gloomy mien Divinely dull,
+  Whose very aspect tells the World he is a Fool,
+      Whose thicker Skull
+    Is proof against each storm of Fate,
+  Is Born for Glory, and he shall be Great.
+      Who 'ere wou'd rise,
+      Or great Preferment get,
+      Must nere pretend to Wit,
+    Or be that monstrous, ill shap'd Man call'd Wise;
+      He must not boast
+    Of Learning's Value, or its cost;
+    But, if he wou'd Preferment have,
+  He must be much a _Fool_, or much a _Knave_.
+
+
+VIII.
+
+    A _Knave_! the finer Creature far,
+    Tho' of the foolish Race of _Issachar_.
+  As the unwieldy _Bear_ among her young
+      Deform'd, and shapeless Cubs,
+      Finds one more strong,
+      Active and sprightly than the rest:
+      Him she transforms and rubs,
+      And licks into a better shape the Beast.
+  Thus do's the gloomy God of Folly do,
+      With the insipid Race:
+    He do's his num'rous Offspring call,            }
+    He handles one and feels his Skull;             }
+    If it be thick, he says, Be thou a Fool.        }
+    Another, if about his Face
+    He spies a roguish Mein, a cunning Look;
+    If there appears
+  The hopes of Falshood in his tender Years,
+      Good signs of Perjury
+      And hardn'd Villany;
+  This for his secret Councils he do's save,
+  Lays on his Paw, and bids him, Be a _Knave_.
+
+
+IX.
+
+  A _Knave_! the elder brother to the _Fool_:
+    His vast Dominions are no less
+    Than the whole Universe:
+    The Lands are bounded by the Sea:
+    The Seas the sturdy Rocks obey:
+  The Storms do know the Limits of their Rule:
+    Neither the Land nor Sea this Hero bind,
+      But unconfin'd
+      O're both he finds a way,
+    O're both he bears Imperial sway:
+      His gay Attendants are the Cheat,
+      That ruines Kingdoms to be Great.
+      The fawning, flattring Fop, who creeps
+      Just like a Spaniel at your Heels,
+      To some illustrious Knave, who sweeps
+      Away a Kingdoms Wealth at once,
+      And with the Publick Coin his Treasure fills;
+  For Kingdoms work t'enrich the _Knave_ and _Dunce_.
+
+
+X.
+
+    Honesty's a Garb we're mock'd in,
+      Only wore by _Jews_ and _Turks_.
+    Merit is a Popish Doctrine;
+      Men have no regard to Works.
+  Substantial Knavery is a Vertue will
+        Your Coffers fill;
+        And Altars raise,
+        Unto your Praise.
+  Be but a Knave, you'll keep the World in awe,
+        And fear no Law;
+        For no Transgression is,
+        Where all Men do amiss.
+  But here methinks an antiquated _Hero_ starts,
+        Surpris'd at my Discourse;
+        He starts and boggles like a Horse,
+        And damns our modern Knavish Arts.
+
+
+XI.
+
+    Vain _Youth_, he says misguided by a _Knave_,
+    By some dull Blockhead tempted from thy rest;
+    The worldly Grandeur thou dost vainly crave,
+    Is nought but Noise and Foolishness at best.
+        What Man wou'd quit his Sense,
+  Or, the wise Dictates of right Reason's Rule,
+        In vain pretence
+    To be a rich, a gawdy _Fool_?
+  Or, quit his Honesty, so much despis'd,
+        And basely condescend,
+        To every little Knavish End;
+        Run headlong into every Cheat,
+  Attempt each Villany to make him Great.
+  Believe me Youth, (be better now advis'd)
+      Thy early Vertues will thy Temples spread,    }
+        With lasting Lawrels 'round thy Head.       }
+      Shall flourish when the Wearers dead.         }
+  I who have always honest been, though poor,
+  In whom the utmost signs of Age appears,
+  And sink beneath the Burthen of my Years,
+          Cou'd never yet adore
+  A Knave or Blockhead, were he ne'er so Great;
+  Or, be like to them, to purchase an Estate.
+
+
+XII.
+
+  Poor thredbare _Vertue_ ne'er admir'd in Court,
+  But seeks its Refuge in an honest Mind,
+      There it securely dwells,
+      Like _Anchorets_ in Cells,
+  Where no Ambition nor wild Lust resorts:
+  To love our Country is indeed our Pride;
+  We glory in an honest Action done;
+      When the Reward is laid aside
+      The Glory and the Action is our own,
+        We seldom find
+      The Good, the Just, the Brave,
+      Have their Reward
+      From Princes they did save
+  From dire Destruction, or a poisoning Foe;
+        They let them go
+      Contemn'd, disdain'd; and most regard
+      Those Villians sought their overthrow.
+      As if the Just, the Brave, the Good,
+      Were but a _Bridge_ of Wood
+    To waft to great Preferments o'er,
+      Those, who were our foes before,
+  And then be tumbl'd down like useless Logs,
+      While those, who just pass'd o'er,
+    And the obliging Bridge shou'd thank,
+    Do scornfully stand grinning on the Bank,
+      To see the venerable Ruines float
+      Adrift upon the Stream,
+        Contemn'd by them,
+  Who give the Childrens Bread unto the Dogs;
+      _In vain_, says he, _we've fought_----
+        But at this Word
+  He fiercely look'd, and then he grasp'd his Sword.
+
+
+XIII.
+
+  Pity it is, he said, this Sword of mine,
+    Of late so gloriously did shine,
+    In Foreign Fields 'midst Show'rs of Blood,
+    With which I've cut my Passage through
+    The Snowy _Alps_ and _Pyrenean_ Hills,
+  Where Death the Land with vast Destruction fills,
+      'Mongst Warriors, who
+  Venture their Lives for their dear Countries good,
+      Should now be laid aside
+    'Mongst Rubbish Iron old,
+    From reaking Blood scarce cold;
+    Or else converted to a _Knife_,
+    For some damn'd Villain first to cut
+    A Princes Bread, and next his Throat:
+  In vain we venture to preserve his Life,
+    In vain to Foreign Fields we come,
+    In vain to Foreign Force alli'd,
+    If a nefarious Brood at Home
+      Embarrass his Affairs,
+      Prolong the Wars,
+    Only t' enrich his Enemies,
+  Weaken his Government, and his Allies.
+
+
+XIV.
+
+  'Tis strange a Prince, shou'd ere a _Fool_ preferr,
+        To be an Officer!
+  A _Knave_ may serve an unjust Government,
+        But ne'er prevent
+    Those Mischiefs may attend the just:
+        For who would trust
+    A Villain may be bought by Gold,
+  Unless design'd on purpose to be sold?
+  If Princes wou'd use _Fools_ as Shop-men do
+        Their Signs or Boards of show,
+    To tell the passers by there's better stuff
+    Within, 'tis rational enough.
+      But to set Centry at the Door,                }
+      A Patriot or a Senator,                       }
+      Philosopher or Orator,                        }
+    To tell the Passers by their is within,
+      A _Merry Andrew_ to be seen,
+      Is very much ridiculous,
+    Tho' to our grief we often find it thus.
+        Thus Princes Bastardize
+      Their Countries Sons Legitimate,
+      And give the fair Estate
+      Unto a Spurious Brood,
+    That ne'er did good;
+  The honest Work, the _Knave_ enjoys the Prize.
+
+
+XV.
+
+      A Government adorn'd with Fools,
+      Empty Trifles, useless Tools,
+  Looks like a Toy-Shop gloriously bedeckt
+      With gawdy gewgaws, Childrens play things,
+      Painted Babies, Tinsel Creatures,
+      Wooden Folk, with Human features,
+    Made just for show, and no advantage brings,
+      And prove of no effect.
+      It dwindles to a _Raree-Show_,
+      In which no Man must act a Part
+      But the dull _Blockhead_ and the _Beau_,
+      The huffing _Fop_ without a Heart;
+    What Wise Man would a Journey take
+    On a dull Steed has broke his Back?
+      Or have recourse
+      Unto a _Hobby-Horse_?
+    Those act by such wise Rules,
+  Who prop Just Princes by a Tyrant's Tools.
+
+
+XVI.
+
+    Surely the Genius of a fruitful Isle
+        Is either lost,
+        Or what is worst,
+    Murder'd by those who shou'd support her Fame,
+        Add Glory to her Name;
+    The Heavens themselves have cast an angry look,
+        Seldom the Glorious Sun does shine
+        But Veils its face Divine.
+    _Jove_ does misguide the Seasons every Year;
+        Nought can we read in Nature's Book,
+    To reap her Fruits scarce worth our while.
+          Our Mother Earth,
+        From whose unhappy Womb,
+          We Mortals come,
+        Ne'er shows a Glorious Birth,
+    But proves abortive as our Actions are;
+        Nought have we left but hope,
+      Just like the Blind at Noon we grope:
+  The number of our Sins we must fulfil,
+  And if we're sav'd, it is against our will.
+
+
+_FINIS._
+
+
+       *       *       *       *       *
+
+
+
+
+THE
+
+FOREIGNERS.
+
+A
+
+POEM.
+
+
+PART I.
+
+
+_LONDON_,
+
+Printed for _A. Baldwin_ in _Warwicklane_,
+
+MDCC.
+
+
+
+
+The Foreigners.
+
+
+  Long time had _Israel_ been disus'd from Rest,
+  Long had they been by Tyrants sore opprest;
+  Kings of all sorts they ignorantly crav'd,
+  And grew more stupid as they were enslav'd;
+  Yet want of Grace they impiously disown'd,
+  And still like Slaves beneath the Burden groan'd:
+  With languid Eyes their Race of Kings they view,
+  The Bad too many, and the Good too few;
+  Some rob'd their Houses, and destroy'd their Lives,
+  Ravish'd their Daughters, and debauch'd their Wives;
+  Prophan'd the Altars with polluted Loves,
+  And worship'd Idols in the Woods and Groves.
+
+    To Foreign Nations next they have recourse;
+  Striving to mend, they made their State much worse.
+  They first from _Hebron_ all their Plagues did bring,
+  Cramm'd in the Single Person of a King;
+  From whose base Loins ten thousand Evils flow,
+  Which by Succession they must undergo.
+  Yet sense of Native Freedom still remains,
+  They fret and grumble underneath their Chains;
+  Incens'd, enrag'd, their Passion do's arise,
+  Till at his Palace-Gate their Monarch dies.
+  This Glorious Feat was by the Fathers done,
+  Whose Children next depos'd his Tyrant Son,
+  Made him, like _Cain_, a murd'rous Wanderer,
+  Both of his Crimes, and of his Fortunes share.
+
+    But still resolv'd to split on Foreign Shelves,
+  Rather than venture once to trust Themselves,
+  To Foreign Courts and Councils do resort,
+  To find a King their Freedoms to support:
+  Of one for mighty Actions fam'd they're told,
+  Profoundly wise, and desperately bold,
+  Skilful in War, Successful still in Fight,
+  Had vanquish'd Hosts, and Armies put to flight;
+  And when the Storms of War and Battels cease,
+  Knew well to steer the Ship of State in Peace.
+  Him they approve, approaching to their sight;
+  Lov'd by the Gods, of Mankind the Delight.
+  The numerous Tribes resort to see him land,
+  Cover the Beach, and blacken all the Strand;
+  With loud Huzza's they welcome him on shore,
+  And for their Blessing do the Gods implore.
+
+    The Sanhedrim conven'd, at length debate
+  The sad Condition of their drooping State,
+  And Sinking Church, just ready now to drown;
+  And with one Shout they do the Hero crown.
+
+    Ah Happy _Israel_! had there never come
+  Into his Councils crafty Knaves at home,
+  In combination with a Foreign Brood,
+  Sworn Foes to _Israel_'s Rights and _Israel_'s Good;
+  Who impiously foment Intestine Jars,
+  Exhaust our Treasure, and prolong our Wars;
+  Make _Israel_'s People to themselves a prey,
+  Mislead their King, and steal his Heart away:
+  United Intrests thus they do divide,
+  The State declines by Avarice and Pride;
+  Like Beasts of Prey they ravage all the Land,
+  Acquire Preferments, and usurp Command:
+  The Foreign Inmates the Housekeepers spoil,
+  And drain the Moisture of our fruitful Soil.
+  If to our Monarch there are Honours due,
+  Yet what with _Gibeonites_ have we to do?
+  When Foreign States employ 'em for their Food,
+  To draw their Water, and to hew their Wood.
+  What Mushroom Honours dos our Soil afford!
+  One day a Begger, and the next a Lord.
+  What dastard Souls do _Jewish_ Nobles wear!
+  The Commons such Affronts would never bear.
+  Let no Historian the sad Stories tell
+  Of thy base Sons, Oh servile _Israel_!
+  But thou, my Muse, more generous and brave,
+  Shalt their black Crimes from dark oblivion save;
+  To future Ages shalt their Sins disclose,
+  And brand with Infamy thy Nation's Foes.
+
+    A Country lies, due East from _Judah_'s Shoar,
+  Where stormy Winds and noisy Billows roar;
+  A Land much differing from all other Soils,
+  Forc'd from the Sea, and buttress'd up with Piles.
+  No marble Quarrys bind the spungy Ground,
+  But Loads of Sand and Cockle-shells are found:
+  Its Natives void of Honesty and Grace,
+  A Boorish, rude, and an inhumane Race;
+  From Nature's Excrement their Life is drawn,
+  Are born in Bogs, and nourish'd up from Spawn.
+  Their hard-smoak'd Beef is their continual Meat,
+  Which they with Rusk, their luscious Manna, eat;
+  Such Food with their chill stomachs best agrees,
+  They sing _Hosannah_ to a Mare's-milk Cheese.
+  To supplicate no God, their Lips will move,
+  Who speaks in Thunder like Almighty _Jove_,
+  But watry Deities they do invoke,
+  Who from the Marshes most Divinely croak.
+  Their Land, as if asham'd their Crimes to see,
+  Dives down beneath the surface of the Sea.
+  _Neptune_, the God who do's the Seas command,
+  Ne'er stands on Tip-toe to descry their Land;
+  But seated on a Billow of the Sea,
+  With Ease their humble Marshes do's survey.
+  These are the Vermin do our State molest;
+  Eclipse our Glory, and disturb our Rest.
+
+    _BENTIR_ in the Inglorious Roll the first,
+  _Bentir_ to this and future Ages curst,
+  Of mean Descent, yet insolently proud,
+  Shun'd by the Great, and hated by the Crowd;
+  Who neither Blood nor Parentage can boast,
+  And what he got the _Jewish_ Nation lost:
+  By lavish Grants whole Provinces he gains,
+  Made forfeit by the _Jewish_ Peoples Pains;
+  Till angry Sanhedrims such Grants resume,
+  And from the Peacock take each borrow'd Plume.
+  Why should the _Gibeonites_ our Land engross,
+  And aggrandize their Fortunes with our loss?
+  Let them in foreign States proudly command,
+  They have no Portion in the Promis'd Land,
+  Which immemorially has been decreed
+  To be the Birth-right of the _Jewish_ Seed.
+  How ill do's _Bentir_ in the Head appear          }
+  Of Warriours, who do _Jewish_ Ensigns bear?       }
+  By such we're grown e'en Scandalous in War.       }
+  Our Fathers Trophies wore, and oft could tell
+  How by their Swords the mighty Thousands fell;
+  What mighty Deeds our Grandfathers had done,
+  What Battels fought, what Wreaths of Honour won:
+  Thro the extended Orb they purchas'd Fame,
+  The Nations trembling at their Awful Name:
+  Such wondrous Heroes our Fore-fathers were,
+  When we, base Souls! but Pigmies are in War:
+  By Foreign Chieftains we improve in Skill;
+  We learn how to intrench, not how to kill:
+  For all our Charge are good Proficients made
+  In using both the Pickax and the Spade.
+  But in what Field have we a Conquest wrought?
+  In Ten Years War what Battel have we fought?
+
+    If we a Foreign Slave may use in War,
+  Yet why in Council should that Slave appear?
+  If we with _Jewish_ Treasure make him great,
+  Must it be done to undermine the State?
+  Where are the Antient Sages of Renown?            }
+  No _Magi_ left, fit to advise the Crown?          }
+  Must we by Foreign Councils be undone?            }
+  Unhappy _Israel_, who such Measures takes,
+  And seeks for Statesmen in the Bogs and Lakes;
+  Who speak the Language of most abject Slaves,
+  Under the Conduct of our _Jewish_ Knaves.
+  Our _Hebrew_'s murder'd in their hoarser Throats;
+  How ill their Tongues agree with _Jewish Notes_!
+  Their untun'd Prattle do's our Sense confound,
+  Which in our Princely Palaces do's sound;
+  The self-same Language the old Serpent spoke,
+  When misbelieving _Eve_ the Apple took:
+  Of our first Mother why are we asham'd,
+  When by the self-same Rhetorick we are damn'd?
+
+    But _Bentir_, not Content with such Command,
+  To canton out the _Jewish_ Nation's Land;
+  He do's extend to Other Coasts his Pride,
+  And other Kingdoms into Parts divide:
+  Unhappy _Hiram_! dismal is thy Song;
+  Tho born to Empire, thou art ever young!
+  Ever in Nonage, canst no Right transfer:
+  But who made _Bentir_ thy Executor?
+  What mighty Power do's _Israel_'s Land afford?    }
+  What Power has made the famous _Bentir_ Lord?     }
+  The Peoples Voice, and _Sanhedrim_'s Accord.      }
+  Are not the Rights of People still the same?
+  Did they e'er differ in or Place or Name?
+  Have not Mankind on equal Terms still stood,
+  Without Distinction, since the mighty Flood?
+  And have not _Hiram_'s Subjects a free Choice
+  To chuse a King by their united Voice?
+  If _Israel_'s People cou'd a Monarch chuse,
+  A living King at the same time refuse;
+  That _Hiram_'s People, shall it e'er be said,
+  Have not the Right of Choice when he is dead?
+  When no Successor to the Crown's in sight,
+  The Crown is certainly the Peoples Right.
+  If Kings are made the People to enthral,
+  We had much better have no King at all:
+  But Kings, appointed for the Common Good,
+  Always as Guardians to their People stood.
+  And Heaven allows the People sure a Power
+  To chuse such Kings as shall not them devour:
+  They know full well what best will serve themselves,
+  How to avoid the dang'rous Rocks and Shelves.
+
+    Unthinking _Israel_! Ah henceforth beware
+  How you entrust this faithless Wanderer!
+  He who another Kingdom can divide,                }
+  May set your Constitution soon aside,             }
+  And o'er your Liberties in Triumph ride.          }
+  Support your Rightful Monarch and his Crown,
+  But pull this proud, this croaking Mortal down.
+
+    Proceed, my Muse; the Story next relate
+  Of _Keppech_ the Imperious Chit of State,
+  Mounted to Grandeur by the usual Course
+  Of Whoring, Pimping, or a Crime that's worse;
+  Of Foreign Birth, and undescended too,
+  Yet he, like _Bentir_, mighty Feats can do.
+  He robs our Treasure, to augment his State,
+  And _Jewish_ Nobles on his Fortunes wait:
+  Our ravish'd Honours on his Shoulder wears,
+  And Titles from our Antient Rolls he tears.
+  Was e'er a prudent People thus befool'd,
+  By upstart Foreigners thus basely gull'd?
+  Ye _Jewish_ Nobles, boast no more your Race,
+  Or sacred Badges did your Fathers grace!
+  In vain is Blood, or Parentages, when
+  Ribbons and Garters can ennoble Men.
+  To Chivalry you need have no recourse,
+  The gawdy Trappings make the Ass a Horse.
+  No more, no more your Antient Honours own,
+  By slavish _Gibeonites_ you are outdone:
+  Or else your Antient Courage reassume,
+  And to assert your Honours once presume;
+  From off their Heads your ravish'd Lawrels tear,
+  And let them know what _Jewish_ Nobles are.
+
+
+_THE END._
+
+
+       *       *       *       *       *
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+
+University of California, Los Angeles
+
+
+PUBLICATIONS IN PRINT
+
+
+1948-1949
+
+     16. Nevil Payne, _Fatal Jealousy_ (1673).
+
+     17. Nicholas Rowe, _Some Account of the Life of Mr. William
+     Shakespeare_ (1709).
+
+     18. "Of Genius," in _The Occasional Paper_, Vol. III, No. 10
+     (1719); and Aaron Hill's Preface to _The Creation_ (1720).
+
+
+1949-1950
+
+     22. Samuel Johnson, _The Vanity of Human Wishes_ (1749) and two
+     _Rambler_ papers (1750).
+
+     23. John Dryden, _His Majesties Declaration Defended_ (1681).
+
+
+1950-1951
+
+     26. Charles Macklin, _The Man of the World_ (1792).
+
+
+1951-52
+
+     31. Thomas Gray, _An Elegy Wrote in a Country Churchyard_ (1751);
+     and _The Eton College Manuscript_.
+
+
+1952-1953
+
+     41. Bernard Mandeville, _A Letter to Dion_ (1732).
+
+
+1954-1955
+
+     49. Two St. Cecilia's Day Sermons (1696, 1697).
+
+     52. Pappity Stampoy, _A Collection of Scotch Proverbs_ (1663).
+
+
+1958-1959
+
+     75. John Joyne, _A Journal_ (1679).
+
+     76. Andre Dacier, _Preface to Aristotle's Art of Poetry_ (1705).
+
+
+1959-1960
+
+     80. [P. Whalley], _An Essay on the Manner of Writing History_
+     (1746).
+
+     83. _Sawney and Colley_ (1742) and other Pope Pamphlets.
+
+     84. Richard Savage, _An Author to be lett_ (1729).
+
+
+1960-1961
+
+     85-6. _Essays on the Theatre from Eighteenth-Century Periodicals._
+
+     90. Henry Needier, _Works_ (1728).
+
+
+1961-1962
+
+     93. John Norris, _Cursory Reflections Upon a Book Call'd, An Essay
+     Concerning Human Understanding_ (1690).
+
+     94. An. Collins, _Divine Songs and Meditacions_ (1653).
+
+     95. _An Essay on the New Species of Writing Founded by Mr.
+     Fielding_ (1751).
+
+     96. _Hanoverian Ballads._
+
+
+1962-1963
+
+     97. Myles Davies, Selections from _Athenae Britannicae_
+     (1716-1719).
+
+     98. _Select Hymns Taken Out of Mr. Herbert's Temple_ (1697).
+
+     99. Thomas Augustine Arne, _Artaxerxes_ (1761).
+
+     100. Simon Patrick, _A Brief Account of the New Sect of Latitude
+     Men_ (1662).
+
+     101-2. Richard Hurd, _Letters on Chivalry and Romance_ (1762).
+
+
+1963-1964
+
+     103. Samuel Richardson, _Clarissa_: Preface, Hints of Prefaces,
+     and Postscript.
+
+     104. Thomas D'Urfey, _Wonders in the Sun, or, the Kingdom of the
+     Birds_ (1706).
+
+     105. Bernard Mandeville, _An Enquiry into the Causes of the
+     Frequent Executions at Tyburn_ (1725).
+
+     106. Daniel Defoe, _A Brief History of the Poor Palatine Refugees_
+     (1709).
+
+     107-8. John Oldmixon, _An Essay on Criticism_ (1728).
+
+
+
+
+William Andrews Clark Memorial Library: University of California,
+Los Angeles
+
+THE AUGUSTAN REPRINT SOCIETY
+
+
+GENERAL EDITORS
+
+  EARL MINER
+    University of California, Los Angeles
+
+  MAXIMILLIAN E. NOVAK
+    University of California, Los Angeles
+
+  LAWRENCE CLARK POWELL
+    Wm. Andrews Clark Memorial Library
+
+  _Corresponding Secretary:_
+    Mrs. Edna C. Davis, Wm. Andrews Clark Memorial Library
+
+
+The Society's purpose is to publish reprints (usually facsimile
+reproductions) of rare seventeenth and eighteenth century works. All
+income of the Society is devoted to defraying costs of publication and
+mailing.
+
+Correspondence concerning subscriptions in the United States and Canada
+should be addressed to the William Andrews Clark Memorial Library, 2205
+West Adams Boulevard, Los Angeles, California. Correspondence concerning
+editorial matters may be addressed to any of the general editors. The
+membership fee is $5.00 a year for subscribers in the United States and
+Canada and 30/- for subscribers in Great Britain and Europe. British and
+European subscribers should address B. H. Blackwell, Broad Street,
+Oxford, England. Copies of back issues in print may be obtained from the
+Corresponding Secretary.
+
+
+PUBLICATIONS FOR 1964-1965
+
+  JOHN TUTCHIN, _Selected Poems_ (1685-1700). Introduction by Spiro
+    Peterson.
+
+  SIR WILLIAM TEMPLE, _An Essay upon the Original and Nature of
+    Government_ (1680). Introduction by Robert C. Steensma.
+
+  T. R., _An Essay Concerning Critical and Curious Learning_ (1698).
+    Introduction by Curt A. Zimansky.
+
+  ANONYMOUS, _Political Justice. A Poem_ (1736). Introduction by
+    Burton R. Pollin and John W. Wilkes.
+
+  _Two Poems Against Pope_: LEONARD WELSTED, _One Epistle to Mr. A.
+    Pope_ (1730); ANONYMOUS, _The Blatant Beast_ (1740). Introduction
+    by Joseph V. Guerinot.
+
+  ROBERT DODSLEY, _An Essay on Fable_ (1764). Introduction by Jeanne
+    K. Welcher and Richard Dircks.
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+William Andrews Clark Memorial Library
+
+2905 WEST ADAMS BOULEVARD, LOS ANGELES, CALIFORNIA  90018
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA.
+
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK SELECTED POEMS (1685-1700) ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

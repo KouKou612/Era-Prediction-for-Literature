@@ -1,0 +1,2660 @@
+Produced by Chris Curnow, Hazel Batey, Joseph Cooper and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+  THE AUGUSTAN REPRINT SOCIETY
+
+      SIR ROGER L'ESTRANGE
+
+        CITT AND BUMPKIN
+             (1680)
+
+         _INTRODUCTION_
+               BY
+           B. J. RAHN
+
+         [Illustration]
+
+      PUBLICATION NUMBER 117
+  WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+  UNIVERSITY OF CALIFORNIA, LOS ANGELES
+             1965
+
+GENERAL EDITORS
+
+Earl Miner, _University of California, Angeles_
+
+Maximillian E. Novak, _University of California, Los Angeles_
+
+Lawrence Clark Powell, _Wm. Andrews Clark Memorial Library_
+
+ADVISORY EDITORS
+
+Richard C. Boys, _University of Michigan_
+
+John Butt, _University of Edinburgh_
+
+James L. Clifford, _Columbia University_
+
+Ralph Cohen, _University of California, Los Angeles_
+
+Vinton A. Dearing, _University of California, Los Angeles_
+
+Arthur Friedman, _University of Chicago_
+
+Louis A. Landa, _Princeton University_
+
+Samuel H. Monk, _University of Minnesota_
+
+Everett T. Moore, _University of California, Los Angeles_
+
+James Sutherland, _University College, London_
+
+H. T. Swedenberg, Jr., _University of California, Los Angeles_
+
+CORRESPONDING SECRETARY
+
+Edna C. Davis, _Wm. Andrews Clark Memorial Library_
+
+INTRODUCTION
+
+According to discoveries made by Titus Oates in the autumn of 1678,
+England was threatened by a Roman Catholic conspiracy headed by the Pope
+and the King of France, whose objectives were: 1) to murder the King, 2)
+to overthrow the government, and 3) to destroy the Protestant religion.
+Although Oates was subsequently exposed as a charlatan, in 1678-81 a
+panic held the nation in an iron grip, and belief in the Plot fostered
+irrational and reprehensible excesses. The Popish Plot was not so much a
+religious fraud as a political _cause celebre_, the significance of
+which can be assessed only in the context of the republican movement of
+the seventeenth century to redistribute power within the state. The
+conflict which developed between Charles II and the Parliament during
+the 1670's reflects the struggle for ascendance of two opposing theories
+of government: absolute versus limited monarchy. Charles, supported by
+the Tories and the Anglican clergy, was determined to maintain all the
+hereditary privileges and powers of an English monarch, while the Whig
+coalition in Parliament, led by the Earl of Shaftesbury, was intent upon
+subordinating the power of the Crown to the will of Parliament. The
+Opposition realized almost immediately that in the Popish Plot lay means
+for furthering their schemes of political reform. Under the guise of
+counteracting the Plot, they hoped to enact legislation to: 1) increase
+parliamentary power, 2) limit the prerogatives of the King, 3) control
+the succession, and 4) curtail the influence of the prelacy. Published
+in 1680 when the Plot crisis was at its peak, _Citt and Bumpkin_ is one
+of a series of pamphlets by Sir Roger L'Estrange written to support the
+policies of Charles II and to defend the government from attacks by the
+Whig Opposition.
+
+Since James, Duke of York, had given the Whigs every reason to believe
+that he would oppose their policies vehemently after he came to the
+throne, they decided to take advantage of the public resentment against
+him as a Roman Catholic to try to pass a bill in Parliament to exclude
+him from the succession. James had already been accused of conspiring
+with the French King to overthrow Protestantism in England and institute
+Roman Catholicism as the state religion. In addition to reiterating this
+charge, the Whigs enlarged upon the awkwardness and danger bound to
+arise in a Protestant nation with a Roman Catholic ruler. The question
+of a Popish successor soon came to be the principal concern of
+Parliament, and the battle over the Exclusion Bill dominated the
+political scene in 1679-81. While the Exclusion crisis was at its
+height, Charles II circumvented this plan to deprive the Duke of York of
+his hereditary title by repeatedly proroguing and dissolving Parliament
+so that the bill could not be brought to a final vote. This series of
+adjournments began when Charles dissolved the Parliament soon after the
+Exclusion Bill was first introduced in the spring of 1679. After a
+bitterly fought election contest during the summer of 1679, the newly
+constituted Parliament assembled in October only to be prorogued once
+again until 26 January 1680. The Whigs were furious and began to fear
+that the King had no intention of permitting the Parliament to meet even
+in January. Powerless to act legally out of Parliament, the Whigs
+realized that a long series of postponements would lead to the defeat of
+all their carefully drafted legislative plans. To combat Charles'
+delaying tactics, the Opposition hit upon the expedient of petitioning
+him to allow Parliament to sit. By a strong demonstration of popular
+will, they hoped to force the King to comply with their demands.
+
+Under the leadership of Shaftesbury and his followers in the Green
+Ribbon Club, the Whigs achieved a degree of party organization and
+efficiency in the autumn and winter of 1679-80 which remained unrivalled
+during the seventeenth century.[1] While petitions were being printed in
+London, the country was divided into districts; then petitions were
+distributed to party agents everywhere who systematically canvassed for
+signatures. In London, blank petitions were conveniently placed in
+coffee houses and taverns; pens and inkstands appeared in the Strand and
+at the Royal Exchange. Since these petitions were designed as
+instruments to convey the will of the masses, emphasis was placed on
+collecting large numbers of signatures with scant concern for the
+political, economic, or social status of the subscribers. According to
+the Tory historian Roger North, the people were warned by the promoters
+of the petitions that, if the King were allowed to govern without a
+Parliament, despotism would inevitably ensue, followed by a resurgence
+of Popery.[2] Frightened, and in some cases confused by these formidable
+predictions and threats, many people (especially in the country)
+subscribed. After the canvassing had been completed, the petitions were
+sent to London for presentation to the King.
+
+The petitions themselves were phrased inoffensively enough, stressing
+the fact that the Popish Plot had created a state of national emergency
+and requesting that Parliament be called to deal with this danger. The
+first petition, _The Humble Address and Advice of several of the Peeres
+of this Realm For the Sitting of the Parliament_, was presented to the
+King at Whitehall on 7 December by ten Whig peers. Charles accepted the
+petition and dismissed them. But he could not dismiss the rumors of
+countless other petitions in preparation and the unavoidable disturbance
+such an onslaught would produce. Since the petitions were not promoted
+through official channels, and since there was evidence that they were
+designed to create tumult for seditious ends, Charles denounced them as
+illegal. Moreover, on 11 December the King issued a Royal Proclamation
+forbidding seditious and tumultuous petitioning. The effects of the
+Proclamation were twofold. The Tories, who objected to petitioning as a
+popular movement carried on by men without substance or position,
+received the Proclamation everywhere as an expression of the King's
+disapproval, and cited it as an authority to discourage others from
+promoting and subscribing to petitions. The Whigs, on the other hand,
+protested that petitioning was the legal right of the subject and
+resumed their petitioning activities with added vigor.
+
+In order to demonstrate his firm resolve not to be intimidated in the
+exercise of his prerogative to call and dismiss Parliament, and in order
+to rob the petitioning movement of its impetus by destroying its
+immediate objective, Charles issued a second Proclamation on 11 December
+proroguing Parliament from 26 January to 11 November 1680. Spurred on by
+the realization that so long a recess would utterly ruin their hopes,
+the Whigs directed considerable effort toward promoting an official
+petition from the City of London.[3] Because of the power and prestige
+of the City, the Whigs felt that such a petition would lend
+encouragement to those being prepared in the country. Accordingly, they
+arranged to present a petition from the City of London for a vote in the
+Common Council on 20 January. The King deliberately attempted to
+frustrate the London petition by purging the City Council of disaffected
+members through enforcement of the Act for Regulating Corporations. This
+Act disqualified all Dissenters, who usually held Whig principles.
+Consequently, by the time the petition was brought to a vote, the Tories
+had gained enough support to defeat the referendum by a small margin.
+Although this ballot was won in effect only by the votes of the Court of
+Aldermen, it was accounted a great victory for the Court Party and left
+the Whigs sorely disappointed.
+
+The peak of petitioning activity occurred during the month of January,
+and the atmosphere became increasingly more tense as the day approached
+upon which Parliament was supposed to meet. The week following the
+Common Council's rejection of the London petition was the most strained.
+Petitions continued to appear daily, though the King received them with
+marked disfavor and sharply rebuked the delegates who delivered them.
+When Monday, 26 January, finally arrived, the air was charged with
+excitement; everyone crowded to Westminster to see what would happen.
+But Charles had no intention of capitulating. As soon as the Lords and
+Commons were assembled, the King addressed them, reaffirming his
+determination to prorogue them and implying that the recent petitions
+had served only to strengthen his resolve. The Whigs complained bitterly
+but offered no open resistance. Charles had won the day and emerged with
+his prerogative untarnished but not unchallenged. Shortly after this
+_coup_, a counter reaction to petitioning set in, and a wave of loyalty
+gained momentum and found expression in the form of abhorrence addresses
+which poured in from all over the kingdom condemning the practice of
+petitioning and professing loyalty to King and Court.
+
+A fortnight after the prorogation of Parliament, just before the tide of
+abhorrence addresses began to inundate the capital, on 10 February,
+Narcissus Luttrell (indefatigable collector of Popish Plot ephemera)
+recorded possession of the most important pamphlet written about
+petitioning--Sir Roger L'Estrange's _Citt and Bumpkin_. Whether the date
+which Luttrell gives represents the day of publication as well as the
+day of purchase is a matter of conjecture, but his note does establish
+the fact that the pamphlet was available to the public and in Luttrell's
+hands by 10 February. Corroboration that the pamphlet was in circulation
+before the end of February comes also from L'Estrange's bookseller Henry
+Brome, who first advertised _Citt and Bumpkin_ for sale as already
+published in a list of pamphlets dated 27 February. On 5 March in the
+_Popish Courant_, a companion sheet to _The Weekly Pacquet of Advice
+from Rome_, a violently anti-Papist newspaper in which L'Estrange was
+frequently traduced, Henry Care condemned _Citt and Bumpkin_ in a list
+of Catholic libels, "All publisht within little more than this
+fortnight." Although less precise than Luttrell's note, the references
+by Brome and Care help confirm the hypothesis that _Citt and Bumpkin_
+was published by mid-February. Further evidence which helps to define
+the date of publication occurs within the text of the pamphlet itself.
+On page 24, L'Estrange mentions Henry Care's _History of the Damnable
+Popish Plot_ and says it appeared on 26 January. This date in turn is
+verified by two advertisements for the work in Care's own journal--one
+on 23 January announcing its impending release, and another on 30
+January commenting on its recent publication. Since _Citt and Bumpkin_
+obviously appeared after Care's tract was released and before Luttrell's
+entry was made, it must have been published during the fortnight between
+26 January and 10 February.
+
+_Citt and Bumpkin_ was not only the best written pamphlet on
+petitioning, it was also the most ambitious in scope. Arranging his
+material artfully, L'Estrange presented it with the wit and skill that
+demonstrate unequivocably his mastery of the polemic medium. Unlike most
+other party writers who confined their efforts to a few folio pages,
+L'Estrange sustained his performance through 38 quarto leaves of
+readable, entertaining prose. Moreover, his objectives and arguments
+were much more comprehensive and sophisticated than those of the other
+pamphleteers engaged in the controversy over petitioning. Most Tory
+writers treated petitioning as an isolated issue and directed their
+attack accordingly, failing to relate any of their arguments to each
+other or to a larger scheme. Many authors attempted to defeat
+petitioning by identifying the petitions of 1680 with those of the
+1640's leading up to the Civil War. In addition, some insisted that
+petitioning was illegal and defended the Proclamation against it, while
+others tried to discredit the organizers and promoters of petitions as
+disaffected persons motivated by hopes of preferment and profit. At the
+same time, they launched a collateral attack upon those members of
+Parliament who actively encouraged petitioning. There was even a general
+indictment of Parliament as a whole, suggesting that it intended to
+usurp the King's prerogatives and take sovereignty upon itself. But
+there was no definite, direct statement that a plot led by the petition
+managers was actually underway to subvert the government. In _Citt and
+Bumpkin_ L'Estrange accused the republicans and Dissenters of actively
+promoting a Protestant Plot more insidious than the Popish Plot but with
+identical goals: 1) to kill the King, 2) to undermine the government,
+and 3) to destroy the established Church of England. Throughout the
+pamphlet, which is an _expose_ of this alleged conspiracy, L'Estrange
+supplied a great deal of specific factual detail upholding his claims.
+His objective was not merely to discredit petitioning, but to lessen
+belief in the Popish Plot and to launch a counterattack against the
+enemies of the Court. By indicating that petitioning was not an end in
+itself but an integral part of a larger plan, L'Estrange managed to
+censure petitioning _per se_, to increase its odium by linking it with
+the greater disaster of rebellion and civil war, and yet to preserve a
+sense of proportion by directing the brunt of his attack against the
+Protestant Plot as a whole.
+
+Although it is cast in the form of an ironic dialogue, _Citt and
+Bumpkin_ has much in common with a dramatic skit. L'Estrange sketches
+the setting, develops the characterization, provides realistic
+conversation, and builds dramatic tension to a climax (or turning point
+in the action), which is followed by a falling off of tension or
+_denouement_. As if to make the reading of parts easier, the speeches of
+the characters are set in different type faces. L'Estrange even provides
+stage directions and indicates action in the speeches of the characters.
+Like many dramas, _Citt and Bumpkin_ begins _in medias res_ and draws
+the reader immediately into the action. In a very natural fashion, the
+subject of the conversation is defined and the scene is set within the
+first four lines. The sense of setting is never destroyed, for
+L'Estrange unobtrusively sustains it by occasional specific but natural
+references to it in the course of the conversation.
+
+The dialogue between Citt and Bumpkin takes place during a casual
+encounter in a tavern, where the two fall to discussing religion and
+politics over a cup of ale. As their names suggest, Citt and Bumpkin
+represent a sophisticated London citizen and a naive country bumpkin.
+While they are not fully realized dramatic characters, neither are they
+mere bloodless stick figures. During the course of their conversation,
+they reveal information about their personalities, their social and
+economic status, their political affiliations, their religious
+sympathies, their moral values, and their occupations. One learns from
+Citt that he is an ex-felon who is employed as a party agent by a
+political organization plotting to overthrow the government and
+undermine the Church of England. Motivated only by ambition and avarice,
+Citt is a completely immoral man who openly endorses a policy of
+expediency, and who condones any act--no matter how evil--because he
+believes that the end always justifies the means. As befits a partner in
+crime, Bumpkin is Citt's _Doppelgaenger_ in many ways. The essential
+differences are those of experience and intelligence. Bumpkin is only
+slightly less immoral and unscrupulous than Citt, but he is just as
+hypocritical, lawless, and untruthful. As the two discuss how they
+promoted petitions in the city and the country, Citt and Bumpkin admit
+to all sorts of treacherous and Fraudulent practices. In addition, they
+reveal the goals, the methods, the leaders, the strength, and the
+immorality of the Protestant Plot. Ironically, they unintentionally
+expose themselves and the Plot to the reader's censure; for, although
+the characters seem to be oblivious to the immorality of their behavior,
+the reader is not so insensitive. The reader contrasts their ethics and
+conduct with ideal values, rejects their code as immoral, and carries
+his judgment of the characters over into the real world to condemn the
+petitioners as republican plotters.
+
+To reinforce this ironic self-indictment by Citt and Bumpkin, L'Estrange
+introduces a third character, Trueman, who enters like a _deus ex
+machina_ to represent the abstract forces of truth, justice, and
+morality--albeit with a Tory bias. Because he functions as an abstract
+symbol in contrast with Citt and Bumpkin, who are very much of this
+world, Trueman has a personality uncomplicated by any psychological
+subtleties or idiosyncrasies which would emphasize his humanity. The
+entrance of Trueman may well be regarded as the climax of this little
+drama, for the plot unfolds gradually and dramatic tension builds to the
+point of his intrusion, when the course of action is interrupted and
+diverted in another direction by his arguments. Taking up the topics
+previously discussed by Citt and Bumpkin while he was concealed in a
+nearby closet, Trueman confronts them with their confessed treachery,
+denounces their chicanery and folly, and refutes their political views
+with Tory arguments. The fact that Trueman symbolizes extrahuman moral
+forces lends authority to his defense of absolute monarchy and the
+established Church.
+
+Couched in an authentic colloquial style, the dialogue between Citt and
+Bumpkin progresses in an entirely natural, credible manner. Their
+conversation is animated, colorful, humorous, informative, and
+purposeful. The direction of the conversation is logically dictated by
+its substance; there is nothing artificial, contrived, or foreordained
+about it. The interaction of personality is reflected in the verbal
+exchange. As in a play, the development of the action depends upon each
+character's immediate and genuine response to the statements made by the
+other _dramatis personae_. Again, as in the theater, dramatic tension is
+created as the plot unfolds and the reader waits to see what will happen
+next. Except for one passage of extended quotation (pp. 32-33), the
+dramatic realism is sustained effortlessly.
+
+Although _Citt and Bumpkin_ was the first of L'Estrange's Popish Plot
+pamphlets written in dialogue, he was thoroughly familiar with the form
+and had often employed it in his polemic skirmishes during the Civil
+War. In fact, L'Estrange found the genre so congenial that he chose to
+write his famous newspaper _The Observator_ (1681-87) in dialogue. This
+literary device, employed by hack writers, controversialists, and
+eminent _litterateurs_, was extremely popular in England between 1660
+and 1700 and was used to conspicuous advantage for discussing issues of
+momentary importance as well as serious philosophical questions.
+According to Eugene R. Purpus in his study of the "Dialogue in English
+Literature, 1660-1725," few other literary forms had such universal and
+continual appeal.[4] In an age when the drama was the reigning literary
+fashion, the dialogue naturally enough had a concomitant vogue. Its
+popularity is attested to by the large number of dialoguists as well as
+by the bulk of their writing. As Purpus notes, party writers quickly
+discovered that this genre was an excellent vehicle for presenting
+highly controversial ideas and forceful arguments.
+
+During the Restoration, there were no rigid conventions governing the
+genre, and any work passed as a dialogue which represented a
+conversation between two or more persons or which was organized in a
+question-and-answer manner.[5] Frequently, dialogues resembled an
+interrogation or a catechism rather than natural discourse between real
+human beings. Often writers of such artificial dialogues abandoned any
+attempt at characterization or conversational verisimilitude, merely
+substituting "Q." and "A." to indicate a series of queries and
+responses. Sometimes authors identified the speakers with proper names
+but made no effort at actual characterization. Concern for dramatic
+realism varied from writer to writer; and all too often, improbable
+puppet-like creatures were represented in illogical, unbelievable, and
+contrived conversations. The artistic integrity of a successful
+dialogue, however, lies in the dramatic exchange of differing points of
+view or the interplay of opposing arguments in realistic conversation
+between credible characters with clearly differentiated personalities.
+
+The stilted, artificial quality of some dialogues is in part
+attributable to the fact that many writers turned to the genre as a
+facile means of expressing a particular point of view.[6] As Purpus
+observes, the inherent dramatic quality of the form is lost if: 1) the
+writer substitutes invective, prejudice, and railing for realistic
+conversation, and/or 2) the author obviously contrives the dialogue
+merely to reflect his particular bias on a given question. On the other
+hand, although some writers used the form as a convenient frame on which
+to display their opinions, other writers erred by including too much
+dramatic machinery. Dialogues of this sort almost became short dramas.
+
+No matter what the content or objective purpose of dialogues, however,
+they were uniformly written in what became known after the Restoration
+as the "plain, easy, and familiar" style.[7] Sentences were more
+conveniently broken up than heretofore, and there was increased
+lightness of tone. Though there was still a great deal of invective,
+Hugh Macdonald notes in "Banter in English Controversial Prose after the
+Restoration," that banter became prominent in the literature of
+disputation after 1660. On the other hand, "No one would expect to find
+a clear-cut division between banter, satire, sarcasm, burlesque, and
+abuse in every passage of a book written in the seventeenth century."[8]
+As Mr. Macdonald states, it is largely a question of emphasis. Employing
+a great deal of banter, Marvell reintroduced a tradition forgotten since
+the Marprelate tracts--that of treating a grave subject lightly yet with
+serious intention of reinforcing the argument. Restoration polemicists,
+with L'Estrange in the vanguard, quickly realized the advantages of this
+technique and claimed it as their own.
+
+_Citt and Bumpkin_ survives close scrutiny according to the critical
+criteria for evaluating dialogues suggested by Purpus and Macdonald.
+Although L'Estrange does use the genre for a specific controversial end,
+he does not lapse into a barren question-and-answer type of organization
+nor into that of an artificial didactic catechism. While he sketches a
+setting, develops characterization, and creates believable conversation,
+L'Estrange does not err in the direction of over-dramatization either.
+He provides all the requisite machinery to support the dramatic realism
+necessary in a successful dialogue, but he goes no further. Throughout
+_Citt and Bumpkin_, L'Estrange maintains the appropriate "plain, easy
+and familiar" style. The sentence structure is simple, and clauses are
+well punctuated. Abounding with colloquial expressions, contractions,
+and slang, the vocabulary is common and especially suited to the low
+characters. A bantering tone predominates, accompanied by passages
+employing irony, satire, and invective. There is not enough invective,
+however, to destroy the mood. If L'Estrange's Tory bias is perfectly
+evident, it is not aggressive enough to prevent the accomplishment of
+his polemic objectives. Although the republican political theories of
+the Whigs are attacked satirically in the first part of _Citt and
+Bumpkin_, they are stated and refuted in proper controversial style in
+the final pages of the pamphlet. On the whole, _Citt and Bumpkin_
+conforms to the conventions of a successful dialogue; where it does
+not, the infringements are not great enough to destroy its artistic
+integrity.
+
+_Citt and Bumpkin's_ popularity was indisputable. Of all the pamphlets
+about petitioning, it was by far the most widely read. It went into four
+editions by June 1680 and a fifth in 1681. Although there were no
+substantive changes in the various editions, the type was reset each
+time, so implying a continuing demand for the pamphlet. Indeed, the
+contemporary response was so overwhelming that within six weeks
+L'Estrange wrote a sequel entitled, _Citt and Bumpkin, The Second Part;
+Or, A Learned Discourse upon Swearing and Lying_. In addition, there
+were many references in the Whig press denigrating L'Estrange and his
+pamphlet; derogatory remarks appeared in newspapers, ballads, and poems.
+In particular, three pamphlets were issued, replying directly to _Citt
+and Bumpkin_ and attacking L'Estrange personally. The first and most
+considerable of these rejoinders appeared on 16 March, a month after the
+publication of _Citt and Bumpkin_, when its effect was being fully
+realized and the need felt to combat it.
+
+_A Dialogue Between Tom and Dick Over a Dish of Coffee Concerning
+Matters of Religion and Government_, issued also as _Crack-fart and
+Tony; Or, Knave and Fool_,[9] is a parody following closely the format
+and arguments of _Citt and Bumpkin_. Having appropriated the framework
+employed by L'Estrange, the author of _Tom and Dick_ adjusted it by a
+series of simple substitutions from an attack on the Protestant Plot,
+Dissenters, Schism, and republicans, to an assault on the Popish Plot,
+Papists, Roman Catholicism, and loyalists. The parallels in setting and
+characterization are established immediately, when Tom and Dick meet in
+a coffee house and agree to hold a conversation in which Tom will speak,
+write, invent, and hold forth as Citt had done, while Dick will hear,
+believe, and speak in his turn (but to little purpose) like Bumpkin. The
+parody breaks down, however, when one compares Trueman with Goodman, who
+endorses Trueman's arguments rather than misrepresenting or opposing
+them. Nor does Goodman observe Trueman's scrupulous care in replying to
+all the issues raised by the other two characters. Throughout the
+dialogue, the author manages to maintain dramatic realism and to sustain
+a mock-serious tone in the absurd-but-credible verbal exchange between
+his two buffoons.
+
+The second rebuttal was released three months later on 14 June. Signed
+E. P. (possibly Edward Phillips), _The Dialogue Betwixt Cit and Bumpkin
+Answered_ replies not only to _Citt and Bumpkin_, but reflects upon
+several other polemic tracts by L'Estrange, and attacks him _ad hominem_
+from beginning to end. A long prefatory letter discussing the powers and
+privileges of city corporations and the faults of L'Estrange's _Popery
+in Masquerade_ precedes the dialogue, which preserves the same general
+format and style of its target. The roles of the characters are only
+roughly analogous, however, and the development of the argument is
+retarded and obscured by the abuse of L'Estrange. All too often, the
+argument is neither pertinent nor incisive. Unfortunately, E. P. lacks
+all the vitality, wit, and imagination of his polemic adversary.
+Incensed by E. P.'s scurrility, L'Estrange replied within three days to
+all of his charges in _A Short Answer to a Whole Litter of Libels_.
+
+Although it does not appear in Luttrell's _Popish Plot Catalogues_, the
+third reply to _Citt and Bumpkin_, _Crack upon Crack: Or, Crack-Fart
+Whipt with his own Rod, by Citt and Bumpkin_, can be dated approximately
+upon the basis of internal evidence. References to L'Estrange's flight
+to escape a sham plot against him in October, 1680, imply a late autumn
+publication date. Purporting to answer both parts of _Citt and Bumpkin_,
+this pamphlet does not deal with any of the arguments raised in either
+work. The author abandons any attempt at parody, and instead borrows
+details of setting from the popular _Letter from Legorn_ pamphlets which
+appeared that year. The characters pursue the absconded Trueman (_i.e._,
+L'Estrange) aboard a Mahometan (_i.e._, Papist) ship and lure him ashore
+in order to seek revenge for their recent humiliation at his hands. The
+dialogue contains four pages of unimaginative abuse of Trueman which
+culminates in his drubbing by Citt and Bumpkin. Largely scatological,
+this uninspired attack upon L'Estrange does not strike a single telling
+blow against _Citt and Bumpkin_.
+
+In fact, _Citt and Bumpkin_ enjoyed unqualified success despite the best
+efforts of its various detractors. And its popularity was well deserved.
+Appearing just when the unrest over petitioning was at its height, _Citt
+and Bumpkin_ captured the interest and imagination of the public with
+its cogent argument and witty satire.
+
+NOTES
+
+1: J. R. Jones, _The First Whigs_ (London, 1961), p. 117; Roger North,
+_Examen, or an Enquiry into the Credit and Veracity of a Pretended
+Complete History_ (London, 1740), p. 542.
+
+2: North, p. 542.
+
+3: Jones, pp. 119-20.
+
+4: Eugene R. Purpus, "The Dialogue in English Literature, 1660-1725,"
+_ELH_, XVII (1950), II. 58.
+
+5: The information on the dialogue in this paragraph is taken from
+Purpus, pp. 48-49.
+
+6: Purpus, pp. 50-52.
+
+7: Purpus, p. 48; Hugh Macdonald, "Banter in English Controversial Prose
+after the Restoration," _Essays and Studies by Members of the English
+Association_, XXXII (1946), 21-22.
+
+8: Macdonald, p. 23.
+
+9: One of L'Estrange's opponents nicknamed him the "Crack-fart of the
+Nation" and the epithet stuck to him for years.
+
+=Text=
+
+  The text of _Citt and Bumpkin_
+  here reprinted is the copy in
+  the William Andrews Clark
+  Memorial Library.
+
+           CITT
+
+            AND
+
+          BUMPKIN.
+
+            IN A
+
+          DIALOGUE
+
+            OVER
+
+        A Pot of Ale,
+
+         CONCERNING
+
+           MATTERS
+
+             OF
+
+           RELIGION
+
+             AND
+
+          GOVERNMENT.
+
+           _LONDON_,
+
+  Printed for _Henry Brome_ at the Gun in S. _Pauls_
+  Church-yard, 1680.
+
+_Citt_ and _Bumkin_,
+
+In a DIALOGUE, _&c._
+
+_Citt._ So that you would know, _First_, how we _manag'd_ the
+_Petition_; and _Secondly_, how it came to _miscarry_.
+
+Bum. _Those are the two Points_, Citt, _but first take off your_ Pot,
+_and then tell your_ Story; _you shall have mine afterward_.
+
+    Committees to promote the Petitions.
+
+_Citt._ There was no way, you must know, to carry the business clear,
+without getting a _Vote_ of _Common-Council_ for the _Petition_; and so
+making it an Act of the _City_: And in order to this End, we planted our
+_Committees_ every where up and down, from _Algate_ to _Temple-barr_, at
+convenient distances; some few of them in _Taverns_ but most at
+_Coffee-houses_; as less liable to suspition. Now we did not call these
+_Meetings_, _Committees_, but _Clubs_; and _there_ we had all Freedom
+both for _Privacy_ and _Debate_: while the _Borough_ of _Southwark_,
+_Westminster_, and the _Suburbs_, proceeded according to our Method.
+
+Bum. _And what were these_ Committees _now to do_?
+
+    Their Powers and Instructions.
+
+_Citt._ Their _Commission_ was to procure _Subscriptions_, to justify
+the Right of _Petitioning_, and to gain _Intelligence_: And then every
+_Committee_ had one man at least in it that wrote _short-hand_.
+
+Bum. _Well, and what was he to do?_
+
+_Citt._ It was his part to go smoking up and down from One Company to
+another, to see who was _for_ us, and who _against_ us: and to take
+Notes of what people said of the _Plot_, or of the _Kings Witnesses_, or
+against this way of _Petitioning_.
+
+Bum. _But how came those Committees (as ye call 'um) by their_
+Commissions?
+
+    Two Grand Committees.
+
+_Citt._ For that, let me tell you, we had _two Grand Committees_, that
+adjourn'd from place to place, as they saw occasion: But they met most
+commonly at _Two Coffee-houses_; the _One_ near _Guild-Hall_, the
+_Other_ in the _Strand_; for you must take notice that we went on, hand
+in hand with our _Neighbours_ in the _Main Design_.
+
+Bum. _But you do not tell me yet who set up the_ Other Committees.
+
+    The Office of the Grand Committees.
+
+_Citt._ These two _Grand Committees_, I tell you, nominated and
+appointed the _Sub-Committees_, gave them their _Orders_, and received
+their _Reports_: It was their Office moreover to digest _Discoveries_,
+and _Informations_; to instruct _Articles_, improve _Accusations_,
+manage _Controversies_, defray the charge of _Intelligencers_, and
+_Gatherers of hands_, to dispose of _Collections_; to influence the
+_Anglicus_'s and _Domesticks_, and fortify those that were weak in the
+Faith; to furnish matter sometimes for _Narratives_.----
+
+Bum. _What dost thou mean by_ Narratives, Citt?
+
+_Citt._ They are only _Strange Storys_; as that of the _Dragon_ in
+_Essex_; _Earth-quakes_, _Sights in the Air_, _Prodigies_, and the like.
+
+Bum. _One would think it should not be worth their while, to busy their
+heads about such Fooleries as these._
+
+    Stories of Prodigies startle the Common People.
+
+_Citt._ Now this is thy simplicity _Bumpkin_, for there is not any thing
+that moves the hearts of the People so effectually toward _the Work of
+the Lord_, especially when the _Narrative_ carries some _Historical
+Remarque_ in the Tayl of it: As for the purpose, _this or that happen'd
+in such a Kings Reign, and soon after such and such troubles befell the
+Church and State_: such a _Civil War_, such or such a _Persecution_, or
+_Invasion_ follow'd upon it. When the People perceive once that the Lord
+hath declared himself against the Nation, in these tokens of his
+Displeasure, the Multitude seldom fail of helping the Judgment forward.
+
+Bum. _I don't know what ye call your_ Committees, _but Our Gentry had
+their_ Meetings _too; and there was a great Lord or two among 'um that
+shall be Nameless_.
+
+_Citt._ We could shew you _othergates Lords_ among _Us_, I'le assure
+you, then any you have; but let that passe.
+
+Bum. _You told me that your_ Committees _were to procure_ Subscriptions;
+_we were hard put to't, I'm sure, in the_ Country _to get_ Hands.
+
+    The way of getting hands in and about _London_.
+
+_Citt._ And so were we in the City _Bumpkin_; and if it had not been to
+advance the _Protestant Interest_, I'de have been torn to pieces by wild
+Horses, before I'de have done what I did. But _extraordinary Cases_ must
+have _extraordinary allowances_. There was hardly a _Register_ about the
+Town that scap'd us for _Names_: _Bedlam_, _Bridewell_, all the
+_Parish-books_, nay the very _Goals_, and _Hospitalls_; we had our
+_Agents_ at all _Publick Meetings_, _Court_, _Church_, _Change_, all the
+_Schools_ up and down; _Masters_ underwrit for their _Children_, and
+_Servants_, _Women_ for their _Husbands_ in the _West-Indies_, nay we
+prevail'd upon some _Parsons_, to engage for their whole
+_Congregations_; we took in _Jack Straw_, _Wat Tyler_, and the whole
+Legend of _Poor Robins Saints_ into our List of _Petitioners_; and the
+_same Names_ serv'd us in four or five _several places_. And where's the
+hurt of all this now? So long as the Cause it self is Righteous.
+
+    Several ways of getting Hands in the Country.
+
+Bum. _Nay, the thing was well enough_ Citt, _if we could but have gone
+through with it: And you shall see now that we were put to our shifts in
+the_ Country, _as well as you in the_ City. _I was employ'd you must
+know, to get_ Names _at_ four shillings a Hundred, _and I had all my_
+Real Subscriptions _written at such a distance, one from another, that I
+could easily clap in a Name or two betwixt 'um; and then I got as many_
+School-boys _as I could, to underwrite after the same manner, and after
+this, fill'd up all those spaces with_ Names _that I either_ Remember'd,
+_or_ Invented _my self, or could get out of two or three_
+Christning-books. _There are a World (ye know) of_ Smiths, Browns,
+Clarks, Walkers, Woods, _so that I furnish'd my Catalogue with a matter
+of Fifty a piece of these_ Sir-names_, which I_ Christen'd _my self. And
+besides, we had all the_ Non-conformist Ministers _in the_ Country _for
+us, and they brought in a power of hands_.
+
+    The Protestant Dissenters great Promoters of the Petition.
+
+_Citt._ What do you talk of _your Non-conformists_? They do but work
+_Journey-work_ to _Ours_. We have the _Heads_ of all the _Protestant
+Dissenters_ in the _Nation_ here in this Town, why, we have more
+_Religions_, _Bumpkin_, in _this City_, then you have _People_ in your
+whole _Country_.
+
+Bum. _Ay, and 'tis a great blessing too, that when_ Professors _are at
+so mighty Variance among_ themselves_, there should be so wonderfull an_
+Agreement _in the_ Common Cause.
+
+_Citt._ And that's notably observ'd, _Bumkin_; for so we found it here.
+The _Presbyterian_ got hands of _His Party_; the _Independent_ of _His_;
+the _Baptist_ of _His_; the _Fifth-Monarchy_ man of _His_; and so
+throughout all our Divisions: and we had still the most zealous man in
+His way, to gather the _Subscriptions_: And when they had completed
+their _Roll_, they discharg'd themselves as Naturally into the _Grand
+Committee_, as _Rivers_ into the _Sea_. And then we were sure of all the
+_Republicans_.
+
+Bum. _But after all this_ Care _and_ Industry_, how was it possible for
+the business to_ Miscarry?
+
+_Citt._ Why I know 'tis laid in our dish, that when we had set the whole
+Kingdome agogg upon _Petitioning_, our hearts would not serve us to go
+through stitch, and so we drew our own necks out of the Collar, and left
+the Countries in the Lurch.
+
+Bum. _Nay that's the Truth on't,_ Citt_; We stood all gaping for_ London
+_to lead the way_.
+
+_Citt._ The great work that we look't upon was the gaining of a
+_well-affected Common-Council_; which we secur'd upon the _Election_,
+with all the skill, and watchfullness imaginable.
+
+Bum. _And that was a huge point_ Citt; _but how were ye able to compasse
+it_?
+
+    Tricks to defeat Elections.
+
+_Citt._ Why we had no more to do, then to mark those that we knew were
+not for our turns, either as _Courtiers_, or _Loose-livers_, or
+_half-Protestants_, and their business was done.
+
+Bum. _We went the same way to work too in the_ Country_, at all our_
+Elections; _for it is a Lawfull Policy, you know, to lessen the
+Reputation of an Enemy_.
+
+_Citt._ Nay we went further still; and set a _Report_ a foot upon the
+_Exchange_, and all the _Coffee-houses_ and _Publique Houses_
+thereabouts, which held from _Change-time_, till the very _Rising_ of
+the _Common-Councill_, when the _Petition_ was _laid aside_; that past
+so currant, that no mortall doubted the Truth on't.
+
+Bum. _But you ha' not told me what that_ Report _was yet_.
+
+_Citt._ It was this, _that the King had sent a Message to the City to
+let them understand that he took notice how much they stood affected to
+the_ Petition; _that he expected they would proceed upon it; and that
+his Majesty was ready to give them_ a gracious Answer.
+
+Bum. _But was this fair dealing, Brother?_
+
+_Citt._ Did not _Abraham_ say of _Sarah, She's my Sister_?
+
+Bum. _Well thou'rt a heavenly man_, Citt! _but come to the Miscarriage
+it self_.
+
+    The Petition laid aside in the _Common-Council_.
+
+_Citt._ After as Hopefull a _Choice_ as ever was made, we procur'd a
+_Common-Councill_: where the _Petition_ was put to the _Vote_, and it
+was carry'd in the _Commons_ by _two Voyces_, for the presenting it, and
+by _Fourteen_, or _Fifteen Votes_ in the _Court of Aldermen_, on the
+_Negative_.
+
+Bum. _So that_ your Damn'd Aldermen_, and_ our Damn'd Justices, _have
+ruin'd us both in_ City _and_ Country.
+
+_Citt._ Hang'um, they are most of them _Church-Papists_; but we should
+have dealt well enough with _them_, if it had not been for that
+confounded _Act_ for _Regulating Corporations_.
+
+Bum. _Prethee let me understand that, for I know nothing on't._
+
+    The Act for Corporations brake the neck on't.
+
+_Citt._ Take notice then that this Devillish Statute has provided, that
+_no man shall serve as a_ Common-Councell man, _but upon condition of
+taking three_ Oaths, _and subscribing_ one Declaration, _therein
+mention'd; and having taken the_ Sacrament _of the_ Lords Supper,
+_according to the Rites of the Church of_ England, _within one year next
+before his Election_. Now it so fell out, that what with this _Act_, and
+a _Court-Letter_ for putting it in _Execution_, a matter of _thirty_ of
+our _Friends_ were put _by_, as not duly qualify'd; And upon this Pinch
+we lost it. Nay let me tell ye as a friend, there were at least _twenty_
+or _thirty_ of the rest too, that would hardly have past Muster.
+
+Bum. _But is this certain?_
+
+_Citt._ Why I am now in my Element, _Bumkin_; for thou know'st my
+Education has been toward the Law.
+
+Bum. _This was a Plaguy jobb_, Citt, _but we must look better to our
+Hitts next bout_.
+
+_Citt._ Nay my life for thine we'll have another touch for't yet. But
+tell me in short; how came you off with your _Petition_ in the
+_Country_?
+
+Bum. _It went on for a good while prettily well at the_
+Quarter-Sessions; _till at last one_ Cross-grain'd Curr _there upon the_
+Bench _claw'd us all away to the Devill, and got an Order of Court
+against it, while you would say what's this_.
+
+_Citt._ But what did he say?
+
+    The Petition baffled in the Country.
+
+Bum. _Oh there was a great deal of stuff on't; the_ King, _and the_
+Judges _(he said) had declared it to be_ Seditious, _and so they were to
+take it. That they sat there to_ keep _the_ Kings Peace, _not to
+countenance the_ Breaking _of it; and then (says he) these fellows don't
+know what they would have_. One _Petitions for_ Chalk, _and_ Another
+_for_ Cheese; _the Petition was at first_ for the meeting of the
+Parliament; _and then they came to Twit the King with his_
+Coronation-Oath, _and then_, Delinquents _must be brought to_
+Punishment; _and then the_ Parliament _was to Sit as_ long _as_ they
+pleas'd, _and at_ last, _every man must be_ mark'd _for a_ Common Enemy
+_that would not_ Subscribe _it. So that first they would have the_
+Parliament Sit; _and then they'd cut 'um out their work; and in fine, it
+was little other then a_ Petition _against_ those _that would_ not
+Petition. _He said there were Ill practices in the getting of hands, and
+so they threw out the_ Petition, _and order'd an_ Enquiry _into the_
+Abuses.
+
+_Citt._ Well, there's no remedy but Patience.
+
+Bum. _I had need of Patience I'm sure, for they're Examining the Hands
+allready, as hard as they can drive; You'l see me in the_ Gazette next
+Thursday, _as sure as a Gun_.
+
+_Citt._ Why then we must play the _Domestique_ against _him, next
+Fryday_.
+
+Bum. _Nay, I'm sure to be trounc'd for't to some tune, if I be_ taken.
+
+_Citt._ Pre'thee what art affraid of? There's no _Treason_ in getting
+hands to a _Petition_ man.
+
+Bum. _No, that's true; but I have put in such a Lurry of_ Dog-Rogues;
+_they cry_ they're defam'd, _with a Pox_, they'le have their remedy;
+_and they make such a Bawling_.
+
+_Citt._ Come, come, set thy heart at rest: and know that in this City
+th'art in the very Sanctuary of the _Well-affected_. But 'tis good
+however to prepare for the _worst_, and the _best_ (as they say) _will
+help its self_. But art thou really afraid of being _taken_?
+
+Bum. _And so would you be too, if you were in my condition, without a_
+penny, _or a_ friend _in the world to help ye_.
+
+    The blessing of having neither friends nor Mony.
+
+_Citt._ Thou art two great Owls, _Bumkin_, in a very few words. _First_,
+thou hast _great friends_ and do'st not _know on't_, and _Secondly_ thou
+do'st not understand the _Blessing_, of having neither _Friends_, nor
+_Money_. In one word, I'll see thee provided for; and in the mean time,
+give me thy answer to a few questions.
+
+I make no doubt but they that put thee into this _Trust_, and
+_Employment_ of helping on the _Petition_, are men of _Estate_, and men
+_well-inclin'd_ to the _Publique Cause_.
+
+    Methods of _Popularity._
+
+Bum. _O, their_ Landlords _and_ Masters _are men of huge Estates; but
+'tis the_ Tenants, _and the_ Stewards _that I have to do withall. But
+then (do you mark me) those people are all in all with their Masters._
+
+_Citt._ I suppose you may be known to the _Landlords_ and _Masters
+themselves_ too. Do they ever take any notice of you?
+
+Bum. _Yes, yes; I go often to their Houses man, and they speak mighty
+kindly to me; and there's nothing but_ Honest Obadiah, _and_ Good
+Obadiah _at every turn; and then the Men take me into the Kitchin, or
+into the Cellar, or so. And let me tell you_ Citt, _if it had not been
+for them once, I had been plaguyly paid off in the_ Spirituall Court
+_upon a certain Occasion_.
+
+_Citt._ That's a very good sign of _Affection_ to the _Cause_, as I told
+thee: and it would be never the worse if they were under a Cloud at
+_Court_; for _an Honest Revenge_, ye know _goes a great way with a
+tender Conscience_.
+
+Bum. _I have hear'd some Inkling that way, but we'le scatter no words._
+
+_Citt._ They never speak any thing to you in private, do they? As of
+_Grievances_, (I mean) _Religion, the Liberty of the Subject_, and such
+like?
+
+Bum. _No, no, but they talk as other people do, of the_ Plot, _and the_
+Jesuits, _and_ Popery, _and the_ French King, _and so_.
+
+_Citt._ And what is the reason now, do ye think, that you are not
+receiv'd into their _Bed-Chambers_, their _Closets_, into their _Arms_,
+and into their very _Hearts_, as well as some other people as we know?
+
+Bum. _Alas! what should they do with me? I'm not a man fit to keep them
+Company._
+
+    A Golden Sentence.
+
+_Citt._ Why then _Honest Bumpkin_, here's a Golden Sentence for thee;
+_Be Taken, Sifted, Imprison'd, Pillory'd_, and stand true to thy
+_Principles_, and th'art company for the best _Lord_ in _Christendom_.
+They'l never dare to trust thee till th' art _Jayl_ and _Pillory-proof_;
+and the bringing of _thee into_ a Jayl would be a greater kindness, then
+the fetching of _Another man Out_.
+
+Bum. _Prethee Cit, tell me one thing by the way, hast thou ever made
+Tryal of this Experiment thy self?_
+
+    A Jayl is the High-way to Preferment.
+
+_Citt._ To tell thee as a friend, I have try'd it, and I'm the best part
+of a thousand pound the better for't. 'Tis certainly the high way to
+preferment.
+
+Bum. _And yet for all this_, Citt, _I have no minde in the World to be_
+taken.
+
+_Citt._ And that's because th' art an arrant buzzard; the Lord deliver
+me from a fellow that has neither _Mony_, nor _Friends_, and yet's
+afraid of being _Taken_. Why 'tis the very making of many a mans Fortune
+to be _Taken_. How many men are there that give mony to be Taken, and
+make a _Trade_ on't; _Nay_ happy is the man that can but get any body to
+_Take_ him. Why I tell ye, there are people that will _quarrel_ for't,
+and make _Friends_ to be _Taken_. 'Tis a common thing in _Paris_, for a
+man in _One six Months_, to start out of a _Friendless_, and _Monyless_
+condition, into an Equipage of _Lacquays_ and _Coaches_; and all this by
+nicking the blessed Opportunities of being _discreetly Taken_.
+
+Bum. _I have heard indeed of a man that set fire to_ one Old House, _and
+got as much Mony by a_ Brief _for't, as built him_ two New ones.
+
+_Citt._ Have not I my self heard it cast in a fellows Teeth, _I was the
+making of you_, Sirrah, _though y' are so high now a body must not speak
+to you: You had never been_ Taken _and_ clapt up, Sirrah, _but for me_.
+
+Bum. _Father! what Simpletons we_ Country-folks _are to you_ Citizens!
+
+_Citt._ Now put the case _Bumpkin_, that you were _Taken, Examin'd_ and
+_Committed_, provided you _stand to your Tackle_, y'are a Made man
+already; but if you _shrink in the wetting_, y'are lost.
+
+Bum. _Pray'e what do you mean by_ standing to my Tackle?
+
+_Citt._ You must be sure to keep your self upon a Guard, when y'are
+before the _Justice_; and not to be either _wheedled_, or _frighten'd_
+into any _Discovery_; for they'le be trying a thousand Tricks with you.
+
+Bum. _But may I deny any thing that's charg'd upon me, point-blank, if I
+be guilty of it?_
+
+    A Salvo for a Lye.
+
+_Citt._ Yes, in the case of _self-preservation_, you may; but you must
+be sure then that no body can _disprove_ you; for if it be _known_, 'tis
+a _Scandall_, and no longer _Lawfull_: Your best way will be not to
+answer any Questions against your self.
+
+Bum. _But now you have brought me into a_ Goal, _you would do well to
+tell me how I shall get out again_.
+
+    The Benefits of a Prison.
+
+_Citt._ Why before you turn your self thrice in your _Kennell_, (if
+_Baylable_) Y'are out again, upon a _Habeas Corpus_: But in the
+mean time, the Town rings of your _Commitment_, the _Cause_ of it, and
+how bravely you carry'd it upon your _Examination_; all which shall be
+Reported to your Advantage; and by this time, y'are Celebrated for the
+_Peoples Martyr_. And now come in the _Bottles_, the _Cold-Pies_, and
+the _Guynnies_: But you must lay your finger upon your Mouth, and keep
+all as close as if the _Fayries_ had brought it.
+
+Bum. _Pre'thee_, Citt, _wert thou ever bound_ Prentice _to a_ Statesman?
+
+_Citt._ No, not altogether so neither; but I serv'd a Convenient time in
+two of his Majesties Houses; and there I learnt _My Politiques_; that is
+to say, in _Newgate_, and the _Gate-house; Two schools_ (says one) _that
+send more wise men into the World, then the_ four Inns of Court. Now let
+your suffering be what it will, the _Merit_ of it will be rated
+according to the _Difficulty_ and _hazzard_ of the _Encounter_: For
+there's a great difference betwixt the Venture of a _Pillory_, and of a
+_Gibbet_. But in what case soever; if you stand fast, and keep your
+Tongue in your head, you shall want neither _Mony_, nor _Law_; nor
+_Countenance_, nor _Friends_ in the _Court_, nor _Friends_ in the
+_Jury_.
+
+Bum. _Hold, hold_, Citt; _what if all my great Friends should deceive me
+at last_?
+
+_Citt._ They'le never dare to do that, for fear you should deceive
+_them_. I have found the Experiment of it my self, and every _Term_
+yields us fresh Instances of _people that make their Fortunes in a
+trice, by a generous contempt of Principalities, and Powers_.
+
+Bum. _Thou'rt a brave fellow_ Citt; _but pre'thee what may thy
+Employment be at present, if a body may ask thee_?
+
+    The Secretary to a Grand Committee.
+
+_Citt._ _I_ am at this present, _Bumpkin, under the Rose, a
+Secretary-Extraordinary_ to one of the _Grand Committees_ I told thee
+of; and my business is to draw up _Impeachments, Informations,
+Articles_; to lick over now and then a _Narrative_; and to deal with the
+_Mercuries_ to publish nothing against the Interest of that Party: and
+_in fine_, there's hardly any thing stirs, but I have a finger in't.
+Mine is a business I can tell you, that brings in _Money_.
+
+Bum. _I make no doubt on't_ Citt: _But could ye put me in a way to get a
+little money too_?
+
+_Citt._ We'l talk of that presently. You may think perhaps now the
+_City-Petition's_ blown off, that our _Committee_ will have nothing to
+do. But, I do assure you, businesse comes in so fast, upon us, that I
+shall never be able to go through it without an _Assistant_; and if I
+find you fit for't, you shall be the man.--Nay hold, let Me speak,
+First; do you continue the use of your _Short-hand_?
+
+Bum. _Yes, I do; and I have mended my_ Bastard-Secretary _very much
+since you saw it_.
+
+_Citt._ Will you be _Just_, _Diligent_, and _Secret_?
+
+Bum. _I'le give you what security you'le ask, for my_ Truth _and_
+Diligence; _and for my_ Secrecy, I could almost forget to _speak_.
+
+_Citt._ That Figure pleases me; but I must shrift you further. How
+stands your appetite to _Wine_ and _Women_?
+
+Bum. _Why truly at the rate of_ other flesh and blood.
+
+_Citt._ 'Tis not to barr ye neither; but what Liberties ye take, let
+them be _Private_; and either to advance the _Common-cause_, or at
+_spare hours_.
+
+Bum. _You cannot ask or wish more then I'le do._
+
+_Citt._ Only a word or two more, and then I'le let you into my affairs.
+What course did you propound to your self, in case your _Petition_ had
+succeeded? I ask this, because you seem so much troubl'd at the
+Disappointment.
+
+    Other Petitions upon the Anvill.
+
+Bum. _Why if this_ Petition _had gone_ on, _and the_ Parliament _had_
+met, _I was promis'd four or five_ Petitions _more; One against_ Danby,
+_and the Lords in the_ Tower, _another_ for the Sitting of this
+Parliament, till they had gone through all they had to do; _a_ Third,
+_for taking away the_ Bishops Votes, _a_ Fourth _for the Remove of_
+Evill Counsellours; _and a_ Fifth _for putting the_ Militia _into_ Safe
+hands.
+
+_Citt._ These points you must know, have been a long time upon the
+Anvill; and our Friends have Instructions all over the Kingdom, to
+proceed upon them to shew the Miraculous _Union_ of the Nation. But do
+you think because the _First Petition_ has receiv'd a _checque_, and the
+_Parliament_ is _Prorogu'd_, that therefore _the other Petitions must
+fall to the ground_?
+
+Bum. _I cannot well see how it should be otherwise._
+
+_Citt._ Why then let me tell you, _Bumpkin_, We'l bring the whole
+business about again, and carry it on, in spite of Fate: for we have
+better _heads_ at work perhaps then you are aware of.
+
+Bum. _Ay, but what_ Hands _have we_ Citt? _for it will come to that at
+last_.
+
+_Citt._ Those _Heads_ will find _Hands_, never trouble your self, if
+there should be occasion; but 'tis too early-days for that sport yet.
+'Twas an unlucky thing however to be so surpriz'd; For our Friends did
+no more dream of the _Sacrament_, then of their _Dying day_.
+
+Bum. _Well there's no recalling of what's past: But the Question is how
+we shall avoid it for the time to come._
+
+_Citt._ Nay _Bumpkin_, there's a Trick worth two of _avoiding_ it, we'l
+_Take_ it next bout, and then we're safe; we'l carry it; I'le undertake
+by _fifty Voices_.
+
+Bum. _But cannot the_ Aldermen _hinder you from putting it to the Vote_?
+
+    A Designe upon the Common-Council.
+
+_Citt._ 'Tis the custom of the City I confess, for the _Lord Mayor_ to
+_Summon_ and _dissolve Common-Councils_, and to put all points to the
+_Question_; but we'l finde a cure for that too. 'Tis a thing we've been
+a good while about already; the bringing down the _Authority_ of the
+_City_ into the _Major part_ of the _Commons_.
+
+Bum. _Now if the_ Mayor _and_ Aldermen _should be aware of this, they'l
+never endure it; but we must leave that to time. But hark ye_ Citt. _I
+thought our Friends refusing of the_ Sacrament had been matter of
+Conscience.
+
+    Distinctions of Consciences.
+
+_Citt._ Why so it is man, but take notice then, that you are to
+distinguish of _Consciences_: There is, _First_, a _plain, simple
+Conscience_, and that's a Conscience that will serve well enough to keep
+a man _Right_, if he meet with nothing else to put him _out of the way_.
+And then there's a _Conscience_ of _State_, or _Profit_; and _that
+Conscience_ yields, as a _Less Weight_ does to a _Greater_; an _Ounce_
+turns the _Scale_, but a _Pound_ carries the _Ounce_, and no body blames
+the _Weaker_ for being over-power'd by the _stronger_. There is a
+_Conscience_ of _Profession_ too; which is a _Conscience_ that does not
+so much regard the _Reason_ of the _thing_, as the being _True_ to a
+_Party_, when a man has past his _Word_: and this is the _Conscience_ of
+a man of _Honour_, that fights for his _Whore_. There is likewise a
+_Conscience_ of _Religion_, and that's a _quiet peaceable Conscience_,
+that rests in the Affections of the _Heart_, in submission to _Lawfull
+Institutions_; and in serving _God_, and doing Good to our _Nighbour_,
+without _Noise_ or _Ostentation_.
+
+    Consciences of State or Interest.
+
+Bum. _Well, but I see a great many very_ Consciencious men _that love
+to_ Pray _and_ Sing Psalms _next the_ Street, _that their Neighbours may
+hear 'um; and go up and down_ shaking of their Heads, _and_ wringing of
+their Hands, _crying out of_ the Calves _of_ Bethel, _and the_ High
+places, Popery, Prelacy, _and the_ Common-Prayer, _in such a manner,
+that 'twould grieve a bodies heart to see 'um_.
+
+_Citt._ These are _Consciencious men Bumpkin_, and this is the
+_Conscience_ of _State_ or _Profit_, that I told ye of.
+
+Bum. _Ay, but I have seen some men in Fits of the_ Spirit, Jump, _and
+fling about a_ Pulpit _so desperately, that they set the children a
+crying_ to have 'um let out. _One while they'd_ raise _themselves upon
+their_ Tip-toes, _and_ Roar out _upon a suddain, you'd have thought they
+had been pinch'd with_ Hot Irons; _and then all in an Instant, they'd_
+Dop down again, _that ye could hardly see 'um; And so_ fall _into a_
+faint, lamenting Voice, _like the_ Grone _of a poor woman_ three
+quarters spent in Labour. _Nay there was One of 'um that gap'd, and held
+his mouth open so long, that People cry'd out_, The man has a Bone in
+his Throat. _Those must needs be very_ Consciencious Men, Citt.
+
+_Citt._ They are so _Bumpkin_, but 'tis the _same Conscience_ still; for
+it works all manner of ways. We took up this Mode I suppose, from the
+_Transports_, and _Grimaces_ of the _Pagan Priests_, in the Ceremony of
+their _Sacrifices_, which had a very effectual operation upon the
+People.
+
+Bum. _Nay_ Citt, _these Men have a Holy way of_ Language _too, as well
+as of_ Behaviour, _for all their_ Talk _is of_ Heaven, _and_ Heavenly
+things, _the_ Saints _and_ the New Jerusalem; _they deal mightily, in_
+Expositions _upon the_ Viols, _and_ the Little Horn: _and then they are
+bitterly severe against_ Wicked Magistrates, _and those that_ Lord it
+over Gods Heritage. _They are_ in fine _a very_ Consciencious _sort of
+People_.
+
+_Citt._ Oh beyond question so they are: But this is still a Branch of
+the _same Conscience_. I have known indeed some people so Transported
+with this same _Talkative Holiness_, that it has been a kind of
+_Spiritual Salivation_ to 'um, they continue _spitting_ when they have
+not one drop of _Moisture_ left 'um in their _Bodies_.
+
+Bum. _Prethee_ Citt, _tell me in Honest_ English, _where shall a body
+finde the_ simple, _and the_ Religious Consciences _thou told'st me of_?
+
+    Not many Religious Consciences.
+
+_Citt._ Why every man living has the _Former_ of 'um, but takes no
+notice on't: But for the _Latter_ sort, 'tis very scarce; and you shall
+find more of it perhaps in _one Jayle_, or in _one Hospital_, then in
+all the _Courts_ of _Christendom_. It is commonly _the Blessing of men
+in years_, in _sicknesse_, or _in adversity_.
+
+Bum. _Ah_ Citt, _that I were but as capable of Learning as thou art of
+Teaching! Pre'thee explain thy self a little upon the_ Conscience _of_
+Profession _too_.
+
+    A Conscience of Profession.
+
+_Citt._ Observe me what I say then, _Bumpkin_; There is a _Profession_,
+_Particular_, and _General_: _Particular_, as when _One Cavalier_ serves
+another in a _Duell_, he's oblig'd to't by the _Profession_ of a
+_Sword-man_, without Formalizing upon the _Cause_. There's a
+_Conscience_ of _Profession_ even among the _Banditi_ themselves. What
+is it but the _Profession_ of _Presbytery_, that makes the whole Party
+oppose _Episcopacy_; as the _Independents_ do _Presbytery_, the
+_Republicans_, _Monarchy_, and the like.
+
+Bum. _Now I thought that there might have been_ Conscience _of_ State,
+_as well as of_ Profession _in These Cases_.
+
+_Citt._ Thou sayst very well, _Bumpkin_, and so there is, and of
+_Profit_ too; and it was much the same Case too, throughout the Circle
+of our Late Revolutions, when we _Swore_ and _Vow'd_ from the _Oaths of
+Allegiance_, and _Canonical Obedience_, to the _Protestation_, the
+_Solemn League and Covenant_, the _Engagement_, the _Negative Oath_, the
+Oath of _Abjuration_, and so till we swore round, into the _Oath of
+Allegiance_ again.
+
+Bum. _What do you mean now by your =Generall Profession=?_
+
+_Citt._ I mean the _Subordination_ of a _Partiall_ to a _Generall_, of a
+_Private Profession_ to a _Publick_; as thou seest in the Late Times,
+_Bumpkin_, how strictly the _Divided Reformers_ kept themselves to This
+Rule, so long as the _Common Enemy_ was upon his Legs.
+
+Bum. _But who do you mean by the =Common Enemy=?_
+
+_Citt._ I mean, the _Court_, and the _Church-Party_. So long (I say) all
+our Brethren of the Separation joyn'd as one man, against that
+_Inordinate Power_; and herein we were _Conscienciously True_ to our
+_General Profession_; but so soon as ever we had subdu'd that _Popish_
+and _Tyrannical Interest_, through the _Conscience_ of our _General
+Profession_, we then consulted our _Particular_; and every man did
+Conscienciously labour for the Establishment of _his own_ way. But now
+we come to the great Nicety of all; that is to say, the _Conscience_ of
+making a _Conscience_ of using _any Conscience at all_: There's a Riddle
+for ye, _Bumpkin_.
+
+Bum. _I must confess I do not understand one Bitt on't._
+
+    A Conscience of using no Conscience at all.
+
+_Citt._ That's for want of a Discerning Spirit _Bumpkin_. What does
+_Conscience_ signifie to the _Saints_, that are deliver'd from the
+Fetters of _Moral Obligations_, by so many _Extraordinary_ and
+_Over-riding Priviledges_, which are granted in a peculiar manner to the
+_People of the Lord_? What's he the _better_, or the _worse_, for
+_keeping_ or for _breaking_ the _Ten Commandments_, that lies under the
+_Predestinarian Fate_ of an _Unchangeable Necessity_ and _Decree_? What
+needs he care for any _other Guide_, that carries within himself an
+_Infallible Light_? Or He for _any Rule at all_ that cannot _sin_? For
+the _same thing_ may be _sin_ in _another man_, which in _Him_ is
+_None_.
+
+Bum. _Really this is admirable: So that we that are the =Elect= are
+bound up by no =Laws= at all, either of =God= or of =Man=._
+
+_Citt._ Why look you now for that; we _Are_, and we are _Not_. If it so
+happens that the _Inward_ and _Invisible Spirit_ move us to do _the same
+thing_, which the _Outward_, and _Visible Law_ requires of us; in _That
+Case_ we are _Bound_; but so, as to the _Spirit_, not to the _Law_: and
+therefore we are bid to _stand fast in our Christian Liberty_.
+
+    Of Christian Liberty.
+
+Bum. _That's extreamly well said, for if =We Christians= should be
+Shackled with =Human Laws=, which can only reach the =Outward Man=, then
+are =the Heritage of the Lord=, in no better Condition then the
+=Wicked=, and the =Heathen=._
+
+    The Extent of it.
+
+_Citt._ Oh! th'art infinitely in the Right: for if it were not for this
+_Christian Liberty_, we could never have _Justify'd_ our Selves in our
+_Late Transactions_: the _Designe_ of _Overturning the Government_ had
+been _Treason_; taking up _Arms_ against the _King_, _Rebellion_;
+_Dividing_ from the _Communion_ of the _Church_ had been _Schism_;
+appropriating the _Church Plate_, and _Revenues_ to _Private Uses_, had
+been _Sacriledge_; Entring upon _Sequester'd Livings_ had been
+_Oppression_: taking away mens _Estates_ had been _Robbery_;
+_Imprisoning_ of their _Persons_ had been _Tyranny_; using the name of
+_God_ to all This, would have been _Hypocrisy_, forcing of
+_Contradictory Oaths_ had been _Impiety_, and Shedding the _Blood_ both
+of the _King_, and his _People_, had been _Murther_: And all This would
+have appear'd so to be, if the _Cause_ had come to be _Try'd_ by the
+_Known Laws_ either of _God_, or of _Man_.
+
+Bum. _Make us thankfull now! What a blessed State are we in, that =Walk
+up to our Calling=, in =Simplicity= and =Truth=, whose =Yea= is =Yea=,
+and whose =Nay= is =Nay=. 'Tis a strange way thou hast, =Citt=, of
+making things out to a man. Thou wert saying but now, that the =same
+thing= may be a =Sin= in =One Man=, and =not= in =Another=. I'm thinking
+now of the =Jesuites=._
+
+_Citt._ Oh That's a _Jugling, Equivocating, Hellish_ sort of _People_;
+'tis a thousand pitties that they're suffer'd to live upon the Earth;
+They value an _Oath_ no more then they do a _Rush_. Those are the
+_Heads_ of the _Plot_ now upon the Life of the _King_, the _Protestant
+Religion_, and the _Subversion_ of the _Government_.
+
+    Jesuites and Phanatiques compar'd.
+
+Bum. _Ay, Ay, =Citt=, they're a =damn'd Generation= of =Hell-hounds=.
+But, as I was thinking just now; we have so many things among =Us=, like
+some things among =Them=, that I have been run down some times allmost,
+as if We =our selves= were =Jesuites=; though I know there's as much
+difference, as betwixt =Light=, and =Darknesse=: and for my part, =I
+defie them as I do the Devill=._
+
+    A vast Difference betwixt them.
+
+_But =Citt= thou hast so wonderfull a way of making matters plain, I'de
+give any thing in the world thou'dst but teach me what to say in some
+Cases, when I'm put to't. One told me t'other day, =You are rather worse
+then the= Jesuites; (says he) =for when =They= break an =Oath=, they
+have some =mental Reservation= or other for a =Come-off:_ But _You_
+Swallow your _Perjuryes, just_ as _Cormorants_ do _Eeles_; an _Oath's_
+no sooner _In_ at _One End_, then _Out_ at _t'other_.
+
+_Citt._ Let your Answer be This, _Bumpkin_, That the _Lawmaker_ is
+_Master_ of _his own Laws_; and that the _Spirits dictating_ of a _New
+Law_, is the _Superseding_ of an _Old one_.
+
+    Their Practices compar'd.
+
+Bum. _These are hard words_, Citt; _but he told me further_, don't _You_
+Justifie _King-Killing_ (_says he_) as well as the _Jesuits_? Only
+_They_ do't with _Pistol_, _Dagger_, and _Poyson_; and _You_ come with
+Your _Horse_, _Foot_, and _Cannon_: _They_ proceed by _Excomunicating_,
+and _Deposing_; by _dissolving_ the _Character_, _first_, and _then
+destroying_ the _Person_; and just so did _You_. _First_, ye _Depos'd_
+the _King_, and _Then_ ye _Beheaded Charles Stuart_. And then you need
+never go to _Rome_ for a _Pardon_, when every man among you is _his own
+Pope_.
+
+    The Fanaticks Clear'd.
+
+_Citt._ Now your Answer must be This; That we had, _First_, the
+_Warrant_, for what we did, of _an Extraordinary Dispensation_. (as
+appear'd in the providence of our Successes) _Secondly_, we had the
+_Laws_ of _Necessity_, and _Self-preservation_ to Support us. And
+_Thirdly_, the _Government_ being _Coordinate_, and the _King_ only
+_One_ of the _Three Estates_; any _Two_ of the _Three_ might deal with
+the _Third_ as They thought _Fit_: Beside the _Ultimate Soveraignty_ of
+the _People_, over and above. And now take notice, that _the same
+Argument_ holds in the _Subversion_ of the _Government_.
+
+Bum. _Now you have Arm'd me Thus far, pray'e help me on, one step
+farther; for I was hard put to't not long Since, about the businesse of
+the_ Protestant Religion. _What is_ That, _I pray'e, that ye call the_
+Protestant Religion?
+
+    Of Dissenting Protestants.
+
+_Citt._ You are to understand, that by the _Protestant Religion_ is
+meant the _Religion_ of the _Dissenters_ in _England_, from the _Church_
+of _England_; As the _First Protestants_ in _Germany_ 1529. (from whom
+we denominate our Selves) were _Dissenters_ from the _Church_ of _Rome_:
+And So _Call'd_ from the famous _Protestation_ they enter'd against the
+_Decree_ of the _Assembly_ at _Spires_, against _Anabaptists_.
+
+Bum. _So that I perceive We_ Set up _the_ Protestant Religion; _we did
+not_ Destroy _it: But they prest it Then, that the_ Church of England
+_was a_ Protestant Church, _and that the_ Jesuites _had only_ Design'd
+_the_ Destruction _of it, where as_ We _did_ Actually Execute _it_.
+
+_Citt._ Your Answer must be, that the _Church_ of _England_, though it
+be a little _Protestantish_, it is not yet directly _Protestant_: As on
+the Other side, it is not altogether the _Whore_ of _Babilon_, though a
+good deal _Whorish_; and therefore the Reply to That must be, that we
+did not _Destroy_, but only _Reform_ it.
+
+Bum. _Why I have answer'd People out of my Own_ Mother-Wit, _that we did
+but_ Reform _it_. _And they told me again, the Cutting of it off_ Root
+and Branch, _was a very Extraordinary way of_ Reforming.
+
+    The meaning of Root and Branch.
+
+_Citt._ The Answer to That is Obvious, that the _Cutting Off Root and
+Branch_, is only a _Thorow_, or a _Higher degree_ of _Reforming_.
+But upon the whole matter, it was with _Us_ and the _Jesuites_, as it
+was with _Aaron_ and the _Magicians_; we did _Both_ of us, make
+_Froggs_, but _We alone_ had the Power to quicken _the Dust of the Land,
+and turn it into Lice_.
+
+Thou art by this time, I presume, sufficiently instructed in the
+_Methods_, and _Fundamentalls_ of the _Holy Cause_. I shall now give you
+some necessary Hints, to fit, and quallify you for the Province that I
+intend you. But besure you mind your _Lesson_.
+
+Bum. _As I would do my_ Prayers, Citt, _or I were Ungratefull, for you
+have made me for ever._
+
+_Citt._ Come we'l take _t'other Sup_, first, and then to work. _Who
+wayts there without? Two Potts more, and shut the door after Ye._
+
+A great part of Your businesse, _Bumpkin_, will ly among
+_Parliament-Rolls_ and _Records_; for it must be _Our Post_ to furnish
+_Materialls_ to a _Caball_ only of _Three Persons_, that may be ready
+upon Occasion, to be made use of by the _Grand Committee_.
+
+    Rolls and Records hunted for Presidents.
+
+Bum. My _Old Master would say that I had as good a guesse at a_ Musty
+Record, _as any man; And 'twas my whole Employment almost, to hunt for_
+Presidents. _Nay the People would Trust me with_ Great Bags _home to my
+Lodging; and leave me alone sometimes in the_ Offices _for four and
+twenty hours together._
+
+_Citt._ But what kind of _Presidents_ were they that Ye lookt for?
+
+Bum. _Concerning the_ Kings Prerogative, Bishops Votes, _the_ Liberty
+_and_ Property _of the_ Subject; _and the like: And such as They wanted,
+I writ out._
+
+_Citt._ But did you Recite them _Whole_? or what did you _Take_, and
+what did you _Leave_?
+
+Bum. _We took what serv'd our Turn, and left out the Rest; and sometimes
+we were taken =Tripping=, and sometimes we =Scap'd=: But we never
+falsify'd any thing. There were some dogged Passages, indeed we durst
+not meddle with at all; but I can turn ye to any thing you have occasion
+for, with a wet-finger._
+
+    Lessons of behaviour for the Well-affected.
+
+_Citt._ So that here's One great point quickly over; in thy being
+Train'd to my hand: A man might lay thee down _Instructions_, now, for
+thy very _Words_, _Looks_, _Motions_, _Gestures_; nay thy very
+_Garments_; but we'l leave those matters to Time, and Study. It is a
+strange thing how Nature puts her self forth, in these _Externall
+Circumstances_. Ye shall Know a _Sanctifi'd Sister_, or a _Gifted
+Brother_ more by the _Meene_, _Countenance_, and _Tone_, then by the
+Tenour of their _Lives_, and _Manners_. It is a Comely thing for Persons
+of the Same Perswasion, to agree in these _Outward Circumstances_, even
+to the _drawing_ of the _same Tone_, and _making_ of the _same Face_:
+Always provided, that there may be read in our _Appearances_, a
+_Singularity of Zeal_, a _Contempt of the World_, a _fore-boding of
+Evills to come_; a _dissatisfaction at the Present Times_; and a
+_Despair of Better_.
+
+Bum. _Why This is the very Part, that I was Made for; these Humours are
+to be put =On=, and =Off=, as a man would shift his =Gloves=; and you
+shall see me do't as Easily too; but the =Language= must be got, I
+Phansy, by Conversing with =Modern Authours=, and frequenting =Religious
+Exercises=._
+
+_Citt._ Yes, yes, and for a help to your memory I would advise you to
+dispose of your Observations into these _Three Heads_, _Words_,
+_Phrases_, and _Metaphors_: Do you conceive me?
+
+    The Force of Looks and Tones.
+
+Bum. _There's not a word you say, falls to the Ground. And I am the more
+sensible of the force of =Words=, =Looks=, =Tones=, and =Metaphors= (as
+ye call 'um) from what I finde in my self. =Ours= certainly may be well
+term'd a =Powerfull Ministry=, that makes a man cry like a Child at the
+very =Noyse= of a Torrent of =Words= that he does not =Understand One
+Syllable= of. Nay, when I have been out of reach of hearing the =Words=,
+the very =Tone= and =Look=, has =Melted= me._
+
+    A Moving Metaphor.
+
+_Citt._ Thou canst not but have heard of _That Moving Metaphor_ of the
+late Reverend _Mr. Fowler_: _Lord Sowse us;_ (says he) _Lord Dowse us,
+in the Powdering-Tubb of Affliction; that we may come forth Tripes
+worthy of thy Holy Table._ Who can resist the _Inundation_ of This
+_Rhetorique_? But let us now pass from the _Generall Ornaments_ of our
+_Profession_, to the _Particular businesse_ of our _present Case_.
+
+I need not tell you, _Bumpkin_, of the _Plott_, or that we are all
+running into _Popery_; and that the best Service _Englishman_ can do his
+Country, would be the ripping up of This Designe to the _Bottom_.
+
+Bum. _I am so much of Your Opinion, that you have Spoken my very
+Thoughts._
+
+_Citt._ Bethink your self, _Bumpkin_; what _Papists_ do you know?
+
+Bum. _Oh, hang 'um all, I never come near any of 'Um._
+
+_Citt._ But yet you may have Heard, perhaps, of some people that are
+_Popishly affected_.
+
+Bum. _Yes, yes; There are abundance of Them._
+
+_Citt._ Can you prove that ever they _Sayd_, or _Did_ any thing, in
+favour of the _Papists_?
+
+Bum. _Nay there's enough of That I believe; but then there are such_
+Huge Great men among 'um.
+
+_Citt._ Pluck up a good heart _Bumpkin_; the _Greater_, the _Better_; We
+fear 'um not. Rub up your Memory, and call to minde what you can say
+upon _Your own Knowledge_, and what you have _Heard_; either about _Sir
+Edmond-Bury Godfrey_, The _Plott_; The _Traytors_ that Suffer'd, or the
+_Kings Evidence_.
+
+Bum. _I have seen people_ shrug _sometimes, and lift up their_ Hands
+_and_ Eyes, _and shake their_ Heads, _and then they would clutch their_
+Fists, _look sour_, _make_ Mouths, _and bite their_ Nails, _and so: And
+I dare swear I know what they thought._
+
+_Citt._ Ah _Bumpkin_, if they had but so much as mutter'd, they'd been
+our own.
+
+    Signs in Evidence.
+
+Bum. _Well but hark ye_ Citt, _I hear People swear_, or in WORDS to this
+Effect; _why may not a Man as well swear_, in SIGNS to this Effect? _and
+that they lifted up their_ Eyes, _and_ hands, _bent their_ Fists, _knit
+their_ Brows, _and made_ Mouths, to this or that Effect?
+
+_Citt._ No, that will never do _Bumpkin_, but if thou could'st but
+phansy that thou heard'st them _speak_.
+
+Bum. _Why truly I never thought on't, but I saw a_ Parson _once, the
+Tears flood in his Eyes, as one of 'um went by to Execution. But your_
+Surcingle-men, (_as our Doctor told us last Lords day_) _are all of 'um_
+Papists in their Hearts.
+
+_Citt._ Why what's the _Common-Prayer Book Bumpkin_, but a mess of
+_Parboyl'd Popery_?
+
+Bum. _I'm a dog, if our Minister does not pray for the_ Queen _still._
+
+    Sad Times.
+
+_Citt._ Nay, we are e'en at a fine pass, when the _Pulpit_ prays for the
+_Queen_, and the _Bench_ Drinks the _Duke of Yorks Health_. But to the
+point, bethink your self well; a man may forget a thing to day, and
+recollect it to morrow. Take notice however, that it is another main
+point of your Instructions to procure _Informations_ of this quality.
+
+Bum. _I'le fit you to a hair for that matter: But then I must be running
+up and down ye know, into_ Taverns, _and_ Coffee-houses, _and thrusting
+myself into_ Meetings, _and_ Clubs. _That licks mony._
+
+_Citt._ Never trouble your self for that, you shall be well paid and
+your expences born: Beside so much a head from the State, for every
+Priest that you discover.
+
+Bum. _Well! these_ Priests _and_ Jesuites _are damn'd fellows._
+
+_Citt._ And yet let me tell you _Bumpkin_, a _bare fac'd Papist_ is not
+half so bad as a _Papist_ in _Masquerade_.
+
+Bum. _Why what are those I prethee?_
+
+    Church worse to Dissenters then Jesuites.
+
+_Citt._ They are your _Will-worship-men_, your _Prelates Brats_: Take
+the whole Litter of 'um, and you'l finde _never a barrel better
+Herring_. Let me tell thee in Love _Bumpkin, these Curs_ are forty times
+worse to _Us_ then the _Jesuits themselves_; for the _One_ is an _Open
+Enemy_, the _Other_ lies gnawing like a Canker in our _Bowells_. And
+then being train'd up to _Latin_ and _Greek_, there's no opposing of the
+_Power of Godlinesse_ to the _Sophistry_ of _Human Reason_: Beside that,
+the _Law_ is _For_ us in the _One_ Case, and _Against_ us in the
+_Other_.
+
+Bum. _Which way shall we go to work then, to deal with this Generation
+of Men?_
+
+_Citt._ We must joyn the _Wisdom_ of the _Serpent_, to the _Innocence_
+of the _Dove_; and endeavour to compass that by _stratagem_, which we
+cannot gain by _Argument_. But now am I going to open a _Mistery_ to
+thee, that's _worth_----
+
+Bum. _Prethee the_ Worth _on't_ Citt: _For talk is but talk, the_ Worth
+_is the_ Main point.
+
+_Citt._ Why then let me tell thee _Bumpkin_, the _Mistery_ that I am
+about to disclose to thee, was _worth_ to our Predecessours not long
+since, no less then _Three Kingdoms_, and _a better penny_. But I'le
+seal your Lips up, before I stir one step further.
+
+Bum. _Why look ye_ Citt, may this Drink never go thorough me, if ever
+blab one Syllable of any thing thou tell'st me as a Secret.
+
+_Citt._ Hold, hold, _Bumkin_, and _may it never come up again if thou
+do'st_; for we'l have no shifting.
+
+Bum. And may it never come up again neither if I do.
+
+    The strange agreement of Dissenters.
+
+_Citt._ Well, I'm satisfy'd, and now give attention; thou seest how
+unanimously fierce all the several Parties of the _Protestant
+Dissenters_ are against the _Papists_. Whence comes this _Conjunction_,
+I prethee, of so many _separate Congregations_, that are many of them
+worse then _Papists, One_ to _Another_? There must be in it, either
+_Conscience_, or _Interest_: If it were _Conscience_, we should fall
+foul _One_ upon _Another_, and for matter of _Interest_; when the
+_Papists_ are _destroy'd_, we are but still where we were.
+
+Bum. _This is a crotchet_, Citt, _that did not fall under my Night-Cap._
+
+    The scope of that Agreement.
+
+_Citt._ Be enlighten'd then. It is not the Destruction of those that are
+_Really Papists_, that will do our Work; for there's nothing to be got
+by't. But it must be our business to make _those people_ pass for
+_Papists_, that are _not_ so, but only have _Places_ to Lose: such as we
+our selves, by the removal of them, may be the better for; and _This,
+Bumpkin_ must be _our Master-piece_.
+
+Bum. _I had this very phansy my self_, Citt; _but it stuck betwixt my
+Teeth, and would not out._
+
+_Citt._ You hear now in General, what is to be done; You must be next
+instructed in the Acts of _Raising_, _Cherishing_, and _Fomenting_ such
+_Opinions_; in what Cases to _Improve_ them, and where to _apply_ them.
+
+    Who are Popishly affected in the first place.
+
+Bum. _I'm perswaded my Masters Brother had this very thing in his Head,
+though he never made any words on't to me, He had got a List of all the
+considerable Offices and Employments in the Kingdom: And I remember he
+was us'd to say, that most of the respective_ Officers _were either_
+Corrupt, _or_ Popishly affected. _If they were_ Publick Ministers;
+_either the_ Kings Councells _were_ betray'd, _or they put him upon
+Governing in an_ Arbitrary way, _and without_ Parliaments: _As for the_
+Judges _there was either_ Bribery, Absolute Power, _or_ Oppression _laid
+to their Charge; and so all the rest were branded for_ Frauds,
+Imbezilments, _and the like, according to the Quality of their
+businesse: All the_ Governours _of_ Towns, Castles, _and_ Forts, _were_
+Popishly Inclin'd; _and not to be Trusted. And then all_ Ecclesiasticall
+Officers, _whatsoever, within four or five, were half way at_ Rome
+_already._
+
+_Citt._ This is well remembred, _Bumpkin_; Now 'tis worth a bodies while
+to make _these Blades_ passe for _Papists_, and _Traitors_, that leave
+_Good Offices_ behinde 'um. Nay, we must not suffer so much as any man,
+either of _Brains_, or _Fortune_ (that does not joyn with _Us_) to passe
+untainted.
+
+Bum. _Thou say'st Right_, Citt; _for whosoever is not_ With _us, is_
+Against _us._
+
+_Citt._ Thou hast spoken patt to This point, _Bumpkin_, but yet thou
+begin'st at the wrong End; For you must first get the skill of
+_Raising_, and _Improving a Report_, before ye come to the _Fixing_ of
+it: For that's a Nicety not to be medled with, till we come to the
+taking out of the very Pins, and the Unhinging of the Government; So
+that the _First Clamour_ must be Level'd point-blank at some _Known_,
+and _Eminent Papists_.
+
+Bum. _Well, but what shall we_ Charge 'um with?
+
+_Citt._ Why, if we were Once at the bottom of _This Plot_ (which, upon
+my soul, _Bumpkin_, is a most hideous one) and wanted _matter_ for
+_Another_, I would charge them with a designe of betraying us to a
+_Foreign Enemy_.
+
+Bum. _As how a_ Foreign Enemy _pre'thee?_
+
+    A Heavy Charge.
+
+_Citt._ As Thus: I would charge 'um with holding an Intelligence with
+the Emperor of _Morocco_, for the Landing of _five and thirty thousand
+Light-horse men_ upon _Salisbury Plain_.
+
+Bum. _Pre'thee_, Citt, _don't_ Romance.
+
+    Nothing Incredible.
+
+_Citt._ Pre'thee do not _Balderno_, ye should say; Speak _Statutable
+English_, ye Fool you. Thou think'st perhaps that the people will not
+believe it: Observe but what I say to thee; let it but be put into the
+_Protestant Domestique_, that his _Imperiall Majesty_ is to hold up his
+hand at the _Kings Bench-barr_ for't, and let me be Dogs-meat if they do
+not swallow That too. Why pre'thee, _Bumkin_, we must make 'um believe
+stranger Things than This, or we shall never do our businesse. They must
+be made to believe that the _King_ intends to play the _Tyrant_; that
+all his _Counsellors_ are _Pensioners_ to the _French King_; that all
+his _Enemies_ are turn'd his _Friends_, o'th sodain, and all his
+_Friends_, his _Enemies_; That _Prelacy_ is _Anti-Christian_; all our
+_Clergy-men_, _Papists_, the _Liturgy_ the _Masse-Book_, and that the
+_Ten Commandments_ are to be read _backward_.
+
+Bum. _Blesse me_, Citt, _what do I hear?_
+
+    Popish Ministers may have Orthodox Offices.
+
+_Citt._ Come, come, Sirrah; y'are under an Oath; and This is the plain
+Truth on'. What is it to Thee and Me, I pre'thee, whether the _Great
+Ministers_ be _True_, or _False_; Or what _Religion_, the _Clergy_ are
+of, so long as their _Livings_ ye Rogue, are _Orthodox_, and their
+_Offices well-Affected_.
+
+Bum. _This does Qualifie, I must confess. But you were saying, that the
+First Clamour should be levell'd at some_ Known _and_ Eminent Papists:
+_Now what comes after That, I beseech you?_
+
+_Citt_. You may safely Mark all Their Friends then for
+_Popishly-Affected_; and so consequently on to all that _Love them_, and
+all that _They Love_. When this Opinion is once started, 'tis an Easy
+matter, by the help of _Invention_, and _Story_, to improve it; and by
+this means we shall come, in a short time to secure all the _Councils_
+of the Nation to _our Party_, that are chosen by _Suffrage_. If you were
+read in History you would finde, that still _as the_ Papists _set the
+House on fire, the_ Non-conformists _took the Opportunity of rosting
+their own Eggs_.
+
+    Who are Popishly affected.
+
+Bum. _Yes, yes, I understand ye. As for Example now,_ One _goes to the_
+Lords _in the_ Tower, another (_as you were saying_) _drinks the_ Dukes
+Health, _a_ Third _prays for the_ Queen: _a_ Fourth _Phansies_ Two
+Plots; _a_ Fifth _refuses the_ Petition, _a_ Sixth _speaks well of my_
+Lord Chief Justice, _or calls the_ Protestant Domestick _a_ Libel. _All
+these now are_ Popishly-Affected.
+
+_Citt._ Save your breath _Bumpkin_, and take all in one word: whosoever
+will not do as we would have him shall be _made_ so.
+
+But now to the matter of _Invention_, and _Story_; I hate the
+over-hearing of Discourses, in Blinde Allyes, and such ordinary _Shams_:
+I'm rather for coming downright to the _Man_, and to the _Poynt_; after
+the way of the Protestant Domestique.
+
+    Matters of Moment.
+
+Bum. _Ay, ay: There's your_ free Speaker. _Well_ Citt, the King wants
+such men about him. _But pre'thee hear me; Is it certain his Majesty has
+Lent the King of_ France Three Millions?
+
+_Citt._ No, no; some Two and a half; or thereabouts.
+
+Bum. _Why, if the King would but make a League now with the_ Swiss _to
+keep the_ Turk _off_, That way; _and another with the_ Protestants _in_
+Hungary, _to keep off the_ French, _the whole world could never hurt
+us._
+
+_Citt._ Nay that's true enough, but then the _Pole_ lies so damnably
+betwixt _Us_ and the _Baltique_.
+
+Bum. _I'de not value that a Half-penny, so long as we have the_
+Waldenses _to Friend._
+
+_Citt._ And then _New-England_ lies so conveniently for _Provisions_.
+But what do you think of drawing _Nova Scotia_, and _Geneva_ into the
+_Alliance_?
+
+Bum. _Ay, but there's no hope of that: so long at the King follows these
+Counsells._
+
+_Citt._ Thou art a great Read man I perceive in the _Interests of
+States_.
+
+Bum. _I have always had a phansy to_ Stows Survey _of_ London, _and
+those kinde of Books._
+
+_Citt._ But Good _Bumpkin_, what's thy Opinion of the _Bishops Votes_,
+in Case of _Life and Death_?
+
+Bum. _Ay, or in Cases of_ Heaven and Hell _either. Why as true as thou
+art a man_ Citt, _we have but_ three Protestant Bishops _in the Nation;
+and I am told they are warping too._
+
+_Citt._ Prethee why should we look for any _Protestant Bishops_ in the
+_Kingdom_, when there's no _Protestant Episcopacy_ in the _World_? but
+for all this, we may yet live to see the _Rufling_ of their _Lawn
+sleeves_.
+
+Bum. _Oh, now I think on't; dist thou ever reade the Story of_ Moses
+_and the_ Ten Tables?
+
+_Citt._ The _Two Tables_ in the _Mount_ thou mean'st.
+
+Bum. Gad _I think 'tis the_ Two Tables. _I read it in Print t'other day,
+in a very good Book, that as sure as thou art alive now,_ the Bishops in
+_Henry the 8th._ made the _Ten Commandments._
+
+_Citt._ Why that was the reason, _Bumpkin_, when the _Lords and Commons_
+put down _Bishops_, they put down the _Ten Commandments too_; and made
+_New ones_ of their _Own_. And dost not thou take notice that they put
+down the _Lords Prayer_ too, because 'twas akinn to the _Popish
+Pater-Noster_? and then for the _Creed_, they cast it quite out of the
+_Directory_.
+
+Bum. _Now as thou lay'st it down to me, the Case is as clear as
+Christal. And yet when I'm by my self sometime, I'm so affraid methinks
+of being_ Damn'd.
+
+_Citt._ What for, ye Fop you?
+
+Bum. _Why for_ Swearing, Lying, Dissembling, Cheating, Betraying,
+Defaming_, and the like._
+
+    The Brethren are only for Profitable Sins.
+
+_Citt._ Put it at worst, do not you know that every man must have his
+_Dos_ of _Iniquity_? And that what you take out in _One way_ you abate
+for in _another_, as in _Profaning, Whoring, Drinking_, and so forth.
+Suppose you should see P O Y S O N set in Capital Letters, upon _seaven
+Vials_ in a _Laboratory_; 'twere a madness I know, for any man to
+venture his Life upon 'um, without a _Taster_. But having before your
+Eyes so many instances, of men that by drinking of these Poysonous
+Liquors, out of a _Consumptive, half-starv'd_, and _Heart-broken_
+Condition, grow _Merry, Fat_, and _Lusty_, would not you venture too?
+Imagine These _Seven_ _Waters_ to be the _Seven Deadly Sins_, and then
+make your _Application_.
+
+Bum. _Nay, the Case is plain enough, and I cannot see why that should be
+a_ Poyson _to_ me, _that's a_ Preservative _to_ Another: _Only our
+Adversaries twit us with Objections of_ Law _forsooth, and_ Religion.
+
+_Citt._ Wherefore the Discipline of the Late Times sav'd a great deal of
+puzzle. Mr. _Prynn_ sent _His Clients_ to Mr. C_ase_ for _Religion_; and
+Mr. _Case_, in requital, sent _His_ to Mr. _Pryn_ for _Law_; which kept
+up a concord among the _Well-affected_. But your Lesson in both these
+Cases, falls into a very Narrow compass.
+
+Bum. _Pray'e let it be_ Plain _that I may_ understand _it; and_ short
+_that I may_ Remember _it._
+
+    Three Positions.
+
+_Citt._ Keep close only to these _Three Positions: First_, that the
+_King_ is _One_ of the _Three Estates; Secondly_, that the _Sovereign
+Power_ is in the _People_; and _Thirdly_, that it is better to obey
+_God_, then _Man_. These Fundamentals will serve to guide ye in allmost
+any dispute upon this Matter, that can occur to you.
+
+Bum. _But what becomes of me, if my Adversaries should turn the question
+another way?_
+
+_Citt._ I'le fortify you there too. And let me tell you that he'l have
+much ado to keep himself Clear of one of these Two Rocks: Either of
+Dashing upon the _Plott_, or upon the _Liberty of the Subject_. As for
+Example,
+
+    L'Estrange Confuted.
+
+There's _L'Estrange_; as wary a Dog perhaps, as ever pist; and yet ye
+shall see how we have hamper'd Him. I writ the thing my self, ye must
+know, though it comes out in the Name of _the Authour of the Weekly
+Pacquet of Advice from_ Rome. 'Tis Dedicated to _Both Houses of
+Parliament_; and Design'd just for the 26th. of _January_: So that if
+the Parliament had Set, there would have been means us'd to have had him
+Question'd for't.
+
+Bum. _Gad, I know where y'are now. 'Tis in the_ Preface _to the_ History
+of the Damnable Popish Plott.
+
+_Citt._ Ay, that's it. I'le give ye First, the _Words_ in't that concern
+_L'Estrange_, and you shall _Then_ see the _Writings_ of _His_ that I
+have reflected upon.
+
+Bum. _Oh, 'Tis a devilish witty Thing,_ Citt; _I have seen it. Methinks
+the Rogue, should hang himself out of the way. I'le go to_ Mans
+Coffee-house _and see how he Looks on't._
+
+_Citt._ No, no, Pox on him; he's an Impudent Curr; nothing less than a
+Pillory will ever put Him out of Countenance. This Toad was in
+_Newgate_, I know not how long; and yet he'l take no warning.
+
+Bum. _You must consider,_ Citt, _that he writes for_ Money; O my Soul,
+they say, the Bishops have given him five hundred Guynnyes. _But
+pre'thee_ Citt; _hast not thou seen_ the Answer to the Appeal,
+Expounded.
+
+_Citt._ Yes, but I ha' not read it.
+
+Bum. _Why then take it from me,_ Citt, _'tis one of the shrewdest_
+_Pieces that ever came in Print._ L'Estrange, _you must know, wrote an_
+Answer _to the_ Appeal.
+
+_Citt._ We've a sweet Government the while, that any man should dare to
+fall foul upon _That Appeal_.
+
+Bum. _Well, but so it is; and_ Another _has written Notes upon_ Him:
+_You cann't imagine_ Citt, _how he windes him about's Finger; And calls
+him_ Fidler, Impudent, Clod-pate; _and proves him to be a_ Jesuite, _and
+a_ Papist, _as plain as the Nose of a mans Face: he shews ye how he
+accuses the_ Kings Evidence; _and that he is in_ Both Plots, _in I know
+not how many places._
+
+    _Citt_ drawing up Articles.
+
+_Citt._ I have known the man a great while; and let me tell ye in
+Private, I am to draw up _Articles_ against him. But I have been so busy
+about my _Lord Chief Justices Articles_, and _Other Articles_ against _a
+Great Woman_, that lay upon my hand, that I could not get leisure; and
+yet I should have met with him long e're This too, for all That, but
+that the _Committee_ Sits so cursedly Late: And then they have cut me
+out such a deal of work about the _Succession_. Well I heard a great
+Lord say, that _That History of his deserv'd to be burnt by the hand of
+the Common Hang-man_.
+
+Bum. _Bravely sayd,_ Citt, _I Faith: who knows but we two may come to
+be_ Pillars _of the_ Nation? Thou _shalt stand up for the_ City, _and I
+for the_ Country.
+
+_Enter_ Trueman _out of a Closet._
+
+    Enter _Trueman_.
+
+_Citt._ Trepan'd, by the Lord, in our own way.
+
+_Trueman._ Nay hold, my Masters; we'l have no flinching. Sit down, ye
+had best, without putting me to the Trouble of a Constable.
+
+_Citt._ Why we have said nothing, sir, that we care who hears; but
+because you seem to be a Civill Gentleman, my Service to you, Sir.
+
+Bum. _Ay, Sir; and if you'l be pleased to sit down and Chirp over a Pot
+of Ale as we do, y're wellcome._
+
+    _Citt's_ Faculty and Employment.
+
+_True._ Very-good; And _You_ are the _Representative_ (forsooth) of the
+City, and _You_, of the _Country. Two_ of the _Pillars_ of the _Nation_,
+with a Horse-Pox; A man would not let down his Breeches in a House of
+Office that had but _Two such Supporters_. Do not I know you, _Citt_, to
+be a little _Grubstreet-Insect_, that but t'other day scribled
+Handy-dandy for some _Eighteen-pence_ a _Job_, _Pro_ and _Con_, and glad
+on't too? And now, as it pleases the stars, you are advanc'd from the
+_Obort_, the _Miscarriage_, I mean, of a _Cause-splitter_, to a
+_Drawer-up_ of _Articles_: and for your skill in _Counterfeiting hands_,
+preferr'd to be a _Sollicitor_ for _Fobb'd Petitions_: You'l do the
+_Bishops bus'nesse_, and You'l do the _Dukes bus'nesse_; And who but
+_You_, to tell the _King_ when he shall make _War_, or _Peace_; call
+_Parliaments_, and _whom_ to _Commit_, and _whom_ to _let go_? And then
+in your Fuddle, up comes all; what such a Lord told you, and what you
+told him; and all this Pudder against your Conscience too, even by your
+own Confession.
+
+_Citt._ Y'are very much Mis-inform'd of Me, Sir.
+
+_True._ Come, I know ye too well to be mistaken in you; and for your
+part, _Bumpkin_, I look upon you only as a simple Fellow drawn in.
+
+    _Bumpkins_ account of himself.
+
+Bum. _Not so_ simple _neither, it may be, as you take me for. I was a_
+Justices Clerk _in the_ Countrey, _till the bus'nesse of the_ Petitions;
+_and my Master was an Honest Gentleman too, though he's now put out of
+Commission: And to shew ye that I am none of your_ simple Fellows (_do
+ye mark_) _if ye have a minde to dispute upon_ Three Points, _I'm for
+you._ First, _the_ King _is_ One _of the_ Three Estates; Secondly, _the_
+Sovereign Power _is in the_ People. _And_ Thirdly, _'Tis better to Obey_
+God _then_ Man.
+
+_Citt._ Always provided, _Bumpkin_, that the Gentleman take no advantage
+of what's spoken in Discourse.
+
+_True._ No, there's my hand I will not; and now let's fall to work. If
+the King of _England_ be _One_ of the _Three Estates_, then the _Lords_
+and _Commons_ are _two Thirds_ of the _King of England_.
+
+    _Bumpkin's_ way of Argument.
+
+Bum. _Oh pox, you've a minde to put a sham upon the Plot, I perceive._
+
+_True._ Nay, if y'are thereabouts:--Well; If the _Soveraignty_ be in the
+_People_, why does not the _Law_ run In the Name of our _Sovereign
+Lords_ the People?
+
+Bum. _This is a meer_ Jesuitical Trick, _to disparage the_ Kings
+Witnesses; _for_ They _are part of the_ People. _Now do you take up the
+Cudgels_, Citt.
+
+_True._ Do so, and we'l make it a short business, and let's have no
+shifting.
+
+    The Composition of the Committees.
+
+Now to shew ye that I gave good heed to your Discourse, I'le run over
+the Heads of it as you deliver'd them. First, for _Committees_, and
+_Grand Committees_, what are they compounded of, but _Republicans_, and
+_Separatists_, a Medly of People disaffected both to _Church_ and
+_State_? This you cannot deny; and that they would not suffer any man
+otherwise affected, to mingle with them. Now beside the _scandal_, and
+_Ill Example_ of such _Irregular Conventions_, whoever considers their
+_Principles_, may reasonably conclude upon their _Designs_: For they are
+wiser, I hope, then to lay their Heads together to destroy themselves.
+
+_Citt._ But it is hard, if _Protestants_ may not meet as well as Other
+People.
+
+_True._ Yes, _Protestants_ may meet, but not in the quality of
+_Conspirators_, no more then _Conspirators_, may meet under the _Cloak_,
+and _colour_ of _Protestants_. The intent of the _Meeting_ is matter of
+_State_, and you turn it off, to a point of _Religion_.
+
+_Citt._ But is it not matter of _Religion_ to joyn in a _Petition_ for
+the meeting of a _Parliament_, to bring _Malefactors_ to a _Tryall_, and
+to _extirpate Popery_?
+
+    What Petitions warrantable and what not.
+
+_True._ Such a Petition as you Instance in, is in the appearance of it,
+not only _Lawfull_, but _Commendable_; But then it must be promoted by
+_Lawfull means_, and under _Decent Circumstances_. 'Tis a good thing to
+_Preach_, or C_atechize_, but it is not for a _Lay-man_ presently to
+pluck the _Parson_ out of the _Desk_, or _Pulpit_, that he himself may
+do the Office. It is a Good thing to execute _Justice_, but yet _a
+private man_ must not invade the _Judgment-Seat_, though it were to
+passe even the most _Righteous Sentence_.
+
+_Citt._ The King may chuse whether he'l _Grant_ or no; So that without
+invading _His Right_ we only claim the _Liberty_ of _Presenting_ the
+_Request_.
+
+    No Petition to be press'd after Prohibition.
+
+_True._ That may be well enough at _First_; but still, after _One
+Refusal_, and That with a _Publick Interdict_ on the Neck on't,
+forbidding the pursuance of it; such a _Petition_ is not by any means to
+be _Repeated_. _First_, out of _Respect_ to _Regal Authority_:
+_Secondly_, as the _King_ is the _Sole Judge_ of the matter: _Thirdly_,
+upon the _Importunity_, it is not so properly _Desiring_ of a thing, as
+_Tugging_ for it. _Fourthly_, It tends many ways to the Diminution of
+his Majesties _Honour_, in case it be Obtain'd: For it implys, either
+_Levity_, or _Fear_; or (to make the best on't) the _King_ confers the
+_Obligation_, and the _Heads of the Petition_ receive the _Thanks_. Now
+adde to all this, the _suborning_ of _Subscriptions_, and the
+_Inflaming_ of _Parties_, what can be more _Undutifull_ or _Dangerous_?
+
+_Citt._ But do not you find many _Honest_ and _Considerable men_
+concern'd in these _Petitions_?
+
+    The Nation poyson'd with False Principles.
+
+    The Injustice of our Common Wealthsmen.
+
+_True._ Yes, in several of them _I_ do; and the main reason is This.
+There's no man under _Five and Fifty_, at Least, that is able to give
+any Account, of the _Designe_, and _Effects_ of this way of Petitioning
+in _Forty_ and _Forty One_, but by _Hear-say_: so that This Nation
+proceeds mostly upon the _Maxims_, and _Politiques_, which That
+_Republican_ Humour deliver'd over to us: But yet let the _Thing_, or
+the _Manner_ of it be as it will, Those that _disarm'd_, and _turn'd
+back_ the _Kentish Petitioners_ at _London-bridg_. Those that _Wounded_,
+and _Murther'd_ the _Surry-Petitioneres_ in the _Palace Yard_, only for
+desiring a _Peace_, and in order to the _Preservation_ of his _late
+Majesty_: _Those People_ methinks, that were so Outrageous _Against
+Those Petitions_ (and Several others of the same kind) should not have
+the Face now to be so _Violent, for This_. And whoever examines the
+_present Roll_, will find the _Old Republicans_ to be the
+_Ring-leaders_.
+
+Bum. Really, _Citt_, the man speaks Reason.
+
+    The mean ways of promoting their Designs.
+
+_True._ Consider then the _Mean ways_ ye have of advancing your
+Pretensions, by _Falshoods_, and _Scandals_, to disappoint Honest men of
+_Elections_; The use ye make of the most _Servile Instruments_, to
+promote your Ends; your _fawning Methods_ of _Popularity_ toward the
+_Rabble_; your ways of undermining the _Government_ of the _City_, as
+well as of the _Nation_; your worse then _Jesuitical Evasions_ in matter
+of _Conscience_; your _Non-sensical Salvo's_, and _Expositions_ of
+_Christian Liberty_; your putting out the _Church of Englands Colours_,
+and calling your selves _Protestants_, when you are effectually no
+better then _Algerines_, and _Pyrating_ even upon _Christianity it
+self_; your Beating of the wood, in the History of our most _Seditious
+Times_, to start _Presidents_ and _Records_ in favour of your own
+Disloyal Purposes. The _Pharisaical_ Distinguishing of your selves from
+the _Profane_ (as you are pleas'd to stile all others,) even in your
+_Dresse, Tone, Language_, &c. Your Uncharitable _Bitternesse of Spirit_;
+your _lying in wait_ for _Blood_; and laying of _Snares_ for the
+_Unwary_ and the _Innocent_; and still vouching an _Inspiration_ for all
+your _Wickednesse_; your gathering of _all Winds_ toward the raising of
+a _Storm_; Your _Unity_ in _Opposition_, and in _nothing Else_: your
+_Clamours_, and _Invectives_ against _Priests_, and _Jesuits_, when it
+is the Church of _England_ yet, that feels the _Last effect_ of your
+_Sacrilegious Rage_. 'Tis not so much the _Officers_ of the Church, and
+State, that are _Popishly Affected_, but the _Offices_ Themselves; and
+Those in the first place (as you chuse your _Sins_ too) that are most
+_Beneficiall_. To say nothing of your wild _Impostures_ upon the
+_Multitude_.----
+
+_Citt._ Now you talk of _Impostures_, what do you think of _L'Estrange's
+History of the P L O T_, and his _Answer to the A P P E A L_? Whether
+are Those Pamphlets, _Impostures_ upon the _Multitude_, or _Not_?
+
+_True._ You were saying e'en now, That _The History of the Damnable
+Popish Plot_ was of your Writing; Answer me That Question, First; Was it
+so, or not?
+
+_Citt._ No, it was not of my Writing; It was done by a
+_Protestant-Club_.
+
+_True._ Why then let me tell ye, if a man may believe the _Preface_ to
+That _Club-History_, or the _Notes_ upon the _Answer to the Appeal_ (for
+I have read them all:) _L'Estrange's Pamphlets_ are great abuses upon
+the _People_: But if you had the Books about ye, the matter were easily
+clear'd by comparing them.
+
+_Citt._ By good luck we have 'um all about us, that can any way concern
+this Question. And look ye here now.
+
+    Reflexions upon _L'Estrange_.
+
+First, _He calls his_ Abridgement _of the_ Tryals, _The_ History _of
+the_ Plot, _without mentioning one word of the Original Contrivance, the
+Preparatives, manner of Discovery, and other Remarkables essential to a_
+History.
+
+2. _He omits_ Staly's _and_ Reading's Tryals, _which yet sure had
+Relation to the_ Plot.
+
+3. _In his_ Epistle, _he seems to drown the_ Popish Plot _with
+suggestions of an_ Imaginary One _of the_ Protestants.
+
+4. _The amusing People with such Stories, is notoriously a Part of the_
+Grand Popish Designe.
+
+5. _Whereas he tells us, that not one_ Material Point _is omitted, most
+Readers cannot finde the substantial part of Mr._ Bedloes _Evidence
+against_ Wakeman, _(P. 46 of the Tryall) So much as hinted at: Not to
+mention the gross shuffles, and Omissions in_ Pag. 77, _and elsewhere._
+
+6. _He charges the_ Printed Tryals (_in his FREEBORN SUBIECT_ P. 15.)
+_with many_ Gross Incoherences, _and very_ Material mistakes; _yet
+Instances but_ One, _and corrected too, as an_ Erratum.
+
+7. _When Our Posterity shall urge these Tryals for proof against_
+Papists, _how easily may the subtle Villains stop their Mouths, by
+alledging from this Authour that_ no heed is to be given to the said
+Tryals; _(being so publickly own'd by a Person of his Note, and Late
+Qualification) to be guilty of so many, and such very_ Material
+Mistakes.
+
+    The Fore going Reflections Answer'd.
+
+_True._ Observe here, _First L'Estrange_ expounds his _History_ in the
+_Title Page_, by restraining it to the _Charge_ and _Defence_ of _the
+Persons there mentioned_: Beside that he calls it an _Historical
+Abstract_, and a _Summary_, in his _Epistle_.
+
+2. _Staleys Trial_ had no Relation at all to the _Plot_, and _Reading_
+was not Try'd for's _Life_; and so not within the Compass of his
+intention exprest in the _Preface_.
+
+3. The _Epistle_ acknowledges a _Detestable Plot_, and a _Conspiracy_:
+but advises _Moderation_, and that the _Rabble_ may not dictate Laws to
+_Authority_; for _that Licence_ was the Cause of the _Late Rebellion_.
+
+4. It was more then a _Story_, the _Murther_ of the _Late King_, and the
+_Subversion_ of the Government, and the _suppressing_ of these
+_Necessary Hints_, and _Cautions_ is notoriously a part of the _Grand
+Phanatical Design_.
+
+5. In _L'Estranges History_ here _Pag._ 79 and 80. there's every
+particular of Mr. _Bedloes_ Evidence in Sir _George Wakemans Tryal,
+Pag._ 46. with many other passages over and above: whereas your
+_Damnable History_ here _Pag._ 295. falls short at least by One Half.
+And then for the _shuffles_, and _Omissions_ reflected upon, _Pag._ 77.
+see _L'Estranges Words, Pag._ 88. _The Lord Chief Justice_ (says he)
+_after some Remarkes upon the_ Romish Principles, _summ'd up the
+Evidence, and gave Directions to the Jury:_ which is the substance of
+the _Page_ cited in the _Preface_. Touching your _Elsewhere_, it is in
+plain _English, No where_.
+
+6. Look ye, here's more Juggling. He says S E V E R A L _Gross
+Incoherences_, and you have made them M A N Y: and then you have left
+out the _Parenthesis_, (_especially in the Latter of them_) which varies
+the Case too. And I remember again, that the _Erratum_ was supply'd
+after _L'Estrange_ had _corrected_ it: And sure it was a Gross one too,
+to expose a _Protestant Gentleman_ for a _Papist, Nine times_ in _two
+Pages_. I could shew ye several other _Material Mistakes_, but One shall
+serve for _all. Pag._ 45. (as I take it) of _Irelands Tryal_; which you
+will finde charg'd upon the Press, in _L'Estranges History, Pag._ 18.
+
+7. Pray'e mark me now: _L'Estrange_ findes _Errours_ of the _Press_ in
+the _Other Tryals_ and _Rectifies_ them, in his _Own_: Now if Posterity
+shall finde in the _Right_, that the _Other_ are _wrong_, they are in no
+danger of being _Misled_ by the _One_, in what is _Corrected_ by the
+_Other_: And if they do not read the _Right Copy_ at all, there's no
+harm done to the Other, but they must take it as they finde it. So that
+this _Remark_ is so far from _Disparaging_ the _Proceedings_, that a
+greater Right can hardly be done to _Publick Justice_ by a _Pamphlet_.
+But now let the _Epistle_ speak for it _self_.
+
+To the READER.
+
+    The Epistle to L'Estrange's History of the Plot.
+
+There has not been any point, perhaps, in the whole Tract of _English
+Story_, either so dangerous to be mistaken in, or so difficult, and yet
+so necessary to be understood, as the Mystery of this detestable _Plot_
+now in Agitation. (A Judgement for our Sins, augmented by our Follies,)
+But the world is so miserably divided betwixt some that will believe
+every thing, and others nothing that not only _Truth_, but
+_Christianity_ it self is almost lost between them; and no place left
+for Sobriety and Moderation. We are come to govern our selves by Dreams
+and Imaginations; We make every _Coffee-house Tale_ an Article of our
+Faith; and from Incredible Fables we raise Invincible Arguments. A man
+must be fierce and violent to get the Reputation of being
+_Well-affected_; as if the calling of one another _Damned Heretique_,
+and _Popish Dog_, were the whole Sum of the Controversie. And what's all
+this, but the effect of a Popular Licence and Appeal? When every
+Mercenary Scribler shall take upon him to handle matters of Faith, and
+State; give Laws to Princes; and every Mechanique sit Judge upon the
+Government! Were not these the very Circumstances of the late _Times_?
+When the Religious Jugglers from all Quarters fell in with the Rabble,
+and managed them, as it were, by a certain sleight of hand: The _Rods_
+were turned into _Serpents_ on both sides, and the Multitude not able to
+say, which was _Aaron_, and which the _Enchanter_. Let us have a Care of
+the same Incantation over again, Are we not under the protection of a
+Lawfull Authority? Nor was there ever any thing more narrowly Sifted, or
+more vigorously discouraged, then this _Conspiracy_. _Reformation_ is
+the proper business of _Government_ and _Council_, but when it comes to
+work once at the wrong End, there is nothing to be expected from it, but
+_Tumult_ and _Convulsion_. A Legal and Effectual provision against the
+Danger of _Romish Practices_ and _Errours_, will never serve Their Turn,
+whose Quarrel is barely to the _Name_ of _Popery_, without understanding
+the Thing it self. And if there were not a _Roman Catholick_ left in the
+three Kingdoms, they would be never the better satisfied, for where they
+cannot find Popery, they will make it: nay and be troubled too that they
+could not _find_ it. It is no new thing for a Popular Outcry, in the
+matter of _Religion_, to have a _State-Faction_ in the belly of it. The
+first late Clamour was against _Downright Popery_; and then came on
+_Popishly Affected_; (_That_ sweeps all.) The _Order of Bishops_, _and
+the Discipline of the Church_ took their Turns next; and the next blow
+was at the _Crown_ it self; when every Man was made a _Papist_ that
+would not play the Knave and the Fool, for Company, with the Common
+People.
+
+These things duly weighed, and considering the Ground of our present
+Distempers; the Compiler of this Abridgment reckoned that he could not
+do his Countrymen a better Office, than (by laying before them the naked
+state of things) to give them at one view, a Prospect, both of the
+subject matter of their Apprehensions, and of the Vigilance, Zeal, and
+needful severity of the Government on their behalf. To which end, he
+hath here drawn up an _Historical Abstract_ of the whole matter of Fact
+concerning those Persons who have hitherto been Tryed for their Lives,
+either upon the _Plot_ it self, or in Relation to it: opposing
+Authentick Records to wandring Rumours; and delivering the _Truth_ in
+all Simplicity. He hath not omitted any one material Point: There is not
+so much as one _Partial Stroke_ in it; not a flourish, nor any thing but
+a bare and plain _Collection_, without any Tincture either of Credulity,
+or Passion. And it is brought into so narrow a Compass too, that it will
+ease the Readers _head_, as well as his _purse_; by clearing him of the
+puzzle of _Forms_, and _Interlocutories_. that serve only to amuse and
+mislead a man, by breaking the Order, and confounding the Relative parts
+of the _Proceeding_.
+
+Having this in Contemplation; and being at the same time possest of a
+most exact _Summary_ of all passages here in Question; This Reporter was
+only to cast an Extract of these Notes into a Method: especially
+finding, that upon comparing the substance of his own papers, with the
+most warrantable Prints that have been published; his own _Abstract_
+proved to be not only every jot as Correct, but much more Intelligible,
+which being _short_ and _full_; he thought might be useful, and find
+Credit in the world upon its own account, without need of a _Voucher_.
+
+    _L'Estranges_ Narrative Justify'd.
+
+    His Adversary detected
+
+    A Bold and senceless libel
+
+_True._ You have now the whole matter before you; the _Epistle_, ye see,
+justifies it self: And then for the _Narrative_, I dare undertake he
+shall yield up the Cause, if you can but produce any _One Material
+Point_, which he hath either _Falsify'd_, _Palliated_, or _Omitted_, in
+the whole _Proceeding_. But to be plain with you, _Citt_, One of the
+_Authours_ of _your Preface_ is a _Common setter_, _a Forger of Hands_,
+_a little spy_ upon the _Swan_ in _Fishstreet_; a _Hackny Sollicitor_
+against both _Church_ and _State_: You know this to be true _Citt_; and
+that I do not speak upon Guess; so that _Calumny_, and _False
+Witnessing_ is the best part of that _Authours Trade_. And then the
+_pretended History_ is a direct _Arraignment_ of the _Government_. He
+takes up the _King_ and _Council_, _Pag._ 381. reflects upon the
+_Judges_ in the very _Contents_, and elsewhere; he descants upon the
+_Duke of York_ in opposition to the express sense and declaration of the
+_Bench_, _Pag._ 145. and has the confidence yet to Dedicate this
+_Gally-mawfry_ of audacious _slanders_ to _the Two Houses of
+Parliament_. There is little more in the whole, then what has been
+eaten and spew'd up again Thirty times over: and the intire work is only
+a _Medly_ of _Rags_, and _Solacisms_, pick'd up out of _Rubbish_, and
+most suitably put together.
+
+_Citt._ You may take his part as ye please, But there's a Famous
+_Lecturer_ charg'd him Publiquely for _Popery_, in his _Answer_ to the
+_Appeal_; and for falling upon Dr. _Lloyd_.
+
+    _L'Estrange_ charg'd as a Papist, by a Certain Lecturer.
+
+_True._ He did so; but at the same time that _Lecturer_ found no fault
+with the _Appeal it self_; and the best on't is, his _Tongue's_ no more
+a slander then his _Pen_: And whoever reads what he has written
+concerning the _Late King_, and the _Episcopal Church_, will think never
+the worse of _L'Estrange_ for what he says. Now for the _Reverend Dean
+of Bangor_, I dare say he never _spake_, or _thought_ of him, but with
+_Veneration_. Let me see the book.
+
+    The Ground of his Accusation.
+
+Look, ye here, 'tis _pag._ 18. in _L'Estrange's Impression_, and 'tis
+_pag._ 15. in _this_; and here's the Point [_Their Loyalty and Good
+service paid to the King_ (says the _Appealer_ speaking of the Papists)
+_was meerly in their own Defence_.] Now see _L'Estrange's Reply_ upon
+it, _If it lies_ (says he) _as a_ Reproach _upon them that they did then
+not serve the King out of_ Loyalty; _that which they_ did, _was yet
+better then_ not serving _him_ at all; _and better in a Higher degree_
+still, _then_ Fighting against _him_. And a little after. _It is worth
+the Observation, that not a man drew his Sword in the opposite Cause who
+was not a_ Known Separatist; _and that on the Other side, not one_
+Schismatick _ever struck stroke in the_ Kings Quarrell.
+
+And now for your Notes upon his Answer, they are so silly, that it were
+Ridiculous to Reply upon 'um [_who knows_ (says he) _but the Regicides
+were Papists in disguise_, _pag._ 19.] And a deal of such senselesse
+stuff; enough to turn a bodies Stomach. And if you'd inform your self of
+his Malice; look ye here _pag._ 4. _p._ 9. and _p._ 33 how he Palliates,
+if not Justifies, the Late Rebellion, the Murther of the Arch-Bishop of
+St. _Andrews_, and the drawing of the Sword against the King.
+
+Briefly, 'tis an _Insipid Bawling_ piece of _Foolery_, from One end to
+the Other. And it is not but that I highly approve of your _Zeal_ for
+the Discovery of the _Plot_, and Suppressing of _Popery_, but we are not
+yet to Trample upon _Laws_, and _Publique Orders_, for the attaining
+even of those Glorious ends.
+
+But now I think on't; deal freely with me; did you really go to the
+_Registers_ ye spake of, to furnish _Names_ for your _Subscriptions_?
+
+_Citt._ No; That was but a _Flourish_: but all the Rest we _Literally_
+did.
+
+    A gross Cheat upon the Nation.
+
+_True._ Are not you Conscious to your selves of your Iniquities? who
+made _You_ a _Commissioner_ for the _Town_, or _You_ for the _Country_?
+But we are like to have a fine business of it, when the _Dreggs_ of the
+_People_ set up for the _Representatives_ of the _Nation_; to the
+Dishonour of the most _Considerable_, and Sober part of the _Kingdome_.
+Pre'thee _Bumpkin_, with thy _Poles_, and _Baltiques_, how shouldst thou
+come to understand the _Ballance_ of _Empires_? who are _Delinquents_,
+and who _not_? the Right of _Bishops Votes_? And _You_ (forsooth) are to
+Teach the _King_ when to call a _Parliament_, and when to let it alone.
+And are not you a fine Fool i'the mean time, to Drudg for the Faction
+that Sets ye on, to be afterwards made a slave for your pains?
+
+    Lewd Practises of the Faction.
+
+And then for You, _Citt_, with your _Mouldy Records_, your _Coordinate
+Estates_, and your _Sovereign Power of the People_. Do not I know all
+your Fallacies, your Shifts, and Hiding-holes? There's not one step you
+set, but I can trace you in't: You have your _Spies_ upon all
+_Libraries_, as well as _Conversations_; your _Agents_ for the procuring
+of old _Manuscripts_, and _Records_, and for the _Falsifying_ of _New
+ones_, to make them look like _Old Ones_. Nay, the _Papers_ of _State_
+themselves had much ado to scape ye. Those that assert the _Just Rights_
+of the _Crown_, you either _Bury_ or _Conceal_; only Publishing the
+_Presidents_ of _Seditious Times_, in Vindication of such Principles.
+
+_Citt._ I must confess I take the _Government_ to be _Coordinate_, and
+the _King One_ of the _Three Estates_, with submission to be better
+inform'd.
+
+    Against Coordination.
+
+_True._ If it be so, how comes it that the House of _Commons_ even in
+their most Popular seasons, have still own'd the Crown of _England_ to
+be _Imperial_? How comes it that all our _Laws_ are call'd the _Kings
+Laws_: all our _Courts of Justice_ his _Majesties Courts_, and all
+_Publick Causes_ try'd in the _Kings Name_, and by the _Authority_ of
+his _Majesty_?
+
+_Citt._ But have not the _Two Houses_ their share in the _Legislative
+Power_?
+
+    It is the sanction makes the Law, not the Consent.
+
+_True._ You must distinguish betwixt the _Consent_, and the _Sanction_;
+the _Preparatory_ Part is _Their's_, the _Stamp_ is the _Kings_: The Two
+_Houses_ Consent to a _Bill_; It is only a _Bill_, when it is
+_presented_, and it remains yet a _Bill_, even when the King has
+_Consented_ to it; and in this _Common Consent_, in Order to a _Law_,
+the _Two Houses_ may be said to _share_ with his _Majesty_: But then the
+_Fiat_, that superinduces an _Authority_, and is _Only_, and _Properly_
+the Act of _Legislation_, is _singly_ in the _King_. So that though they
+_share_ in the _Consent_, they have no pretence at all to the
+_Sanction_: which is an Act of _Authority_; the other but of
+_Agreement_.
+
+    The Inconveniences of a Coordination supposed.
+
+And yet again, admitting your _Coordination_; First, every King runs the
+hazzard of his Crown upon every Parliament he calls: For _That Third
+Estate_ lies at the Mercy of the _Other Two_: And further, 'tis a kinde
+of Ringing the Changes with the Government, the _King_ and _Lords_ shall
+be Uppermost _One day_, the _King_ and _Commons_, _Another_, and the
+_Lords_ and _Commons_, the _Third_: For in this Scale of Constitution
+whatsoever the _One_ will _not_, the _Other Two_, _may_.
+
+_Citt._ Well, but Ours is a MIXT Government, and we are a _Free People_.
+
+    Of a mixt Government and a Qualify'd.
+
+_True._ If ours be a _Mixt Government_, so as to any _Popular
+Participation_ of _Power_ with the _King_, then it is not a _Monarchy_:
+(which is the _Government Only_ of _One_) but if you'l call it a
+_Qualifi'd Government_; so as to distinguish it from an _Absolute_ and
+_Unlimited Government_, I'le agree with you. But let the _Government_ be
+_what_ it will, and _where_ it will, let it do _Right_ or _Wrong_, it is
+_Equally Unaccountable_, for there lies no _Appeal_, but to a
+_Superiour_, and the _Supreme_ has _none_ but _God Himself_.
+
+_Citt._ But if we be a _Free People_, have not _We_ as much _Right_ to
+_Our Liberties_, as the _King_ has to _his Crown_?
+
+_True._ Yes, we have, but the King has this Advantage of us, that _We_
+may _Forfeit_ our _Liberties_ but _He_ cannot forfeit his _Crown_.
+
+_Citt._ What if a _King_ will Transgresse all the Laws of _God_ and
+_Man_? may not the _People_ resume their _Trust_?
+
+    Power is from God, not from the People.
+
+    Soveraignty of the People most ridiculous.
+
+_True._ No, not unlesse you can produce an expresse _stipulation_ to
+_That very purpose_. But let me shew you, First, the Errour of taking
+That to be a _Trust_ from the _People_, which, in truth, is an
+_Ordinance_ of _Providence_, For _All Power is from God_; And Secondly,
+the _Absurdity_ of the very _Supposition_, even in the Case of a Trust
+conferr'd by the People. If the _King breaks_ his _Trust_, the _People
+Resume_ it: but _who_ are These _People_? If a _Representative_, they
+are but _Trustees Themselves_, and may incur a _Forfeiture_ too, by the
+same Argument. Where are we next then? For if it devolves to the _Loose
+Multitude_ of _Individuals_, (which you will have to be the Fountain of
+_Power_) you are Then in an _Anarchy_, without any Government at all;
+and There you must either Continue in a _Dissociated State_, or else
+agree upon _Uniting_ into some Form of _Regiment_, or other: and whether
+it be _Monarchy_, _Aristocracy_, or _Democracy_, it comes all to a
+Point. If you make the _Government Accountable_ upon every Humour of the
+_People_, it lapses again into a _Confusion_. To say nothing of the
+ridiculous phansy of a _Sovereignty_ in the _People_ upon This Account;
+that they can never be so brought together either to _Establish_ or to
+_Dissolve_ a _Government_, as to authorize it to be the _Peoples Act_.
+For there must be, _First_, an _Agreement_ to _Meet_ and _Consult_.
+_Secondly_, an _Agreement_ upon the _Result_ of That _Debate_; and any
+_One Dissenter_ spoils all, where every _Individuall_ has an _Equall
+Right_: So that unlesse the People be all of the same minde, This
+Supposition will be found wholly Impractible and Idle.
+
+_Citt._ But is there no Fence then against _Tyranny_?
+
+_True._ Only _Patience_, unless you run into _Anarchy_, and then into
+that which you call _Tyranny_ again; and so tread Eternally that Circle
+of _Rigour_ and _Confusion_. _In fine_, the Question is this, whether
+people had better run _Certainly_ into _Confusion_ to avoid a _Possible
+Tyranny_, or venture a _Possible Tyranny_, to avoid a _Certain
+Confusion_.
+
+_Citt._ But where we finde _Positive Law_ and _Provisions_ to _fail_ us,
+may we not in those Cases, betake our selves to the _Laws_ of _Nature_
+and _Self-Preservation_?
+
+    Self-preservation is no Plea for the People.
+
+_True._ No, ye may not; for many Reasons. First, it makes you _Judges_;
+not only _when_ those Laws take Place, but also _what_ they _are_.
+Secondly, the _Government_ is _Dissolved_, if Subjects may go off or on
+at pleasure. Thirdly, _Self-Preservation_ is the Plea only of
+_Individuals_; and there can be no Colour for the exposing of the
+_Publick_ in favour of _Particulars_. What would ye think of a _Common
+Seaman_ that in a _Storm_ should throw the _Steers-man Overboard_, and
+set himself at the _Helm_? Or of a _Souldier_ that shou'd refuse a
+_Dangerous Post_ for fear of being knock'd on the Head, when the _whole
+Army_, depends upon the Maintaining of _That Pass_.
+
+_Citt._ Pray'e tell me what it is that you call _Government_, and how
+far it _extends_? for you were saying even now, that the _Reason_ of
+_all Governments_ is _alike_.
+
+    What Government is.
+
+    Certain Priviledges essential to Government.
+
+_True._ _Government is the_ Will, _and_ Power _of a_ Multitude, _United
+in some One Person, or More, for the Good, and safety of the whole._ You
+must not take it that _all Governments_ are _alike_; but the _Ratio_ of
+_all Governments_ is the _same_ in some Cases. As in the Instance of
+_Self-Preservation_; which is only Pleadable by the _Supream
+Magistrate_, in Bar to all _General Exceptions_; for he is First,
+presumed in Reason, to be vested with all _Powers necessary_ for the
+_Defence_, and _Protection_ of the _Community_: without which his
+Authority is Vain. He is Secondly, Oblig'd in _Duty_ to exert those
+_Powers_ for the _Common Good_: and he is Thirdly, entrusted with the
+Judgment of all _Exigences_ of _State_, be they _Greater_ or _Lesse_;
+wherein the Publick Good may be concern'd. Now put the Case that a
+Magistrate should make a wrong _Judgment_ of Matters, and misemploy
+those _Powers_; it were an Infelicity in the _Administration_; but the
+_Sacredness_ of _Authority_ is still the same: And he is a Mad man, that
+plucks down his _House_, because it rains in at the _Window_. And in
+case of the _Magistrate_, it is not so much _He_, as _They_; for the
+_King_ is (as I said before) the _United Power_ and _Will_ of the
+_People_. And so Fare ye well.
+
+_The End._
+
+Transcribers Note
+
+1. 'Fraudulant' changed to 'Fraudulent'. (Introdution)
+2. 'deux ex machina' changed to 'deus ex machina'. (Introdution)
+3. Closing bracket inserted. (The mean ways of promoting their Designs.)
+4. Possibly this should be 'Gaols' rather than 'Goals'. (The way of getting hands in and about _London_.)
+5. Possibly this should be 'Gaol' rather than 'Goal'. (A Salvo for a Lye.)
+6. 'Dop' should read 'Drop'. (Consciences of State or Interest.)
+7. 'original' changed to 'Origin'. (PUBLICATIONS IN PRINT 1964-1965- 109.)
+
+_Errata._ (From the original, these errors have been corrected)
+Page 1. line 24. for _his_, reade _this_.
+p. 3. l. 27. for _Religion_ r. _Religions_;
+p.11 l. 25. for _Hands_, r. _Heads_.
+p.22. l. 9. for _on all_ r. _on to all_.
+
+THE AUGUSTAN REPRINT SOCIETY
+
+_WILLIAM ANDREWS CLARK MEMORIAL LIBRARY_
+University of California, Los Angeles
+
+PUBLICATIONS IN PRINT
+
+1948-1949
+
+15. John Oldmixon, _Reflections on Dr. Swift's Letter to Harley_ ...
+(1712) and _A. Mainwaring's The British Academy_ ... (1712).
+
+17. Nicholas Rowe, _Some Account of the Life of Mr. William Shakespeare_
+(1709).
+
+1949-1950
+
+22. Samuel Johnson, _The Vanity of Human Wishes_ (1749) and two
+_Rambler_ papers (1750).
+
+23. John Dryden, _His Majesties Declaration Defended_ (1681).
+
+1950-1951
+
+26. Charles Macklin, _The Man of the World_ (1792).
+
+1951-1952
+
+31. Thomas Gray, _An Elegy Wrote in a Country Church-yard_ (1751); and
+The Eton College Manuscript.
+
+1960-1961
+
+85-6. Essays on the Theatre from Eighteenth-Century Periodicals.
+
+90. Henry Needler, _Works_ (1728).
+
+1961-1962
+
+93. John Norris, _Cursory Reflections Upon a Book Call'd, An Essay
+Concerning Human Understanding_ (1960)
+
+94. An. Collins, _Divine Songs and Meditacions_ (1653).
+
+95. _An Essay on the New Species of Writing Founded by Mr. Fielding_
+(1751).
+
+96. Hanoverian Ballads.
+
+1962-1963
+
+97. Myles Davies, Selections from _Athenae Britannicae_ (1716-1719).
+
+98. _Select Hymns Taken Out of Mr. Herbert's Temple_ (1697).
+
+99. Simon Patrick, _A Brief Account of the New Sect of Latitude Men_
+(1662).
+
+100. Simon Patrick, _A Brief Account of the New Sect of Latitude Men_
+(1662).
+
+101-2. Richard Hurd, _Letters on Chivalry and Romance_ (1762).
+
+1963-1964
+
+103. Samuel Richardson, _Clarissa: Preface, Hints of Prefaces, and
+Postscript_.
+
+104. Thomas D'Urfey, _Wonders in the Sun, or, the Kingdom of the Birds_
+(1706).
+
+105. Bernard Mandeville, _An Enquiry into the Causes of the Frequent
+Executions at Tyburn_ (1725).
+
+106. Daniel Defoe, _A Brief History of the Poor Palatine Refugees_
+(1709).
+
+107-8. John Oldmixon, _An Essay on Criticism_ (1728).
+
+1964-1965
+
+109. Sir William Temple, _An Essay upon the Origin and Nature of
+Government_ (1680).
+
+110. John Tutchin, _Selected Poems_ (1685-1700).
+
+111. Anonymous, _Political Justice. A Poem_ (1736).
+
+112. Robert Dodsley, _An Essay on Fable_ (1764).
+
+113. T. R., _An Essay Concerning Critical and Curious Learning_ (1680).
+
+114. Two Poems Against Pope: Leonard Welsted, _One Epistle to Mr. A.
+Pope_ (1730); Anonymous, _The Blatant Beast_ (1740).
+
+William Andrews Clark Memorial Library: University of California, Los
+Angeles
+
+The Augustan Reprint Society
+
+_General Editors_: Earl Miner, University of California, Los Angeles;
+Maximillian E. Novak, University of California, Los Angeles; Lawrence
+Clark Powell, Wm. Andrews Clark Memorial Library
+
+_Corresponding Secretary_: Mrs. Edna C. Davis, Wm. Andrews Clark
+Memorial Library
+
+The Society's purpose is to publish reprints (usually facsimile
+reproductions) of rare seventeenth and eighteenth century works. All
+income of the Society is devoted to defraying costs of publication and
+mailing.
+
+Correspondence concerning subscriptions in the United States and Canada
+should be addressed to the William Andrews Clark Memorial Library, 2205
+West Adams Boulevard, Los Angeles, California. Correspondence concerning
+editorial matters may be addressed to any of the general editors. The
+membership fee is $5.00 a year for subscribers in the United States and
+Canada and 30/--for subscribers in Great Britain and Europe. British and
+European subscribers should address B. H. Blackwell, Broad Street,
+Oxford, England. Copies of back issues in print may be obtained from the
+Corresponding Secretary.
+
+PUBLICATIONS FOR 1965-1966
+
+     Thomas Traherne, _Meditations on the Six Days of the Creation_
+     (1717). Introduction by George Robert Guffey.
+
+     Charles Macklin, _The Covent Garden Theatre_ [manuscript] (1752).
+     Introduction by Jean B. Kern.
+
+     Roger L'Estrange, _Citt and Bumpkin_ (1680). Introduction by B. J.
+     Rahn.
+
+     Daniel Defoe and Others, _Accounts of the Apparition of Mrs. Veal_
+     (ca. 1705). Introduction by Manuel Schonhorn.
+
+     Henry More, _Enthusiasmus Triumphatus_ (1662). Introduction by M.
+     V. DePorte.
+
+     Bernard Mandeville, _Aesop Dress'd or a Collection of Fables Writ
+     in Familiar Verse_ (1704). Introduction by John S. Shea.
+
+_ANNOUNCEMENT:_
+
+The Society announces a special publication, a reprint of John Ogilby,
+_The Fables of Aesop Paraphras'd in Verse_ (1668), with an Introduction
+by Earl Miner. Ogilby's book is commonly thought one of the finest
+examples of seventeenth-century bookmaking and is illustrated with
+eighty-one plates. Publication is assisted by funds from the Chancellor
+of the University of California, Los Angeles. Price: to members of the
+Society, $2.50; to non-members, $4.00.
+
+THE AUGUSTAN REPRINT SOCIETY
+
+William Andrews Clark Memorial Library
+
+2205 WEST ADAMS BOULEVARD, LOS ANGELES, CALIFORNIA 90018
+
+Make check or money order payable to The Regents of the University of
+California.
+
+***

@@ -10,6 +10,56 @@ DECADE_RAW_DIR = DATASET_DIR / "decade_sample_raw"
 ERA_CLEAN_DIR = DATASET_DIR / "era_sample_clean"
 DECADE_CLEAN_DIR = DATASET_DIR / "decade_sample_clean"
 
+# Post-clean quality: drop non-prose / catalog-like texts (e.g. MIDI listings) and tiny files.
+_MIN_WORDS = 300
+_MIN_NONEMPTY_LINES_FOR_RATIO = 10
+_APPARATUS_LINE_RATIO = 0.28
+
+_RE_LINE_MIDI = re.compile(r"(?i)\.mid\b|\.midi\b|\bmidi\b")
+_RE_LINE_COPY_MARK = re.compile(
+    r"(?i)©|\(c\)\s*[, ]?\s*\d{4}|\(p\)\s*[, ]?\s*\d{4}|\ball rights reserved\b|\bcopyrighted\b",
+)
+_RE_LINE_PRODUCED = re.compile(r"(?i)^produced by\s+\S")
+_RE_LINE_SOUNDTRACK = re.compile(r"(?i)accompanying files contain|soundtrack|\.wav\b|\.mp3\b")
+
+
+def _line_looks_apparatus(ln: str) -> bool:
+    """Heuristic: line is mostly distribution / rights / non-text artifact metadata."""
+    if _RE_LINE_MIDI.search(ln):
+        return True
+    if _RE_LINE_COPY_MARK.search(ln):
+        return True
+    if _RE_LINE_PRODUCED.search(ln):
+        return True
+    if _RE_LINE_SOUNDTRACK.search(ln):
+        return True
+    return False
+
+
+def quality_skip_reason(cleaned: str) -> str | None:
+    """
+    Return a short reason to skip writing this clean file, or None to keep it.
+    Conservative: prefer keeping borderline books over dropping real literature.
+    """
+    t = cleaned.strip()
+    if not t:
+        return "empty"
+
+    words = len(t.split())
+    if words < _MIN_WORDS:
+        return f"too_few_words({words}<{_MIN_WORDS})"
+
+    lines = [ln.strip() for ln in t.splitlines() if ln.strip()]
+    n_lines = len(lines)
+    if n_lines < _MIN_NONEMPTY_LINES_FOR_RATIO:
+        return None
+
+    bad = sum(1 for ln in lines if _line_looks_apparatus(ln))
+    ratio = bad / n_lines
+    if ratio >= _APPARATUS_LINE_RATIO:
+        return f"apparatus_lines({bad}/{n_lines}={ratio:.2f}>={_APPARATUS_LINE_RATIO})"
+    return None
+
 
 START_PATTERNS = [
     r"\*\*\*\s*START OF (THE|THIS) PROJECT GUTENBERG EBOOK.*?\*\*\*",
@@ -79,6 +129,7 @@ def clean_directory(raw_dir: Path, clean_dir: Path) -> None:
 
     cleaned = 0
     skipped_empty = 0
+    skipped_quality = 0
     failed = 0
 
     for i, file_path in enumerate(txt_files, start=1):
@@ -89,9 +140,20 @@ def clean_directory(raw_dir: Path, clean_dir: Path) -> None:
             if not cleaned_text.strip():
                 print(f"[{i}/{total}] Empty after cleaning: {file_path.name}")
                 skipped_empty += 1
+                out_path = clean_dir / file_path.name
+                if out_path.exists():
+                    out_path.unlink()
                 continue
 
             out_path = clean_dir / file_path.name
+            qreason = quality_skip_reason(cleaned_text)
+            if qreason is not None:
+                if out_path.exists():
+                    out_path.unlink()
+                print(f"[{i}/{total}] Skipped (quality): {file_path.name} | {qreason}")
+                skipped_quality += 1
+                continue
+
             out_path.write_text(cleaned_text, encoding="utf-8")
 
             print(f"[{i}/{total}] Cleaned: {file_path.name}")
@@ -105,6 +167,7 @@ def clean_directory(raw_dir: Path, clean_dir: Path) -> None:
     print(f"Output folder: {clean_dir}")
     print(f"Cleaned: {cleaned}")
     print(f"Empty after cleaning: {skipped_empty}")
+    print(f"Skipped (quality): {skipped_quality}")
     print(f"Failed: {failed}")
 
 

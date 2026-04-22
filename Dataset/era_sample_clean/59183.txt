@@ -1,0 +1,2749 @@
+Produced by Gísli Valgeirsson, Turgut Dincer and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+                  THE PSYCHOLOGY AND PEDAGOGY OF ANGER
+
+------------------------------------------------------------------------
+
+                            COPYRIGHT, 1918
+                                   BY
+                          WARWICK & YORK, Inc.
+
+------------------------------------------------------------------------
+
+                   Educational Psychology Monographs
+
+                 This volume, which is number 19 in the
+                 series, was edited by J. Carleton Bell
+
+                  THE PSYCHOLOGY AND PEDAGOGY OF ANGER
+
+                                   By
+                        ROY FRANKLIN RICHARDSON
+              Professor of Education, University of Maine
+
+                               BALTIMORE
+                          WARWICK & YORK, INC.
+                                  1918
+
+------------------------------------------------------------------------
+
+                                CONTENTS
+
+     Preface                                                      3
+
+     Introduction                                                 5
+
+                              CHAPTER ONE
+     Mental Situation Stimulating Anger                          11
+
+                              CHAPTER TWO
+     Behavior of Consciousness                                   31
+
+                             CHAPTER THREE
+     Disappearance of Anger                                      53
+
+                              CHAPTER FOUR
+     Conscious After-Effects                                     65
+
+                              CHAPTER FIVE
+     Educational Function                                        83
+
+     Bibliography                                                99
+
+     Index                                                      103
+
+------------------------------------------------------------------------
+
+                                PREFACE
+
+The importance of the study of the emotions in relation to human conduct
+is well understood. Just how consciousness behaves under the influence
+of the fundamental human emotions like fear and anger, is one of vital
+interest to the psychologist and educator. It has always been difficult
+to study the structural side of our emotions because of an inability to
+control voluntarily our emotions for purposes of introspection. The
+structure of emotions is primarily important in so far as structure may
+allow an interpretation of function. The study of the emotions has for
+the most part been limited to theoretical discussions based on the
+observations of normal and abnormal persons and on the casual
+introspection of individual authors. This work is an attempt to study
+systematically the emotion of anger in relation to the behavior of
+consciousness, the ideas and feelings associated in the development of
+anger, the reactive side of consciousness under the influence of anger,
+individual differences in behavior, manner of the disappearance and
+diminution of anger, devices used in the control and facilitation of the
+emotion, and the conscious after-effects including the inter-relation of
+anger and other feelings, emotions and attitudes which follow. The
+education of the emotions was first voiced by Aristotle who indicated
+that one of the aims of education should be to teach men to be angry
+aright.
+
+The author is under great obligations to President G. Stanley Hall, for
+without his inspiration the investigation would never have been begun or
+completed. A number of persons cooperated in the study both by criticism
+and observation of emotional experiences. The study would not have been
+possible without the kindly co-operation of the following: Professor and
+Mrs. G. E. Freeland, Mr. A. E. Hamilton, Dr. G. E. Jones, Dr. George
+Bivin, Dr. Frank E. Howard, Dr. W. T. Sangor, Dr. K. K. Robinson, Mr. D.
+I. Pope, Mrs. R. F. Richardson, Dr. E. O. Finkenbinder, Dr. Raymond
+Bellamy.
+
+                                                                R. F. R.
+
+  University of Maine
+
+    June 20, 1917
+
+------------------------------------------------------------------------
+
+                              INTRODUCTION
+
+Although the emotions are recognized as among the most important mental
+phenomena, exerting a marked influence on other mental processes, they
+have had comparatively little systematic investigation. We have our
+casual descriptions of emotions in terms of feelings, sensations and
+physiological effects. We have our theories, accounting for the
+expression of the emotions, and our theories of the constituents of the
+emotive consciousness. The functional side of emotions, emphasizing the
+behavior of consciousness, has been for the most part neglected. In
+looking over the literature on emotions, one is impressed by its
+theoretical and opinionated trend. Much of it is based on casual
+individual observations. Attention has for the most part been directed
+to the most intense emotional experiences, neglecting the smaller
+emotions, important as they are in the behavior of consciousness. Then
+psychology has concerned itself with the exciting period of the emotion,
+disregarding the consciousness preceding the emotion and that after the
+emotion has disappeared. From the functional aspect of emotions, some of
+the _questions_ which invite study are as follows: 1. the mental
+situation, including the fore-period from which the emotion develops; 2.
+the behavior of consciousness during the period the emotion exists; 3.
+the manner of disappearance and diminution of the emotion; 4. the effect
+in consciousness after the emotion has disappeared; 5. individual
+differences in emotional life.
+
+The statement of Wundt (21) and Külpe (14) concerning voluntary action,
+that its mere period of duration is but a small part of its
+psychological significance, may well be said of emotions. Wundt suggests
+the close relation between the emotion and volitional action. A
+volitional process that passes into an external act, he defines as an
+emotion which closes with a “pantomimetic” movement. Ach (1), in his
+experiments with the will, distinguishes in each experiment a fore, mid
+and after period. In our emotional experiences, it is true to a marked
+degree that we are predisposed and predetermined to a specific emotional
+excitement by temporary or permanent dispositions and attitudes.
+
+METHODS. The method in the present study has been to observe anger
+introspectively as it appears in every-day life. Ten graduate students
+of Clark University and two persons outside of the University
+volunteered to observe their emotions for a period of at least three
+months and report to the writer each day from the notes of their
+introspections. These persons were asked to observe all instances of
+anger and fear no matter how minute. Only anger will be used in the
+present study. They were asked to observe the conscious fore-period
+before the emotion begins, the development of the emotion, the
+disappearance, the diminution and the consciousness after the emotion
+has disappeared, which is recognized as having been influenced by the
+emotion.
+
+Historically, three methods have been used in studying the emotions.
+Casual individual introspection is the earliest and is consequently the
+basis for most of the literature. Bain (2) and Ribot (16) were among the
+first to employ this method extensively. Observations of the behavior of
+normal and abnormal persons have given some results. The questionnaire
+method used by Dr. Hall (11) has shown the wide range of objective
+reactions and objects of anger.
+
+Both anger and fear are deep rooted psychic strata. Introspections
+reveal motives of selfish, unsocial and unlawful character, springing
+from a level lower than the social man. All observers have been quite
+frank in giving the full introspections, even when their most private
+and personal matters were concerned. Where illustrative material is used
+it has been necessary to remove the personal element, as in many
+instances, others besides the observer were concerned. This revision has
+been the work of the writer. The essential psychological factor is
+unchanged and the words of the observers are used as nearly as possible.
+The twelve persons will be called by the first twelve letters of the
+alphabet, and other persons named in the introspections will be called
+X. Y. and Z. Ten of the observers were graduate men students of
+psychology. Seven of these had had considerable experience in
+introspection under controlled laboratory conditions. Most of the
+illustrative data will be taken from the observations of A. B. C. D. E.
+F. and G. who are the most experienced observers.
+
+No apology is offered for this study because of the uncontrolled
+conditions of introspection. Emotions are involuntary processes and
+consequently do not lend themselves to voluntary control necessary for
+laboratory technique. The emotion springs from an antecedent complex
+combined with a present idea. The fact that anger does not develop from
+a single experience but is a predetermined consciousness usually
+cumulative in character, makes voluntary origin difficult. Even when the
+individual is aware of the antecedent which tends to give rise to anger,
+the voluntary combination with a present idea is unsuccessful. A further
+difficulty in introspection is the tendency of the emotion to disappear
+as a result of the act of introspection. It occurs frequently in the
+data that a further development of the emotion is entirely cut off by
+introspection. However, attention to the situation giving rise to anger
+frequently reinstates the emotion, if the feeling background is intense
+enough. It was necessary to instruct the observers to allow their
+emotions to run their usual course and note the facts of behavior at
+convenient times. The purpose of this study is to investigate the
+behavior of consciousness in the development, expression and
+disappearance of anger. The observers were asked to direct their
+observation especially to the behavior side of consciousness. It is
+believed, that regardless of the necessary uncontrolled conditions of
+introspection, that a systematic observation of both mild and intense
+experiences of anger by a number of observers over an extended period of
+time will add to a better comprehension of the functional character of
+this one of the fundamental emotions.
+
+------------------------------------------------------------------------
+
+                              CHAPTER ONE
+
+                   MENTAL SITUATION STIMULATING ANGER
+
+------------------------------------------------------------------------
+
+Professor Titchener (19) states concerning emotions in general three
+essential factors for their formation. First, a series of ideas shall be
+interrupted by a vivid feeling; second, the feeling shall mirror a
+situation or incident in the outside world; and third, the feeling shall
+be enriched by organic sensations created by the course of bodily
+adjustment to the situation. It has been well agreed from casual
+introspection that the stimulus to an emotion is a total mental
+situation or predicament. It is evidently necessary in the psychology of
+the emotions that each emotion should be studied in connection with its
+predetermining mental situation giving rise to it. Anger because of its
+slowness to develop, lends itself more readily to a study of the
+situation from which it arises, than some other emotions.
+
+It is well known that there is little constancy in the outside
+situation, associated with the emotion of anger. What one will take as
+an insult, another will regard as a joke. With the same individual,
+what will at one time excite anger, will at another be scarcely
+noticed. We commonly say, referring to some incident, “There was
+nothing for him to be angry about,” and the statement may be correct
+if the outside situation is viewed as the stimulus to the emotion.
+With the insane and hysterical, an observer is often baffled by the
+apparently harmless idea that will excite anger. The fact is, the
+situation stimulating anger is a psychic one. We fail in viewing our
+emotional life in the same manner as we do in observing our sensations.
+Whatever the outside conditions, it is the psychic situation as
+only a partial reflection of outside conditions, that is of primary
+importance. A few instances of the current views of the situation
+exciting anger may be given. What may be called a genetic view is
+illustrated in McDougall’s (15) statement, “The condition of its
+(anger) excitement is rather any opposition to the free exercise of
+any impulse, any obstruction to the activity to which the creature
+is impelled by any one of the other instincts.” Dewey (6) in his
+conception of instincts has pointed out that we are not angry when we
+are fighting successfully. Only when the pugnacious instinct is impeded
+does emotion arise. An introspective view may be taken from Bain (2),
+“When we have suffered harm at the hands of another, it leaves a sting
+in the violation of the sanctity of our feelings. This pre-supposes a
+sentiment of self regarding pride, the presence of which gives rise to
+the best developed form of anger.” David Irons (12), who did some keen
+work in the analysis of the emotions, does not qualify his statement
+that anger appears only when we feel that we have been injured.
+
+From the pathological side, Féré (7) and Magnan (11) have described slow
+accumulation of anger in paranoiacs, which seems to re-enforce the
+casual introspective view stated above. These insane persons first
+believe they are persecuted. They suspect all about them. Even their
+very best friends are trying to injure their business or reputation.
+Gradually reactionary impulses begin and they themselves become the
+persecutors and concern themselves with the business of revenge. They
+find gratification in every sort of angry outburst,—insult, abuse,
+threat, murderous attack, irony, witticism, etc.
+
+The same view has been advanced by Steinmetz (18) in the observation of
+the behavior of primitive people. He holds that revenge is essentially
+rooted in the feeling of power and superiority. It arises upon the
+experience of injury and its aim is to enhance self-feeling, which has
+been lowered by the injury suffered.
+
+The next few pages will be devoted to an examination of the mental
+situations from which anger develops as found in the results of the
+introspections. About six hundred introspections from the various
+observers have been used for this study.
+
+_Feelings of Irritation._ One of the characteristic mental situations
+from which anger arises is that connected with feelings of irritation.
+These feelings are described as unpleasant nervous tension with a
+tendency to motor activity. Awareness of the feeling may be present
+while attention is directed elsewhere. It may or may not be referred to
+any particular incident. C.—“It is a sort of diffused unpleasant
+consciousness that things in general are going wrong.”
+
+Irritation in connection with pain or illness is a condition from which
+anger may develop. From this a trivial incident may give rise to anger.
+A note from E.’s records says, “I had a severe headache to-day and felt
+irritable. When X. would try to sympathize with me, the irritation would
+increase and I tended to be angry.” G, who has relatively few emotions
+of anger, introspected upon ten cases of anger, arising from a
+fore-period of irritation during a day’s illness. Subject I. states with
+reference to pain, “While the pain was on I felt as though I wanted to
+be angry at somebody or something, X. spoke to me and at once I was
+angry.” Feelings of irritation may increase, gradually, accompanying the
+increased intensity of pain. A. states, “Irritableness at the first
+beginning of the pain increased to intense anger at the moment the pain
+was most severe. There was a strong motor tension in the hands and face
+muscles with the impulse to look about, vaguely aware that I was trying
+to find something to refer the anger to.... A decrease of the pain was
+accompanied by a decrease of the anger to a feeling of irritation
+again.”
+
+Feelings of irritation follow as a result of the thwarting of some
+desire or mental attitude and are consequently predetermined by the
+attitude of the moment. From this, anger develops for the most part, as
+a result of a series of stimuli, which have a cumulative effect. Each
+thwarting of the impulse intensifies the irritation until anger is
+developed. One or two failures may stimulate unpleasant feelings, which
+at the time are ignored; but with an increase of the number of stimuli,
+there is an accumulative effect in which the awareness of the previous
+failures becomes more intense than at the moment when they occurred. The
+following from B.’s observations will illustrate, “I was writing a
+letter to an important personage and was making special effort to write
+it neatly. I made an error and felt unpleasantly irritated. Still
+feeling quite unpleasant, I turned to look for my eraser and could not
+find it. I looked in several places. Each failure was followed by a
+sudden increase in intensity of unpleasant feelings.” Finally B. found
+himself using defamatory language prolifically, giving expression to a
+rather well developed case of anger. One is usually aware in anger of
+this type, that the emotion is the cumulative effect of a number of
+previous stimuli. It appears from the reports, that if the mental
+predisposition is intense enough, one or two failures may suffice to
+excite anger. In general the stronger the predisposition, the less
+number of failures is required before anger is fully developed.
+
+Another characteristic of the feeling of irritation is its indefinite
+objective reference. It may not refer definitely to any object at first.
+The tendency is usually present to refer it to some object or person,
+regardless of the real cause of the feeling. E. states, “I felt I wanted
+to get angry at somebody or something and I did not care much what.”
+While it is common with all the persons studied, to be irritated and
+burst out angrily at objects, the tendency to transfer the anger from
+objects which may be the real objective cause to unoffending persons, is
+a matter in which there is a wide individual difference. C. when
+irritated by objects, finds a partial relief if he can lay the blame on
+some person and take an imaginary vent against him. He states, “I have
+been cross and grouchy all day; ‘felt out’ with everybody. Several times
+the association of X. and Y. came up with a little rising anger and an
+attitude that they were somehow to be blamed. I was aware that they were
+not to be blamed, but at times I would find myself ignoring this and
+taking pleasure in criticising them adversely.” This tendency to
+personify the source of anger is illustrated in another incident from C.
+He lost his umbrella. He looked for it in several places with an
+increased feeling of irritation; following a line of other associations,
+he imagined Z., a person whom he dislikes, walking off with it. He says,
+“All this was mildly pleasant. I was scarcely aware how improbable it
+was that Z. had taken it, till the act of introspecting on the emotion.
+I really wanted to believe that he had taken it.” The personal objective
+reference to somewhat suppressed feelings of irritation frequently
+facilitates the sudden development of the emotion. The tendency to refer
+the anger to some innocent person, ignoring for the moment the real
+facts and forgetting one’s sense of justice for the time being, is a
+matter in which there are marked individual differences in the subjects
+studied.
+
+It is a common characteristic of the initial stage of anger, that
+although there is an awareness that the emotion is due to a series of
+irritating stimuli, the entire situation exciting the anger is ignored
+and the anger is referred to some person, frequently one recently
+associated in time. Thus objectified, anger seems to find a more ready
+expression. Anger is more successfully developed from a fore-period of
+irritation if the present predicament is in any way associated with a
+person or situation against which there is already an emotional
+disposition of dislike. A feeling of pleasurable satisfaction is often
+reported to follow the successful expression of anger after feelings of
+irritation.
+
+Anger with a fore-period of irritation is common with all the subjects
+studied, but the manner in which the anger arises from these feelings is
+a matter of wide individual difference. They all get angry at objects
+when they act as hindrances. With B. and C., who live alone, this
+tendency is more marked. With all the persons studied, anger with a
+fore-period of irritation occurs more frequently against objects and
+situations than against persons. When persons are involved in anger of
+this type, they are usually those with whom there is close intimacy or
+with servants and children.
+
+The sentiment of justice may facilitate the development of anger arising
+from feelings of irritation. Irritable feelings may more readily develop
+into anger if a situation is associated in which fairness and justice
+are violated, although the point of justice may be far removed from the
+actual cause of the irritation. Under the influence of irritation, there
+is frequently a little more sensitiveness to injustice if the idea of
+unfairness can facilitate in the objective reference to the emotion. The
+following instance will illustrate. A. was walking along the street at
+night in an irritable state of mind in connection with a series of
+incidents just past. In this state of mind he came to a place where a
+new house was being built and the builders had left an accumulation of
+dirt on the sidewalk. When it rained, the water would collect making the
+walk bad. He had previously noted that they had made enough progress
+with the building that it was unnecessary to leave the dirt on the walk.
+“On this occasion,” he states, “I now become quite indignant, and
+suddenly found myself in imagination telephoning the street commissioner
+in an angry attitude and tone of voice, telling him about the dirt and
+where the house was located, and ending with the sentence, ‘It is an
+outrage to tax payers.’” But this did not fully satisfy his resentment.
+He imagined himself the next day walking up to the overseer of the
+construction gang and assuming a rather indignant air, telling him among
+other things that the way he had left the walk was an outrage to the
+public. On the other hand, the sense of justice may be ignored for the
+time if it does not aid expression. In some extreme cases the subject
+may assume a make-believe attitude and trump up reasons to suit his own
+ends regardless of the facts. The tendency is strong to give some
+justifiable expression to the present mental predicament. In such cases
+reason serves the purpose of feeling. All other mental processes may
+become subservient to the rising indignation till the point of anger is
+reached, but with the expression of anger, the illusion of fairness
+usually disappears. The behavior that seemed so commendable while angry
+may excite shame or regret after the emotion has been vented.
+
+_Negative Self-feeling._ A second characteristic mental situation from
+which anger arises, is that connected with negative self-feeling; the
+self-feeling has been lowered and anger follows. In the observation
+of all the observers, it appears at times in the initial stage of
+anger. Whatever outside situation occasions lowered self-feeling
+may indirectly give rise to anger. And just as there are feelings
+of irritation, which do not pass into anger, so there are negative
+self-feelings which are not followed by anger. In the description
+of this feeling, it appears in marked contrast to the anger that
+follows. As to time, it may last but a moment before anger arises. In
+other instances the feeling of humiliation may be rather prolonged or
+repeated before anger arises. The feeling is described as unpleasant,
+as a lack of motor tension, a feeling like shrinking up, an impulse
+to get away, a confused inco-ordinated state of mind. A rather wide
+vocabulary referring to self and the feeling side of experience is
+used by the subjects to designate this feeling in colloquial language.
+Examples of such phrases from the observations are as follows:—“I felt
+sat on,” “Was humiliated,” “Felt inefficient,” “Felt imposed upon,”
+“Felt stepped on,” “A feeling of self depreciation,” “Felt offended,”
+“A feeling of subjection,” “Felt as if he thought I were no good,”
+“Felt worried,” “Felt as if he were hitting at me,” “Felt that what
+he said reflected on my ability,” “Disappointed in myself,” “Felt
+ashamed,” “My feelings were wounded,” “Felt that that was insult
+added to injury,” “Felt slighted,” “Feeling of abasement,” “I was
+embarrassed,” “Felt as if I had been caught with the goods on.”
+
+Unlike the feeling of irritation, negative self-feeling has a more
+definite reference to the outside situation and for the most part refers
+to persons. It will be noted that the origin of anger from the mental
+situation of lowered self-feeling, and that from a condition of
+irritable feelings, comes about by quite different processes. The latter
+is reached by an increased complexity till the anger point is suddenly
+attained. In the former case the anger comes about as a rather sudden
+reaction from a state of consciousness that is in marked contrast to
+anger. Notes from the reports will illustrate this characteristic. B.
+had made some errors at a public meeting. X. in a speech jokingly called
+attention to the errors. At first B. was confused and felt a little
+worried and embarrassed. In a few moments he found himself mildly angry
+at X. and was planning to retaliate. B. states that his anger did not
+refer to the fact that he had made the error, but to X. who had
+humiliated him by calling public attention to it. F. went to get a check
+cashed and was refused. He states, “I felt belittled and became
+indignant as I walked away.... With the appearance of the imagery of
+another person getting his check cashed the day before, I became quite
+angry.” He adds that he was not angry because of the failure to get the
+check cashed, but because of the discrimination against himself. The
+anger referred to the cashier. The idea that he was acting according to
+rules and not personally responsible, appeared, but was ignored by a
+recall of the imagery of the other person getting his check cashed.
+
+Negative self-feeling appears rather suddenly without any definite
+conscious fore-period of its own. It is a state of consciousness
+predetermined by pleasurable feelings of self regard. In taking the
+report of C.’s emotions one evening, there was found to be an unusual
+number. He had been usually observing from one to four emotions each
+day, with occasionally a day having no experiences of anger. On this
+particular day he had observed and taken notes on twelve rather strongly
+developed cases of anger. An inquiry into the cause showed nothing
+except that he had felt extra well all day and had turned off more than
+the usual amount of work. This was a disturbing situation in connection
+with evidence that had previously been collected from G. and D. These
+two persons have few emotions of anger and have gone over a week with no
+experience of anger. On December 4th, D. took observations on four cases
+of anger. On inquiry it was found that he had been ill and not slept the
+night before. G. on the two days that he was ill introspected on ten
+cases of anger. An examination of G.’s and D.’s reports indicate a
+fore-period of irritable feelings or a lack of immediate conscious
+fore-period. In none of these cases was there any indication of lowered
+self-feeling in the fore-period of the emotion, while with each of the
+introspections of C. on the day he felt extra well and reported on the
+unusual number of twelve cases, there was a fore-period of negative
+self-feeling. With A. on the days when he feels best, there is an
+increase in the number of cases of anger with an initial lowered
+self- feeling. Such evidences as we have, indicate that anger with a
+fore-period of negative self-feeling occurs most readily when the
+sentiment of self-regard is active,—on the days when the person is well
+pleased with himself. It is true that the play of this sentiment only
+appears in consciousness, when it has been interfered with or enhanced.
+It makes up an essential mental predisposition in connection with the
+situation stimulating anger. The following note from C.’s observations
+will illustrate. C. met X. and spoke to him; X. paid no attention. C.
+states, “For a moment I felt humiliated.... I said to myself, ‘He does
+not know my importance.’” C. then became quite angry thinking cutting
+remarks about X. and ending the emotion by finding an excuse for X.’s
+not seeing him.
+
+Any remark, suggestion, chance association, it may be, attitude
+of another or incident, which in any way lowers the sentiment of
+self-respect may stimulate anger. In this regard there is a wide
+individual difference with the persons studied and with the same person
+at different times. A trivial incident may lower the play of the
+self-regarding sentiment and consequently give rise to anger, while
+at other times a direct thrust at one’s honor may be ignored. The
+personality of the offender, his social and intellectual standing, his
+general demeanor and attitude, play an important part in the entire
+emotional situation, but at times personality is ignored and a “chip is
+carried on the shoulder” for the chance passer-by.
+
+It appears in the results that the anger of the person who is not
+in authority against the one who is, or the anger of the man lower
+down against the one higher up, usually has a fore-period of negative
+self-feeling. A mental disposition toward the one in power in addition
+to the sentiment of self-regard, is a predetermining mental situation
+in exciting lowered self-feeling and consequently anger. The most
+intense instances of anger that C., D. and E. experienced were against
+persons in power. D.—“I was aware they were in authority and were
+taking advantage of it to run us out. I felt a little humiliated but
+not angry as I left the room. It occurred to me they were rather small
+in usurping the place.” A little later D. became quite angry and
+carried on in imagination a rather extensive verbal combat with the
+usurpers in which he came out victor. E. states in his observation,
+“If X. had been an ordinary man, I would not have given the occasion a
+second thought. But being very high up ... I was inclined to take less
+off of him than those I consider as not knowing better.”
+
+On the other hand a certain mental disposition toward the person lower
+down in connection with the self-regarding sentiment may be a
+precondition of anger. Too great familiarity from an inferior may
+momentarily lower the self-regarding sentiment to his level and in
+consequence excite anger; we do not resent a slap on the back by one
+whom we admire or recognize as our superior, but we do from our
+inferior. The same act from the one may heighten our self-respect while
+from the other it is lowered. D. reports a case of anger when he was in
+a crowd. A boy kept purposely stepping on his heels. He states, “I was
+not hurt but he acted too familiar for a boy under the circumstances. I
+took his attitude as a personal matter and felt a little humiliated.” A.
+reporting a case of anger stimulated by a person whom he holds in low
+esteem, says, “It was not what X. did so much, but it was his familiar
+confidential attitude before others that embarrassed me.”
+
+It appears frequently in the observations that it is not what is done or
+said, so much as it is the attitude of the person, that is so offensive.
+A too positive and aggressive action, a too great display of wisdom, a
+too familiar or condescending demeanor, may be the essential element in
+the stimulus to anger. The following phrases are noted by the different
+subjects as being an important part of the situation stimulating anger
+of the type now being treated. C.—“I resented his too dignified air more
+than anything else.” G.—“What angered me most was his condescending
+attitude as if he knew it all.” I.—“He acted too wise and I was aware he
+was trying to lord it over us. That was the most offensive part.” H.—“He
+sat and stared at me as if he thought I didn’t know what I was talking
+about.” F.—“He took on a wise air implying that he had already passed
+through the stage in which I now was.” E.—“It was not his statement so
+much as it was his rather spiteful attitude that angered me.” A.—“It was
+not what he said. It was his haughty air and little condescending laugh
+in dismissing the matter that rang in my ears.”
+
+While in the presence of a situation that lowers self-feeling, even
+though persons may not be connected with the situation, it is a common
+characteristic to refer the anger to some person. The bounds of justice
+may be, for the moment, overstepped. The dim awareness with some, that
+the person is not to be blamed, is ignored for the time, while the
+tendency is strongest in consciousness to give expression to the
+emotion. The individual differences here are quite marked. G. apparently
+has developed a habit of referring his anger to a principle, ignoring
+the personality. In many of his observations, persons were connected
+with a situation, but were neglected in his attention to the principle
+violated. A business man had told him an untruth causing him difficulty.
+G. states, “I was not angry at the man. That was his way of doing
+business.” In the course of his emotional experience, his anger became
+rather intense, referring to the business ethics practiced. The degree
+in which the sense of justice is ignored under the influence of anger of
+this type is also a matter of wide individual difference.
+
+In the observations collected, anger at one’s self appears quite
+frequently. There have been no cases found, in which anger at one’s self
+develops purely from a fore-period of irritation. The subject takes the
+matter to himself and feels a little humiliated and degraded and may
+react against his own personality in the same manner that he would
+against another. Two observers, B. and G., quite frequently get angry at
+themselves. A. reports that this sort of anger rarely occurs with him.
+G. observes the following case. After he had been repeatedly humiliated
+by his own failure, he says, “I felt as if I were so inefficient. I said
+to myself, ‘If I had a man working for me and he should do work in that
+manner I would discharge him.’” G. then continued to talk to himself
+like another person in rather severe condemnatory language. B. was
+reading a book. He could not understand the author’s demonstration. He
+had made several trials at it. He states, “I felt as if I must be
+stupid, somehow; there was a slight feeling of worry and dejection. The
+idea of my stupidity was followed by anger at myself for being so
+stupid. I clinched my fists and threw my arms in angry demonstration,
+feeling as if I would like to pummel myself. I went over the
+demonstration again with an attitude of carefulness and finally
+concluded that it was the author who was hazy instead of myself. I
+slammed the book down on the table and broke forth angrily, ‘You, X.,
+are the one who is stupid, you don’t make it clear.’ This anger at the
+author was rather pleasant in quality. I felt a sort of triumph over
+him.”
+
+Another situation quite common in the origin of anger with a
+fore-period of lowered self-feeling, is its appearance at times with
+greater intensity after the actual outside stimulus is passed. One
+becomes more angry in recalling afterward what was said, than he was
+at the time of the offense. This belated origin of anger appears
+in the observations of all the subjects studied. It may be noted
+that anger with a fore-period of irritation does not appear in this
+retarded manner. In the recall of an incident in imagination, anger
+may become quite intense; while it may be at the time of the incident,
+there was no awareness of any tendency to anger. Mild anger at the
+time of the initial stimulus may become intensified in its recall.
+In such cases there was evidently some element lacking in the mental
+situation stimulating anger. An offensive statement in the heat of an
+irascible discussion may be ignored. A rather severe thrust may seem
+proper, but when recalled in connection with another mental situation,
+the emotional content may be entirely changed. X. in the course of
+an argument with E. implied, “You never will know as much about the
+subject under discussion as Y.” “At the time I noted his statement and
+was aware that it was a thrust at myself, but I had no feeling about
+the matter then. I considered that I was producing the better argument,
+and his personal thrust I was aware was an admission on his part that
+he knew I was. To-day I recalled his statement and felt degraded and
+angry.” Then C. proceeded to plan a series of cutting remarks that he
+would like to tell X. In some instances the presence of a too active
+aggressive attitude at the time of the stimulus seems to predispose
+against a too easy lowering of self-esteem, and consequently anger with
+a fore-period of negative self-feeling does not appear. But let one
+momentarily lose faith in his point of view or fail in words to express
+it, and he becomes more sensitive to the thrusts of his opponent’s
+argument.
+
+Another factor partly accounts for the greater emotional intensity of
+the recalled incident. The conventional control of emotions during
+social contact may be relaxed during the memory recall. The same ethical
+standard is not required for one’s private thinking as in actual contact
+with others. In this respect there is rather wide individual difference
+with the subjects studied. Though in general with persons of rather
+intense emotions, there is a marked difference in the ethical standard
+they practice, when the incident is present to consciousness, and the
+standard used when the anger occurs from the imaged situation; with all
+persons studied at times during their most intense anger emotions, the
+imaginative reaction is far more crude and unethical, and consequently
+the imaged anger may be more intense. A third factor may be involved
+here. A personal thrust may be partly ignored at the time without
+lowered dignity because it is given with a smile or a friendly attitude,
+but when recalled later, the friendliness may be neglected and
+consequently anger is more intense. A fourth condition that partly
+accounts for more intense anger in the imaged situation, is that the
+anger consciousness of this type is usually cumulative. With an entirely
+novel experience, a certain amount of resistance must be broken down
+before the emotion develops. The emotion seems to develop by a
+cumulative process through a series of stimuli. One personal thrust in a
+situation in which there is involved no previous emotional excitement,
+may be ignored or the humiliation may be borne at the time with no anger
+reactions; but when it is repeated one or more times under similar
+circumstances, there is present a characteristic mental situation for
+the development of anger. The repeated occurrence of the incident in the
+imagination intensifies the feelings till anger becomes fully developed.
+E.’s observations will illustrate. “During the argument with X., I was
+in splendid humor, enjoying myself to the fullest and naturally supposed
+everybody was.” Referring to a statement made by X. during the argument,
+E. states, “The glow of the conflict had not entirely departed when I
+began to see his statement in an entirely new light as reflecting on
+myself, then I felt somewhat distressed and overcome to a slight degree,
+by a feeling of abasement but no resentment against X. The next day at
+ten o’clock I was recalling the events of the argument. There was still
+a feeling of abasement but now it stirred me to anger. I found myself
+going over it and thinking what I might have said, and what I would say
+the next time.”
+
+_Anger Without an Immediate Feeling Fore-period._ This study was begun
+tentatively with the view held by Wundt (21) that each emotion of anger
+has an immediate feeling fore-period. The study had not progressed far
+till this view had to be abandoned. It early appeared in the
+observations that anger may begin rather suddenly with no initial
+feeling fore-period, which the observer is able to find. The subject
+reports that he suddenly finds himself in the midst of an emotion of
+anger before he is scarcely aware of it, and is giving verbal and motor
+expressions usually accompanying such emotions. In many of the emotions
+of this type there is evidence in the observations that the emotion
+refers to a previous emotional experience. From the mental disposition
+left over from the previous emotion, the emotion suddenly emerges
+without passing through the cumulative process that is necessary with an
+entirely novel emotional experience. In other words the way has
+previously been broken so that it is not necessary to break down the
+same amount of resistance. A. observes, “Sitting in my room, I imaged X.
+At once I was angry, motor expression not marked at first. X. was imaged
+in a rather positive and demonstrative attitude which he sometimes
+takes. I found myself with quite a good deal of motor activity saying in
+voco-motor fashion as if talking to X.——I was partly aware of three
+former disagreements with X., the imagery of the circumstances of the
+last one was most clearly defined. I imagined X. a little humbled by my
+remark. The emotional experience from the first was pleasant. I felt a
+little victorious in the imaginary act of dealing a telling thrust.”
+
+With all persons studied, there is evidence of a previously developed
+mental disposition against certain persons and against certain
+principles which allows the anger point to be reached in a short cut
+fashion. Anger is easily attained without the initial feeling either
+of irritation or lowered self-feeling. Anger that rises from this
+situation is usually pleasant in quality. The mental disposition which
+is connected with this sudden origin of anger may be present during
+the later recall of the emotion. It is also shown by the frequent
+re-occurrence that the same situation may repeatedly give rise to
+anger. B. has a rather strongly developed sentiment against ministers
+who preach what they do not believe; G. against persons who do their
+work carelessly, especially manufacturers who send out goods of
+inferior quality. I. has a marked sentiment against acts of cruelty in
+the treatment of animals. D. reacts rather vigorously against persons
+who are disloyal to friendship. These sentiments go back to early
+experiences in the life of the individuals.
+
+B. in talking with X. directed the conversation to ministers who preach
+what they really do not believe. He took Dr. Y. as an example. He had
+previously seen Dr. Y. drinking beer with the boys and had resented his
+behavior. He began to vituperate to X. against Y., giving instances and
+telling his opinion rather vigorously about such men who have a double
+personality. “Before I was scarcely aware of it, I was in the midst of
+motor and verbal expressions of righteous indignation. I enjoyed it all
+very much. I always take delight in making myself angry with ministers
+of this sort.” B. has reported other instances of his anger against
+ministers of this type. A case from I. will illustrate further. “I had
+the same recurring anger for three weeks. A delivery boy who passes
+about the same time each day goes by whipping and abusing his horse.
+Anger arises each time the incident occurs. The sight made me pleasantly
+indignant. I have the image of an old German, living near my home as a
+child, who treated his horse so cruelly. The idea of telephoning to the
+police occurs to me, but the boy goes on and the idea is abandoned.”
+
+------------------------------------------------------------------------
+
+                              CHAPTER TWO
+
+                       BEHAVIOR OF CONSCIOUSNESS
+
+------------------------------------------------------------------------
+
+Wundt (21) has pointed out that there are two types of reaction to
+an emotion, what he calls outer and inner volitional acts. The first
+refers to the external bodily expression of an emotion and the latter
+to the mental behavior. In the study of the emotions, attention has
+for the most part been directed to the former. Darwin’s study of the
+emotions in man and animals, early called attention to the finer
+physical expressions of each emotion, explaining them as instinctive
+habits which were formerly useful. Darwin’s study partly paved the way
+for the James-Lange theory, which maintains that what we experience as
+an emotion is but the sensation of the instinctive physical expression.
+
+The aim of this chapter is to study the mental behavior during the
+conscious period the anger exists. It is recognized that the motor and
+physical expressions is primary and fundamental. For that reason it has
+served so adequately in the objective study of the emotion. What we
+shall attempt to study is the mental behavior of persons under the
+influence of anger. Ethics tells us how we ought to act when angry, but
+psychology has neglected to find out how in reality consciousness does
+behave when the emotional excitement is on. David Iron’s (12) statement
+is still apropos. He writes, “The neglect of the reactive side of human
+consciousness is nowhere more conspicuous than in the case of the
+emotions.”
+
+The anger consciousness is characterized by heightened mental activity.
+A multiple number of images, attitudes, fluctuations of the emotional
+and feeling content appear in rapid succession till the emotion
+disappears. This statement is true for even the more tenuous instances
+of anger. In fact some of the milder experiences have the most marked
+changeableness of conscious content. Objectively there may be little
+activity, while simultaneously on the mental side, there is a wealth of
+processes which must be considered in the psychology of the emotions.
+
+After making a rather minute collection of the different kinds of mental
+reaction to anger, as shown by the introspections, it is observed that
+they fall into three rather clear types of conscious behavior. The first
+type is in the general direction of the emotive tendency and is the one
+that most impulsively follows on the stimulus of the emotion. It
+expresses pugnacity in some form. This type of reaction expresses a
+tendency similar to the basal instinct of the emotion of anger, such as
+thinking cutting remarks, imagining the offender’s humiliation, hostile
+witticism, joking and sarcasm. This type of a reaction will be called
+_attributive reaction_. A second type is contrary to pugnacity; the
+instinctive impulse is reversed. A friendly attitude may be assumed
+toward the offender, an adequate excuse it found for his offense, an
+over polite attitude may be taken. This type of behavior will be called
+the _contrary reaction_. A third type is one that is entirely of a
+conscious attitudinal character. The subject becomes indifferent to the
+whole situation exciting the emotion. The offense may suddenly be
+apathetically ignored and the subject behaves unconcerned and assumes an
+“I don’t care,” or a “What-is-the-use” attitude. This will be called
+_indifferent reaction_. These three types of behavior are characteristic
+of the reactive consciousness to anger. The emotion may contain one, or
+it may contain all three of these types before it finally ends. Going
+over the results of the observations of all the subjects, about fourteen
+hundred sixty eight reactions are counted in the six hundred cases of
+anger studied. Seventy one percent of such reactions are classified as
+attributive reaction, eighteen percent are the contrary type, and eleven
+percent are the indifferent.
+
+The initial reaction to anger is always of the attributive type.
+Whatever other reactions may follow in the course of the entire anger
+period, the attributive reaction in some form is characteristic of the
+early stage of the emotion. The contrary and indifferent types are
+secondary in point of time and occur after the initial hostile
+tendencies have been restrained. If an emotion of anger is made up
+entirely of the attributive type, which frequently occurs, and continues
+for any length of time, it is always noted that some of the reactions
+are more crude and unsocial and others are refined, disguised it may be,
+covered up, and when the emotion is most intense whether it be in the
+initial stage or elsewhere, the unsocial attributive tendencies are
+usually found at those places.
+
+                          ATTRIBUTIVE REACTION
+
+The anger consciousness in its development, especially in its initial
+stage is characterized by restraint. The subject is aware of hostile
+unlawful impulses that must be controlled. Its initial stage is usually
+reported as unpleasant. The second characteristic of the anger
+consciousness is reaction of some sort. What takes place on the mental
+side, is along the line of least resistance for the moment. Mental life
+is rather versatile in providing subjective reaction to anger. Motor and
+visual imagery play an important role involving lessened resistance. A
+third characteristic of the anger consciousness is what the Germans call
+“Verschiebung.” The emotive tendency is inhibited. A substitution
+follows for the tendencies restrained. It may be purely subjective or
+only partly subjective. But the subject in the observation of his anger
+is fully aware that he would behave in some more drastic fashion if the
+restraint were off.
+
+_Substitution of Visual and Motor Imagery._ With the subjects studied
+there occurred no real pugnacious attack in which blows were struck
+except with those persons who have the correction of children; there are
+also but few real quarrels reported. But the versatility of
+consciousness in substituting and providing merely mental reaction for
+other hostile tendencies that the subject really wished fulfilled is
+quite striking. Visual and motor imagery may take the place of
+tendencies which are inhibited and allow a successful expression. An
+observation from A. will illustrate. “I found myself saying cutting
+remarks as if speaking directly to X., and I planned a course of
+behavior toward him that I considered would humiliate him. I finally
+ended by imagining myself kicking him down the street, telling him I
+wanted no more to do with him. The imagery of this act was pleasant. I
+felt victorious. X. was imagined as penitent.” The imagery of the
+pugnacious attack in some form is a quite common characteristic of the
+mental reaction to anger. It occurs after a period of restraint when
+there seems nothing else to be done; imagination and fancy appear at
+such a crisis and assume the role of a surrogate for hostile tendencies,
+which the subject has controlled. The awareness of the direct end of the
+initial tendency of the anger may be present in consciousness or the aim
+may be indefinite. Subject I. observes, “I felt as if I wanted to say
+something or do something at once that would get even with X. The thing
+to do was vague, but the impulse to do something in a hostile manner was
+strong.” The aim of behavior may be rather definitely formed in the
+early stage of the anger consciousness as soon as the irascible feelings
+are definitely referred to some object. An illustration from A.
+follows:—“The impulse to take X. (a child) and shake him, was strong on
+the first stimulus of the emotion; suppressing this I spoke crossly to
+him, at the same time there appeared motor imagery of my holding him
+with both hands and shaking him.” Another instance from the same
+subject: “I had an impulse to punish X., restraint was immediately
+followed by a motor and visual imagery of the act of punishment.”
+Subject C. observes, “The first impulse was to kick X., the restraint
+was accompanied by motor images of kicking him, followed by the image of
+his being hurt in the face.” E. states, “I felt as if I would like to
+shake him and imagined myself doing it.” G. developed a case of anger
+from a series of irritating stimuli. Describing his anger, he says, “I
+felt like I wanted to bite or hit something.” B. reports a case when he
+had been humiliated by some boys along the street. The tendency to anger
+at the time was controlled, but as he passed on, the emotion arose with
+greater intensity. “I imagined myself beating one of the boys, I gave
+him several good punches; he had no show at all. I came out victor and
+was enjoying it all.” One of the many sorts of mental reactions that H.
+reports to a case of anger that extended over three quarters of an hour,
+is, “I imagined myself charging at him and his looking frightened at my
+behavior.”
+
+_Substitution of Irascible Play._ The imagined fight and victory take
+the place of tendencies which would have a more objective expression.
+Another sort of substitution of the initially restrained emotional
+reaction, is first to lessen the restraint by inhibition and react in
+some less crude manner in a slightly disguised form, which gives a
+feeling of satisfaction in inner victory and at the same time lacks the
+objective hostility. A. felt humiliated because of X.’s remark in the
+presence of others. “Resenting his familiarity, I went out of my way to
+pass him; I grabbed his arm and gave it a tremendous grip, at the same
+time I smiled playfully. I really aimed to hurt him and was fully aware
+that I wished to hurt him worse than I did. What I did was merely a
+substitution, but now that the act was over, I felt fully satisfied and
+pleased with what I had done.” The playful attack is a rather common
+sort of reaction to resentment with observers A., C. and D. D. observes,
+“I was angry at X. and was trying to control myself; suddenly I grabbed
+him and punched him several times in the ribs, at the same time I
+smiled. I did not want him or the others to know I was angry. I enjoyed
+pummelling him, as I felt I had demonstrated to him that I could handle
+him.” In such observations the subject’s awareness that what he does in
+a playful fashion is but a substitution of what he would like to do in
+another manner, is significant. This sort of awareness seems to be
+ignored in the every-day experience of our emotional life. Attention is
+directed to the reaction; we involuntarily seek a place of lessened
+resistance, but the act of introspection allows the subject to be more
+clearly aware of the inhibited reaction and the substituted expression
+which follows.
+
+_Substitution of Imaginary Invective and Cutting Remarks._ The vocal
+expression of anger is one of primary significance. Swearing, grumbling,
+invective, quarrelling, interjectional obloquy, etc., are very common
+signs of anger. The results would very strongly suggest that anger
+rarely, if ever, occurs without its vocal expression in some manner, if
+not by direct vocalization either by inner speech or voco-motor imagery.
+Introspection of slight emotions or anger lasting momentarily, show as
+their most marked sensation, one of tightening of the throat muscles.
+Defamatory language or mild swearing is common with all the subjects
+studied while in the privacy of their own rooms when the restraint is
+off. The expression of the vocal cords is one of the most successful
+vents. B. was instructed to abandon himself to vigorous invective and
+interjectional obloquy when the emotion first began and note the result.
+He followed these instructions on three occasions when the emotion from
+the beginning was unpleasant, developing from a fore-period of
+irritation. With this sort of voluntary vigorous vocal expression, the
+anger soon passed into rather pleasurable excitement.
+
+The reaction to anger in its initial stage may be a vocal tendency to
+express one’s anger, referring the emotion directly to some person or to
+an object. When the restraint is on, either from motives of decency or
+the absence of the offender, the thinking of cutting remarks may be
+substituted for the actual verbal attack. The subject is aware that what
+he says to himself he would like to say to the offender. Methods of
+procedure are elaborately planned for a future verbal attack, just what
+he expects to say and wants to say, how he will say it, the inflection
+of the voice, the emphasis of words and dramatic attitude. He may
+imagine the effect of the attack on his opponent, the latter may talk
+back. The imagined verbal combat is usually a one-sided affair and ends
+in victory for the subject. Drastic remarks and the most cutting
+sarcasms are planned at times by the subjects studied. However there are
+wide individual differences which cannot be referred entirely to the
+difference in intensity of the emotional life. Habit apparently plays an
+important role. D. felt that he had been imposed upon by X. and Y. After
+the humiliating incident had passed, D. suddenly found himself in the
+midst of an anger reaction. “I found myself having a verbal combat with
+them. I imagined I was telling X., ‘I should think it costs but little
+to act like a gentleman, but I presume this is an illustration of your
+piggishness.’ Then I imagined Y. beginning to talk. Just what he was
+saying was not clear, but I was aware that he was helping X. I
+interrupted by telling him, ‘I understand you are from —— and of course
+I can’t expect anything better of you.’ They began to talk back several
+times, but I got the better of them and felt pleased about it.”
+
+The cutting remarks are at times crude and abusive. The subject may
+swear at the offender. Persons who do not swear in actual life
+frequently do in imagination. In such imaginative verbal attacks the
+offender’s bad qualities are displayed before him, at other times the
+same subject may resort to imagery, sarcasm, witticism or joking of a
+hostile nature. The motivation seems to be to imagine remarks that would
+humiliate the offender. The visual imagery of the astonished humble
+opponent is usual in these imaginary attacks. Crude and abusive remarks
+may at times seem entirely appropriate; at others, sarcasm and irascible
+joking seem more adequate. Sarcasm usually develops rather slowly with a
+period of restraint preceding it, unless it is ready made for the
+occasion. When the fitting sarcastic remark is found, it is usually
+accompanied by pleasantness in some degree. F. observes, “I could get no
+imaginative remark that would suit me at first, but after the emotion
+appeared several times in succession I suddenly discovered one and found
+myself saying it over and over again. It rather pleased me, I practiced
+it to get the right inflection and emphasis that I desired.”
+
+The imaginative cutting remark may be in the second person as if
+addressed directly to the offender, especially when the emotion is
+intense. It may be in the third person about the offender, his
+unfavorable qualities are recalled with no plan or intention of
+repeating his remarks to him. The contemplation of his unworthiness is
+accompanied by an agreeable feeling. B. became righteously indignant at
+X. because of an incident of ungentlemanly conduct toward a friend. He
+observes, “A moment later (that is after the first instance of anger) I
+imagined myself in my alcove in the Library, and imagined some other
+person, I did not know, who came in and said to me, ‘What do you think
+of X?’ I replied with a good deal of pleasurable indignation, ‘I think
+he is a damned ass.’ Three-quarters of an hour later as I was walking
+along the street, the emotion arose again, and I imagined some one
+asking the same question, I replied the same as before with a like
+feeling of pleasure. I really wanted some one to ask me what I thought
+of X.” The subject may be aware that what he says to and about the
+opponent is a little unfair, but at the time that the emotion is
+progressing, he ignores it and wants to believe ill of the offender.
+
+The results of this study abundantly show that a make-believe attitude
+plays an important role in the anger consciousness, in both the
+development of the anger and the reactive consciousness. It is believed
+momentarily, when the anger is most intense, that the offender is really
+a bad man. Pausing for introspection in the midst of such emotional
+reaction, it is frequently reported, “I knew very well I would say
+nothing of the sort and that X. was not so bad as I believed him.” While
+the emotion is most intense, ill reports about the offender which were
+previously ignored are now believed and assumed as true, and
+satisfaction is derived by degrading the best qualities of the offender,
+by believing stories of ill repute, by suspecting or imagining evil of
+him. The degree in which this tendency is present, depends partly on the
+intensity of the emotion, and evidently in part on the individual habits
+of reaction to anger. The chronic irascible gossiper is evidently a
+characteristic type of person who has specialized in this mode of
+reaction to anger.
+
+_Substitutions by Witticism and Irony._ Witticism, sarcasm, irony,
+teasing and joking make up a large class of vocal and imaginal reactions
+which may take the place of the initially restrained emotional tendency.
+The crude remarks, transformed into wit or fitting sarcasm, overcome the
+consciousness restraint that was initially present in the emotion and
+lessen resistance. It is accompanied by a pleasant feeling and may be
+keenly delightful. A thrust in a half serious tone accompanied by a
+smile, the jest and hostile joke follow a state of mind characterized by
+restraint. In the observations of the subjects studied there is evidence
+supporting Freud’s (8) theory of wit. What he calls “tendency wit”; that
+is, wit with a definite aim has two divisions, the hostile joke and the
+obscene joke. The first is a reaction to irascible anger and the latter
+to the sexual emotions. The introspection of the reactive stage of anger
+consciousness shows the Freudian mechanism for “tendency wit.” The
+following case will illustrate a crude kind of wit. H. whose husband had
+stayed out late at night became angry following a period of worry.
+Fluctuating intensities of anger and periods of worry lasted over an
+hour. After a number of reactions such as planning verbal attacks;
+recalling his thoughtless behavior at other times; crying, assuming an
+attitude of self-pity; devising some means of making him sorry; at times
+trying to assume the attitude that it was no use to be angry; taking
+observations of the emotion at a number of places, motivated by a wish
+that her husband would see the results and feel sorry; imagining herself
+going to him and talking rather abusively. Finally she found a remark
+that gave the keenest pleasure of all. “I imagined myself saying, ‘Petty
+dear, you have been out pretty late tonight.’” This was a condensed
+veiled statement expressing about all she would like to say. “Petty” is
+a character portrayed in a current illustrated newspaper as being mean
+to his wife and flaring up angrily at every little incident. The
+character of “Petty” was fully understood by her husband. The crude
+hostile reaction was followed by a rather condensed acute remark; it was
+reported as pleasant, “because it seemed so fitting.”
+
+C. in a discussion with X. became angry and gives the following
+observation, “I noted I was getting angry and wanted to say something
+hostile, but instead I turned away suddenly and laughed, saying in a
+joking, half-serious manner, ‘Oh you old bottle head, you don’t know
+anything.’ Although I laughed, I really meant it. That gave complete
+satisfaction. He laughed too.” Let us illustrate further. A., with four
+others, was walking along the street, coming from a clinic at the
+hospital, where a case of flight of ideas had just been observed. X.,
+one of the party, was talking in a manner that seemed to A. a little
+superfluous. He resented his attitude, and turning he said to X. in a
+joking manner, “What did you say? The malady must be catching,”
+(referring to the case observed). X. retorted, “I never have any fixed
+ideas.” A. replied, “No, they do fly away pretty fast.” A. observed, “I
+felt pleased and victorious with my remark, my resentment was entirely
+gone and I entered into conversation with X. in a friendly manner.”
+
+Witticism is one of the more refined modes of substitution for the
+more directly hostile attack. Sarcasm is cruder. Its mechanism depends
+for the most part upon the inflection and tone of voice in speaking.
+The words themselves in sarcasm are innocent enough, but the mode of
+expression and the meaning involved are the sources of hostility. The
+following statement represent sarcastic remarks. A.—“I think I will
+come around to your Club,” emphasis on the word “your.” A.—again, “You
+surely must be right,” emphasis on “surely.” J.—“You are not the boss,
+then?”—emphasis on “not,” with a little sneer and an accompanying
+laugh. Sarcasm is a rather cheap and easy reaction to anger. It is
+consequently more easily attained than wit. The period of conscious
+restraint preceding sarcasm is usually less, unless the witticism
+is already made for the occasion. Its feeling effect is also not so
+pleasant as of wit. At times sarcasm may be combined with rather
+crude wit, but wit of a more refined type will exclude sarcasm. The
+following is a combination of this kind. C., having become angry at X.
+for his “bragging attitude,” says, “I was conscious of the tendency
+to say something hostile, but could think of nothing appropriate. In
+the course of his remarks X. finally said, ‘I never read anything for
+an experiment as I fear it might bias my results.’ I suddenly found
+a remark that seemed entirely fitting at the time and at once the
+restraint was off. I said a little sarcastically, ‘No, you never
+want to read anything, it might hurt your intellect.’ As soon as the
+statement was made I saw I had gone too far and felt a little cheap.
+I at once noted that he did not take my remark seriously, and felt
+relieved. My former resentment had entirely disappeared.”
+
+_Substitution by Disguise._ There are many devices less refined than wit
+which are commonly resorted to in slightly disguising the hostile
+attack. The offender may be attacked indirectly and impersonally. The
+following case will illustrate. F. became angry at a merchant because,
+when he went to pay for an article, the price was marked more than he
+had previously agreed to pay. Feeling resentful, he said, “I suppose the
+bill is all right, the clerk said it would be less, but people in this
+town don’t know what they are talking about anyway.” F. observes, “What
+I really meant was that you don’t know what you are talking about.” To
+avoid making the direct attack, the indefinite pronoun is substituted at
+times for the definite. The use of “some one” or “somebody” instead of
+“you,” in talking to the offender blunts the remark. The device is
+rather cheap affording little pleasure and has but a short fore-period
+of restraint. It is carried to an extreme when the subject pretends he
+does not know the perpetrator of the offense and in fact may assume it
+is some one else, so that he may speak his mind directly to the
+offender. I. observes, “I was angry, and talked to her about the affair
+as if I did not know that she did it. I wouldn’t have had her to know
+that I knew for anything. I told her what I thought of a person who had
+acted in that way and noted that she looked cheap. That pleased me.”
+Some gossip and vituperate against their enemies and derive a moiety of
+ill-gotten pleasure if a sympathetic hearer is found. One subject
+states, “I went to tell X., hoping he would be angry too, and felt just
+a little disappointed when he was not.” Hints and insinuations often
+become devices to avoid a too hostile direct attack.
+
+_Imaginary Exaltation of Self._ Another rather important reaction of
+the attributive type is an idealistic one. Imagination and ideational
+processes are active. Lowered self-feeling has been accomplished in
+the subject usually by a number of repeated offenses by some one that
+the subject really respects. The offender is frequently not imagined
+as degraded, but he is left as he is, and the subject proceeds to
+imagine,—it may be to fancy or day-dreams that he is the offender’s
+superior. As the reaction to moments of humiliation, he may later plan
+to surpass him. An attitude of make-believe may be momentarily assumed
+that he is already the offender’s superior. Fantastic schemes of a
+successful career may appear in which he imagines some distant future,
+in which he has gained renown and the offender is glad to recall that
+he knew him in other days. Sometimes he is imagined as seeking his
+friendship or advice, or favor, and is refused with dignity. At the
+next moment he may be graciously bestowing favors upon the offender.
+Such imaginative processes are observed to afford pleasure to the
+subject at the time and may lead to a new level of self-confidence
+which has important influences on later behavior. Usually idealistic
+reactions of this character appear in consciousness after more directly
+hostile reactions have failed to satisfy the subject. A few cases
+will illustrate. A., recalling an incident of the day before which
+humiliated him, became angry. At first he began saying in voco-motor
+fashion as if talking directly to X., “You are a conceited fellow. You
+are hard to get along with. I will beat you. You are too nervous to get
+very far.” “I imagined myself treating him in a superior, dignified
+manner.” A. then laid plans how he would work, stick to one thing, make
+himself a recognized authority, and how he would have little to do
+with X. He imagined X. coming to him for favors when he had attained
+the success he had planned, and himself taking a rather indifferent
+attitude toward his requests. A. observes that his entire reverie
+was pleasant, although the anger was unpleasant in the beginning. C.
+reports a case of anger at X. who had taken a rather critical attitude
+toward a problem which he was studying. He observes, “At first there
+was a slight humiliated feeling. This was displaced by resentment. I
+imagined myself standing before X. and giving him two good retorts
+which I considered would have their ill effects on him. At this point
+the theme changed, ‘I will leave you alone and have nothing to do with
+you,’ I felt as if this behavior would somehow punish him, and that
+pleased me a little.” But as a third and final reaction C. observes
+the following. “I planned to do my work so well that X. would feel
+sorry for what he had said, I imagined X. complimenting me after it
+was finished.” The early stage of the emotion above was reported as
+unpleasant, the final ending in which C. imagines X. complimenting him
+on his success was a point of marked pleasure. Subject E. who had felt
+humiliated by X. whom he considered had underestimated him, observed as
+a final reaction, “I will show him in the next ten years, I am young
+and can work, and he will see.” Then followed a number of plans for
+the future. One subject reacts for a moment at times to resentment by
+day dreams in which he imagines himself a man of wealth and deals out
+favors to all except his enemy. He even uses his wealth and influence
+against him. The feeling is rather pleasant in tone till the moment
+he comes back to a sense of reality. The transition decreases the
+pleasantness rather suddenly.
+
+_Attitudinal Reactions._ Attitudinal reactions of a hostile nature are
+an important part of the anger consciousness. What may be called
+“resolutional attitudes” frequently occur as one of the final mental
+reactions in the diminution of the emotion. The resolutional attitude to
+do something in the future at a more convenient time when the effects
+will be greater, becomes a convenient substitute for conscious
+tendencies that require present restraint. The subject definitely
+settles on a course of action which cannot be carried out at once. The
+feeling tone of such conscious attitudes is pleasant. It is not unusual
+to have a settled resolution and come to a definite conclusion in the
+initial reactive stage of the emotion. Unless the attitude is ready made
+for the occasion, it appears as one of the final resorts. A
+characteristic of “nowness” belongs to anger. An attitude that portends
+to future behavior is secondary, appearing after the possibilities of
+present reactions are exhausted. Much of the initial restraint in
+inhibitions is preparatory to the attainment of a settled conclusion; in
+some cases initial reaction behaves in a trial and error fashion. The
+results of a number of hostile impulses are imagined and are followed to
+their end until finally one is selected that seems most fitting. The
+conclusion reached may be temporary. Although it may be abandoned on the
+reappearance of the emotion, there is a temporary satisfaction in having
+attained a conclusive attitude even momentarily. The following case from
+C. will illustrate. C. became angry on being told of X.’s behavior. He
+first recalled a number of previous similar instances; second, he
+transferred the anger momentarily to another person who told him of the
+offense; third, he imagined himself cutting off all business relations
+with X. and as a fourth reaction he observes, “I took on a pugnacious
+attitude and concluded to fight it out according to the rules of the
+game, and planned what I would do and say to make him come my way.” The
+attitude of waiting for further developments, biding one’s time, being
+cautious, is a frequent substitute for rising tendencies demanding
+present action. Subject E. observes, “I finally came to the conclusion
+not to lie in wait for the opportunity to get back at the offender, but
+to be on guard against a future attack, but even after the conclusion
+was formed it was not at once carried out though it pleased me. I still
+found myself planning what I would say if the thing should be repeated.”
+A. angry at X. and Y., finally came to the following hostile conclusive
+attitude, “They had better be doing nothing like that, I will watch
+them, and when I get a chance they will hear from me. I will be cautious
+and sure first, with which final conclusion my anger disappeared.”
+
+                         THE CONTRARY REACTION
+
+The second general type of reaction to anger is what we have called
+contrary reaction. The subject suddenly reacts contrary to the emotive
+tendency of the emotion. He behaves contrary to what he actually wishes
+at the time. Religion and morals have idealized this type of behavior in
+its extreme form. “Turn the other cheek,” “Love your enemy,” “Do good to
+those that hate you,” are exhortations of more than one religion. As
+compared with the type described above, relatively a small percent of
+the mental reactions under the influence of anger, as shown by the
+observations of all the subjects studied, are classed as the contrary
+reactive type, eighteen percent as compared with seventy one percent.
+
+The contrary reaction is not so rich in versatile behavior as the one
+just described, in fact it is limited to a few set reactions. The
+subject suddenly reacts to a state of mind contrary to anger. It may
+take strong effort to make the change and the attitude is not heartily
+entered into at first and does not usually occur when the emotion is
+most intense, but after it is partly diminished, consequently it is
+usually delayed till a later stage of the emotion. If it appears in the
+initial stage it precludes a complete development of the emotion.
+Subject G. has apparently acquired the habit of championing, in the
+initial stage of the emotion, the offender’s point of view and
+forestalling the development of anger against persons. His anger is
+attained most fully against objects and situations. He considers this
+due to his training in early childhood. E. has developed a partial habit
+of assuming an attitude of forgiveness toward the offender. C. and A.
+when in a quandary and unable to find other adequate means of
+expression, suddenly revert to the contrary reaction. It becomes a
+habitual device toward close and intimate friends or toward persons with
+whom it is necessary to get along. After the anger has gone so far, the
+subject suddenly assumes a friendly attitude as if there were no
+emotion.
+
+There are various conditions under which this sort of mental reaction
+to anger occurs. It is a frequent device in a social situation when
+there is rising anger and it becomes necessary to adopt a sudden and
+quick control. It is forced upon the subject to meet a sudden crisis.
+He may at once assume an over-friendly or over-polite behavior, when
+in reality he would like to behave in a hostile manner. A little
+over-solicitude for the offender may be conspicuously displayed. A few
+cases will illustrate. B. was met on the stairs by his landlady, who
+requested him not to write on his machine after ten o’clock, also to
+put on his slippers on coming home late before ascending the stairs.
+He observes, “Before she had finished I felt uncomfortable and was
+vaguely aware of the inconvenience that these limitations would cause
+me. I recalled that she had said that I could use the typewriter all
+I wished when I took the room; I found myself becoming angry, but at
+once I took the attitude of excusing her. I noted that she looked tired
+while she was talking, and thought perhaps I had kept her awake. I then
+said with an extra pleasant tone, ‘That is all right, I am very glad
+you speak of it, I wish you had told me before.’ The pleasantness was
+assumed, I did not feel pleasant as I spoke, I was still mildly angry.
+Five minutes later I recalled what she had said and began to get angry
+again, but at once imaged her tired appearance and excused her as
+before.” A.’s observation illustrates further. A. was humiliated and
+angry at X.’s statement. “I wanted to say something cutting, several
+hostile remarks appeared which were inhibited one after the other. I
+felt extremely confused and unpleasant but I suddenly began to agree
+with X. I told him in an over-polite manner he was quite right and that
+I was glad he had mentioned it. In reality I did not agree with him nor
+was I glad.” A. states that on leaving the presence of X. the emotion
+reappeared many times in the course of the next half day and in no
+case did he find any excuse for X.’s behavior but blamed him severely.
+When the contrary reaction is resorted to as a device to gain quick
+control, it is reported as unpleasant. The emotion reappears again and
+is usually followed by unpleasant feelings, but when it is not forced
+upon the subject and is entered into spontaneously with zest, as a
+means of finding some sort of satisfaction for the emotional restraint,
+it is accompanied by pleasant feelings. Subject A. sometimes takes
+keen delight in assuming a dignified attitude toward an offender and
+treating him rather friendly as if he were far above getting angry. He
+states, “I always feel I am victor, that I am master of the situation,
+and it is pleasing when I do this.” It may be said that whenever the
+attributive reaction is satisfactory, the contrary reaction is not
+resorted to. The latter type occurs for the most part when the subject
+is mentally obstructed and there seems nothing else to be done but to
+ally himself heartily with the opponent for the moment until the storm
+of his mental stress is passed. Subject J. in a situation, when it
+would be rude to display his anger, observes, “Each time I found myself
+becoming angry at X.’s remarks, I would take a negative attitude toward
+the rising impulse and laugh quite good naturedly at his statement. The
+laugh was not forced, I entered into it heartily.” Subject C. finds
+himself at times suddenly laughing at the most commonplace remarks
+when mildly angry at an offence. It is a common device of subject B.
+to burst out laughing at his behavior when mildly angry, as if he
+were merely a spectator of his emotion and not a partaker of it. “I
+recalled the offensive behavior of X. which had happened two hours
+before. I found myself in an emotion of slight anger, followed by an
+explosive, ‘Damn that X.’ There was present much motor tension in
+arms and face muscles, then noting my angry demonstrations I laughed
+outright at myself and felt pleased.” The anger disappeared entirely
+with the act. It is frequently reported that a sudden pause in the
+midst of unpleasant anger to introspect, is pleasant when attention is
+directed to the behavior, but when attention passes to the situation
+exciting the emotion, anger tends to be reinstated again. Observations
+like the following are reported: “Pausing to observe my emotion, my
+whole behavior seemed so ludicrous that I had to laugh.” The subject
+may suddenly assume his opponent’s point of view, find a number of
+probable excuses for his behavior and at times actually imagine himself
+as champion for his enemy against himself. He does this heartily at
+times when there is no outside compulsion and derives a feeling of
+pleasure in the act. The contrary reaction may be hostilely resorted to
+in some instances. The subject is aware that his aim is to humiliate
+his opponent by making him ashamed and sorry; but it is usually
+reported that, after he has assumed the over-friendly attitude with its
+hostile intent, there is a self-satisfaction in the sudden breaking up
+of the unpleasant conscious restraint. Subject D. observes, “I knew I
+was doing the favor to make him feel ashamed; watching him, I saw he
+was not ashamed in the least but I continued my friendliness and felt
+pleased in doing it. There was no regret when I saw that he did not
+take the matter as I had at first wished.” In the contrary reaction, a
+joke or witticism may be employed, but it has an entirely different aim
+from the joke discussed in attributive reaction. It lacks hostility.
+Its aim is friendliness, the theme is contrary to the situation giving
+rise to anger and serves to distract the attention from the emotion.
+
+                        THE INDIFFERENT REACTION
+
+The third class of mental reactions to anger is what has been called the
+indifferent type. It is attitudinal in character. The subject assumes
+for the time an indifferent attitude toward the situation and person
+exciting the emotion. Eleven percent of the reactions of all the
+subjects studied may be classified under this type. It occurs as one of
+the last resorts when there is nothing else to be done. If it appears in
+the initial stage of anger, the emotion does not fully develop. It is
+not reported as actually pleasant but rather passively relieving for the
+time. Subject B. had received a piece of adverse information in a
+letter. He observes, “At first, I was angry and at once threw the letter
+down on the table in an attitude of not caring anything about it. I felt
+that nothing could be done. I had really wanted the information badly. I
+threw up my hands and moved my body suddenly with a ‘don’t care’
+feeling.” B. reports that he recalled the situation several times later,
+but the anger did not appear again. The same subject recalling the
+offensive behavior of X. and Y. became angry, and observes, “I found
+myself saying aloud, ‘Oh confound them, I don’t care anything about
+them,’ and at once started to attend to something else. My saying I did
+not care, made me feel as if I did not care; in fact now I really did
+not care.” The sudden assuming of an apathetic attitude toward the
+developing anger is a frequent device of subject B. A. after a rather
+prolonged emotional reaction in which he imagined cutting remarks and
+planned how he would retaliate, suddenly changed his attitude, saying,
+“What is the use anyway, it is just X., I don’t care anything about him,
+I will let him go his way.” C. when angry at times reenforces an assumed
+attitude of indifference by saying to himself, “Here, you must not be
+bothered about such things, be a good sport and play the game.” One at
+times assumes an attitude of accepting the situation as it is, and
+dropping the matter.
+
+------------------------------------------------------------------------
+
+                             CHAPTER THREE
+
+                         DISAPPEARANCE OF ANGER
+
+------------------------------------------------------------------------
+
+The anger consciousness is one of variability and change. The emotion
+may disappear rather suddenly with the appearance of a new emotion or it
+may disappear gradually. There are usually fluctuating nodes of
+increasing and diminishing intensity accompanying the changing direction
+of attention, ideational behavior, and motor and mental activity in
+general. Attention again to the situation exciting anger tends to
+increase its intensity, if the situation from which it arises remains
+unchanged.
+
+Any behavior, whether mental or motor, which changes the total mental
+situation from which anger originates, tends to modify the emotion
+itself. This total mental situation cannot remain unchanged long. The
+affective processes which have been aroused usually serve to redirect
+attention again and again to the situation exciting anger. The aim of
+angry behavior may be said to be three fold, referring to the total
+mental situation from which the three main types of anger arise; (1) to
+enhance self-feeling which has been lowered; (2) to get rid of the
+opposing obstacle to the continuity of associative processes; (3) to
+recover from one’s wounded sense of justice.
+
+The total feeling situation becomes modified in the course of the
+disappearance or diminution of the emotion. Anger which springs from a
+fore-period of irritable feelings disappears by a different set of ideas
+than from anger arising from a fore-period of negative self-feeling.
+
+Pleasantness is an important condition in the diminution of anger.
+There are but few instances that show no pleasantness in some degree
+somewhere in the reactive stage of the emotion. The pleasantness ranges
+from momentary mild relief to active delight. Periods of restraint
+during anger are periods of unpleasantness. Periods of lessened
+restraint are accompanied by relief or pleasantness. Two periods in
+the development of anger are most unpleasant. (1) The entire cumulative
+development of anger is unpleasant. It is a frequent observation in the
+immediate fore-period, “I wanted to get angry at somebody or something,
+I felt I would feel better if I did.” (2) Often during the active stage
+of anger, there are found one or more periods of unpleasant inhibition
+and restraint. This is often a stage of experiment in imagination,
+foreseeing unpleasant results of too drastic behavior, inhibiting,
+choosing and selecting in the effort to discover some reaction which
+may successfully meet the emotional crisis of the moment. There
+are cases of anger with all the persons studied, which do not get
+beyond this inhibitive unpleasant stage. Anger may be almost entirely
+unpleasant or mostly pleasant. Some persons have a greater mental
+versatility than others in finding a successful expression to anger,
+consequently they have relatively a greater proportion of pleasantness.
+Under the influence of fatigue, the ability for successful expression
+is lessened and there is a correspondingly increased tendency to
+emotive excitation and decreased emotional control.
+
+When a fully successful reaction is not found, anger dies hard. It may
+become necessary to attend to something else voluntarily for self
+protection. Anger disappearing unsuccessfully tends to recur again and
+again, it may be. Its reappearance frequently allows the unpleasant
+initial stage to be shortened or dropped entirely leaving a mildly
+pleasant experience.
+
+Anger disappears suddenly and pleasantly if the subject can gain the
+subjective end of the emotion. Subject J. observes in the case of an
+anger arising from a feeling of irritation, “At this moment (the moment
+of successful expression) I felt pleased, my anger now disappeared
+leaving a pleasant after-effect.” A case from A. will illustrate
+further. A. got on the wrong street car. The conductor refused to allow
+him to get off at his corner of the street. He observes he was angry,
+not because he was hindered from getting off, but because of the
+insulting attitude and remark of the conductor, who said in a hostile
+manner, “Why did you not pay attention to what I said, this car does not
+stop, you will have to go on.” A. then became angry and demanded in
+rather severe language to have the car stopped. At this point the
+conductor changed his attitude and stopped with no further words. A.
+observes, “As I stepped off I had a distinct feeling of pleasantness. I
+felt I had been victorious. I was no longer angry. Sensations were still
+present in chest, arm and leg muscles but these were now pleasant. Upon
+recalling the incident, I had not the least resentment against the
+conductor. On the whole, I now felt glad the incident had occurred.”
+
+Pleasantness may appear on the observation of the offender’s failure or
+humiliation. C. becoming angry at X., who was manipulating some
+laboratory apparatus, observes, “I let him proceed rather hoping he
+would spoil his results. When I noted he was failing and observed his
+discomposure, I felt pleased. That satisfied my anger against him at
+once.”
+
+The imaginal humiliation and trouble coming to the offender, also
+increases the feeling of pleasantness and diminishes for the moment the
+anger. The imaginative verbal or physical attacks usually allow a
+subject to come out victor. What D. observes is typical. “I imagined he
+was stunned by my attack, and the result pleased me; that satisfied my
+anger.”
+
+If the offender acts friendly and accommodating, that affords a relief
+to the offended person and is a condition for the rapid disappearance of
+anger. F. observes, “He behaved so friendly that I thanked him and felt
+relieved. My anger was now almost gone.” C. became angry at X. for what
+he had interpreted as a hostile attitude. Five minutes later X. sat down
+by him. C. observes, “He acted sociable and I felt relieved, my anger
+was entirely gone, in fact I now felt quite friendly toward him.” It is
+also commonly reported that when the offender becomes submissive, it
+affords a relief to the subject and usually kills the emotion. C.
+observes, “After he had submitted, my anger had disappeared and I now
+felt a little repentant at what I had done.” The same subject sometimes
+observes that he imagines the absent offender at whom he is angry,
+smiling and acting friendly in the usual way, and the imagined friendly
+attitude is a relief to the emotion.
+
+Anger which develops from a fore-period of negative self-feeling,
+disappears when the subject is able to acquire a positive feeling
+attitude toward the offender. It may be accomplished subjectively. The
+subject tends to lower his opinion of his opponent, he enjoys an idle
+gossip, it may be, at his expense, recalls ill reports he had previously
+heard but ignored, and in fact may employ a number of devices of
+imagination and make-believe. He at times tends to magnify the
+offender’s unworthiness, and may come to the conclusion that he is
+scarcely worth troubling about. Mental behavior of this sort is commonly
+reported to enhance self-feeling. On the other hand the subject may
+accomplish the same end by magnifying his own personal feelings directly
+by dwelling on his own good qualities and worth in comparison with that
+of the offender. Such comparisons are almost always to the disadvantage
+of the opponent. Subject C., in a controversy with X., became angry and
+walked away when the emotion was still intense. “I now began to recall
+how insignificant he is and how important I am. He is narrow, pedantic
+and incapable of seeing a large point of view. I am not so narrow. All
+was slightly pleasant and was accompanied by a decreased intensity of my
+emotion. I now met X. and joked with him; my anger was entirely gone.”
+The feeling of superiority kills anger of the type which arises from a
+fore-period of humiliation. It has already been indicated that when a
+positive feeling is maintained in receiving an injury, anger does not
+arise. The would-be offender if he is regarded as unworthy or
+unaccountable for his act, does not usually excite anger. The same
+person, however, may stimulate anger by a process of increased irritable
+feelings. Subject A. beginning to get angry at X., (a person he holds in
+low esteem) observes the following association. “Oh, it is just X., no
+use in my getting angry at a fellow like that, he is not responsible
+anyway, and I would be foolish to be bothered by him. I had started to
+ridicule him but now my emotion was gone.”
+
+A contemplated victory gives pleasure and diminishes anger even before
+the victory is attained. The emotion disappears on assuming a positive
+determined mental attitude, it may pass off in vehement resolution as to
+further behavior. In fact, one may begin and finish his fight through
+the medium of ideas and have no enthusiasm left for the actual
+encounter.
+
+With a third condition for the disappearance of anger, pleasantness is
+present but usually in the form of mild relief. Positive self-feeling is
+not so clearly marked in consciousness. The subject looks at the
+offender’s point of view, finds excuses for his behavior, elevates his
+opinion it may be of him. A new idea is added to the mental situation
+exciting anger which entirely alters the feeling content, and
+consequently anger disappears. Subject I. observes, “When I finally
+concluded that X. meant well, my anger was almost gone.” G. resentful at
+X. because he did not speak to him states, “I recalled suddenly that he
+is cross-eyed and probably did not see me. I said to myself, ‘He is a
+good fellow and is friendly toward me all right.’ My emotion was now
+gone.” B. mildly angry at X. and Y. for intruding upon him, observes the
+following soliloquy. “No, they have more right here than I have. This
+room is for people to converse in rather than for one man to occupy
+alone. My anger was now decreased but not entirely gone.” Even a
+tentative excuse for the offender’s behavior allays anger temporarily.
+The emotion may last for several days, appearing at intervals, and with
+a sudden introduction of a new idea providing an adequate excuse for the
+offence, the condition exciting the emotion will be completely changed.
+
+Anger diminishes and disappears more frequently in the change of
+attention than by any other one condition. A pause in the midst of anger
+to attend to one’s mental behavior affords a diminution of the affective
+process. It is often reported as amusing when a subject suddenly ceases
+attending to the situation exciting the emotion and observes his mental
+behavior; laughter at this point is often reported. Close attention to
+the act of managing the irritating or humiliating incident, allows a
+rather gradual diminution of anger. Anger does not arise when the
+subject is rigidly attending to the damage done, but only when he begins
+to feel the damage as humiliating, irritating or as contrary to justice.
+One subject hums or sings when angry. A joke or witticism will break the
+crust of conscious tension allowing the attention to be distracted
+elsewhere.
+
+The subject may suddenly assume an apathetic attitude toward the whole
+incident and kill the emotion at least temporarily. The mental situation
+from which anger arises, is one contrary to indifference, in fact, the
+lack of indifference is one of the essential characteristics of the
+fore-condition of anger, and consequently when this attitude is present,
+anger is cut off.
+
+A resolution or a settled judgment has a relieving effect. Whenever the
+subject comes to a definite conclusion whether it refers to the
+emotional situation or a contemplated mode of behavior toward the
+offender, there is reported a sudden drop in the intensity of the
+emotion, even though the attitude is but a tentative and temporary one.
+The reason for this is evidently that such a mental attitude is contrary
+to the immediate mental situation from which anger arises. Anger springs
+from the fact that there is lacking a definite mental attitude as to
+what should be done during the reactive stage of the emotion. One of the
+most efficient controls is to have a well planned reaction to meet the
+emotional crisis before it appears; when the injury occurs, if there is
+a preparedness as to what should be done, even though the response is
+but a subjective one purely attitudinal in its nature, anger fails to
+develop to its intense stage.
+
+                        SUCCESSFUL DISAPPEARANCE
+
+The success with which the emotion of anger disappears is a matter of
+wide individual difference with the persons studied. With some the
+reporting of the emotion from the introspection notes tended to
+reinstate the emotion. One subject was frequently disturbed by the
+reappearance of the emotion during the report. In one instance he
+refused to report to the writer for three days afterward. He reports he
+could not recall the situation without the reappearance of the anger in
+its unpleasant form. Other persons could rarely reinstate an emotion in
+any unpleasant form over night. At times the anger was reinstated in its
+pleasant aspect. Sometimes a feeling of exaltation was displayed. The
+subject showed he enjoyed recalling the emotion. Imagined and carefully
+devised schemes of retaliation were often rehearsed with pleasure. Again
+the observation would be a feeling of indifference, as something past
+and finished. Often the statement was given, “The whole thing seems
+ludicrous and amusing to me now.”
+
+It is rather pleasing to recall the situation exciting anger when the
+original emotion is short-circuited, as it were, allowing a pleasurable,
+gossipy vituperation against the offender without the initially
+unpleasant stage of anger. In fact the subject may re-experience a
+little of the unpleasant humiliation through imaginative stimulus, if
+the pleasantly reactive stage is successful enough to compensate. If the
+subject is aware he has a sympathetic hearer, it is far easier to pass
+over the initially unpleasant stage of the reinstated anger and enjoy a
+hostile, gossipy reaction. The writer in the course of the study became
+so intimately acquainted with the private emotional life of the subjects
+studied and had been a sympathetic listener of the emotional experiences
+so long, that after the period of observation had ended, he would find
+himself the recipient of emotional confidences which the subjects took
+pleasure in relating to him. Says one on reporting, “I really was not
+interested so much in the scientific side of this emotion as I was to
+tell you of my resentment, and as I look over it now, I am really aware
+that I assumed a scientific interest as a means of gaining full sympathy
+and giving me full freedom to speak everything in mind.” Another subject
+says, “I went to tell X. for I believed he would get angry too and I
+hoped that he would.” The same situation does not usually allow anger to
+continue to reappear in its unpleasant form, for repeated appearance
+tends to eliminate the active unpleasant stage.
+
+An emotion of anger which has been unsuccessfully expressed may continue
+to reappear in consciousness again and again. Crowded out, it will
+suddenly return at times by chance associations. It may become so
+insistent that it is an unpleasant distraction from business affairs and
+the subject must find some sort of reaction to satisfy it. F. observes,
+“I could not do my work. Just as I would get started, the idea would
+reappear suddenly and I would find myself angry, tending to think
+cutting remarks and planning what I should do. Each time I tried to
+escape from it, it would come back again. Finally I determined
+deliberately to get rid of it. I recalled all the good qualities of X.,
+what favors he had bestowed upon me and in fact felt quite friendly
+toward him. Before I had finished, the anger had disappeared and did not
+return. Later, as I recalled the situation incidentally, I felt
+indifferent toward it.” Such deliberate behavior is unusual. The
+reaction to an emotion is mostly involuntary. In many instances, when
+emotion is prolonged, it is much like a trial and error process, one
+reaction after another is tried out in imagination until a rather
+successful one is found. This reappearance of an emotion when it has
+been repressed gives opportunity for a new trial and mode of attack.
+
+There are two general conditions under which anger disappears most
+successfully. First, if the mental situation from which anger arises is
+changed directly by the addition of a new idea that gives an entirely
+new meaning content to the incident so that it will no longer be
+humiliating or irritating, as when the subject can thoroughly come to
+believe that the motives of the opponent’s offense were not hostile but
+friendly, anger disappears rather successfully with no unpleasant after
+effects; the anger is cut off directly at its source. To illustrate,
+C.’s anger at X. which had been a source of unpleasant disturbance for
+two days, completely disappeared when he was finally informed that what
+X. did was not meant as personal. The subject at times finds himself
+trying to assume a little of the attitude of make-believe. He really
+wants to believe the offender meant well. A second successful condition
+for the removal of anger is when the subject reacts so that he feels he
+has fully mastered his opponent. He has given full restitution for the
+offense and feels a pleasureable satisfaction in the results. Feeling is
+an essential factor, whatever the method employed. If a feeling of
+complete victorious satisfaction is accomplished in connection with the
+disappearance of anger it is usually successful. The circumstances are
+rare in which the direct verbal or physical attack would be fully
+satisfactory. A substitution in the form of hostile wit, teasing, irony,
+or it may be a favor bestowed with a hostile intent, may accomplish the
+same result as far as feelings are concerned and completely satisfy the
+anger. The imagined victory, or a make-believe one, may serve the same
+purpose.
+
+The most unsuccessful condition for the disappearance of anger is one
+commonly used in emergencies—that of changing the attention and avoiding
+the offensive idea. Intense anger usually returns when diminished in
+this manner. The attitude of indifference and over-politeness usually
+serves only as a temporary device of removal for the purpose of
+expeditious control. Mere repression is not always most successful.
+
+------------------------------------------------------------------------
+
+                              CHAPTER FOUR
+
+                        CONSCIOUS AFTER-EFFECTS
+
+------------------------------------------------------------------------
+
+Anger has an important influence upon mental life and behavior long
+after the emotion itself has disappeared. The functional effect of anger
+may be disclosed in a period after the emotion proper has disappeared.
+Other emotions may immediately follow anger, such as pity, regret,
+sorrow, joy, shame, remorse, love and fear. Feelings and tendencies are
+left over which the subject is fully aware are directly related to the
+previous emotion. For purposes of study, the period after the emotion
+will be divided into two parts; first, that immediately after the
+emotion has disappeared, and second, the more or less remote period of
+indefinite time. The reaction while the emotion is present, and the way
+in which the emotion disappears, are conditions which determine to a
+large extent what will consciously appear after the emotion has passed
+away. With the aim of finding out what mental factors follow in the wake
+of anger, the subjects were instructed to keep account of any sort of
+consciousness of which they were aware as referring either directly or
+indirectly to the previous emotion observed.
+
+Pity is frequently associated with anger. Mild anger may merge into pity
+at the point where attention changes from the situation exciting anger
+to the effects of angry behavior on the offender. Pity often follows the
+imaginal humiliation of the person committing the offense. It follows
+more readily when the emotion is against children, servants, dependents
+or persons with whom there is close intimacy. A kind of self-pity is
+sometimes associated with anger. With one subject, a mildly pleasant
+self-pity would frequently follow anger at an injury. At times there is
+found a curious mixture of anger and self-pity. H. observes, “At times I
+would be angry, then at other times I would find myself taking a
+peculiar pleasure in rehearsing my injuries and feeling rather pitiful
+for one who had been mistreated like myself.” An observation from C.
+will illustrate the suddenness of the transition from mild anger to
+pity. Angry at a clerk for a slight offense, he observes, “As I turned
+away I said to myself, ‘I wish that fellow would lose his place,’ but at
+once I felt a little pity for him and said, ‘No, that would be too bad,
+he has a hard time putting up with all these people.’” Subject A., angry
+at a child observes, “I found myself tending to punish him, I saw his
+face, it looked innocent and trusting, that restrained me, I now
+thought, ‘Poor little fellow, he does not know any better,’ and I felt a
+pity for him to think that such a person as myself had the correcting of
+him.”
+
+Shame may follow in the wake of anger. It arises rather suddenly in the
+disappearing stage of the emotion when attention is directed to the
+results of the angry behavior just finished. Both shame and pity,
+following anger, are usually a condition of immunity against the
+reappearance of the same emotion. After shame appears, a reaction
+usually follows in the effort to compensate in some fashion. Subject C.
+observes, “Becoming aware of my act and how it appeared, I now felt
+ashamed and humiliated at what I had said. In a few minutes I brought it
+about to offer him a favor and felt pleased when it was accepted. I had
+really been trying to convince him that I was not angry, and now felt
+that I was doing it.” Subject C. observes, “I noted that they saw I was
+angry and at once I felt ashamed. I now began to laugh the matter off as
+if trying to show I was not.” At times during mild anger when the
+emotion is displayed too impulsively and the bounds of caution have been
+overstepped, exposing one’s self to a too easy attack from an opponent,
+an uncomfortable feeling of chagrin appears. The anger may be displayed
+in too crude a fashion, consequently an advantage is given to the
+opponent which was not intended. Anxiety that the opponent may take the
+hostile thrust too seriously or fear of the consequence, may suddenly
+displace anger. Instead of an offending person, the same person now
+suddenly becomes one exciting anxiety or fear.
+
+A fourth affective condition of the immediate after-period of anger is
+an active pleasantness. Anger disappears and joy takes its place. The
+condition, originally exciting anger, is no longer able to reproduce
+the emotion as the subject has become the victor and the offense
+is recompensed. The goal of anger from its impulsive and feeling
+side is to be found in the pleasurable victorious affection in the
+after-period of the emotion. Any anger possesses possibilities of
+pleasantness in its after-stage. If an objective victory cannot be
+had, a subjective one plays the part of a surrogate. The processes
+of imagination, make-believe and disguise, as previously discussed,
+become devices directly referring to the aim of pleasurable feelings in
+the after-period of anger. The motivation is to avoid the unpleasant
+emotions and feelings in the wake of anger and acquire the feeling
+of victory. The tendency to humor and jocular behavior after anger
+is sometimes observed. The subject tends to recall his feelings of
+success and relive them, self-confidence and positive self-feelings are
+increased.
+
+The feeling of friendliness toward the offender may follow anger which
+has been successfully expressed. Spinoza was right when he said, “An act
+of offense may indirectly give origin to love.” It is frequently
+observed in the after-period of anger, “I felt more friendly toward him
+after my emotion had disappeared.” In fact an unusual friendliness with
+a desire to bestow favors was often observed. We like a man better after
+we have been angry at him in a successful manner. The emotional attitude
+is entirely changed toward an opponent who has been overcome, if he
+allows the victory. It is the unreasoning person who never becomes aware
+of his defeat, against whom hate follows anger.
+
+Feelings of unpleasant irritation usually follow anger when social or
+other conditions prevent adequate expression. These feelings seem to be
+the medium by which the situation exciting anger is repeatedly recalled.
+The emotion which appears from the imagined situation usually does not
+leave such intense unpleasant feelings, as the subject tends to attain
+in his deliberate moments, to some degree, an inner victory over his
+opponent, or to find an adequate excuse for his behavior. Either of
+these reactions may be successful enough to exclude irritable feelings
+in the after-period. Irritation after controlled anger is the medium for
+the so-called transfer of the emotion from an offending to an
+unoffending object, which is so often observed. In the after-period of
+irritation, it is a rather common observation of the subjects, “I was
+looking for something or somebody at whom I could get angry.” “I felt I
+wanted to hurt somebody.” In fact irritation in the after-period becomes
+an essentially affective element in a situation from which may arise a
+new anger of a different type. The first anger may have arisen from a
+fore-period of humiliation, while the latter is from that of irritation.
+
+There is evidence that the affective state in the after-period of anger
+has a compensating relation to the emotion that has just passed, not
+unlike the compensation role played between the anger proper and the
+feeling fore-stage from which it arises. The reactive stage of anger
+tends to over-compensate for the unpleasant feelings of irritation and
+humiliation in the fore-period of anger by either increasing the
+pleasantness or diminishing unpleasantness. If the reaction is
+incomplete and has not adequately met the emotional crisis of the
+moment, irritation may follow with a tendency to continue further the
+emotion, or if the reaction has gone too far, it is paid for by the
+appearance in the after-stage of other emotions of social origin, such
+as fear, shame, pity, etc. The feeling of relief occurs after the
+expression has nearly restored consciousness to about the same affective
+level as before the beginning of the emotion; but with active pleasure,
+a higher affective level has been attained and the subject feels he was
+glad to have been angry. There is a heightened effect in the affective
+state following anger; a sort of over-compensation, which is a little
+out of proportion to the behavior apart from the anger itself. If the
+after-period is one of pleasantness, the feeling is increased far more
+because of what the subject has done during the emotion, for it is
+evident if the same mental processes and behavior occur without anger,
+the pleasantness is less. Joy is a good example of the intensification
+of the emotion in the after-period of anger which is out of proportion
+to the idea stimulating it. The relation between the fore-period, the
+anger proper, and the after-period is so intimate in anger that the
+writer has had it repeatedly impressed upon him in making the present
+study, that to solve some of the important problems of our emotional
+life, this relation must be taken into account. The entire gamut of the
+emotional consciousness for each emotion must be studied from the
+initial feeling stage to the termination of the conscious content after
+the emotion has disappeared. The emotions do not appear as separate
+effective entities, but have an intimate relation which is important in
+the study of their psychology.
+
+Mild anger may leave the subject in a state of curiosity. A feeling of
+doubt as to the motivation of the offender may appear, and curiosity
+follows with an awareness of a tendency for anger to reappear if the
+occasion should arise. After the emotion has passed, the subject is
+aware of tendencies or attitudes, referring directly to the mental
+behavior, which were present during the emotion. An attitude of
+indifference toward the offender and offending situation follows what
+has been called the indifferent type of reaction. The emotion of anger
+may leave the subject in a state of confidence toward himself, positive
+self-feelings have been reached as a result of the entire experience. On
+the other hand, slightly reduced self-feelings may follow if the
+reaction to anger has been unsuccessful. It may leave the subject in
+either a heightened or a lowered opinion of the offender. A previously
+friendly interest in the person committing the offense may be increased
+or otherwise. A feeling of amusement at one’s behavior when recalling it
+after the emotion has disappeared, is often reported. The subject stands
+off, as it were, and views his own response to anger as if he were a
+spectator rather than a partaker of his emotion. What the subject did
+when angry seems so incongruous with his mental state after the emotion
+has disappeared, that it strikes him as ludicrous. Laughter and
+amusement frequently appear in the recall of the emotional situation.
+
+An attitude of caution often follows. After a period of stressed
+inhibition, in which the evil consequences of a too impulsive behavior
+have been pre-perceived, there is assumed an attitude of control and at
+the same time a readiness to respond to a suitable stimulus. Anger may
+leave in its place an attitude of greater determination to make one’s
+point, or if the emotion has been entirely satisfactory, the subject
+takes the attitude that the score has been settled. An attitude of
+belief or conviction as to a future course of action toward a like
+offense may follow in the period after anger, which is a direct result
+of the conclusion reached when the emotion was present. Mild anger may
+have changed the feeling tone but little, but leaves the subject primed
+and ready to respond more quickly to another offense. The result of
+anger may be purely a practical attitude as to what should be done in
+such cases with little marked feeling accompanying it. The subject is
+left not in a fighting attitude, but in one of preparedness to prevent
+the offense recurring. It is usually necessary in the after-period to
+reconstruct or modify the revengeful plans or conclusions which were
+formed when the emotion was intense. What seemed so justifiable during
+the emotion proper, after it has disappeared becomes strikingly
+inopportune. If the emotion has disappeared unsuccessfully and resentful
+feelings still linger, the subject wishes to execute the plans
+previously formed; but in the act of doing it, he usually finds
+difficulties of which he was not aware when the emotion was intense. An
+instance from A. will illustrate. He had been intensely angry at X. and
+had planned to tell him his opinion of his conduct. By the time he had
+opportunity to speak, the emotion had subsided. He observes, “I had at
+this point a severe struggle with myself. I wanted to tell him what I
+had planned; I felt I was inconsistent if I did not. On the other hand I
+was slightly apprehensive, not of X., but of making myself ludicrous. I
+recognized what I had not before, that I was not fully justified, and
+partially excused him for what he had done. But the tendency to do what
+I had planned still persisted, and I felt I would give anything if I
+could do it.” He reports further that although the emotion was now fear,
+at this point “the tendency to execute the plan, formed during the
+anger, persisted for about fifteen minutes of intense struggle with
+myself before it disappeared.” Tendencies in the after-period of the
+emotion, which refer to conclusions or resolutions reached during its
+active stage, at times, when they appear are passed over lightly and
+even with amusement.
+
+The effects of anger may extend far beyond the period immediately after
+the emotion has disappeared. The more remote after-period, after the
+immediate effects have passed off or been modified, have important
+results in our mental life. The momentum, acquired during anger by
+determined emotional outburst, may be a reenforcement to volitional
+action and may allow old habits to be more quickly broken down and new
+ones formed. If an error has been repeatedly made with increased
+irritation, till the subject has been thoroughly aroused to anger at
+himself, the tendency to repeat the error is usually successfully
+forestalled by an attitude of caution and determination following the
+emotion. The possible failure may be prevented by mild anger at the
+imagined humiliating result, which increases volitional action to a
+point insuring success, and a new momentum is acquired which may have
+far reaching influences. Slight habitual mistakes, like errors in
+typewriting or speaking, repeated forgetting of details, and social
+blunders, are reported as cured by anger.
+
+Mild prolonged anger which has not had a fully satisfactory expression
+may leave in its wake a fighting attitude which if transferred into work
+enables the subject to acquire new levels of activity. A record from C.
+will illustrate. He observes, “I would not allow myself to be dejected,
+but have planned to fight and dig into it like everything. These
+emotions are the greatest stimuli I have. I get angry, then I want to
+get down to work for all I am worth.” On the other hand, anger which has
+been successfully expressed may be followed by a feeling of satisfaction
+in the result and an attitude of success, which gives momentum for
+increased volitional action in the future.
+
+There is usually a residuum from intense anger which may appear long
+after the anger has consciously disappeared. The recall of the situation
+which had previously excited anger may have little or no feeling; merely
+indifference is present. Sometimes feelings of resentment and dislike
+are observed, while at other times, there is amusement. It frequently
+happens that while the situation which has previously excited the
+emotion may be accompanied by indifference upon its being recalled
+either voluntarily or involuntarily, there follows an emotion of dislike
+and hate. The incident itself may be almost forgotten, or not recalled
+at all, but the result of anger is to be observed in tendencies and
+emotional dispositions left in the wake of the emotion. An over-critical
+attitude, with something of a gossipy tendency and hostile suspicion in
+which the bounds of justice are partly ignored, may long continue to
+reappear after the emotion itself has passed away and the situation has
+been forgotten. It is rather probable that a single strong outburst of
+anger does not leave the hostile emotional disposition in its wake. It
+is usually the mild anger, preceded by much feeling of humiliation and
+anger which tends to recur again and again till it has settled to a
+hostile disposition toward the offender. It is reported in some
+instances to refer to the offender’s way of talking, laughing, manner of
+walking, his mode of dressing; in fact any chance idea of the offender’s
+behavior may be sufficient to allow a feeling of dislike and disgust to
+appear.
+
+It may be said that anger which disappears in an unsatisfactory manner
+leaves an emotional disposition which possesses potentialities of both
+pleasant and unpleasant feelings. Some persons seem to derive much
+satisfaction in picking the sores of their unhealed resentments; little
+acts of revenge and retaliation are suddenly hit upon; even hate may
+have its pleasures. Small acts of revenge and retaliation are observed
+with an affective state which cannot be called anger, but the subject is
+aware that it refers to the anger which is passed. One subject became
+severely angry at his grocer and went to trade with another merchant
+near by. He states that on several occasions just after the anger, when
+buying at another place he felt pleased at the other man’s having lost
+his trade. Once he observes, “I believe I bought several things I did
+not need, I felt I was retaliating and enjoyed it.” The emotional
+disposition following anger may be a source of rather intense enjoyment.
+Laughter and mirth are observed with the appearance of an idea that has
+humiliated the offender. In such cases the laughter is purely
+spontaneous with no recall of anger. Subject J. broke out laughing when
+told that X. was on unfavorable terms with Y. His laughter, he observes,
+referred to a resentment a few days before against X. In fact laughter
+frequently springs rather suddenly from the mental disposition which has
+followed from anger. Such cases afford another instance of the close
+intimacy of our emotions with each other. The residuum of potential
+feelings from an emotion of anger appears in the form of less active
+pleasantness.
+
+There is a relation between the immediate after-period of anger and the
+more remote one that is important. If anger is immediately followed by
+such emotions as pity, shame, regret or fear, any positive tendency left
+over in the remote after-period from the emotion itself is apparently
+lacking. There is, however, a negative effect. The subject is immune to
+re-experience the same emotion from the same emotional situation again,
+but anger which has disappeared with unpleasant feelings may tend to
+recur in a rather prolonged after-period and may finally settle into an
+emotional disposition and mental attitude which play an important role
+in behavior and later feelings. It seems to be true, that when anger
+disappears consciously in such a manner that the subject is aware that
+his wishes have not been satisfied and the disappearance is followed by
+unpleasant feelings, the immediate after-period is rather barren as
+compared with the out-cropping which appears in a more remote period
+after the emotion. In anger, when sudden control is required, the
+subject is forced to attend to something else or react contrary to the
+emotional tendency to save himself a later humiliation. The immediate
+after-period is usually one of unpleasantness and tension. Under such
+circumstances, the tendency to recur again and again is characteristic
+and if, in some later recurrence or expression through the imaginative
+process, it does not end satisfactorily, it may settle down to an
+emotional disposition and mental attitude.
+
+Anger that arises from a fore-period of irritation in which the subject
+suddenly bursts out with emotion may have an immediate after-period
+of irritation, but it leaves little in the remote after-period; the
+subject is aware that the emotion is finished. Anger which ends with
+active pleasantness of victory leaves an attitude of confidence and
+success toward the situation which has excited the emotion. There
+is little tendency for the emotion, disappearing in this fashion,
+to reappear except in its pleasant stage. With a consciousness of
+complete victory in the immediate after-period, there is established
+an attitude of positive self-feeling and confidence toward the
+situation exciting the emotion so that a practical immunity against the
+reappearance of anger in its unpleasant stage is reached as a negative
+result of the emotion. There are wide individual differences in the
+ability of the subjects studied to allow anger to disappear, leaving
+a pleasant after-period. C. reports but few instances in which his
+anger disappeared with a fully satisfactory result. He consequently
+has a wealth of emotional dispositions and mental attitudes following
+anger. On the other hand F. and E., whose anger emotions are less
+intense, are early able either to attain an inner victory or to react
+contrary to the emotion and leave an after-period of immunity against
+its reappearance from the same mental situation. Hence the tendencies
+and dispositions left over in the after-period of their anger are less.
+E.’s dislikes are short lived. It is probable that some subjects have
+acquired the habit of shortening their emotions of anger, short-cutting
+the unpleasant period of restraint and early acquiring the after-period
+of relief, humor or it may be indifference, before the emotion has
+developed far.
+
+_Classifications._ Anger might be classified according to a number of
+schemes that would serve the purpose of emphasizing its characteristics.
+From the standpoint of feeling, anger might be classed as pleasant or
+unpleasant. Some emotions of anger are observed to be almost entirely
+pleasant from their early beginning including their final ending. Other
+cases have fluctuating pleasant and unpleasant stages. There are few
+instances of anger that have no flash of pleasantness anywhere, in some
+degree before the emotion is finally completed. The unsatisfactorily
+expressed emotion is almost entirely unpleasant. Even anger of this kind
+usually shows some flash of pleasantness or relief at the moment of the
+angry outburst.
+
+Secondly, anger might be classified as exciting or calm. The exciting
+anger has greater tension during the period of the emotion proper. There
+is usually less co-ordination and greater intensity of feeling which may
+be either pleasant or unpleasant. The motor reactions are more prominent
+than the mental reactions. On the other hand, calm anger usually has a
+longer observable fore and after-period of the emotion. Mental processes
+are intensified, the motor expression is correspondingly less.
+
+Anger may be classified according to its function. The emotion may be
+merely an end in itself. It relieves the tension of unpleasant feelings.
+It is purgative in its effect in removing an unpleasant mental
+situation. The underlying purpose of such anger is not to increase
+volitional action, in fact, it may disturb co-ordination to any
+purposive end. This type serves primarily to remove the tension of
+unpleasant accumulations of feelings in some act of expression. If
+successful in its purpose, it may have an indirect hygienic effect on
+mental action. Further, anger may be of a kind which intensifies
+volitional action, accomplishes work, and serves the end of survival. A
+residuum in mental attitude and emotional disposition follows, which has
+possibilities either of morbidity or a source of energy which is
+sublimated into work.
+
+Anger may be classified genetically on the basis of sentiments which are
+violated in its origin. Anger which springs from a thwarting of desires
+is primary in its origin. This is the usual type of anger of young
+children and animals. Anger which has its source in the self-feelings,
+such as the sentiments of honor and self respect and in social feelings,
+of injustice, of fairness, are genetically later in their development.
+
+_Types._ Three rather definite types appear. First is anger which rises
+from a fore-period of irritable feelings. It develops by a cumulative
+process of irascible feelings, through a series of stimuli till the
+point of anger is suddenly reached. An idea is present at the point of
+anger which serves as a vehicle of expression. It may be an idea not
+directly associated with the situation exciting the emotion. In fact an
+apparently irrelevant idea may break the crust of unpleasant feeling
+tension and serve as an objective reference for the emotion. Anger of
+this type is scattered. It is not necessary that the emotion be referred
+to the actual thwarting idea, it frequently refers to inanimate objects
+and often arises from the irritation accompanying pain. The active
+period of this type of emotion is mostly voco-motor tension and reaction
+of larger muscles. The immediate after-period may be a feeling of
+relief, irascible irritation, or other emotions such as pity, shame,
+regret and fear. Its increased volitional action may establish a mental
+attitude of caution and determination against a future thwarting when it
+is finished. A new emotion may arise however from the same background of
+irritation. The after effects of an emotion of this type are shallow and
+easily forgotten. It does not leave hate or dislike in its wake, there
+is nothing left over for revengeful behavior.
+
+A second type of anger is predetermined by another sort of mental
+disposition. Self-feelings are its source. An idea excites negative
+self-feeling and anger follows as a reaction with the purpose of
+restoring positive feelings of self. It usually has a greater proportion
+of pleasantness than the type described above. Its end is to attain
+pleasantness in some form of positive self-feeling, and when that is
+successfully reached the emotion disappears. Any idea from a subjective
+or objective source which intensifies positive feelings of self, tends
+to diminish emotion of this type. The thwarting of a desire, due to the
+damage and inconvenience done, is insignificant as compared with the
+thrust that one’s pride and self-respect have received. In the type
+above, there is thwarting of desire; while in this type, there is
+humiliation. In fact in the latter type, serious inconvenience may be
+suffered in the effort to heal a wounded self respect. Anger of this
+type is not so indefinite in its objective reference. It has direct
+reference to an offender before the point of anger has been reached, and
+another person or object cannot be substituted with any degree of
+satisfaction. Anger of this type leaves an important residuum after the
+emotion has disappeared in the form of other affective processes, in
+tendencies, mental attitudes and dispositions, some of which have
+possibilities of morbidity, others mere pleasantness or sublimation into
+work.
+
+A third type of anger is that which springs from social sentiments
+involving justice and fairness. It has little unpleasant fore-period and
+arises suddenly without the initial cumulative feeling development which
+is usual with the other types described. The point of anger is more
+readily reached; the emotion is nearer the surface as if it were ready
+for a sudden rise. The origin of anger of this type is not unlike anger
+which springs rather suddenly from an emotional disposition left over
+from the second type described above. The expression of the emotion in
+this type is less restrained, it is usually reported as pleasant
+throughout. While anger of this type is sensitive to justice and
+fairness, the two types above may grossly disregard these sentiments. In
+its wake is often observed the tendency to reappear. The after-period
+has not the possibilities of so intense pleasure as the second type
+above, nor of morbidity, nor of a disposition capable of being
+sublimated into work.
+
+The three types above may occur in a rather pure form but frequently
+they are mixed. When desire has been thwarted or pride has been wounded,
+a sense of miscarried justice or fairness with reference to self,
+intensifies the emotion. In addition to lowered self-feeling, the social
+sentiment of justice and fairness may re-enforce the irascible feelings
+or negative feelings of self. At times make-believe of offended fairness
+is assumed to justify the angry behavior, and consequently increases the
+intensity and allows pleasurable expression when the subject is vaguely
+aware that the real cause is his own selfish pride which has been
+wounded.
+
+------------------------------------------------------------------------
+
+                              CHAPTER FIVE
+
+                          EDUCATIONAL FUNCTION
+
+------------------------------------------------------------------------
+
+From the present study, anger may be said to have a two fold functional
+meaning. First it intensifies volitional action in a useful direction.
+Second, viewed from the mental conditions under which it occurs, it may
+be a superfluous affectivity and is largely an end in itself. These two
+functions are not to be separated. In fact any single emotion of anger
+in its different stages of reaction may be merely hedonic, it may serve
+a directly useful purpose or it may be both. These two functional
+aspects of anger are the basis for pedagogical conclusions.
+
+_Sublimation._ Anger in a modified form has been the theme of the poet
+and artist. With its running mate fear, it has played an important role
+in religion. Primitive magic with its self assertive coercion of the
+supernatural, is not unlike anger. The curse prayer of backward religion
+is motivated by resentment. A deity with an irascible temper like that
+of the ancient Hebrews suggests the role of righteous indignation in the
+discipline of the soul. Plato[1] held that anger is at the foundation of
+the organization of the State. Ribot (16) has suggested that it is at
+the basis of justice. More recently Bergson writes, “No society can
+reach civilization unless throughout its members, there exists the
+nervous organization which supports the sentiment of anger and hostility
+against criminals; and this physical organization is the foundation of
+what we call our moral code.” President Hall (10), James (13), and Dewey
+(5) have suggested that much of the best work of the world and the great
+deeds of valor have been done by anger. Dr. Hall states, “A large part
+of education is to teach men to be angry aright,—it should be one aim of
+pedagogy to show how the powers of the soul should be utilized.—Man has
+powers of resentment which should be hitched onto and allowed to do good
+and profitable work. We should keep alive our emotions and allow them to
+do our labor.” (From lecture notes.) It has been suggested by Wundt
+(22), James (13) and Stanley (17) that the function of anger is to
+increase volitional action. The latter author writes, “At some point in
+the course of evolution, anger comes in as a stimulant to aggressive
+willed action. Some favored individual first attained the power of
+getting mad, in violently attacking his fellows and so attaining
+sustenance likely in the struggle for food.” The same author further
+writes, “We take it then that it was a most momentous day in the
+progress of mind when anger was first achieved and some individuals
+really got mad.”
+
+Education has to do with the function of anger in human needs, in growth
+and development and in mental hygiene. Ethics has at times advocated the
+elimination of anger as if it were a noxious product. From a pedagogical
+view, it should be cultivated and excited aright. The familiar moral
+exhortations, “Let not the sun go down on your wrath,” “Love your
+enemies and do good to those that hate you,” and others like them, are
+in accord with some satisfactory individual reactions to anger from the
+feeling side, which have been cited; but their universal application
+would not always serve the purpose of ethics. In pedagogical practice,
+they would fall short. A good healthy resentment is, at times, a good
+thing and should be kept alive. The emotion, if it works, must not die
+out too satisfactorily at the cost of real effort. There should be a
+working residuum for the time when it is needed. An injury may be
+forgiven too quickly and resentment given up too easily. A healthy
+fighting attitude, increased caution and willed action turned into
+productive work is often subverted for an immediate satisfactory ending
+of the emotion. There are none of the subjects studied but observe this
+wholesome effect of anger at times. Anger may disappear successfully and
+satisfactorily on the side of the feelings. The subject may attain the
+full sense of victory by a number of devices of make-believe,
+substitution, disguise, etc. An inner victory may be a good thing. In
+fact, all subjects would, at times, resort to imaginative processes
+motivated by the feeling and impulsive side of the emotion. A subjective
+satisfaction may in fact save the day, clear the mental atmosphere, so
+to speak, and allow mental life to continue along its habitual lines. On
+the other hand, a subjective victory may become too easy. On the verge
+of defeat, victory is at times imagined which takes the place of real
+volition. The fight may be carried too far through the medium of ideas
+leaving little enthusiasm for actual effort. A too easy habit of
+excusing the offender at times serves an unprofitable end. Anger should
+not be cut off too near its beginning by finding excuses too readily for
+the offender or offending situation. It should at least be allowed to
+get a little above the initial feeling stage to keep the emotional life
+alive or there is danger of lapsing into obliviousness to essential
+rights; mental life becomes too prosaic and commonplace, on a plateau
+with no capacity to acquire new levels.
+
+A second point of which the writer is convinced, is that in order to
+study the emotions, especially the deep seated primary emotions like
+fear and anger, it is necessary to take into account the finer working
+of the emotion in its feeling and impulsive stage of development and
+disappearance. In fact, the milder tenuous emotions of anger are
+markedly important from the educational side as well as psychologically.
+The normal function of the emotion is better exemplified in the less
+intense experiences. Anger, as it is usually thought of, is the emotion
+in its excited uncontrolled stage. Anger, sublimated into keener
+intellectual and willed action, is no less anger though its affective
+side is less intense; its reactive side is working in better accord with
+the evolutionary function of the emotion,—to intensify action in a
+needed direction. In fact, affective processes of indignation,
+resentment and irascible feelings which are not called anger in the
+popular sense, from the scientific side should be considered a part of
+the anger consciousness. They have the feeling fore-stage of humiliation
+and an intellectual reaction; the residuum of the affective process has
+every mark of that victorious satisfaction, which is typical of anger.
+
+Such tenuous emotions are reported to have far reaching results in
+mental behavior and personal development. One subject, resentful at an
+implication against the value of his work, considers that it stimulated
+him to increased determined action and intensified endeavor for several
+months in order to show the offender he was wrong. A., resentful of X.’s
+adverse suggestion, put in three days of severe intellectual labor to
+prove his point. E. observes that a humiliation and mild resentment was
+a keen stimulus to his ambition. His ambitious behavior, he considers
+was accompanied by increased friendliness toward the offender. The
+question was privately put to a number of persons as to the effects of
+resentment on some of their ambitions in the past. Every person who was
+asked, after a careful recall, was able to find one and some times
+several instances of important results of anger of this kind. Some
+persons from early childhood have habitually reacted to little
+resentments to beat the offender in an ambitious way. One person with
+defective eyes early became sensitive about it. Any implication against
+his defect was always reacted to, he says, by saying to himself, “I will
+show you I can do more with poor eyes than you can with good ones, and
+you will be sorry some day.” M. 28—“Resentful because the parents of a
+lady to whom I was paying attention did not approve of me, I determined
+to make so much of myself that they would be sorry. It was one of the
+main incentives to my entering on a career. With this aim I went to the
+University; I worked hard with success. Many times during the year I
+would recall the incident and would resolve again and again to show them
+some day. For two years this idea was pretty constantly in my mind. In
+the course of four years I now take keen satisfaction in recalling that
+I have partly accomplished my purpose.” M. 25.—“Four years ago a friend
+whom I admire much, told me that I would never make a scientist. I have
+resented it ever since and have laid plans to show him, which I have
+partly carried out. Every once in a while I recall his statement in
+connection with my work. It spurs me on. I imagine myself sending him a
+copy of my scientific problem on which I am working.” M. 34.—“In my
+sophomore year in college, I failed to be elected president of our
+literary society. I became resentful against the one who beat me in the
+election. This person was ambitious in college contests. I now laid
+plans to beat him. I went into an oratorical contest first with the sole
+aim of surpassing him. I did not care about the others. I am certain
+that I would never have gone into this contest and others if it had not
+been for a deep set resentment developed against him. I recall yet how
+in practicing and writing in contests during the two years of my college
+work my aim principally was to surpass this person. We were good friends
+all the time.”
+
+Such tenuous resentments which persist for years, it may be, against
+people with whom one is on friendly terms, and which are accompanied by
+a rather sudden rise in the curve of personal growth, are evidently an
+essential part of the anger consciousness. Smaller achievements of
+individual worth are often reported to be the direct result of a healthy
+sort of reaction from resentment. It is entirely probable that most
+persons, especially those of irascible disposition, could point to
+sudden spurts in their own personal development and achievement, which
+were motivated by anger which never reached the stage of intense
+excitability or from the residuum of exciting anger which disappeared
+unsuccessfully. Freud (9) has taken the view that much of biography
+should be rewritten to include the part that sexual motives, which have
+been sublimated, play in personal ambitions. Evidently anger cannot be
+neglected by one who seeks for motives of personal growth whether
+biographer or educator.
+
+A too soft pedagogy which would heal over too soon the injury to
+self-feelings, has its disadvantages. Encouragement at times by
+superficial means may cut off a good healthy angry reaction which may
+be needed. In fact a little lowered self-feeling with an irascible
+response is a good thing and it may be a signal for “hands off,” or a
+little skillful and judicious suggestion. It is frequently observed by
+the subjects studied that anger at self intensifies a lagging willed
+action and breaks up interfering habits. A quotation from B. will
+illustrate. “I turned the anger inward and vituperated against myself
+for being such a lazy man. The emotion of the moment was relieved and
+I feel now like getting down to work at the stuff and getting it out
+of the way.” Some subjects work at their very best when mildly angry.
+Attention and association processes are intensified to the point that
+real difficulties disappear. Anger in the exciting stage and at a
+situation too remote from the problem at hand, interferes with mental
+work. Bryan and Harter (3) in their study of skill in telegraphy,
+found that the skillful operator may work best when angry, but the
+inexperienced worker is less efficient. Michael Angelo is said to
+have worked at his best in a state of irascible temper. The mass of
+mankind are sluggish and need a hearty resentment as a stimulant. If
+the circumstances are too soft and easy, the best which is in a man may
+be dormant; there is no tonic to a strong nature capable of bearing it
+like anger.
+
+Many a good intellect has lacked the good powers of resentment necessary
+for the most efficient work. The boy who has not the capacity for anger
+should be deliberately taught it by some means. Göthe, who was a rather
+keen observer of human nature, said, “With most of us the requisite
+intensity of passion is not forth-coming without an element of
+resentment, and common sense and careful observation will I believe
+confirm the opinion that few people who amount to anything are without a
+good capacity for hostile feelings upon which they draw freely when they
+need it.”
+
+_Need of Expression._ The second condition for the expression of anger
+is that in which reaction is an end in itself. It may be said that while
+on the one hand from a genetic and utilitarian point of view the
+function of anger is to do work, to aid in behavior, where increased
+willed action is needed; on the other, the mere expressional side in
+connection with feeling and impulse assumes an important role in every
+emotion. In fact with intense and exciting anger, utility may be ignored
+and actually thwarted, volitional action is exerted contrary to
+objective needs.
+
+There is much in the expression of anger in both the subjective and
+objective reaction to the emotion whose impulsive aim is merely to
+release unpleasant feeling tension, to clear the mental atmosphere, so
+to speak. A brief resumé of the reactive consciousness to anger will
+illustrate. First on the feeling side there occurs a mental situation
+accompanied by a tendency to expression in order to remove or modify the
+situation. Irritation may be relieved or turned into pleasantness by the
+reaction. Lowered self-feeling may be restored with extra compensation
+in pleasurable feelings of victory, if the reaction has been successful.
+Second, the expression of anger involves restraint, the cruder unsocial
+tendencies are controlled and others are substituted of a less
+objectionable and offensive nature. By both objective and subjective
+reactions, devices of disguise, transfer and modification of the
+unsocial pugnacious tendencies may allow the restraint to be released
+and the emotive tendency fully satisfied, in which a feeling of
+pleasantness follows. Third, the reaction which has been fully
+satisfactory from the feeling side, is followed by a partial or complete
+immunity against the recurrence of the anger from the same mental
+situation, as the successful reaction has removed the mental situation
+from which the emotion arose.
+
+Anger from the point of view stated above, touches upon the second
+educational aim. So large a part of the reactive consciousness to anger
+is motivated to find a successful surrogate for cruder and unsocial
+tendencies which are objectional, that this side of anger expression is
+educationally important. It is a desirable personal equipment to have
+strong potentialities of anger. However there should be a mentality
+which is versatile and active enough by training and habit to react
+successfully to the emotion, in the first place to use such reservoirs
+of energy for work, and second, to react satisfactorily from the
+feeling-side, where the instinctive tendencies are restrained, and break
+up morbid and unpleasant mental tension which may be an inference.
+
+A good angry outburst at times may be a good thing, but most frequently
+some sort of surrogate is more satisfactory. Habits of witticism,
+refined joking, a little good-natured play and teasing within the limits
+of propriety serves a worthy end for mental hygiene, and often leaves a
+basis for good will and a friendship which would otherwise be in danger.
+The habit of suddenly breaking up an angry tension by a good thrust of
+wit or joke would be a good one to inculcate with the irascibly
+inclined. Many persons suffer in feelings and lack of good friendship
+because they have never learned to be good mental sparrers and to
+relieve their emotions by socially appropriate reaction rather than by a
+method of repression which is cheaper at the moment but more expensive
+in the end. Their anger is too absorbing and serious. It lacks the
+necessary flexibility, their emotions are too near the instinctive level
+and when the instinctive tendencies are restrained they lack mental
+habits of purging their feelings in a satisfactory way, consequently
+suppression is resorted to as a self-defense.
+
+_Anger and Instruction._ As Terman (20) has pointed out, the emotions
+employed in the act of instruction need a systematic investigation. The
+emotions brought into play in school control, as incentive to work,
+emotional reactions which retard, and those which accelerate learning
+and efficient work in classes, these are little known scientifically.
+
+Anger, or, perhaps, better potentialities of anger in both teacher and
+pupils, is impulsively used in the role of teaching. Skill in using this
+emotion aright is part of the teacher’s stock in trade. Pugnacity in the
+form of rivalry is a common device.
+
+_Individual Differences._ First, there is the problem of individual
+differences in the emotional life of students; and the teacher, too,
+for that matter. With some, the dominant emotion is fear and anxiety.
+The material of the present study shows a wide variation in the
+type and character of emotional reactions of the subjects studied
+in which anger is one of the most frequently occurring emotions.
+This difference is illustrated by the following summary from three
+subjects: With J., anger predominates over fear; he knows but little
+of the latter emotion. Anger usually occurs from a fore-period of
+lowered self-feeling, the feeling intensity of the fore-period is not
+strong. The reactive stage of the anger does not reach a high degree
+of excitement. With him, anger usually disappears into indifference
+and unpleasantness, leaving tendencies of passive dislike. He observed
+no cases of anger at injustice or unfairness except when the latter
+sentiments referred to himself. His anger for the most part is an
+unsuccessful experience and is unpleasant. He consequently tries to
+avoid getting angry and has relatively few emotions. The after-period
+of his anger tends to be a little morbid, lacking any strongly marked
+disposition which is the source of tendencies to do more work. Subject
+G. has anger as a dominant emotion over fear. He scarcely knows anger
+which arises from a fore-period of humiliation except anger at himself
+when he has been inefficient. He does not hold resentments against
+persons but against situations and principles. Anger is usually
+unpleasant except a mild after-period of relief. With him, anger is a
+means of throwing off superfluous feelings of irritation and serves
+but little the purpose of work, except to increase volitional action
+for the moment. His anger often refers to himself. Anger at unfairness
+tends to refer to the principle rather than to the person. The emotion
+occurs more frequently when he is unwell. It is rather slow to appear,
+by a gradual accumulation, till the point of anger is reached; the
+emotion does not attain a high degree of excitement. With subject C.
+the character and type of anger reaction is in marked contrast to the
+two subjects mentioned above. He knows but little of fear except in
+extreme situations. His anger nearly all springs from a fore-period
+of humiliation and is often intense in its most active stage. For a
+time during the most intense stage of the emotion, he almost loses
+the sense of justice; but as the emotion begins to die down, he has
+a habit of excusing the offender and looking at his side of the
+question. His anger is frequently followed by pity, remorse, shame and
+fear. The emotion is both pleasant and unpleasant. The disappearance
+is usually unpleasant and leaves a wealth of affective tendencies
+and mental attitudes which are later a source of both pleasant and
+unpleasant feelings. Anger is one of the greatest stimuli he has to
+do work. He will work for days preparing some subject in which he has
+had opposition that excited his resentment in order to even up with
+the offender, and takes extreme delight in making his point. His
+tendency to anger is greater when feeling well pleased with himself.
+The residuum of his emotion involves attitudes of determination and
+idealization which plays an important role in his ambition in general.
+
+The description above will suffice to show the problem in individual
+differences in emotional life. With some subjects fear is the ruling
+passion. Subjects A. and B. have almost an even proportion of fear and
+anger during the period of observation. However these instances
+represent adult persons. How far the habitual emotional reactions are
+determined by training and instruction, is an important question. It is
+highly probable that the character of training in childhood and early
+adolescence plays a leading part. Subject C. above was an only child and
+took considerable license, almost getting beyond the control of his
+parents at an early age. J. reports that at early adolescence, anger was
+much more frequent and intense than at present. He believes that an
+early philosophical notion that intelligence should dominate the
+emotions, had an influence in establishing his present emotional habits.
+G. was early taught that it was sinful to get angry, an idea which he
+accepted at the time. His anger rarely refers to persons but vents on
+objects, principles and situations involved. He has relatively few
+emotions of anger. He believes that his early religious training was of
+importance in moulding the habitual reactions which he now assumes when
+angry. Such material as we have makes it entirely probable that a large
+part of the habitual mental reactions assumed in anger is the result of
+training. It may be said further that when instruction involves affairs
+of emotional life, individual difference become a still more pressing
+problem than when intelligence is the criterion.
+
+Other inferences of the role of anger in the act of instruction are
+suggested from the present study. If the teacher himself does not
+possess the ability of well defined resentment against an infringement
+of fairness, advantage of this defect may be taken by the alert pupil
+unless there is compensation for it in another direction as by the
+principle of co-operation, by love or pride appealed to. Cooley however
+puts the matter a little too strongly when he says, “No teacher can
+maintain discipline unless his scholars feel that in some manner he will
+resent a breach of it.” (Human Nature and the Social Order (4), Page
+244.) The method of school control itself refers to some extent to the
+individual emotional life of the teacher, as well as pupil.
+
+When anger enters into the role of discipline, of the three types
+already discussed, that which springs from the sentiment of justice is
+most efficient in instruction. Anger which arises from irritable
+feelings, from its nature becomes a dangerous emotion to be used in
+discipline. Emotion of this type develops by a cumulative process till
+the point of anger has been reached. It too readily ignores justice and
+is easily transferred from the real offender and may finally break out
+against an innocent party who may have unwittingly touched off the
+feelings which have been accumulated by previous stimuli, consequently
+anger of this type which is so frequently displayed in school rooms
+usually defeats the ends of discipline. Anger with a fore-period of
+lowered self-feeling because of the personal element entering into this
+type of anger and the tendency to ignore justice can evidently be
+resorted to but sparingly in school control unless it also involves the
+sense of justice.
+
+Another point the teacher has to take into account is that from his
+position, if he is held in respect, the anger he excites in the student
+will usually be preceded by humiliation and, if he has been unfair, it
+will be intensified by the sense of offended fairness. Anger of this
+type is the one most frequently followed by an emotional disposition
+against the offender. It is the residuum of unsuccessfully expressed
+anger of this type which becomes a disturbing element in school control
+with the student who is irascibly inclined. The wise teacher who
+understands the individual emotional life of the pupil and the nature of
+the after-period of anger, will skillfully remove the morbid residuum
+and ally the resentful pupil on his side. Dislike following anger, is
+skillfully removed, will frequently increase the friendship of the
+offender more than before the offense. This principle of compensation in
+the after-period is thus to be utilized in discipline. It may be a good
+plan deliberately to bring a moody pupil to the point of anger and let
+him vent his wrath. Any punishment in discipline has the possibilities
+of being dangerous to school control, especially with the student of
+pugnacious disposition, if the justice of the punishment cannot be
+recognized by the offending pupil. Evidently a mistake in control is not
+to recognize the individual differences in emotional life and to attempt
+to use the discipline of fear with an irascible boy who knows no fear.
+Anger, disappearing unsuccessfully, may leave a morbid residuum which
+completely disqualifies the student for efficient learning, consequently
+when it exists, it is the business of the educator to remove the
+morbidity, transform it into work or to have the pupil transferred; for
+it may be as serious a hindrance to learning as adenoids or defective
+sense organs.
+
+There is every reason to believe that a large part of the mental
+reactions to anger is individually acquired habits, consequently
+successful and satisfactory reactions are a matter of training.
+Potentialities of anger may actually be taught indirectly by building up
+the sentiments and mental disposition from which anger arises. Whatever
+will increase ideals and new desires, achievements in school which allow
+a better opinion of self and build up the sentiment of self-regard, of
+fairness and justice, are at work at the very root of anger
+consciousness. The study of the mental situation from which anger arises
+allows every reason to believe that when there is a lack of
+potentialities to anger, it may be built up in this indirect manner. The
+student who lacks good healthy resentment when the proper stimulus is at
+hand evidently is weak in the sentiment of self-regard, desire to
+achieve, or sense of fairness.
+
+Whatever exercises will excite the pugnacious instinct, if done
+satisfactorily may involve a training in emotional habits. Habits of
+good fighting in work and play, the give and take in debate, class
+discussion, the witty retort, boxing, the team games if carried on
+aright, afford good exercise for the emotions. To acquire good habits of
+behavior when under fire, to fight clean and to the finishing point, to
+take defeat in a sportsman-like manner, are valuable acquisitions
+educationally whether they are acquired in athletics or the rivalry of
+intellectual work. On the other hand, athletics and mental contests may
+be carried on under conditions of emotional reaction, which defeat the
+aim of healthy emotional habits and consequently lack their better
+educational significance.
+
+-----
+
+Footnote 1.
+
+  The Republic
+
+------------------------------------------------------------------------
+
+                              BIBLIOGRAPHY
+
+------------------------------------------------------------------------
+
+   1. ACH, N. _Ueber die Willenstatigkeit und das Denken._ Eine
+      Experimentelle Undersuchung mit einem Anhang: Ueber das Hippsche
+      Chronoskop. Gottingen. Vandenhoech and Ruprecht. 1905.
+
+   2. BAIN, ALEXANDER. _The emotion and the Will._ Third Edition.
+      London. Longman. 1875.
+
+   3. BRYAN, W. D. AND HARTER N. _Studies in the Physiology and
+      Psychology of the Telegraphic Language._ Psychological
+      Review, Vol. 4: 27-58.
+
+   4. COOLEY, C. H. _Human Nature and the Social Order._ C. Scribner’s
+      Sons. 1902.
+
+   5. DEWEY, JOHN. _Psychology._ New York. American Book Company. 1890.
+
+   6. DEWEY, JOHN. _The Theory of Emotions._ Psychological Review.
+      II. pp. 13-32.
+
+   7. FÉRÉ, C. _L’antithèse dans l’expression des émotions._ Rev.
+      Philos. 1896. XLII, 498-501.
+
+   8. FREUD, S. _Der Witz und seine Beziehung zum Unbewussten._ Leipzig
+      und Wien F. Deuticke. 1905. pp. 205.
+
+   9. FREUD, S. _Drei Abhandlungen zur Sexualtheorie._ Wien. Deuticke.
+      1910.
+
+  10. HALL, G. STANLEY. _Adolescence._ D. Appleton and Co. 1909.
+
+  11. HALL, G. STANLEY. _A Study of Anger._ American Journal of
+      Psychology. Vol. 10. pp. 516-591.
+
+  12. IRONS, DAVID. _Psychology of Ethics._ Edinburgh. Blackwood
+      and Sons, 1903.
+
+  13. JAMES, W. _Principles of Psychology._ Henry Holt and Co. 1896.
+
+  14. KÜLPE, O. _Grundis der Psychologic._ Leipzig Engelmann. 1893.
+      p. 478.
+
+  15. MCDOUGALL, W. _An Introduction to Social Psychology._ Seventh
+      Edition. London. B. Luce. 1913.
+
+  16. RIBOT, TH. A. _The Psychology of the Emotions._ London. Walter
+      Scott Ltd., Paternoster Square. 1897.
+
+  17. STANLEY, H. M. _Studies in the Evolutionary Psychology of
+      Feelings._ Macmillan. 1899.
+
+  18. STEINMETZ, S. R. _Ethnologische Studien zur ersten Entwicklung der
+      Strafe nebst einer Psychologischen Abhandlung Uber Grausamkeit und
+      Rachsucht._ Vol. 2. Leyden. 1905.
+
+  19. TITCHENER, E. B. _Outlines of Psychology._ Macmillan. 1906.
+
+  20. TERMAN, L. _The Teacher’s Health, A Study in the Hygiene of an
+      Occupation._ Houghton Mifflin Company. 1913.
+
+  21. WUNDT, W. _Outlines of Psychology._ Translated by C. H. Judd.
+      Third Edition. Stechert. 1907.
+
+  22. WUNDT, W. _Human and Animal Psychology._ Translated by J. F.
+      Creighton and E. B. Titchener. Macmillan. 1896.
+
+------------------------------------------------------------------------
+
+                                 INDEX
+
+------------------------------------------------------------------------
+
+ Ach: On study of will, 6.
+
+ Anger: On voluntary control of, 7;
+   introspection of, 7, 12-13;
+   function of, 8, 68;
+   mental situation giving rise to, ch. I;
+   fore-period of, ch. I;
+   referring to persons, 15, 16, 26;
+   referring to objects; 14, 16, 77, 93;
+   referring to self, 22-23;
+   delayed disappearance of, 23-25;
+   without immediate fore-period, 25-27;
+   behavior of consciousness during, ch. II, 53;
+   vocal expression of, 36-38;
+   attributive reaction to, 33-46;
+   contrary reaction to, 46-50;
+   indifferent reaction to, 50;
+   disappearance of, ch. III, 60-62;
+   conscious after-effects of, ch. IV, 74;
+   classification of, 75, 77;
+   types of, 77-79;
+   education of, ch. V;
+   at servants and children, 15;
+   in relation to justice, 16, 22, 83;
+   after period of, 74, ch. IV;
+   control of, 53, 58, 59;
+   in school control, 91-94.
+
+ Aristotle: On education of emotions, 1.
+
+ Attention: Change of in disappearance of anger, 58.
+
+ Attitude: Reaction to anger, 44-46, 58, 70.
+
+ Attributive Reaction: In expression of anger, 32.
+
+ Bain: On introspective view of anger, 12.
+
+ Behavior: Importance in study of emotions, 3, 7.
+
+ Bergson: Concerning anger and society, 83.
+
+ Bryan and Harter: Effects of anger during practice, 88.
+
+ Dewey, John: On relation of instinct and emotions, 12;
+   concerning the function of anger, 83.
+
+ Emotion: Function of, 5, 85-88;
+   introspection of, 1;
+   importance of structure of, 1;
+   method of study of, 6;
+   factors in development of, 11;
+   initial steps of, 15.
+
+ Feelings: Irritable feelings in development of anger, 13, 14-15.
+   _See pleasantness and unpleasantness._
+
+ Féré: Concerning anger with paranoices, 12.
+
+ Freud: On sex as a motive in conduct, 88;
+   on theory of wit, 39-40.
+
+ Function: Referring to anger, 8, 68, 72, ch. V
+
+ Göthe: On function of resentment, 89.
+
+ Gossip: And anger, 39, 42, 56, 59, 72.
+
+ Hall: Concerning education of anger, 83;
+   on education of emotions, 84.
+
+ Habits: And expression of anger, 95.
+
+ Hate: Development from anger, 72.
+
+ Individual Differences: In emotional behavior, 59, 75, 91-94.
+
+ Instruction: And anger, 91-93.
+
+ Introspection: Difficulty of with emotions, 1.
+
+ Imagination: A factor in control and expression of anger, 37, 62, 85;
+   invective, 36-38.
+
+ Imagery: Visual and motor in expression of anger, 33-35.
+
+ Irony: A means of reaction to anger, 36-42.
+
+ Irons, David: Appearance of anger, 12;
+   behavior of consciousness during anger, 31.
+
+ James, William: On function of anger, 33, 84.
+
+ Joy: Following anger, 69, 73-74.
+
+ Justice: Facilitates development of anger, 16;
+   ignoring of when angry, 22, 83.
+
+ Külpe: Concerning voluntary action and emotions, 12.
+
+ Make-believe: In expression of anger, 39, 62.
+
+ Magnan: Concerning anger in paranoices, 12.
+
+ McDougall: On genetic view of origin of anger, 11.
+
+ Pity: Following anger, 65, 66.
+
+ Pedagogy: Danger of too soft, 88.
+
+ Play: A means of expression of anger, 35-36.
+
+ Pleasantness: A condition of disappearance of anger, 60, 53, 55, 57,
+    59;
+   in after-period of anger, 67, 73.
+
+ Ribot: On anger and justice, 83.
+
+ Sarcasm: In expression of anger, 38, 41.
+
+ Self: Imaginary exaltation of, 43-44.
+
+ Sentiment of Self Regard: Fore-period of anger, 20-21.
+
+ Steinmetz: On danger with primitive people, 12.
+
+ Shame: Following anger, 17, 66.
+
+ Sublimation: In expression of anger, 83-92.
+
+ Swearing: In expression of emotions, 37.
+
+ Titchener: On factors in development of emotions, 11.
+
+ Unpleasantness: During anger, 54, 60, 74.
+
+ Witticism: In expression of anger, 39-42, 58.
+
+ Wundt: Concerning voluntary action, 5, 84.
+
+TRANSCRIBER’S NOTE
+
+   Obvious typographical errors have been silently corrected.
+   The table of contents has been changed to include Chapters
+   Four and Five to match the book’s contents. Variations in
+   hyphenation and accents have been standardised but all other
+   spelling and punctuation remains unchanged.
+
+***

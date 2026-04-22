@@ -13,7 +13,7 @@ ERA_TEXT_DIR = DATASET_DIR / "era_sample_clean"
 DECADE_TEXT_DIR = DATASET_DIR / "decade_sample_clean"
 
 # Random seed
-RANDOM_STATE = 612
+RANDOM_STATE = 42
 
 # TF-IDF parameters
 TFIDF_CONFIG = {

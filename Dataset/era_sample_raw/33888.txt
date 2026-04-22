@@ -1,0 +1,3640 @@
+﻿The Project Gutenberg eBook of Aesop Dress'd; Or, A Collection of Fables Writ in Familiar Verse
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Aesop Dress'd; Or, A Collection of Fables Writ in Familiar Verse
+
+Author: Bernard Mandeville
+
+Commentator: John S. Shea
+
+
+        
+Release date: October 29, 2010 [eBook #33888]
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/33888
+
+Credits: Produced by Chris Curnow, Joseph Cooper and the Online
+        Distributed Proofreading Team at http://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK AESOP DRESS'D; OR, A COLLECTION OF FABLES WRIT IN FAMILIAR VERSE ***
+
+
+
+
+Produced by Chris Curnow, Joseph Cooper and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+
+  BERNARD MANDEVILLE
+
+  AESOP DRESS'D
+  OR A
+  COLLECTION
+  OF
+  FABLES
+
+  _WRIT IN FAMILIAR VERSE_
+  (1704)
+
+  _INTRODUCTION_
+  BY
+  JOHN S. SHEA
+
+  PUBLICATION NUMBER 120
+  WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+  UNIVERSITY OF CALIFORNIA, LOS ANGELES
+  1966
+
+
+GENERAL EDITORS
+
+  Earl Miner, _University of California, Los Angeles_
+  Maximillian E. Novak, _University of California, Los Angeles_
+  Lawrence Clark Powell, _Wm. Andrews Clark Memorial Library_
+
+
+ADVISORY EDITORS
+
+  Richard C. Boys, _University of Michigan_
+  John Butt, _University of Edinburgh_
+  James L. Clifford, _Columbia University_
+  Ralph Cohen, _University of California, Los Angeles_
+  Vinton A. Dearing, _University of California, Los Angeles_
+  Arthur Friedman, _University of Chicago_
+  Louis A. Landa, _Princeton University_
+  Samuel H. Monk, _University of Minnesota_
+  Everett T. Moore, _University of California, Los Angeles_
+  James Sutherland, _University College, London_
+  H. T. Swedenberg, Jr., _University of California, Los Angeles_
+
+
+CORRESPONDING SECRETARY
+
+  Edna C. Davis, _Wm. Andrews Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+
+Bernard Mandeville's first extant book in English, _Some Fables after
+the Easie and Familiar Method of Monsieur de la Fontaine_, was published
+in 1703; it reappeared with additional fables in 1704 as _Aesop
+Dress'd_.[1] Neither title reveals that, except for two original fables
+by Mandeville, the book consists entirely of verse translations from the
+twelve books of La Fontaine's _Fables_ (1668-1694). It is the first
+book-length translation from these poems into English.
+
+The only previous translations from _Fables_ into English verse appear
+to have been those made ten years earlier by John Dennis. _Miscellanies
+in Verse and Prose_ (1693) was a curious volume of Pindaric odes,
+imitations of Horace, Juvenal, and Boileau, and letters that the young
+Dennis had written during his travels in France and Italy, including the
+well-known account of the "delightful horrour" and "terrible Joy" that
+he had experienced while crossing the Alps; there were, finally, ten
+fables in octosyllabic couplets--all of them translations from La
+Fontaine. A word about Dennis's fables may help to put Mandeville's into
+perspective.
+
+Their resemblance to the French originals is slight. Not La Fontaine,
+but Samuel Butler, presides over Dennis's fables; indeed, when Dennis
+discusses them in the Preface to _Miscellanies_, he fails to mention La
+Fontaine, although he devotes a large proportion of his remarks to a
+defense of Butler's burlesque verse, which he acknowledges as his
+model.[2] Many people were writing Hudibrastics in the 1680's and
+1690's: the propensity of Butler's couplet for arousing laughter had
+made it a fad.[3] With its jog-trot meter, insinuating swiftness, and
+jarring double and triple rhymes, the Hudibrastic couplet was ideally
+suited to the mockery performed by low burlesque. All burlesque works by
+an incongruity between subject and style; the particular function of low
+burlesque is to debase an elevated subject by treating it in an
+undignified manner.[4] So it was that Butler, with the assistance of a
+crazy style, had exploited the gap between the high pretensions and the
+ridiculous performances of a Puritan knight and his squire.
+
+But of the hordes of scribblers that followed in the wake of _Hudibras_,
+scarcely any possessed Butler's sense of satiric propriety. Where his
+success had been founded on the discrepancy between subject and style
+that is essential to burlesque, they employed his style with no regard
+for its suitability to their subjects. Ordinary narrative poems with no
+satiric intent were decked in Hudibrastic couplets for the sake of a
+superficial cleverness.[5] Dennis followed the fashion. His ten
+verse-fables are filled with outrageous Butlerisms:
+
+      Isgrim had all the Winter far'd
+      So very ill, his looks Men scar'd.
+      He had (poor Dog!) got an evil habit,
+      Of going to Bed with the Devil a bit,
+      So that he had contracted a meen,
+      Which truly represented Famine.
+
+       *       *       *       *       *
+
+  At sight of Steed that's one huge bit of Fat,
+  Hight Isgrim's heart for joy went pit a pat.
+
+       *       *       *       *       *
+
+  Had I not known thy Self and Kindred,
+  Ev'n I my self should have been in dread.
+
+       *       *       *       *       *
+
+  The _Crane's_ arrival was opportune,
+  Order'd for _Isgrim's_ good by fortune.[6]
+
+Whatever the intentions of the poet, it seems to be the property of the
+Hudibrastic couplet inevitably to denigrate its subject. While it is
+probable that Dennis intended his fables to be clever and modish, and
+nothing more, they turn out to be travesties of La Fontaine.
+
+Dennis was attempting to impose on the animal fable an alien style. From
+Aesop to Thurber, the chief strength of the fabulist has been his
+humility: by selecting animal stories as the guise for his moral
+lessons, he has hoped to disarm his readers into accepting the truth.
+This strategy would seem to rule out the style of low burlesque, for the
+impulse to this style--a dignified subject to be mocked out of its
+dignity--does not exist in the animal fable. In particular the _Fables_
+of La Fontaine, perhaps the most graceful, concise, and witty ever
+written, do not respond well to the ferocious manner of Dennis. Dennis
+translating La Fontaine resembles a bull in a china shop.
+
+While Mandeville is no gazelle either, he has better manners than
+Dennis. The Butlerisms are still present, but they are not everywhere
+and they are not so grotesque. The difference between Dennis and
+Mandeville may be merely the interval of ten years, during which the
+influence of Butler had faded; but this seems unlikely, since Bond cites
+many examples of the continuing vogue of _Hudibras_, even well into the
+1730's.[7] A more probable explanation for the difference is that,
+whereas Dennis was an avowed imitator of Butler who happened to be
+translating the _Fables_ of La Fontaine, Mandeville seems to have been
+in this work chiefly a translator of La Fontaine who was, incidentally,
+writing at a time when the impulse to copy Butler's superficial
+qualities was almost irresistible. The total number of Hudibrastic
+couplets in _Aesop Dress'd_ comes to only a handful:
+
+  They'll give you a hundred Niceties,
+  As Chicken Bones, boyl'd Loins of Mutton,
+  As good as ever Tooth was put in....
+
+       *       *       *       *       *
+
+  And therefore let my Lord _Abdomen_
+  Say what he will, we'll work for no Man.
+
+       *       *       *       *       *
+
+  A Cat, whose Sirname pretty hard was,
+  One Captain _Felis Rodilardus_....
+
+       *       *       *       *       *
+
+  Before the Reign of Buxom Dido,
+  When Beasts could Speak as well as I do....
+
+       *       *       *       *       *
+
+  The Truth is, it would be a hard Case,
+  If all this should not mend one's Carcass.[8]
+
+Even these few unmistakable instances are less distracting than the ones
+in Dennis. Mandeville's verse is much like his prose: straightforward,
+downright, even in tone. Here are the first ten lines of Mandeville's
+"The Fox and Wolf":
+
+  The Fox went on the search one Night,
+  The Moon had hung out all her light;
+  He sees her image in a Well;
+  But what it was he could not tell;
+  Gets on the Bricks to look at ease:
+  At last concludes it is a Cheese:
+  One Bucket's down, the other up,
+  He jumps in that which was a-top,
+  And coming to the Water, sees
+  How little Skill he had in Cheese.
+
+La Fontaine has this:
+
+                  ... Un soir il [le loup] apercut
+  La lune au fond d'un puits: l'orbiculaire image
+      Lui parut un ample fromage.
+      Deux seaux alternativement
+      Puisoient le liquide element:
+  Notre Renard, presse par une faim canine,
+  S'accommode en celui qu'au haut de la machine
+      L'autre seau tenoit suspendu.
+      Voila l'animal descendu,
+      Tire d'erreur, mais fort en peine,
+      Et voyant sa perte prochaine....
+
+Dennis had inserted these lines in the pseudo-erudite Butlerian manner:
+
+  The two large Buckets which were there,
+  Like _Pollux_ and like _Castor_ were.
+  How so pray? For 'tis devilish odd,
+  To liken a Bucket to a God;
+  When one came up from towards the Center,
+  That in our upper world strait went there.
+  These drew up turns the liquid Element,
+  Into one got _Renard_, and towards Hell he went.[9]
+
+Nearly all Mandeville's translations are, like "The Fox and Wolf,"
+longer than their originals. The added length is partly explained by
+meter: Mandeville's octosyllabic line is less capacious, as a rule, than
+La Fontaine's flexible one. Thus, even though "The Wolf and the Lamb"
+moves with a speed comparable to "Le Loup et l'Agneau," Mandeville takes
+34 lines to La Fontaine's 29.[10] More often, Mandeville's translations
+are longer than their originals because Mandeville is not able to match
+La Fontaine's wit and point. "La Lice et sa Compagne," an exercise in
+light-footed elegance, begins this way:
+
+        Une Lice etant sur son terme,
+  Et ne sachant ou mettre un fardeau si pressant,
+  Fait si bien qu'a la fin sa Compagne consent
+  De lui preter sa hutte, ou la Lice s'enferme.
+
+In translating, Mandeville expands these four lines to ten without
+special gain:
+
+  A Bitch, who hardly had a day
+  To reckon, knew not where to lay
+  Her Burthen down: She had no Bed;
+  Nor any Roof to hide her Head;
+  Desires a Bitch of the same Pack,
+  To let her have, For Heaven's sake,
+  Her House against her Lying-in.
+  Th' other, who thought it was a Sin,
+  To baulk a Wretch so near her Labour
+  Says, Yes, 'tis at your Service, Neighbor.[11]
+
+Perhaps it is Mandeville's plainspokenness, his determination to say all
+that must be said, which causes him to state explicitly things that La
+Fontaine left implicit. "La Cigale et la Fourmi," contrasting an
+irresponsible grasshopper and a provident ant, implies but subdues a
+contrast between art and life. Mandeville makes the contrast explicit:
+
+  And now the hungry Songster's driv'n
+  To such a state, no Man can know it,
+  But a Musician or a Poet....[12]
+
+"The Lyon and the Gnat" is fairly close to its original in length (46
+lines to La Fontaine's 39) and in spirit; but Mandeville does not
+improve his fable by supplying the adjective "silly" ("silly Spider")
+where La Fontaine had written "une araignee," or by inserting a line
+about the gnat's pride, "Puffed up and blinded with his glory," where La
+Fontaine expected his readers to discern the gnat's pride for
+themselves.[13] Another translation that sticks close to the French in
+its sense is "The Dog and the Ass," in which an ass refuses food to a
+hungry dog and is in turn abandoned by the dog and killed by a hungry
+wolf. Mandeville adds the judgment that La Fontaine excluded. The wolf
+attacks:
+
+      Grizz'l [the Ass] at a distance
+  Hears him, and asks the Dog's assistance;
+  But he don't budge, _and serves him right;
+  Says he, I never us'd to fight
+  Without a cause for fighting's sake_....[14]
+
+The italicized words, entirely added by Mandeville, apparently represent
+his conviction that the irony of La Fontaine's fable would be
+intensified by the dog's sardonic comment and the translator's "serves
+him right." Other examples might be cited of Mandeville's explicitness.
+
+The characterizing details of some of the great fables, however,
+disappear in Mandeville's English. Although "The Plague among the
+Beasts" is faithful to the original, the tragic overtones of "Les
+Animaux malade de la Peste" are not recaptured; they are perhaps
+unrecapturable. The ironies of La Fontaine's characterization are
+ignored: the lion's "L'histoire nous apprend," for instance, by which
+the unscrupulous politician poses as a deep-browed savant; the
+description of the other beasts as "petits saints," and of the wolf who
+condemns the innocent ass as "quelque peu clerc"--these disappear.[15]
+"L'Ivrogne et sa Femme" meets the same fate. Mandeville retains the
+outlines of the original but treats the details perfunctorily, as though
+he had given up trying to re-create the comic terror of La Fontaine's
+little masterpiece. "A drunkard" is not an adequate equivalent for "un
+suppot de Bacchus"; "very drunk" is not the same as "plein du jus de la
+treille"; entire sentences are left out, such as "La les vapeurs du vin
+nouveau / Cuverent a loisir"; and the ending of the poem suffers from
+the alteration of details and from an awkward inversion for the sake of
+a rhyme:
+
+  He says to his dissembling Spirit,
+  Who are you in the Name of Evil?
+  She answers hoarsely I'm a Devil,
+  That carries Victuals to the Damn'd
+  By me they are with Brimstone cramm'd.
+  What, says the Husband, do you think
+  Never to bring them any Drink?
+
+  "Quelle personne es-tu? dit-il a ce fantome.
+      --La celleriere du royaume
+  De Satan, reprit-elle; et je porte a manger
+      A ceux qu'enclot la tombe noire."
+      Le mari repart, sans songer:
+      "Tu ne leur portes point a boire?"[16]
+
+Of the many differences between La Fontaine and Mandeville, those
+noticed up to this point may be blamed on the latter's incapacity. Some
+of the other changes may be partially justified on the grounds that
+through them Mandeville was deliberately trying to alter the tone of the
+poem, to give it an earthiness of spirit congruent with his temperament.
+La Fontaine's "Le Lion malade et le Renard" begins with hushed dignity:
+
+      De par le roi des animaux,
+      Qui dans son antre etait malade,
+      Fut fait savoir a ses vassaux
+      Que chaque espece en ambassade
+      Envoyat gens le visiter....
+
+Mandeville's translation begins:
+
+      The king of Brutes sent all about,
+      He was afflicted with the gout....[17]
+
+The gout is a standard comic disease which Mandeville gives to his lion
+to make him comically undignified. La Fontaine's lion remains dignified
+and restrained throughout. (The two versions of this fable are also
+instances of the relative capabilities of the French and the English
+four-stress lines.) In another fable, a tonal difference appears in some
+lines describing the meeting of a haggard wolf and a well-fed dog:
+
+      Le Loup donc l'aborde humblement,
+  Entre en propos, et lui fait compliment
+      Sur son embonpoint, qu'il admire.
+
+  And therefore in a humble way
+  He gives the Dog the time o' th' Day;
+  Talks mighty complaisant, and vents
+  A Waggon Load of Compliments
+  Upon his being in such a Case,
+  His brawny Flank and jolly Face.[18]
+
+The tone of polite gravity is gone; what remains is less succinct, but
+more specific, and in its way effective. When Mandeville's invention is
+working well, as it does in "The Wolf and Dog," it provides, in its
+colloquial heartiness, an adequate substitute for La Fontaine's
+refinement of tone and subtlety of detail. On the whole, his fables are
+close to their originals, especially when compared to those of Dennis,
+even though "the easie and familiar method of Monsieur de La Fontaine"
+is something that, despite his professions, Mandeville fails to
+reproduce.
+
+Only two years intervened between Mandeville's translations from La
+Fontaine (1703) and _The Grumbling Hive_ (1705), the 433-line fable
+that, through the years, would grow into that great repository of
+social, political, and economic nonconformity, _The Fable of the Bees_.
+It is not surprising that many of the fables which Mandeville chose to
+translate anticipate the themes of his great work. Among these are "The
+Milk Woman," on the self-flatery of the egoistic dream; "The Frogs
+asking for a King," on the instability of human desires; "The Wolves and
+the Sheep," on political self-deception; "Hands, Feet, and Belly," on
+social interdependence; and "The Lyon grown Old," on the ultimate blow
+to pride.[19]
+
+Since Mandeville would give so much space in _The Fable of the Bees_ to
+his analysis of pride,[20] it is appropriate that pride engaged his
+attention in this early book of fables. "The Frog" is notable chiefly
+because Mandeville lengthened La Fontaine's moral of four lines to
+fourteen in order to glance at the social and economic implications of
+pride:
+
+  So full of Pride is every Age!
+  A Citizen must have a Page,
+  A Petty Prince Ambassadors,
+  And Tradesmens Children Governours;
+  A Fellow, that i'n't worth a Louse,
+  Still keeps his Coach and Country-house;
+  A Merchant swell'd with haughtiness,
+  Looks ten times bigger than he is;
+  Buys all, and draws upon his Friend,
+  As if his Credit had no end;
+  At length he strains with so much Force,
+  Till, like the Frog, he bursts in course,
+  And, by his empty Skin you find,
+  That he was only fill'd with Wind.[21]
+
+Two of the 39 fables in the collection are original productions: "The
+Carp" and "The Owl and the Nightingale." Both poems focus upon pride.
+"The Carp" tells the story of a young and inexperienced English carp who
+swims into foreign waters to learn "manners and arts." Warned by a
+herring to go home and learn first about his own country, the carp
+rebuffs this honest advice, takes up with fops, and is drawn into ruin
+before he finally returns home "as vain and ignorant, / As e'er he was
+before he went." The subject of the moral reflections at the end is
+self-delusion in the particular form of sophisticated vanity.[22] The
+other poem, "The Owl and the Nightingale" (the longest poem in the
+collection, at 181 lines), also concerns pride. The Eagle, having
+looked unsuccessfully among the birds of his court for a singing
+night-watchman, sends out a general letter. The nightingale realizes
+with excitement that he will easily win the competition; but
+he coyly refuses to go to court until sent for, makes elaborate
+self-depreciations in the eagle's presence, and hold out, obviously, for
+more recognition and reward. While he delays, an owl has been persuaded
+by friends to try for the position and has a hearing. Although he sings
+unskillfully, he manages to stay awake. When the nightingale returns to
+court the next day, he is infuriated to learn that an owl is competing
+against him and that the eagle has ordered the two birds to perform
+against one another that night. The nightingale protests so loudly and
+treasonably that he is kicked out of court, and the owl, dull but
+faithful, is declared the winner. The moral follows:
+
+  Princes can never satisfy
+  That Worth that rates itself too high.
+  What pity it is! some Men of Parts
+  Should have such haughty stubborn Hearts:
+  When once they are courted they grow vain:
+  Ambitious Souls cannot contain
+  Their Joy, which when they strive to hide,
+  They cover it with so much Pride,
+  So Saucy to Superiors,
+  Impatient of Competitors,
+  Th' are utterly untractable,
+  And put off like our Nightingale.
+  Many with him might have been great,
+  Promoted Friends, and serv'd the State,
+  That have beheld, with too much Joy,
+  The wish'd for Opportunity;
+  Then slipt it by their own Delays,
+  Sloth, Pride, or other willful Ways.
+  And ever after strove in vain
+  To see the Forelock once again.[23]
+
+In some respects this poem looks forward to _The Fable of the Bees_.
+Mandeville subjects the nightingale to a brief psychological analysis
+and looks on his failure with a blend of detached pity and satiric
+mordancy; he strips away the sophisticated defenses that hide the basic
+emotions, recommending honesty with oneself and with others; he
+identifies the personal interests of the members of society with the
+interests of the state. It remains to point out that neither here nor
+elsewhere in this collection does Mandeville assert that private vices
+are public benefits.
+
+Washington University
+
+
+
+
+NOTES TO THE INTRODUCTION
+
+
+[1] F. B. Kaye, ed., _The Fable of the Bees_ (Oxford, 1924), I, xxx.
+
+[2] The Preface to _Miscellanies in Verse and Prose_ is reprinted in
+Edward Niles Hooker's edition of _The Critical Works of John Dennis_, I
+(Baltimore, 1939), 6-10.
+
+[3] Richmond P. Bond, _English Burlesque Poetry_, 1700-1750 (Cambridge,
+Mass., 1932), p. 147.
+
+[4] Bond, pp. 3-5.
+
+[5] Bond, p. 153, cites several narrative poems of this sort.
+
+[6] From these fables in the 1693 _Miscellanies_: "The Wolf and the
+Horse," pp. 72-83 (the first two excerpts); "The Lyon and the Ass a
+Hunting," pp. 92-95; "The Wolf and the Crane," pp. 101-105.
+
+[7] _English Burlesque Poetry_, pp. 149-152.
+
+[8] These instances occur, respectively, in "The Wolf and Dog," "The
+Hands, Feet, and Belly," "Council Held by the Rats," "The Lyon in Love,"
+and "The Weasel and the Rat."
+
+[9] _Aesop Dress'd_, p. 73; La Fontaine, "Le Loup et le Renard," XI. vi;
+Dennis, _Miscellanies_, p. 117.
+
+[10] _Aesop Dress'd_, pp. 64-65; La Fontaine, I. x.
+
+[11] La Fontaine, II, vii; "The two Bitches," _Aesop Dress'd_, p. 37.
+
+[12] La Fontaine, I. i; "The Grasshopper and Ant," _Aesop Dress'd_, pp.
+17-18.
+
+[13] _Aesop Dress'd_, pp. 48-50; La Fontaine, "Le Lion et le Moucheron,"
+II. ix.
+
+[14] _Aesop Dress'd_, pp. 71-73; La Fontaine, "L'Ane et le Chien," VIII.
+xvii.
+
+[15] _Aesop Dress'd_, pp. 14-15; La Fontaine, VII. i.
+
+[16] "The Drunkard and his Wife," _Aesop Dress'd_, pp. 24-25; La
+Fontaine, III. vii.
+
+[17] La Fontaine, VI. xiv; "The Sick Lyon and the Fox," _Aesop Dress'd_,
+pp. 38-39.
+
+[18] La Fontaine, "Le Loup et le Chien," I. v; "The Wolf and Dog,"
+_Aesop Dress'd_, pp. 2-4.
+
+[19] The poems appear on the following pages of _Aesop Dress'd_: "The
+Milk Woman," pp. 18-19; "The Frogs asking for a King," pp. 62-64; "The
+Wolves and the Sheep," pp. 45-46; "Hands, Feet, and Belly," pp. 7-10;
+"The Lyon grown Old," pp. 65-66. For the corresponding fables in La
+Fontaine see the notes to the text of the present edition.
+
+[20] See Kaye, II, 371, s. v. "Pride."
+
+[21] _Aesop Dress'd_, pp. 4-5; La Fontaine, "La Grenouille qui se veut
+aussi grosse que le Boeuf," I. iii.
+
+[22] _Aesop Dress'd_, pp. 25-27.
+
+[23] Ibid., pp. 27-33.
+
+
+
+
+NOTES TO THE TEXT
+
+
+For each of Mandeville's fables except "The Carp" and "The Nightingale
+and Owl," which are originals, I have indicated below the original in La
+Fontaine's _Fables_ by title, book, and number.
+
+1. "The Two Dragons": "Le Dragon a plusieurs Tetes, et le Dragon a
+plusieurs Queues," I. xii.
+
+2. "The Wolf and Dog": "Le Loup et le Chien," I. v.
+
+3. "The Frog": "La Grenouille qui se veut faire aussi grosse que le
+Boeuf," I. iii.
+
+4. "The Pumkin and Acorn": "Le Gland et la Citrouille," IX. iv.
+
+5. "The Hands, Feet, and Belly": "Les Membres et l'Estomac," III. ii.
+
+6. "The Countryman and the Knight": "Le Jardinier et son Seigneur," IV.
+iv.
+
+7. "The Plague among the Beasts": "Les Animaux malades de la Peste,"
+VII. i.
+
+8. "The Grasshopper and Ant": "La Cigale et la Fourmi," I. i.
+
+9. "The Milk Woman": "La Laitiere et le Pot au Lait," VI. x.
+
+10. "The Cock, the Cat, and the young Mouse": "Le Cochet, le Chat, et le
+Souriceau," VI. v.
+
+11. "The Cock and Pearl": "Le Coq et la Perle," I. xx.
+
+12. "The Lyon's Court": "La Cour du Lion," VII. vii.
+
+13. "The Drunkard and his Wife": "L'Ivrogne et sa Femme," III. vii.
+
+14. "Council held by the Rats": "Conseil tenu par les Rats," II. ii.
+
+15. "The Bat and the Two Weasels": "La Chauve-Souris et les deux
+Belettes," II. v.
+
+16. "The two Bitches": "La Lice et sa Compagne," II. vii.
+
+17. "The Sick Lyon and the Fox": "Le Lion malade et le Renard," VI. xiv.
+
+18. "The Satyr and the Passenger": "Le Satyre et le Passant," V. vii.
+
+19. "The Lyon in Love": "Le Lion amoureux," IV. i.
+
+20. "The Angler and the Little Carp": "Le petit Poisson et le Pecheur,"
+V. iii.
+
+21. "The Wolves and the Sheep": "Les Loups et les Brebis," III. xiii.
+
+22. "The Wasps and Bees": "Les Frelons et les Mouches a Miel," I. xxi.
+
+23. "The Lyon and the Gnat": "Le Lion et le Moucheron," II. ix.
+
+24. "The Woodcleaver and Mercury": "Le Bucheron et Mercure," V. i.
+
+25. "The Hare and his Ears": "Les Oreilles du Lievre," V. iv.
+
+26. "The Rat and the Frog": "La Grenouille et le Rat," IV. xi.
+
+27. "The Cat and an old Rat": "Le Chat et un vieux Rat," III. xviii.
+
+28. "The Weasel and the Rat": "La Belette entree dans un Grenier," III.
+xvii.
+
+29. "The Wolf and the Stork": "Le Loup et la Cicogne," III. ix.
+
+30. "The Frogs asking for a King": "Les Grenouilles qui demandent un
+Roi," III. iv.
+
+31. "The Wolf and the Lamb": "Le Loup et l'Agneau," I. x.
+
+32. "The Lyon grown old": "Le Lion devenu vieux," III. xiv.
+
+33. "The two Physicians": "Les Medecins," V. xii.
+
+34. "Love and Folly": "L'Amour et la Folie," XII. xiv.
+
+35. "A She-Goat, a Sheep and a Sow": "Le Cochon, la Chevre, et le
+Mouton," VIII. xii.
+
+36. "The Dog and the Ass": "L'Ane et le Chien," VIII. xvii.
+
+37. "The Fox and Wolf": "Le Loup et le Renard," XI. vi.
+
+
+_Text_
+
+The text of _Aesop Dress'd_ here reprinted is that in the Harvard
+University Library.
+
+
+
+
+  AESOP Dress'd;
+  OR A
+  COLLECTION
+  OF
+  FABLES
+
+  Writ in Familiar Verse.
+
+  By _B. Mandeville_, M. D.
+
+  _LONDON_:
+  Sold at _Lock's-Head_ adjoyning to _Ludgate_.
+  Price One Shilling.
+
+
+
+
+The INDEX.
+
+
+  _The two Dragons_                                    Page      1
+  _The Wolf and Dog_                                             2
+  _The Frog_                                                     4
+  _The Pumkin And Acorn_                                         5
+  _The Hands, and Feet, and Belly_                               7
+  _The Countryman and the Knight_                               10
+  _The Plague among the Beasts_                                 14
+  _The Grashopper and Ant_                                      17
+  _The Milk Woman_                                              18
+  _The Cock, the Cat, and the young Mouse_                      20
+  _The Cock and Pearl_                                          22
+  _The Lyon's Court_                                            23
+  _The Drunkard and his Wife_                                   24
+  _The Carp_                                                    25
+  _The Nightingale and Owl_                                     27
+  _Council held by the Rats_                                    34
+  _The Bat and the two Weasels_                                 36
+  _The two Bitches_                                             37
+  _The Sick Lyon and the Fox_                                   38
+  _The Satyr and the Passenger_                                 40
+  _The Lyon in Love_                                            41
+  _The Angler and the little Carp_                              43
+  _The Wolves and the Sheep_                                    44
+  _The Wasps and the Bees_                                      46
+  _The Lyon and Knat_                                           48
+  _The Woodcleaver and Mercury_                                 50
+  _The Hare and his Ears_                                       52
+  _The Rat and the Frog_                                        53
+  _The Cat and old Rat_                                         56
+  _The Weasel and the Rat_                                      59
+  _The Wolf and the Stork_                                      60
+  _The Frogs asking for a King_                                 62
+  _The Wolf and Lamb_                                           64
+  _The Lyon grown old_                                          65
+  _The two Physicians _                                         66
+  _Love and Folly_                                              67
+  _A She-Goat, a Sheep, and a Sow_                              69
+  _The Dog and Ass_                                             71
+
+
+
+
+THE
+
+PREFACE _to the_ READER.
+
+
+_Prefaces and Cuts are commonly made use of much to the same Purpose; to
+set off, and to explain. The latter, being too expensive, are pretty
+well out of date, in an Age, where there are abundance of fine things to
+be bought besides Books. But the first by wicked Custom, are become so
+necessary, that a Volume would look as defective without one, as if it
+wanted the very Title Page. Though it is hard I should be compelled to
+talk to my Reader, whether I have any thing to say to him or not. Nay,
+what is worse, every Body thinks a Man should be more lavish here of his
+Skill and Learning, than anywhere else: Here they would have him shew
+his Airs, and therefore most Authors adorn their Prefaces, as if they
+were triumphal Arches; there's nothing empty to be seen about 'em, and
+from top to bottom they are to be crowded with Emblems and pretty
+Sayings, judiciously interwoven with Scraps of_ Latin; _though they
+should borrow 'em from the Parson of the Parish. These, I say, are the
+Entertainments where they love to glut us with Wit and fine Language;
+though they starve us for ever after: Which makes some of 'em look like
+a rich piece of Fillegrew Work over the Door of an empty Parlour. But I
+am resolved my Portico shall suit with the rest of the House, and, as
+every thing is plain within, nothing shall be carv'd or gilt without:
+Besides, I hate formality, Good Reader, and all my Business with you is
+to let you know, that I have writ some Fables in Verse, after the
+Familiar Way of a Great Man in_ France, Monsieur de la Fontaine. _I have
+confin'd my self to strict Numbers, and endeavour'd to make 'em free and
+natural; if they prove otherwise, I'm sorry for it. Two of the Fables
+are of my own Invention; but I am so far from loving 'em the better,
+that I think they are the worst in the Pack: And therefore in good
+Manners to my self I conceal their Names. Find 'em out, and welcome.
+I could wish to have furnish'd you with something more worthy your
+precious time: But as you'll find nothing very Instructive, so there's
+little to puzzle your Brain. Besides, I desire every Body to read 'em at
+the same Hours I writ 'em, that's when I had nothing else to do. If any
+like these Trifles, perhaps I may go on; if not, you shall be troubled
+with no more of 'em: And so fare ye well_ Reader.
+
+
+
+
+_The_ TWO DRAGONS. A Fable.
+
+
+  Not long ago th' Ambassador
+  From the great _Turk_ to the Emperor,
+  Extoll'd his Master's strength, beyond
+  The _German_ Force; a Courtier, fond
+  Of his own Country, boastingly
+  Said, his Imperial Majesty
+  Had many Princes under him,
+  So powerful, that each of 'em,
+  Could raise an Army of his own,
+  And more than one that wore a Crown.
+  I know, says th' other, very well,
+  Your Dukes and Pow'rs Electoral,
+  With others, that advance the glory
+  Of th' Empire. But I'll tell y' a story:
+  I dreamt I saw a frightful Beast,
+  That had a hundred Heads at least;
+  At first I startled at the sight;
+  But soon recovering from my Fright,
+  I ventured on, and coming near it,
+  I found I had no cause to fear it:
+  For every Head did what it would;
+  Some work'd with all the Force they could;
+  But most of 'em lay of a heap,
+  And look'd as if th' been asleep;
+  Others, in hopes of better Prey,
+  Were pulling quite another way.
+  I turn'd my Head about, and spied
+  A mighty Beast, on the other side:
+  One Head adorn'd his Brawny Neck;
+  But hundred Tails did close his Back;
+  And as the Heads march'd o'er the Land,
+  The Tails did follow at Command;
+  Did Execution every where;
+  I waked, and thought the Monsters were
+  Both Empires; but the Tails are ours,
+  And all the glorious Heads are yours.
+
+
+
+
+_The Wolf and Dog._
+
+
+  A Wolf so pitious poor and thin,
+  His very Bones stuck through his Skin,
+  (A sign the Dogs were watchful) met
+  A sturdy Mastiff, slick and fat.
+  Sir Wolf, revengeful on his Foes,
+  Had murder'd him, as one of those
+  That hinder'd him from stealing Cattle;
+  But was afraid of joyning Battle
+  With one, that look'd, as if he could
+  Stand buff, and make his party good.
+  And therefore in an humble way
+  He gives the Dog the time o'th' Day;
+  Talks mighty complaisant, and vents
+  A Waggon Load of Compliments
+  Upon his being in such a Case,
+  His brawny Flank and jolly Face.
+  Sir Wolf, replies the Mastiff, you
+  May be as fat as any Doe,
+  If you'll but follow my advice;
+  For Faith, I think you are unwise,
+  To ramble up and down a Wood,
+  Where's nothing to be had, that's good,
+  No Elemosynary meat,
+  Or e'er a bit, that's good to eat,
+  But what is got by downright force,
+  For which at last you pay in course.
+  And thus yourselves, your hagged Wives
+  And Children lead but wretched lives;
+  Always in fear of being caught,
+  Till commonly y'are starv'd or shot.
+  Quoth Wolf, shew me a livelyhood,
+  And then, the Devil take the Wood:
+  I stand in need of better Diet,
+  And would be glad to feed in quiet:
+  But, pray, What's to be done, an't please ye?
+  Nothing, but what is very easy;
+  To bark at Fellows that look poor,
+  Fright pilfring Strolers from the Door;
+  And then, which is the chiefest matter,
+  To wag your Tail, to coax and flatter
+  Those of the Family; for this
+  They'll give you hundred Niceties,
+  As Chicken Bones, boyl'd Loins of Mutton,
+  As good as ever Tooth was put in,
+  The licking of a greasy Dish,
+  And all the Dainties Heart can wish;
+  Besides, the Master shall caress ye,
+  Spit in your Mouth, and----Heaven bless ye.
+  Good Sir, let's go immediately,
+  Reply'd the Wolf, and wept for Joy.
+  They went; and tho' they walk'd apace,
+  The Wolf spy'd here and there a Place
+  About the Neck of Mastiff, where,
+  It seems, his Curship lost some Hair,
+  And said, pray Brother Dog, What's this?
+  Nothing. Nay, tell me, what it is;
+  It looks like gall'd. Perhaps 'tis from
+  My Collar. Then, I find, at home
+  They tie you. Yes. I'm not inclin'd to't,
+  Or goes it loose when y'have a Mind to't,
+  Truely not always; but what's that?
+  What's that! quoth he; I smell a Rat;
+  My Liberty is such a Treasure,
+  I'll change it for no Earthly Pleasure;
+  At that his Wolfship fled, and so
+  Is flying still for ought I know.
+
+
+
+
+_The Frog._
+
+
+  A Frog threw his ambitious Eyes
+  Upon an Ox, admired his size,
+  And, from the smallness of an Egg,
+  Endeavoured to become as big.
+  He swells himself, and puffs, and blows,
+  And every foot, cries there he goes.
+  Well, Brother, have I bulk enough,
+  An't I as large, as he? What stuff!
+  Pray look again. The Dev'l a bit.
+  Then now. You don't come near him yet.
+  Again he swells, and swells so fast,
+  Till, straining more, he bursts at last.
+  So full of Pride is every Age!
+  A Citizen must have a Page,
+  A Petty Prince Ambassadors,
+  And Tradesmens Children Governours;
+  A Fellow, that i'n't worth a Louse,
+  Still keeps his Coach and Country-house;
+  A Merchant swell'd with haughtiness,
+  Looks ten times bigger than he is;
+  Buys all, and draws upon his Friend,
+  As if his Credit had no end;
+  At length he strains with so much Force,
+  Till, like the Frog, he bursts in course,
+  And, by his empty Skin you find,
+  That he was only fill'd with Wind.
+
+
+
+
+_The Pumkin and Acorn._
+
+
+  A Self conceited Country Bumkin
+  Thus made his glosses on a Pumkin.
+  The Fruit, says he, is very big,
+  The Stalk not thicker than a Twig,
+  Scarce any Root, great Leaves; I wonder,
+  Dame Nature should make such a blunder:
+  Had I been she, I would have plac'd it
+  On yon high Oak, and 'twould have grac'd it
+  Better than Acorns; its a whim
+  A little Shrub would do for them;
+  Why should a Tree so tall and fine,
+  Bear small stuff only fit for Swine?
+  But hundred things are made in waste,
+  Which shews the World was fram'd in haste.
+  Had I been sent for in those Days,
+  'Twould have been managed otherwise:
+  I would have made all of a suit,
+  And large Trees should have had large Fruit.
+  Thus he went on, and in his Eyes,
+  The Simpleton was very wise;
+  A little after, coming nigh
+  An Oak, whose Crown was very high,
+  He liked the Place and down he laid
+  His weary Carcass, in the Shade:
+  But, as the find-fault Animal
+  Turn'd on his Back, an Acorn fell,
+  And hit his Nose a swinging Blow.
+  Good God was this the Pumkin now!
+  The very thought on't struck him dumb:
+  He prais'd his Maker, and went home.
+
+
+  The Moral.
+
+  _The World's vast Fabrick is so well
+  Contrived by its Creator's Skill;
+  There's nothing in't, but what is good
+  To him, by whom its understood;
+  And what opposes Human Sence,
+  Shews but our Pride and Ignorance._
+
+
+
+
+_The Hands, Feet, and Belly._
+
+
+  The Hands and Feet in Council met,
+  Were mightily upon the Fret,
+  And swore 'twas something more than hard,
+  Always to work without reward.
+  The Feet said, truly its a Jest,
+  That we should carry all the rest;
+  March at all Hours thro thick and thin,
+  With Shoes that let the Water in;
+  Our Nails are hard as Bullock's Horns,
+  Our Toes beset with plaguy Corns;
+  We rais'd four Blisters th' other Night,
+  And yet got not a farthing by't.
+  Brothers, reply'd the Hands, 'tis true,
+  We know what hardship's y' undergo;
+  But then w' are greater Slaves than you;
+  For tho' all day we scrape and rake,
+  And labour till our Fringers ake;
+  Tho' we've been ply'd at every thing;
+  Yet then, without considering
+  What pains or weariness we feel,
+  W'are forced to serve at every meal,
+  And often, whilst you're set at ease,
+  Drudge to the Knucles up in Grease;
+  As for your Corns and Nails in troth,
+  We have the trouble of cutting both.
+  Take this not, Brothers, in a sence,
+  That might create a Difference;
+  We only hinted it, to shew
+  We're full as badly us'd as you;
+  Our Grievances are general,
+  And caused by him that swallows all;
+  The ungrateful Belly is our bane,
+  Whom with our labour we maintain;
+  The ill natured'st Rogue, that e'er was fed,
+  The lazy'st Dog, that lives by Bread.
+  For him we starve; for what d'ye think
+  Becomes of all the Meat and Drink?
+  'Tis he, that makes us look so thin,
+  To stretch his everlasting Skin;
+  Tho' we do all his Business,
+  What did he ever give to us?
+  And therefore let my Lord _Abdomen_
+  Say what he will, we'll work for no Man.
+  Nay if we scratch him tho' he itches,
+  Calls us a hundred Sons of Bitches.
+  And, if you do the same, you'll see,                }
+  He'll quickly be as lean as we;                     }
+  What say ye, Brothers, do y' agree?                 }
+  Yes, says the Feet, and he be curst,
+  That dares to think of stirring first.
+  And thus the Rebels disobey;
+  Who swear they'll now keep Holy-day,
+  Resolv'd to live like Gentlemen.
+  His Gutship calls and calls again,
+  They answer'd they would toil no more;
+  But rest as he had done before:
+  But soon the Mutineers repent;                      }
+  The Belly when his Stock was spent,                 }
+  Could not send down the Nourishment,                }
+  That's requisite for every part;
+  The weakness seiz'd the drooping Heart:
+  Till all the Members suffer'd by't,
+  And languished in a woeful plight:
+  They saw, when 'twas too late, how he,
+  Whom they accused of Gluttony,
+  Of Laziness, Ingratitude,                           }
+  Had labour d for the common Good,                   }
+  By ways they never understood.                      }
+
+
+  The Moral.
+
+  _The Belly is the Government,
+  From whence the Nourishment is sent,
+  Of wholesome Laws for mutual Peace,
+  For Plenty, Liberty, and Ease,
+  To all the Body Politick,
+  Which where it fails the Nation's sick.
+  The Members are the discontent_
+  Pleibeians; _that are ignorant,
+  How necessary for the State
+  It is, that Princes should be great:
+  Which, if their Pomp and Pow'r were less,
+  Could not preserve our Happiness.
+  The Vulgar think all Courts to be
+  But Seats of Sloth and Luxury;
+  Themselves, but Slaves compell'd to bear
+  The Taxes, and the Toils of War;
+  But in this Fable they may see
+  The dismal Fruits of Mutiny;
+  Whilst Subjects, that assist the Crown,
+  But labour to maintain their own._
+
+
+
+
+_The Countryman and the Knight._
+
+
+  An honest Countryman had got
+  Behind his House a pretty Spot,
+  Of Garden Ground, with all what might
+  Contribute to the Taste and Sight,
+  The Rose and Lilly, which have been
+  Still kept to compliment the Skin,
+  Poppies renown'd for giving ease,
+  With Roman Lettice, Endive, Pease,
+  And Beans, which Nat'ralists do reckon
+  To be so ominous to Bacon.
+  The Beds were dung'd, the Walks well swept,
+  And every thing was nicely kept.
+  Only a Hare wou'd now and then
+  Spite of the Master and the Men
+  Make raking work for half a day,
+  Then fill her Gut and scow'r away.
+  In vain they beat and search the Ground,
+  The cunning Jilt can ne'er be found,
+  The Master once in angry Mood                       }
+  Starts up and swears by all that's good,            }
+  He'd be revenged, that he would.                    }
+  Runs to a Country Knight his Neighbour,
+  And there complains how all his labour
+  Was spoil'd by one confounded Hare,
+  Which though the'd watch'd her every where
+  He nor his People ne'er could catch,
+  And of a certain was a Witch.
+  His Worship smiles and promises
+  To rid him of the Sawcy Puss.
+  At break of Day _Jack_ winds his Horn,
+  The Beagles scamper thro' the Corn;
+  Deep mouth'd Curs set up a Cry,
+  And make a cursed Symphony.
+  Now stir you Rogues; the Knight is come
+  With _Robin_, _Lightfoot_, _Dick_ and _Tom_.
+  The House is full of Dogs and Boys,
+  And ev'ry where's a horrid Noise,
+  Well, Landlord, Come, What shall we do?
+  Must w' eat a Bit before we go?
+  What have you got? Now all's fetch'd out,
+  The Victuals rak'd, and tore about.
+  One pairs the Loaf, another Groom                   }
+  Draws Beer, as if he was at home,                   }
+  And spils it half about the Room.                   }
+  What Horseman's yonder at the Door?
+  Why, Faith, there's half a dozen more:
+  They're Gentlemen, that live at Court,
+  Come down the Country for some Sport;
+  Some old Acquaintance of the Knight,
+  Who whips from Table, bids 'em light.
+  They ask no Questions but sit down,
+  Fall too as if it was their own.
+  One finishes the Potted Salmon,
+  Then swears, because he had no Lemon.
+  Good Lord, how sharp the Rogues are set!
+  It puts my Landlord in a Sweat.
+  His Daughter comes with fresh Supplies
+  Of Collard Beef, and Apple-pies.
+  His Worship falls aboard of her;
+  The modest Creature quakes for fear.
+  When do we marry Mistress _Ann_?
+  Who is to be the happy Man?
+  He takes her Hand, and chucks her Chin,
+  Stares in her Face, commends her Skin,
+  Removes her Linnen, shews her Neck;
+  There's Milk, and Blood, Gad take me _Jack_.
+  She blushes, and he vows she is
+  A pretty Girl, then takes a Kiss;
+  She don't consent, nor dares deny,
+  Defends herself respectfully;
+  And now the Knight would let her go;                }
+  Another Rake cries, Damme no:                       }
+  I'll have a Kiss as well as you.                    }
+  He hugs her close, then calls her Dear,
+  And whispers bawdy in her Ear.
+  My charming Rogue, I would not hurt ye.
+  She answers not, but drops a Courtsie.
+  He's rude, and she's asham'd to squeak;
+  Her Father sees it, dares not speak;
+  But patiently enduring all,
+  Stands like a Statue in the Hall.
+  Now for the Garden and the Hare,
+  The Dogs get in, and scrape and tear,
+  The Horsemen follow, leap the Rails;
+  Down goes the Quick-set-hedge, and Pales.
+  The Huntsman hollows, runs and pushes,
+  All goes to Rack, the Borders, Bushes.
+  And now my Landlord cries amain,
+  You've ruin'd me; but all in vain.
+  The Cabbages are kick'd about,
+  And Flowers with Roots and all pull'd out.
+  The Beds are levell'd with the Ground,
+  At last poor trembling Puss is found
+  Hid underneath a Collyflower.
+  The Prey is took, away they scower,
+  And leave our Countryman to think
+  On all his Loss of Meat and Drink:
+  What havock's made in ev'ry place,
+  His Daughter wrong'd before his Face.
+  Small was the Mischief of the Hare
+  To ravenous Hunters to compare.
+  He wrings his Hands, and all in Tears
+  Repents his foolish rashness, swears,
+  He'll ne'er call help again in haste,
+  Since Hounds and Horses made more waste,
+  In half an hour, than all the Hares
+  Of th' Country could in Seven Years.
+
+
+  The Moral.
+
+  _When petty Princes can't agree,
+  And strive for Superiority,
+  They often take my Landlord's Course,
+  Invite for Aid a foreign Force;
+  And when their Subjects Slaves are made,
+  Their Countries all in ruins laid,
+  As commonly it proves their fate,
+  Repent with him when it's too late._
+
+
+
+
+_The Plague among the Beasts._
+
+
+  One time a mighty Plague did pester
+  All Beasts Domestick and _Sylvester_,
+  They try'd a world of Remedies;
+  But none that conquer'd the Disease:
+  And, as in the Calamity
+  All did not dye, so none were free.
+  The Lyon in this Consternation
+  Sends by his Royal Proclamation
+  To all his loving Subjects greeting,
+  And summons 'em t' a general Meeting;
+  And when they're come about his Den,
+  He says, my Lords and Gentlemen,
+  I believe you're met full of the Sence
+  Of this consuming Pestilence;
+  Sure such extraordinary Punishment
+  On common Crimes was never sent;
+  Therefore it took its derivation,
+  Not from the trivial Sence of the Nation;
+  But some notorious Wickedness;                      }
+  Then let us search our Consciences,                 }
+  And ev'ry one his Faults confess.                   }
+  We'll judge the biggest and the least,
+  And he that is the wicked'st Beast
+  Shall as a Sacrifice be giv'n,
+  T'allay the wrath of angry Heav'n,
+  And serve our Sins an expiation
+  By ancient way of Immolation;
+  And, since no one is free from Sin,
+  Thus with my own I'll first begin.
+  I've kill'd an Ox, and which is worse,
+  Committed Murder on a Horse;
+  And one Day, as I am a Sinner,
+  I have eat seven Pigs for Dinner,
+  Robb'd Woods, and Fens, and like a Glutton,
+  Fed on whole Flocks of Lamb and Mutton:
+  Nay sometimes, for 'tis in vain to lie,
+  The Shepherd went for Company.
+  This was his Speech; when Chanc'lor Fox
+  Cries out, what signifies an Ox,
+  Or Horse? Sure those unworthy things
+  Are honour'd, when made sport for Kings.
+  But, Sir, your Conscience is too nice,
+  Hunting's a Princely Exercise:
+  As for the Sheep, that foolish Cattle,
+  Not fit for Carriage nor for Battle,
+  And being tolerable Meat,
+  Are good for nothing, but to eat.
+  The shepherd your sworn Enemy
+  Deserv'd no better Destiny.
+  Thus was he, that had sin'd for Twenty,
+  Clear'd _Nemine Contradicente_.
+  The Bear, the Tyger, Beasts that fight,
+  And all that could but scratch or bite
+  Came off well; for their gross Abuses
+  Others as bad found Excuses.
+  Nay even the Cat of wicked Nature
+  That kills at play his Fellow Creature
+  Went scot free: But his Gravity
+  An Ass of stupid Memory
+  Confess'd, that, going to _Sturbridge_-Fair
+  His Back most broke with Wooden-ware,
+  He chanc'd half starv'd, and faint, to pass
+  By a Church-yard with exc'lent Grass,
+  They had forgot to shut the Gate,
+  He ventur'd in, stoop'd down and ate.
+  Hold, cries Judge Wolf, no more, for Crimes
+  As these, deserve such fatal Times.
+  By several Acts of Parliament
+  'Tis Sacriledge, they all consent;
+  And thus the silly virtuous Ass
+  Was Sacrifis'd for eating Grass.
+
+
+  The Moral.
+
+  _The Fable shews you poor Folk's fate
+  Whilst Laws can never reach the Great._
+
+
+
+
+_The Grasshopper and Ant._
+
+
+  A Merry Grasshopper, that sung
+  And tun'd it all the Summer long,
+  Fed on small Flies, and had no Reason
+  To have sad thoughts the gentler Season;
+  For when 'twas hot the Wind at South,
+  The Victuals flew into his Mouth:
+  But when the Winters cold came on,
+  He found he was as much undone,
+  As any Insect under Heav'n;
+  And now the hungry Songster's driv'n
+  To such a state, no Man can know it,
+  But a Musician or a Poet,
+  He makes a Visit to an Ant,
+  Desires he would relieve his want;
+  I come not in a begging way,                        }
+  Says he, No Sir, name but a day                     }
+  In _July_ next, and I'll repay,                     }
+  Your Interest and your Principal
+  Shall both be ready at a Call.
+  The thrifty Ant says truly Neighbour,
+  I get my Living by hard Labour;
+  But you, that in this Storm came hither,
+  What have you done when 'twas fair Weather?
+  I've sung, replies the Grasshopper;
+  Sung! says the Ant, your Servant, Sir;
+  If you have sung away the best
+  Of all the Year, go dance the rest.
+
+
+
+
+_The Milk Woman._
+
+
+  A Straping Dame, a going to Town
+  To sell her Milk with thin Stuff Gown,
+  And Coats tuck'd up fit for a Race,
+  Marches along a swinging Pace:
+  And in her Thoughts already counts
+  The Price to which her Milk amounts;
+  She fancies all is sold, and lays
+  The Money out a hundred ways;
+  At last she's fix'd, and thinks it plain,
+  That Eggs would bring the surest Gain:
+  She buys a hundred, which she reckons
+  Will four Weeks hence be six Score Chickens.
+  Such mighty care she takes to rear 'em,
+  No Fox or Kite can e'er come near 'em,
+  The finest Hens are kept for Eggs;
+  The others sold to buy some Piggs;
+  To whom a little Bran she gives
+  With Turnep-tops and Cabbage leaves;
+  And tho' they get no Pease to speak on,
+  Yet in short time they're sold for Bacon.
+  O! how the Money pleas'd her Thought
+  For which a Cow and Calf are bought;
+  She'll have 'em on the Common kept,
+  There see 'em jump, at that she leapt
+  For joy; down comes the Pail, and now
+  Good Night t'ye Chickens, Calf and Cow,
+  Eggs, Bacon; all her busy care,
+  With them are dwindled into Air.
+  She looks with Sorrow on the Ground,
+  And Milk, in which her Fortune's drown'd:
+  Then carries home the doleful News,
+  And strives to make the best Excuse:
+  Her Husband greets her with a Curse,
+  And well it was she far'd no worse.
+  The Hermit, and the Man of Fame,
+  _Pompeus_, and our Country Dame,
+  The wisest Judge, and my Lord May'r,
+  They all build Castles in the Air:
+  And all a secret Pleasure take
+  In dreaming whilst they are awake:
+  Pleas'd with our Fancies we possess
+  Friends, Honour, Women, Palaces.
+  When I'm alone I dare defy
+  Mankind for Wit and Bravery.
+  I beat the _French_ in half an Hour,
+  Get all their Cities in my Power.
+  Sometimes I'm pleas'd to be a King,
+  That has success in every thing,
+  And just when all the World's my own,
+  Comes one to dun me for a Crown;
+  And presently I am the poor,
+  And idle Dunce I was before.
+
+
+
+
+_The Cock, the Cat, and the young Mouse._
+
+
+  A Mouse of no Experience
+  Was almost nabb'd for want of Sence.
+  Hear how the silly young one told
+  Her strange Adventure to the old.
+  I cross'd the Limits of our State,
+  And ran as swift as any Rat;
+  When suddenly I spy'd two Creatures
+  Of very different Form and Features.
+  The one look'd smiling, milde, and Civil,
+  The other was a very Devil;
+  He look'd so fierce, made such a rout,
+  Then tore the Ground, then turn'd about;
+  He ne'er stood still, upon his Head
+  He wore a piece of Flesh that's red;
+  A bunch of Tails with green and black
+  Stood staring higher than his back.
+  And thus describes the simple Mouse
+  A Cock he had seen behind the House,
+  As had it been some Beast of Prey
+  Brought over from _America_.
+  With insolence, says he, he strides,
+  And beats with his broad Arms his sides;
+  Then lifts his shrill and frightful Voice,
+  And made so terrible a Noise,
+  That tho' I can assure you, Mother,
+  I've as much Courage as another,
+  I trembled, and as I am here,
+  Was forc'd to fly away for fear.
+  I curs'd the Bully in my thought;
+  For 'twas that strutting Ruffi'n's Fault;
+  Or else that other Beast and I
+  Had been acquainted presently.
+  He sat so quiet with such Grace,
+  So much good Nature in his Face,
+  He's furr'd like we, and on his Back
+  So purely streak'd with gray and black;
+  He has a long Tail, shining Eye,
+  Yet is all over Modesty.
+  I believe he is a near Relation
+  To our Allies the Rattish Nation:
+  His Ears and Whiskers are the same
+  With ours, I would have ask'd his Name,
+  When with his harsh and horrid sound
+  The other made me quit my Ground.
+  Replies the Mother, well 'scap'd Son,
+  You have been very near undone;
+  That formal Piece of Modesty,
+  That Mirror of Hypocrisy,
+  Was a damn'd Cat of wicked Fame;
+  My Heart akes at the very Name,
+  The everlasting Foe to Mouse,
+  Death and Destruction to our House.
+  Whereas that other Animal
+  Ne'er did us hurt, nor never will;
+  But may, when he is dead and gone,
+  Serve us one Day to dine upon.
+  Then prithee son, whate'er you do,
+  Take special Care of him, whom you
+  For such an humble Creature took,
+  And judge not People by their Look.
+
+
+
+
+_The Cock and  Pearl._
+
+
+  A Cock, not very nicely fed,
+  A Dunghill raker by his Trade,
+  Whilst scraping in the dirt, had found
+  A Pearl worth Five and Twenty Pound:
+  He goes hard by t' a Jeweller,
+  And like a silly Dog, says Sir,
+  In yonder Rubbish lay a bit
+  Of something that in't good to eat,
+  If you think it will serve your turn,
+  I'll change it for a grain of Corn.
+  Nay sometimes Men will do as bad,
+  I've known a foolish Heir, that had
+  A Manuscript of Wit and Labour,
+  Say to a Bookseller his Neighbour,
+  I've got some Sheets my Uncle writ,
+  They say he was a Man of Wit,
+  But Books are things I don't much matter,
+  A Crown would do my Business better.
+
+
+
+
+_The Lyon's Court._
+
+
+  It happen'd that some Years ago,
+  The Lyon had a Mind to know,
+  What beastly Nations up and down
+  Belong'd to his Imperial Crown:
+  And therefore in his Princely care
+  Sends word by Letters every where,
+  That he would keep an open Court,
+  Grace it with every Royal Sport;
+  And so invites 'em to his Palace,
+  A Cave that stunk worse than the Gallows.
+  The Bear snorts at it, snuffles, blows,
+  Draws hundred Wrinkles in his Nose.
+  What need the Fool to have made such Faces?
+  The Lyon frown'd at his Grimaces,
+  And for the Niceness of his Smell
+  My Gentleman is sent to Hell.
+  The Monky fam'd for flattery
+  Extalls this Action to the Sky,
+  Then prais'd the King's majestick Face,
+  The stately building of the Place,
+  The Smell, whose Fragrancy so far
+  Exceeds all other Scents that are,
+  That there's no Amber, said the Sot,
+  But what's a house of Office to't.
+  This gross insipid stuff the Prince                 }
+  Dislikes and calls it Impudence,                    }
+  To speak so contrary to Sence.                      }
+  And as the one was thought too free,
+  So th' other dy'd for Flattery.
+  This Lyon had the reputation
+  To be _Caligula's_ Relation.
+  The Fox being near; the peevish King
+  Ask'd his Opinion of the thing.
+  Tell me what smell it is, be bold,
+  Sir, says the Fox, I've got a Cold.
+  If you would have your Answers please
+  Great Men make use of such as these.
+  Bluntness and bare-faced Flattery
+  Can never with the Court agree.
+
+
+
+
+_The Drunkard and his Wife._
+
+
+  Man is so obstinate a Creature
+  No Remedy can change his Nature.
+  Fear, Shame, all ineffectual prove
+  To cure us from the Vice we love.
+  A Drunkard, that had spent his Wealth,
+  And by the Wine impar'd his Health,
+  One Night was very Drunk brought home;
+  His Wife conveys him to a Tomb;
+  Undresses him from Head to Feet,
+  And wraps him in a Winding-sheet:
+  He wakes, and finds he's not a Bed,
+  All over dress'd like one that's dead:
+  Besides, she counterfeits her Voice,
+  With Torch in hand, and grunting Noise,
+  Looks frightful in a strange Array,
+  To pass for Dame _Ctesiphone_.
+  And every thing is done so well,
+  He thinks he's fairly gone to Hell;
+  And satisfy'd it was his Merit,
+  He says to his dissembling Spirit,
+  Who are you in the Name of Evil?
+  She answers hoarsely I'm a Devil,
+  That carries Victuals to the Damn'd,
+  By me they are with Brimstone cramm'd.
+  What, says the Husband, do you think
+  Never to bring them any Drink?
+
+
+
+
+_The Carp._
+
+
+  A Handsome Carp genteely bred,
+  In fresh and running Water fed,
+  Puff'd up with Pride and Vanity,
+  Forsook the _Thames_ and went to Sea;
+  Thro' Shrimps and Prawns he cuts his way,
+  Sees Cods and Haddocks frisk and play;
+  He ask'd some questions, but in vain,
+  All spoke the Language of the Main;
+  He frets he can't be understood,
+  When, at the latter end of Flood,
+  Two Herrings vers'd in Languages
+  Were talking about Business;
+  Carp heard 'em, as he swum along,
+  Discoursing in his River Tongue,
+  And made a stop, they did the same,
+  One of the Herrings ask'd his Name,
+  And whence he came; the Traveller
+  Reply'd, I am a Stranger, Sir,
+  Come for my Pleasure to these Parts
+  To learn your Manners and your Arts:
+  Then Herring asks what News of late?
+  Which are your Ministers of State?
+  Indeed, said Carp, he could not tell,
+  Nor did much care, quoth Herring well
+  What Laws, what Form of Government?
+  Are Taxes rais'd, without consent
+  Of Parliament? what Courts of? Pish,
+  Says th' other, I'm a gentle Fish,
+  And we know nothing of those Matters;
+  Quoth Herring, I'm no Fish that flatters,
+  I find you've neither seen nor read,
+  And wonder you should break your Head,
+  With what's in other Countries done,
+  That knows so little of your own.
+  At this the haughty Fool takes snuff,
+  Turns from 'em in a mighty huff;
+  And whilst he slides and flourishes
+  He meets a Country Fish of his,
+  One us'd to Sea, a subtle Spark,
+  A Pike that serv'd his time t' a Shark;
+  Who leads him into Company
+  Of Riot and Debauchery;
+  The scandalous Gang in little time
+  Infect him with the Salt, and Slime:
+  They robb'd his Row, till scurvily
+  At last he's forc'd to leave the Sea.
+  His Scales begin to drop by scores,
+  And all his Body's full of Sores.
+  Half of his Tail, and Snout are gone,
+  And he, lean, shabby and undone,
+  Sneaks home as vain and ignorant,
+  As e'er he was before he went.
+
+
+  The Moral.
+
+  _Some Fops that visit_ France _and_ Rome,
+  _Before they know what's done at home,
+  Look like our Carp when come again.
+  Strange Countries may improve a Man,
+  That knew the World before he went;
+  But he, that sets out ignorant,
+  Whom only Vanity intices,
+  Brings Nothing from 'em, but their Vices._
+
+
+
+
+_The Nightingale and Owl._
+
+
+  The Bird of _Jove_, who was all Day,
+  As much intent upon his Prey,
+  As any Prince in Christendom,
+  Was not well pleased, that coming home,
+  He always found his Folks a Bed,
+  (Sure Courtiers should be better bred.)
+  For, as Crown'd Heads have much to think,
+  Some Nights he could not sleep a wink;
+  And thought it hard to have ne'er a Bird
+  In all his Court could speak a Word,
+  Or snuff a Candle, hundred things,
+  That are of use to waking Kings.
+  Some Birds strove hard, did what they could;
+  Yet when 't grew dark, slept as they stood.
+  Others pretended that they watch'd,
+  And swore and ly'd till they were catch'd.
+  The King would not be put upon:
+  Asks all his Court what's to be done?
+  One talks no wiser than a Horse,
+  Another makes it ten times worse,
+  The Ostrich said, It's plain to me,
+  We sleep because we cannot see;
+  Ask _Jupiter_, he can't deny't,
+  To let it when 'tis dark be light----
+  At that all stopt his Speech a laughing,
+  Except the King, who fell a coughing.
+  Says one more learned than the rest,
+  I'm for a Crane with stone in Fist;
+  If he should sleep it must be known,
+  For presently he'll drop the stone.
+  But as the Watchmen were to be
+  In the upper Garret of the Tree,
+  The King  for weighty Reasons said,
+  He'd have no Stones held o'er his Head,
+  Then cries the Swan, and he was right,
+  If one pretends to watch all Night.
+  He cannot do a better thing,
+  To make us believe it than to sing.
+  His Majesty approves of it,
+  And Letters presently are writ;
+  By which the Airy Prince invites
+  All Birds to Court, that sung a Nights;
+  But most of 'em look on the same
+  As things of no concern to them.
+  Yet some that had Ambition
+  Would very willingly have gone,
+  But since they could not watch in short,
+  And might perhaps be punish'd for't,
+  At best they could propose no Gains.
+  But t' have their Labour for their Pains.
+  Only the Nightingale, whose Art
+  Man knows, had fill'd his little Heart
+  With so much Joy, he's more than glad,
+  And almost ready to run mad;
+  Calls on all Birds and shakes his Wings,
+  Tells them how every Night he sings;
+  (A thing, which they knew nothing of,
+  For by that time they're fast enough.)
+  Says he it hits so luckily,
+  As if it was contriv'd for me,
+  What cause to doubt of being chose,
+  When there's not one that can oppose.
+  His Friend the Black-bird says, if so,              }
+  Make haste to Court;  why don't you go?             }
+  The haughty Bird cries truly No,                    }
+  Glory's a thing I never went for,
+  Nor shall go now unless I am sent for.
+  At last the King by Mistress Fame,
+  'S acquainted with his Skill and Name,
+  And hearing of his Stateliness
+  Sends half a dozen Deputies;
+  Who, when they're come, are forced to wait:
+  The Bird makes every thing look great;
+  He humbly thanks his Majesty;
+  But could not leave his Family.
+  They still persuade and press him hard,
+  He need not doubt of a great Reward.
+  And as the Nightingale delays,
+  And banters 'em for several Days;
+  A Magpye in the Field at play
+  Heard how he made the Courtiers stay,
+  Goes home and there relates the Story,
+  The Message, and the Bird's Vain glory,
+  T' an Owl, who from his Infancy
+  Had liv'd in the same Family;
+  And adds, why don't you take a Flight?
+  I've often heard you sing at Night;
+  When wak'd by our unlucky Boys.
+  Says the Owl, I know I have no Voice
+  As well as you: But if you hear me,
+  Young Jackanaps you need not jeer me.
+  By _George_, says Mag, I'm not in jest,
+  What though the Nightingale sings best,
+  He is so proud, takes so much state,
+  A thing I know all Princes hate,
+  That if y'are there before the other,
+  Who wants such Courtship, keeps such pother,
+  I don't know but your solemn Face,
+  And modest Mein may get the place.
+  I'll go my self for Company:                        }
+  And Mag discoursed so winingly,                     }
+  The Match is made away they fly.                    }
+  The King by this time thought it long
+  To stay for a Nocturnal Song
+  When Master Magpy, and his Friend,
+  Were just come to their Journy's end.
+  They told their Business modestly,
+  And are lodg'd on the Royal Tree.
+  The Owl sets up his Note at Night,
+  At which the Eagle laugh'd out right,
+  Then went to sleep and two Hours after
+  He wak'd, and wanted to make Water.
+  Call'd to his Watch, who presently
+  Jump'd in, and cry'd Sir, Here am I.
+  So, tho his Owlship could not sing,
+  His watchfulness had pleas'd the King.
+  Next day arrives the Nightingale,
+  With his Attendance at his Tail.
+  His Majesty would by no Means                       }
+  Admit him to an Audience;                           }
+  But sends a stately Bird of Sence,                  }
+  Who thus accosted him. Signior,
+  Whom we so long have waited for;
+  Since Yesterday a Bird came hither,
+  As grave as ever wore a Feather,
+  Who without promise of Reward
+  Last Night has serv'd upon the Guard,
+  With him to Morrow Night the King
+  Has order'd you to watch and sing,
+  Says Nightingale, what do I care
+  For Orders? I am free, and swear
+  My Master-lays shall mix with none,
+  They make a Consort of their own:
+  But who has so much vanity,
+  That dares pretend to sing with me?
+  And hearing twas th' _Athenian_ Bird,
+  He star'd and cou'd not speak a Word,
+  Grew pale, and swell'd, his Wind came short,
+  And Anger overwhelm'd his Heart.
+  He foams at Mouth, and raves, and blusters,
+  And utters all his Words in Clusters.
+  A King! a Devil, stupid Fowl,
+  That can compare me to an Owl!
+  Pray says the Courtier, have a Care,
+  Consider in what place you are;
+  But, as the Fool would hear no Reason,
+  He went, and left him sputt'ring Treason,
+  Then told what happen'd to the King,
+  Who said he'd never hear him sing;
+  The Owl should be kept in his Place,
+  And th' other punish'd with Disgrace;
+  He wisely weigh'd one's Complaisance
+  Against the other's Insolence,
+  Oppos'd the Humble to the Rude,
+  And thought the one might do more Good,
+  With Loyalty and Diligence,
+  Than th' other with his Skill and Sence.
+  The Nightingale is kick'd from Court
+  And serv'd the little Birds for sport;
+  Till full of Shame and Grief he went,
+  And curs'd the King and Government.
+
+
+  The Moral.
+
+  _Princes can never satisfy
+  That Worth that rates itself too high.
+  What Pity it is! some Men of Parts
+  Should have such haughty stubborn Hearts:
+  When once they are courted they grow vain:
+  Ambitious Souls cannot contain
+  Their Joy, which when they strive to hide,
+  They cover it with so much Pride,
+  So Saucy to Superiors,
+  Impatient of Competitors,
+  Th' are utterly untractable,
+  And put off like our Nightingale.
+  Many with him might have been great,
+  Promoted Friends, and serv'd the State,
+  That have beheld, with too much Joy,
+  The wish'd for Opportunity;
+  Then slipt it by their own Delays,
+  Sloth, Pride, or other willful Ways,
+  And ever after strove in vain
+  To see the Forelock once again._
+
+
+
+
+_Council held by the Rats._
+
+
+  A Cat, whose Sirname pretty hard was,
+  One Captain _Felis Rodilardus_
+  Had made so terrible a slaughter
+  Among the Rats; that little after
+  There's hardly one to shew his head,
+  Most part of 'em were maim'd or dead.
+  The few that yet had 'scap'd the Grave,
+  Liv'd in a subterranean Cave,
+  Where they sat thinking mighty dull,
+  With Bellies less than quarter full,
+  Not daring to stir out for fear
+  Of _Rodilard_, who's ev'ry where.
+  They tried a hundred ways to sun him:
+  But finding they could never shun him,
+  The Wretches look upon him, that
+  He's more a Devil than a Cat.
+  Once, when our am'rous Spark was gone
+  A hunting Wenches up and down,
+  The poor remainder to improve
+  The time their Enemy made love,
+  Assembl'd, and employ'd their Cares
+  About the straits of their Affairs.
+  Their President, a Man of Sence,
+  Told 'em, by long experience;
+  I know, the Captain used to come
+  In Ambush without beat of Drum.
+  Methinks, that if we could but hear him
+  We need not half so much to fear him:
+  And therefore, th' only way's to take
+  A Bell, and tie't about his Neck;
+  And then let him be ne'er so arch
+  He'll advertise us of his march.
+  His Council took, and every one                     }
+  Was of the same Opinion;                            }
+  Sure nothing better could be done.                  }
+  But pray, says one, who is to tie it;
+  For I desire not to be nigh it.
+  How! cries another, tie the Bell,
+  I dare draw all his Teeth as well.
+  A third, a fourth, all say the same,
+  And so they parted as they came.
+
+
+  The Moral.
+
+  _Thus Cits advise what's to be done,
+  This way they should attack the Town;
+  Now here, then there, why don't they come?
+  So, often in a Coffee-room,
+  Where prudently they rule the Nation,
+  I've heard some Men of Reputation
+  Propose things which they dare as well
+  Perform, as Rats to tie the Bell._
+
+
+
+
+_The Bat and the two Weasels._
+
+
+  A Purblind Bat a heedless Beast
+  Ran headlong into a Weasel's Nest,
+  Who big with Child, and Passionate,
+  Had long since bore a mortal hate
+  To Mice; she rises, takes a Knife,
+  Runs to 'm resolv'd to have his Life,
+  And says: What Rascal in my House!
+  O impudence! a'nt you a Mouse?
+  Confess: Yes, I am sure you are,
+  Or I'm no Weasel: Have a Care,
+  No Names, good Lady, says the Bat,
+  No more a Mouse, than you a Rat.
+  What, I a Mouse? I scorn the Word;
+  And thank the Gods that made m' a Bird;
+  Witness my Wings, they're proof enough;
+  Long live the Birds, and so came off.
+  Some two Days after giddy brain
+  By a mischance, intrudes again
+  T' another Weasel's, who hates Birds,
+  She lets him enter, made no Words;
+  But fairly caught him by his Crupper,
+  And went to cranch him for her Supper.
+  In quality of Bird, says he,
+  Madam, this is an Injury,
+  Damn all the Birds, I do Protest
+  You wrong me: Sure y'are but in jest,
+  What reason I should pass for one?
+  All Birds have Feathers, I have none.
+  I am a Mouse long live the Rats,
+  And _Jupiter_ confound the Cats.
+
+
+  The Moral.
+
+  _The Trimmer that will side with none,
+  Is forc'd to side with ev'ry one;
+  And with his Comp'ny change his story,
+  Long live the Whig, long live the Tory._
+
+
+
+
+_The two Bitches._
+
+
+  A Bitch, who hardly had a day
+  To reckon, knew not where to lay
+  Her Burthen down: She had no Bed;
+  Nor any Roof to hide her Head;
+  Desires a Bitch of the same Pack,
+  To let her have, for Heaven's sake,
+  Her House against her Lying-in.
+  Th' other, who thought it was a Sin,
+  To baulk a Wretch so near her Labour,
+  Says, Yes, 'tis at your Service, Neighbour.
+  She stays the Month out, and above,
+  And then desires her to remove:
+  But th' other tells her, there's yet none
+  Of all my Whelps can walk alone,
+  Have patience but one Fortnight longer.
+  I hope by that time they'll be stronger.
+  She grants it, and when that's about,
+  Again she asks her to turn out;
+  Resign her Chamber, and her Bed:
+  The other shew'd her Teeth, and said,
+  My Children now are strong enough,
+  Some of 'em able to stand buff.
+  W' are free to go, but don't mistake us,
+  That is to say, if you can make us.
+
+
+  The Moral.
+
+  _Whoever lets the Wicked in
+  Shall hardly get them out again;
+  What they can keep, they'll ne'er restore,
+  And by fair Means you'll have no more
+  Returns from them, than from the Grave,
+  Therefore he that will lend a Knave,
+  Must be resolv'd on Law and Force;
+  If not, he'll bid you take your Course._
+
+
+
+
+_The Sick Lyon and the Fox._
+
+
+  The King of Brutes sent all about,
+  He was afflicted with the Gout;
+  And orders ev'ry Species
+  To visit him by Embassies.
+  To see his Subject Beasts would be
+  Some Comfort to him in his Misery:
+  He swears them faithfully, they shall
+  Be lodg'd, and treated very well.
+  Then for a Safeguard, sends forsooth,
+  Passes against his Claw and Tooth.
+  His Vassals in obedience come,                      }
+  And ev'ry Species sends him some.                   }
+  Only the Foxes stay at home;                        }
+  Their Reason was, they saw the Print
+  Of ev'ry beastly Foot, that went:
+  But found no Marks, by which, 'twas plain,
+  That any e'er came back again:
+  And truly that's suspicious,
+  Says one, poor Folks are timerous.
+  We know the King would not abuse us;
+  But yet desire him to excuse us.
+  As for his Pass we thank him for't,
+  And believe 'tis good. But in his Court
+  We know, which way we may go in,
+  But not, which to come back again.
+
+
+  The Moral.
+
+  _Wise Men sometimes Instruction find
+  In that, which others never mind;
+  Examining the least of things,
+  By Deeds, not Words, they judge of Kings;
+  And never venture on that Coast,
+  Where once they knew another lost._
+
+
+
+
+_The Satyr and the Passenger._
+
+
+  A Satyr at his Country House,
+  A dismal Cave, was with his Spouse,
+  And Brats a going to eat some Broth:
+  Without a Chair, or Table-Cloath,
+  On mossy ground they squatted down,
+  With special Stomachs of their own.
+  And just as they fell to a main,
+  Comes one to shelter for the Rain:
+  The Guest's invited to sit down,
+  Tho' in the mean time they went on.
+  He shiver'd, look'd as cold as Death,
+  And warm'd his Fingers with his Breath,
+  Says ne'er a Word, takes good Advice,
+  And stays not till they ask him twice,
+  Falls to the Porridge, takes a sup;
+  But being newly taken up,
+  'Twas hot, he blows it. Says the Satyr,
+  Whose Palate could bear scalding-water,
+  Friend, what the Devil are you a doing?
+  What do you mean by all this blowing?
+  The Stranger answers, I did blow
+  At first to warm my hands, and now
+  I blow again to cool my Broth.
+  How, says my Landlord, does it both!
+  Than y'are not like to stay with me,
+  I hate such juggling Company.
+  What! Out of the same Mouth to blow
+  Both hot and cold! Friend, prithee go.
+  I thank the Gods my Roof contains
+  None such as you. The Fable means.
+
+
+  The Moral.
+
+  _None are more like to do us wrong;
+  Than those that wear a double Tongue._
+
+
+
+
+_The Lyon in Love._
+
+
+  Before the Reign of Buxom _Dido_,
+  When Beasts could speak as well as I do;
+  Lyons and we convers'd together,
+  And marry'd among one another.
+  Nay, why not? they have more bravery,
+  And are of the eldest Family.
+  One of 'em walking in a Grove,
+  Met with a Wench, and fell in Love.
+  Says he, dear Girl, upon my Life,
+  Y'are handsome, and must be my Wife.
+  Then sees her Home, and asks her Father,
+  Th' old Gentleman would have had rather
+  A Son-in-Law of milder Nature,
+  And not so terrible a Feature;
+  He could not give her heartily,
+  And yet 'twas dangerous to deny.
+  Besides she lov'd a fierce Gallant,
+  Says he, they have ask'd my Consent;
+  If now I make a Noise about it,
+  Who knows but they may do't without it.
+  Therefore he us'd a Stratagem
+  With honey-words to wheedle him.
+  My Daughter thanks you, Sir, for the honour,
+  Which you are pleas'd to bestow upon her.
+  To talk of Joyntures would be rude;
+  I know what's for my Children's good.
+  She's wholly yours, and from this hour,
+  Son, I resign her to your power.
+  I only wish, because your Bride
+  Has but a foolish tender Hide,
+  That when you take her in your Arm,
+  For fear your Claws might do her harm,
+  You'd suffer somebody to pare 'em;
+  And then your Spouse need not to fear 'em.
+  Your Teeth indeed look fine and strong;
+  But yet th'are somewhat sharp and long;
+  If y'had 'em filed an Inch or two,
+  'T would be no prejudice to you,
+  And she'd respect you ne'er the less,
+  Admire the softness of your kiss,
+  And be more free with you a Bed.
+  So senceless is a Lover's head:
+  The Lyon yields, and stupidly
+  Lets 'em disarm him _Cap-a-pe_.
+  And so the loving Son-in-Law,
+  Remaining without Tooth or Claw,
+  Look'd as defenceless as a Town
+  With all the Walls and Gates broke down,
+  With Dogs his complaisance they pay,
+  To whom he falls an easy Prey.
+
+
+  The Moral.
+
+  _Where Love his Tyrany Commences;
+  There, farewell Prudence, farewell Sences._
+
+
+
+
+_The Angler and the little Carp._
+
+
+  That little Fishes may be greater,
+  And that, the larger th' are the better
+  I know; but then, to let em swim,
+  And all the while to stay for 'em;
+  Since catching so uncertain is,
+  I think's a foolish Business.
+  An Angler patiently a fishing
+  Employ'd with looking on, and wishing,
+  Catches at last a little Carp
+  That's very poor; but being sharp
+  He thought 'twas something to begin,
+  Opens his pouch to put him in.
+  But cries the Prisoner pitiously
+  Alas, what would you do with me!
+  Let me grow bigger, throw me in.
+  Some two Year hence you'll catch m' again;
+  I'll stay for you, for you may be sure;
+  Then sell me to some Epicure,
+  But now I'm such a silly Fish,
+  A hundred would not make a Dish;
+  And if they should, when all is done,
+  There would be only Skin and Bone.
+  Says the Angler I've a Mind to try you,
+  And if y' an't fit to Stew, I'll Fry you.
+  Leave preaching till anon, and then
+  Discourse your Mattets to the Pan.
+
+
+  The Moral.
+
+  I _Chuse_ One is _for_ two May be's,
+  _One sure for Ten_ Uncertainties.
+
+
+
+
+_The Wolves and the Sheep._
+
+
+  Between the Wolves, and Sheep, the Wars
+  Had lasted many hundred Years.
+  The Sheep could never feed in quiet;
+  But Wolves disturb'd 'em at their Diet:
+  And truly Wolf is every Day
+  By Mastiff hunted from his Prey.
+  The Shepherd often cuts his Throat,
+  And turns his Skin into a Coat.
+  But now both Parties are for ease;
+  And met to agree on terms of Peace.
+  When in Debates some time was spent,
+  On each side Hostages are sent:
+  As such both Nations were to give
+  What's valued most, the Wolves receive,
+  The Dogs, of which in Awe they stood;
+  The Sheep young Wolves of noble Blood:
+  And thus the Peace is ratify'd,
+  With Joy proclaim'd on every side.
+  But in short time the Whelps grew strong,
+  The sturdy Rogues began to long
+  For Blood, and Mischief; watch'd a day,
+  The Shepherds were not in the way,
+  Then hunt the young ones from their Dames,
+  And pick'd and cull'd the finest Lambs;
+  Kill'd and devour'd a Multitude;
+  The rest they carry'd to a Wood,
+  Where with the other Wolves they joyn,
+  Who knew before hand their design.
+  The Dogs on publick Faith secure
+  (And pray what ties could be more sure)
+  Where whilst they slept, and thought no harm,
+  Throttled before they heard th' alarm.
+
+
+  The Moral.
+
+  _Some Nations, fond of slothful Ease,
+  Trust to deluding Enemies;
+  And striving to avoid Expence,
+  Will leave themselves without defence;
+  But cunning Tyrants call 'em Friends,
+  No longer than it serves their Ends.
+  Against a mighty King that is,
+  Regardless of his Promises,
+  Proclaim an everlasting War,
+  Observe his Motions, watch with care;
+  And never hearken to Peace,
+  Proffer'd by faithless Enemies._
+
+
+
+
+_The Wasps and Bees._
+
+
+  A Troop of Wasps claims openly
+  Some Honey Combs without a Tree.
+  A Regiment of Bees declares,                        }
+  The Honey, and the Combs, were theirs,              }
+  And let him touch the Goods that dares;             }
+  They'd shew that they were Bees, and forsooth.
+  Then says the Wasps, we'll pluck a Crew for't,
+  An shall not fly for Bees, we scorn it.
+  However 'tis left to Justice Hornet,
+  Who could with all his subtle Sence
+  Make nothing of the Evidence;
+  In general they depose, 'tis true,
+  That Insects of a yellow hue,
+  With Tails containing poysonous Stings,
+  Long Body'd, buzzing with their Wings,
+  And all the Signs to paint a Bee,
+  Had been observ'd about that Tree.
+  But this could be no proof for them;
+  For in the Wasps they are the same,
+  His Lordship, for his Reputation
+  Heard a whole Ant's Nest's Information.
+  But being no wiser than before,
+  At last said he could do no more;
+  And made a learned Speech to shew 'em:
+  That this Court could say nothing to 'em:
+  It must be try'd in Chancery.
+  Up starts a pert well meaning Bee,
+  And Says, an't please your Lordship; 'tis
+  Six Months we left our Business:
+  And heard of nothing but Vacations,
+  And Writs of barbarous Appellations;
+  And all this while, you know we are,
+  My Lord, but even as we were.
+  The Honey every Day grows worse,
+  And greedy Lawyers drain our Purse.
+  Under submission we've enough
+  Of all this formal conjuring stuff.
+  I believe I can inform you better,
+  Which way you may decide the matter
+  What signifies our looking on,
+  And hearing Council pro and con?
+  Let's go to work and then you'll see,
+  Which spoke the Truth, the Wasps or we.
+  If they can make such Combs and fill
+  With Honey each sexang'lar Cell;
+  The Cause is theirs, and we'll pay Cost;
+  If not, I hope they'll yield it lost.
+  Which when the Wasps refus'd to do
+  Judge Hornet rose, and said, Oho!
+  I smoak you, Sirs, and gave the Bees
+  The Suit, with Costs and Damages.
+
+
+  The Moral.
+
+  _Thus would I have all Judges give
+  Their Judgment. With the_ Turks _I believe,
+  That common Sence to end a Cause,
+  Is worth a hundred Common Laws.
+  They lead us such a way about,
+  Raise new Disputes, make such a Rout.
+  Between the Plaintiff and Defendant;
+  That by the time they make an end on't,
+  The Suit looks like an Oyster, where
+  The Fish falls to the Lawyer's Share;
+  And if the Cause be manag'd well,
+  Each of the Clients gets a Shell._
+
+
+
+
+_The Lyon and the Gnat._
+
+
+  Away base Insect, that took Birth
+  From th' Exhalations of the Earth.
+  Thus spoke the Lyon to the Gnat;
+  Who answer'd, Bully, Think ye that
+  I'll bear Affronts? No: And declar'd
+  A War against him to his Beard;
+  And told the Hector, void of fear,
+  You'll find Sir King, how much I care
+  For all your Titles, Tooth and Claw,
+  Of which great Loobies stand in awe:
+  I'll quickly curb your haughtiness,
+  Damn'd Brute; and hardly utter'd this,
+  But sounds the Charge (he serv'd for all
+  For Trumpet and for General.)
+  He nimbly shifts from Place to Place,
+  And plays before the Lyon's Face;
+  The other snaps and strikes the Air;
+  The Gnat avoids him every where;
+  He watch'd his time, then seiz'd his Neck,
+  From thence he mov'd, and stung his Back,
+  There fasten'd, made his Kingship mad,
+  His Eyes sparkle in his Head;
+  He foams and roars, and all what's near
+  Trembles, and hides itself for fear,
+  Yet, of this general Hurrican,
+  And dire Alarm th' Occasion
+  Is, what one would suspect the least,
+  So small an Atom of a Beast.
+  With hundred rambling flights he teases
+  The Brute, and leads him where he pleases;
+  Gets up his Nostrils, laughs to see
+  With how much Rage his Enemy
+  Tore his own Flesh, and all in Blood
+  Ran raving through the affrighted Wood.
+  He still pursues, till out of Breath
+  The Lyon dropp'd, and bled to Death.
+  The merry buzzing Conqueror
+  Flies from the dismal Seat of War,
+  And as he sounded chearfully
+  The Charge, so sounds the Victory.
+  But going to proclaim his Story,
+  Puffed up and blinded with his Glory,
+  He met a Cobweb in his way,
+  And fell a silly Spider's Prey.
+
+
+  The Moral.
+
+  _So one that cross'd the Ocean o'er,
+  May smother in a Common Shore._
+
+
+
+
+_The Woodcleaver and Mercury._
+
+
+  In Ancient times, when _Jupiter_
+  Was pretty free, a Labourer,
+  That earn'd his Bread with cleaving Wood,
+  Lost with his Ax his Livelyhood.
+  'T would grieve ones Heart to hear what sad
+  And pitious moan the Fellow made:
+  He had no Tools to sell again,
+  And buy another Ax, poor Man!
+  It was his All, and what to do,
+  Or how to live he does not know,
+  And as the Tears stood in his Eyes,
+  My Ax! O my dear Ax! he cries:
+  Sweet loving _Jupiter_! restore
+  My Ax. _Olympus_ hear his roar;
+  And _Mercury_ the Post-Boy, or
+  The Flying Post (his Character
+  Suits either for he's God of Lying
+  Beardless, and fam'd for News and Flying.)
+  Came to the Labourer, and said,
+  Your Ax in't lost, cheer up, my Lad:
+  I've got it here; but can you tell
+  Which is your own? I very well,
+  Quoth he. Says _Mercury_ take hold,
+  And gives him one of Massy Gold;
+  To this, quoth th' other, I've no claim;
+  To a Silver one he said the same.
+  But when his Iron one was shewn,
+  He cries, I Faix this is mine own;
+  God bless you, Sir. And _Mercury_                   }
+  Said, to reward his Honesty,                        }
+  Th' are all your own, I give 'em ye.                }
+  The Story's quickly nois'd about;
+  The way to Riches is found out:
+  'Tis but to lose one's Ax; the Fools,
+  That had none, sold their Cloaths and Tools
+  To get one; and whate'er they cost,
+  They're bought in order to be lost.
+  The God of Thieves and Merchants, who
+  By chance had nothing else to do,
+  Came as they call'd; his Deity
+  Gave every one the choice of three:
+  The lying Rogues deny'd their own,
+  And swore they lost a Golden one:
+  But as they stoop for't, _Mercury_
+  Chops off their Heads, and there they lie.
+
+
+  The Moral.
+
+  _The Fable shews you, Honesty
+  Is always the best Policy._
+
+
+
+
+_The Hare and his Ears._
+
+
+  Some stupid horn'd Beast or other,
+  Trotting along to get some fother,
+  Had run the Lyon in his Side;
+  Who, for the future to provide
+  Against such Accidents as this,
+  Sends Writs, by which he banishes
+  From his Dominions every one,
+  That wore a Horn: And when 'twas known,
+  The Stags sneak off with Bulls and Rams,
+  The very Calves went with their Dams:
+  And, whilst they are moving every where
+  To foreign parts, a fearful Hare,
+  That saw the shadow of his Ears,
+  Was startled at the sight; and fears,
+  Some Villain might maliciously
+  Say they were Horns; What Remedy?
+  Says he, they're long, and I can't tell.
+  Well Neighbour Cricket Fare-you-well:
+  My Ears are Horns too; I'll march off;
+  They're very long, and that's enough:
+  Nay, were th' as short as Ostrich Ears,
+  It would not rid me of my fears;
+  For if they catch m' I go to Pot.
+  Foh! says the Cricket, y'are a sot.
+  Hares Horns! what Puppy calls 'em so?
+  Th' are Ears. But yet, for ought you know,
+  Replies poor Puss, they'll pass for Horns;
+  And may be Horns of Unicorns.
+  They call the Rabbet's Fore legs, Wings,
+  I hold no Argument with Kings.
+
+
+  The Moral.
+
+  _At Lyons Courts, in case of Treason,
+  I rather trust my Heels, than Reason._
+
+
+
+
+_The Rat and the Frog._
+
+
+  A Graceless Rat, in special case,
+  Kept neither Lent nor Holidays;
+  But lov'd his Gut beyond his Soul,
+  And look'd as slick as any Mole:
+  Who one day having time to spare,
+  Went to the Marshes for some Air;
+  There meets a Frog, not over fat,
+  Who says, your Servant Mr. Rat;
+  And seemingly with much good Nature,
+  Invites the Stranger o'er the Water:
+  Says he, I live in yonder Fens,
+  Go with me I'll treat you like a Prince.
+  The Rat who had a mind before
+  To ramble, need t've heard no more;
+  But yet the Frog made a whole Lecture
+  On Country Bagnios, and their Structure,
+  The Voyage, and the Recreation
+  He'd find in his amphibious Nation;
+  Their Manners, and a hundred things,
+  Of which in Winter Evenings,
+  He'd tell fine Stories ten Years after,
+  By Fire sides in Praise of Water:
+  And, since he always liv'd a Shore,
+  There's nothing could refresh him more.
+  These Reasons pleas'd his Ratship so,
+  That he was raving mad to go.
+  But as your pamper'd Folks are fearful,
+  He said, one cannot be too careful;
+  'Tis true I swim, but not like you,
+  And Cramps, or other things, you know,
+  Might happen: If I could but have
+  Some small Assistance.----Says the Knave,
+  Prithee be quiet, to prevent
+  All harm, I've an expedient,
+  That has a thousand times been tried.
+  Then took a bit of Rush and tied
+  One of the Fore feet of the Rat
+  To his Hind leg, and out they set.
+  But O thou wicked World! how evil
+  Are all our Hearts! this croaking Devil
+  Swum to the deep; where, when he got him,
+  He strove to pull him to the bottom;
+  And thought it was a lucky hit,
+  To meet with such a dainty bit;
+  Good wholesome Meat, and so went on.
+  The Rat, who felt he was undone,
+  Cry'd out, and foul'd himself for fear,             }
+  And, tho' sometimes in half a Year,                 }
+  The Varlet never said a Prayer;                     }
+  Yet (as the Proverb tells us, he
+  That cannot pray, must go to Sea.)
+  So now, with all the Sugar Words,
+  A frighted Coward's Heart affords;
+  He call'd the Gods, and coax'd the Frog;
+  But, No: That false hard-hearted Dog
+  Is deaf to all his Protestations,
+  And violates the Law of Nations.
+  One lugs and labours like a Horse,
+  Th' other resists with all his Force.
+  The Frog's for going down; the Rat,
+  If 't pleased the Gods, would rather not.
+  And, whilst they're struggling different ways,
+  A Kite, that hover'd o'er the Place,
+  Saw what our Gentry was about,
+  Would fain have seen the Battle out;
+  If 't had been safe; but being loth
+  To lose his Stomack, took 'em both:
+  And, doubly blessed beyond his wish,
+  Supp'd like a Lord, on Flesh and Fish.
+
+
+  The Moral.
+
+  _He, that's entangled in a Plot,
+  For want of Strength, is often caught:
+  And in his Practices detected
+  By Accidents, he ne'er suspected.
+  What cares a Frog for Kites, in Water?
+  But Villany rewards its Author._
+
+
+
+
+_The Cat and an old Rat._
+
+
+  I've heard, and if it be a Lie,
+  You have it e'en as cheap as I;
+  That a huge Cat of mighty Name,
+  A second _Rodilard_ for Fame,
+  The _Alexander_ of the Cats;
+  An _Attila_, a scourge to Rats,
+  Had brought such horrid devastation,
+  And Mischief on the latter Nation;
+  'Twas thought he would depopulate
+  The World, and swallow every Rat.
+  The long Tailed Gentry, far and near,
+  Are all possess'd with so much fear,
+  That there's not one in six Miles round,
+  That dares to venture above ground;
+  Their bloody minded Enemy
+  Is sorry, that they're grown so shy.
+  In vain he watch'd, and lurk'd about,
+  The De'l a bit as one came out.
+  Says he, the Scoundrels are alive,
+  I hear 'em stir, and must contrive
+  To draw 'em out; for, where they dwell,
+  I'm sure, they're uncomatable.
+  At that he gets upon a Shelf,
+  And to a String he hangs himself
+  By one Foot, dangling with his Head
+  Downward, as if he had been dead.
+  The Rats all thought, he had been taken
+  At stealing Cheese, or gnawing Bacon;
+  Perhaps he might have foul'd the Bed,
+  Murder'd a Bird; or, that he had
+  Committed any other Evil,
+  By instigation of the Devil,
+  Or his own more malicious Nature;
+  For which they'd hang'd the wicked Creature.
+  The Prisoners, who wanted Bread
+  Thank'd Heaven, and were very glad.
+  They show their Snouts, and now begin
+  To peep out and pop back again;
+  Till growing bold they leave their home,
+  And scamper up and down the Room.
+  Down comes the treacherous Malefactor,
+  Who rais'd to Life without a Doctor.
+  Fell with such rage about their House
+  Each Blow kill'd either Rat or Mouse;
+  Some made Resistance, but in vain,
+  The Ground is cover'd with the slain,
+  Such Execution did his Claw,
+  But when the cunning Warrior saw,
+  The nimble ones go off in Sholes,
+  And get within their crooked Holes,
+  He call'd to 'em, for all your haste,
+  I know, you'll come to me at last.
+  This trick you never knew before,
+  But I can shew you hundred more.
+  He'd kill'd enough to live upon
+  Some few Days; but when that was gone,
+  He kept his Word, and wheedled 'em
+  With quite another Stratagem.
+  He jump'd into a Tub of Flower,
+  And there stood powd'ring half an hour,
+  'Till thinking he was dawbd enough,
+  He walks into an open trough
+  Where lying snug as white as Snow,
+  And roul'd up like a piece of Dough,
+  He waits the Starvlings coming to'm,
+  And now and then he pick'd up some.
+  But an old Rat, who full of Scars,
+  Had lost his Tail in former Wars;
+  Standing at th' Entrance of the Cave,
+  Call'd to our Cat. You, Mr. Knave,
+  Your Hanging or your Flower won't do,
+  I know your Tricks as well as you.
+  You was a Cat, and are so still:
+  Change to what form or shape you will:
+  Nay be a Log, I wont come nigh't.
+  Says th' other, Faith he's in the right.
+  And wisely knows, distrust to be
+  The Mother of Security.
+
+
+
+
+_The Weasel and the Rat._
+
+
+  A Hungry Weasel poor and lank,
+  With wrinkled Jaws, and Taper Flank,
+  Hardly recover'd from her Weakness,
+  Occasion'd by a Fit of Sickness.
+  Met with a Granary, and stole
+  Into it thro' a little Hole.
+  She bless'd herself to see the store,
+  No Miser sure could covet more:
+  And, thinking Nobody could harm her,
+  Fell to, and fed like any Farmer.
+  At Nights she slept, and snor'd at Ease,
+  And having Peace and Quietness,
+  Four Meals a Day, a wholesome Air,
+  A dainty Diet, little Care,
+  She quickly chang'd her meagre Feature,
+  And look'd like quite another Creature.
+  The Truth is, it would be a hard Case,
+  If all this should not mend one's Carcass.
+  Once, sitting at a Dish of Wheat,
+  She heard a Noise, forsook her Meat,
+  Ran to the Hole to save her Bacon,
+  Squeez'd to get thro'; but was mistaken.
+  And as she searches all about,
+  And finds no Crevish to get out,
+  She spies a Rat, and tells him, pray
+  What must I do, I've lost my way,
+  Which is the Hole? No, says the Rat,
+  Your way is right; but y'are too Fat.
+  Stay but a Week, and fast, good Dame,               }
+  Till y'are as lean, as when you came,               }
+  And then you'll find the Hole's the same.           }
+
+
+  The Moral.
+
+  A _Man in profitable Station,
+  Grown rich by Plundering the Nation,
+  Is often willing to resign,
+  But seldom to refund the Coin_.
+
+
+
+
+_The Wolf and the Stork._
+
+
+  Wolves commonly are fam'd for Eating,
+  As much, as Foxes are for Cheating.
+  One of 'em, at a Mutton Feast,
+  Devour'd his Meat with so much haste;
+  A Bone got in his Throat, and there
+  Stuck fast; some Learned Authors swear,
+  It was the _Os Sacrum_; others say,
+  It was one of the _Vertebrae_.
+  But hang disputes; since it is all one
+  What Bone it was; so 'twas no small one.
+  There stood Sir Wolf, and full of Grief
+  Made signs he wanted quick Relief.
+  And well it was he could not Cry;
+  For no Soul would have come a nigh.
+  At last he shews it to a Stork,
+  The long-leg'd Surgeon goes to Work;
+  Takes out the Bone immediately;
+  And when 'twas done, desir'd his Fee.
+  Sure, says the Wolf, whoever draws
+  His Head out harmless from my Jaws,
+  May boast of such a Happiness,
+  As far o'erpays all Offices;
+  A thing which ne'er was done before,
+  And may be, ne'er will happen more.
+  But O Damn'd Vice Ingratitude!
+  To scape with Life, and be so rude,
+  As to ask Fees! take care young Man,
+  You never see my Face again.
+
+
+  The Moral.
+
+  _Some Folks are so mischievous grown,
+  They claim Thanks if they let y' alone._
+
+
+
+
+_The Frogs asking for a King._
+
+
+  The Frogs, after some Ages spent
+  In Democratick Government,
+  Grew weary of it, and agree,
+  To change it for a Monarchy;
+  And humbly begg'd a King of _Jove_,
+  The God comply'd, and from above
+  Dropt 'em a very peaceful one;
+  But only in the falling down,
+  He made such Noise, that all the Frogs,
+  Who are but fearful skittish Dogs
+  Were frighted and drove under Water,
+  And there remain'd a good while after,
+  Among the Weeds; their fear was such,
+  There was not one, that dar'd so much
+  As look upon him, whom they thought
+  Some Giant, or the Lord knows what.
+  Tho' all this while 'twas but a Log,
+  At last came up a daring Frog;
+  But took care, not to swim too nigh it,
+  Till, seeing it lay so very quiet,
+  He went on, tho' in mighty awe;
+  But when his Fellow Subjects saw
+  Their Bulky King did him no harm,
+  In half an Hour the Pond did swarm
+  Of Frogs. O! what a pretty thing
+  It was to play about their King:
+  The meekest that e'er wore a Crown;
+  And soon they're so familiar grown,
+  That laying all respect aside,
+  They jump upon his Back, and ride.
+  The King says nothing, keeps his Peace,
+  And let's em work him as they please.
+  But this they hate, they'd have him move.
+  A second time they call on _Jove_,
+  And tire his Brain with clam'rous rout,
+  To have a King, that stirr'd about.
+  _Jove_ mad for being plagu'd again,
+  Sends em a Damn'd devouring Crane;
+  Who only was for Kill, and Slay,
+  And eat whoe'er came in his way.
+  Much louder now the Rascals cry;
+  Deliver us from Tyranny!
+  O _Jupiter_! if he goes on,                         }
+  We shall be murder'd every one,                     }
+  This is the Devil upon dun.                         }
+  Quoth he, I'll humour Fools no more,
+  You might have kept what ye had before;
+  You left your common wealth, to seek
+  A King; and then he was too meek;
+  You must have one forsooth, that stirs:
+  I hope now you have got one, Sirs.
+  You never chang'd without a Curse,
+  Keep this, for fear you get a worse.
+
+
+  The Moral.
+
+  _Thank God, this Fable is not meant                 }
+  To_ Englishmen; _they are content,                  }
+  And hate to change their Government._               }
+
+
+
+
+_The Wolf and the Lamb._
+
+
+  It is a thing without contest,
+  That he that's strongest reasons best.
+  The Weather being sultry hot,
+  A Lamb to cool himself, was got
+  A paddling in a purling Stream.
+  (To Rhiming Fools a mighty Theme)
+  When a she Wolf (the De'l sure sent her)
+  Came down, in quest of some Adventure,
+  And hardly spy'd poor Innocence;
+  But pick'd a Quarrel void of Sence;
+  Began to sputter, Damn and Sink,
+  Ask'd how he dar'd to spoil her Drink,
+  A nasty poysoning Dog. Odsbud!
+  He'd make it all as thick as mud.
+  For which he'd punish him by _Jove_.
+  Madam, reply'd the Lamb, I love
+  To reason calmly, and will show ye,
+  That I am Twenty Yards below ye.
+  And humbly craving leave, from thence
+  I draw this reg'lar Consequence;
+  That I can't, standing in this Place,
+  Disturb the Liquor of your Grace.
+  You do, says the other, and last Year
+  You told some lies of me. I swear,
+  I was not born then, quoth the Lamb:
+  I han't left sucking of my Dam.
+  'Twas either you or else your Brother.
+  I've ne'er a one. Then 'twas your Mother,
+  Or any other near Relation;
+  For all your wicked Generation
+  Hates me; your Dogs and Shepherds too
+  And without any more a do,
+  The Lamb was carry'd to the Wood
+  And serv'd the cruel Wolf for Food.
+
+
+
+
+_The Lyon grown old._
+
+
+  A Valiant Lyon, now grown old,
+  His Limbs and Jaws benumb'd and cold,
+  Lay thinking on his Royal Bed,
+  With scarce a Tooth in all his Head:
+  And Claws worn to the Stumps with Tearing:
+  (But every thing's the worse for wearing)
+  And whilst he labour'd to repent,
+  Complaining of his Youth mispent,
+  His Rebel Subjects paid no more,
+  That Honour, which they gave before,
+  But treat him with Contempt and Scorn:
+  The Bull does push him with his Horn,
+  The Horse affronts him with his Heels:
+  No Tongue can tell what grief he feels
+  From these insulting Enemies.
+  In comes the Ass; but when he sees,
+  That Coward too forget his Duty,
+  He dying said, _Tu quoque Brute?_
+
+
+
+
+_The two Physicians._
+
+
+  Two graduate Physicians,
+  Of many Years Experience,
+  With Coaches to proclaim their Skill,
+  Are sent for to a Man that's ill.
+  One feels his Pulse and gives him over:
+  But th' other says he may recover;
+  I have great hopes, we'll give him some
+  Of my _Antithanaticum_.
+  No, cries the first, he is too weak;
+  Yes truly Sir, I'm very sick,
+  Replies the Patient; down they sate,
+  And enter'd in a deep Debate:
+  One quotes four Words of _Arabick_,
+  Th' other an Aphorism in _Greek_.
+  They're very hot, and every one
+  Sticks to his own Opinion.
+  The Upshot was, they writ a Bill,
+  Which neither lik'd of very well:
+  They visit him some Days, and vent
+  Many a learned Argument;
+  But as his Life went on full Speed,
+  He could not stay till they agreed,
+  And so march'd off; and when he's dead,
+  Both still are in the right; one said,
+  I told you so, his very Eye
+  Prognosticated he would dye:
+  And th' other cry'd, had I been believ'd,
+  I'm very sure, he would have liv'd.
+
+
+
+
+_Love and Folly._
+
+
+  The charming God, that with his Bow,
+  So many Thousand Years ago,
+  Came to that troublesome Employ,
+  He serves in still, is but a Boy:
+  His Art is so mysterious,
+  That to explain his business,
+  His Tackle, Arrows, Quiver, Taper,
+  Would take up several Reams of Paper;
+  Which being more than I've a mind
+  To fill; I'll only, since he is blind,
+  Tell you which way he lost his sight,
+  With what came on't, and so good Night.
+  Folly and Love took one another
+  Aside, as Boys will run together,
+  And crept into a Nook of Heaven,
+  To play at Seven or Eleven;
+  And here good People, Gamesters may
+  Behold what mischief comes from Play:
+  There 'rose a quarrel about the Main,
+  Its Eight says Love, and thought 'twas plain;
+  Quoth Folly, but I'm sure 'tis Nine,
+  You Little Cheat, the Game is mine:
+  At last Words growing very high,
+  Love gives his angry Foe the Lie;
+  Then up starts Folly, flings the Dice
+  At Love, and beats out both his Eyes.
+  _Venus_ would be reveng'd, bawl'd out,
+  And shed so many Tears about
+  The Peepers of her little Son,
+  That she was like to have spoil'd her own.
+  She would have Justice done, she swore,
+  Call'd Folly Rogue and Son 'f a Whore:
+  How did you do't; I'll make you dance?
+  Indeed said Folly, 'twas by chance.
+  Cry'd _Cupid_, you're a punning Cur,
+  And snobb'd. In comes the Thunderer,
+  With all the Gods and Goddesses,
+  To sit upon the Business,
+  Between Love and the Boy at Bar.
+  The Cuckold and the God of War
+  Were very hot, they'd have him dye;
+  But when _Minerva_ ask'd him, Why?
+  They said, because----Be free from rage,
+  Ye Gods, said _Themis_, mind his Age,
+  And then the Council seem'd to incline
+  To make him only pay a Fine
+  To Love. But the injur'd Mother cries,
+  That won't do, I'll have both his Eyes,
+  _Secundum legem Talionis_,
+  He shall pay _Corpore non bonis_.
+  _Apollo_ bids her to be civil.
+  T'have two blind Boys would be the Devil,
+  Said _Juno_, and this gave the hint
+  To _Jove_, t'inflinct a Punishment,
+  That might ease Love; what must he do?
+  He could not walk alone; and so
+  'Twas fixed by all the Gods above,
+  That Folly should be guide to Love.
+
+
+
+
+_A She-Goat, a Sheep and a Sow._
+
+
+  A She-Goat that gave exc'lent Milk,
+  A Sheep, whose Fleece was soft as Silk,
+  And a fat Sow went to the Fair
+  In the same Cart, not to take th' Air,
+  Or to see Shows; but, as I am told,
+  Downright in order to be sold;
+  All the way long the Sow did squawl,
+  And scream enough to deafen 'em all;
+  Had she been follow'd by six score
+  Butchers, she could have done no more:
+  The other Creatures wonder'd at her,
+  And could not dream what was the matter;
+  They thought it must proceed from fear;
+  And yet perceived no danger near;
+  The Carter told her, What d'ye mean?
+  Who gives you reason to complain?
+  Your Cries have stunn'd us; what d'ye make
+  This horrid Noise for? prithee take
+  Example by your Company,
+  Be silent or talk civilly.
+  Look on that Sheep, he thinks you're mad;
+  Has he spoke one Word good or bad?
+  No: He is wise.----The Devil he is,
+  Replies the Sow, could he but guess,
+  Whither you carry us, or why;
+  I'm sure he'd bawl as loud as I:
+  He's used to Shears, and so the Fool
+  Thinks only that you'll take his Wool;
+  And this good Lady with the Beard
+  Has no great Cause to be afear'd;
+  She's daily milk'd and does depend on't,
+  you'll drain her Dug, and there's an end on't:
+  And 't maybe so, or 't may be not:
+  But, wou'd you have me such a sot,
+  Who 'm good for nothing, whilst I've Breath,
+  To be afraid of less than Death?
+
+
+  The Moral.
+
+  _Upon my Word 'twas shrewdly said,
+  Of one that was no better bred:
+  Yes all this sad complaints and fear
+  Are for the Thing she's forced to bear:
+  And tho' she knew, she was to dye,
+  She could not change her destiny.
+  Therefore I think, where all is lost,
+  He, that sees farthest, suffers most._
+
+
+
+
+_The Dog and the Ass._
+
+
+    Help one another is, no doubt,
+    A Law we can't live well without:
+    Yet one Day, (and how't came to pass
+    I don't know) 't happen'd that an Ass,
+    Who's otherwise an honest Creature,
+    Of no uncharitable Nature,
+    Did slight it: A large Dog and he
+    Were travelling in Company,
+    Without a thought of Strife or Care,
+    Followed by him whose Goods they were;
+    And coming to some curious Grass,
+    The latter went to sleep; his Ass,
+    Who was a Lover of good Pasture,
+    Made better use on't than his Master,
+    And fell a feeding heartily:
+    But the poor Dog stood starving by,
+    And said, Much good may do thy heart,
+    Dear fellow Traveller; thou art
+    My loving Friend.--But Mr. _Gray_,
+    My Meat is in your Panier, pray,
+    Stoop down, and let me take out some,
+    I han't eat since we came from home;
+    He gets no Answer, asks again,
+    But No, th' _Arcadian_ Gentleman
+    Thought every Word a mouthful lost,
+    And would say nothing to his cost,
+    So held his Tongue a while; at last
+    He told him, Friend, I am in haste,
+    And, when I stoop my Back, it akes;
+    Have patience till your Master wakes,
+    It won't be long, and then you'll get
+    Your Belly full, if he thinks fit.
+    Just then a Wolf came from the Wood,
+    And they have Appetites as good
+    As any; Grizz'l at a distance
+    Hears him, and asks the Dog's assistance;
+    But he don't budge, and serves him right;
+    Says he, I never us'd to fight
+    Without a cause for fighting's sake;
+    Stay till your Master is awake;
+    Hear what he says, it won't be long;
+    Sir Wolf won't offer any wrong;
+    And if you fear his Teeth or Claws,
+    Knock but his Brains out, break his Jaws,
+    And lay him sprawling on the Ground;
+    You're newly Shod, and Iron bound;
+    And whilst this fine Discourse went on,
+    Poor Grizzle's business was done.
+
+
+  The Moral.
+
+  _None can live happily together,
+  Without assisting one another._
+
+
+
+
+_The Fox and Wolf._
+
+
+  The Fox went on the search one Night,
+  The Moon had hung out all her light;
+  He sees her Image in a Well;
+  But what it was he could not tell;
+  Gets on the Bricks to look at ease:
+  At last concludes it is a Cheese:
+  One Bucket's down, the other up,
+  He jumps in that which was a-top,
+  And coming to the Water, sees
+  How little Skill he had in Cheese.
+  Poor Ren, remov'd from all Acquaintance,
+  Sits in the Bucket of Repentance;
+  And when the Rascal ought to have laid
+  The fault upon himself, it's said,
+  He blam'd his Stars, tho' I b'lieve rather
+  He curst the Moon, and all fair Weather.
+  Well, there he sat, and wish'd, no doubt on't,
+  For half his Tail that he was out on't:
+  Sometimes he rav'd and talk'd like mad,             }
+  And every thing came in his Head,                   }
+  That to his purpose could be said.                  }
+  Happy are those that don't love Cheese;
+  We may go downward when we please,
+  But to come back again, _hoc opus_,
+  All tricks are vain; my only hope is,
+  That Somebody as wise as I,
+  Hits on my Whim, or else I die.
+  Two Days are past; poor Animal,
+  Sees Nobody come near the Well;
+  And now old Time had in one Place,
+  Cut a good piece of _Cynthia's_ Face;
+  For as he does all things, he eats her,
+  And takes a slice, where'er he meets her:
+  _Volpone_ spies it, and it grieved him,
+  To see that spoil'd which had deceiv'd him,
+  Thinking his case was desperate:
+  When on the third Night pretty late,
+  A Wolf who could not sleep, because
+  He felt an itching in his Jaws,
+  Look'd into it; What are you there?
+  Says Ren; pray see what I got here;
+  It is a groaning Cheese, 'twas made
+  From _Io's_ Milk, and _Faunus_ had
+  The ordering of it, 'twould have been
+  Kept for Dame _Juno's_ Lying in,
+  But she miscarry'd: I took off
+  This Corner; still there's Meat enough
+  For two or three, I thought on you,
+  Wish'd I might see you, and to shew,
+  How I esteem, love, and adore ye,
+  That Bucket's left on purpose for ye.
+  The silly Wolf believes, gets in,
+  And draws _Volpene_ up again.
+
+
+  The Moral.
+
+  _Don't blame the stupid Animal,
+  You credit things less probable;
+  And most Men easily give ear,
+  To what they either wish or fear._
+
+_FINIS._
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+_WILLIAM ANDREWS CLARK MEMORIAL LIBRARY_
+
+University of California, Los Angeles
+
+PUBLICATIONS IN PRINT
+
+
+#1948-1949#
+
+  15. John Oldmixon, _Reflections on Dr. Swift's Letter to Harley_ ...
+      (1712) and _A. Mainwaring's The British Academy_ ... (1712).
+
+  17. Nicholas Rowe, _Some Account of the Life of Mr. William
+      Shakespeare_ (1709).
+
+
+#1949-1950#
+
+  22. Samuel Johnson, _The Vanity of Human Wishes_ (1749) and two
+      _Rambler_ papers (1750).
+
+  23. John Dryden, _His Majesties Declaration Defended_ (1681).
+
+
+#1950-1951#
+
+  26. Charles Macklin, _The Man of the World_ (1792).
+
+
+#1951-1952#
+
+  31. Thomas Gray, _An Elegy Wrote in a Country Churchyard_ (1751);
+      and The Eton College Manuscript.
+
+
+#1960-1961#
+
+  85-6. Essays on the Theatre from Eighteenth-Century Periodicals.
+
+  90. Henry Needler, _Works_ (1728).
+
+
+#1961-1962#
+
+  93. John Norris, _Cursory Reflections Upon a Book Call'd, An Essay
+      Concerning Human Understanding_ (1960)
+
+  94. An. Collins, _Divine Songs and Meditacions_ (1653).
+
+  95. _An Essay on the New Species of Writing Founded by Mr. Fielding_
+      (1751).
+
+  96. Hanoverian Ballads.
+
+
+#1962-1963#
+
+  97. Myles Davies, Selections from _Athenae Britannicae_ (1716-1719).
+
+  98. _Select Hymns Taken Out of Mr. Herbert's Temple_ (1697).
+
+  99. Simon Patrick, _A Brief Account of the New Sect of Latitude Men_
+      (1662).
+
+  100. Simon Patrick, _A Brief Account of the New Sect of Latitude Men_
+      (1662).
+
+  101-2. Richard Hurd, _Letters on Chivalry and Romance_ (1762).
+
+
+#1963-1964#
+
+  103. Samuel Richardson, _Clarissa: Preface, Hints of Prefaces, and
+      Postscript_.
+
+  104. Thomas D'Urfey, _Wonders in the Sun, or, the Kingdom of the
+      Birds_ (1706).
+
+  105. Bernard Mandeville, _An Enquiry into the Causes of the Frequent
+      Executions at Tyburn_ (1725).
+
+  106. Daniel Defoe, _A Brief History of the Poor Palatine Refugees_
+      (1709).
+
+  107-8. John Oldmixon, _An Essay on Criticism_ (1728).
+
+
+#1964-1965#
+
+  109. Sir William Temple, _An Essay upon the Original and Nature of
+      Government_ (1680).
+
+  110. John Tutchin, _Selected Poems_ (1685-1700).
+
+  111. Anonymous, _Political Justice. A Poem_ (1736).
+
+  112. Robert Dodsley, _An Essay on Fable_ (1764).
+
+  113. T. R., _An Essay Concerning Critical and Curious Learning_
+      (1680).
+
+  114. Two Poems Against Pope: Leonard Welsted, _One Epistle to Mr. A.
+      Pope_ (1730); Anonymous, _The Blatant Beast_ (1740).
+
+
+
+
+William Andrews Clark Memorial Library: University of California,
+Los Angeles
+
+THE AUGUSTAN REPRINT SOCIETY
+
+  _General Editors_: Earl Miner, University of California, Los Angeles;
+    Maximillian E. Novak, University of California, Los Angeles;
+    Lawrence Clark Powell, Wm. Andrews Clark Memorial Library
+
+  _Corresponding Secretary_: Mrs. Edna C. Davis, Wm. Andrews Clark
+    Memorial Library
+
+
+The Society's purpose is to publish reprints (usually facsimile
+reproductions) of rare seventeenth and eighteenth century works. All
+income of the Society is devoted to defraying costs of publication and
+mailing.
+
+Correspondence concerning subscriptions in the United States and Canada
+should be addressed to the William Andrews Clark Memorial Library, 2205
+West Adams Boulevard, Los Angeles, California. Correspondence concerning
+editorial matters may be addressed to any of the general editors. The
+membership fee is $5.00 a year for subscribers in the United States and
+Canada and 30/- for subscribers in Great Britain and Europe. British and
+European subscribers should address B. H. Blackwell, Broad Street,
+Oxford, England. Copies of back issues in print may be obtained from the
+Corresponding Secretary.
+
+
+PUBLICATIONS FOR 1965-1966
+
+  THOMAS TRAHERNE, _Meditations on the Six Days of the Creation_ (1717).
+  Introduction by George Robert Guffey.
+
+  CHARLES MACKLIN, _The Covent Garden Theatre_ [manuscript] (1752).
+  Introduction by Jean B. Kern.
+
+  ROGER L'ESTRANGE, _Citt and Bumpkin_ (1680).
+  Introduction by B. J. Rahn.
+
+  DANIEL DEFOE and Others, Accounts of the Apparition of Mrs. Veal
+  (ca. 1705). Introduction by Manuel Schonhorn.
+
+  HENRY MORE, _Enthusiasmus Triumphatus_ (1662).
+  Introduction by M. V. DePorte.
+
+  BERNARD MANDEVILLE, _Aesop Dress'd or a Collection of Fables Writ in
+  Familiar Verse_ (1704). Introduction by John S. Shea.
+
+
+_ANNOUNCEMENT_:
+
+The Society announces a special publication, a reprint of JOHN OGILBY,
+_The Fables of Aesop Paraphras'd in Verse_ (1668), with an Introduction
+by Earl Miner. Ogilby's book is commonly thought one of the finest
+examples of seventeenth-century bookmaking and is illustrated with
+eighty-one plates. Publication is assisted by funds from the Chancellor
+of the University of California, Los Angeles. Price: to members of the
+Society, $2.50; to non-members, $4.00.
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+William Andrews Clark Memorial Library
+
+2205 WEST ADAMS BOULEVARD, LOS ANGELES, CALIFORNIA 90018
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA.
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK AESOP DRESS'D; OR, A COLLECTION OF FABLES WRIT IN FAMILIAR VERSE ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
