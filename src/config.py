@@ -39,3 +39,9 @@ NGRAM_COUNT_CONFIG = {
     "min_df": 2,
     "binary": False,
 }
+
+# Hugging Face transformer fine-tuning (see training/train_transformer.py)
+TRANSFORMER_CONFIG = {
+    "checkpoint": "distilbert-base-uncased",
+    "max_length": 256,
+}

@@ -16,6 +16,16 @@ class Tee:
         self.stdout.flush()
         self.file.flush()
 
+    def isatty(self) -> bool:
+        return bool(getattr(self.stdout, "isatty", lambda: False)())
+
+    def fileno(self) -> int:
+        return int(getattr(self.stdout, "fileno", lambda: -1)())
+
+    @property
+    def encoding(self) -> str | None:
+        return getattr(self.stdout, "encoding", None)
+
 
 def start_logging(script_name, log_dir=None):
     if log_dir is None:
