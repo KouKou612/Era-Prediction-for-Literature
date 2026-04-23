@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 class Tee:
-    def __init__(self, filepath: Path):
+    def __init__(self, filepath):
         self.file = open(filepath, "w", encoding="utf-8")
         self.stdout = sys.stdout
 
@@ -17,7 +17,7 @@ class Tee:
         self.file.flush()
 
 
-def start_logging(script_name: str, log_dir: Path | None = None) -> Path:
+def start_logging(script_name, log_dir=None):
     if log_dir is None:
         log_dir = Path(__file__).resolve().parent
 

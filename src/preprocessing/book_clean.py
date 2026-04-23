@@ -10,56 +10,16 @@ DECADE_RAW_DIR = DATASET_DIR / "decade_sample_raw"
 ERA_CLEAN_DIR = DATASET_DIR / "era_sample_clean"
 DECADE_CLEAN_DIR = DATASET_DIR / "decade_sample_clean"
 
-# Post-clean quality: drop non-prose / catalog-like texts (e.g. MIDI listings) and tiny files.
-_MIN_WORDS = 300
-_MIN_NONEMPTY_LINES_FOR_RATIO = 10
-_APPARATUS_LINE_RATIO = 0.28
+MIN_WORDS = 300
+MIN_NONEMPTY_LINES_FOR_RATIO = 10
+APPARATUS_LINE_RATIO = 0.28
 
-_RE_LINE_MIDI = re.compile(r"(?i)\.mid\b|\.midi\b|\bmidi\b")
-_RE_LINE_COPY_MARK = re.compile(
+RE_LINE_MIDI = re.compile(r"(?i)\.mid\b|\.midi\b|\bmidi\b")
+RE_LINE_COPY_MARK = re.compile(
     r"(?i)©|\(c\)\s*[, ]?\s*\d{4}|\(p\)\s*[, ]?\s*\d{4}|\ball rights reserved\b|\bcopyrighted\b",
 )
-_RE_LINE_PRODUCED = re.compile(r"(?i)^produced by\s+\S")
-_RE_LINE_SOUNDTRACK = re.compile(r"(?i)accompanying files contain|soundtrack|\.wav\b|\.mp3\b")
-
-
-def _line_looks_apparatus(ln: str) -> bool:
-    """Heuristic: line is mostly distribution / rights / non-text artifact metadata."""
-    if _RE_LINE_MIDI.search(ln):
-        return True
-    if _RE_LINE_COPY_MARK.search(ln):
-        return True
-    if _RE_LINE_PRODUCED.search(ln):
-        return True
-    if _RE_LINE_SOUNDTRACK.search(ln):
-        return True
-    return False
-
-
-def quality_skip_reason(cleaned: str) -> str | None:
-    """
-    Return a short reason to skip writing this clean file, or None to keep it.
-    Conservative: prefer keeping borderline books over dropping real literature.
-    """
-    t = cleaned.strip()
-    if not t:
-        return "empty"
-
-    words = len(t.split())
-    if words < _MIN_WORDS:
-        return f"too_few_words({words}<{_MIN_WORDS})"
-
-    lines = [ln.strip() for ln in t.splitlines() if ln.strip()]
-    n_lines = len(lines)
-    if n_lines < _MIN_NONEMPTY_LINES_FOR_RATIO:
-        return None
-
-    bad = sum(1 for ln in lines if _line_looks_apparatus(ln))
-    ratio = bad / n_lines
-    if ratio >= _APPARATUS_LINE_RATIO:
-        return f"apparatus_lines({bad}/{n_lines}={ratio:.2f}>={_APPARATUS_LINE_RATIO})"
-    return None
-
+RE_LINE_PRODUCED = re.compile(r"(?i)^produced by\s+\S")
+RE_LINE_SOUNDTRACK = re.compile(r"(?i)accompanying files contain|soundtrack|\.wav\b|\.mp3\b")
 
 START_PATTERNS = [
     r"\*\*\*\s*START OF (THE|THIS) PROJECT GUTENBERG EBOOK.*?\*\*\*",
@@ -76,18 +36,48 @@ END_PATTERNS = [
 ]
 
 
-def find_earliest_start(text: str) -> int | None:
+def quality_skip_reason(cleaned):
+    t = cleaned.strip()
+    if not t:
+        return "empty"
+
+    words = len(t.split())
+    if words < MIN_WORDS:
+        return f"too_few_words({words}<{MIN_WORDS})"
+
+    lines = [ln.strip() for ln in t.splitlines() if ln.strip()]
+    n_lines = len(lines)
+    if n_lines < MIN_NONEMPTY_LINES_FOR_RATIO:
+        return None
+
+    bad = 0
+    for ln in lines:
+        if (
+            RE_LINE_MIDI.search(ln)
+            or RE_LINE_COPY_MARK.search(ln)
+            or RE_LINE_PRODUCED.search(ln)
+            or RE_LINE_SOUNDTRACK.search(ln)
+        ):
+            bad += 1
+    ratio = bad / n_lines
+    if ratio >= APPARATUS_LINE_RATIO:
+        return f"apparatus_lines({bad}/{n_lines}={ratio:.2f}>={APPARATUS_LINE_RATIO})"
+    return None
+
+
+def clean_gutenberg_text(text):
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+
     earliest = None
     for pattern in START_PATTERNS:
-        match = re.search(pattern, text, flags=re.IGNORECASE | re.DOTALL)
-        if match:
-            pos = match.end()
+        m = re.search(pattern, text, flags=re.IGNORECASE | re.DOTALL)
+        if m:
+            pos = m.end()
             if earliest is None or pos < earliest:
                 earliest = pos
-    return earliest
+    if earliest is not None:
+        text = text[earliest:]
 
-
-def find_latest_end(text: str) -> int | None:
     latest = None
     for pattern in END_PATTERNS:
         matches = list(re.finditer(pattern, text, flags=re.IGNORECASE | re.DOTALL))
@@ -95,29 +85,15 @@ def find_latest_end(text: str) -> int | None:
             pos = matches[-1].start()
             if latest is None or pos > latest:
                 latest = pos
-    return latest
-
-
-def clean_gutenberg_text(text: str) -> str:
-    text = text.replace("\r\n", "\n").replace("\r", "\n")
-
-    start_pos = find_earliest_start(text)
-    if start_pos is not None:
-        text = text[start_pos:]
-
-    end_pos = find_latest_end(text)
-    if end_pos is not None:
-        text = text[:end_pos]
+    if latest is not None:
+        text = text[:latest]
 
     text = text.strip()
-
-    # collapse excessive blank lines
     text = re.sub(r"\n{3,}", "\n\n", text)
-
     return text
 
 
-def clean_directory(raw_dir: Path, clean_dir: Path) -> None:
+def clean_directory(raw_dir, clean_dir):
     clean_dir.mkdir(parents=True, exist_ok=True)
 
     txt_files = sorted(raw_dir.glob("*.txt"))
@@ -171,7 +147,7 @@ def clean_directory(raw_dir: Path, clean_dir: Path) -> None:
     print(f"Failed: {failed}")
 
 
-def main() -> None:
+def main():
     print("Cleaning ERA raw texts...\n")
     clean_directory(ERA_RAW_DIR, ERA_CLEAN_DIR)
 

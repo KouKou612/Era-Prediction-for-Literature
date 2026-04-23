@@ -1,5 +1,3 @@
-"""POS / syntactic feature channel only (spaCy coarse POS + scalars)."""
-
 import sys
 
 from sklearn.pipeline import Pipeline
@@ -12,44 +10,7 @@ from syntactic_features import SyntacticFeatureExtractor, spacy_model_available
 from config import RANDOM_STATE, SYNTACTIC_CONFIG
 
 
-def _syntax_extractor() -> SyntacticFeatureExtractor:
-    return SyntacticFeatureExtractor(
-        model_name=SYNTACTIC_CONFIG["spacy_model"],
-        batch_size=SYNTACTIC_CONFIG["batch_size"],
-        max_chars=SYNTACTIC_CONFIG["max_chars"],
-    )
-
-
-def build_syntax_logreg():
-    return Pipeline([
-        ("syntax", _syntax_extractor()),
-        ("scale", StandardScaler()),
-        (
-            "clf",
-            LogisticRegression(
-                max_iter=2000,
-                class_weight="balanced",
-                random_state=RANDOM_STATE,
-            ),
-        ),
-    ])
-
-
-def build_syntax_svm():
-    return Pipeline([
-        ("syntax", _syntax_extractor()),
-        ("scale", StandardScaler()),
-        (
-            "clf",
-            LinearSVC(
-                class_weight="balanced",
-                random_state=RANDOM_STATE,
-            ),
-        ),
-    ])
-
-
-def main() -> None:
+def main():
     model_name_cfg = SYNTACTIC_CONFIG["spacy_model"]
     if not spacy_model_available(model_name_cfg):
         print(
@@ -60,9 +21,48 @@ def main() -> None:
         )
         sys.exit(1)
 
-    models: list[tuple[str, object]] = [
-        ("POS / syntactic + LogisticRegression", build_syntax_logreg()),
-        ("POS / syntactic + LinearSVC", build_syntax_svm()),
+    models = [
+        (
+            "POS / syntactic + LogisticRegression",
+            Pipeline([
+                (
+                    "syntax",
+                    SyntacticFeatureExtractor(
+                        model_name=SYNTACTIC_CONFIG["spacy_model"],
+                        batch_size=SYNTACTIC_CONFIG["batch_size"],
+                    ),
+                ),
+                ("scale", StandardScaler()),
+                (
+                    "clf",
+                    LogisticRegression(
+                        max_iter=2000,
+                        class_weight="balanced",
+                        random_state=RANDOM_STATE,
+                    ),
+                ),
+            ]),
+        ),
+        (
+            "POS / syntactic + LinearSVC",
+            Pipeline([
+                (
+                    "syntax",
+                    SyntacticFeatureExtractor(
+                        model_name=SYNTACTIC_CONFIG["spacy_model"],
+                        batch_size=SYNTACTIC_CONFIG["batch_size"],
+                    ),
+                ),
+                ("scale", StandardScaler()),
+                (
+                    "clf",
+                    LinearSVC(
+                        class_weight="balanced",
+                        random_state=RANDOM_STATE,
+                    ),
+                ),
+            ]),
+        ),
     ]
     run_era_decade_suite("train_syntax_compare", models)
 

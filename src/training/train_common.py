@@ -1,13 +1,9 @@
-"""Shared train/test loop for era and decade tasks (used by train_*.py entry scripts)."""
-
-from __future__ import annotations
-
 import sys
 from pathlib import Path
 
-_SRC_DIR = Path(__file__).resolve().parent.parent
-if str(_SRC_DIR) not in sys.path:
-    sys.path.insert(0, str(_SRC_DIR))
+srcdir = Path(__file__).resolve().parent.parent
+if str(srcdir) not in sys.path:
+    sys.path.insert(0, str(srcdir))
 
 from sklearn.model_selection import train_test_split
 
@@ -24,7 +20,7 @@ from config import (
 )
 
 
-def train_and_evaluate(df, label_col: str, model, model_name: str) -> dict:
+def train_and_evaluate(df, label_col, model, model_name):
     X = df["text"]
     y = df[label_col]
 
@@ -52,27 +48,9 @@ def train_and_evaluate(df, label_col: str, model, model_name: str) -> dict:
     return metrics
 
 
-def run_models_for_task(
-    df,
-    label_col: str,
-    models: list[tuple[str, object]],
-) -> dict[str, dict]:
-    results: dict[str, dict] = {}
-    for model_name, model in models:
-        metrics = train_and_evaluate(df, label_col, model, model_name)
-        results[model_name] = metrics
-        print("\n" + "-" * 60 + "\n")
-    return results
-
-
-def run_era_decade_suite(
-    log_stem: str,
-    models: list[tuple[str, object]],
-    *,
-    text_prefix_chars: int | None = None,
-) -> None:
-    _training_dir = Path(__file__).resolve().parent
-    start_logging(log_stem, log_dir=_training_dir)
+def run_era_decade_suite(log_stem, models, text_prefix_chars=None):
+    training_dir = Path(__file__).resolve().parent
+    start_logging(log_stem, log_dir=training_dir)
 
     random_chunk = TRAIN_CONFIG.get("random_chunk_chars")
     chunk_seed = TRAIN_CONFIG.get("chunk_random_state", RANDOM_STATE)
@@ -116,8 +94,12 @@ def run_era_decade_suite(
             "era",
             max_words=max_words,
         )
+
     print("\nRunning ERA models...\n")
-    era_results = run_models_for_task(era_df, "era", models)
+    era_results = {}
+    for model_name, model in models:
+        era_results[model_name] = train_and_evaluate(era_df, "era", model, model_name)
+        print("\n" + "-" * 60 + "\n")
 
     print("\n" + "=" * 80 + "\n")
 
@@ -153,8 +135,12 @@ def run_era_decade_suite(
             "decade",
             max_words=max_words,
         )
+
     print("\nRunning DECADE models...\n")
-    decade_results = run_models_for_task(decade_df, "decade", models)
+    decade_results = {}
+    for model_name, model in models:
+        decade_results[model_name] = train_and_evaluate(decade_df, "decade", model, model_name)
+        print("\n" + "-" * 60 + "\n")
 
     print("\n" + "=" * 80)
     print("FINAL SUMMARY")

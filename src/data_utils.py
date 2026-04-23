@@ -4,15 +4,7 @@ import numpy as np
 import pandas as pd
 
 
-def load_dataset(
-    csv_path: Path,
-    text_dir: Path,
-    label_col: str,
-    max_words: int | None = 10000,
-    prefix_chars: int | None = None,
-    random_chunk_chars: int | None = None,
-    random_state: int | None = None,
-) -> pd.DataFrame:
+def load_dataset(csv_path, text_dir, label_col, max_words=10000, prefix_chars=None, random_chunk_chars=None, random_state=None):
     df = pd.read_csv(csv_path).copy()
 
     required_cols = {"gutenberg_id", label_col}
@@ -26,11 +18,7 @@ def load_dataset(
     if random_chunk_chars is not None and prefix_chars is not None:
         raise ValueError("Use only one of prefix_chars or random_chunk_chars.")
 
-    rng = (
-        np.random.default_rng(random_state)
-        if random_chunk_chars is not None
-        else None
-    )
+    rng = np.random.default_rng(random_state) if random_chunk_chars is not None else None
 
     for _, row in df.iterrows():
         book_id = int(row["gutenberg_id"])

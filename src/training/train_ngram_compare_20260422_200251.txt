@@ -1,0 +1,188 @@
+Logging to: /Users/rayli/Desktop/NLP Lab/final_project/Era-Prediction-for-Literature/src/training/train_ngram_compare_20260422_200251.txt
+Loading ERA dataset (random contiguous 10000 chars per book, seed=42)...
+
+Running ERA models...
+
+
+=== Word n-gram counts + LogisticRegression | ERA ===
+Train size: 400
+Test size: 100
+
+Label: era
+Accuracy: 0.4100
+
+               precision    recall  f1-score   support
+
+Age of Reason       0.39      0.45      0.42        20
+    Modernist       0.47      0.35      0.40        20
+   Postmodern       0.61      0.70      0.65        20
+     Romantic       0.32      0.35      0.33        20
+    Victorian       0.24      0.20      0.22        20
+
+     accuracy                           0.41       100
+    macro avg       0.40      0.41      0.40       100
+ weighted avg       0.40      0.41      0.40       100
+
+
+Metrics dictionary:
+{'accuracy': 0.41, 'macro_f1': 0.4038633982820029, 'weighted_f1': 0.4038633982820029}
+
+------------------------------------------------------------
+
+
+=== Word n-gram counts + LinearSVC | ERA ===
+Train size: 400
+Test size: 100
+
+Label: era
+Accuracy: 0.3600
+
+               precision    recall  f1-score   support
+
+Age of Reason       0.38      0.40      0.39        20
+    Modernist       0.33      0.25      0.29        20
+   Postmodern       0.59      0.65      0.62        20
+     Romantic       0.28      0.35      0.31        20
+    Victorian       0.18      0.15      0.16        20
+
+     accuracy                           0.36       100
+    macro avg       0.35      0.36      0.35       100
+ weighted avg       0.35      0.36      0.35       100
+
+
+Metrics dictionary:
+{'accuracy': 0.36, 'macro_f1': 0.35365581609484054, 'weighted_f1': 0.3536558160948405}
+
+------------------------------------------------------------
+
+
+================================================================================
+
+Loading DECADE dataset (random contiguous 10000 chars per book, seed=42)...
+
+Running DECADE models...
+
+
+=== Word n-gram counts + LogisticRegression | DECADE ===
+Train size: 424
+Test size: 106
+
+Label: decade
+Accuracy: 0.1226
+
+              precision    recall  f1-score   support
+
+       1700s       0.17      0.50      0.25         2
+       1710s       0.00      0.00      0.00         3
+       1720s       0.00      0.00      0.00         3
+       1730s       0.00      0.00      0.00         2
+       1740s       0.00      0.00      0.00         4
+       1750s       0.33      0.25      0.29         4
+       1760s       0.00      0.00      0.00         4
+       1770s       0.00      0.00      0.00         4
+       1780s       0.00      0.00      0.00         4
+       1790s       0.00      0.00      0.00         4
+       1800s       0.00      0.00      0.00         4
+       1810s       0.00      0.00      0.00         4
+       1820s       0.00      0.00      0.00         4
+       1830s       0.00      0.00      0.00         4
+       1840s       0.00      0.00      0.00         4
+       1850s       0.17      0.25      0.20         4
+       1860s       0.00      0.00      0.00         4
+       1870s       0.00      0.00      0.00         4
+       1880s       0.00      0.00      0.00         4
+       1890s       0.00      0.00      0.00         4
+       1900s       0.00      0.00      0.00         4
+       1910s       0.00      0.00      0.00         4
+       1920s       0.38      0.75      0.50         4
+       1930s       0.00      0.00      0.00         4
+       1940s       0.40      0.50      0.44         4
+       1950s       0.40      0.50      0.44         4
+       1960s       0.50      0.50      0.50         4
+       1970s       0.20      0.25      0.22         4
+
+    accuracy                           0.12       106
+   macro avg       0.09      0.12      0.10       106
+weighted avg       0.09      0.12      0.10       106
+
+
+Decade distance evaluation:
+Average decade error: 47.26 years
+Median decade error: 30.00 years
+Within 10 years: 0.3302
+Within 20 years: 0.4906
+Within 30 years: 0.5566
+
+Metrics dictionary:
+{'accuracy': 0.12264150943396226, 'macro_f1': 0.10167233560090704, 'weighted_f1': 0.10271039233303385, 'avg_decade_error': 47.264150943396224, 'median_decade_error': 30.0, 'within_10_years': 0.330188679245283, 'within_20_years': 0.49056603773584906, 'within_30_years': 0.5566037735849056}
+
+------------------------------------------------------------
+
+
+=== Word n-gram counts + LinearSVC | DECADE ===
+Train size: 424
+Test size: 106
+
+Label: decade
+Accuracy: 0.1226
+
+              precision    recall  f1-score   support
+
+       1700s       0.00      0.00      0.00         2
+       1710s       0.00      0.00      0.00         3
+       1720s       0.00      0.00      0.00         3
+       1730s       0.00      0.00      0.00         2
+       1740s       0.00      0.00      0.00         4
+       1750s       0.33      0.25      0.29         4
+       1760s       0.00      0.00      0.00         4
+       1770s       0.00      0.00      0.00         4
+       1780s       0.00      0.00      0.00         4
+       1790s       0.00      0.00      0.00         4
+       1800s       0.00      0.00      0.00         4
+       1810s       0.00      0.00      0.00         4
+       1820s       0.00      0.00      0.00         4
+       1830s       0.00      0.00      0.00         4
+       1840s       0.00      0.00      0.00         4
+       1850s       0.00      0.00      0.00         4
+       1860s       0.00      0.00      0.00         4
+       1870s       0.00      0.00      0.00         4
+       1880s       1.00      0.25      0.40         4
+       1890s       0.00      0.00      0.00         4
+       1900s       0.00      0.00      0.00         4
+       1910s       0.00      0.00      0.00         4
+       1920s       0.38      0.75      0.50         4
+       1930s       0.00      0.00      0.00         4
+       1940s       0.50      0.75      0.60         4
+       1950s       0.33      0.25      0.29         4
+       1960s       0.60      0.75      0.67         4
+       1970s       0.33      0.25      0.29         4
+
+    accuracy                           0.12       106
+   macro avg       0.12      0.12      0.11       106
+weighted avg       0.13      0.12      0.11       106
+
+
+Decade distance evaluation:
+Average decade error: 49.15 years
+Median decade error: 30.00 years
+Within 10 years: 0.2830
+Within 20 years: 0.4528
+Within 30 years: 0.5377
+
+Metrics dictionary:
+{'accuracy': 0.12264150943396226, 'macro_f1': 0.10799319727891155, 'weighted_f1': 0.1141060197663971, 'avg_decade_error': 49.15094339622642, 'median_decade_error': 30.0, 'within_10_years': 0.2830188679245283, 'within_20_years': 0.4528301886792453, 'within_30_years': 0.5377358490566038}
+
+------------------------------------------------------------
+
+
+================================================================================
+FINAL SUMMARY
+================================================================================
+
+ERA RESULTS:
+Word n-gram counts + LogisticRegression: {'accuracy': 0.41, 'macro_f1': 0.4038633982820029, 'weighted_f1': 0.4038633982820029}
+Word n-gram counts + LinearSVC: {'accuracy': 0.36, 'macro_f1': 0.35365581609484054, 'weighted_f1': 0.3536558160948405}
+
+DECADE RESULTS:
+Word n-gram counts + LogisticRegression: {'accuracy': 0.12264150943396226, 'macro_f1': 0.10167233560090704, 'weighted_f1': 0.10271039233303385, 'avg_decade_error': 47.264150943396224, 'median_decade_error': 30.0, 'within_10_years': 0.330188679245283, 'within_20_years': 0.49056603773584906, 'within_30_years': 0.5566037735849056}
+Word n-gram counts + LinearSVC: {'accuracy': 0.12264150943396226, 'macro_f1': 0.10799319727891155, 'weighted_f1': 0.1141060197663971, 'avg_decade_error': 49.15094339622642, 'median_decade_error': 30.0, 'within_10_years': 0.2830188679245283, 'within_20_years': 0.4528301886792453, 'within_30_years': 0.5377358490566038}

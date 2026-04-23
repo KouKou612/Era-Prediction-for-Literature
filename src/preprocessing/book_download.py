@@ -3,14 +3,6 @@ import time
 import requests
 import pandas as pd
 
-
-"""
-Download the full text of the selected books from Project Gutenberg using the gutenberg_id.
-The books are listed in sample_by_era.csv and sample_by_decade.csv (from preprocessing/book_select.py).
-Skipping books that have already been downloaded to avoid redundant work.
-"""
-
-
 ROOT = Path(__file__).resolve().parent.parent.parent
 DATASET_DIR = ROOT / "Dataset"
 
@@ -24,8 +16,9 @@ REQUEST_TIMEOUT = 20
 SLEEP_SECONDS = 0.5
 
 
-def gutenberg_text_urls(book_id: int) -> list[str]:
-    return [
+def download_text(book_id):
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; GutenbergBookDownloader/1.0)"}
+    urls = [
         f"https://www.gutenberg.org/cache/epub/{book_id}/pg{book_id}.txt",
         f"https://www.gutenberg.org/cache/epub/{book_id}/pg{book_id}.txt.utf-8",
         f"https://www.gutenberg.org/files/{book_id}/{book_id}-0.txt",
@@ -33,13 +26,7 @@ def gutenberg_text_urls(book_id: int) -> list[str]:
         f"https://www.gutenberg.org/files/{book_id}/{book_id}-8.txt",
     ]
 
-
-def download_text(book_id: int) -> str | None:
-    headers = {
-        "User-Agent": "Mozilla/5.0 (compatible; GutenbergBookDownloader/1.0)"
-    }
-
-    for url in gutenberg_text_urls(book_id):
+    for url in urls:
         try:
             resp = requests.get(url, timeout=REQUEST_TIMEOUT, headers=headers)
             if resp.status_code == 200 and resp.text.strip():
@@ -50,7 +37,7 @@ def download_text(book_id: int) -> str | None:
     return None
 
 
-def download_from_csv(csv_path: Path, outdir: Path) -> tuple[list[int], list[int], list[int]]:
+def download_from_csv(csv_path, outdir):
     outdir.mkdir(parents=True, exist_ok=True)
 
     df = pd.read_csv(csv_path)
@@ -65,9 +52,9 @@ def download_from_csv(csv_path: Path, outdir: Path) -> tuple[list[int], list[int
     failed = 0
     skipped = 0
 
-    downloaded_ids: list[int] = []
-    skipped_ids: list[int] = []
-    failed_ids: list[int] = []
+    downloaded_ids = []
+    skipped_ids = []
+    failed_ids = []
 
     for i, row in df.iterrows():
         book_id = None
@@ -79,7 +66,6 @@ def download_from_csv(csv_path: Path, outdir: Path) -> tuple[list[int], list[int
             filename = f"{book_id}.txt"
             filepath = outdir / filename
 
-            # Skip if the book file already exists
             if filepath.exists():
                 print(f"[{i + 1}/{total}] Skip existing: {filename}")
                 skipped += 1
@@ -121,7 +107,7 @@ def download_from_csv(csv_path: Path, outdir: Path) -> tuple[list[int], list[int
     return downloaded_ids, skipped_ids, failed_ids
 
 
-def main() -> None:
+def main():
     print("Downloading ERA dataset...\n")
     era_downloaded, era_skipped, era_failed = download_from_csv(ERA_CSV, ERA_OUTDIR)
 
