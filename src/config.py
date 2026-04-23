@@ -9,6 +9,7 @@ DECADE_CSV = DATASET_DIR / "sample_by_decade.csv"
 ERA_TEXT_DIR = DATASET_DIR / "era_sample_clean"
 DECADE_TEXT_DIR = DATASET_DIR / "decade_sample_clean"
 
+MODEL_OUTPUT_DIR = ROOT / "model_outputs"
 RANDOM_STATE = 42
 
 TFIDF_CONFIG = {
