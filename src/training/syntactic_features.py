@@ -51,7 +51,7 @@ class SyntacticFeatureExtractor(BaseEstimator, TransformerMixin):
 
     def get_feature_names_out(self, input_features=None):
         names = [f"pos_frac_{tag}" for tag in POS_TAGS]
-        names += ["avg_token_len", "avg_sent_len"]
+        names += ["avg_token_len", "avg_sent_len", "ttr"]
         return np.array(names, dtype=object)
 
     def transform(self, X):
@@ -73,7 +73,7 @@ class SyntacticFeatureExtractor(BaseEstimator, TransformerMixin):
             real_tokens = [tok for tok in doc if not tok.is_space]
 
             if len(real_tokens) == 0:
-                features.append(np.zeros(len(POS_TAGS) + 2, dtype=float))
+                features.append(np.zeros(len(POS_TAGS) + 3, dtype=float))
                 continue
 
             for tok in real_tokens:
@@ -84,6 +84,8 @@ class SyntacticFeatureExtractor(BaseEstimator, TransformerMixin):
             total_tokens = len(real_tokens)
             pos_features = [pos_counts[tag] / total_tokens for tag in POS_TAGS]
 
+            ttr = len({tok.text.lower() for tok in real_tokens}) / total_tokens
+
             for sent in doc.sents:
                 sent_tokens = [tok for tok in sent if not tok.is_space]
                 if len(sent_tokens) > 0:
@@ -91,8 +93,8 @@ class SyntacticFeatureExtractor(BaseEstimator, TransformerMixin):
 
             avg_token_len = float(np.mean(token_lens)) if token_lens else 0.0
             avg_sent_len = float(np.mean(sent_lens)) if sent_lens else 0.0
-            features.append(np.array(pos_features + [avg_token_len, avg_sent_len], dtype=float))
+            features.append(np.array(pos_features + [avg_token_len, avg_sent_len, ttr], dtype=float))
 
         if not features:
-            return np.zeros((0, len(POS_TAGS) + 2), dtype=float)
+            return np.zeros((0, len(POS_TAGS) + 3), dtype=float)
         return np.vstack(features)

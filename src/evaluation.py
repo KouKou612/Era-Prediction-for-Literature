@@ -1,11 +1,38 @@
 import numpy as np
 from sklearn.metrics import accuracy_score, classification_report, f1_score
 
+# same timeline as sampling (book_select.assign_era)
+ERA_ORDER = [
+    "Age of Reason",
+    "Romantic",
+    "Victorian",
+    "Modernist",
+    "Postmodern",
+]
+
+
+def report_labels(label_col, y_true, y_pred):
+    if label_col == "era":
+        seen = set(y_true) | set(y_pred)
+        ordered = [e for e in ERA_ORDER if e in seen]
+        for x in sorted(seen - set(ordered)):
+            ordered.append(x)
+        return ordered
+    if label_col == "decade":
+        seen = set(y_true) | set(y_pred)
+
+        def decade_key(d):
+            return int(str(d).replace("s", ""))
+
+        return sorted(seen, key=decade_key)
+    return None
+
 
 def evaluate_model(y_true, y_pred, label_col):
     print(f"\nLabel: {label_col}")
     print(f"Accuracy: {accuracy_score(y_true, y_pred):.4f}\n")
-    print(classification_report(y_true, y_pred, zero_division=0))
+    labels = report_labels(label_col, y_true, y_pred)
+    print(classification_report(y_true, y_pred, labels=labels, zero_division=0))
 
     if label_col == "decade":
         print()
