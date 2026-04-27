@@ -1,0 +1,28 @@
+Logging to: C:\Users\19405\Computer_Science\Natural_Language_Processing\Era-Prediction-for-Literature\src\training\train_bert_20260426_225105.txt
+
+=== BERT_ERA ===
+Usable samples: 500
+era
+Age of Reason    100
+Modernist        100
+Postmodern       100
+Romantic         100
+Victorian        100
+Name: count, dtype: int64
+{'loss': '1.567', 'grad_norm': '3.7', 'learning_rate': '1.347e-05', 'epoch': '1'}
+{'eval_loss': '1.393', 'eval_accuracy': '0.51', 'eval_macro_f1': '0.4372', 'eval_weighted_f1': '0.4372', 'eval_runtime': '13.69', 'eval_samples_per_second': '7.303', 'eval_steps_per_second': '0.949', 'epoch': '1'}
+{'loss': '1.209', 'grad_norm': '4.395', 'learning_rate': '6.8e-06', 'epoch': '2'}
+{'eval_loss': '1.063', 'eval_accuracy': '0.63', 'eval_macro_f1': '0.5851', 'eval_weighted_f1': '0.5851', 'eval_runtime': '9.916', 'eval_samples_per_second': '10.09', 'eval_steps_per_second': '1.311', 'epoch': '2'}
+{'loss': '0.9759', 'grad_norm': '5.12', 'learning_rate': '1.333e-07', 'epoch': '3'}
+{'eval_loss': '0.9713', 'eval_accuracy': '0.62', 'eval_macro_f1': '0.5774', 'eval_weighted_f1': '0.5774', 'eval_runtime': '17.51', 'eval_samples_per_second': '5.712', 'eval_steps_per_second': '0.743', 'epoch': '3'}
+{'train_runtime': '882.2', 'train_samples_per_second': '1.36', 'train_steps_per_second': '0.17', 'train_loss': '1.25', 'epoch': '3'}
+
+Final metrics:
+eval_loss: 0.9713178277015686
+eval_accuracy: 0.62
+eval_macro_f1: 0.5774183458723858
+eval_weighted_f1: 0.5774183458723858
+eval_runtime: 17.3447
+eval_samples_per_second: 5.765
+eval_steps_per_second: 0.75
+epoch: 3.0

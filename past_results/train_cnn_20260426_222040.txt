@@ -1,0 +1,162 @@
+Logging to: C:\Users\19405\Computer_Science\Natural_Language_Processing\Era-Prediction-for-Literature\src\training\train_cnn_20260426_222040.txt
+
+=== CNN_ERA ===
+Usable samples: 500
+era
+Age of Reason    100
+Modernist        100
+Postmodern       100
+Romantic         100
+Victorian        100
+Name: count, dtype: int64
+Vocab size: 30000
+Device: cuda
+
+Epoch 1/20
+Train loss: 1.9516
+Validation accuracy: 0.2000
+Validation macro F1: 0.1095
+Validation weighted F1: 0.1095
+Saved best model to: C:\Users\19405\Computer_Science\Natural_Language_Processing\Era-Prediction-for-Literature\model_outputs\cnn_era\best_model.pt
+
+Epoch 2/20
+Train loss: 1.4576
+Validation accuracy: 0.2800
+Validation macro F1: 0.1922
+Validation weighted F1: 0.1922
+Saved best model to: C:\Users\19405\Computer_Science\Natural_Language_Processing\Era-Prediction-for-Literature\model_outputs\cnn_era\best_model.pt
+
+Epoch 3/20
+Train loss: 1.2978
+Validation accuracy: 0.3000
+Validation macro F1: 0.2065
+Validation weighted F1: 0.2065
+Saved best model to: C:\Users\19405\Computer_Science\Natural_Language_Processing\Era-Prediction-for-Literature\model_outputs\cnn_era\best_model.pt
+
+Epoch 4/20
+Train loss: 1.0608
+Validation accuracy: 0.3300
+Validation macro F1: 0.2405
+Validation weighted F1: 0.2405
+Saved best model to: C:\Users\19405\Computer_Science\Natural_Language_Processing\Era-Prediction-for-Literature\model_outputs\cnn_era\best_model.pt
+
+Epoch 5/20
+Train loss: 0.9010
+Validation accuracy: 0.3700
+Validation macro F1: 0.3146
+Validation weighted F1: 0.3146
+Saved best model to: C:\Users\19405\Computer_Science\Natural_Language_Processing\Era-Prediction-for-Literature\model_outputs\cnn_era\best_model.pt
+
+Epoch 6/20
+Train loss: 0.7630
+Validation accuracy: 0.4400
+Validation macro F1: 0.4051
+Validation weighted F1: 0.4051
+Saved best model to: C:\Users\19405\Computer_Science\Natural_Language_Processing\Era-Prediction-for-Literature\model_outputs\cnn_era\best_model.pt
+
+Epoch 7/20
+Train loss: 0.6688
+Validation accuracy: 0.3800
+Validation macro F1: 0.3343
+Validation weighted F1: 0.3343
+
+Epoch 8/20
+Train loss: 0.5615
+Validation accuracy: 0.3800
+Validation macro F1: 0.3225
+Validation weighted F1: 0.3225
+
+Epoch 9/20
+Train loss: 0.4892
+Validation accuracy: 0.4300
+Validation macro F1: 0.4205
+Validation weighted F1: 0.4205
+
+Epoch 10/20
+Train loss: 0.4511
+Validation accuracy: 0.3500
+Validation macro F1: 0.2608
+Validation weighted F1: 0.2608
+
+Epoch 11/20
+Train loss: 0.4219
+Validation accuracy: 0.3700
+Validation macro F1: 0.3659
+Validation weighted F1: 0.3659
+
+Epoch 12/20
+Train loss: 0.3419
+Validation accuracy: 0.4700
+Validation macro F1: 0.4065
+Validation weighted F1: 0.4065
+Saved best model to: C:\Users\19405\Computer_Science\Natural_Language_Processing\Era-Prediction-for-Literature\model_outputs\cnn_era\best_model.pt
+
+Epoch 13/20
+Train loss: 0.3106
+Validation accuracy: 0.5000
+Validation macro F1: 0.5012
+Validation weighted F1: 0.5012
+Saved best model to: C:\Users\19405\Computer_Science\Natural_Language_Processing\Era-Prediction-for-Literature\model_outputs\cnn_era\best_model.pt
+
+Epoch 14/20
+Train loss: 0.2738
+Validation accuracy: 0.4900
+Validation macro F1: 0.4692
+Validation weighted F1: 0.4692
+
+Epoch 15/20
+Train loss: 0.2515
+Validation accuracy: 0.4000
+Validation macro F1: 0.3537
+Validation weighted F1: 0.3537
+
+Epoch 16/20
+Train loss: 0.2004
+Validation accuracy: 0.4500
+Validation macro F1: 0.4295
+Validation weighted F1: 0.4295
+
+Epoch 17/20
+Train loss: 0.1751
+Validation accuracy: 0.4800
+Validation macro F1: 0.4267
+Validation weighted F1: 0.4267
+
+Epoch 18/20
+Train loss: 0.1663
+Validation accuracy: 0.4500
+Validation macro F1: 0.3804
+Validation weighted F1: 0.3804
+
+Epoch 19/20
+Train loss: 0.1667
+Validation accuracy: 0.4600
+Validation macro F1: 0.4397
+Validation weighted F1: 0.4397
+
+Epoch 20/20
+Train loss: 0.1413
+Validation accuracy: 0.4800
+Validation macro F1: 0.4624
+Validation weighted F1: 0.4624
+
+Final evaluation on test set:
+
+Label: era
+Accuracy: 0.4800
+
+               precision    recall  f1-score   support
+
+Age of Reason       0.67      0.30      0.41        20
+     Romantic       0.32      0.90      0.47        20
+    Victorian       0.33      0.10      0.15        20
+    Modernist       0.57      0.40      0.47        20
+   Postmodern       0.93      0.70      0.80        20
+
+     accuracy                           0.48       100
+    macro avg       0.57      0.48      0.46       100
+ weighted avg       0.57      0.48      0.46       100
+
+
+Best metrics:
+{'accuracy': 0.5, 'macro_f1': 0.501234677048194, 'weighted_f1': 0.501234677048194}

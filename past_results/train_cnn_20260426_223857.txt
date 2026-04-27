@@ -1,0 +1,214 @@
+Logging to: C:\Users\19405\Computer_Science\Natural_Language_Processing\Era-Prediction-for-Literature\src\training\train_cnn_20260426_223857.txt
+
+=== CNN_ERA ===
+Usable samples: 500
+era
+Age of Reason    100
+Modernist        100
+Postmodern       100
+Romantic         100
+Victorian        100
+Name: count, dtype: int64
+Vocab size: 30000
+Device: cuda
+
+Epoch 1/30
+Train loss: 2.5004
+Validation accuracy: 0.2200
+Validation macro F1: 0.1023
+Validation weighted F1: 0.1023
+
+Epoch 2/30
+Train loss: 2.3202
+Validation accuracy: 0.2200
+Validation macro F1: 0.1009
+Validation weighted F1: 0.1009
+
+Epoch 3/30
+Train loss: 2.2063
+Validation accuracy: 0.2200
+Validation macro F1: 0.1004
+Validation weighted F1: 0.1004
+
+Epoch 4/30
+Train loss: 2.0805
+Validation accuracy: 0.2200
+Validation macro F1: 0.1004
+Validation weighted F1: 0.1004
+
+Epoch 5/30
+Train loss: 1.9971
+Validation accuracy: 0.2300
+Validation macro F1: 0.1135
+Validation weighted F1: 0.1135
+
+Epoch 6/30
+Train loss: 1.8622
+Validation accuracy: 0.2500
+Validation macro F1: 0.1366
+Validation weighted F1: 0.1366
+
+Epoch 7/30
+Train loss: 1.8548
+Validation accuracy: 0.2800
+Validation macro F1: 0.1826
+Validation weighted F1: 0.1826
+
+Epoch 8/30
+Train loss: 1.8094
+Validation accuracy: 0.2700
+Validation macro F1: 0.1844
+Validation weighted F1: 0.1844
+
+Epoch 9/30
+Train loss: 1.7379
+Validation accuracy: 0.3000
+Validation macro F1: 0.2173
+Validation weighted F1: 0.2173
+
+Epoch 10/30
+Train loss: 1.7482
+Validation accuracy: 0.3300
+Validation macro F1: 0.2463
+Validation weighted F1: 0.2463
+
+Epoch 11/30
+Train loss: 1.7508
+Validation accuracy: 0.3300
+Validation macro F1: 0.2466
+Validation weighted F1: 0.2466
+
+Epoch 12/30
+Train loss: 1.7293
+Validation accuracy: 0.3500
+Validation macro F1: 0.2625
+Validation weighted F1: 0.2625
+
+Epoch 13/30
+Train loss: 1.7215
+Validation accuracy: 0.3500
+Validation macro F1: 0.2651
+Validation weighted F1: 0.2651
+
+Epoch 14/30
+Train loss: 1.6883
+Validation accuracy: 0.3200
+Validation macro F1: 0.2504
+Validation weighted F1: 0.2504
+
+Epoch 15/30
+Train loss: 1.6889
+Validation accuracy: 0.3100
+Validation macro F1: 0.2373
+Validation weighted F1: 0.2373
+
+Epoch 16/30
+Train loss: 1.6521
+Validation accuracy: 0.3600
+Validation macro F1: 0.3096
+Validation weighted F1: 0.3096
+
+Epoch 17/30
+Train loss: 1.6173
+Validation accuracy: 0.3500
+Validation macro F1: 0.3140
+Validation weighted F1: 0.3140
+
+Epoch 18/30
+Train loss: 1.6222
+Validation accuracy: 0.3200
+Validation macro F1: 0.2945
+Validation weighted F1: 0.2945
+
+Epoch 19/30
+Train loss: 1.6418
+Validation accuracy: 0.3600
+Validation macro F1: 0.3457
+Validation weighted F1: 0.3457
+
+Epoch 20/30
+Train loss: 1.6236
+Validation accuracy: 0.3500
+Validation macro F1: 0.3391
+Validation weighted F1: 0.3391
+
+Epoch 21/30
+Train loss: 1.6166
+Validation accuracy: 0.3100
+Validation macro F1: 0.3027
+Validation weighted F1: 0.3027
+
+Epoch 22/30
+Train loss: 1.6103
+Validation accuracy: 0.3200
+Validation macro F1: 0.3143
+Validation weighted F1: 0.3143
+
+Epoch 23/30
+Train loss: 1.6170
+Validation accuracy: 0.3100
+Validation macro F1: 0.3056
+Validation weighted F1: 0.3056
+
+Epoch 24/30
+Train loss: 1.6622
+Validation accuracy: 0.3200
+Validation macro F1: 0.3131
+Validation weighted F1: 0.3131
+
+Epoch 25/30
+Train loss: 1.6373
+Validation accuracy: 0.3400
+Validation macro F1: 0.3396
+Validation weighted F1: 0.3396
+
+Epoch 26/30
+Train loss: 1.6209
+Validation accuracy: 0.3300
+Validation macro F1: 0.3226
+Validation weighted F1: 0.3226
+
+Epoch 27/30
+Train loss: 1.5923
+Validation accuracy: 0.3200
+Validation macro F1: 0.3074
+Validation weighted F1: 0.3074
+
+Epoch 28/30
+Train loss: 1.5826
+Validation accuracy: 0.3400
+Validation macro F1: 0.3330
+Validation weighted F1: 0.3330
+
+Epoch 29/30
+Train loss: 1.5584
+Validation accuracy: 0.3400
+Validation macro F1: 0.3347
+Validation weighted F1: 0.3347
+
+Epoch 30/30
+Train loss: 1.5282
+Validation accuracy: 0.3500
+Validation macro F1: 0.3373
+Validation weighted F1: 0.3373
+
+Final evaluation using BEST model from epoch 16:
+
+Label: era
+Accuracy: 0.3600
+
+               precision    recall  f1-score   support
+
+Age of Reason       0.33      0.05      0.09        20
+     Romantic       0.32      0.70      0.44        20
+    Victorian       0.40      0.10      0.16        20
+    Modernist       0.42      0.50      0.45        20
+   Postmodern       0.38      0.45      0.41        20
+
+     accuracy                           0.36       100
+    macro avg       0.37      0.36      0.31       100
+ weighted avg       0.37      0.36      0.31       100
+
+
+Best metrics:
+{'accuracy': 0.36, 'macro_f1': 0.3096185770750988, 'weighted_f1': 0.3096185770750988}

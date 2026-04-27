@@ -1,0 +1,521 @@
+Logging to: C:\Users\19405\Computer_Science\Natural_Language_Processing\Era-Prediction-for-Literature\src\training\deepseek_run_20260426_235759.txt
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Romantic
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Romantic
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Victorian
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Victorian
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Romantic
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Age of Reason
+True: Age of Reason | Pred: Victorian
+True: Age of Reason | Pred: Age of Reason
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Age of Reason | Pred: Age of Reason
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Age of Reason | Pred: Age of Reason
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Romantic
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Victorian
+True: Modernist | Pred: Age of Reason
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Modernist
+True: Modernist | Pred: Victorian
+True: Postmodern | Pred: Modernist
+True: Modernist | Pred: Modernist
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Modernist | Pred: Victorian
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Victorian
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Victorian
+True: Postmodern | Pred: Victorian
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Victorian
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Victorian
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Victorian
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Victorian
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Age of Reason
+True: Postmodern | Pred: Victorian
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Victorian
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Modernist
+True: Postmodern | Pred: Postmodern
+True: Romantic | Pred: Age of Reason
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Victorian
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Postmodern
+True: Postmodern | Pred: Modernist
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Age of Reason
+True: Postmodern | Pred: Postmodern
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Age of Reason
+True: Romantic | Pred: Romantic
+True: Romantic | Pred: Victorian
+True: Romantic | Pred: Romantic
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Romantic | Pred: Romantic
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Age of Reason
+True: Victorian | Pred: Victorian
+True: Romantic | Pred: Romantic
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Romantic | Pred: Romantic
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Age of Reason
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Age of Reason
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Romantic
+True: Victorian | Pred: Victorian
+True: Romantic | Pred: Romantic
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Age of Reason
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Age of Reason
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Romantic
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Romantic
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Romantic | Pred: Romantic
+True: Victorian | Pred: Age of Reason
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Age of Reason
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Age of Reason
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Romantic
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Modernist
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Victorian
+True: Victorian | Pred: Romantic
+
+Saved to: Dataset\deepseek_results.csv
+
+=== EVALUATION ===
+
+Label: era
+Accuracy: 0.6720
+
+               precision    recall  f1-score   support
+
+Age of Reason       0.64      0.94      0.76       100
+     Romantic       0.86      0.56      0.68       100
+    Victorian       0.51      0.86      0.64       100
+    Modernist       0.68      0.42      0.52       100
+   Postmodern       1.00      0.58      0.73       100
+
+     accuracy                           0.67       500
+    macro avg       0.74      0.67      0.67       500
+ weighted avg       0.74      0.67      0.67       500
+

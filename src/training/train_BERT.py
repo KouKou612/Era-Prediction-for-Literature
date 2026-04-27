@@ -33,7 +33,7 @@ from config import (
 
 MODEL_NAME = "distilbert-base-uncased"
 MAX_LENGTH = 512
-TEXT_WORD_LIMIT = 10000  # same preprocessing cap you used before
+TEXT_WORD_LIMIT = 10000 
 
 
 def make_label_maps(labels: list[str]) -> tuple[dict[str, int], dict[int, str]]:
@@ -106,15 +106,14 @@ def train_one_task(csv_path: Path, text_dir: Path, label_col: str, run_name: str
         y_pred = [id2label[int(x)] for x in preds]
 
         metrics = get_metrics(y_true, y_pred, label_col)
-        # Trainer expects numeric values
         return metrics
 
     args = TrainingArguments(
         output_dir=str(Path("outputs") / run_name),
         eval_strategy="epoch",
-        save_strategy="no",   # ← key change
+        save_strategy="no", 
         logging_strategy="epoch",
-        load_best_model_at_end=False,  # also disable this
+        load_best_model_at_end=False, 
         num_train_epochs=3,
         per_device_train_batch_size=8,
         per_device_eval_batch_size=8,
