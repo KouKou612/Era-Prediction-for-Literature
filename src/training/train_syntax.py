@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.svm import LinearSVC
 from sklearn.linear_model import LogisticRegression
 
-from train_common import run_era_decade_suite
+from train_common import run_era_suite
 from syntactic_features import SyntacticFeatureExtractor, spacy_model_available
 from config import RANDOM_STATE, SYNTACTIC_CONFIG
 
@@ -64,7 +64,7 @@ def main():
             ]),
         ),
     ]
-    run_era_decade_suite("train_syntax_compare", models)
+    run_era_suite("train_syntax_compare", models)
 
 
 if __name__ == "__main__":

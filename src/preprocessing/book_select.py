@@ -6,7 +6,6 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 INPUT = ROOT / "Dataset" / "gutenberg_publication_years.csv"
 
 N_PER_ERA = 100
-N_PER_DECADE = 20
 RANDOM_STATE = 42
 
 
@@ -22,11 +21,6 @@ def assign_era(year):
     elif 1945 <= year <= 1974:
         return "Postmodern"
     return None
-
-
-def assign_decade(year):
-    decade_start = (year // 10) * 10
-    return f"{decade_start}s"
 
 
 df = pd.read_csv(INPUT)
@@ -46,7 +40,6 @@ df["gutenberg_id"] = df["gutenberg_id"].astype(int)
 df = df[(df["publication_year"] >= 1700) & (df["publication_year"] <= 1974)].copy()
 
 df["era"] = df["publication_year"].apply(assign_era)
-df["decade"] = df["publication_year"].apply(assign_decade)
 
 df = df[df["era"].notna()].copy()
 
@@ -61,20 +54,7 @@ df_era_sample = pd.concat(
     ignore_index=True,
 )
 
-df_decade = df.drop_duplicates(subset=["decade", "author"]).copy()
-df_decade_sample = pd.concat(
-    [
-        g.sample(n=min(len(g), N_PER_DECADE), random_state=RANDOM_STATE)
-        for _, g in df_decade.groupby("decade")
-    ],
-    ignore_index=True,
-)
-
 df_era_sample.to_csv(ROOT / "Dataset" / "sample_by_era.csv", index=False)
-df_decade_sample.to_csv(ROOT / "Dataset" / "sample_by_decade.csv", index=False)
 
 print("Books per era:")
 print(df_era_sample["era"].value_counts().sort_index())
-
-print("\nBooks per decade:")
-print(df_decade_sample["decade"].value_counts().sort_index())

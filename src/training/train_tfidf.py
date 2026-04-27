@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import LinearSVC
 from sklearn.linear_model import LogisticRegression
 
-from train_common import run_era_decade_suite
+from train_common import run_era_suite
 from config import RANDOM_STATE, TFIDF_CONFIG
 
 
@@ -45,7 +45,7 @@ def main():
             ]),
         ),
     ]
-    run_era_decade_suite("train_tfidf_compare", models)
+    run_era_suite("train_tfidf_compare", models)
 
 
 if __name__ == "__main__":

@@ -10,7 +10,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.svm import LinearSVC
 from sklearn.linear_model import LogisticRegression
 
-from train_common import run_era_decade_suite
+from train_common import run_era_suite
 from config import RANDOM_STATE, NGRAM_COUNT_CONFIG
 
 NR = NGRAM_COUNT_CONFIG["ngram_range"]
@@ -74,7 +74,7 @@ def main():
         ("Word n-gram counts + LogisticRegression", build_ngram_logreg()),
         ("Word n-gram counts + LinearSVC", build_ngram_svm()),
     ]
-    run_era_decade_suite("train_ngram_compare", models)
+    run_era_suite("train_ngram_compare", models)
 
 
 if __name__ == "__main__":

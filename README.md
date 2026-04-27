@@ -2,30 +2,78 @@
 
 CSCI3349.01 Final Project
 
-Ray's Update Version 1.0.1
+Ray's Update Version 1.0.3
+
+Predict **literary era** (Age of Reason, Romantic, Victorian, Modernist, Postmodern) from English prose sampled from Project Gutenberg. The project no longer trains or evaluates a separate **decade** label; preprocessing and training scripts are **era-only**.
 
 ## Layout
 
-- **`src/preprocessing/`** — build the corpus: sampling CSVs, Gutenberg download, header/footer cleaning and quality filter (`book_select.py`, `book_download.py`, `book_clean.py`).
-- **`src/training/`** — train and evaluate models: one entry script per feature channel (`train_tfidf.py`, `train_syntax.py`, `train_ngram.py`), shared loop in `train_common.py`, spaCy transformer in `syntactic_features.py`. Run logs are written under `src/training/`.
+- **`src/preprocessing/`** — build the corpus: sampling CSV, Gutenberg download, header/footer cleaning and quality filter (`book_select.py`, `book_download.py`, `book_clean.py`).
+- **`src/training/`** — train and evaluate models on the **era** task: `train_tfidf.py`, `train_syntax.py`, `train_ngram.py`, shared loop in `train_common.py` (`run_era_suite`), spaCy features in `syntactic_features.py`. Optional Hugging Face: `train_BERT.py` (DistilBERT). When logging is enabled, run logs are timestamped `*.txt` under `src/training/`.
 - **`src/`** (top level) — shared settings and helpers: `config.py`, `data_utils.py`, `evaluation.py`, `logging_utils.py`.
 
 From the repo root, use `python3` with paths like `src/preprocessing/book_select.py` or `src/training/train_tfidf.py`.
 
-## WHAT I CHANGED
+## Pipeline (era only)
 
-- `src/preprocessing/book_select.py`: N_PER_ERA is 100 instead of 50 (still one author per era, up to 100 per era). Run `python3 src/preprocessing/book_select.py` to refresh `Dataset/sample_by_era.csv` and `sample_by_decade.csv`. I didn't change anything about the decade yet
+### 1) Install requirements
 
-- `src/config.py` and `src/preprocessing/book_select.py`: RANDOM_STATE is 42 instead of 612 for sampling and training.
+```bash
+python3 -m pip install -r requirements.txt
+python3 -m pip install nltk spacy
+python3 -m spacy download en_core_web_sm
+```
 
-- `src/preprocessing/book_clean.py`: after normal Gutenberg header/footer removal, books that are too short (under 300 words) or have too high a fraction of lines that look like MIDI paths, copyright lines, or Producer lines are not written to `era_sample_clean` or `decade_sample_clean`; an old clean file with the same name is deleted if the book fails the check. Run `python3 src/preprocessing/book_clean.py` to apply this to your local clean folders.
+### 2) Build dataset
 
-- Training entry scripts: `python3 src/training/train_tfidf.py` (TF-IDF only), `python3 src/training/train_syntax.py` (spaCy POS / syntactic only; needs spacy + en_core_web_sm), `python3 src/training/train_ngram.py` (word n-gram counts only via CountVectorizer / NGRAM_COUNT_CONFIG). Shared loop lives in `src/training/train_common.py` (import-only module, not a script you run by itself).
+```bash
+# sample metadata -> Dataset/sample_by_era.csv
+python3 src/preprocessing/book_select.py
 
-## Ray's Update Version 1.0.1
+# download Gutenberg texts -> Dataset/era_sample_raw/
+python3 src/preprocessing/book_download.py
 
-- Split the repo into **`src/preprocessing/`** (select / download / clean) vs **`src/training/`** (three `train_*.py` scripts + `train_common.py` + `syntactic_features.py`) so the pipeline is easier to follow.
-- **Same text budget for every channel:** `TRAIN_CONFIG` uses a fixed-seed **random 10,000-character slice per book** in `data_utils.load_dataset`, so TF-IDF, n-grams, and syntax all read the same kind of input (full file read, then one contiguous chunk).
-- **Syntax (`syntactic_features.py`):** spaCy **UPOS fractions** plus **avg token length** and **avg sentence length**; dropped the unused `max_chars` cap on the transformer (length is controlled at load time only).
-- **N-grams (`train_ngram.py`):** **NLTK `word_tokenize`** + **`nltk.ngrams`** inside a custom **`CountVectorizer` analyzer** so `ngram_range=(1,3)` actually applies (sklearn ignores `ngram_range` when `analyzer` is callable unless you build n-grams yourself). **No stop-word list** for that channel; added **`nltk`** to `requirements.txt` and **`nltk.download`** at the top of `train_ngram.py` for punkt data.
-- **General:** simplified a lot of the Python (fewer helpers / type hints / long docstrings) while keeping **`RANDOM_STATE` / `chunk_random_state`** behavior so runs stay reproducible.
+# clean texts -> Dataset/era_sample_clean/
+python3 src/preprocessing/book_clean.py
+```
+
+### 3) Train classic ML models
+
+```bash
+# TF-IDF channel
+python3 src/training/train_tfidf.py
+
+# Word n-gram channel (NLTK-based analyzer)
+python3 src/training/train_ngram.py
+
+# Syntactic/POS channel (spaCy)
+python3 src/training/train_syntax.py
+```
+
+### 4) (Optional) DistilBERT fine-tuning
+
+```bash
+python3 src/training/train_BERT.py
+```
+
+### 5) Run all common steps in one shot
+
+```bash
+python3 -m pip install -r requirements.txt && \
+python3 -m pip install nltk spacy && \
+python3 -m spacy download en_core_web_sm && \
+python3 src/preprocessing/book_select.py && \
+python3 src/preprocessing/book_download.py && \
+python3 src/preprocessing/book_clean.py && \
+python3 src/training/train_tfidf.py && \
+python3 src/training/train_ngram.py && \
+python3 src/training/train_syntax.py
+```
+
+Shared behavior: **`TRAIN_CONFIG`** uses a fixed-seed **random 10,000-character slice per book** in `data_utils.load_dataset` (unless you change `random_chunk_chars`), so TF-IDF, n-grams, and syntax see comparable text budgets.
+
+## Changelog (high level)
+
+- **1.0.3** — Dropped `train_transformer.py` and `TRANSFORMER_CONFIG`; Hugging Face fine-tuning is **`train_BERT.py` only** (DistilBERT).
+- **1.0.2** — Removed the **decade** task end-to-end: no `sample_by_decade.csv`, no `decade_sample_*` paths in config or scripts, no decade metrics. Evaluation reports **era** labels in timeline order. Decade-specific corpus folders were dropped from version control; the repo is **era prediction only**.
+- **1.0.1** — Split `src/preprocessing/` vs `src/training/`, unified random 10k-char loading, syntax/n-gram improvements (NLTK n-grams in custom analyzer, etc.). See git history for detail.

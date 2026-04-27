@@ -23,11 +23,10 @@ if str(_SRC_DIR) not in sys.path:
 from data_utils import load_dataset
 from logging_utils import start_logging
 from evaluation import get_metrics
+from train_common import TRAINING_DIR
 from config import (
     ERA_CSV,
-    DECADE_CSV,
     ERA_TEXT_DIR,
-    DECADE_TEXT_DIR,
     RANDOM_STATE,
     MODEL_OUTPUT_DIR,
 )
@@ -148,11 +147,9 @@ def train_one_task(csv_path: Path, text_dir: Path, label_col: str, run_name: str
 
 
 def main():
-    start_logging("train_bert")
+    start_logging("train_bert", log_dir=TRAINING_DIR)
 
     train_one_task(ERA_CSV, ERA_TEXT_DIR, "era", "bert_era")
-    print("\n" + "=" * 80 + "\n")
-    train_one_task(DECADE_CSV, DECADE_TEXT_DIR, "decade", "bert_decade")
 
 
 if __name__ == "__main__":

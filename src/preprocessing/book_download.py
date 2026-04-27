@@ -7,10 +7,8 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 DATASET_DIR = ROOT / "Dataset"
 
 ERA_CSV = DATASET_DIR / "sample_by_era.csv"
-DECADE_CSV = DATASET_DIR / "sample_by_decade.csv"
 
 ERA_OUTDIR = DATASET_DIR / "era_sample_raw"
-DECADE_OUTDIR = DATASET_DIR / "decade_sample_raw"
 
 REQUEST_TIMEOUT = 20
 SLEEP_SECONDS = 0.5
@@ -112,18 +110,11 @@ def main():
     era_downloaded, era_skipped, era_failed = download_from_csv(ERA_CSV, ERA_OUTDIR)
 
     print("\n" + "=" * 60 + "\n")
-
-    print("Downloading DECADE dataset...\n")
-    decade_downloaded, decade_skipped, decade_failed = download_from_csv(DECADE_CSV, DECADE_OUTDIR)
-
-    print("\n" + "=" * 60 + "\n")
     print("FINAL SUMMARY")
     print(f"ERA - Downloaded: {len(era_downloaded)}, Skipped: {len(era_skipped)}, Failed: {len(era_failed)}")
-    print(f"DECADE - Downloaded: {len(decade_downloaded)}, Skipped: {len(decade_skipped)}, Failed: {len(decade_failed)}")
 
     print("\nFINAL FAILED IDS")
     print("ERA:", era_failed)
-    print("DECADE:", decade_failed)
 
 
 if __name__ == "__main__":

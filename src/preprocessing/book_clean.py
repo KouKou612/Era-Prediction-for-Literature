@@ -5,10 +5,8 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 DATASET_DIR = ROOT / "Dataset"
 
 ERA_RAW_DIR = DATASET_DIR / "era_sample_raw"
-DECADE_RAW_DIR = DATASET_DIR / "decade_sample_raw"
 
 ERA_CLEAN_DIR = DATASET_DIR / "era_sample_clean"
-DECADE_CLEAN_DIR = DATASET_DIR / "decade_sample_clean"
 
 MIN_WORDS = 300
 MIN_NONEMPTY_LINES_FOR_RATIO = 10
@@ -150,11 +148,6 @@ def clean_directory(raw_dir, clean_dir):
 def main():
     print("Cleaning ERA raw texts...\n")
     clean_directory(ERA_RAW_DIR, ERA_CLEAN_DIR)
-
-    print("\n" + "=" * 60 + "\n")
-
-    print("Cleaning DECADE raw texts...\n")
-    clean_directory(DECADE_RAW_DIR, DECADE_CLEAN_DIR)
 
 
 if __name__ == "__main__":

@@ -4,10 +4,8 @@ ROOT = Path(__file__).resolve().parent.parent
 DATASET_DIR = ROOT / "Dataset"
 
 ERA_CSV = DATASET_DIR / "sample_by_era.csv"
-DECADE_CSV = DATASET_DIR / "sample_by_decade.csv"
 
 ERA_TEXT_DIR = DATASET_DIR / "era_sample_clean"
-DECADE_TEXT_DIR = DATASET_DIR / "decade_sample_clean"
 
 MODEL_OUTPUT_DIR = ROOT / "model_outputs"
 RANDOM_STATE = 42
@@ -39,10 +37,4 @@ NGRAM_COUNT_CONFIG = {
     "max_features": 20000,
     "min_df": 2,
     "binary": False,
-}
-
-# Hugging Face transformer fine-tuning (see training/train_transformer.py)
-TRANSFORMER_CONFIG = {
-    "checkpoint": "distilbert-base-uncased",
-    "max_length": 256,
 }
