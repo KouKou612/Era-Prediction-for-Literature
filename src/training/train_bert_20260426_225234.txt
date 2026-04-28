@@ -1,0 +1,28 @@
+Logging to: /Users/rayli/Desktop/NLP Lab/final_project/Era-Prediction-for-Literature/src/training/train_bert_20260426_225234.txt
+
+=== BERT_ERA ===
+Usable samples: 500
+era
+Age of Reason    100
+Modernist        100
+Postmodern       100
+Romantic         100
+Victorian        100
+Name: count, dtype: int64
+{'loss': 1.4953, 'grad_norm': 4.18848180770874, 'learning_rate': 1.3333333333333333e-05, 'epoch': 1.0}
+{'eval_loss': 1.2374968528747559, 'eval_accuracy': 0.53, 'eval_macro_f1': 0.4583857265922483, 'eval_weighted_f1': 0.45838572659224835, 'eval_runtime': 1.2448, 'eval_samples_per_second': 80.333, 'eval_steps_per_second': 10.443, 'epoch': 1.0}
+{'loss': 1.1013, 'grad_norm': 3.929779291152954, 'learning_rate': 6.666666666666667e-06, 'epoch': 2.0}
+{'eval_loss': 0.9779134392738342, 'eval_accuracy': 0.65, 'eval_macro_f1': 0.6294793999104344, 'eval_weighted_f1': 0.6294793999104343, 'eval_runtime': 1.1363, 'eval_samples_per_second': 88.005, 'eval_steps_per_second': 11.441, 'epoch': 2.0}
+{'loss': 0.8902, 'grad_norm': 7.9090895652771, 'learning_rate': 0.0, 'epoch': 3.0}
+{'eval_loss': 0.9050748348236084, 'eval_accuracy': 0.68, 'eval_macro_f1': 0.675481733713441, 'eval_weighted_f1': 0.6754817337134411, 'eval_runtime': 1.1259, 'eval_samples_per_second': 88.816, 'eval_steps_per_second': 11.546, 'epoch': 3.0}
+{'train_runtime': 46.8961, 'train_samples_per_second': 25.588, 'train_steps_per_second': 3.199, 'train_loss': 1.1622658030192057, 'epoch': 3.0}
+
+Final metrics:
+eval_loss: 0.9050748348236084
+eval_accuracy: 0.68
+eval_macro_f1: 0.675481733713441
+eval_weighted_f1: 0.6754817337134411
+eval_runtime: 1.1234
+eval_samples_per_second: 89.019
+eval_steps_per_second: 11.572
+epoch: 3.0

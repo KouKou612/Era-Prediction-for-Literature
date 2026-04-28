@@ -23,6 +23,7 @@ idna==3.11
 Jinja2==3.1.6
 joblib==1.5.3
 markdown-it-py==4.0.0
+nltk
 MarkupSafe==3.0.3
 mdurl==0.1.2
 mpmath==1.3.0

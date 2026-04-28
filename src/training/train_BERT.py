@@ -22,7 +22,7 @@ if str(_SRC_DIR) not in sys.path:
     
 from data_utils import load_dataset
 from logging_utils import start_logging
-from evaluation import get_metrics
+from evaluation import evaluate_model, get_metrics
 from train_common import TRAINING_DIR
 from config import (
     ERA_CSV,
@@ -135,6 +135,15 @@ def train_one_task(csv_path: Path, text_dir: Path, label_col: str, run_name: str
 
     trainer.train()
     metrics = trainer.evaluate()
+
+    # Per-era precision/recall (same as TF-IDF runs)
+    pred = trainer.predict(test_ds)
+    y_true_ids = pred.label_ids
+    y_pred_ids = np.argmax(pred.predictions, axis=1)
+    y_true_lbl = [id2label[int(i)] for i in y_true_ids]
+    y_pred_lbl = [id2label[int(i)] for i in y_pred_ids]
+    print("\nPer-class report (test set):")
+    evaluate_model(y_true_lbl, y_pred_lbl, label_col)
 
     print("\nFinal metrics:")
     for k, v in metrics.items():

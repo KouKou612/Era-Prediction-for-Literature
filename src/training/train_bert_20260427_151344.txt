@@ -1,0 +1,46 @@
+Logging to: /Users/rayli/Desktop/NLP Lab/final_project/Era-Prediction-for-Literature/src/training/train_bert_20260427_151344.txt
+
+=== BERT_ERA ===
+Usable samples: 500
+era
+Age of Reason    100
+Modernist        100
+Postmodern       100
+Romantic         100
+Victorian        100
+Name: count, dtype: int64
+{'loss': 1.5852, 'grad_norm': 3.3894612789154053, 'learning_rate': 1.3333333333333333e-05, 'epoch': 1.0}
+{'eval_loss': 1.446984052658081, 'eval_accuracy': 0.46, 'eval_macro_f1': 0.39648433847592324, 'eval_weighted_f1': 0.39648433847592335, 'eval_runtime': 1.17, 'eval_samples_per_second': 85.468, 'eval_steps_per_second': 11.111, 'epoch': 1.0}
+{'loss': 1.277, 'grad_norm': 4.096158981323242, 'learning_rate': 6.666666666666667e-06, 'epoch': 2.0}
+{'eval_loss': 1.1240887641906738, 'eval_accuracy': 0.65, 'eval_macro_f1': 0.6348502100631843, 'eval_weighted_f1': 0.6348502100631843, 'eval_runtime': 1.1305, 'eval_samples_per_second': 88.455, 'eval_steps_per_second': 11.499, 'epoch': 2.0}
+{'loss': 1.0423, 'grad_norm': 8.755843162536621, 'learning_rate': 0.0, 'epoch': 3.0}
+{'eval_loss': 1.0327214002609253, 'eval_accuracy': 0.69, 'eval_macro_f1': 0.6774000783108943, 'eval_weighted_f1': 0.6774000783108943, 'eval_runtime': 1.1319, 'eval_samples_per_second': 88.347, 'eval_steps_per_second': 11.485, 'epoch': 3.0}
+{'train_runtime': 45.6456, 'train_samples_per_second': 26.29, 'train_steps_per_second': 3.286, 'train_loss': 1.301476033528646, 'epoch': 3.0}
+
+Per-class report (test set):
+
+Label: era
+Accuracy: 0.6900
+
+               precision    recall  f1-score   support
+
+Age of Reason       0.52      0.80      0.63        20
+     Romantic       0.62      0.50      0.56        20
+    Victorian       0.64      0.35      0.45        20
+    Modernist       0.80      0.80      0.80        20
+   Postmodern       0.91      1.00      0.95        20
+
+     accuracy                           0.69       100
+    macro avg       0.70      0.69      0.68       100
+ weighted avg       0.70      0.69      0.68       100
+
+
+Final metrics:
+eval_loss: 1.0327214002609253
+eval_accuracy: 0.69
+eval_macro_f1: 0.6774000783108943
+eval_weighted_f1: 0.6774000783108943
+eval_runtime: 1.1135
+eval_samples_per_second: 89.805
+eval_steps_per_second: 11.675
+epoch: 3.0
