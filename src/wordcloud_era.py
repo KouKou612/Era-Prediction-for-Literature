@@ -96,6 +96,7 @@ stoplist.update(
         "yet",
         "u",
         "i",
+        "us"
     }
 )
 
