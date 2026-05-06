@@ -18,11 +18,35 @@ From the repo root, use `python3` with paths like `src/preprocessing/book_select
 
 ### 1) Install requirements
 
+**Create the virtualenv in this repo’s root** (the directory that contains `requirements.txt`), not a parent folder like `final_project/`. Otherwise `python` may point at the wrong environment and imports (for example `nltk`) will fail.
+
 ```bash
+cd Era-Prediction-for-Literature   # cloned project root
+python3 -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
 python3 -m pip install -r requirements.txt
-python3 -m pip install nltk spacy
+python3 -m pip install spacy
 python3 -m spacy download en_core_web_sm
 ```
+
+**Era word clouds** — stay in this repo root and call **`src/wordcloud_era.py` with this repo’s Python** (not a parent folder’s `.venv`). Using the explicit path avoids importing errors (`nltk`, etc.) from the wrong environment:
+
+```bash
+cd Era-Prediction-for-Literature
+source .venv/bin/activate
+python src/wordcloud_era.py
+# optional:
+python src/wordcloud_era.py --output-dir outputs/era_wordclouds --max-words 50
+```
+
+Without activating the venv (same repo root):
+
+```bash
+./.venv/bin/python src/wordcloud_era.py
+# Windows:  .venv\Scripts\python.exe src\wordcloud_era.py
+```
+
+In Cursor/VS Code, choose **Python: Select Interpreter** → `.../Era-Prediction-for-Literature/.venv/bin/python` so the integrated terminal matches the commands above.
 
 ### 2) Build dataset
 

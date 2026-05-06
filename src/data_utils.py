@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 
-def load_dataset(csv_path, text_dir, label_col, max_words=10000, prefix_chars=None, random_chunk_chars=None, random_state=None):
+def load_dataset(csv_path, text_dir, label_col, max_words: int | None = 10000, prefix_chars=None, random_chunk_chars=None, random_state=None):
     df = pd.read_csv(csv_path).copy()
 
     required_cols = {"gutenberg_id", label_col}

@@ -1,8 +1,8 @@
+import sys
 from pathlib import Path
+
 import numpy as np
 import pandas as pd
-
-
 from datasets import Dataset
 from sklearn.model_selection import train_test_split
 from transformers import (
@@ -13,37 +13,22 @@ from transformers import (
     TrainingArguments,
 )
 
-import sys
-from pathlib import Path
+SRC_DIR = Path(__file__).resolve().parent.parent
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
 
-_SRC_DIR = Path(__file__).resolve().parent.parent
-if str(_SRC_DIR) not in sys.path:
-    sys.path.insert(0, str(_SRC_DIR))
-    
 from data_utils import load_dataset
 from logging_utils import start_logging
 from evaluation import evaluate_model, get_metrics
 from train_common import TRAINING_DIR
-from config import (
-    ERA_CSV,
-    ERA_TEXT_DIR,
-    RANDOM_STATE,
-    MODEL_OUTPUT_DIR,
-)
+from config import ERA_CSV, ERA_TEXT_DIR, RANDOM_STATE
 
 MODEL_NAME = "distilbert-base-uncased"
 MAX_LENGTH = 512
-TEXT_WORD_LIMIT = 10000 
+TEXT_WORD_LIMIT = 10000
 
 
-def make_label_maps(labels: list[str]) -> tuple[dict[str, int], dict[int, str]]:
-    unique_labels = sorted(set(labels))
-    label2id = {label: i for i, label in enumerate(unique_labels)}
-    id2label = {i: label for label, i in label2id.items()}
-    return label2id, id2label
-
-
-def build_hf_datasets(df: pd.DataFrame, label_col: str):
+def build_hf_datasets(df, label_col):
     train_df, test_df = train_test_split(
         df,
         test_size=0.2,
@@ -51,7 +36,9 @@ def build_hf_datasets(df: pd.DataFrame, label_col: str):
         stratify=df[label_col],
     )
 
-    label2id, id2label = make_label_maps(df[label_col].tolist())
+    unique_labels = sorted(set(df[label_col].tolist()))
+    label2id = {label: i for i, label in enumerate(unique_labels)}
+    id2label = {i: label for label, i in label2id.items()}
 
     train_df = train_df[["text", label_col]].copy()
     test_df = test_df[["text", label_col]].copy()
@@ -65,20 +52,7 @@ def build_hf_datasets(df: pd.DataFrame, label_col: str):
     return train_ds, test_ds, label2id, id2label
 
 
-def tokenize_datasets(train_ds, test_ds, tokenizer):
-    def tokenize_batch(batch):
-        return tokenizer(
-            batch["text"],
-            truncation=True,
-            max_length=MAX_LENGTH,
-        )
-
-    train_ds = train_ds.map(tokenize_batch, batched=True)
-    test_ds = test_ds.map(tokenize_batch, batched=True)
-    return train_ds, test_ds
-
-
-def train_one_task(csv_path: Path, text_dir: Path, label_col: str, run_name: str):
+def train_one_task(csv_path, text_dir, label_col, run_name):
     print(f"\n=== {run_name.upper()} ===")
 
     df = load_dataset(csv_path, text_dir, label_col, max_words=TEXT_WORD_LIMIT)
@@ -95,7 +69,15 @@ def train_one_task(csv_path: Path, text_dir: Path, label_col: str, run_name: str
         id2label=id2label,
     )
 
-    train_ds, test_ds = tokenize_datasets(train_ds, test_ds, tokenizer)
+    def tokenize_batch(batch):
+        return tokenizer(
+            batch["text"],
+            truncation=True,
+            max_length=MAX_LENGTH,
+        )
+
+    train_ds = train_ds.map(tokenize_batch, batched=True)
+    test_ds = test_ds.map(tokenize_batch, batched=True)
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
 
     def compute_metrics(eval_pred):
@@ -111,9 +93,9 @@ def train_one_task(csv_path: Path, text_dir: Path, label_col: str, run_name: str
     args = TrainingArguments(
         output_dir=str(Path("outputs") / run_name),
         eval_strategy="epoch",
-        save_strategy="no", 
+        save_strategy="no",
         logging_strategy="epoch",
-        load_best_model_at_end=False, 
+        load_best_model_at_end=False,
         num_train_epochs=3,
         per_device_train_batch_size=8,
         per_device_eval_batch_size=8,
@@ -121,7 +103,7 @@ def train_one_task(csv_path: Path, text_dir: Path, label_col: str, run_name: str
         weight_decay=0.01,
         seed=RANDOM_STATE,
         report_to="none",
-    )   
+    )
 
     trainer = Trainer(
         model=model,
@@ -136,7 +118,6 @@ def train_one_task(csv_path: Path, text_dir: Path, label_col: str, run_name: str
     trainer.train()
     metrics = trainer.evaluate()
 
-    # Per-era precision/recall (same as TF-IDF runs)
     pred = trainer.predict(test_ds)
     y_true_ids = pred.label_ids
     y_pred_ids = np.argmax(pred.predictions, axis=1)
@@ -148,10 +129,6 @@ def train_one_task(csv_path: Path, text_dir: Path, label_col: str, run_name: str
     print("\nFinal metrics:")
     for k, v in metrics.items():
         print(f"{k}: {v}")
-
-    # trainer.save_model(str(MODEL_OUTPUT_DIR))
-    # tokenizer.save_pretrained(str(MODEL_OUTPUT_DIR))
-    # print(f"Saved model to: {MODEL_OUTPUT_DIR}")
 
 
 def main():

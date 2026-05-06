@@ -3,9 +3,9 @@ from pathlib import Path
 
 TRAINING_DIR = Path(__file__).resolve().parent
 
-_SRC_DIR = Path(__file__).resolve().parent.parent
-if str(_SRC_DIR) not in sys.path:
-    sys.path.insert(0, str(_SRC_DIR))
+SRC_DIR = Path(__file__).resolve().parent.parent
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
 
 from sklearn.model_selection import train_test_split
 

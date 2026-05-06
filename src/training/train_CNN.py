@@ -11,10 +11,9 @@ from torch.utils.data import Dataset, DataLoader
 
 from sklearn.model_selection import train_test_split
 
-
-_SRC_DIR = Path(__file__).resolve().parent.parent
-if str(_SRC_DIR) not in sys.path:
-    sys.path.insert(0, str(_SRC_DIR))
+SRC_DIR = Path(__file__).resolve().parent.parent
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
 
 from data_utils import load_dataset
 from logging_utils import start_logging
@@ -26,7 +25,6 @@ from config import (
     RANDOM_STATE,
     MODEL_OUTPUT_DIR,
 )
-
 
 TEXT_WORD_LIMIT = 10000
 MAX_VOCAB_SIZE = 30000
@@ -45,25 +43,18 @@ PAD_TOKEN = "<PAD>"
 UNK_TOKEN = "<UNK>"
 
 
-def set_seed(seed: int) -> None:
+def set_seed(seed):
     np.random.seed(seed)
     torch.manual_seed(seed)
     torch.cuda.manual_seed_all(seed)
 
 
-def tokenize(text: str) -> list[str]:
+def tokenize(text):
     text = text.lower()
     return re.findall(r"[a-z]+(?:'[a-z]+)?", text)
 
 
-def make_label_maps(labels: list[str]) -> tuple[dict[str, int], dict[int, str]]:
-    unique_labels = sorted(set(labels))
-    label2id = {label: i for i, label in enumerate(unique_labels)}
-    id2label = {i: label for label, i in label2id.items()}
-    return label2id, id2label
-
-
-def build_vocab(texts: list[str], max_vocab_size: int) -> dict[str, int]:
+def build_vocab(texts, max_vocab_size):
     counter = Counter()
 
     for text in texts:
@@ -80,7 +71,7 @@ def build_vocab(texts: list[str], max_vocab_size: int) -> dict[str, int]:
     return vocab
 
 
-def encode_text(text: str, vocab: dict[str, int], max_seq_len: int) -> list[int]:
+def encode_text(text, vocab, max_seq_len):
     tokens = tokenize(text)
     ids = [vocab.get(token, vocab[UNK_TOKEN]) for token in tokens[:max_seq_len]]
 
@@ -91,24 +82,17 @@ def encode_text(text: str, vocab: dict[str, int], max_seq_len: int) -> list[int]
 
 
 class BookDataset(Dataset):
-    def __init__(
-        self,
-        texts: list[str],
-        labels: list[str],
-        vocab: dict[str, int],
-        label2id: dict[str, int],
-        max_seq_len: int,
-    ):
+    def __init__(self, texts, labels, vocab, label2id, max_seq_len):
         self.texts = texts
         self.labels = labels
         self.vocab = vocab
         self.label2id = label2id
         self.max_seq_len = max_seq_len
 
-    def __len__(self) -> int:
+    def __len__(self):
         return len(self.texts)
 
-    def __getitem__(self, idx: int):
+    def __getitem__(self, idx):
         input_ids = encode_text(self.texts[idx], self.vocab, self.max_seq_len)
         label = self.label2id[self.labels[idx]]
 
@@ -121,13 +105,13 @@ class BookDataset(Dataset):
 class TextCNN(nn.Module):
     def __init__(
         self,
-        vocab_size: int,
-        num_classes: int,
-        embed_dim: int,
-        num_filters: int,
-        kernel_sizes: list[int],
-        dropout: float,
-        padding_idx: int = 0,
+        vocab_size,
+        num_classes,
+        embed_dim,
+        num_filters,
+        kernel_sizes,
+        dropout,
+        padding_idx=0,
     ):
         super().__init__()
 
@@ -166,7 +150,7 @@ class TextCNN(nn.Module):
         return logits
 
 
-def train_epoch(model, dataloader, optimizer, criterion, device) -> float:
+def train_epoch(model, dataloader, optimizer, criterion, device):
     model.train()
     total_loss = 0.0
 
@@ -185,7 +169,7 @@ def train_epoch(model, dataloader, optimizer, criterion, device) -> float:
     return total_loss / len(dataloader)
 
 
-def predict(model, dataloader, device, id2label: dict[int, str]) -> tuple[list[str], list[str]]:
+def predict(model, dataloader, device, id2label):
     model.eval()
 
     y_true = []
@@ -205,41 +189,7 @@ def predict(model, dataloader, device, id2label: dict[int, str]) -> tuple[list[s
     return y_true, y_pred
 
 
-def save_checkpoint(
-    model,
-    vocab,
-    label2id,
-    id2label,
-    metrics,
-    epoch: int,
-    run_name: str,
-) -> None:
-    save_dir = MODEL_OUTPUT_DIR / run_name
-    save_dir.mkdir(parents=True, exist_ok=True)
-    '''
-    torch.save(
-        {
-            "model_state_dict": model.state_dict(),
-            "vocab": vocab,
-            "label2id": label2id,
-            "id2label": id2label,
-            "config": {
-                "max_seq_len": MAX_SEQ_LEN,
-                "embed_dim": EMBED_DIM,
-                "num_filters": NUM_FILTERS,
-                "kernel_sizes": KERNEL_SIZES,
-                "dropout": DROPOUT,
-            },
-            "best_metrics": metrics,
-            "epoch": epoch,
-        },
-        save_dir / "best_model.pt",
-    )
-
-    print(f"Saved best model to: {save_dir / 'best_model.pt'}")
-    '''
-
-def train_one_task(csv_path: Path, text_dir: Path, label_col: str, run_name: str) -> dict:
+def train_one_task(csv_path, text_dir, label_col, run_name):
     print(f"\n=== {run_name.upper()} ===")
 
     df = load_dataset(csv_path, text_dir, label_col, max_words=TEXT_WORD_LIMIT)
@@ -253,7 +203,9 @@ def train_one_task(csv_path: Path, text_dir: Path, label_col: str, run_name: str
         stratify=df[label_col],
     )
 
-    label2id, id2label = make_label_maps(df[label_col].tolist())
+    unique_labels = sorted(set(df[label_col].tolist()))
+    label2id = {label: i for i, label in enumerate(unique_labels)}
+    id2label = {i: label for label, i in label2id.items()}
 
     vocab = build_vocab(train_df["text"].tolist(), MAX_VOCAB_SIZE)
     print(f"Vocab size: {len(vocab)}")
@@ -325,15 +277,8 @@ def train_one_task(csv_path: Path, text_dir: Path, label_col: str, run_name: str
             best_state_dict = copy.deepcopy(model.state_dict())
             best_epoch = epoch
 
-            save_checkpoint(
-                model=model,
-                vocab=vocab,
-                label2id=label2id,
-                id2label=id2label,
-                metrics=best_metrics,
-                epoch=epoch,
-                run_name=run_name,
-            )
+            save_dir = MODEL_OUTPUT_DIR / run_name
+            save_dir.mkdir(parents=True, exist_ok=True)
 
     if best_state_dict is not None:
         model.load_state_dict(best_state_dict)
@@ -348,7 +293,7 @@ def train_one_task(csv_path: Path, text_dir: Path, label_col: str, run_name: str
     return best_metrics
 
 
-def main() -> None:
+def main():
     set_seed(RANDOM_STATE)
     start_logging("train_cnn", log_dir=TRAINING_DIR)
 

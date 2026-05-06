@@ -31,19 +31,19 @@ ERA_COLORMAPS = {
     "Postmodern": "Reds",
 }
 
-_punct = (
+punct = (
     ". , : ! ? ; - * _ -- --- "
     "\u201c \u201d \u2019 \u2010 \u2011 \u2012 \u2013 \u2014 \u2015 "
     "\u2212 \u2500 \u2501 \u203e \u00af \u00ad"
 ).split()
 
 stoplist = set(stopwords.words("english"))
-stoplist.update(_punct)
+stoplist.update(punct)
 stoplist.update(
     "I It The And He upon one would could".split(),
 )
 
-# junk that still shows up a lot in Gutenberg prose
+# extra high-frequency Gutenberg junk
 stoplist.update(
     {
         "said",
@@ -96,52 +96,11 @@ stoplist.update(
         "yet",
         "u",
         "i",
-        "us"
+        "us",
     }
 )
 
 ALL_STOPWORDS = stoplist | set(STOPWORDS)
-
-
-def era_png_name(era):
-    return era.lower().replace(" ", "_") + "_wordcloud.png"
-
-
-def title_rgb(cmap_name):
-    c = colormaps.get_cmap(cmap_name)(0.98)
-    return (float(c[0]), float(c[1]), float(c[2]))
-
-
-def save_wordcloud_per_era(df, output_dir, max_words=50):
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    for era in ERA_ORDER:
-        era_texts = df.loc[df["era"] == era, "text"].tolist()
-        text = " ".join(era_texts).strip()
-        out = output_dir / era_png_name(era)
-        cmap = ERA_COLORMAPS.get(era, "viridis")
-
-        if not text:
-            print(f"skip {era} (no text)")
-            continue
-
-        wc = WordCloud(
-            width=900,
-            height=650,
-            background_color="white",
-            max_words=max_words,
-            stopwords=ALL_STOPWORDS,
-            colormap=cmap,
-        ).generate(text)
-
-        plt.figure(figsize=(8, 6))
-        plt.imshow(wc, interpolation="bilinear")
-        plt.title(era, fontweight="bold", fontsize=16, color=title_rgb(cmap))
-        plt.axis("off")
-        plt.tight_layout()
-        plt.savefig(out, dpi=180, bbox_inches="tight")
-        plt.close()
-        print(out)
 
 
 def main():
@@ -170,7 +129,40 @@ def main():
             max_words=TRAIN_CONFIG.get("max_words", 10000),
         )
 
-    save_wordcloud_per_era(df, Path(args.output_dir), args.max_words)
+    output_dir = Path(args.output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    max_words = args.max_words
+
+    for era in ERA_ORDER:
+        era_texts = df.loc[df["era"] == era, "text"].tolist()
+        text = " ".join(era_texts).strip()
+        out = output_dir / (era.lower().replace(" ", "_") + "_wordcloud.png")
+        cmap = ERA_COLORMAPS.get(era, "viridis")
+
+        if not text:
+            print(f"skip {era} (no text)")
+            continue
+
+        wc = WordCloud(
+            width=900,
+            height=650,
+            background_color="white",
+            max_words=max_words,
+            stopwords=ALL_STOPWORDS,
+            colormap=cmap,
+        ).generate(text)
+
+        c = colormaps.get_cmap(cmap)(0.98)
+        title_color = (float(c[0]), float(c[1]), float(c[2]))
+
+        plt.figure(figsize=(8, 6))
+        plt.imshow(wc, interpolation="bilinear")
+        plt.title(era, fontweight="bold", fontsize=16, color=title_color)
+        plt.axis("off")
+        plt.tight_layout()
+        plt.savefig(out, dpi=180, bbox_inches="tight")
+        plt.close()
+        print(out)
 
 
 if __name__ == "__main__":

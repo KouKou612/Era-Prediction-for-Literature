@@ -9,18 +9,8 @@ INPUT_CSV = DATASET_DIR / "sample_by_era.csv"
 TEXT_DIR = DATASET_DIR / "era_sample_clean"
 OUTPUT_CSV = DATASET_DIR / "sample_by_era_with_chunks.csv"
 
-CHUNK_SIZE = 1000   # words per chunk
+CHUNK_SIZE = 1000
 RANDOM_STATE = 612
-
-
-def extract_random_chunk(text: str, chunk_size: int) -> str:
-    words = text.split()
-
-    if len(words) <= chunk_size:
-        return " ".join(words)
-
-    start = random.randint(0, len(words) - chunk_size)
-    return " ".join(words[start:start + chunk_size])
 
 
 def main():
@@ -46,10 +36,14 @@ def main():
             chunks.append("")
             continue
 
-        chunk = extract_random_chunk(text, CHUNK_SIZE)
+        words = text.split()
+        if len(words) <= CHUNK_SIZE:
+            chunk = " ".join(words)
+        else:
+            start = random.randint(0, len(words) - CHUNK_SIZE)
+            chunk = " ".join(words[start : start + CHUNK_SIZE])
         chunks.append(chunk)
 
-    # add new column
     df["chunk"] = chunks
 
     df.to_csv(OUTPUT_CSV, index=False)

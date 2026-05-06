@@ -10,18 +10,13 @@ ERA_ORDER = [
 ]
 
 
-def report_labels(y_true, y_pred):
-    seen = set(y_true) | set(y_pred)
-    ordered = [e for e in ERA_ORDER if e in seen]
-    for x in sorted(seen - set(ordered)):
-        ordered.append(x)
-    return ordered
-
-
 def evaluate_model(y_true, y_pred, label_col):
     print(f"\nLabel: {label_col}")
     print(f"Accuracy: {accuracy_score(y_true, y_pred):.4f}\n")
-    labels = report_labels(y_true, y_pred)
+    seen = set(y_true) | set(y_pred)
+    labels = [e for e in ERA_ORDER if e in seen]
+    for x in sorted(seen - set(labels)):
+        labels.append(x)
     print(classification_report(y_true, y_pred, labels=labels, zero_division=0))
 
 

@@ -1,8 +1,4 @@
-'''
-do this in bash before running the script:
-export KIMI_API_KEY="your_api_key_here"
-
-'''
+# export KIMI_API_KEY="your_api_key_here"
 
 import os
 import sys
@@ -14,9 +10,9 @@ from tqdm import tqdm
 
 from train_common import TRAINING_DIR
 
-_SRC_DIR = Path(__file__).resolve().parent.parent
-if str(_SRC_DIR) not in sys.path:
-    sys.path.insert(0, str(_SRC_DIR))
+SRC_DIR = Path(__file__).resolve().parent.parent
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
 
 from evaluation import evaluate_model
 from logging_utils import start_logging
@@ -33,9 +29,19 @@ client = OpenAI(
 INPUT_CSV = Path("Dataset/sample_by_era_with_chunks.csv")
 OUTPUT_CSV = Path("Dataset/kimi_results.csv")
 
+LABELS = [
+    "Age of Reason",
+    "Romantic",
+    "Victorian",
+    "Modernist",
+    "Postmodern",
+]
 
-def build_prompt(chunk: str) -> str:
-    return f"""
+
+def process_one(i, row):
+    chunk = row["chunk"]
+    true_era = row["era"]
+    prompt = f"""
             Classify the literary era of the following text.
 
             Choose one:
@@ -50,41 +56,22 @@ def build_prompt(chunk: str) -> str:
 
             Answer with ONLY the era name.
             """
-
-
-def clean(pred: str | None) -> str | None:
-    if not pred:
-        return None
-
-    labels = [
-        "Age of Reason",
-        "Romantic",
-        "Victorian",
-        "Modernist",
-        "Postmodern",
-    ]
-
-    for l in labels:
-        if l.lower() in pred.lower():
-            return l
-
-    return None
-
-
-def process_one(i, row):
-    chunk = row["chunk"]
-    true_era = row["era"]
     try:
         response = client.chat.completions.create(
             model="kimi-k2.6",
             messages=[
                 {"role": "system", "content": "You are a literary scholar specializing in classifying the era of English literature."},
-                {"role": "user", "content": build_prompt(chunk)}
+                {"role": "user", "content": prompt},
             ],
             stream=False,
         )
         raw = response.choices[0].message.content
-        pred = clean(raw)
+        pred = None
+        if raw:
+            for lab in LABELS:
+                if lab.lower() in raw.lower():
+                    pred = lab
+                    break
         return i, pred, true_era
     except Exception as e:
         print(f"Error occurred while processing row {i+1}: {e}")

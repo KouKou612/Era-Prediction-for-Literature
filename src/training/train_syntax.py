@@ -1,18 +1,21 @@
 import sys
 
+import spacy
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 from sklearn.svm import LinearSVC
 from sklearn.linear_model import LogisticRegression
 
 from train_common import run_era_suite
-from syntactic_features import SyntacticFeatureExtractor, spacy_model_available
+from syntactic_features import SyntacticFeatureExtractor
 from config import RANDOM_STATE, SYNTACTIC_CONFIG
 
 
 def main():
     model_name_cfg = SYNTACTIC_CONFIG["spacy_model"]
-    if not spacy_model_available(model_name_cfg):
+    try:
+        spacy.load(model_name_cfg, disable=["ner", "lemmatizer", "attribute_ruler"])
+    except OSError:
         print(
             f"spaCy model {model_name_cfg!r} not found. "
             "Install: pip install spacy && python -m spacy download "

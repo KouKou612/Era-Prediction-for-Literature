@@ -1,24 +1,18 @@
-'''
-do this in bash before running the script:
-export DEEPSEEK_API_KEY="your_api_key_here"
-
-'''
+# export DEEPSEEK_API_KEY="your_api_key_here"
 
 import os
-import time
-import pandas as pd
-from train_common import TRAINING_DIR
 import sys
+from pathlib import Path
+import pandas as pd
 from openai import OpenAI
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
+from train_common import TRAINING_DIR
 
-import sys
-from pathlib import Path
-_SRC_DIR = Path(__file__).resolve().parent.parent
-if str(_SRC_DIR) not in sys.path:
-    sys.path.insert(0, str(_SRC_DIR))
+SRC_DIR = Path(__file__).resolve().parent.parent
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
 
 from evaluation import evaluate_model
 from logging_utils import start_logging
@@ -28,16 +22,26 @@ if not api_key:
     raise ValueError("please set the DEEPSEEK_API_KEY environment variable")
 
 client = OpenAI(
-    api_key=os.environ.get("DEEPSEEK_API_KEY"),
+    api_key=api_key,
     base_url="https://api.deepseek.com",
 )
 
 INPUT_CSV = Path("Dataset/sample_by_era_with_chunks.csv")
 OUTPUT_CSV = Path("Dataset/deepseek_results.csv")
 
+LABELS = [
+    "Age of Reason",
+    "Romantic",
+    "Victorian",
+    "Modernist",
+    "Postmodern",
+]
 
-def build_prompt(chunk: str) -> str:
-    return f"""
+
+def process_one(i, row):
+    chunk = row["chunk"]
+    true_era = row["era"]
+    prompt = f"""
             Classify the literary era of the following text.
 
             Choose one:
@@ -52,52 +56,33 @@ def build_prompt(chunk: str) -> str:
 
             Answer with ONLY the era name.
             """
-
-
-def clean(pred: str | None) -> str | None:
-    if not pred:
-        return None
-
-    labels = [
-        "Age of Reason",
-        "Romantic",
-        "Victorian",
-        "Modernist",
-        "Postmodern",
-    ]
-
-    for l in labels:
-        if l.lower() in pred.lower():
-            return l
-
-    return None
-
-def process_one(i, row):
-    chunk = row["chunk"]
-    true_era = row["era"]
     try:
         response = client.chat.completions.create(
             model="deepseek-v4-pro",
             messages=[
                 {"role": "system", "content": "You are a literary scholar specializing in classifying the era of English literature."},
-                {"role": "user", "content": build_prompt(chunk)}
+                {"role": "user", "content": prompt},
             ],
             stream=False,
         )
         raw = response.choices[0].message.content
-        pred = clean(raw)
+        pred = None
+        if raw:
+            for lab in LABELS:
+                if lab.lower() in raw.lower():
+                    pred = lab
+                    break
         return i, pred, true_era
     except Exception as e:
         print(f"Error occurred while processing row {i+1}: {e}")
         return i, None, true_era
-    
-    
+
+
 def main():
     start_logging("deepseek_run", log_dir=TRAINING_DIR)
-    
+
     df = pd.read_csv(INPUT_CSV)
 
-    # concurrent processing with ThreadPoolExecutor
     results = [None] * len(df)
     with ThreadPoolExecutor(max_workers=10) as executor:
         futures = {executor.submit(process_one, i, row): i for i, row in df.iterrows()}
@@ -106,14 +91,11 @@ def main():
             results[idx] = pred
             print(f"True: {true_era} | Pred: {pred}")
 
-
-
     df["prediction"] = results
     df.to_csv(OUTPUT_CSV, index=False)
 
     print("\nSaved to:", OUTPUT_CSV)
 
-    # evaluation
     df_eval = df.dropna(subset=["prediction"])
 
     y_true = df_eval["era"].tolist()

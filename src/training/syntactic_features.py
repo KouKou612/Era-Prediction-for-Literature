@@ -23,15 +23,6 @@ POS_TAGS = [
 ]
 
 
-def spacy_model_available(model_name="en_core_web_sm"):
-    try:
-        import spacy
-        spacy.load(model_name, disable=["ner", "lemmatizer", "attribute_ruler"])
-        return True
-    except Exception:
-        return False
-
-
 class SyntacticFeatureExtractor(BaseEstimator, TransformerMixin):
     def __init__(self, model_name="en_core_web_sm", batch_size=32):
         self.model_name = model_name
@@ -39,14 +30,14 @@ class SyntacticFeatureExtractor(BaseEstimator, TransformerMixin):
         self.nlp = None
 
     def fit(self, X, y=None):
-        if self.nlp is None:
-            import spacy
-            self.nlp = spacy.load(
-                self.model_name,
-                disable=["ner", "lemmatizer", "attribute_ruler"],
-            )
-            if "parser" not in self.nlp.pipe_names and "sentencizer" not in self.nlp.pipe_names:
-                self.nlp.add_pipe("sentencizer")
+        import spacy
+
+        self.nlp = spacy.load(
+            self.model_name,
+            disable=["ner", "lemmatizer", "attribute_ruler"],
+        )
+        if "parser" not in self.nlp.pipe_names and "sentencizer" not in self.nlp.pipe_names:
+            self.nlp.add_pipe("sentencizer")
         return self
 
     def get_feature_names_out(self, input_features=None):
@@ -55,15 +46,6 @@ class SyntacticFeatureExtractor(BaseEstimator, TransformerMixin):
         return np.array(names, dtype=object)
 
     def transform(self, X):
-        if self.nlp is None:
-            import spacy
-            self.nlp = spacy.load(
-                self.model_name,
-                disable=["ner", "lemmatizer", "attribute_ruler"],
-            )
-            if "parser" not in self.nlp.pipe_names and "sentencizer" not in self.nlp.pipe_names:
-                self.nlp.add_pipe("sentencizer")
-
         texts = [str(t) for t in X]
         features = []
         for doc in self.nlp.pipe(texts, batch_size=self.batch_size):
