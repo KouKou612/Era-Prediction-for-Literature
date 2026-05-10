@@ -120,7 +120,7 @@ Results are saved to `Dataset/deepseek_results.csv` and `Dataset/kimi_results.cs
 
 | Parameter | Value | Effect |
 |---|---|---|
-| `RANDOM_STATE` | 612 | Train/test split seed |   #set to same RANDOM_STATE for comparison
+| `RANDOM_STATE` | 612 | Train/test split seed (fixed state for comparison)|
 | `random_chunk_chars` | 10,000 | Characters per book chunk |
 | `chunk_random_state` | 42 | Chunk sampling seed |
 | `test_size` | 0.2 | 80/20 train/test split |
