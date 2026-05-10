@@ -1,103 +1,132 @@
-# Era-Prediction-for-Literature
+# Era Prediction for Literature
 
-CSCI3349.01 Final Project
+CSCI3349.01 NLP Final Project
 
-Ray's Update Version 1.0.3
+Predict the **literary era** of an English Literature Work by eras(Age of Reason, Romantic, Victorian, Modernist, Postmodern) from a text chunk sampled from Project Gutenberg.
 
-Predict **literary era** (Age of Reason, Romantic, Victorian, Modernist, Postmodern) from English prose sampled from Project Gutenberg. The project no longer trains or evaluates a separate **decade** label; preprocessing and training scripts are **era-only**.
+## Task
 
-## Layout
+Given a ~10,000-character excerpt from a book, classify it into one of five eras:
 
-- **`src/preprocessing/`** — build the corpus: sampling CSV, Gutenberg download, header/footer cleaning and quality filter (`book_select.py`, `book_download.py`, `book_clean.py`).
-- **`src/training/`** — train and evaluate models on the **era** task: `train_tfidf.py`, `train_syntax.py`, `train_ngram.py`, shared loop in `train_common.py` (`run_era_suite`), spaCy features in `syntactic_features.py`. Optional Hugging Face: `train_BERT.py` (DistilBERT). When logging is enabled, run logs are timestamped `*.txt` under `src/training/`.
-- **`src/`** (top level) — shared settings and helpers: `config.py`, `data_utils.py`, `evaluation.py`, `logging_utils.py`.
+| Era | Years |
+|---|---|
+| Age of Reason | 1700–1798 |
+| Romantic | 1798–1837 |
+| Victorian | 1837–1901 |
+| Modernist | 1901–1945 |
+| Postmodern | 1945–1974 |
 
-From the repo root, use `python3` with paths like `src/preprocessing/book_select.py` or `src/training/train_tfidf.py`.
+## Models
 
-## Pipeline (era only)
+| Model | Type | Script |
+|---|---|---|
+| TF-IDF + Majority  | Classic ML (Baseline) | `train_tfidf.py` |
+| TF-IDF + LogReg / LinearSVC | Classic ML | `train_tfidf.py` |
+| Word n-gram + LogReg / LinearSVC | Classic ML | `train_ngram.py` |
+| POS / Syntactic + LogReg / LinearSVC | Classic ML | `train_syntax.py` |
+| TextCNN | Neural | `train_CNN.py` |
+| DistilBERT (fine-tuned) | Transformer | `train_BERT.py` |
+| DeepSeek V4 Pro | LLM zero-shot | `deepseek_V4_pro.py` |
+| Kimi K2.6 | LLM zero-shot | `kimi.py` |
 
-### 1) Install requirements
+## Project Layout
 
-**Create the virtualenv in this repo’s root** (the directory that contains `requirements.txt`), not a parent folder like `final_project/`. Otherwise `python` may point at the wrong environment and imports (for example `nltk`) will fail.
-
-```bash
-cd Era-Prediction-for-Literature   # cloned project root
-python3 -m venv .venv
-source .venv/bin/activate          # Windows: .venv\Scripts\activate
-python3 -m pip install -r requirements.txt
-python3 -m pip install spacy
-python3 -m spacy download en_core_web_sm
+```
+Era-Prediction-for-Literature/
+├── Dataset/
+│   ├── gutenberg_publication_years.csv   # raw metadata
+│   ├── sample_by_era.csv                 # sampled book list (500 books)
+│   ├── sample_by_era_with_chunks.csv     # pre-extracted chunks
+│   ├── era_sample_raw/                   # downloaded Gutenberg texts
+│   └── era_sample_clean/                 # cleaned texts
+├── src/
+│   ├── config.py                         # all hyperparameters
+│   ├── data_utils.py                     # load_dataset (text loading + chunking)
+│   ├── evaluation.py                     # metrics + classification report
+│   ├── logging_utils.py                  # standard output logger (Tee)
+│   ├── wordcloud_era.py                  # word cloud visualization
+│   ├── preprocessing/
+│   │   ├── book_select.py                # sample books from metadata
+│   │   ├── book_download.py              # download from Project Gutenberg
+│   │   ├── book_clean.py                 # strip headers/footers, book filter
+│   │   └── make_chunked_csv.py           # extract chunks
+│   └── training/
+│       ├── train_common.py               # shared training loop
+│       ├── syntactic_features.py         # spaCy POS/syntactic feature extractor
+│       ├── train_tfidf.py
+│       ├── train_ngram.py
+│       ├── train_syntax.py
+│       ├── train_CNN.py
+│       ├── train_BERT.py
+│       ├── deepseek_V4_pro.py
+│       └── kimi.py
+└── requirements.txt
 ```
 
-**Era word clouds** — stay in this repo root and call **`src/wordcloud_era.py` with this repo’s Python** (not a parent folder’s `.venv`). Using the explicit path avoids importing errors (`nltk`, etc.) from the wrong environment:
+## Setup
+
+Create and activate a virtual environment from the **project root**:
 
 ```bash
 cd Era-Prediction-for-Literature
-source .venv/bin/activate
-python src/wordcloud_era.py
-# optional:
-python src/wordcloud_era.py --output-dir outputs/era_wordclouds --max-words 50
+python3 -m venv venv
+source venv/bin/activate        
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
 ```
 
-Without activating the venv (same repo root):
+## Pipeline
+
+### 1. Build the dataset
 
 ```bash
-./.venv/bin/python src/wordcloud_era.py
-# Windows:  .venv\Scripts\python.exe src\wordcloud_era.py
+python3 src/preprocessing/book_select.py    # sample metadata -> sample_by_era.csv
+python3 src/preprocessing/book_download.py  # download texts -> era_sample_raw/
+python3 src/preprocessing/book_clean.py     # clean texts -> era_sample_clean/
+python3 src/preprocessing/make_chunked_csv.py  # extract chunks -> sample_by_era_with_chunks.csv
 ```
 
-In Cursor/VS Code, choose **Python: Select Interpreter** → `.../Era-Prediction-for-Literature/.venv/bin/python` so the integrated terminal matches the commands above.
+### 2. Train classic ML and neural models
 
-### 2) Build dataset
-
-```bash
-# sample metadata -> Dataset/sample_by_era.csv
-python3 src/preprocessing/book_select.py
-
-# download Gutenberg texts -> Dataset/era_sample_raw/
-python3 src/preprocessing/book_download.py
-
-# clean texts -> Dataset/era_sample_clean/
-python3 src/preprocessing/book_clean.py
-```
-
-### 3) Train classic ML models
+Run from the **project root**:
 
 ```bash
-# TF-IDF channel
 python3 src/training/train_tfidf.py
-
-# Word n-gram channel (NLTK-based analyzer)
 python3 src/training/train_ngram.py
-
-# Syntactic/POS channel (spaCy)
 python3 src/training/train_syntax.py
-```
-
-### 4) (Optional) DistilBERT fine-tuning
-
-```bash
+python3 src/training/train_CNN.py
 python3 src/training/train_BERT.py
 ```
 
-### 5) Run all common steps in one shot
+Logs are saved as name & timestamped `.txt` files in `src/training/`.
+
+### 3. Run LLM zero-shot inference
+
+Set your API key, then run from the **project root**:
 
 ```bash
-python3 -m pip install -r requirements.txt && \
-python3 -m pip install nltk spacy && \
-python3 -m spacy download en_core_web_sm && \
-python3 src/preprocessing/book_select.py && \
-python3 src/preprocessing/book_download.py && \
-python3 src/preprocessing/book_clean.py && \
-python3 src/training/train_tfidf.py && \
-python3 src/training/train_ngram.py && \
-python3 src/training/train_syntax.py
+# DeepSeek
+export DEEPSEEK_API_KEY="your_key"
+python3 src/training/deepseek_V4_pro.py
+
+# Kimi
+export KIMI_API_KEY="your_key"
+python3 src/training/kimi.py
 ```
 
-Shared behavior: **`TRAIN_CONFIG`** uses a fixed-seed **random 10,000-character slice per book** in `data_utils.load_dataset` (unless you change `random_chunk_chars`), so TF-IDF, n-grams, and syntax see comparable text budgets.
+Results are saved to `Dataset/deepseek_results.csv` and `Dataset/kimi_results.csv`.
 
-## Changelog (high level)
+## Key Configuration (`src/config.py`)
 
-- **1.0.3** — Dropped `train_transformer.py` and `TRANSFORMER_CONFIG`; Hugging Face fine-tuning is **`train_BERT.py` only** (DistilBERT).
-- **1.0.2** — Removed the **decade** task end-to-end: no `sample_by_decade.csv`, no `decade_sample_*` paths in config or scripts, no decade metrics. Evaluation reports **era** labels in timeline order. Decade-specific corpus folders were dropped from version control; the repo is **era prediction only**.
-- **1.0.1** — Split `src/preprocessing/` vs `src/training/`, unified random 10k-char loading, syntax/n-gram improvements (NLTK n-grams in custom analyzer, etc.). See git history for detail.
+| Parameter | Value | Effect |
+|---|---|---|
+| `RANDOM_STATE` | 612 | Train/test split seed |   #set to same RANDOM_STATE for comparison
+| `random_chunk_chars` | 10,000 | Characters per book chunk |
+| `chunk_random_state` | 42 | Chunk sampling seed |
+| `test_size` | 0.2 | 80/20 train/test split |
+
+## Text Sampling
+
+- **Classic ML + BERT**: a random contiguous 10,000-character chunk is drawn from each book at load time (seed=42), roughly 1,500–2,000 words (~3–4 pages).
+- **CNN**: takes the first 10,000 words of each book (no random sampling).
+- **LLMs**: use pre-extracted chunks from `sample_by_era_with_chunks.csv`; no train/test split (zero-shot over all 500 books).
